@@ -10,10 +10,14 @@ An open collection for GPT Image 2.6 prompts, visual examples, and original sour
 
 **Framework prepared · 0 published prompts**
 
+[Source-linked case gallery](docs/CASE_GALLERY.md)
+
+Browse verified source examples, original prompts where available, and clearly separated research leads. These are not included in the published-prompt count below.
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 <!-- SLOT: top-nav. Website link remains distinct from local navigation. -->
-[Prompt collection](#collection) · [Explore by category](#categories) · [Contribute a prompt](CONTRIBUTING.md) · [Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=en)
+[Prompt collection](#collection) · [Source-linked case gallery](docs/CASE_GALLERY.md) · [Explore by category](#categories) · [Contribute a prompt](CONTRIBUTING.md) · [Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=en)
 
 <!-- SLOT: primary-cta. Use the live gallery when configured; otherwise the live homepage. -->
 **[Visit Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=en)**

@@ -10,10 +10,14 @@
 
 **框架已备好 · 0 条已发布提示词**
 
+[案例与原始来源索引](docs/CASE_GALLERY.md)
+
+查看已核对来源的案例、原文提示词入口，以及单独标注的待核实线索。这些条目不计入下方已发布提示词数量。
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 <!-- SLOT: top-nav. Website link remains distinct from local navigation. -->
-[提示词合集](#collection) · [按用途浏览](#categories) · [贡献提示词](CONTRIBUTING.md) · [Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=zh-CN)
+[提示词合集](#collection) · [案例与原始来源索引](docs/CASE_GALLERY.md) · [按用途浏览](#categories) · [贡献提示词](CONTRIBUTING.md) · [Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=zh-CN)
 
 <!-- SLOT: primary-cta. Use the live gallery when configured; otherwise the live homepage. -->
 **[访问 Raphael ↗](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
