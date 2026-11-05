@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-05 — Four creator-reported examples
+
+- Add bear SVG/PNG previews, boxing tiger animation, hummingbird animation variants, and a rosebud animation with original X posts and 11 individual media links.
+- Mark all four as creator-reported, variant unspecified and prompt not public. Keep media link-only after reviewing X restrictions and the limits of Pixexid's site license.
+- Label X-served MP4 files as video, preserve existing local assets, and show later same-day additions first in Recently added.
+- Regenerate both README files and eight new internal case pages; add MP4-format and same-day ordering regression tests.
+
 ## 2026-11-05 — README layout and internal case pages
 
 - Adapt the YouMind README structure with attribution, bilingual sections, statistics, featured cards and explicit missing-link placeholders.

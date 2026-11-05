@@ -36,13 +36,14 @@ def preview(item):
 def render_detail(item, language):
     zh = language == 'zh-CN'
     choose = lambda en, cn: cn if zh else en
+    media_heading = choose('Images / animation files', '图片 / 动画文件') if any(m['kind'] == 'video' for m in item['media']) else choose('Images / GIFs', '图片 / GIF')
     home = '../../README.zh-CN.md' if zh else '../../README.md'
     lines = [GENERATED_MARKER, '', '# ' + md_text(localized(item['title'], language)), '',
              md_link(choose('← Back to all cases', '← 返回全部案例'), home + '#all-cases'), '']
     lines += ['[English](README.md) · [简体中文](README.zh-CN.md)', '',
               '**' + label(item['source']['type'], language) + ' · ' + choose('Source-only; not independently reproduced', '仅核对来源；未独立复现') + '**', '',
               md_text(localized(item['notes'], language)), '',
-              '## ' + choose('Images / GIFs', '图片 / GIF'), '']
+              '## ' + media_heading, '']
     local_media = [m for m in item['media'] if m['path']]
     if not local_media:
         placeholder = f'../../assets/media-placeholder-{language}.svg'

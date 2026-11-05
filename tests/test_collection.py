@@ -94,6 +94,22 @@ class CollectionTests(unittest.TestCase):
         item=copy.deepcopy(self.cases[0]);item['prompt']['url']=None
         self.assertTrue(self.errors_for(item))
 
+    def test_source_linked_mp4_is_video_not_gif(self):
+        item=copy.deepcopy(next(x for x in self.cases if any(m['kind']=='video' for m in x['media'])))
+        self.assertEqual(self.errors_for(item), [])
+        media=next(m for m in item['media'] if m['kind']=='video')
+        media['kind']='gif'
+        self.assertTrue(any('MP4 sources' in x for x in self.errors_for(item)))
+
+    def test_same_day_latest_uses_collection_order(self):
+        cases=copy.deepcopy(self.cases[:2])
+        cases[0]['id']='zz-older';cases[1]['id']='aa-newer'
+        cases[0]['added_at']=cases[1]['added_at']='2026-11-05'
+        with patch('homepage.read_cases',return_value=cases):
+            text=render_readme(self.config,self.prompts,'en')
+        latest=text.split('<a id="latest"></a>',1)[1].split('<a id="all-cases"></a>',1)[0]
+        self.assertLess(latest.index('cases/aa-newer/'),latest.index('cases/zz-older/'))
+
     def media_item(self):
         return copy.deepcopy(next(x for x in self.cases if x['media']))
 

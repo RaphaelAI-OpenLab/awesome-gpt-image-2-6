@@ -1727,5 +1727,351 @@
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
     "featured": false
+  },
+  {
+    "id": "community-bear-svg-comparison",
+    "status": "published",
+    "title": {
+      "en": "Bear mascot: SVG versus PNG previews",
+      "zh-CN": "熊吉祥物：SVG 与 PNG 输出预览对比"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://x.com/pixexid/status/2118153375464505689",
+      "author": "pixexid (@pixexid)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly attributes the SVG/PNG comparison to GPT Image 2.6. Variant, settings and exact prompt are not disclosed.",
+        "zh-CN": "作者明确将这组 SVG/PNG 对比归因于 GPT Image 2.6，未公开具体版本、参数或原始提示词。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWUw0tfaQAAol4Q?format=webp&name=large",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Raster preview of the claimed SVG bear result",
+          "zh-CN": "作者所称 SVG 熊吉祥物输出的栅格预览"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "pixexid (@pixexid)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Raster preview of the claimed PNG bear result",
+          "zh-CN": "作者所称 PNG 熊吉祥物输出的栅格预览"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "pixexid (@pixexid)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two bear mascots against mountain scenery. The creator compares a simple SVG result with a more detailed PNG result from the same undisclosed prompt. Published 2026-11-05 01:28 UTC. The linked WebP files are X-served raster previews, not original SVG or PNG downloads. Original post and both visible images checked; not independently reproduced. Media remains source-linked pending reuse permission.",
+      "zh-CN": "两幅山景背景的熊吉祥物。作者比较同一未公开提示词的简化 SVG 输出与更细致的 PNG 输出。原帖发布于 2026-11-05 01:28 UTC。所列 WebP 是 X 提供的栅格预览，不是 SVG 或 PNG 原文件。已查看原帖和两幅图片，未独立复现。素材等待核实转载依据，暂保留来源链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "community-boxing-tiger",
+    "status": "published",
+    "title": {
+      "en": "Boxing tiger animation",
+      "zh-CN": "拳击老虎动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/baiji57165/status/2118176730079007145",
+      "author": "Archiefff (@baiji57165)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly says this animal-fight animation was made with Images 2.6 GIFs. The API variant and exact prompt are not disclosed.",
+        "zh-CN": "作者明确称动物拳击动画由 Images 2.6 GIF 功能制作，未公开 API 版本或原始提示词。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "X-served MP4 of the boxing tiger animation",
+          "zh-CN": "X 提供的拳击老虎动画 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Archiefff (@baiji57165)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static boxing tiger preview, not a GIF",
+          "zh-CN": "拳击老虎静态预览，不是 GIF"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Archiefff (@baiji57165)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A tiger wears red boxing gloves and a red headband. Published 2026-11-05 03:01 UTC. The post labels its attachment as a GIF, but X serves the accessible animation as MP4. The MP4 is not the original GIF file. The original post and visible preview were checked; playback quality and reproduction were not tested. Media remains source-linked pending reuse permission.",
+      "zh-CN": "老虎戴着红色拳击手套和头带。原帖发布于 2026-11-05 03:01 UTC。帖子将附件标为 GIF，但 X 提供的可访问动画为 MP4，不是 GIF 原文件。已查看原帖和可见预览，未测试播放质量或独立复现。素材等待核实转载依据，暂保留来源链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "community-hummingbird-variants",
+    "status": "published",
+    "title": {
+      "en": "Hummingbird animation variants",
+      "zh-CN": "蜂鸟动画多版本"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Dheepanratnam/status/2118138765487100027",
+      "author": "Dheepan Ratnam (@Dheepanratnam)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator identifies the animation workflow as GPT 2.6 images in a reply to the official Images 2.6 launch. Variant, exact prompt and interpolation details are not disclosed.",
+        "zh-CN": "作者在 Images 2.6 官方发布帖的回复中明确以 GPT 2.6 images 描述该动画流程，未公开具体版本、提示词或补帧细节。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUjhD1WoAA4H3e.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "Animation variant 1, X-served MP4",
+          "zh-CN": "动画版本 1，X 提供的 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Dheepan Ratnam (@Dheepanratnam)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUjjV8WEAA1Msj.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "Animation variant 2, X-served MP4",
+          "zh-CN": "动画版本 2，X 提供的 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Dheepan Ratnam (@Dheepanratnam)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUjlaLW0AAZPL5.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "Animation variant 3, X-served MP4",
+          "zh-CN": "动画版本 3，X 提供的 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Dheepan Ratnam (@Dheepanratnam)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUjnGlWsAA1ptO.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "Animation variant 4, X-served MP4",
+          "zh-CN": "动画版本 4，X 提供的 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Dheepan Ratnam (@Dheepanratnam)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWUjhD1WoAA4H3e?format=webp&name=large",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static hummingbird and hibiscus preview, not a GIF",
+          "zh-CN": "蜂鸟与朱槿花静态预览，不是 GIF"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Dheepan Ratnam (@Dheepanratnam)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The post contains four animation attachments; the visible preview shows a hummingbird beside a pink hibiscus. The creator describes a nine-frame-to-24-fps workflow. Published 2026-11-05 00:30 UTC. Treat all four attachments as one workflow, not four independent cases. X serves MP4s; no original GIF or sprite-sheet download was verified. The workflow and frame-rate claim were not independently tested. Media remains source-linked pending reuse permission.",
+      "zh-CN": "原帖包含四个动画附件，可见预览为粉色朱槿花旁的蜂鸟。作者描述了从 9 帧到 24 fps 的流程。原帖发布于 2026-11-05 00:30 UTC。四个附件合并为一个工作流，不分拆计为四个案例。X 提供 MP4，未核实 GIF 或精灵图原文件；未独立验证流程与帧率。素材等待核实转载依据，暂保留来源链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "community-rosebud-animation",
+    "status": "published",
+    "title": {
+      "en": "Rosebud animation",
+      "zh-CN": "玫瑰花蕾动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Michaelzsguo/status/2118134837357744435",
+      "author": "Michael Guo (@Michaelzsguo)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The Chinese caption explicitly attributes this animation experiment to ChatGPT Images 2.6. No Sunburst/Flare variant is specified.",
+        "zh-CN": "中文配文明示这次动图尝试使用 ChatGPT Images 2.6，未注明 Sunburst 或 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4",
+        "path": null,
+        "kind": "video",
+        "alt": {
+          "en": "X-served MP4 of the rosebud animation",
+          "zh-CN": "X 提供的玫瑰花蕾动画 MP4"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Michael Guo (@Michaelzsguo)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static rosebud preview, not a GIF",
+          "zh-CN": "玫瑰花蕾静态预览，不是 GIF"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "credit": "Michael Guo (@Michaelzsguo)",
+          "note": {
+            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
+            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A red rosebud covered with water droplets appears in the animation preview. Published 2026-11-05 00:14 UTC. The creator says he tried ChatGPT Images 2.6 animation. X labels the attachment GIF but serves MP4; neither an original GIF nor a prompt was published in the checked post. The original post and visible preview were checked, without testing animation quality or reproducing it. Media remains source-linked pending reuse permission.",
+      "zh-CN": "动画预览为沾有水滴的红色玫瑰花蕾。原帖发布于 2026-11-05 00:14 UTC，作者称尝试制作 ChatGPT Images 2.6 动图。X 将附件标为 GIF，但提供 MP4；所核对原帖未公开 GIF 原文件或提示词。已查看原帖及预览，未测试动画质量或独立复现。素材等待核实转载依据，暂保留来源链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
   }
 ]

@@ -42,8 +42,8 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 10 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 7 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 2 | 0 |
-| [GIF 与动画](#category-gif-animation) | 7 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 3 | 0 |
+| [GIF 与动画](#category-gif-animation) | 10 | 0 |
 
 <a id="contents"></a>
 
@@ -75,9 +75,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **39** |
+| 来源案例 | **43** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **2** |
+| 社区作者自报案例 | **6** |
 | 来源公开原始提示词 | **33** |
 | 仓库内完整提示词 | **0** |
 | 本地收录原始素材 | **3** |
@@ -110,12 +110,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-05 | [旅行视觉生成速度对比](cases/launch-travel/README.zh-CN.md) | 官方发布演示 |
-| 2026-11-05 | [Monty 打字状态动画](cases/launch-town/README.zh-CN.md) | 官方发布演示 |
-| 2026-11-05 | [品牌产品微缩场景](cases/launch-sable/README.zh-CN.md) | 官方发布演示 |
-| 2026-11-05 | [彩色玻璃鲸鱼](cases/launch-picsart/README.zh-CN.md) | 官方发布演示 |
-| 2026-11-05 | [猫头鹰草图变动画](cases/launch-owl/README.zh-CN.md) | 官方发布演示 |
-| 2026-11-05 | [股价上涨的办公角色 GIF](cases/launch-openart-up/README.zh-CN.md) | 官方发布演示 |
+| 2026-11-05 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [蜂鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [夏日角色插画动画](cases/community-malfoid/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | [面包店 SVG 标志](cases/docs-bakery-svg/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [农夫市场手机界面](cases/docs-market-ui/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
+| [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-gif-animation"></a>
 
@@ -215,6 +216,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Monty 打字状态动画](cases/launch-town/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
 | [夏日角色插画动画](cases/community-malfoid/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [蜂鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

@@ -42,8 +42,8 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 10 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 7 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 2 | 0 |
-| [GIF & animation](#category-gif-animation) | 7 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
+| [GIF & animation](#category-gif-animation) | 10 | 0 |
 
 <a id="contents"></a>
 
@@ -75,9 +75,9 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **39** |
+| Source-linked cases | **43** |
 | Official examples | **37** |
-| Creator-reported examples | **2** |
+| Creator-reported examples | **6** |
 | Original prompts available at source | **33** |
 | Full prompts published here | **0** |
 | Locally hosted original media | **3** |
@@ -110,12 +110,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-05 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Official launch demo |
-| 2026-11-05 | [Monty typing indicator animation](cases/launch-town/README.md) | Official launch demo |
-| 2026-11-05 | [Miniature brand product world](cases/launch-sable/README.md) | Official launch demo |
-| 2026-11-05 | [Stained-glass whale](cases/launch-picsart/README.md) | Official launch demo |
-| 2026-11-05 | [Owl sketch to animation](cases/launch-owl/README.md) | Official launch demo |
-| 2026-11-05 | [Office character: rising stock GIF](cases/launch-openart-up/README.md) | Official launch demo |
+| 2026-11-05 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model |
+| 2026-11-05 | [Hummingbird animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model |
+| 2026-11-05 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Creator-reported model |
+| 2026-11-05 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Creator-reported model |
+| 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Creator-reported model |
+| 2026-11-05 | [Summer character illustration animation](cases/community-malfoid/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Official documentation | Original prompt at source |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Official documentation | Original prompt at source |
+| [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
 
@@ -215,6 +216,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Monty typing indicator animation](cases/launch-town/README.md) | Official launch demo | Prompt not public |
 | [Summer character illustration animation](cases/community-malfoid/README.md) | Creator-reported model | Prompt not public |
 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Creator-reported model | Prompt not public |
+| [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Creator-reported model | Prompt not public |
+| [Hummingbird animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model | Prompt not public |
+| [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

@@ -70,7 +70,9 @@ def render_home(config, prompts, language, render_prompt):
     lines += [c('Placeholder cards are not generated results. All displayed media files live in this repository; media not yet archived stays linked on the detail pages.', '占位卡片不是生成结果。展示素材均使用仓库本地文件；暂未入库的原素材在详情页保留来源链接；已入库素材逐条注明授权状态，未确认许可证的不标为开放许可。'),'']
     lines += heading('latest','🆕 Recently added','🆕 最近收录')
     lines += ['| '+c('Added | Case | Evidence','收录日期 | 案例 | 依据')+' |','| --- | --- | --- |']
-    for item in sorted(cases,key=lambda x:(x['added_at'],x['id']),reverse=True)[:config['presentation']['latest_limit']]:
+    # Entries append to the dataset; preserve collection order within one UTC date.
+    latest = sorted(enumerate(cases), key=lambda pair: (pair[1]['added_at'], pair[0]), reverse=True)
+    for _, item in latest[:config['presentation']['latest_limit']]:
         lines += [f"| {item['added_at']} | {case_link(item)} | {label(item['source']['type'],language)} |"]
     lines += ['']+heading('all-cases','📋 All cases','📋 全部案例')
     for category in config['categories']:

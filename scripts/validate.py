@@ -284,6 +284,10 @@ def validate_source_cases(config, cases, prompts, errors):
             mname = f'{name}.media[{mindex}]'
             if not is_https_url(media['source_url']):
                 errors.append(f'{mname}.source_url: expected original HTTPS asset URL')
+            if urlsplit(media['source_url']).path.lower().endswith('.mp4') and media['kind'] != 'video':
+                errors.append(f'{mname}.kind: MP4 sources must be labelled video, not GIF/image')
+            if media['kind'] == 'video' and media['rights']['status'] != 'link-only':
+                errors.append(f'{mname}: videos currently support source links only')
             for lang in ('en', 'zh-CN'):
                 if not media['alt'][lang].strip() or not media['rights']['note'][lang].strip():
                     errors.append(f'{mname}: bilingual alt and rights note required')
