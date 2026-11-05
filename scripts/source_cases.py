@@ -30,7 +30,7 @@ def page_path(item, language):
 
 
 def preview(item):
-    return next((m for m in item['media'] if m['path']), None)
+    return next((m for m in item['media'] if m['path'] and m['kind'] != 'video' and m.get('role', 'output') != 'reference'), None)
 
 
 def render_detail(item, language):
@@ -48,11 +48,17 @@ def render_detail(item, language):
     if not local_media:
         placeholder = f'../../assets/media-placeholder-{language}.svg'
         lines += [f"![{choose('Placeholder, not model output', '占位图，不是模型输出')}]({placeholder})", '',
-                  '**' + choose('PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.', '占位：原始素材暂未入库，尚未核实转载许可。') + '**', '',
+                  '**' + choose('PLACEHOLDER: media not archived. See the source links and item-level availability notes below.', '占位：素材暂未入库，请查看下方来源链接及逐项获取状态。') + '**', '',
                   md_link(choose('View the work at its original source', '到原始来源查看作品'), item['source']['url']), '']
     for media in item['media']:
         if media['path']:
-            lines += [f"![{md_text(localized(media['alt'], language))}]({md_url('../../' + media['path'])})", '']
+            local_path = '../../' + media['path']
+            if media['kind'] == 'video':
+                lines += [md_link(choose('Open local video file', '打开仓库内视频文件'), local_path), '']
+            else:
+                lines += [f"![{md_text(localized(media['alt'], language))}]({md_url(local_path)})", '']
+            if media.get('role') == 'reference':
+                lines += ['**' + choose('Reference/input image, not a generated output.', '参考 / 输入图，不是生成结果。') + '**', '']
         lines += ['- ' + md_link(localized(media['alt'], language), media['source_url']) + ' · ' + media['kind'],
                   '  - ' + choose('Credit: ', '署名：') + md_text(media['rights']['credit']),
                   '  - ' + choose('Reuse: ', '使用条件：') + media['rights']['status'] + '. ' + md_text(localized(media['rights']['note'], language))]

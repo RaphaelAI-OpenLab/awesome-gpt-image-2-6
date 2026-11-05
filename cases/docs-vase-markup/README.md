@@ -12,12 +12,26 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table](../../assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+![GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed](../../assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+- [GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+![Reference input: Kitchen photo with a red circle around the striped vase on the dining table](../../assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp)
 
+**Reference/input image, not a generated output.**
+
+- [Reference input: Kitchen photo with a red circle around the striped vase on the dining table](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
 ## Original prompt
 

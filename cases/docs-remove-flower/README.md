@@ -12,12 +12,26 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Same man after the flower has been removed — GPT Image 2.6 Flare (official model output)](../../assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [Same man after the flower has been removed — GPT Image 2.6 Flare (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+![Same man after the flower has been removed — GPT Image 2.6 Sunburst (official model output)](../../assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+- [Same man after the flower has been removed — GPT Image 2.6 Sunburst (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+![Reference input: Man holding a flower and wearing a blue cap](../../assets/references/docs-remove-flower/man-with-blue-hat.webp)
 
+**Reference/input image, not a generated output.**
+
+- [Reference input: Man holding a flower and wearing a blue cap](https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
 
 ## Original prompt
 

@@ -14,29 +14,29 @@ The post contains four animation attachments; the visible preview shows a hummin
 
 ![Placeholder, not model output](../../assets/media-placeholder-en.svg)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+**PLACEHOLDER: media not archived. See the source links and item-level availability notes below.**
 
 [View the work at its original source](https://x.com/Dheepanratnam/status/2118138765487100027)
 
 - [Animation variant 1, X-served MP4](https://video.twimg.com/tweet_video/HWUjhD1WoAA4H3e.mp4) · video
   - Credit: Dheepan Ratnam (@Dheepanratnam)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [Animation variant 2, X-served MP4](https://video.twimg.com/tweet_video/HWUjjV8WEAA1Msj.mp4) · video
   - Credit: Dheepan Ratnam (@Dheepanratnam)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [Animation variant 3, X-served MP4](https://video.twimg.com/tweet_video/HWUjlaLW0AAZPL5.mp4) · video
   - Credit: Dheepan Ratnam (@Dheepanratnam)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [Animation variant 4, X-served MP4](https://video.twimg.com/tweet_video/HWUjnGlWsAA1ptO.mp4) · video
   - Credit: Dheepan Ratnam (@Dheepanratnam)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [Static hummingbird and hibiscus preview, not a GIF](https://pbs.twimg.com/tweet_video_thumb/HWUjhD1WoAA4H3e?format=webp&name=large) · poster
   - Credit: Dheepan Ratnam (@Dheepanratnam)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 
 ## Original prompt

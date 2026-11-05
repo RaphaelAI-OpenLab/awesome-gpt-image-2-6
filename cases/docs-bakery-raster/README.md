@@ -12,12 +12,18 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![GPT Image 2.6 Flare output: Flare raster logo with a loaf above curved field rows and the stacked Field & Flour wordmark.](../../assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [GPT Image 2.6 Flare output: Flare raster logo with a loaf above curved field rows and the stacked Field & Flour wordmark.](https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+![GPT Image 2.6 Sunburst output: Sunburst raster logo with golden wheat flanking a loaf above the Field & Flour wordmark.](../../assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
-
+- [GPT Image 2.6 Sunburst output: Sunburst raster logo with golden wheat flanking a loaf above the Field & Flour wordmark.](https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
 
 ## Original prompt
 

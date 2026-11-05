@@ -12,18 +12,20 @@ The fal tab shows the original markup edit prompt: blue cushion, removal of the 
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Source image 1](../../assets/references/launch-fal/source-01.png)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+**Reference/input image, not a generated output.**
 
 - [Source image 1](https://images.ctfassets.net/kftzwdyauwt9/50IFJAzURDJeFT6j7jU9Cy/727871e6953a56bebb783f7c884f832f/images-2-6-fal-before.png) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 2](../../assets/examples/launch-fal/source-02.png)
+
 - [Source image 2](https://images.ctfassets.net/kftzwdyauwt9/mOBUDnc6RlTLi1KU5S19r/2646cf2f1db9cfdf93250f201e8ab5de/images-2-6-fal-after.png) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## Original prompt
 

@@ -12,21 +12,24 @@ Multi-step editing requires the initial image, not a standalone text-to-image pr
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 1](../../assets/examples/launch-higgsfield/source-01.webp)
 
 - [Source image 1](https://images.ctfassets.net/kftzwdyauwt9/3bU4mZlfoshL05B5nlKuXY/d34032552f29bfef5eeb39533ebe7c61/images-2-6-higgsfield-scene-edit-1.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 2](../../assets/examples/launch-higgsfield/source-02.webp)
+
 - [Source image 2](https://images.ctfassets.net/kftzwdyauwt9/5hDxN1poa1hFkj3ZTSLxqX/42fdc0fc4612cf83a695d63e20abb572/images-2-6-higgsfield-scene-edit-2.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 3](../../assets/examples/launch-higgsfield/source-03.webp)
+
 - [Source image 3](https://images.ctfassets.net/kftzwdyauwt9/3JTfW1LWizYXThKdWaLNrt/a4a9b72ac3ed9909303e594ad0236243/images-2-6-higgsfield-scene-edit-3.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## Original prompt
 

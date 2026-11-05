@@ -12,12 +12,50 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Woman wearing the supplied clothing items — GPT Image 2.6 Flare (official model output)](../../assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [Woman wearing the supplied clothing items — GPT Image 2.6 Flare (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/outfit-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+![Woman wearing the supplied clothing items — GPT Image 2.6 Sunburst (official model output)](../../assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+- [Woman wearing the supplied clothing items — GPT Image 2.6 Sunburst (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/outfit-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+![Reference input: Gray boots used as a clothing reference](../../assets/references/docs-outfit/boots.webp)
 
+**Reference/input image, not a generated output.**
+
+- [Reference input: Gray boots used as a clothing reference](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+![Reference input: Beige jacket used as a clothing reference](../../assets/references/docs-outfit/jacket.webp)
+
+**Reference/input image, not a generated output.**
+
+- [Reference input: Beige jacket used as a clothing reference](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+![Reference input: White tank top used as a clothing reference](../../assets/references/docs-outfit/tank-top.webp)
+
+**Reference/input image, not a generated output.**
+
+- [Reference input: White tank top used as a clothing reference](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+![Reference input: Woman in a museum used as the identity reference](../../assets/references/docs-outfit/woman-in-museum.webp)
+
+**Reference/input image, not a generated output.**
+
+- [Reference input: Woman in a museum used as the identity reference](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
 ## Original prompt
 

@@ -12,20 +12,16 @@
 
 ## 图片 / 动画文件
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://x.com/Michaelzsguo/status/2118134837357744435)
-
 - [X 提供的玫瑰花蕾动画 MP4](https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4) · video
   - 署名：Michael Guo (@Michaelzsguo)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
+  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
   - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+![玫瑰花蕾静态预览，不是 GIF](../../assets/examples/community-rosebud-animation/source-02.webp)
+
 - [玫瑰花蕾静态预览，不是 GIF](https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large) · poster
   - 署名：Michael Guo (@Michaelzsguo)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。
+  - [来源 / 权利依据](https://x.com/Michaelzsguo/status/2118134837357744435)
 
 ## 原始提示词
 

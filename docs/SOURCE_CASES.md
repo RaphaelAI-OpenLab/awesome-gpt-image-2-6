@@ -17,22 +17,22 @@
 2. Record the exact source URL, creator and model evidence for that specific work. A page mentioning 2.6 does not prove every image used it. Use `variants: ["unspecified"]` when the variant is unknown.
 3. Add English and Chinese titles, notes and evidence, an existing category, and ISO collection/check dates. Community creator claims use `source.type: community`, not independent verification.
 4. For a public original prompt, set `prompt.status: source-only` and its exact HTTPS URL. Otherwise use `not-public` with `url: null`.
-5. Add original media links when known. Unknown source URLs are not fabricated. Without reuse permission use `rights.status: link-only`, `path: null`, and a clear rights note. The original work stays accessible through the source.
+5. Add original media links when known. Unknown source URLs are not fabricated. Archive normally accessible public examples with truthful provenance and use status. Use `rights.status: link-only`, `path: null` for explicit redistribution restrictions, access failures or unresolved files, with the precise reason.
 6. Run the commands below, inspect the generated pages, then commit the data, code if changed, local assets and generated pages together. Read the latest remote head before publishing; never force-push over newer work.
 
-## Store approved media / 收录有依据的素材
+## Store media with provenance / 收录素材与来源
 
-素材必须记录来源与真实使用状态。公开可见、注明来源、AI 生成、出现在官方网页，均不自动等于获得转载许可。本轮按用户要求，将可正常获取且未发现明确禁止的少量官方 AI 示例原样存档，使用 `source-attributed` 明确标注未找到转载许可证；这不是开放许可或法律结论。明确限制必须遵守，不绕过访问控制。
+素材必须记录来源与真实使用状态。公开可见、注明来源、AI 生成、出现在官方网页，均不自动等于获得转载许可。可正常获取且未发现明确禁止的公开案例可原样存档，使用 `source-attributed` 明确标注未找到转载许可证；这不是开放许可或法律结论。首页版权声明不自动赋予许可。明确限制必须遵守，不绕过访问控制。
 
 - Store example files at `assets/examples/<id>/` and required inputs at `assets/references/<id>/`. Do not hotlink image/GIF/SVG displays.
-- Each source-case media object records its original `source_url`, local `path`, `kind` (`image`, `gif`, `svg`, `poster`), bilingual alt text and `rights`.
-- Use `licensed`, `permission` or `original` only when supported. `source-attributed` is reserved for a public official example archived with its exact source and an explicit note that a redistribution license was not located; do not present it as permission or extend it to unrelated third-party works. Record `rights.evidence_url` as an exact HTTPS license/permission link, the original official source for source-attributed media, or a public-safe in-repository evidence file. Include `credit` and bilingual limitations in `note`. Do not upload private email, secrets or personal data as evidence.
+- Each source-case media object records its original `source_url`, local `path`, `kind` (`image`, `gif`, `svg`, `poster`, `video`), bilingual alt text and `rights`. Use `role: reference` for input/reference files in `assets/references/<id>/`, and `role: output` for generated outputs. Local files also require actual `mime_type`, `bytes` and SHA-256 `sha256`; the validator checks bytes, extension and media kind.
+- Use `licensed`, `permission` or `original` only when supported. `source-attributed` records a public example archived with its exact original source and an explicit note that a redistribution license was not located; do not present it as permission or an open license. Record `rights.evidence_url` as an exact HTTPS license/permission link, the exact original source for source-attributed media, or a public-safe in-repository evidence file. Include `credit` and bilingual limitations in `note`. Do not upload private email, secrets or personal data as evidence.
 - A `link-only` object must not have a local path. Local media must have source/rights evidence, exist at the required path and be at most 10 MiB each. A static poster is not a GIF; label it correctly.
-- Use `kind: video` for source-linked MP4 animations, including X attachments labelled GIF by the interface. Videos currently remain link-only; do not mislabel MP4 URLs as original GIF files. The [2026-11-05 community rights review](MEDIA_RIGHTS_2026-11-05.md) explains why four creator cases retain source links rather than mirrored files.
+- Use `kind: video` for MP4 animations, including X attachments labelled GIF by the interface. Local MP4 files use a repository download link, not image markup. Prefer a separately recorded local poster for image previews. Never mislabel MP4 as an original GIF. The [2026-11-05 media report](MEDIA_RIGHTS_2026-11-05.md) distinguishes archived media, unknown licensing and actual HTTP 403 failures.
 - View image pixels and play GIFs before describing their visual quality. Verify SVGs have no scripts, embedded secrets or external resource dependencies. Do not claim a playback/render check that was not run.
 - For complete prompt entries, keep preview/reference files local too and record applicable rights. A third-party preview with permission/licensing must have a `rights.license_url`; attribution alone is insufficient.
 
-本轮原样收录 3 个官方文档示例文件（2 个 SVG、1 个 GIF），明确标注未找到转载许可证；其余素材仍链接原作。占位图明确写明“素材暂未入库”，不计入本地原始素材数量。补齐相应素材及来源/使用状态后，页面自动显示，无需手工改 README。
+已入库素材按记录自动显示，统计从数据源计算。参考输入、静态海报、原始动画和栅格预览须区分；占位图不计入素材数量。HTTP 403 等失败必须记录实际原因，不能写成“作者禁止转载”。补齐文件与来源 / 使用状态后重新生成，无需手改 README。
 
 ## Build and checks / 构建与检查
 

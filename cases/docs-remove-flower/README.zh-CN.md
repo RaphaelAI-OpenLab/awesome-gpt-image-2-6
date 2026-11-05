@@ -12,12 +12,26 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Flare 输出）](../../assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+- [移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Flare 输出）](https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-flare.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+![移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Sunburst 输出）](../../assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp)
 
-[到原始来源查看作品](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+- [移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Sunburst 输出）](https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-sunburst.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+![参考输入图：戴蓝帽、手持花朵的男子照片](../../assets/references/docs-remove-flower/man-with-blue-hat.webp)
 
+**参考 / 输入图，不是生成结果。**
+
+- [参考输入图：戴蓝帽、手持花朵的男子照片](https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
 
 ## 原始提示词
 

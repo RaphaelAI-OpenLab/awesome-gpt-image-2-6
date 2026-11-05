@@ -12,20 +12,16 @@ A red rosebud covered with water droplets appears in the animation preview. Publ
 
 ## Images / animation files
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://x.com/Michaelzsguo/status/2118134837357744435)
-
 - [X-served MP4 of the rosebud animation](https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4) · video
   - Credit: Michael Guo (@Michaelzsguo)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+![Static rosebud preview, not a GIF](../../assets/examples/community-rosebud-animation/source-02.webp)
+
 - [Static rosebud preview, not a GIF](https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large) · poster
   - Credit: Michael Guo (@Michaelzsguo)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
-  - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.
+  - [Provenance / rights evidence](https://x.com/Michaelzsguo/status/2118134837357744435)
 
 ## Original prompt
 

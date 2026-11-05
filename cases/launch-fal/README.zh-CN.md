@@ -12,18 +12,20 @@ fal 标签展示原始标注编辑提示词：蓝色坐垫、移除植物与地�
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![编辑前](../../assets/references/launch-fal/source-01.png)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+**参考 / 输入图，不是生成结果。**
 
 - [编辑前](https://images.ctfassets.net/kftzwdyauwt9/50IFJAzURDJeFT6j7jU9Cy/727871e6953a56bebb783f7c884f832f/images-2-6-fal-before.png) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![编辑后](../../assets/examples/launch-fal/source-02.png)
+
 - [编辑后](https://images.ctfassets.net/kftzwdyauwt9/mOBUDnc6RlTLi1KU5S19r/2646cf2f1db9cfdf93250f201e8ab5de/images-2-6-fal-after.png) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## 原始提示词
 

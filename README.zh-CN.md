@@ -8,7 +8,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 [MIT · 代码与原创文档](LICENSE) · [欢迎贡献](CONTRIBUTING.md) · [自动校验](https://github.com/netlogs/awesome-gpt-image-2-6/actions)
 
-> 第三方提示词与素材保留各自权利；署名不等于转载许可。来源、模型或使用权问题请按贡献指南反馈。
+⚠️ **版权声明**：本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/netlogs/awesome-gpt-image-2-6/issues/new)，我们将立即移除。
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
@@ -80,7 +80,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | 社区作者自报案例 | **6** |
 | 来源公开原始提示词 | **33** |
 | 仓库内完整提示词 | **0** |
-| 本地收录原始素材 | **3** |
+| 本地收录素材文件 | **84** |
 | 最近来源核对（UTC） | **2026-11-05** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -93,11 +93,11 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 <tr>
 <td width="33%" align="center"><a href="cases/docs-bakery-svg/README.zh-CN.md"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="280" /><br /><strong>面包店 SVG 标志</strong></a><br />官方文档</td>
 <td width="33%" align="center"><a href="cases/docs-lantern-gif/README.zh-CN.md"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="提灯猴原始 GIF" width="280" /><br /><strong>提灯猴循环 GIF</strong></a><br />官方文档</td>
-<td width="33%" align="center"><a href="cases/launch-fal/README.zh-CN.md"><img src="assets/media-placeholder-zh-CN.svg" alt="占位图，不是模型输出" width="280" /><br /><strong>客厅标注编辑</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="cases/launch-fal/README.zh-CN.md"><img src="assets/examples/launch-fal/source-02.png" alt="编辑后" width="280" /><br /><strong>客厅标注编辑</strong></a><br />官方发布演示</td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="cases/launch-sable/README.zh-CN.md"><img src="assets/media-placeholder-zh-CN.svg" alt="占位图，不是模型输出" width="280" /><br /><strong>品牌产品微缩场景</strong></a><br />官方发布演示</td>
-<td width="33%" align="center"><a href="cases/launch-higgsfield/README.zh-CN.md"><img src="assets/media-placeholder-zh-CN.svg" alt="占位图，不是模型输出" width="280" /><br /><strong>骑士连续换景换装</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="cases/launch-sable/README.zh-CN.md"><img src="assets/examples/launch-sable/source-01.webp" alt="产品场景" width="280" /><br /><strong>品牌产品微缩场景</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="cases/launch-higgsfield/README.zh-CN.md"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="280" /><br /><strong>骑士连续换景换装</strong></a><br />官方发布演示</td>
 <td width="33%" align="center"><a href="cases/community-malfoid/README.zh-CN.md"><img src="assets/media-placeholder-zh-CN.svg" alt="占位图，不是模型输出" width="280" /><br /><strong>夏日角色插画动画</strong></a><br />作者自报模型</td>
 </tr>
 </table>

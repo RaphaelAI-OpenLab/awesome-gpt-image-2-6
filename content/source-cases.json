@@ -26,7 +26,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them.",
+          "zh-CN": "纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，高复杂度）"
+        },
+        "sha256": "939b079ef331a60d8334044e871a1e5353308998307974476504bd18b538dec8",
+        "bytes": 224608,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Sunburst output: Players in red lift a trophy topped with a crown. A CHAMPIONS banner spans the foreground.",
+          "zh-CN": "纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，低复杂度）"
+        },
+        "sha256": "3416bc29fbc252f8b81bffd041336850595f365222b9aec292a42190be36efe4",
+        "bytes": 261910,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Sunburst output: Players in red shirts with team crests lift a trophy decorated with a laurel wreath above a CHAMPIONS banner.",
+          "zh-CN": "纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，中复杂度）"
+        },
+        "sha256": "4b19732ea57c1df135cff69ed5cde764314466def4aa38974a571ad68238b9b3",
+        "bytes": 236090,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -80,7 +147,11 @@
             "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
             "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
           }
-        }
+        },
+        "sha256": "9c6c7a853ce688fdb4af777c3cdb6fdc31267a555270b9e6e83f2e9314419329",
+        "bytes": 4976,
+        "mime_type": "image/svg+xml",
+        "role": "output"
       },
       {
         "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/field-and-flour-gpt-image-2-6-sunburst.svg",
@@ -98,7 +169,11 @@
             "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
             "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
           }
-        }
+        },
+        "sha256": "cab94c1c93381cac7b2b1a04ee7b04303267ecf1161e5d108186ad523723480a",
+        "bytes": 4571,
+        "mime_type": "image/svg+xml",
+        "role": "output"
       }
     ],
     "notes": {
@@ -153,7 +228,11 @@
             "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
             "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
           }
-        }
+        },
+        "sha256": "5d786a550b93a24fed3aec36725eab00f767cb4aa84985027004e40eb6c61f52",
+        "bytes": 1280950,
+        "mime_type": "image/gif",
+        "role": "output"
       }
     ],
     "notes": {
@@ -192,7 +271,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-sailor/photorealism-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "写实的渔船水手修补渔网肖像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "a62044b4b878bff5193349ad8ef0d2e4d98420010201705f4adc0638e736e6fe",
+        "bytes": 219068,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-sailor/photorealism-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "写实的渔船水手修补渔网肖像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "1c1a8446c094ea93102ad6664e76b3b75f3475fcc9c3c98e5c1762dbd4ba4a44",
+        "bytes": 215808,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -229,7 +353,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Diagram explaining an automatic coffee machine — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "展示自动咖啡机工作流程的示意图（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "800113bc9d5e0a00755d736dc750b9b39d480f4250d1d18612aba34413d7ab64",
+        "bytes": 216402,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Diagram explaining an automatic coffee machine — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "展示自动咖啡机工作流程的示意图（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "45eb4af6120c0770d79dbfe6d9c5ef3c2562f092cc6642b706a16c96d1e676d7",
+        "bytes": 253834,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -266,7 +435,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Thread streetwear campaign with the requested tagline — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "b72baae7df9ca1d3d477f8b05c16107bcf1f73ff85364a3bcaddb551f1fc9177",
+        "bytes": 211254,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Thread streetwear campaign with the requested tagline — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "cc8db1ff218d921c139ed3e6774f2a784072e6872d0d6c941bd9ce97c24d86ec",
+        "bytes": 148786,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -303,7 +517,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Flare output: Flare raster logo with a loaf above curved field rows and the stacked Field & Flour wordmark.",
+          "zh-CN": "含面包、麦穗或田垄图形的 Field & Flour 烘焙品牌标志（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "aa7465fbeee7d2efe9fd7dbcc87a0d942c2a67de52e2a325e82a31b801e17823",
+        "bytes": 93480,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Sunburst output: Sunburst raster logo with golden wheat flanking a loaf above the Field & Flour wordmark.",
+          "zh-CN": "含面包、麦穗或田垄图形的 Field & Flour 烘焙品牌标志（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "3bd36da538b0f3e839461e6c8ac669724d3f1d03507e73fd280b10bc4cc7343c",
+        "bytes": 93634,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -340,7 +599,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "96ef46a4c86bc55c45b62ac6f1b607af627b69e5ae11cf91660d1c6084a1c593",
+        "bytes": 226892,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "48b8779f2dcd9846b6c3505583cab4dd10c2a8ad86ca61fbfb2d8965b36e0153",
+        "bytes": 199472,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -377,7 +681,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Four-panel comic about a pet at home — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "8acea49a4ede8ae35a21d51e6d2d21050547ea68393cb931685f7c69421e6646",
+        "bytes": 195762,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Four-panel comic about a pet at home — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "e524ffcaf2aa37d38e5922c3e4a6c5e92496e8bc002599705711ae6d5f4a16a3",
+        "bytes": 248566,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -414,7 +763,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Farmers market mobile app mockup — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "农夫市集手机应用界面样稿（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "4f8c02289d1b40b9b1878ed822268dfcdff7f33b8e44db10447f7d739ac1355f",
+        "bytes": 104548,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Farmers market mobile app mockup — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "农夫市集手机应用界面样稿（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "5b551e29ea4ebdd68f953f22f5b38657accdda5e3af654eb45c069da945eac14",
+        "bytes": 112772,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -451,7 +845,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Classroom diagram of cellular respiration — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "77b393b860d39b8e0f61f89d47fd8943ce9816099c211386d0288c3b741ed433",
+        "bytes": 102818,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Classroom diagram of cellular respiration — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "d5c606064eef1e54e2755ba1d73cc052d3e1001868e3abdf2075abc0888412f4",
+        "bytes": 140580,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -488,7 +927,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Market opportunity slide with sample market sizing figures — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "0138b0e88147e0885cb0b823ca4a1b2388ad604f5ebcefb9ace4cab766e53cc2",
+        "bytes": 60708,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Market opportunity slide with sample market sizing figures — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "c778357d69029cc0170c648afe16fb23d85d8d16db091749e2d3ea88f6564311",
+        "bytes": 67976,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "The market figures and citations are fictional examples, not factual market research.",
       "zh-CN": "市场规模数据与引用为虚构示例，不是实际市场研究。"
@@ -525,7 +1009,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table",
+          "zh-CN": "将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "f027616fad76f7a0b3758e95783d70fd297a067bc946d8f00b5e7acd18a992e9",
+        "bytes": 152846,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed",
+          "zh-CN": "将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "4d55ee94be28960b8e12faeff0cba6742384fe0d21cb42e107517f9bfb8fa5f3",
+        "bytes": 143220,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp",
+        "path": "assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Kitchen photo with a red circle around the striped vase on the dining table",
+          "zh-CN": "参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片"
+        },
+        "sha256": "f84aa29cce4c231bd042213420ad556e680d6b54300ad03eab511fdd7a2cb2d5",
+        "bytes": 107138,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -562,7 +1113,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Coffee machine diagram translated into Spanish — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "f32c306e60cf5b289a9162e0bad575daae653a113e443a4e0dc2f182a2271806",
+        "bytes": 226640,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Coffee machine diagram translated into Spanish — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "6bc8bc3793b507ad727631ef85fe3ba3d1b5abb34d5ff8c8676586b71eba2c6e",
+        "bytes": 299142,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -599,7 +1195,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/motorcycle-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "1fca404a7b9d2985a4cc41c3f9e00437d51bf15e79658be37e910854b5115d6e",
+        "bytes": 85426,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/motorcycle-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "a598c9219be4abcdcac598b9773a6161a06afaadba412cb1fc09e9b3c2219118",
+        "bytes": 86038,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp",
+        "path": "assets/references/docs-pixel-style/pixels.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Pixel-art game screen used as a style reference",
+          "zh-CN": "参考输入图：用于像素艺术风格参考的游戏画面"
+        },
+        "sha256": "ccb42c3f01c3fd527ffe2a7bfd6e8c963fc2256a14574f82aa17442ced0ce8a7",
+        "bytes": 45194,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -636,7 +1299,140 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/outfit-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman wearing the supplied clothing items — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "0c9a1c01558832d39f18d2d551c76f348720d8f9e6db9fc754f8deb7eb46e77e",
+        "bytes": 97274,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/outfit-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman wearing the supplied clothing items — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "b226708e747e6f2fdaf575db11f8f09675ae56d9e7a614a238e130624fa3a66d",
+        "bytes": 89472,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/boots.webp",
+        "path": "assets/references/docs-outfit/boots.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Gray boots used as a clothing reference",
+          "zh-CN": "参考输入图：灰色长靴服装参考"
+        },
+        "sha256": "91ba0aff95c6c24b9524ce052966db3b40b6579c9bd1931aff0f1d1331c63abd",
+        "bytes": 108674,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp",
+        "path": "assets/references/docs-outfit/jacket.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Beige jacket used as a clothing reference",
+          "zh-CN": "参考输入图：米色西装外套服装参考"
+        },
+        "sha256": "5f7112e6a2d59c35bd0a3fe80fe80e83992f9b17616319b5b3ef55b556c2fd42",
+        "bytes": 4562,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp",
+        "path": "assets/references/docs-outfit/tank-top.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: White tank top used as a clothing reference",
+          "zh-CN": "参考输入图：白色背心服装参考"
+        },
+        "sha256": "3b830909e2912389b3342cb435accf8f9646f4f0188b633956dee5d9660f798b",
+        "bytes": 8330,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp",
+        "path": "assets/references/docs-outfit/woman-in-museum.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Woman in a museum used as the identity reference",
+          "zh-CN": "参考输入图：用作人物身份参考的博物馆女子照片"
+        },
+        "sha256": "5dd4ba349e5600d51ceb0291ad930d149399167bbdfeacdef577ea3a89474d95",
+        "bytes": 97218,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -673,7 +1469,96 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman-with-dog-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Dog placed beside the woman in the street scene — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "ab2d8cb003f13c5b7306012f01ee5091cad26ed59373451df1efdda90fd8ef0e",
+        "bytes": 139930,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman-with-dog-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Dog placed beside the woman in the street scene — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "53e62eb941561e0b014be1e04e8a5401554276b06e71b86c7682e61bae3409db",
+        "bytes": 153072,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp",
+        "path": "assets/references/docs-dog-composite/test-woman-2.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Woman with a dog, the second compositing input",
+          "zh-CN": "参考输入图：女子与狗的照片，第二张合成输入图"
+        },
+        "sha256": "aea992a953df9495b137089319e232d87d4a7432b6fe3c3782097d9922b32ca4",
+        "bytes": 117420,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp",
+        "path": "assets/references/docs-dog-composite/test-woman.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Woman in a street scene, the first compositing input",
+          "zh-CN": "参考输入图：街景女子照片，第一张合成输入图"
+        },
+        "sha256": "d05039cf1e1893016bb529ea63c4496a8807aaf9f30987607b7ed3438878af3f",
+        "bytes": 121536,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -710,7 +1595,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Isolated shampoo bottle on a transparent background — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "eeb5d0f8adad795a520162e5673a38b5881e521f2d172a99cdc6ea03788ab961",
+        "bytes": 68222,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Isolated shampoo bottle on a transparent background — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "12b194bcbb5b77e1d4707075686d2dd097d31f8aba2eccf112166dab4e388191",
+        "bytes": 67986,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+        "path": "assets/references/docs-product-cutout/shampoo.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Original shampoo product photograph",
+          "zh-CN": "参考输入图：原始洗发水产品照片"
+        },
+        "sha256": "b7afa96b86794446d9c101b72f2cda43827c3f92d0cc2493c541147faaf38695",
+        "bytes": 6820,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -747,7 +1699,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photorealistic river valley rendered from the drawing — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "477938dfc50571b3c84b4f6836852b96b646ecf9b0be3e0442da239e8f753644",
+        "bytes": 306388,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photorealistic river valley rendered from the drawing — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "3ded57293e1dc0e8c0d4662a014bfba2024e62a50603834c9a246aea544c335a",
+        "bytes": 305082,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp",
+        "path": "assets/references/docs-sketch-render/drawings.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Line drawing of a river valley",
+          "zh-CN": "参考输入图：河谷场景线稿"
+        },
+        "sha256": "4d4d7b94418a5ccd2c45516f7f5794f027eba02e60d9ac15294a65f586cd407b",
+        "bytes": 74610,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -784,7 +1803,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Same man after the flower has been removed — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "9fd63aa131ccc2d1b997e4b58ed2f7c06f9cc121c487ffe731cf03aedbeef61e",
+        "bytes": 107534,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Same man after the flower has been removed — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "95992e80787b9cb11023aaf00876d0882deba4328c07298235b6f3b847a37ac2",
+        "bytes": 113020,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp",
+        "path": "assets/references/docs-remove-flower/man-with-blue-hat.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Man holding a flower and wearing a blue cap",
+          "zh-CN": "参考输入图：戴蓝帽、手持花朵的男子照片"
+        },
+        "sha256": "3ae738ac0cb05ffe827a2befdbab5317ae7329e812b56adc687e0ae8c40508b2",
+        "bytes": 101206,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -821,7 +1907,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-person-scene/scene-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman running from a bear in a campsite scene — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "女子在营地逃离熊的场景（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "d5211390183d52557267481652e664613222ea1b09198968d79c05e2ae974745",
+        "bytes": 196380,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-person-scene/scene-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman running from a bear in a campsite scene — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "女子在营地逃离熊的场景（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "3ac357629a68a13a53b39bf5540f4ab2e2204a2268bc2bc51bab7d0e3963966e",
+        "bytes": 210762,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -858,7 +1989,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-billboard/billboard-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Shampoo billboard at sunset — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "日落时路边的洗发水广告牌（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "dedd371ebce281264ac09511c80e01359687e8bfc3b47884f687450013c0a2a1",
+        "bytes": 159516,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-billboard/billboard-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Shampoo billboard at sunset — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "日落时路边的洗发水广告牌（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "19b7f2c7990a5e60fe67e24c6439608a0513ac87b93bacbde674bb7cb536ff2c",
+        "bytes": 175482,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+        "path": "assets/references/docs-billboard/shampoo.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Original shampoo product photograph",
+          "zh-CN": "参考输入图：原始洗发水产品照片"
+        },
+        "sha256": "b7afa96b86794446d9c101b72f2cda43827c3f92d0cc2493c541147faaf38695",
+        "bytes": 6820,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -895,7 +2093,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-winter-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Shampoo billboard in a snowy evening scene — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "58e3e6d093170dd5160af1d7272978ff4c22eabefb4e98d6cb5aeb1abf64a751",
+        "bytes": 296720,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-winter-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Shampoo billboard in a snowy evening scene — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "a7a275fdadb8f30108c8a30bd7659528a52476ef1090f8f6c05f892e77dd11bd",
+        "bytes": 261504,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -932,7 +2175,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Forest hero introducing a children's book character — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "c6364b26e2ff7fa8a52a3e4df87412b157d3ae8ad44c00f635cf8b883ff86f92",
+        "bytes": 251002,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Forest hero introducing a children's book character — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "83ec021188b38c1857a191719be270b006ffeca3cc9fa922293e506ecd70f91a",
+        "bytes": 286974,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -969,7 +2257,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "56b587dcb2cbf100bc0cc78a411addaaaff047cf19246d283f2cd0065f6843e8",
+        "bytes": 270364,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "b462b4be5ba852640c998646254f5b575401f5f6c1178725b310ee71bafbe147",
+        "bytes": 265788,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -1006,7 +2339,74 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Kitchen with replacement wooden chairs — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "46dde1e5568ff8313e98dd778ffe288ea24b991c000c6f53be326ef28e3ef9ea",
+        "bytes": 185304,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Kitchen with replacement wooden chairs — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "7e1d20879aa73ae9f943307e55c5ad04a4a63539455fddcd0b50353baa759801",
+        "bytes": 171482,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp",
+        "path": "assets/references/docs-room-chairs/kitchen.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Original kitchen with white chairs",
+          "zh-CN": "参考输入图：放有白色椅子的原始厨房照片"
+        },
+        "sha256": "d84d7110ca2850802199dbb80e71a3dcecb271a5b515dddc149843a366f77bf2",
+        "bytes": 112414,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -1043,7 +2443,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Holiday card showing a teddy bear by a window — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "e63e44ac2108c761915195b7c0cfa463a7370180da060f64ebe52eb3ec68ad84",
+        "bytes": 262034,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Holiday card showing a teddy bear by a window — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "a833eca1898807979a0a4959bc01d98dd89d95e977b50367429b791622a52c21",
+        "bytes": 199198,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -1080,7 +2525,52 @@
       "status": "source-only",
       "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"
     },
-    "media": [],
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp",
+        "path": "assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Collectible toy airplane in holiday packaging — GPT Image 2.6 Flare (official model output)",
+          "zh-CN": "带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Flare 输出）"
+        },
+        "sha256": "6552b530e91070560cc2b6c0aba12dadea18291565829046f4f56cabc3ab650c",
+        "bytes": 242038,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp",
+        "path": "assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Collectible toy airplane in holiday packaging — GPT Image 2.6 Sunburst (official model output)",
+          "zh-CN": "带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Sunburst 输出）"
+        },
+        "sha256": "e5451945af14cca88f79ae510ac1ffc74e5034bc9ab696ed38b5a9543a9d0964",
+        "bytes": 254650,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.",
+            "zh-CN": "官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。"
+          }
+        }
+      }
+    ],
     "notes": {
       "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
       "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
@@ -1119,21 +2609,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2buvg5udbd1nwQv8AFYzpM/1041a34b4048cde3b1f5b93658624a90/images-2-6-openart-market-down-poster.jpg?w=3840&q=50&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-openart-down/source-01.webp",
         "kind": "poster",
         "alt": {
           "en": "Static poster 1",
           "zh-CN": "下跌版海报"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 12378,
+        "sha256": "7ddb70053cb3a7b6da844a58de84a6f478e42e9336e358ff62f01577e5d25c89",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1174,21 +2668,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4vIjzvIPc4VGiNVNoIIe1X/cdbffef89e0dc801a57526314deae7ac/images-2-6-openart-market-up-poster.jpg?w=3840&q=50&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-openart-up/source-01.webp",
         "kind": "poster",
         "alt": {
           "en": "Static poster 1",
           "zh-CN": "上涨版海报"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 13186,
+        "sha256": "e2d30a2556ee396e5041586702de508c7f195bf4fb819b146c98efe1c8f709ee",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1229,39 +2727,47 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7xC8whl4xN2cOTxQSLMfQ8/60b25185d53ca63f000341f0acbfba7a/owl-sketch-square.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/references/launch-owl/source-01.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 1",
           "zh-CN": "草图"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 37928,
+        "sha256": "a60db7113d59d290d4866014fcc1904831d05f12597351a866cde8d698195acf",
+        "mime_type": "image/webp",
+        "role": "reference"
       },
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3htx622jZc5ImLeWZfZhEX/52551971a364017e1d4c0da98b5e334f/owl-animation-poster.jpg?w=3840&q=50&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-owl/source-02.webp",
         "kind": "poster",
         "alt": {
           "en": "Static poster 2",
           "zh-CN": "动画海报"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 9926,
+        "sha256": "655085f9a27b1cdddcd27c3b6a78a27259f68ba8ae51cdc9a5e86650fbc4db6a",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1302,21 +2808,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/56j4cAmTWrRJgTSQEvLQ01/90f1805a4e72b7e2498863da19766c65/town-monty-poster.jpg?w=3840&q=50&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-town/source-01.webp",
         "kind": "poster",
         "alt": {
           "en": "Static poster 1",
           "zh-CN": "动画海报"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 10774,
+        "sha256": "1f6fe67ffbda33a50bbd4c91793628375bdc3de59f34b4d0e15cf3aeea17a4d1",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1357,21 +2867,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5g2ztPz3EqktNQwQWa7Al8/d42c517c10fcbcb3c0da00bd5fe6b26e/picsart-glass-whale.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-picsart/source-01.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 1",
           "zh-CN": "鲸鱼图"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 639316,
+        "sha256": "3896abcbb8406fac52e13671a15051b39b2df8b3dcb6ace23e61e06c32c8a860",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1412,39 +2926,47 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/50IFJAzURDJeFT6j7jU9Cy/727871e6953a56bebb783f7c884f832f/images-2-6-fal-before.png",
-        "path": null,
+        "path": "assets/references/launch-fal/source-01.png",
         "kind": "image",
         "alt": {
           "en": "Source image 1",
           "zh-CN": "编辑前"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 1373682,
+        "sha256": "f9ca2c224bd8529590aee5121d3ff9bf96a9e539ae518e51e02d0bae6b5f35a4",
+        "mime_type": "image/png",
+        "role": "reference"
       },
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/mOBUDnc6RlTLi1KU5S19r/2646cf2f1db9cfdf93250f201e8ab5de/images-2-6-fal-after.png",
-        "path": null,
+        "path": "assets/examples/launch-fal/source-02.png",
         "kind": "image",
         "alt": {
           "en": "Source image 2",
           "zh-CN": "编辑后"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 1025402,
+        "sha256": "db5fd4da54443514001e9139f35553ee15a01631a7dfc2576cfc248207d735b1",
+        "mime_type": "image/png",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1485,21 +3007,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1gnp2Va1JsQtynPds90I1O/3ba2c60fd06e70d9a4dc19da9482ce7d/images-2-6-sable-product-visual.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-sable/source-01.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 1",
           "zh-CN": "产品场景"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 325472,
+        "sha256": "7c390c4f2847f357cf3c81742b0c62272f4ed6de1371e48e8abc8dcbad8df30d",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1540,57 +3066,69 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3bU4mZlfoshL05B5nlKuXY/d34032552f29bfef5eeb39533ebe7c61/images-2-6-higgsfield-scene-edit-1.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-higgsfield/source-01.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 1",
           "zh-CN": "第 1 步"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 576734,
+        "sha256": "b6f8cbbd4755d4be08574fff5fb6fd294a09878986ab81ce597d63441c867650",
+        "mime_type": "image/webp",
+        "role": "output"
       },
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5hDxN1poa1hFkj3ZTSLxqX/42fdc0fc4612cf83a695d63e20abb572/images-2-6-higgsfield-scene-edit-2.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-higgsfield/source-02.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 2",
           "zh-CN": "第 2 步"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 567222,
+        "sha256": "3808a67df98bfa0581ebf64ef88500672c655c602a561a9bf6acacf11443c0c7",
+        "mime_type": "image/webp",
+        "role": "output"
       },
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3JTfW1LWizYXThKdWaLNrt/a4a9b72ac3ed9909303e594ad0236243/images-2-6-higgsfield-scene-edit-3.png?w=3840&q=90&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-higgsfield/source-03.webp",
         "kind": "image",
         "alt": {
           "en": "Source image 3",
           "zh-CN": "第 3 步"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。"
           }
-        }
+        },
+        "bytes": 537454,
+        "sha256": "9553c34a2e465f8644bfaa0d46d75aa643bdeb249c6567e6738ee546234ba0ca",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1631,21 +3169,25 @@
     "media": [
       {
         "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6qOP4UgI7SJxKI7mS01b8/dbf9421db5e9ea5a67d8ad8cb219a9df/luxury-travel-updated-poster.jpg?w=3840&q=50&fm=webp",
-        "path": null,
+        "path": "assets/examples/launch-travel/source-01.webp",
         "kind": "poster",
         "alt": {
           "en": "Static poster 1",
           "zh-CN": "比较海报"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": null,
+          "status": "source-attributed",
+          "evidence_url": "https://openai.com/index/introducing-images-2-6/",
           "credit": "OpenAI / original credited creator; see source",
           "note": {
-            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
-            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 62426,
+        "sha256": "371a862a672c87f959bd145935be1a06231b25ac8899d0d3bdef97e6b3d690ea",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1769,28 +3311,32 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "pixexid (@pixexid)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
       {
         "source_url": "https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large",
-        "path": null,
+        "path": "assets/examples/community-bear-svg-comparison/source-02.webp",
         "kind": "image",
         "alt": {
           "en": "Raster preview of the claimed PNG bear result",
           "zh-CN": "作者所称 PNG 熊吉祥物输出的栅格预览"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/pixexid/status/2118153375464505689",
           "credit": "pixexid (@pixexid)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. This is a WebP preview, not the original SVG or PNG.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件是 WebP 预览，并非原始 SVG 或 PNG。"
           }
-        }
+        },
+        "bytes": 154320,
+        "sha256": "5b10a42a4c1b91afdfb40ed6bee5f6b5875a8c1b1ec33d68e236ce4b77ac0aee",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
@@ -1842,8 +3388,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Archiefff (@baiji57165)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
@@ -1860,8 +3406,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Archiefff (@baiji57165)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       }
@@ -1915,8 +3461,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
@@ -1933,8 +3479,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
@@ -1951,8 +3497,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
@@ -1969,8 +3515,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
@@ -1987,8 +3533,8 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       }
@@ -2042,28 +3588,32 @@
           "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
           "credit": "Michael Guo (@Michaelzsguo)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
+            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
           }
         }
       },
       {
         "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large",
-        "path": null,
+        "path": "assets/examples/community-rosebud-animation/source-02.webp",
         "kind": "poster",
         "alt": {
           "en": "Static rosebud preview, not a GIF",
           "zh-CN": "玫瑰花蕾静态预览，不是 GIF"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Michaelzsguo/status/2118134837357744435",
           "credit": "Michael Guo (@Michaelzsguo)",
           "note": {
-            "en": "Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.",
-            "zh-CN": "素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。"
+            "en": "Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.",
+            "zh-CN": "为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。"
           }
-        }
+        },
+        "bytes": 18900,
+        "sha256": "f878086f28b9fe06c03443369e78a53cdcd64a31e4ea5b015f803f0843ca3101",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {

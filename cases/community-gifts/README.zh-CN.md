@@ -14,7 +14,7 @@
 
 ![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+**占位：素材暂未入库，请查看下方来源链接及逐项获取状态。**
 
 [到原始来源查看作品](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 

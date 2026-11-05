@@ -12,12 +12,34 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Dog placed beside the woman in the street scene — GPT Image 2.6 Flare (official model output)](../../assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [Dog placed beside the woman in the street scene — GPT Image 2.6 Flare (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-with-dog-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+![Dog placed beside the woman in the street scene — GPT Image 2.6 Sunburst (official model output)](../../assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+- [Dog placed beside the woman in the street scene — GPT Image 2.6 Sunburst (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-with-dog-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+![Reference input: Woman with a dog, the second compositing input](../../assets/references/docs-dog-composite/test-woman-2.webp)
 
+**Reference/input image, not a generated output.**
+
+- [Reference input: Woman with a dog, the second compositing input](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+![Reference input: Woman in a street scene, the first compositing input](../../assets/references/docs-dog-composite/test-woman.webp)
+
+**Reference/input image, not a generated output.**
+
+- [Reference input: Woman in a street scene, the first compositing input](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
 ## Original prompt
 

@@ -12,15 +12,12 @@ View the named example or partner tab on the official release page. Static previ
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 1](../../assets/examples/launch-picsart/source-01.webp)
 
 - [Source image 1](https://images.ctfassets.net/kftzwdyauwt9/5g2ztPz3EqktNQwQWa7Al8/d42c517c10fcbcb3c0da00bd5fe6b26e/picsart-glass-whale.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## Original prompt
 

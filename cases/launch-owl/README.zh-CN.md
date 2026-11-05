@@ -12,18 +12,20 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![草图](../../assets/references/launch-owl/source-01.webp)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://openai.com/index/introducing-images-2-6/)
+**参考 / 输入图，不是生成结果。**
 
 - [草图](https://images.ctfassets.net/kftzwdyauwt9/7xC8whl4xN2cOTxQSLMfQ8/60b25185d53ca63f000341f0acbfba7a/owl-sketch-square.png?w=3840&q=90&fm=webp) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/)
+![动画海报](../../assets/examples/launch-owl/source-02.webp)
+
 - [动画海报](https://images.ctfassets.net/kftzwdyauwt9/3htx622jZc5ImLeWZfZhEX/52551971a364017e1d4c0da98b5e334f/owl-animation-poster.jpg?w=3840&q=50&fm=webp) · poster
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/)
 
 ## 原始提示词
 

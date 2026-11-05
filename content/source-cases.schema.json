@@ -236,6 +236,31 @@
                   }
                 }
               }
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "[a-f0-9]{64}"
+            },
+            "bytes": {
+              "type": "integer"
+            },
+            "mime_type": {
+              "type": "string",
+              "enum": [
+                "image/png",
+                "image/jpeg",
+                "image/webp",
+                "image/gif",
+                "image/svg+xml",
+                "video/mp4"
+              ]
+            },
+            "role": {
+              "type": "string",
+              "enum": [
+                "output",
+                "reference"
+              ]
             }
           }
         }

@@ -14,7 +14,7 @@ The author says ChatGPT Image 2.6 animated a static illustration. Prompt and var
 
 ![Placeholder, not model output](../../assets/media-placeholder-en.svg)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+**PLACEHOLDER: media not archived. See the source links and item-level availability notes below.**
 
 [View the work at its original source](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
 

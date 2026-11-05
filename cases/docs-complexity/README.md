@@ -12,12 +12,24 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them.](../../assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them.](https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+![GPT Image 2.6 Sunburst output: Players in red lift a trophy topped with a crown. A CHAMPIONS banner spans the foreground.](../../assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+- [GPT Image 2.6 Sunburst output: Players in red lift a trophy topped with a crown. A CHAMPIONS banner spans the foreground.](https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+![GPT Image 2.6 Sunburst output: Players in red shirts with team crests lift a trophy decorated with a laurel wreath above a CHAMPIONS banner.](../../assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp)
 
+- [GPT Image 2.6 Sunburst output: Players in red shirts with team crests lift a trophy decorated with a laurel wreath above a CHAMPIONS banner.](https://developers.openai.com/images/platform/guides/image-prompting/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
 
 ## Original prompt
 

@@ -12,15 +12,12 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![鲸鱼图](../../assets/examples/launch-picsart/source-01.webp)
 
 - [鲸鱼图](https://images.ctfassets.net/kftzwdyauwt9/5g2ztPz3EqktNQwQWa7Al8/d42c517c10fcbcb3c0da00bd5fe6b26e/picsart-glass-whale.png?w=3840&q=90&fm=webp) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## 原始提示词
 

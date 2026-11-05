@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import html
+import hashlib
 import json
 import re
 import sys
@@ -248,6 +249,23 @@ def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warni
                 target.append(f"{label}.rights.{field}: content terms have not been recorded")
 
 
+def media_mime(data: bytes) -> str | None:
+    """Identify formats from bytes, not URL suffixes or CDN query strings."""
+    if data.startswith(b'\x89PNG\r\n\x1a\n'):
+        return 'image/png'
+    if data.startswith(b'\xff\xd8\xff'):
+        return 'image/jpeg'
+    if data.startswith(b'RIFF') and data[8:12] == b'WEBP':
+        return 'image/webp'
+    if data.startswith((b'GIF87a', b'GIF89a')):
+        return 'image/gif'
+    if data[4:8] == b'ftyp':
+        return 'video/mp4'
+    if b'<svg' in data[:1024]:
+        return 'image/svg+xml'
+    return None
+
+
 def validate_source_cases(config, cases, prompts, errors):
     ids = {item['id'] for item in prompts if item.get('id')}
     categories = {item['id'] for item in config['categories']}
@@ -286,8 +304,6 @@ def validate_source_cases(config, cases, prompts, errors):
                 errors.append(f'{mname}.source_url: expected original HTTPS asset URL')
             if urlsplit(media['source_url']).path.lower().endswith('.mp4') and media['kind'] != 'video':
                 errors.append(f'{mname}.kind: MP4 sources must be labelled video, not GIF/image')
-            if media['kind'] == 'video' and media['rights']['status'] != 'link-only':
-                errors.append(f'{mname}: videos currently support source links only')
             for lang in ('en', 'zh-CN'):
                 if not media['alt'][lang].strip() or not media['rights']['note'][lang].strip():
                     errors.append(f'{mname}: bilingual alt and rights note required')
@@ -299,16 +315,17 @@ def validate_source_cases(config, cases, prompts, errors):
                     errors.append(f'{mname}: link-only media cannot have a local path')
                 continue
             if media['rights']['status'] == 'source-attributed':
-                if item['source']['type'] not in ('official-docs', 'official-launch') or media['rights']['evidence_url'] != item['source']['url']:
-                    errors.append(f'{mname}: source-attributed media must retain its exact official source as evidence')
+                if media['rights']['evidence_url'] != item['source']['url']:
+                    errors.append(f'{mname}: source-attributed media must retain its exact original source as evidence')
             if not path:
                 errors.append(f'{mname}.path: reusable media requires a local file')
                 continue
             check_asset(path, f'{mname}.path', errors, allow_remote=False)
-            expected = f"assets/examples/{item['id']}/"
+            folder = 'references' if media.get('role') == 'reference' else 'examples'
+            expected = f"assets/{folder}/{item['id']}/"
             if not path.startswith(expected) or '..' in Path(path).parts:
                 errors.append(f'{mname}.path: expected {expected} with no traversal')
-            allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg'}
+            allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.mp4'}
             if Path(path).suffix.lower() not in allowed:
                 errors.append(f'{mname}.path: unsupported preview media format')
             evidence = media['rights']['evidence_url']
@@ -317,8 +334,25 @@ def validate_source_cases(config, cases, prompts, errors):
             elif not is_https_url(evidence):
                 check_asset(evidence, f'{mname}.rights.evidence_url', errors, allow_remote=False)
             candidate = ROOT / path
-            if candidate.is_file() and candidate.stat().st_size > 10 * 1024 * 1024:
-                errors.append(f'{mname}.path: individual media must be no larger than 10 MiB')
+            if candidate.is_file():
+                data = candidate.read_bytes()
+                if len(data) > 10 * 1024 * 1024:
+                    errors.append(f'{mname}.path: individual media must be no larger than 10 MiB')
+                if media.get('bytes') != len(data):
+                    errors.append(f'{mname}.bytes: must match the local file size')
+                if media.get('sha256') != hashlib.sha256(data).hexdigest():
+                    errors.append(f'{mname}.sha256: must match the local file checksum')
+                mime = media_mime(data)
+                if not mime or media.get('mime_type') != mime:
+                    errors.append(f'{mname}.mime_type: must match the actual file format')
+                suffixes = {'image/png': {'.png'}, 'image/jpeg': {'.jpg', '.jpeg'}, 'image/webp': {'.webp'}, 'image/gif': {'.gif'}, 'image/svg+xml': {'.svg'}, 'video/mp4': {'.mp4'}}
+                if mime and Path(path).suffix.lower() not in suffixes[mime]:
+                    errors.append(f'{mname}.path: extension must match the actual file format')
+                required_kind = {'image/gif': 'gif', 'image/svg+xml': 'svg', 'video/mp4': 'video'}.get(mime)
+                if required_kind and media['kind'] != required_kind:
+                    errors.append(f'{mname}.kind: must match the actual file format')
+                elif mime in ('image/png', 'image/jpeg', 'image/webp') and media['kind'] not in ('image', 'poster'):
+                    errors.append(f'{mname}.kind: raster preview must be image or poster')
 
 
 def markdown_link_errors() -> list[str]:

@@ -12,12 +12,18 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Flare 输出）](../../assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+- [描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Flare 输出）](https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-6-flare.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+![描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Sunburst 输出）](../../assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp)
 
-[到原始来源查看作品](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
-
+- [描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Sunburst 输出）](https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-6-sunburst.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
 
 ## 原始提示词
 

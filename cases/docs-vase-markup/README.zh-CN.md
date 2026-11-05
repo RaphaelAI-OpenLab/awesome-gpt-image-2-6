@@ -12,12 +12,26 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）](../../assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+- [将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-flare.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+![将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）](../../assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp)
 
-[到原始来源查看作品](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+- [将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-gpt-image-2-6-sunburst.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+![参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片](../../assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp)
 
+**参考 / 输入图，不是生成结果。**
+
+- [参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
 ## 原始提示词
 

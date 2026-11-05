@@ -14,17 +14,17 @@ A tiger wears red boxing gloves and a red headband. Published 2026-11-05 03:01 U
 
 ![Placeholder, not model output](../../assets/media-placeholder-en.svg)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+**PLACEHOLDER: media not archived. See the source links and item-level availability notes below.**
 
 [View the work at its original source](https://x.com/baiji57165/status/2118176730079007145)
 
 - [X-served MP4 of the boxing tiger animation](https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4) · video
   - Credit: Archiefff (@baiji57165)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [Static boxing tiger preview, not a GIF](https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large) · poster
   - Credit: Archiefff (@baiji57165)
-  - Reuse: link-only. Not mirrored: redistribution permission has not been verified. X terms restrict reuse outside permitted interfaces and licenses. No permission or endorsement is claimed; repository MIT terms do not cover this media. See the linked rights review.
+  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
   - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 
 ## Original prompt

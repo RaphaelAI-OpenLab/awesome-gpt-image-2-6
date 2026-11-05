@@ -12,15 +12,12 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://openai.com/index/introducing-images-2-6/)
+![动画海报](../../assets/examples/launch-town/source-01.webp)
 
 - [动画海报](https://images.ctfassets.net/kftzwdyauwt9/56j4cAmTWrRJgTSQEvLQ01/90f1805a4e72b7e2498863da19766c65/town-monty-poster.jpg?w=3840&q=50&fm=webp) · poster
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/)
 
 ## 原始提示词
 

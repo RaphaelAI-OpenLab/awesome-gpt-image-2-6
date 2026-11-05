@@ -12,12 +12,26 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)](../../assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+- [Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/motorcycle-gpt-image-2-6-flare.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+![Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)](../../assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp)
 
-[View the work at its original source](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+- [Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)](https://developers.openai.com/images/platform/guides/image-prompting/motorcycle-gpt-image-2-6-sunburst.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+![Reference input: Pixel-art game screen used as a style reference](../../assets/references/docs-pixel-style/pixels.webp)
 
+**Reference/input image, not a generated output.**
+
+- [Reference input: Pixel-art game screen used as a style reference](https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp) · image
+  - Credit: OpenAI, GPT Image 2.6 image prompting guide
+  - Reuse: source-attributed. Public example media from the official guide, archived unchanged with source attribution. No independent redistribution license was verified. This file is not labelled open-licensed, and the repository MIT license does not cover it. Source attribution and the repository copyright notice do not grant permission.
+  - [Provenance / rights evidence](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
 
 ## Original prompt
 

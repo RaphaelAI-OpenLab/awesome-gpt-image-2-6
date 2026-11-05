@@ -12,18 +12,20 @@ View the named example or partner tab on the official release page. Static previ
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
+![Source image 1](../../assets/references/launch-owl/source-01.webp)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/)
+**Reference/input image, not a generated output.**
 
 - [Source image 1](https://images.ctfassets.net/kftzwdyauwt9/7xC8whl4xN2cOTxQSLMfQ8/60b25185d53ca63f000341f0acbfba7a/owl-sketch-square.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/)
+![Static poster 2](../../assets/examples/launch-owl/source-02.webp)
+
 - [Static poster 2](https://images.ctfassets.net/kftzwdyauwt9/3htx622jZc5ImLeWZfZhEX/52551971a364017e1d4c0da98b5e334f/owl-animation-poster.jpg?w=3840&q=50&fm=webp) · poster
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/)
 
 ## Original prompt
 

@@ -12,21 +12,24 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![第 1 步](../../assets/examples/launch-higgsfield/source-01.webp)
 
 - [第 1 步](https://images.ctfassets.net/kftzwdyauwt9/3bU4mZlfoshL05B5nlKuXY/d34032552f29bfef5eeb39533ebe7c61/images-2-6-higgsfield-scene-edit-1.png?w=3840&q=90&fm=webp) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![第 2 步](../../assets/examples/launch-higgsfield/source-02.webp)
+
 - [第 2 步](https://images.ctfassets.net/kftzwdyauwt9/5hDxN1poa1hFkj3ZTSLxqX/42fdc0fc4612cf83a695d63e20abb572/images-2-6-higgsfield-scene-edit-2.png?w=3840&q=90&fm=webp) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![第 3 步](../../assets/examples/launch-higgsfield/source-03.webp)
+
 - [第 3 步](https://images.ctfassets.net/kftzwdyauwt9/3JTfW1LWizYXThKdWaLNrt/a4a9b72ac3ed9909303e594ad0236243/images-2-6-higgsfield-scene-edit-3.png?w=3840&q=90&fm=webp) · image
   - 署名：OpenAI / original credited creator; see source
-  - 使用条件：link-only. 尚未核实可转载的明确授权。标注来源不等于取得许可。
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。
+  - [来源 / 权利依据](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## 原始提示词
 

@@ -12,20 +12,16 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：原始素材暂未入库，尚未核实转载许可。**
-
-[到原始来源查看作品](https://x.com/pixexid/status/2118153375464505689)
-
 - [作者所称 SVG 熊吉祥物输出的栅格预览](https://pbs.twimg.com/media/HWUw0tfaQAAol4Q?format=webp&name=large) · image
   - 署名：pixexid (@pixexid)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
+  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
   - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+![作者所称 PNG 熊吉祥物输出的栅格预览](../../assets/examples/community-bear-svg-comparison/source-02.webp)
+
 - [作者所称 PNG 熊吉祥物输出的栅格预览](https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large) · image
   - 署名：pixexid (@pixexid)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件是 WebP 预览，并非原始 SVG 或 PNG。
+  - [来源 / 权利依据](https://x.com/pixexid/status/2118153375464505689)
 
 ## 原始提示词
 

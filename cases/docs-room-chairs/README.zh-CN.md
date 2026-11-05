@@ -12,12 +12,26 @@
 
 ## 图片 / GIF
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
+![将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Flare 输出）](../../assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+- [将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Flare 输出）](https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-6-flare.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+![将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Sunburst 输出）](../../assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp)
 
-[到原始来源查看作品](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+- [将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Sunburst 输出）](https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-6-sunburst.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+![参考输入图：放有白色椅子的原始厨房照片](../../assets/references/docs-room-chairs/kitchen.webp)
 
+**参考 / 输入图，不是生成结果。**
+
+- [参考输入图：放有白色椅子的原始厨房照片](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp) · image
+  - 署名：OpenAI, GPT Image 2.6 image prompting guide
+  - 使用条件：source-attributed. 官方指南中的公开示例素材，原样存档并标注来源。未核实独立的转载许可证，不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名和仓库版权声明均不构成许可授权。
+  - [来源 / 权利依据](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
 ## 原始提示词
 

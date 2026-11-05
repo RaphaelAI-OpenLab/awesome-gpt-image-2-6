@@ -14,17 +14,17 @@
 
 ![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
 
-**占位：原始素材暂未入库，尚未核实转载许可。**
+**占位：素材暂未入库，请查看下方来源链接及逐项获取状态。**
 
 [到原始来源查看作品](https://x.com/baiji57165/status/2118176730079007145)
 
 - [X 提供的拳击老虎动画 MP4](https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4) · video
   - 署名：Archiefff (@baiji57165)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
+  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
   - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 - [拳击老虎静态预览，不是 GIF](https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large) · poster
   - 署名：Archiefff (@baiji57165)
-  - 使用条件：link-only. 素材未入库：未核实独立转载许可，X 条款限制许可及其接口范围外的使用。不声称获得许可或作者背书；仓库 MIT 不覆盖该素材。详见使用限制核查。
+  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
   - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
 
 ## 原始提示词

@@ -12,15 +12,12 @@ View the named example or partner tab on the official release page. Static previ
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+![Source image 1](../../assets/examples/launch-sable/source-01.webp)
 
 - [Source image 1](https://images.ctfassets.net/kftzwdyauwt9/1gnp2Va1JsQtynPds90I1O/3ba2c60fd06e70d9a4dc19da9482ce7d/images-2-6-sable-product-visual.png?w=3840&q=90&fm=webp) · image
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## Original prompt
 

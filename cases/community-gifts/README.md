@@ -14,7 +14,7 @@ The title names Images 2.6 and the original post contains media. No prompt or se
 
 ![Placeholder, not model output](../../assets/media-placeholder-en.svg)
 
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
+**PLACEHOLDER: media not archived. See the source links and item-level availability notes below.**
 
 [View the work at its original source](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 

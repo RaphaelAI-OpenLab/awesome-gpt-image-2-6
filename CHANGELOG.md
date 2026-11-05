@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-05 · Local media and copyright notice
+
+- Add the educational-use/takedown notice to both generated homepages with this repository’s issue URL.
+- Archive retrievable official and community media without altering their bytes; retain exact credits and unknown-license status.
+- Store reference inputs separately, validate SHA-256/size/actual formats, and support correctly labelled local MP4 links.
+- Preserve source links and record HTTP 403 for inaccessible media; a disclaimer is not represented as a license.
+
+
 ## 2026-11-05 — Four creator-reported examples
 
 - Add bear SVG/PNG previews, boxing tiger animation, hummingbird animation variants, and a rosebud animation with original X posts and 11 individual media links.

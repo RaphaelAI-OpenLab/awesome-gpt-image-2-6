@@ -1,5 +1,7 @@
 """Regression coverage for source cases and generated repository routes."""
 import copy
+import hashlib
+import tempfile
 import re
 import sys
 import unittest
@@ -7,7 +9,7 @@ from pathlib import Path
 from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from common import ROOT, load_data, read_json
-from source_cases import read_cases, visible, page_path, render_detail
+from source_cases import read_cases, visible, page_path, render_detail, preview
 from build_readme import outputs, render_readme, stale_case_pages
 from validate import validate, validate_source_cases, schema_errors
 
@@ -93,6 +95,47 @@ class CollectionTests(unittest.TestCase):
     def test_public_prompt_requires_source(self):
         item=copy.deepcopy(self.cases[0]);item['prompt']['url']=None
         self.assertTrue(self.errors_for(item))
+
+    def test_copyright_notice_uses_this_repository_issue_route(self):
+        for lang in ('en', 'zh-CN'):
+            text=render_readme(self.config,self.prompts,lang)
+            self.assertIn('Copyright notice' if lang == 'en' else '版权声明', text)
+            self.assertIn('https://github.com/netlogs/awesome-gpt-image-2-6/issues/new', text)
+            self.assertIn('remove it immediately' if lang == 'en' else '我们将立即移除', text)
+
+    def test_local_media_integrity_is_checked(self):
+        item=self.media_item()
+        item['media'][0]['sha256']='0'*64
+        self.assertTrue(any('checksum' in x for x in self.errors_for(item)))
+        item=self.media_item();item['media'][0]['bytes']=0
+        self.assertTrue(any('file size' in x for x in self.errors_for(item)))
+        item=self.media_item();item['media'][0]['mime_type']='video/mp4'
+        self.assertTrue(any('actual file format' in x for x in self.errors_for(item)))
+
+    def test_source_attributed_does_not_require_official_creator(self):
+        item=self.media_item();item['source']['type']='community'
+        self.assertEqual(self.errors_for(item), [])
+        item['media'][0]['rights']['evidence_url']='https://example.com/unrelated'
+        self.assertTrue(any('exact original source' in x for x in self.errors_for(item)))
+
+    def test_reference_media_is_not_a_featured_output(self):
+        item=self.media_item()
+        for media in item['media']: media['role']='reference'
+        self.assertIsNone(preview(item))
+        self.assertIn('Reference/input image', render_detail(item, 'en'))
+
+    def test_local_mp4_is_a_video_link_not_an_image(self):
+        item=self.media_item();item['media']=item['media'][:1];m=item['media'][0]
+        data=b'\x00\x00\x00\x18ftypmp42'+b'\x00'*12
+        m.update(path=f"assets/examples/{item['id']}/clip.mp4",source_url='https://example.com/clip.mp4',kind='video',role='output',bytes=len(data),sha256=hashlib.sha256(data).hexdigest(),mime_type='video/mp4')
+        with tempfile.TemporaryDirectory() as directory:
+            path=Path(directory)/m['path'];path.parent.mkdir(parents=True);path.write_bytes(data)
+            with patch('validate.ROOT', Path(directory)):
+                self.assertEqual(self.errors_for(item), [])
+        text=render_detail(item,'en')
+        self.assertIn('[Open local video file]',text)
+        self.assertNotRegex(text,r'!\[[^]]*\]\([^)]*clip.mp4')
+        self.assertIsNone(preview(item))
 
     def test_source_linked_mp4_is_video_not_gif(self):
         item=copy.deepcopy(next(x for x in self.cases if any(m['kind']=='video' for m in x['media'])))

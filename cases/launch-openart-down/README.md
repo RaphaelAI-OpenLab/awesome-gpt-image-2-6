@@ -12,15 +12,12 @@ Read Prompt 1 in the OpenArt examples for the original chibi office-worker anima
 
 ## Images / GIFs
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: original media not mirrored. No redistribution permission has been verified.**
-
-[View the work at its original source](https://openai.com/index/introducing-images-2-6/)
+![Static poster 1](../../assets/examples/launch-openart-down/source-01.webp)
 
 - [Static poster 1](https://images.ctfassets.net/kftzwdyauwt9/2buvg5udbd1nwQv8AFYzpM/1041a34b4048cde3b1f5b93658624a90/images-2-6-openart-market-down-poster.jpg?w=3840&q=50&fm=webp) · poster
   - Credit: OpenAI / original credited creator; see source
-  - Reuse: link-only. No explicit redistribution permission has been verified. Attribution alone does not grant permission.
+  - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.
+  - [Provenance / rights evidence](https://openai.com/index/introducing-images-2-6/)
 
 ## Original prompt
 

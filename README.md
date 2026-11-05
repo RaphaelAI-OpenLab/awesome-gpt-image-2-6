@@ -8,7 +8,7 @@ An open collection of prompts, visual examples and original sources for GPT Imag
 
 [MIT · code & original docs](LICENSE) · [Contributions welcome](CONTRIBUTING.md) · [Validation CI](https://github.com/netlogs/awesome-gpt-image-2-6/actions)
 
-> Third-party prompts and media retain their own rights. Credit is not permission. Report attribution, model or rights issues through the contribution guide.
+⚠️ **Copyright notice**: The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/netlogs/awesome-gpt-image-2-6/issues/new), and we will remove it immediately.
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
@@ -80,7 +80,7 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 | Creator-reported examples | **6** |
 | Original prompts available at source | **33** |
 | Full prompts published here | **0** |
-| Locally hosted original media | **3** |
+| Locally archived media files | **84** |
 | Last source check (UTC) | **2026-11-05** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -93,11 +93,11 @@ Source counts are not reproduction claims. Pending leads are excluded; different
 <tr>
 <td width="33%" align="center"><a href="cases/docs-bakery-svg/README.md"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="280" /><br /><strong>Bakery SVG logo</strong></a><br />Official documentation</td>
 <td width="33%" align="center"><a href="cases/docs-lantern-gif/README.md"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="Original monkey GIF" width="280" /><br /><strong>Lantern-carrying monkey loop</strong></a><br />Official documentation</td>
-<td width="33%" align="center"><a href="cases/launch-fal/README.md"><img src="assets/media-placeholder-en.svg" alt="Placeholder, not model output" width="280" /><br /><strong>Living-room markup edit</strong></a><br />Official launch demo</td>
+<td width="33%" align="center"><a href="cases/launch-fal/README.md"><img src="assets/examples/launch-fal/source-02.png" alt="Source image 2" width="280" /><br /><strong>Living-room markup edit</strong></a><br />Official launch demo</td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="cases/launch-sable/README.md"><img src="assets/media-placeholder-en.svg" alt="Placeholder, not model output" width="280" /><br /><strong>Miniature brand product world</strong></a><br />Official launch demo</td>
-<td width="33%" align="center"><a href="cases/launch-higgsfield/README.md"><img src="assets/media-placeholder-en.svg" alt="Placeholder, not model output" width="280" /><br /><strong>Knight scene and clothing edit sequence</strong></a><br />Official launch demo</td>
+<td width="33%" align="center"><a href="cases/launch-sable/README.md"><img src="assets/examples/launch-sable/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Miniature brand product world</strong></a><br />Official launch demo</td>
+<td width="33%" align="center"><a href="cases/launch-higgsfield/README.md"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Knight scene and clothing edit sequence</strong></a><br />Official launch demo</td>
 <td width="33%" align="center"><a href="cases/community-malfoid/README.md"><img src="assets/media-placeholder-en.svg" alt="Placeholder, not model output" width="280" /><br /><strong>Summer character illustration animation</strong></a><br />Creator-reported model</td>
 </tr>
 </table>
