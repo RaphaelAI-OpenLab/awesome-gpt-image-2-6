@@ -298,6 +298,16 @@ def validate_source_cases(config, cases, prompts, errors):
                 errors.append(f'{name}.prompt.url: required for public source prompt')
         elif item['prompt']['url'] is not None:
             errors.append(f'{name}.prompt.url: not-public prompts must not have a prompt URL')
+        access = item.get('access')
+        if access:
+            if not is_date(access['checked_at']):
+                errors.append(f'{name}.access.checked_at: expected ISO date')
+            for field in ('page_note', 'media_note'):
+                if not all(access[field][lang].strip() for lang in ('en', 'zh-CN')):
+                    errors.append(f'{name}.access.{field}: bilingual note required')
+            check_asset(access['report_path'], f'{name}.access.report_path', errors, allow_remote=False)
+            if access['media_status'] == 'archived' and (not item['media'] or any(not m['path'] for m in item['media'])):
+                errors.append(f'{name}.access.media_status: archived requires all recorded media files locally')
         for mindex, media in enumerate(item['media']):
             mname = f'{name}.media[{mindex}]'
             if not is_https_url(media['source_url']):

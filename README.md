@@ -80,7 +80,7 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 | Creator-reported examples | **6** |
 | Original prompts available at source | **33** |
 | Full prompts published here | **0** |
-| Locally archived media files | **84** |
+| Locally archived media files | **93** |
 | Last source check (UTC) | **2026-11-05** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -111,7 +111,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | Added | Case | Evidence |
 | --- | --- | --- |
 | 2026-11-05 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model |
-| 2026-11-05 | [Hummingbird animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model |
+| 2026-11-05 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model |
 | 2026-11-05 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Creator-reported model |
 | 2026-11-05 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Creator-reported model |
 | 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Creator-reported model |
@@ -217,7 +217,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Summer character illustration animation](cases/community-malfoid/README.md) | Creator-reported model | Prompt not public |
 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Creator-reported model | Prompt not public |
 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Creator-reported model | Prompt not public |
-| [Hummingbird animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model | Prompt not public |
+| [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model | Prompt not public |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)

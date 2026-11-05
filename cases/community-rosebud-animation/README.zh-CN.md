@@ -8,20 +8,29 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-动画预览为沾有水滴的红色玫瑰花蕾。原帖发布于 2026-11-05 00:14 UTC，作者称尝试制作 ChatGPT Images 2.6 动图。X 将附件标为 GIF，但提供 MP4；所核对原帖未公开 GIF 原文件或提示词。已查看原帖及预览，未测试动画质量或独立复现。素材等待核实转载依据，暂保留来源链接。
+带水滴的红色玫瑰花苞。作者称使用 ChatGPT Images 2.6 制作。X 提供的 MP4 与静态 WebP 海报均已入库；MP4 解码检查通过，但不是 GIF 原文件。原帖发布于 2026-11-05 00:14 UTC，准确提示词与模型版本未公开，未复现生成过程。
 
 ## 图片 / 动画文件
 
+[打开仓库内视频文件](../../assets/examples/community-rosebud-animation/source-01.mp4)
+
 - [X 提供的玫瑰花蕾动画 MP4](https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4) · video
   - 署名：Michael Guo (@Michaelzsguo)
-  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。
+  - [来源 / 权利依据](https://x.com/Michaelzsguo/status/2118134837357744435)
 ![玫瑰花蕾静态预览，不是 GIF](../../assets/examples/community-rosebud-animation/source-02.webp)
 
 - [玫瑰花蕾静态预览，不是 GIF](https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large) · poster
   - 署名：Michael Guo (@Michaelzsguo)
   - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件仅为静态预览，不是动画原文件。
   - [来源 / 权利依据](https://x.com/Michaelzsguo/status/2118134837357744435)
+
+## 原帖与素材获取状态
+
+- 核对日期：2026-11-05 (UTC)
+- 原帖：可打开. 原帖及其媒体元素在公开浏览器中正常打开，无需登录。
+- 素材：已存入仓库. 已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。
+- [逐项尝试与结果](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## 原始提示词
 

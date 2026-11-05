@@ -8,24 +8,29 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-老虎戴着红色拳击手套和头带。原帖发布于 2026-11-05 03:01 UTC。帖子将附件标为 GIF，但 X 提供的可访问动画为 MP4，不是 GIF 原文件。已查看原帖和可见预览，未测试播放质量或独立复现。素材等待核实转载依据，暂保留来源链接。
+戴红色拳击手套与头带的老虎。原帖将动画归因于 Images 2.6。X 提供的 MP4 与静态海报已入库；MP4 解码检查通过，但不是 GIF 原文件。原帖发布于 2026-11-05 03:01 UTC，未公开准确提示词和模型版本。
 
 ## 图片 / 动画文件
 
-![占位图，不是模型输出](../../assets/media-placeholder-zh-CN.svg)
-
-**占位：素材暂未入库，请查看下方来源链接及逐项获取状态。**
-
-[到原始来源查看作品](https://x.com/baiji57165/status/2118176730079007145)
+[打开仓库内视频文件](../../assets/examples/community-boxing-tiger/source-01.mp4)
 
 - [X 提供的拳击老虎动画 MP4](https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4) · video
   - 署名：Archiefff (@baiji57165)
-  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。
+  - [来源 / 权利依据](https://x.com/baiji57165/status/2118176730079007145)
+![拳击老虎静态预览，不是 GIF](../../assets/examples/community-boxing-tiger/source-02.webp)
+
 - [拳击老虎静态预览，不是 GIF](https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large) · poster
   - 署名：Archiefff (@baiji57165)
-  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 此文件为静态海报，不是 GIF 原文件。
+  - [来源 / 权利依据](https://x.com/baiji57165/status/2118176730079007145)
+
+## 原帖与素材获取状态
+
+- 核对日期：2026-11-05 (UTC)
+- 原帖：可打开. 原帖及其媒体元素在公开浏览器中正常打开，无需登录。
+- 素材：已存入仓库. 已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。
+- [逐项尝试与结果](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## 原始提示词
 

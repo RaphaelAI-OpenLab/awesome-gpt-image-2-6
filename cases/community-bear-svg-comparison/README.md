@@ -8,20 +8,29 @@
 
 **Creator-reported model · Source-only; not independently reproduced**
 
-Two bear mascots against mountain scenery. The creator compares a simple SVG result with a more detailed PNG result from the same undisclosed prompt. Published 2026-11-05 01:28 UTC. The linked WebP files are X-served raster previews, not original SVG or PNG downloads. Original post and both visible images checked; not independently reproduced. Media remains source-linked pending reuse permission.
+The creator compares claimed SVG and PNG outputs from the same undisclosed prompt. Both public WebP previews are archived locally; original SVG/PNG files were not supplied. Published 2026-11-05 01:28 UTC. The model claim is creator-reported and the generation process was not reproduced.
 
 ## Images / GIFs
 
+![Raster preview of the claimed SVG bear result](../../assets/examples/community-bear-svg-comparison/source-01.webp)
+
 - [Raster preview of the claimed SVG bear result](https://pbs.twimg.com/media/HWUw0tfaQAAol4Q?format=webp&name=large) · image
   - Credit: pixexid (@pixexid)
-  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
-  - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - Reuse: source-attributed. Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. WebP raster preview, not the original SVG.
+  - [Provenance / rights evidence](https://x.com/pixexid/status/2118153375464505689)
 ![Raster preview of the claimed PNG bear result](../../assets/examples/community-bear-svg-comparison/source-02.webp)
 
 - [Raster preview of the claimed PNG bear result](https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large) · image
   - Credit: pixexid (@pixexid)
   - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. This is a WebP preview, not the original SVG or PNG.
   - [Provenance / rights evidence](https://x.com/pixexid/status/2118153375464505689)
+
+## Source-page and media access
+
+- Checked: 2026-11-05 (UTC)
+- Original page: Accessible. Original post and its media elements opened normally in the public browser without signing in.
+- Media: Archived locally. All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.
+- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## Original prompt
 

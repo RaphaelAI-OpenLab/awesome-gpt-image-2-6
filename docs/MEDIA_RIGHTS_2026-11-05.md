@@ -1,6 +1,6 @@
 # Media provenance and availability / 素材来源与获取状态
 
-Checked 2026-11-05 (UTC). This records actual provenance, file formats and availability. It is not a permission grant or legal advice.
+Updated 2026-11-05 (UTC). This records actual provenance, file formats and availability. It is not a permission grant or legal advice.
 
 核查日期：2026-11-05（UTC）。本页记录真实来源、文件格式与获取结果，不构成授权或法律意见。
 
@@ -14,9 +14,9 @@ Explicit no-redistribution restrictions and access controls must be respected. A
 
 明确禁止转载的限制与访问控制必须遵守；“许可未知”不写成“明确禁止”。获取失败的文件保留来源链接，不绕过登录、访问控制或反爬限制。
 
-This update adds 81 files to the three already archived, for 84 local media files: 69 documentation files, 13 launch-page files and two community previews. Fifteen are labelled reference inputs. Nine direct media requests failed with HTTP 403.
+The first archival update added 81 files to the three existing files. A later [per-file browser recheck](MEDIA_ACCESS_2026-11-05.md) recovered all nine previously failed X files, bringing the current total to 93. Fifteen are labelled reference inputs. Both Reddit original pages remain blocked in the checked browser; their direct-media availability is unknown.
 
-本次新增 81 个文件，连同已有 3 个，共 84 个本地素材：69 个文档素材、13 个发布页素材、2 个社区预览。其中 15 个标为参考输入；9 个直接素材请求返回 HTTP 403。
+首轮新增 81 个文件，连同原有 3 个共 84 个；随后[逐项浏览器复查](MEDIA_ACCESS_2026-11-05.md)补齐此前失败的全部 9 个 X 素材，当前共 93 个，其中 15 个为参考输入。两个 Reddit 原帖在本次浏览器中仍被拦截，其直接媒体可获取性未知。
 
 ## Official documentation and launch / 官方文档与发布案例
 
@@ -40,23 +40,15 @@ The original posts and visible previews were inspected. Each creator explicitly 
 
 已查看原帖和可见预览；模型归属仅为作者自报，未独立复现。原始提示词与 Sunburst/Flare 版本未公开。未查到针对这些作品的作者禁止转载声明，亦未核实独立转载许可证。
 
-### Successfully archived / 已入库
+### Current archival status / 当前收录状态
 
-- Bear comparison: the second WebP raster preview (`HWUw0tbbkAANo7E`), not the original PNG/SVG file.
-- Rosebud: static WebP poster (`HWUgYUbWMAAdp79`), not the MP4 animation.
+All 11 recorded media files across the four X cases are now stored locally: six MP4s and five WebP images/posters. The nine earlier HTTP 403 results were failures of direct media requests, not proof that the original X posts were inaccessible. Normal browser media saving succeeded for all nine on recheck. See the [per-file route and verification report](MEDIA_ACCESS_2026-11-05.md).
 
-### HTTP 403: links retained / HTTP 403：保留链接
+四个 X 案例记录的 11 个素材现均已入库：6 个 MP4 与 5 张 WebP 图片 / 海报。此前九个 HTTP 403 是直接媒体请求失败，不代表 X 原帖打不开；本次正常浏览器保存全部成功。逐项路径与文件检查见[复查报告](MEDIA_ACCESS_2026-11-05.md)。
 
-Normal public-URL retrieval returned HTTP 403 for nine files. They were not archived and were not retried through bypasses:
+The X animations are MP4, not original GIFs. The bear previews are WebP rasters, not original SVG/PNG files. Both exact Reddit source pages were re-opened and showed a network-security block; no direct media URL was exposed, so media availability remains unknown. No access controls were bypassed.
 
-- Bear first preview: `HWUw0tfaQAAol4Q`.
-- Boxing tiger MP4 and poster: `HWVGfUja0AA4Mww`.
-- Hummingbird MP4s: `HWUjhD1WoAA4H3e`, `HWUjjV8WEAA1Msj`, `HWUjlaLW0AAZPL5`, `HWUjnGlWsAA1ptO`; first poster: `HWUjhD1WoAA4H3e`.
-- Rosebud MP4: `HWUgYUbWMAAdp79`.
-
-Exact URLs remain in each case's media records. The X animations are MP4, even when the interface labels them GIF. No MP4 was renamed or converted to a GIF. The two pre-existing Reddit cases still lack a verified downloadable asset URL; previously blocked Reddit access was not bypassed.
-
-准确素材地址保留在逐项记录中。X 界面标为 GIF 的动画链接实际是 MP4，没有改后缀冒充 GIF，也未转换格式。两个既有 Reddit 案例尚无核实的可下载素材链接，没有绕过此前的访问限制。
+X 动画为 MP4，不是 GIF 原文件；熊预览为 WebP 栅格图，不是 SVG/PNG 原文件。两个准确 Reddit 原帖重新打开后均显示网络安全拦截，未获得直接媒体链接，素材可获取性仍未知。未绕过访问控制。
 
 ### Platform and creator terms / 平台与作者条款
 

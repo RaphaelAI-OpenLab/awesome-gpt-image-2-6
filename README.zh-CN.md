@@ -80,7 +80,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | 社区作者自报案例 | **6** |
 | 来源公开原始提示词 | **33** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **84** |
+| 本地收录素材文件 | **93** |
 | 最近来源核对（UTC） | **2026-11-05** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -111,7 +111,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
 | 2026-11-05 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [蜂鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 |
@@ -217,7 +217,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [夏日角色插画动画](cases/community-malfoid/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [蜂鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)

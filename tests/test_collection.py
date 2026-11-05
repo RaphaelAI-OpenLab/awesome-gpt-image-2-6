@@ -137,6 +137,27 @@ class CollectionTests(unittest.TestCase):
         self.assertNotRegex(text,r'!\[[^]]*\]\([^)]*clip.mp4')
         self.assertIsNone(preview(item))
 
+    def test_access_notes_distinguish_original_page_and_media(self):
+        item=copy.deepcopy(next(x for x in self.cases if x.get('access',{}).get('page_status')=='blocked'))
+        self.assertEqual(item['access']['media_status'],'unknown')
+        text=render_detail(item,'en')
+        self.assertIn('Original page:',text)
+        self.assertIn('Media:',text)
+        self.assertIn('No direct-media request was made',text)
+        self.assertIn('../../docs/MEDIA_ACCESS_2026-11-05.md',text)
+
+    def test_archived_access_status_requires_all_files(self):
+        item=copy.deepcopy(next(x for x in self.cases if x.get('access',{}).get('media_status')=='archived'))
+        item['media'][0]['path']=None
+        self.assertTrue(any('archived requires all recorded media' in x for x in self.errors_for(item)))
+
+    def test_access_report_and_bilingual_notes_required(self):
+        item=copy.deepcopy(next(x for x in self.cases if x.get('access')))
+        item['access']['page_note']['zh-CN']=''
+        self.assertTrue(any('bilingual note' in x for x in self.errors_for(item)))
+        item['access']['report_path']='docs/not-a-report.md'
+        self.assertTrue(any('file does not exist' in x for x in self.errors_for(item)))
+
     def test_source_linked_mp4_is_video_not_gif(self):
         item=copy.deepcopy(next(x for x in self.cases if any(m['kind']=='video' for m in x['media'])))
         self.assertEqual(self.errors_for(item), [])

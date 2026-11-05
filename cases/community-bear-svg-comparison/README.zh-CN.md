@@ -8,20 +8,29 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-两幅山景背景的熊吉祥物。作者比较同一未公开提示词的简化 SVG 输出与更细致的 PNG 输出。原帖发布于 2026-11-05 01:28 UTC。所列 WebP 是 X 提供的栅格预览，不是 SVG 或 PNG 原文件。已查看原帖和两幅图片，未独立复现。素材等待核实转载依据，暂保留来源链接。
+作者对比同一未公开提示词的 SVG 与 PNG 输出。两张公开 WebP 预览均已入库，未提供原始 SVG/PNG 文件。原帖发布于 2026-11-05 01:28 UTC。模型归属仅为作者自报，未复现生成过程。
 
 ## 图片 / GIF
 
+![作者所称 SVG 熊吉祥物输出的栅格预览](../../assets/examples/community-bear-svg-comparison/source-01.webp)
+
 - [作者所称 SVG 熊吉祥物输出的栅格预览](https://pbs.twimg.com/media/HWUw0tfaQAAol4Q?format=webp&name=large) · image
   - 署名：pixexid (@pixexid)
-  - 使用条件：link-only. 2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。
-  - [来源 / 权利依据](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - 使用条件：source-attributed. 直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 此文件为 WebP 栅格预览，不是 SVG 原文件。
+  - [来源 / 权利依据](https://x.com/pixexid/status/2118153375464505689)
 ![作者所称 PNG 熊吉祥物输出的栅格预览](../../assets/examples/community-bear-svg-comparison/source-02.webp)
 
 - [作者所称 PNG 熊吉祥物输出的栅格预览](https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large) · image
   - 署名：pixexid (@pixexid)
   - 使用条件：source-attributed. 为本教育用途合集原样存档的公开来源文件。未找到明确转载许可证；署名及仓库版权声明不构成授权，亦不适用仓库 MIT 许可。 此文件是 WebP 预览，并非原始 SVG 或 PNG。
   - [来源 / 权利依据](https://x.com/pixexid/status/2118153375464505689)
+
+## 原帖与素材获取状态
+
+- 核对日期：2026-11-05 (UTC)
+- 原帖：可打开. 原帖及其媒体元素在公开浏览器中正常打开，无需登录。
+- 素材：已存入仓库. 已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。
+- [逐项尝试与结果](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## 原始提示词
 

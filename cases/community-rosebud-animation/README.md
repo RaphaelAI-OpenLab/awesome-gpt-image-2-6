@@ -8,20 +8,29 @@
 
 **Creator-reported model · Source-only; not independently reproduced**
 
-A red rosebud covered with water droplets appears in the animation preview. Published 2026-11-05 00:14 UTC. The creator says he tried ChatGPT Images 2.6 animation. X labels the attachment GIF but serves MP4; neither an original GIF nor a prompt was published in the checked post. The original post and visible preview were checked, without testing animation quality or reproducing it. Media remains source-linked pending reuse permission.
+A red rosebud with water drops. The creator says it was made with ChatGPT Images 2.6. The X-served MP4 and static WebP poster are archived; the MP4 decodes successfully, but is not an original GIF. Published 2026-11-05 00:14 UTC. Exact prompt and model variant were not disclosed; the generation process was not reproduced.
 
 ## Images / animation files
 
+[Open local video file](../../assets/examples/community-rosebud-animation/source-01.mp4)
+
 - [X-served MP4 of the rosebud animation](https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4) · video
   - Credit: Michael Guo (@Michaelzsguo)
-  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
-  - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - Reuse: source-attributed. Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.
+  - [Provenance / rights evidence](https://x.com/Michaelzsguo/status/2118134837357744435)
 ![Static rosebud preview, not a GIF](../../assets/examples/community-rosebud-animation/source-02.webp)
 
 - [Static rosebud preview, not a GIF](https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large) · poster
   - Credit: Michael Guo (@Michaelzsguo)
   - Reuse: source-attributed. Unmodified public-source archival copy for this educational collection. An explicit redistribution license was not located; source attribution and the repository copyright notice do not grant one. Excluded from the repository MIT license. Static poster only, not the original animation.
   - [Provenance / rights evidence](https://x.com/Michaelzsguo/status/2118134837357744435)
+
+## Source-page and media access
+
+- Checked: 2026-11-05 (UTC)
+- Original page: Accessible. Original post and its media elements opened normally in the public browser without signing in.
+- Media: Archived locally. All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.
+- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## Original prompt
 

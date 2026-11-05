@@ -289,6 +289,75 @@
       },
       "featured": {
         "type": "boolean"
+      },
+      "access": {
+        "type": "object",
+        "required": [
+          "checked_at",
+          "page_status",
+          "media_status",
+          "page_note",
+          "media_note",
+          "report_path"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "checked_at": {
+            "type": "string"
+          },
+          "page_status": {
+            "type": "string",
+            "enum": [
+              "accessible",
+              "blocked",
+              "unknown"
+            ]
+          },
+          "media_status": {
+            "type": "string",
+            "enum": [
+              "archived",
+              "partial",
+              "unknown",
+              "failed"
+            ]
+          },
+          "page_note": {
+            "type": "object",
+            "required": [
+              "en",
+              "zh-CN"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "zh-CN": {
+                "type": "string"
+              }
+            }
+          },
+          "media_note": {
+            "type": "object",
+            "required": [
+              "en",
+              "zh-CN"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "zh-CN": {
+                "type": "string"
+              }
+            }
+          },
+          "report_path": {
+            "type": "string"
+          }
+        }
       }
     }
   }

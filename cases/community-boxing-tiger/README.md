@@ -8,24 +8,29 @@
 
 **Creator-reported model · Source-only; not independently reproduced**
 
-A tiger wears red boxing gloves and a red headband. Published 2026-11-05 03:01 UTC. The post labels its attachment as a GIF, but X serves the accessible animation as MP4. The MP4 is not the original GIF file. The original post and visible preview were checked; playback quality and reproduction were not tested. Media remains source-linked pending reuse permission.
+A tiger wearing red boxing gloves and a headband. The original post attributes the animation to Images 2.6. The X-served MP4 and static poster are archived; the MP4 decodes successfully, but is not an original GIF. Published 2026-11-05 03:01 UTC. Exact prompt and model variant were not disclosed.
 
 ## Images / animation files
 
-![Placeholder, not model output](../../assets/media-placeholder-en.svg)
-
-**PLACEHOLDER: media not archived. See the source links and item-level availability notes below.**
-
-[View the work at its original source](https://x.com/baiji57165/status/2118176730079007145)
+[Open local video file](../../assets/examples/community-boxing-tiger/source-01.mp4)
 
 - [X-served MP4 of the boxing tiger animation](https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4) · video
   - Credit: Archiefff (@baiji57165)
-  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
-  - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - Reuse: source-attributed. Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.
+  - [Provenance / rights evidence](https://x.com/baiji57165/status/2118176730079007145)
+![Static boxing tiger preview, not a GIF](../../assets/examples/community-boxing-tiger/source-02.webp)
+
 - [Static boxing tiger preview, not a GIF](https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large) · poster
   - Credit: Archiefff (@baiji57165)
-  - Reuse: link-only. The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.
-  - [Provenance / rights evidence](../../docs/MEDIA_RIGHTS_2026-11-05.md)
+  - Reuse: source-attributed. Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. Static poster, not an original GIF.
+  - [Provenance / rights evidence](https://x.com/baiji57165/status/2118176730079007145)
+
+## Source-page and media access
+
+- Checked: 2026-11-05 (UTC)
+- Original page: Accessible. Original post and its media elements opened normally in the public browser without signing in.
+- Media: Archived locally. All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.
+- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-05.md)
 
 ## Original prompt
 

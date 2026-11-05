@@ -9,6 +9,12 @@ LABELS = {
     'source-only': {'en': 'Original prompt at source', 'zh-CN': '原提示词见来源'},
     'not-public': {'en': 'Prompt not public', 'zh-CN': '提示词未公开'},
     'unspecified': {'en': 'Variant unspecified', 'zh-CN': '版本未注明'},
+    'accessible': {'en': 'Accessible', 'zh-CN': '可打开'},
+    'blocked': {'en': 'Blocked in this browser', 'zh-CN': '当前浏览器被拦截'},
+    'unknown': {'en': 'Unknown', 'zh-CN': '未知'},
+    'archived': {'en': 'Archived locally', 'zh-CN': '已存入仓库'},
+    'partial': {'en': 'Partially archived', 'zh-CN': '部分入库'},
+    'failed': {'en': 'Retrieval failed', 'zh-CN': '获取失败'},
 }
 
 
@@ -64,6 +70,13 @@ def render_detail(item, language):
                   '  - ' + choose('Reuse: ', '使用条件：') + media['rights']['status'] + '. ' + md_text(localized(media['rights']['note'], language))]
         if media['rights']['evidence_url']:
             lines.append('  - ' + md_link(choose('Provenance / rights evidence', '来源 / 权利依据'), image_path(media['rights']['evidence_url'], '../../')))
+    if item.get('access'):
+        access = item['access']
+        lines += ['', '## ' + choose('Source-page and media access', '原帖与素材获取状态'), '',
+                  '- ' + choose('Checked: ', '核对日期：') + access['checked_at'] + ' (UTC)',
+                  '- ' + choose('Original page: ', '原帖：') + label(access['page_status'], language) + '. ' + md_text(localized(access['page_note'], language)),
+                  '- ' + choose('Media: ', '素材：') + label(access['media_status'], language) + '. ' + md_text(localized(access['media_note'], language)),
+                  '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), '../../' + access['report_path'])]
     lines += ['', '## ' + choose('Original prompt', '原始提示词'), '']
     if item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',

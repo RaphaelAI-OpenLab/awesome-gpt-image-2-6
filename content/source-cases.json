@@ -3232,7 +3232,21 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": true,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "blocked",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact original post shows Reddit's network-security block in this browser. Numeric HTTP status was not exposed; this is not evidence that the post is deleted or globally unavailable.",
+        "zh-CN": "本次浏览器打开该准确原帖时显示 Reddit 网络安全拦截。未显示数字 HTTP 状态，不能据此认定帖子已删除或全球不可访问。"
+      },
+      "media_note": {
+        "en": "No media URL was exposed by the blocked page. No direct-media request was made, so media availability remains unknown.",
+        "zh-CN": "被拦截页面未提供媒体地址，未发起直接媒体请求，素材可获取性仍未知。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   },
   {
     "id": "community-gifts",
@@ -3268,7 +3282,21 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "blocked",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact original post shows Reddit's network-security block in this browser. Numeric HTTP status was not exposed; this is not evidence that the post is deleted or globally unavailable.",
+        "zh-CN": "本次浏览器打开该准确原帖时显示 Reddit 网络安全拦截。未显示数字 HTTP 状态，不能据此认定帖子已删除或全球不可访问。"
+      },
+      "media_note": {
+        "en": "No media URL was exposed by the blocked page. No direct-media request was made, so media availability remains unknown.",
+        "zh-CN": "被拦截页面未提供媒体地址，未发起直接媒体请求，素材可获取性仍未知。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   },
   {
     "id": "community-bear-svg-comparison",
@@ -3300,21 +3328,25 @@
     "media": [
       {
         "source_url": "https://pbs.twimg.com/media/HWUw0tfaQAAol4Q?format=webp&name=large",
-        "path": null,
+        "path": "assets/examples/community-bear-svg-comparison/source-01.webp",
         "kind": "image",
         "alt": {
           "en": "Raster preview of the claimed SVG bear result",
           "zh-CN": "作者所称 SVG 熊吉祥物输出的栅格预览"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/pixexid/status/2118153375464505689",
           "credit": "pixexid (@pixexid)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. WebP raster preview, not the original SVG.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 此文件为 WebP 栅格预览，不是 SVG 原文件。"
           }
-        }
+        },
+        "bytes": 42578,
+        "sha256": "98fda91a587f470fc4c580788a4aefda170e7efff7d13a7ea483fbef34881f4e",
+        "mime_type": "image/webp",
+        "role": "output"
       },
       {
         "source_url": "https://pbs.twimg.com/media/HWUw0tbbkAANo7E?format=webp&name=large",
@@ -3340,12 +3372,26 @@
       }
     ],
     "notes": {
-      "en": "Two bear mascots against mountain scenery. The creator compares a simple SVG result with a more detailed PNG result from the same undisclosed prompt. Published 2026-11-05 01:28 UTC. The linked WebP files are X-served raster previews, not original SVG or PNG downloads. Original post and both visible images checked; not independently reproduced. Media remains source-linked pending reuse permission.",
-      "zh-CN": "两幅山景背景的熊吉祥物。作者比较同一未公开提示词的简化 SVG 输出与更细致的 PNG 输出。原帖发布于 2026-11-05 01:28 UTC。所列 WebP 是 X 提供的栅格预览，不是 SVG 或 PNG 原文件。已查看原帖和两幅图片，未独立复现。素材等待核实转载依据，暂保留来源链接。"
+      "en": "The creator compares claimed SVG and PNG outputs from the same undisclosed prompt. Both public WebP previews are archived locally; original SVG/PNG files were not supplied. Published 2026-11-05 01:28 UTC. The model claim is creator-reported and the generation process was not reproduced.",
+      "zh-CN": "作者对比同一未公开提示词的 SVG 与 PNG 输出。两张公开 WebP 预览均已入库，未提供原始 SVG/PNG 文件。原帖发布于 2026-11-05 01:28 UTC。模型归属仅为作者自报，未复现生成过程。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original post and its media elements opened normally in the public browser without signing in.",
+        "zh-CN": "原帖及其媒体元素在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
+        "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   },
   {
     "id": "community-boxing-tiger",
@@ -3377,55 +3423,77 @@
     "media": [
       {
         "source_url": "https://video.twimg.com/tweet_video/HWVGfUja0AA4Mww.mp4",
-        "path": null,
+        "path": "assets/examples/community-boxing-tiger/source-01.mp4",
         "kind": "video",
         "alt": {
           "en": "X-served MP4 of the boxing tiger animation",
           "zh-CN": "X 提供的拳击老虎动画 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/baiji57165/status/2118176730079007145",
           "credit": "Archiefff (@baiji57165)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 82789,
+        "sha256": "066d9d10f6b5fc266e3e93262781cef4f8e3cdc2ccc73bdd8e3cae2d4caa4995",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWVGfUja0AA4Mww?format=webp&name=large",
-        "path": null,
+        "path": "assets/examples/community-boxing-tiger/source-02.webp",
         "kind": "poster",
         "alt": {
           "en": "Static boxing tiger preview, not a GIF",
           "zh-CN": "拳击老虎静态预览，不是 GIF"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/baiji57165/status/2118176730079007145",
           "credit": "Archiefff (@baiji57165)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. Static poster, not an original GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 此文件为静态海报，不是 GIF 原文件。"
           }
-        }
+        },
+        "bytes": 47570,
+        "sha256": "7a08f47020edf1f27b4896d0c0cf065ca9b8e8501961b6e46215445eaadd44f9",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
-      "en": "A tiger wears red boxing gloves and a red headband. Published 2026-11-05 03:01 UTC. The post labels its attachment as a GIF, but X serves the accessible animation as MP4. The MP4 is not the original GIF file. The original post and visible preview were checked; playback quality and reproduction were not tested. Media remains source-linked pending reuse permission.",
-      "zh-CN": "老虎戴着红色拳击手套和头带。原帖发布于 2026-11-05 03:01 UTC。帖子将附件标为 GIF，但 X 提供的可访问动画为 MP4，不是 GIF 原文件。已查看原帖和可见预览，未测试播放质量或独立复现。素材等待核实转载依据，暂保留来源链接。"
+      "en": "A tiger wearing red boxing gloves and a headband. The original post attributes the animation to Images 2.6. The X-served MP4 and static poster are archived; the MP4 decodes successfully, but is not an original GIF. Published 2026-11-05 03:01 UTC. Exact prompt and model variant were not disclosed.",
+      "zh-CN": "戴红色拳击手套与头带的老虎。原帖将动画归因于 Images 2.6。X 提供的 MP4 与静态海报已入库；MP4 解码检查通过，但不是 GIF 原文件。原帖发布于 2026-11-05 03:01 UTC，未公开准确提示词和模型版本。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original post and its media elements opened normally in the public browser without signing in.",
+        "zh-CN": "原帖及其媒体元素在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
+        "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   },
   {
     "id": "community-hummingbird-variants",
     "status": "published",
     "title": {
-      "en": "Hummingbird animation variants",
-      "zh-CN": "蜂鸟动画多版本"
+      "en": "Hummingbird and kingfisher animation variants",
+      "zh-CN": "蜂鸟与翠鸟动画多版本"
     },
     "category": "gif-animation",
     "source": {
@@ -3450,102 +3518,136 @@
     "media": [
       {
         "source_url": "https://video.twimg.com/tweet_video/HWUjhD1WoAA4H3e.mp4",
-        "path": null,
+        "path": "assets/examples/community-hummingbird-variants/source-01.mp4",
         "kind": "video",
         "alt": {
-          "en": "Animation variant 1, X-served MP4",
-          "zh-CN": "动画版本 1，X 提供的 MP4"
+          "en": "Hummingbird animation variant 1, X-served MP4",
+          "zh-CN": "蜂鸟动画版本 1，X 提供的 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Dheepanratnam/status/2118138765487100027",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 47890,
+        "sha256": "418300ea4a55483547685408d1ff0f65cffbc951357ec2e64ce0f8a3587eb92d",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://video.twimg.com/tweet_video/HWUjjV8WEAA1Msj.mp4",
-        "path": null,
+        "path": "assets/examples/community-hummingbird-variants/source-02.mp4",
         "kind": "video",
         "alt": {
-          "en": "Animation variant 2, X-served MP4",
-          "zh-CN": "动画版本 2，X 提供的 MP4"
+          "en": "Hummingbird animation variant 2, X-served MP4",
+          "zh-CN": "蜂鸟动画版本 2，X 提供的 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Dheepanratnam/status/2118138765487100027",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 45726,
+        "sha256": "911f1aa1aa24c09199ba2874d4011c78d8efe731c404f7f89917e3fa794806c3",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://video.twimg.com/tweet_video/HWUjlaLW0AAZPL5.mp4",
-        "path": null,
+        "path": "assets/examples/community-hummingbird-variants/source-03.mp4",
         "kind": "video",
         "alt": {
-          "en": "Animation variant 3, X-served MP4",
-          "zh-CN": "动画版本 3，X 提供的 MP4"
+          "en": "Kingfisher animation variant 3, X-served MP4",
+          "zh-CN": "翠鸟动画版本 3，X 提供的 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Dheepanratnam/status/2118138765487100027",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 84562,
+        "sha256": "d9e4fd4ee307e4f68e599db3dab32b853d66d25d21c167ecf8bc2e57cb7a0f5f",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://video.twimg.com/tweet_video/HWUjnGlWsAA1ptO.mp4",
-        "path": null,
+        "path": "assets/examples/community-hummingbird-variants/source-04.mp4",
         "kind": "video",
         "alt": {
-          "en": "Animation variant 4, X-served MP4",
-          "zh-CN": "动画版本 4，X 提供的 MP4"
+          "en": "Kingfisher animation variant 4, X-served MP4",
+          "zh-CN": "翠鸟动画版本 4，X 提供的 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Dheepanratnam/status/2118138765487100027",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 94501,
+        "sha256": "d84be8730289962083d9ce33fcac578377092233e3fde3baa0d6231d576b214b",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWUjhD1WoAA4H3e?format=webp&name=large",
-        "path": null,
+        "path": "assets/examples/community-hummingbird-variants/source-05.webp",
         "kind": "poster",
         "alt": {
           "en": "Static hummingbird and hibiscus preview, not a GIF",
           "zh-CN": "蜂鸟与朱槿花静态预览，不是 GIF"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Dheepanratnam/status/2118138765487100027",
           "credit": "Dheepan Ratnam (@Dheepanratnam)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. Static poster, not an original GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 此文件为静态海报，不是 GIF 原文件。"
           }
-        }
+        },
+        "bytes": 11570,
+        "sha256": "2d7a74f0ce8e1b943d7e5d6e4be250a849764d640f8ba0ca31a35281e235b0e3",
+        "mime_type": "image/webp",
+        "role": "output"
       }
     ],
     "notes": {
-      "en": "The post contains four animation attachments; the visible preview shows a hummingbird beside a pink hibiscus. The creator describes a nine-frame-to-24-fps workflow. Published 2026-11-05 00:30 UTC. Treat all four attachments as one workflow, not four independent cases. X serves MP4s; no original GIF or sprite-sheet download was verified. The workflow and frame-rate claim were not independently tested. Media remains source-linked pending reuse permission.",
-      "zh-CN": "原帖包含四个动画附件，可见预览为粉色朱槿花旁的蜂鸟。作者描述了从 9 帧到 24 fps 的流程。原帖发布于 2026-11-05 00:30 UTC。四个附件合并为一个工作流，不分拆计为四个案例。X 提供 MP4，未核实 GIF 或精灵图原文件；未独立验证流程与帧率。素材等待核实转载依据，暂保留来源链接。"
+      "en": "The first two attachments show a hummingbird beside a pink hibiscus; the last two show a kingfisher above water. All four X-served MP4s and the first poster are archived and the MP4s decode successfully. The creator describes a nine-frame-to-24-fps workflow; the delivered MP4 metadata is 10, 10, about 8.33 and 5.26 fps respectively, which does not independently establish the original generation/interpolation workflow. Count the attachments as one case. Published 2026-11-05 00:30 UTC. No original GIF or sprite sheet was verified.",
+      "zh-CN": "前两个附件为粉色朱槿花旁的蜂鸟，后两个为水面上方的翠鸟。四个 X 提供的 MP4 和第一张静态海报均已入库，MP4 解码检查通过。作者描述从 9 帧到 24 fps 的流程；实际存档 MP4 的帧率元数据依次为 10、10、约 8.33 和 5.26 fps，这不能独立确认原始生成或补帧流程。所有附件合并计为一个案例。原帖发布于 2026-11-05 00:30 UTC，未核实 GIF 或精灵图原文件。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original post and its media elements opened normally in the public browser without signing in.",
+        "zh-CN": "原帖及其媒体元素在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
+        "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   },
   {
     "id": "community-rosebud-animation",
@@ -3577,21 +3679,25 @@
     "media": [
       {
         "source_url": "https://video.twimg.com/tweet_video/HWUgYUbWMAAdp79.mp4",
-        "path": null,
+        "path": "assets/examples/community-rosebud-animation/source-01.mp4",
         "kind": "video",
         "alt": {
           "en": "X-served MP4 of the rosebud animation",
           "zh-CN": "X 提供的玫瑰花蕾动画 MP4"
         },
         "rights": {
-          "status": "link-only",
-          "evidence_url": "docs/MEDIA_RIGHTS_2026-11-05.md",
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Michaelzsguo/status/2118134837357744435",
           "credit": "Michael Guo (@Michaelzsguo)",
           "note": {
-            "en": "The public media URL returned HTTP 403 on 2026-11-05. The file was not archived and no access restriction was bypassed. Redistribution license not verified.",
-            "zh-CN": "2026-11-05 公开素材地址返回 HTTP 403，未入库且未绕过访问限制；未核实转载许可证。"
+            "en": "Saved unchanged through the normal public browser media view after a direct HTTP request had returned 403. Exact source retained; independent redistribution license not verified. Attribution and the copyright notice are not a permission grant, and the repository MIT license does not cover this file. The downloaded file is MP4, not GIF.",
+            "zh-CN": "直接 HTTP 请求曾返回 403，本次通过正常公开浏览器媒体视图原样保存。保留准确来源，未核实独立转载许可证；署名和版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 下载文件的实际格式是 MP4，不是 GIF。"
           }
-        }
+        },
+        "bytes": 73275,
+        "sha256": "a281b37e047c98a0cd0a8d84cb3a7ecf1bfd4fc7edb5c5bdc61cf524d776ca87",
+        "mime_type": "video/mp4",
+        "role": "output"
       },
       {
         "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWUgYUbWMAAdp79?format=webp&name=large",
@@ -3617,11 +3723,25 @@
       }
     ],
     "notes": {
-      "en": "A red rosebud covered with water droplets appears in the animation preview. Published 2026-11-05 00:14 UTC. The creator says he tried ChatGPT Images 2.6 animation. X labels the attachment GIF but serves MP4; neither an original GIF nor a prompt was published in the checked post. The original post and visible preview were checked, without testing animation quality or reproducing it. Media remains source-linked pending reuse permission.",
-      "zh-CN": "动画预览为沾有水滴的红色玫瑰花蕾。原帖发布于 2026-11-05 00:14 UTC，作者称尝试制作 ChatGPT Images 2.6 动图。X 将附件标为 GIF，但提供 MP4；所核对原帖未公开 GIF 原文件或提示词。已查看原帖及预览，未测试动画质量或独立复现。素材等待核实转载依据，暂保留来源链接。"
+      "en": "A red rosebud with water drops. The creator says it was made with ChatGPT Images 2.6. The X-served MP4 and static WebP poster are archived; the MP4 decodes successfully, but is not an original GIF. Published 2026-11-05 00:14 UTC. Exact prompt and model variant were not disclosed; the generation process was not reproduced.",
+      "zh-CN": "带水滴的红色玫瑰花苞。作者称使用 ChatGPT Images 2.6 制作。X 提供的 MP4 与静态 WebP 海报均已入库；MP4 解码检查通过，但不是 GIF 原文件。原帖发布于 2026-11-05 00:14 UTC，准确提示词与模型版本未公开，未复现生成过程。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original post and its media elements opened normally in the public browser without signing in.",
+        "zh-CN": "原帖及其媒体元素在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
+        "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+    }
   }
 ]

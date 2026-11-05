@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-05 · Recover nine media files through the browser
+
+- Re-open all four X originals and archive the nine previously failed media files using normal browser saving: six MP4s and three WebP files.
+- Recheck both exact Reddit originals; distinguish their visible network-security blocks from unknown direct-media availability.
+- Add separate page/media access metadata and a per-file route report; update generated pages and the local-media count to 93.
+- Verify MP4 decoding; correct hummingbird/kingfisher labels and distinguish the creator’s frame-rate claim from delivered-file metadata.
+
+
 ## 2026-11-05 · Local media and copyright notice
 
 - Add the educational-use/takedown notice to both generated homepages with this repository’s issue URL.
