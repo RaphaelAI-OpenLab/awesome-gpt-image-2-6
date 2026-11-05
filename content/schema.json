@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Prompt collection data",
+  "description": "Drafts may keep empty values. Published-entry requirements are additionally checked by scripts/validate.py.",
+  "type": "array",
+  "items": {"$ref": "#/$defs/prompt"},
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "required": ["en", "zh-CN"],
+      "additionalProperties": false,
+      "properties": {"en": {"type": "string"}, "zh-CN": {"type": "string"}}
+    },
+    "optionalString": {"type": ["string", "null"]},
+    "prompt": {
+      "type": "object",
+      "required": ["id", "status", "title", "summary", "category", "tags", "prompt_language", "prompt", "model", "workflow", "preview", "reference_images", "source", "verification", "rights", "added_at", "featured", "links", "notes"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {"type": "string", "pattern": "^(?:[a-z0-9]+(?:-[a-z0-9]+)*)?$"},
+        "status": {"type": "string", "enum": ["draft", "published"]},
+        "title": {"$ref": "#/$defs/localized"},
+        "summary": {"$ref": "#/$defs/localized"},
+        "category": {"type": "string"},
+        "tags": {"type": "array", "items": {"type": "string"}},
+        "prompt_language": {"type": "string"},
+        "prompt": {"type": "string"},
+        "model": {
+          "type": "object", "required": ["family", "variant", "api_model_id"], "additionalProperties": false,
+          "properties": {
+            "family": {"type": "string"},
+            "variant": {"type": "string", "enum": ["sunburst", "flare", "unspecified"]},
+            "api_model_id": {"$ref": "#/$defs/optionalString"}
+          }
+        },
+        "workflow": {
+          "type": "object", "required": ["task_type", "parameters", "extra_parameters", "steps"], "additionalProperties": false,
+          "properties": {
+            "task_type": {"type": "string", "enum": ["generation", "editing", "vector", "animation"]},
+            "parameters": {
+              "type": "object", "required": ["size", "quality", "complexity", "output_format"], "additionalProperties": false,
+              "properties": {
+                "size": {"$ref": "#/$defs/optionalString"},
+                "quality": {"type": ["string", "null"], "enum": [null, "auto", "low", "medium", "high", "xhigh", "max"]},
+                "complexity": {"type": ["string", "null"], "enum": [null, "low", "medium", "high"]},
+                "output_format": {"type": ["string", "null"], "enum": [null, "png", "jpeg", "webp", "svg", "gif"]}
+              }
+            },
+            "extra_parameters": {"type": "object", "additionalProperties": {"type": ["string", "number", "boolean", "null"]}},
+            "steps": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "preview": {
+          "type": "object", "required": ["path", "alt"], "additionalProperties": false,
+          "properties": {"path": {"type": "string"}, "alt": {"$ref": "#/$defs/localized"}}
+        },
+        "reference_images": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["path", "description"], "additionalProperties": false,
+            "properties": {"path": {"type": "string"}, "description": {"$ref": "#/$defs/localized"}}
+          }
+        },
+        "source": {
+          "type": "object", "required": ["provenance", "url", "author", "author_url", "platform", "published_at"], "additionalProperties": false,
+          "properties": {
+            "provenance": {"type": "string", "enum": ["original", "collected", "adapted"]},
+            "url": {"$ref": "#/$defs/optionalString"},
+            "author": {"type": "string"},
+            "author_url": {"$ref": "#/$defs/optionalString"},
+            "platform": {"type": "string"},
+            "published_at": {"$ref": "#/$defs/optionalString"}
+          }
+        },
+        "verification": {
+          "type": "object", "required": ["status", "tested_at", "tested_on", "notes"], "additionalProperties": false,
+          "properties": {
+            "status": {"type": "string", "enum": ["source-only", "tested"]},
+            "tested_at": {"$ref": "#/$defs/optionalString"},
+            "tested_on": {"type": "string"},
+            "notes": {"$ref": "#/$defs/localized"}
+          }
+        },
+        "rights": {
+          "type": "object", "required": ["prompt", "preview", "credit", "license_url"], "additionalProperties": false,
+          "properties": {
+            "prompt": {"type": "string", "enum": ["own", "permission", "licensed", "source-attributed", "unknown"]},
+            "preview": {"type": "string", "enum": ["own", "permission", "licensed", "link-only", "unknown"]},
+            "credit": {"type": "string"},
+            "license_url": {"$ref": "#/$defs/optionalString"}
+          }
+        },
+        "added_at": {"$ref": "#/$defs/optionalString"},
+        "featured": {"type": "boolean"},
+        "links": {
+          "type": "object", "required": ["case_detail_url", "generate_url", "generate_url_verified_at"], "additionalProperties": false,
+          "properties": {
+            "case_detail_url": {"$ref": "#/$defs/optionalString"},
+            "generate_url": {"$ref": "#/$defs/optionalString"},
+            "generate_url_verified_at": {"$ref": "#/$defs/optionalString"}
+          }
+        },
+        "notes": {"$ref": "#/$defs/localized"}
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "status": "draft",
+  "title": {"en": "", "zh-CN": ""},
+  "summary": {"en": "", "zh-CN": ""},
+  "category": "",
+  "tags": [],
+  "prompt_language": "",
+  "prompt": "",
+  "model": {
+    "family": "GPT Image 2.6",
+    "variant": "unspecified",
+    "api_model_id": null
+  },
+  "workflow": {
+    "task_type": "generation",
+    "parameters": {
+      "size": null,
+      "quality": null,
+      "complexity": null,
+      "output_format": null
+    },
+    "extra_parameters": {},
+    "steps": []
+  },
+  "preview": {
+    "path": "",
+    "alt": {"en": "", "zh-CN": ""}
+  },
+  "reference_images": [],
+  "source": {
+    "provenance": "collected",
+    "url": null,
+    "author": "",
+    "author_url": null,
+    "platform": "",
+    "published_at": null
+  },
+  "verification": {
+    "status": "source-only",
+    "tested_at": null,
+    "tested_on": "",
+    "notes": {"en": "", "zh-CN": ""}
+  },
+  "rights": {
+    "prompt": "unknown",
+    "preview": "unknown",
+    "credit": "",
+    "license_url": null
+  },
+  "added_at": null,
+  "featured": false,
+  "links": {
+    "case_detail_url": null,
+    "generate_url": null,
+    "generate_url_verified_at": null
+  },
+  "notes": {"en": "", "zh-CN": ""}
+}

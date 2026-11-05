@@ -1,0 +1,320 @@
+#!/usr/bin/env python3
+"""Validate configuration, prompt metadata, assets, and local Markdown links."""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import html
+import json
+import re
+import sys
+from pathlib import Path
+from urllib.parse import unquote, urlsplit
+
+from common import ROOT, is_brand_url, load_data, published, read_json
+
+
+def schema_errors(value, schema: dict, path: str, root: dict) -> list[str]:
+    """Validate the small JSON Schema vocabulary used by content/schema.json."""
+    if "$ref" in schema:
+        schema = root["$defs"][schema["$ref"].split("/")[-1]]
+    errors = []
+    types = schema.get("type", [])
+    types = [types] if isinstance(types, str) else types
+    matches = {
+        "null": value is None,
+        "object": isinstance(value, dict),
+        "array": isinstance(value, list),
+        "string": isinstance(value, str),
+        "boolean": isinstance(value, bool),
+        "integer": isinstance(value, int) and not isinstance(value, bool),
+        "number": isinstance(value, (int, float)) and not isinstance(value, bool),
+    }
+    if types and not any(matches.get(kind, False) for kind in types):
+        return [f"{path}: expected {' or '.join(types)}"]
+    if "enum" in schema and value not in schema["enum"]:
+        errors.append(f"{path}: value is not in the allowed options")
+    if isinstance(value, str) and "pattern" in schema and not re.fullmatch(schema["pattern"], value):
+        errors.append(f"{path}: invalid format")
+    if isinstance(value, dict):
+        properties = schema.get("properties", {})
+        for key in schema.get("required", []):
+            if key not in value:
+                errors.append(f"{path}.{key}: missing required field")
+        for key, child in value.items():
+            if key in properties:
+                errors.extend(schema_errors(child, properties[key], f"{path}.{key}", root))
+            elif schema.get("additionalProperties") is False:
+                errors.append(f"{path}.{key}: unknown field")
+            elif isinstance(schema.get("additionalProperties"), dict):
+                errors.extend(schema_errors(child, schema["additionalProperties"], f"{path}.{key}", root))
+    if isinstance(value, list) and "items" in schema:
+        for index, child in enumerate(value):
+            errors.extend(schema_errors(child, schema["items"], f"{path}[{index}]", root))
+    return errors
+
+
+def is_date(value) -> bool:
+    if not isinstance(value, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        return False
+    try:
+        dt.date.fromisoformat(value)
+        return True
+    except ValueError:
+        return False
+
+
+def is_https_url(value) -> bool:
+    if not isinstance(value, str):
+        return False
+    try:
+        parts = urlsplit(value)
+    except ValueError:
+        return False
+    return parts.scheme == "https" and bool(parts.hostname) and not parts.username and not re.search(r"[\s<>]", value)
+
+
+def check_asset(path: str, label: str, errors: list[str], *, allow_remote: bool = True) -> None:
+    if not isinstance(path, str) or not path.strip():
+        errors.append(f"{label}: expected a non-empty asset path")
+        return
+    if urlsplit(path).scheme:
+        if not allow_remote or not is_https_url(path):
+            errors.append(f"{label}: expected a local asset path or HTTPS image URL")
+        return
+    candidate = (ROOT / path).resolve()
+    if not candidate.is_relative_to(ROOT.resolve()):
+        errors.append(f"{label}: path must stay inside the repository")
+    elif not candidate.is_file():
+        errors.append(f"{label}: file does not exist: {path}")
+
+
+def validate_config(config, errors: list[str]) -> None:
+    if not isinstance(config, dict):
+        errors.append("site.config.json: expected an object")
+        return
+    required = {
+        "project": ["name", "repository_slug", "repository_owner", "default_branch", "model_family", "official_release_date", "official_url", "model_docs_url", "model_ids"],
+        "brand": ["name", "home_url", "gallery_url", "model_page_url", "model_available", "model_support_verified_at"],
+        "tracking": ["utm_source", "utm_medium", "utm_campaign"],
+        "presentation": ["featured_limit", "latest_limit", "generate_case_pages"],
+        "cross_promo": ["enabled", "title", "description", "url", "image_path"],
+    }
+    for section, fields in required.items():
+        if not isinstance(config.get(section), dict):
+            errors.append(f"site.config.json.{section}: expected an object")
+            continue
+        for field in fields:
+            if field not in config[section]:
+                errors.append(f"site.config.json.{section}.{field}: missing required field")
+    if not isinstance(config.get("categories"), list) or not config["categories"]:
+        errors.append("site.config.json.categories: expected a non-empty array")
+    if errors:
+        return
+    project, brand, presentation = config["project"], config["brand"], config["presentation"]
+    for key in ("name", "repository_slug", "default_branch", "model_family"):
+        if not isinstance(project[key], str) or not project[key].strip():
+            errors.append(f"project.{key}: expected non-empty text")
+    if not isinstance(project["repository_owner"], str) or (project["repository_owner"] and not re.fullmatch(r"[A-Za-z0-9-]+", project["repository_owner"])):
+        errors.append("project.repository_owner: use a GitHub username/org, or leave empty for this scaffold")
+    if not isinstance(project["repository_slug"], str) or not re.fullmatch(r"[A-Za-z0-9_.-]+", project["repository_slug"]):
+        errors.append("project.repository_slug: invalid repository name")
+    if not isinstance(brand["name"], str) or not brand["name"].strip():
+        errors.append("brand.name: expected non-empty text")
+    for label, url in (("brand.home_url", brand["home_url"]), ("project.official_url", project["official_url"]), ("project.model_docs_url", project["model_docs_url"])):
+        if not is_https_url(url):
+            errors.append(f"{label}: expected an HTTPS URL")
+    for key in ("gallery_url", "model_page_url"):
+        if brand[key] is not None and not is_https_url(brand[key]):
+            errors.append(f"brand.{key}: use a live HTTPS URL or null")
+        elif brand[key] and is_https_url(brand["home_url"]) and not is_brand_url(brand[key], config):
+            errors.append(f"brand.{key}: must use the brand website domain")
+    if not isinstance(brand["model_available"], bool):
+        errors.append("brand.model_available: expected true or false")
+    if brand["model_support_verified_at"] is not None and not is_date(brand["model_support_verified_at"]):
+        errors.append("brand.model_support_verified_at: use YYYY-MM-DD or null")
+    if brand["model_available"] and (not brand["model_page_url"] or not is_date(brand["model_support_verified_at"])):
+        errors.append("brand.model_available=true requires a live model_page_url and model_support_verified_at")
+    if not is_date(project["official_release_date"]):
+        errors.append("project.official_release_date: expected YYYY-MM-DD")
+    if not isinstance(project["model_ids"], list) or not project["model_ids"] or not all(isinstance(model_id, str) and model_id for model_id in project["model_ids"]):
+        errors.append("project.model_ids: expected a non-empty list of official model IDs")
+    if set(config["tracking"]) != {"utm_source", "utm_medium", "utm_campaign"}:
+        errors.append("tracking: only utm_source, utm_medium, and utm_campaign are configurable")
+    for key, value in config["tracking"].items():
+        if not isinstance(value, str) or not value.strip():
+            errors.append(f"tracking.{key}: expected non-empty text")
+    for key in ("featured_limit", "latest_limit"):
+        if not isinstance(presentation[key], int) or isinstance(presentation[key], bool) or not 1 <= presentation[key] <= 30:
+            errors.append(f"presentation.{key}: expected an integer from 1 to 30")
+    if not isinstance(presentation["generate_case_pages"], bool):
+        errors.append("presentation.generate_case_pages: expected true or false")
+    seen = set()
+    for index, category in enumerate(config["categories"]):
+        label = f"categories[{index}]"
+        if not isinstance(category, dict) or not all(key in category for key in ("id", "label", "website_url")):
+            errors.append(f"{label}: id, label, and website_url are required")
+            continue
+        category_id = category["id"]
+        if not isinstance(category_id, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", category_id):
+            errors.append(f"{label}.id: expected a lowercase slug")
+        elif category_id in seen:
+            errors.append(f"{label}.id: duplicate category ID")
+        else:
+            seen.add(category_id)
+        if not isinstance(category["label"], dict) or not all(isinstance(category["label"].get(lang), str) and category["label"][lang].strip() for lang in ("en", "zh-CN")):
+            errors.append(f"{label}.label: both en and zh-CN names are required")
+        url = category["website_url"]
+        if url is not None and (not is_https_url(url) or (is_https_url(brand["home_url"]) and not is_brand_url(url, config))):
+            errors.append(f"{label}.website_url: use an exact HTTPS URL on the brand domain, or null")
+    promo = config["cross_promo"]
+    if not isinstance(promo["enabled"], bool):
+        errors.append("cross_promo.enabled: expected true or false")
+    if promo["image_path"] is not None and not isinstance(promo["image_path"], str):
+        errors.append("cross_promo.image_path: expected an image path or null")
+    for field in ("title", "description"):
+        if not isinstance(promo[field], dict) or not all(isinstance(promo[field].get(lang), str) for lang in ("en", "zh-CN")):
+            errors.append(f"cross_promo.{field}: en and zh-CN string fields are required")
+    if promo["enabled"]:
+        if not is_https_url(promo["url"]):
+            errors.append("cross_promo.url: an enabled campaign requires a real HTTPS URL")
+        if isinstance(promo["title"], dict) and not all(isinstance(promo["title"].get(lang), str) and promo["title"][lang].strip() for lang in ("en", "zh-CN")):
+            errors.append("cross_promo.title: enabled campaign needs both language titles")
+        if promo["image_path"]:
+            check_asset(promo["image_path"], "cross_promo.image_path", errors)
+
+
+def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warnings: list[str], *, release: bool) -> None:
+    categories = {category["id"] for category in config["categories"]}
+    seen = set()
+    for index, item in enumerate(prompts):
+        label = f"prompts[{index}] ({item['id'] or 'unnamed draft'})"
+        if item["id"]:
+            if item["id"] in seen:
+                errors.append(f"{label}: duplicate ID")
+            seen.add(item["id"])
+        for section, key in (("source", "url"), ("source", "author_url"), ("rights", "license_url"), ("links", "case_detail_url"), ("links", "generate_url")):
+            value = item[section][key]
+            if value is not None and not is_https_url(value):
+                errors.append(f"{label}.{section}.{key}: use HTTPS or null")
+            if value and section == "links" and is_https_url(value) and not is_brand_url(value, config):
+                errors.append(f"{label}.{section}.{key}: must point to the brand website")
+        date_fields = [("added_at", item["added_at"]), ("source.published_at", item["source"]["published_at"]), ("verification.tested_at", item["verification"]["tested_at"]), ("links.generate_url_verified_at", item["links"]["generate_url_verified_at"])]
+        for field, value in date_fields:
+            if value is not None and not is_date(value):
+                errors.append(f"{label}.{field}: use YYYY-MM-DD or null")
+        if item["status"] != "published":
+            continue
+        for field, value in (("id", item["id"]), ("title.en", item["title"]["en"]), ("prompt", item["prompt"]), ("prompt_language", item["prompt_language"]), ("source.author", item["source"]["author"])):
+            if not value.strip():
+                errors.append(f"{label}.{field}: required before publishing")
+        if item["category"] not in categories:
+            errors.append(f"{label}.category: choose an ID from site.config.json")
+        if not is_date(item["added_at"]):
+            errors.append(f"{label}.added_at: a published entry needs its collection date")
+        if item["model"]["family"] != config["project"]["model_family"]:
+            errors.append(f"{label}.model.family: must match this collection's model family")
+        model_id = item["model"]["api_model_id"]
+        if model_id and model_id not in config["project"]["model_ids"]:
+            errors.append(f"{label}.model.api_model_id: not in the configured official model IDs")
+        if model_id and not model_id.endswith("-" + item["model"]["variant"]):
+            errors.append(f"{label}.model: API ID and variant disagree; leave unknown API IDs null")
+        if item["source"]["provenance"] in ("collected", "adapted") and not item["source"]["url"]:
+            errors.append(f"{label}.source.url: collected/adapted entries require the original source")
+        preview = item["preview"]["path"]
+        if item["rights"]["preview"] == "link-only":
+            if preview or not item["source"]["url"]:
+                errors.append(f"{label}: link-only previews require an empty preview.path and a source URL")
+        elif not preview:
+            errors.append(f"{label}.preview.path: add a preview, or select rights.preview=link-only")
+        if preview:
+            check_asset(preview, f"{label}.preview.path", errors)
+            if not item["preview"]["alt"]["en"].strip():
+                errors.append(f"{label}.preview.alt.en: describe the preview image")
+        for reference_index, reference in enumerate(item["reference_images"]):
+            check_asset(reference["path"], f"{label}.reference_images[{reference_index}].path", errors)
+        if item["verification"]["status"] == "tested" and (not is_date(item["verification"]["tested_at"]) or not item["verification"]["tested_on"].strip()):
+            errors.append(f"{label}.verification: tested entries need tested_at and tested_on")
+        if item["links"]["generate_url"] and (not config["brand"]["model_available"] or not is_date(item["links"]["generate_url_verified_at"])):
+            errors.append(f"{label}.links.generate_url: requires verified model availability and a link verification date")
+        for field in ("prompt", "preview"):
+            if item["rights"][field] == "unknown":
+                target = errors if release else warnings
+                target.append(f"{label}.rights.{field}: content terms have not been recorded")
+
+
+def markdown_link_errors() -> list[str]:
+    errors = []
+    paths = list(ROOT.glob("*.md")) + list((ROOT / "docs").glob("*.md")) + list((ROOT / "cases").glob("*/README*.md"))
+    for path in paths:
+        text = path.read_text(encoding="utf-8")
+        # Ignore code samples so draft JSON and intentionally shown placeholders are not treated as live links.
+        prose = re.sub(r"(?ms)^(`{3,}|~{3,}).*?^\1[^\n]*$", "", text)
+        targets = re.findall(r"!?\[[^\]\n]*\]\(([^\s)]+)(?:\s+[^)]*)?\)", prose)
+        targets += re.findall(r'(?:href|src)="([^"]+)"', prose)
+        for raw in targets:
+            target = html.unescape(raw)
+            if "{{" in target or urlsplit(target).scheme or target.startswith("//"):
+                continue
+            parts = urlsplit(target)
+            linked = (path.parent / unquote(parts.path)).resolve() if parts.path else path
+            if not linked.is_relative_to(ROOT.resolve()) or not linked.exists():
+                errors.append(f"{path.relative_to(ROOT)}: local link does not exist: {target}")
+                continue
+            if parts.fragment and linked.suffix == ".md":
+                contents = linked.read_text(encoding="utf-8")
+                explicit = set(re.findall(r'<a\s+(?:id|name)="([^"]+)"', contents))
+                headings = {re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-") for heading in re.findall(r"^#+ (.+)$", contents, re.M)}
+                if unquote(parts.fragment) not in explicit | headings:
+                    errors.append(f"{path.relative_to(ROOT)}: local anchor does not exist: {target}")
+    return errors
+
+
+def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[str], list[str]]:
+    errors, warnings = [], []
+    try:
+        config, prompts = load_data()
+        schema = read_json("content/schema.json")
+        template = read_json("templates/prompt.json")
+    except (OSError, json.JSONDecodeError) as error:
+        return [str(error)], warnings
+    validate_config(config, errors)
+    errors.extend(schema_errors(prompts, schema, "prompts", schema))
+    errors.extend(schema_errors([template], schema, "template", schema))
+    if errors:
+        return errors, warnings
+    validate_prompts(config, prompts, errors, warnings, release=release)
+    for asset in ("assets/header.svg", "assets/gallery-placeholder.svg"):
+        check_asset(asset, asset, errors, allow_remote=False)
+    if release:
+        if not published(prompts):
+            errors.append("Release: no published prompts yet; this is an intentional empty scaffold")
+        if not config["project"]["repository_owner"]:
+            errors.append("Release: set project.repository_owner to the actual GitHub owner")
+        if not config["brand"]["model_available"]:
+            warnings.append("Release: Raphael model support is not marked verified; keep generic homepage CTAs")
+    if check_links:
+        errors.extend(markdown_link_errors())
+    return errors, warnings
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--release", action="store_true", help="Also check content-launch readiness; empty scaffolds intentionally fail this mode.")
+    args = parser.parse_args()
+    errors, warnings = validate(release=args.release)
+    for warning in warnings:
+        print(f"NOTE: {warning}")
+    for error in errors:
+        print(f"ERROR: {error}", file=sys.stderr)
+    if errors:
+        print(f"Validation failed ({len(errors)} issues).", file=sys.stderr)
+        return 1
+    _, prompts = load_data()
+    print(f"Validation passed: {len(published(prompts))} published prompts, {sum(item['status'] == 'draft' for item in prompts)} drafts.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

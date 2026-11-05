@@ -1,0 +1,22 @@
+name: Report a problem / 报告问题
+description: Broken links, incorrect sources, model mismatch, or reproduction issues.
+title: "[Fix] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or page URL / 案例 ID 或页面地址
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correcting? / 需要修正什么？
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Correction or evidence / 正确信息或依据
+    validations:
+      required: true

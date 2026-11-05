@@ -1,0 +1,71 @@
+name: Submit a prompt / 提交提示词
+description: Suggest a real example with its source, prompt, and preview.
+title: "[Prompt] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please include the original source and distinguish your own test from a collected example.
+        请附原始来源，并区分自己实际生成的结果与收集到的案例。
+  - type: input
+    id: title
+    attributes:
+      label: Example title / 案例标题
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL / 原帖链接
+      description: For your own unpublished work, state that it is original in the notes below.
+  - type: input
+    id: author
+    attributes:
+      label: Original creator / 原作者
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Actual prompt / 完整原始提示词
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: Preview and reference images / 效果图与参考图
+      description: Attach files you can share, or link to the original image; explain required inputs.
+    validations:
+      required: true
+  - type: dropdown
+    id: model
+    attributes:
+      label: Model variant / 模型版本
+      options:
+        - GPT Image 2.6 Sunburst
+        - GPT Image 2.6 Flare
+        - GPT Image 2.6 — variant not specified / 未注明版本
+    validations:
+      required: true
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification / 实测状态
+      options:
+        - Collected from the source; not independently tested / 仅收集
+        - I generated or reproduced it myself / 我已实际生成或复现
+    validations:
+      required: true
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings and steps / 参数与步骤
+      description: Add known size, quality, complexity, output format, platform, date, and editing steps. Leave unknown values explicit.
+  - type: textarea
+    id: rights
+    attributes:
+      label: Attribution and reuse terms / 署名与使用条件
+      description: Is this your own work, shared with permission, licensed, or a link-only suggestion? Include any relevant source.
+    validations:
+      required: true
