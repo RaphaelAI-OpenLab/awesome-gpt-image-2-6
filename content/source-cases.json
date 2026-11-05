@@ -1,0 +1,1731 @@
+[
+  {
+    "id": "docs-complexity",
+    "status": "published",
+    "title": {
+      "en": "Paper-cut championship scene: complexity comparison",
+      "zh-CN": "纸艺夺冠场景：复杂度比较"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-bakery-svg",
+    "status": "published",
+    "title": {
+      "en": "Bakery SVG logo",
+      "zh-CN": "面包店 SVG 标志"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output"
+    },
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/field-and-flour-gpt-image-2-6-flare.svg",
+        "path": "assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg",
+        "kind": "svg",
+        "alt": {
+          "en": "Flare SVG logo",
+          "zh-CN": "Flare SVG 标志"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
+            "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/field-and-flour-gpt-image-2-6-sunburst.svg",
+        "path": "assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg",
+        "kind": "svg",
+        "alt": {
+          "en": "Sunburst SVG logo",
+          "zh-CN": "Sunburst SVG 标志"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
+            "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "docs-lantern-gif",
+    "status": "published",
+    "title": {
+      "en": "Lantern-carrying monkey loop",
+      "zh-CN": "提灯猴循环 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+        "path": "assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Original monkey GIF",
+          "zh-CN": "提灯猴原始 GIF"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif",
+          "credit": "OpenAI, GPT Image 2.6 image prompting guide",
+          "note": {
+            "en": "Public official AI-generated example, preserved unchanged for this sourced case collection. No explicit redistribution license was located; this is not labelled open-licensed and the repository MIT license does not cover it. Source attribution is not a permission grant.",
+            "zh-CN": "公开的官方 AI 生成示例，为本案例合集原样存档。未找到明确转载许可证，因此不标为开放许可，仓库 MIT 协议不覆盖该素材。来源署名不代表许可授权。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Source settings: Sunburst, 512×512, high quality and complexity, 9 frames at 200 ms (1.8 s). The original GIF was downloaded unchanged; all frames decoded successfully. This is not an independent model reproduction.",
+      "zh-CN": "原文参数：Sunburst、512×512、高质量与高复杂度、9 帧，每帧 200 ms（1.8 秒）。原始 GIF 已原样下载，全部帧成功解码；这不代表独立调用模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "docs-sailor",
+    "status": "published",
+    "title": {
+      "en": "Realistic fishing-boat sailor portrait",
+      "zh-CN": "渔船水手写实人像"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-coffee-diagram",
+    "status": "published",
+    "title": {
+      "en": "Coffee-machine process diagram",
+      "zh-CN": "咖啡机工作流程图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-streetwear",
+    "status": "published",
+    "title": {
+      "en": "Streetwear advertisement typography",
+      "zh-CN": "街头服饰广告排字"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-bakery-raster",
+    "status": "published",
+    "title": {
+      "en": "Transparent bakery raster logo",
+      "zh-CN": "面包店透明位图标志"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-historical-crowd",
+    "status": "published",
+    "title": {
+      "en": "1969 historical crowd scene",
+      "zh-CN": "1969 年历史人群场景"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-pet-comic",
+    "status": "published",
+    "title": {
+      "en": "Four-panel pet comic",
+      "zh-CN": "宠物四格漫画"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-market-ui",
+    "status": "published",
+    "title": {
+      "en": "Farmers market mobile interface",
+      "zh-CN": "农夫市场手机界面"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-cell-respiration",
+    "status": "published",
+    "title": {
+      "en": "Cellular respiration teaching visual",
+      "zh-CN": "细胞呼吸教学图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-pitch-slide",
+    "status": "published",
+    "title": {
+      "en": "Market-size presentation slide",
+      "zh-CN": "市场规模演示页"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"
+    },
+    "media": [],
+    "notes": {
+      "en": "The market figures and citations are fictional examples, not factual market research.",
+      "zh-CN": "市场规模数据与引用为虚构示例，不是实际市场研究。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-vase-markup",
+    "status": "published",
+    "title": {
+      "en": "Recolor a marked vase",
+      "zh-CN": "标注花瓶后局部换色"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-spanish-edit",
+    "status": "published",
+    "title": {
+      "en": "Translate an infographic into Spanish",
+      "zh-CN": "信息图改为西班牙语"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-pixel-style",
+    "status": "published",
+    "title": {
+      "en": "Transfer a pixel-art style",
+      "zh-CN": "像素风格迁移"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-outfit",
+    "status": "published",
+    "title": {
+      "en": "Change clothing while preserving identity",
+      "zh-CN": "保留人物身份换装"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-dog-composite",
+    "status": "published",
+    "title": {
+      "en": "Combine pets across images",
+      "zh-CN": "跨图合成宠物"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-product-cutout",
+    "status": "published",
+    "title": {
+      "en": "Transparent product cutout",
+      "zh-CN": "商品透明背景抠图"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-sketch-render",
+    "status": "published",
+    "title": {
+      "en": "Turn a sketch into a realistic scene",
+      "zh-CN": "线稿转写实场景"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-remove-flower",
+    "status": "published",
+    "title": {
+      "en": "Remove a held flower",
+      "zh-CN": "移除手持花朵"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-person-scene",
+    "status": "published",
+    "title": {
+      "en": "Place a person into a camping escape scene",
+      "zh-CN": "人物放入露营逃跑场景"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-billboard",
+    "status": "published",
+    "title": {
+      "en": "Roadside shampoo billboard",
+      "zh-CN": "洗发水公路广告牌"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-snow-edit",
+    "status": "published",
+    "title": {
+      "en": "Change the billboard scene to a snowy night",
+      "zh-CN": "广告牌场景改为雪夜"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-character-start",
+    "status": "published",
+    "title": {
+      "en": "Establish a storybook character",
+      "zh-CN": "建立童书角色"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-character-story",
+    "status": "published",
+    "title": {
+      "en": "Continue the same character’s story",
+      "zh-CN": "同一角色续写故事"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-room-chairs",
+    "status": "published",
+    "title": {
+      "en": "Replace chairs in an interior",
+      "zh-CN": "室内更换椅子"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-holiday-card",
+    "status": "published",
+    "title": {
+      "en": "Nostalgic holiday card",
+      "zh-CN": "怀旧节日贺卡"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "docs-toy-package",
+    "status": "published",
+    "title": {
+      "en": "Toy airplane packaging",
+      "zh-CN": "玩具飞机包装"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+      "author": "OpenAI",
+      "type": "official-docs"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Each output is explicitly labelled GPT Image 2.6 in the cited guide.",
+        "zh-CN": "已逐项核对所引指南中输出的 GPT Image 2.6 标签。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"
+    },
+    "media": [],
+    "notes": {
+      "en": "Open the linked section for the original prompt, required inputs, parameters and model outputs. Not independently reproduced.",
+      "zh-CN": "在链接章节查看原始提示词、必需输入、参数与各版本输出。整理者未独立复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-openart-down",
+    "status": "published",
+    "title": {
+      "en": "Office character: falling stock GIF",
+      "zh-CN": "股价下跌的办公角色 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "author": "OpenArt",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://openai.com/index/introducing-images-2-6/"
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2buvg5udbd1nwQv8AFYzpM/1041a34b4048cde3b1f5b93658624a90/images-2-6-openart-market-down-poster.jpg?w=3840&q=50&fm=webp",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster 1",
+          "zh-CN": "下跌版海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Read Prompt 1 in the OpenArt examples for the original chibi office-worker animation prompt. Only a static poster link is recorded here.",
+      "zh-CN": "OpenArt 示例原文 Prompt 1 是办公 Q 版角色动画提示词；此处记录的媒体链接仅为静态海报。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-openart-up",
+    "status": "published",
+    "title": {
+      "en": "Office character: rising stock GIF",
+      "zh-CN": "股价上涨的办公角色 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "author": "OpenArt",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://openai.com/index/introducing-images-2-6/"
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4vIjzvIPc4VGiNVNoIIe1X/cdbffef89e0dc801a57526314deae7ac/images-2-6-openart-market-up-poster.jpg?w=3840&q=50&fm=webp",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster 1",
+          "zh-CN": "上涨版海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Read Prompt 2 in the OpenArt examples for the original chibi office-worker animation prompt. Only a static poster link is recorded here.",
+      "zh-CN": "OpenArt 示例原文 Prompt 2 是办公 Q 版角色动画提示词；此处记录的媒体链接仅为静态海报。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-owl",
+    "status": "published",
+    "title": {
+      "en": "Owl sketch to animation",
+      "zh-CN": "猫头鹰草图变动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "author": "OpenAI",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7xC8whl4xN2cOTxQSLMfQ8/60b25185d53ca63f000341f0acbfba7a/owl-sketch-square.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 1",
+          "zh-CN": "草图"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3htx622jZc5ImLeWZfZhEX/52551971a364017e1d4c0da98b5e334f/owl-animation-poster.jpg?w=3840&q=50&fm=webp",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster 2",
+          "zh-CN": "动画海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "View the named example or partner tab on the official release page. Static preview posters are not the animated GIF output.",
+      "zh-CN": "在官方发布页查看对应示例或合作方标签。静态预览海报不是动画 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-town",
+    "status": "published",
+    "title": {
+      "en": "Monty typing indicator animation",
+      "zh-CN": "Monty 打字状态动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "author": "Town",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/56j4cAmTWrRJgTSQEvLQ01/90f1805a4e72b7e2498863da19766c65/town-monty-poster.jpg?w=3840&q=50&fm=webp",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster 1",
+          "zh-CN": "动画海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "View the named example or partner tab on the official release page. Static preview posters are not the animated GIF output.",
+      "zh-CN": "在官方发布页查看对应示例或合作方标签。静态预览海报不是动画 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-picsart",
+    "status": "published",
+    "title": {
+      "en": "Stained-glass whale",
+      "zh-CN": "彩色玻璃鲸鱼"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "author": "Picsart",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5g2ztPz3EqktNQwQWa7Al8/d42c517c10fcbcb3c0da00bd5fe6b26e/picsart-glass-whale.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 1",
+          "zh-CN": "鲸鱼图"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "View the named example or partner tab on the official release page. Static preview posters are not the animated GIF output.",
+      "zh-CN": "在官方发布页查看对应示例或合作方标签。静态预览海报不是动画 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "launch-fal",
+    "status": "published",
+    "title": {
+      "en": "Living-room markup edit",
+      "zh-CN": "客厅标注编辑"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "author": "fal",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/50IFJAzURDJeFT6j7jU9Cy/727871e6953a56bebb783f7c884f832f/images-2-6-fal-before.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 1",
+          "zh-CN": "编辑前"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/mOBUDnc6RlTLi1KU5S19r/2646cf2f1db9cfdf93250f201e8ab5de/images-2-6-fal-after.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 2",
+          "zh-CN": "编辑后"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The fal tab shows the original markup edit prompt: blue cushion, removal of the plant/rug and moving the lamp to the right. Requires the marked input.",
+      "zh-CN": "fal 标签展示原始标注编辑提示词：蓝色坐垫、移除植物与地毯、把灯移到右侧；需要原始标注输入图。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "launch-sable",
+    "status": "published",
+    "title": {
+      "en": "Miniature brand product world",
+      "zh-CN": "品牌产品微缩场景"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "author": "Sable",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1gnp2Va1JsQtynPds90I1O/3ba2c60fd06e70d9a4dc19da9482ce7d/images-2-6-sable-product-visual.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 1",
+          "zh-CN": "产品场景"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "View the named example or partner tab on the official release page. Static preview posters are not the animated GIF output.",
+      "zh-CN": "在官方发布页查看对应示例或合作方标签。静态预览海报不是动画 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "launch-higgsfield",
+    "status": "published",
+    "title": {
+      "en": "Knight scene and clothing edit sequence",
+      "zh-CN": "骑士连续换景换装"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "author": "Higgsfield",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3bU4mZlfoshL05B5nlKuXY/d34032552f29bfef5eeb39533ebe7c61/images-2-6-higgsfield-scene-edit-1.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 1",
+          "zh-CN": "第 1 步"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5hDxN1poa1hFkj3ZTSLxqX/42fdc0fc4612cf83a695d63e20abb572/images-2-6-higgsfield-scene-edit-2.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 2",
+          "zh-CN": "第 2 步"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3JTfW1LWizYXThKdWaLNrt/a4a9b72ac3ed9909303e594ad0236243/images-2-6-higgsfield-scene-edit-3.png?w=3840&q=90&fm=webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Source image 3",
+          "zh-CN": "第 3 步"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Multi-step editing requires the initial image, not a standalone text-to-image prompt: sunset valley, floating castle/waterfalls/dragon, then ivory-and-gold armor with ruby details and crimson cloth.",
+      "zh-CN": "连续编辑需初始图片，不是独立文生图提示词：夕阳山谷，再加浮空城堡、瀑布与龙，最后换象牙白与金色盔甲、红宝石和深红布料。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "launch-travel",
+    "status": "published",
+    "title": {
+      "en": "Travel visual generation speed comparison",
+      "zh-CN": "旅行视觉生成速度对比"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "author": "OpenAI",
+      "type": "official-launch"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The launch page identifies this as an Images 2.6 demonstration.",
+        "zh-CN": "发布页将此作品明确归为 Images 2.6 演示。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6qOP4UgI7SJxKI7mS01b8/dbf9421db5e9ea5a67d8ad8cb219a9df/luxury-travel-updated-poster.jpg?w=3840&q=50&fm=webp",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster 1",
+          "zh-CN": "比较海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": null,
+          "credit": "OpenAI / original credited creator; see source",
+          "note": {
+            "en": "No explicit redistribution permission has been verified. Attribution alone does not grant permission.",
+            "zh-CN": "尚未核实可转载的明确授权。标注来源不等于取得许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "View the named example or partner tab on the official release page. Static preview posters are not the animated GIF output.",
+      "zh-CN": "在官方发布页查看对应示例或合作方标签。静态预览海报不是动画 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  },
+  {
+    "id": "community-malfoid",
+    "status": "published",
+    "title": {
+      "en": "Summer character illustration animation",
+      "zh-CN": "夏日角色插画动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/",
+      "author": "u/Junior-Grade-2965",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator names Image 2.6 in the post; no independent model logs were obtained.",
+        "zh-CN": "作者在原帖明确写出 Image 2.6；未取得独立模型日志。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [],
+    "notes": {
+      "en": "The author says ChatGPT Image 2.6 animated a static illustration. Prompt and variant are not disclosed; publication date is not inferred from relative timestamps.",
+      "zh-CN": "作者表示用 ChatGPT Image 2.6 将静态插画做成动画。未公开提示词及版本；不从相对时间推断发布日期。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": true
+  },
+  {
+    "id": "community-gifts",
+    "status": "published",
+    "title": {
+      "en": "Images 2.6 brings GIF(T)S :D",
+      "zh-CN": "Images 2.6 brings GIF(T)S :D"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/",
+      "author": "u/Algoartist",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator names Image 2.6 in the post; no independent model logs were obtained.",
+        "zh-CN": "作者在原帖明确写出 Image 2.6；未取得独立模型日志。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [],
+    "notes": {
+      "en": "The title names Images 2.6 and the original post contains media. No prompt or settings are supplied. The animation quality was not independently evaluated.",
+      "zh-CN": "标题明确写 2.6，原帖有媒体；未提供提示词和参数，未独立评价动画效果。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false
+  }
+]

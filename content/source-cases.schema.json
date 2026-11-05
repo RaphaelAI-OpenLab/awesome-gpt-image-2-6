@@ -1,0 +1,269 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source-linked GPT Image 2.6 cases",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "status",
+      "title",
+      "category",
+      "source",
+      "model",
+      "prompt",
+      "media",
+      "notes",
+      "added_at",
+      "verified_at",
+      "featured"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "[a-z0-9]+(?:-[a-z0-9]+)*"
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "published",
+          "draft"
+        ]
+      },
+      "title": {
+        "type": "object",
+        "required": [
+          "en",
+          "zh-CN"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "en": {
+            "type": "string"
+          },
+          "zh-CN": {
+            "type": "string"
+          }
+        }
+      },
+      "category": {
+        "type": "string"
+      },
+      "source": {
+        "type": "object",
+        "required": [
+          "url",
+          "author",
+          "type"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "url": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "official-docs",
+              "official-launch",
+              "community"
+            ]
+          }
+        }
+      },
+      "model": {
+        "type": "object",
+        "required": [
+          "family",
+          "variants",
+          "evidence"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "family": {
+            "type": "string",
+            "enum": [
+              "GPT Image 2.6"
+            ]
+          },
+          "variants": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "flare",
+                "sunburst",
+                "unspecified"
+              ]
+            }
+          },
+          "evidence": {
+            "type": "object",
+            "required": [
+              "en",
+              "zh-CN"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "zh-CN": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      "prompt": {
+        "type": "object",
+        "required": [
+          "status",
+          "url"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "source-only",
+              "not-public"
+            ]
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "media": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "source_url",
+            "path",
+            "kind",
+            "alt",
+            "rights"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "source_url": {
+              "type": "string"
+            },
+            "path": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "kind": {
+              "type": "string",
+              "enum": [
+                "image",
+                "gif",
+                "svg",
+                "poster"
+              ]
+            },
+            "alt": {
+              "type": "object",
+              "required": [
+                "en",
+                "zh-CN"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "en": {
+                  "type": "string"
+                },
+                "zh-CN": {
+                  "type": "string"
+                }
+              }
+            },
+            "rights": {
+              "type": "object",
+              "required": [
+                "status",
+                "evidence_url",
+                "credit",
+                "note"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "link-only",
+                    "licensed",
+                    "permission",
+                    "original",
+                    "source-attributed"
+                  ]
+                },
+                "evidence_url": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "credit": {
+                  "type": "string"
+                },
+                "note": {
+                  "type": "object",
+                  "required": [
+                    "en",
+                    "zh-CN"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "zh-CN": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "notes": {
+        "type": "object",
+        "required": [
+          "en",
+          "zh-CN"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "en": {
+            "type": "string"
+          },
+          "zh-CN": {
+            "type": "string"
+          }
+        }
+      },
+      "added_at": {
+        "type": "string"
+      },
+      "verified_at": {
+        "type": "string"
+      },
+      "featured": {
+        "type": "boolean"
+      }
+    }
+  }
+}

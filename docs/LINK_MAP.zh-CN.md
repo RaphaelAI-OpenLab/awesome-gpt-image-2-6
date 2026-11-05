@@ -1,8 +1,8 @@
 # 网站链接位置图
 
-静态网站入口集中在 [site.config.json](../site.config.json)，逐条案例入口集中在 [content/prompts.json](../content/prompts.json)。生成器把入口写入中英文 README 和可选案例页；不需要在多个语言文件里手工替换 URL。
+静态网站入口集中在 [site.config.json](../site.config.json)，逐条来源案例集中在 [content/source-cases.json](../content/source-cases.json)，完整提示词入口在 [content/prompts.json](../content/prompts.json)。生成器把入口写入中英文 README 和可选案例页；不需要在多个语言文件里手工替换 URL。
 
-当前只有真实的 Raphael 首页启用。合集、分类、模型页、案例详情与生成深链都没有编造地址。
+README 的案例链接全部优先进入仓库内 `cases/<id>/README*.md`。Raphael 主页独立展示；外部图库、生成入口和活动尚未配置时显示明确占位。没有编造外部地址。
 
 ## 位置与开关
 
@@ -11,16 +11,16 @@
 | 顶栏推广位 | 可替换的活动/新仓库文字，可选横幅图 | `cross_promo.url` | `enabled=true` 且文案、URL 已填 | `cross_promo`；外部 GitHub 链接不加 UTM |
 | Hero 封面图 | 点击整个封面进入品牌网站 | `brand.home_url` | 始终显示 | `hero` |
 | 顶部导航 | `Raphael ↗` | `brand.home_url` | 始终显示 | `top_nav` |
-| 首屏主按钮 | 有合集时“浏览完整效果合集”；否则“访问 Raphael” | `brand.gallery_url`，缺省用 `home_url` | 始终显示 | `top_cta` |
+| 首屏主入口 | 浏览仓库内全部案例 | `#all-cases` | 始终显示；外部图库入口单列，缺失时占位 | 本地不加 UTM；外部图库为 `top_cta` |
 | 模型使用入口 | 查看当前 GPT Image 2.6 选项 | `brand.model_page_url` | 模型可用状态与验证日期已确认 | `model_entry` |
-| 分类导航 | 8 个用途分类名 | 每个分类的 `website_url` | 地址非空时导向网站；否则跳到本仓库分类 | `category_<分类id>` |
+| 分类导航 | 8 个用途分类名 | 本仓库 `#category-<id>` | 始终链接到 README 内分类；网站分类字段仅保留待后续使用 | 本地不加 UTM |
 | 案例详情入口 | 在 Raphael 查看案例详情 | `links.case_detail_url` | 该条真实详情页存在 | `case_detail_<案例id>` |
 | 案例生成入口 | 在 Raphael 使用这条提示词 | `links.generate_url` | 真实深链、验证日期与模型可用状态齐全 | `case_<案例id>` |
-| 合集内容底部 | 浏览完整效果合集 | `brand.gallery_url` | 真实合集已上线 | `collection_bottom` |
+| 来源案例列表 | 每条内部详情页 | `content/source-cases.json` 的 ID | `status=published` 时 | 本地不加 UTM |
 | 页脚品牌入口 | 访问 Raphael | `brand.home_url` | 始终显示 | `footer` |
 | GitHub 右侧 About 的 Website | 网站 URL | 从合集 URL 或首页 URL 生成后，手工填仓库 Settings | 真实远程仓库创建后 | 建议用 `about` |
 
-README 内还保留了 `<!-- SLOT: ... -->` 注释，方便找到各个位置。英文与中文共用同一套布局，语言通过 `utm_term` 区分。
+README 结构由 `scripts/homepage.py` 统一生成。英文与中文共用同一套布局；品牌外链语言通过 `utm_term` 区分，来源与 GitHub 内部链接不加追踪参数。
 
 ## 当前真实链接示例
 

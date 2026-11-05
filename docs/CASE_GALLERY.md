@@ -2,6 +2,8 @@
 
 [返回中文首页](../README.zh-CN.md) · [English README](../README.md)
 
+本页保留首轮检索记录；实时案例数据现由 [source-cases.json](../content/source-cases.json) 维护，并在[中文 README 全部案例](../README.zh-CN.md#all-cases)展示内部详情页。
+
 本轮核对日期：2026-11-05（UTC）。
 
 **37 组官方案例、2 条社区自报案例、1 条媒体报道线索；另有 8 条待核实链接。** 同一工作流的不同模型输出合并为一组，不按图片张数凑数。这里记录来源证据，不表示整理者已复现，也不等于独立效果评测。

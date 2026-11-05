@@ -1,0 +1,36 @@
+{
+  "id": "new-case-id",
+  "status": "draft",
+  "title": {
+    "en": "Replace with a verified case title",
+    "zh-CN": "替换为已核对的案例标题"
+  },
+  "category": "characters-consistency",
+  "source": {
+    "url": "https://example.com/replace-with-original-post",
+    "author": "Replace with original creator",
+    "type": "community"
+  },
+  "model": {
+    "family": "GPT Image 2.6",
+    "variants": [
+      "unspecified"
+    ],
+    "evidence": {
+      "en": "Replace with specific model evidence",
+      "zh-CN": "替换为该作品的具体模型依据"
+    }
+  },
+  "prompt": {
+    "status": "not-public",
+    "url": null
+  },
+  "media": [],
+  "notes": {
+    "en": "Replace with case notes and input requirements",
+    "zh-CN": "替换为案例说明及所需输入"
+  },
+  "added_at": "2026-11-05",
+  "verified_at": "2026-11-05",
+  "featured": false
+}

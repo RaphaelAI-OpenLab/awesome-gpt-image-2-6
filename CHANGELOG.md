@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-05 — README layout and internal case pages
+
+- Adapt the YouMind README structure with attribution, bilingual sections, statistics, featured cards and explicit missing-link placeholders.
+- Migrate 39 source-linked cases into a validated dataset and generate 78 internal detail pages; preserve the original research log.
+- Require local display media with recorded provenance and reuse status. Archive 3 official example files unchanged with source-attributed, license-unconfirmed notes; other originals remain links with clearly labelled placeholders.
+- Add regression tests for routes, bilingual coverage, rights checks and deterministic builds.
+
 ## 2026-11-05 — First source review
 
 - Added a source-linked gallery with 37 official workflow/demo groups, 2 explicitly self-attributed community posts, and 1 separately labeled media report.

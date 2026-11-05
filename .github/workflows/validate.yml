@@ -20,3 +20,5 @@ jobs:
         run: python3 scripts/validate.py
       - name: Check generated pages
         run: python3 scripts/build_readme.py --check
+      - name: Run collection regression tests
+        run: python3 -m unittest discover -s tests -v

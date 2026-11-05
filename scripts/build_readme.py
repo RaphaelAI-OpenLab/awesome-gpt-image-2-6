@@ -260,74 +260,8 @@ def render_case(item: dict, config: dict, language: str, *, standalone: bool = F
 
 
 def render_readme(config: dict, prompts: list[dict], language: str) -> str:
-    items = published(prompts)
-    brand = config["brand"]
-    project = config["project"]
-    lines = [GENERATED_MARKER, ""]
-    promo = config["cross_promo"]
-    lines.append("<!-- SLOT: cross-promo. Disabled until a real campaign URL is configured. -->")
-    if promo["enabled"]:
-        link = tracked_url(promo["url"], "cross_promo", language, config)
-        lines.extend([f"> **{md_link(localized(promo['title'], language), link)}**", ">", f"> {localized(promo['description'], language)}", ""])
-        if promo.get("image_path"):
-            lines.extend([f"[![{md_text(localized(promo['title'], language))}]({md_url(promo['image_path'])})]({link})", ""])
-    count_text = t(language, "empty_status") if not items else ("1 published prompt" if language == "en" and len(items) == 1 else str(len(items)) + " " + t(language, "count"))
-    lines.extend([
-        "<!-- SLOT: hero. Clickable brand entry. -->",
-        f"[![{md_text(project['name'])}](assets/header.svg)]({tracked_url(brand['home_url'], 'hero', language, config)})",
-        "", f"# {md_text(project['name'])}", "", t(language, "intro"), "",
-        f"**{count_text}**", "",
-        md_link(t(language, "case_gallery"), "docs/CASE_GALLERY.md"), "",
-        t(language, "case_gallery_note"), "",
-        "[English](README.md) · [简体中文](README.zh-CN.md)", "",
-        "<!-- SLOT: top-nav. Website link remains distinct from local navigation. -->",
-        " · ".join([
-            md_link(t(language, "prompts"), "#collection"),
-            md_link(t(language, "case_gallery"), "docs/CASE_GALLERY.md"),
-            md_link(t(language, "categories"), "#categories"),
-            md_link(t(language, "contribute"), "CONTRIBUTING.md"),
-            site_link(config, language, brand["name"] + " ↗", brand["home_url"], "top_nav"),
-        ]), "",
-        "<!-- SLOT: primary-cta. Use the live gallery when configured; otherwise the live homepage. -->",
-    ])
-    primary_url = brand.get("gallery_url") or brand["home_url"]
-    primary_copy = "gallery" if brand.get("gallery_url") else "visit"
-    lines.extend([f"**{site_link(config, language, t(language, primary_copy, brand=brand['name']), primary_url, 'top_cta')}**", ""])
-    if brand["model_available"] and brand.get("model_page_url"):
-        lines.extend([site_link(config, language, t(language, "model", brand=brand["name"]), brand["model_page_url"], "model_entry"), ""])
-    lines.extend([f"## {t(language, 'featured')}", "", render_gallery(items, config, language), "", '<a id="categories"></a>', "", f"## {t(language, 'categories')}", "", "<!-- SLOT: category-links. Local anchors until each exact website_url is configured. -->", f"| {t(language, 'category_column')} | {t(language, 'count_column')} |", "| --- | ---: |"])
-    for category in config["categories"]:
-        category_id = category["id"]
-        url = category.get("website_url")
-        destination = tracked_url(url, "category_" + category_id, language, config) if url else "#category-" + category_id
-        count = sum(item["category"] == category_id for item in items)
-        lines.append(f"| {md_link(localized(category['label'], language), destination)} | {count} |")
-    lines.extend(["", f"## {t(language, 'latest')}", ""])
-    if not items:
-        lines.extend([t(language, "empty_latest"), ""])
-    else:
-        lines.extend([f"| {t(language, 'date_column')} | {t(language, 'example_column')} | {t(language, 'status_column')} |", "| --- | --- | --- |"])
-        for item in items[:config["presentation"]["latest_limit"]]:
-            lines.append(f"| {item['added_at']} | {md_link(localized(item['title'], language), '#case-' + item['id'])} | {status_label(item, language)} |")
-        lines.append("")
-    lines.extend(['<a id="collection"></a>', "", f"## {t(language, 'prompts')}", "", "<!-- SLOT: prompt-cards. Only status=published entries are rendered. -->", ""])
-    for category in config["categories"]:
-        lines.extend([f'<a id="category-{category["id"]}"></a>', "", f"### {md_text(localized(category['label'], language))}", ""])
-        category_items = [item for item in items if item["category"] == category["id"]]
-        if not category_items:
-            lines.extend([t(language, "empty_category"), ""])
-        else:
-            for item in category_items:
-                lines.extend([render_case(item, config, language).rstrip(), "", "---", ""])
-    if brand.get("gallery_url"):
-        lines.extend(["<!-- SLOT: collection-bottom. Appears only for a live website gallery. -->", f"**{site_link(config, language, t(language, 'gallery', brand=brand['name']), brand['gallery_url'], 'collection_bottom')}**", ""])
-    lines.extend([f"## {t(language, 'using')}", ""])
-    lines.extend(f"{index}. {step}" for index, step in enumerate(COPY[language]["use_steps"], 1))
-    lines.extend(["", md_link(t(language, "official"), project["official_url"]) + " · " + md_link(t(language, "docs"), project["model_docs_url"]), "", f"## {t(language, 'source_heading')}", "", t(language, "source_text"), "", t(language, "contrib_text"), "", md_link(t(language, "contribute"), "CONTRIBUTING.md") + " · " + md_link(t(language, "maintainer"), "docs/FILLING_GUIDE.zh-CN.md"), "", t(language, "license"), "", "---", "", "<!-- SLOT: footer. Persistent brand attribution and site entry. -->", t(language, "footer", brand=brand["name"]), "", site_link(config, language, t(language, "visit", brand=brand["name"]), brand["home_url"], "footer")])
-    repository = repo_url(config)
-    if repository:
-        lines.extend(["", md_link(t(language, "follow"), repository)])
-    return "\n".join(lines).rstrip() + "\n"
+    from homepage import render_home
+    return render_home(config, prompts, language, render_case)
 
 
 def outputs(config: dict, prompts: list[dict]) -> dict[Path, str]:
@@ -336,6 +270,10 @@ def outputs(config: dict, prompts: list[dict]) -> dict[Path, str]:
         for item in published(prompts):
             for language in LANGUAGES:
                 result[ROOT / case_path(item, language)] = GENERATED_MARKER + "\n\n" + render_case(item, config, language, standalone=True)
+    from source_cases import page_path, read_cases, render_detail, visible
+    for item in visible(read_cases()):
+        for language in LANGUAGES:
+            result[ROOT / page_path(item, language)] = render_detail(item, language)
     return result
 
 

@@ -182,7 +182,7 @@ def validate_config(config, errors: list[str]) -> None:
         if isinstance(promo["title"], dict) and not all(isinstance(promo["title"].get(lang), str) and promo["title"][lang].strip() for lang in ("en", "zh-CN")):
             errors.append("cross_promo.title: enabled campaign needs both language titles")
         if promo["image_path"]:
-            check_asset(promo["image_path"], "cross_promo.image_path", errors)
+            check_asset(promo["image_path"], "cross_promo.image_path", errors, allow_remote=False)
 
 
 def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warnings: list[str], *, release: bool) -> None:
@@ -228,12 +228,16 @@ def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warni
                 errors.append(f"{label}: link-only previews require an empty preview.path and a source URL")
         elif not preview:
             errors.append(f"{label}.preview.path: add a preview, or select rights.preview=link-only")
+        if preview and item["rights"]["preview"] == "unknown":
+            errors.append(f"{label}.rights.preview: do not embed media without known reuse rights")
+        if preview and item["rights"]["preview"] in ("permission", "licensed") and not item["rights"]["license_url"]:
+            errors.append(f"{label}.rights.license_url: record preview reuse evidence")
         if preview:
-            check_asset(preview, f"{label}.preview.path", errors)
+            check_asset(preview, f"{label}.preview.path", errors, allow_remote=False)
             if not item["preview"]["alt"]["en"].strip():
                 errors.append(f"{label}.preview.alt.en: describe the preview image")
         for reference_index, reference in enumerate(item["reference_images"]):
-            check_asset(reference["path"], f"{label}.reference_images[{reference_index}].path", errors)
+            check_asset(reference["path"], f"{label}.reference_images[{reference_index}].path", errors, allow_remote=False)
         if item["verification"]["status"] == "tested" and (not is_date(item["verification"]["tested_at"]) or not item["verification"]["tested_on"].strip()):
             errors.append(f"{label}.verification: tested entries need tested_at and tested_on")
         if item["links"]["generate_url"] and (not config["brand"]["model_available"] or not is_date(item["links"]["generate_url_verified_at"])):
@@ -242,6 +246,75 @@ def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warni
             if item["rights"][field] == "unknown":
                 target = errors if release else warnings
                 target.append(f"{label}.rights.{field}: content terms have not been recorded")
+
+
+def validate_source_cases(config, cases, prompts, errors):
+    ids = {item['id'] for item in prompts if item.get('id')}
+    categories = {item['id'] for item in config['categories']}
+    for index, item in enumerate(cases):
+        name = f'source-cases[{index}]'
+        if item['id'] in ids:
+            errors.append(f'{name}.id: duplicate across source cases or prompts')
+        ids.add(item['id'])
+        if item['category'] not in categories:
+            errors.append(f'{name}.category: unknown category')
+        if not is_https_url(item['source']['url']):
+            errors.append(f'{name}.source.url: expected original HTTPS source')
+        if not item['source']['author'].strip():
+            errors.append(f'{name}.source.author: missing author')
+        for field in ('title', 'notes'):
+            for lang in ('en', 'zh-CN'):
+                if not item[field][lang].strip():
+                    errors.append(f'{name}.{field}.{lang}: required bilingual text')
+        for lang in ('en', 'zh-CN'):
+            if not item['model']['evidence'][lang].strip():
+                errors.append(f'{name}.model.evidence.{lang}: record explicit model evidence')
+        variants = item['model']['variants']
+        if not variants or len(variants) != len(set(variants)) or ('unspecified' in variants and len(variants) != 1):
+            errors.append(f'{name}.model.variants: record distinct known variants or unspecified alone')
+        for field in ('added_at', 'verified_at'):
+            if not is_date(item[field]):
+                errors.append(f'{name}.{field}: expected ISO date')
+        if item['prompt']['status'] == 'source-only':
+            if not is_https_url(item['prompt']['url']):
+                errors.append(f'{name}.prompt.url: required for public source prompt')
+        elif item['prompt']['url'] is not None:
+            errors.append(f'{name}.prompt.url: not-public prompts must not have a prompt URL')
+        for mindex, media in enumerate(item['media']):
+            mname = f'{name}.media[{mindex}]'
+            if not is_https_url(media['source_url']):
+                errors.append(f'{mname}.source_url: expected original HTTPS asset URL')
+            for lang in ('en', 'zh-CN'):
+                if not media['alt'][lang].strip() or not media['rights']['note'][lang].strip():
+                    errors.append(f'{mname}: bilingual alt and rights note required')
+            if not media['rights']['credit'].strip():
+                errors.append(f'{mname}.rights.credit: required')
+            path = media['path']
+            if media['rights']['status'] == 'link-only':
+                if path:
+                    errors.append(f'{mname}: link-only media cannot have a local path')
+                continue
+            if media['rights']['status'] == 'source-attributed':
+                if item['source']['type'] not in ('official-docs', 'official-launch') or media['rights']['evidence_url'] != item['source']['url']:
+                    errors.append(f'{mname}: source-attributed media must retain its exact official source as evidence')
+            if not path:
+                errors.append(f'{mname}.path: reusable media requires a local file')
+                continue
+            check_asset(path, f'{mname}.path', errors, allow_remote=False)
+            expected = f"assets/examples/{item['id']}/"
+            if not path.startswith(expected) or '..' in Path(path).parts:
+                errors.append(f'{mname}.path: expected {expected} with no traversal')
+            allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg'}
+            if Path(path).suffix.lower() not in allowed:
+                errors.append(f'{mname}.path: unsupported preview media format')
+            evidence = media['rights']['evidence_url']
+            if not evidence:
+                errors.append(f'{mname}.rights.evidence_url: required reuse evidence')
+            elif not is_https_url(evidence):
+                check_asset(evidence, f'{mname}.rights.evidence_url', errors, allow_remote=False)
+            candidate = ROOT / path
+            if candidate.is_file() and candidate.stat().st_size > 10 * 1024 * 1024:
+                errors.append(f'{mname}.path: individual media must be no larger than 10 MiB')
 
 
 def markdown_link_errors() -> list[str]:
@@ -277,15 +350,21 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         config, prompts = load_data()
         schema = read_json("content/schema.json")
         template = read_json("templates/prompt.json")
+        cases = read_json("content/source-cases.json")
+        case_schema = read_json("content/source-cases.schema.json")
+        case_template = read_json("templates/source-case.json")
     except (OSError, json.JSONDecodeError) as error:
         return [str(error)], warnings
     validate_config(config, errors)
     errors.extend(schema_errors(prompts, schema, "prompts", schema))
     errors.extend(schema_errors([template], schema, "template", schema))
+    errors.extend(schema_errors(cases, case_schema, "source-cases", case_schema))
+    errors.extend(schema_errors([case_template], case_schema, "source-case-template", case_schema))
     if errors:
         return errors, warnings
+    validate_source_cases(config, cases, prompts, errors)
     validate_prompts(config, prompts, errors, warnings, release=release)
-    for asset in ("assets/header.svg", "assets/gallery-placeholder.svg"):
+    for asset in ("assets/header.svg", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)
     if release:
         if not published(prompts):

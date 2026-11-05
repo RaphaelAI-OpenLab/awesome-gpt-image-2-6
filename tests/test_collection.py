@@ -1,0 +1,132 @@
+"""Regression coverage for source cases and generated repository routes."""
+import copy
+import re
+import sys
+import unittest
+from pathlib import Path
+from unittest.mock import patch
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
+from common import ROOT, load_data, read_json
+from source_cases import read_cases, visible, page_path, render_detail
+from build_readme import outputs, render_readme, stale_case_pages
+from validate import validate, validate_source_cases, schema_errors
+
+
+class CollectionTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.config, cls.prompts = load_data()
+        cls.cases = read_cases()
+
+    def errors_for(self, item):
+        errors = []
+        validate_source_cases(self.config, [item], [], errors)
+        return errors
+
+    def test_current_data_and_local_links(self):
+        self.assertEqual(validate()[0], [])
+
+    def test_generated_files_match(self):
+        expected = outputs(self.config, self.prompts)
+        self.assertEqual(stale_case_pages(expected), [])
+        for path, text in expected.items():
+            self.assertEqual(path.read_text(), text, str(path))
+        self.assertEqual(outputs(self.config, self.prompts), expected)
+
+    def test_every_visible_case_has_bilingual_internal_routes(self):
+        generated = outputs(self.config, self.prompts)
+        for lang in ('en', 'zh-CN'):
+            readme = render_readme(self.config, self.prompts, lang)
+            for case in visible(self.cases):
+                route = page_path(case, lang)
+                self.assertIn(route, readme)
+                self.assertIn(ROOT / route, generated)
+                self.assertIn(case['source']['url'], generated[ROOT / route])
+
+    def test_displayed_images_are_local(self):
+        for path, text in outputs(self.config, self.prompts).items():
+            sources = re.findall(r'<img[^>]+src="([^"]+)"', text)
+            sources += re.findall(r'!\[[^]]*\]\(([^)]+)\)', text)
+            for source in sources:
+                self.assertNotRegex(source, r'^(?:https?:|//)')
+                self.assertTrue((path.parent / source).is_file(), source)
+
+    def test_unknown_prompt_has_no_fake_prompt(self):
+        item = copy.deepcopy(self.cases[0])
+        item['prompt'] = {'status': 'not-public', 'url': None}
+        for lang in ('en', 'zh-CN'):
+            text = render_detail(item, lang)
+            self.assertIn('PLACEHOLDER' if lang == 'en' else '占位', text)
+            self.assertNotIn('```', text)
+
+    def test_drafts_are_not_rendered(self):
+        cases = copy.deepcopy(self.cases)
+        cases[0]['status'] = 'draft'
+        with patch('source_cases.read_cases', return_value=cases), patch('homepage.read_cases', return_value=cases):
+            generated = outputs(self.config, self.prompts)
+            self.assertNotIn(ROOT / page_path(cases[0], 'en'), generated)
+            self.assertNotIn(page_path(cases[0], 'en'), render_readme(self.config, self.prompts, 'en'))
+
+    def test_duplicate_ids_are_rejected(self):
+        errors=[]
+        validate_source_cases(self.config,[self.cases[0],self.cases[0]],[],errors)
+        self.assertTrue(any('duplicate' in x for x in errors))
+
+    def test_cross_dataset_collision_is_rejected(self):
+        errors=[]
+        validate_source_cases(self.config,[self.cases[0]],[{'id':self.cases[0]['id']}],errors)
+        self.assertTrue(any('duplicate' in x for x in errors))
+
+    def test_ambiguous_variant_is_rejected(self):
+        item=copy.deepcopy(self.cases[0]);item['model']['variants']=['unspecified','sunburst']
+        self.assertTrue(self.errors_for(item))
+
+    def test_missing_bilingual_evidence_is_rejected(self):
+        item=copy.deepcopy(self.cases[0]);item['model']['evidence']['zh-CN']=''
+        self.assertTrue(self.errors_for(item))
+
+    def test_schema_rejects_unknown_fields(self):
+        item=copy.deepcopy(self.cases[0]);item['fake_prompt']='invented'
+        schema=read_json('content/source-cases.schema.json')
+        self.assertTrue(schema_errors([item],schema,'cases',schema))
+
+    def test_public_prompt_requires_source(self):
+        item=copy.deepcopy(self.cases[0]);item['prompt']['url']=None
+        self.assertTrue(self.errors_for(item))
+
+    def media_item(self):
+        return copy.deepcopy(next(x for x in self.cases if x['media']))
+
+    def test_link_only_media_cannot_be_embedded(self):
+        item=self.media_item();item['media'][0]['path']='assets/header.svg';item['media'][0]['rights']['status']='link-only'
+        self.assertTrue(self.errors_for(item))
+
+    def test_remote_embedded_media_rejected(self):
+        item=self.media_item();m=item['media'][0];m['path']='https://example.com/image.png';m['rights']['status']='licensed';m['rights']['evidence_url']='https://example.com/license'
+        self.assertTrue(self.errors_for(item))
+
+    def test_local_media_requires_evidence(self):
+        item=self.media_item();m=item['media'][0];m['path']='assets/header.svg';m['rights']['status']='licensed';m['rights']['evidence_url']=None
+        self.assertTrue(any('evidence' in x for x in self.errors_for(item)))
+
+    def test_local_evidence_route_is_relative_to_case_page(self):
+        item=self.media_item();item['media'][0]['rights']['evidence_url']='docs/ATTRIBUTION.md'
+        self.assertIn('(../../docs/ATTRIBUTION.md)', render_detail(item, 'en'))
+
+    def test_free_text_cannot_embed_remote_images(self):
+        item=self.media_item()
+        bad='![remote](https://example.com/unlicensed.png) <img src="https://example.com/x.png" />'
+        item['notes']['en']=bad
+        item['model']['evidence']['en']=bad
+        item['media'][0]['rights']['note']['en']=bad
+        text=render_detail(item,'en')
+        self.assertNotIn('![remote](',text)
+        self.assertNotIn('<img src=',text)
+
+    def test_local_path_traversal_is_rejected(self):
+        item=self.media_item();m=item['media'][0];m['path']=f"assets/examples/{item['id']}/../../header.svg";m['rights']['status']='licensed';m['rights']['evidence_url']='https://example.com/license'
+        self.assertTrue(any('traversal' in x for x in self.errors_for(item)))
+
+
+if __name__ == '__main__':
+    unittest.main()

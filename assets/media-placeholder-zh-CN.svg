@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">素材暂未入库</title><desc id="desc">占位图 · 尚未核实转载许可. Not model output.</desc>
+  <rect width="720" height="300" rx="20" fill="#f6f3ec"/>
+  <rect x="24" y="24" width="672" height="252" rx="12" fill="none" stroke="#c5c7b8" stroke-dasharray="7 7"/>
+  <text x="360" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#535a4a">素材暂未入库</text>
+  <text x="360" y="181" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#6e7165">占位图 · 尚未核实转载许可</text>
+</svg>

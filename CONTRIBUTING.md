@@ -4,12 +4,18 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 欢迎补充案例。请保留真实提示词、预览图或原帖链接、已知的模型信息与来源署名。
 
-## Add an entry / 添加案例
+## Source-linked case or complete prompt? / 来源案例还是完整提示词？
+
+Use [the source-case guide](docs/SOURCE_CASES.md) for works with prompts linked at the source or no public prompt. Edit `content/source-cases.json`; all published records appear in both README files and internal detail pages. The instructions below apply to complete prompt records in `content/prompts.json`.
+
+没有公开提示词的作品也可收录，但必须明确记录模型证据、来源和缺失状态，不伪造原始提示词。
+
+## Add a complete prompt / 添加完整提示词
 
 1. Copy the complete object in [templates/prompt.json](templates/prompt.json) into the array in [content/prompts.json](content/prompts.json).
 2. Keep `status` as `draft` while collecting the missing fields. Drafts are omitted from generated pages, but the JSON itself is visible in a public repository.
 3. Add a unique `id`, an English title, the original prompt, a category, and the collection date. A Chinese title is welcome; it falls back to English when empty.
-4. Put preview files in `assets/examples/<id>/` and reference images in `assets/references/<id>/`, or use the exact HTTPS image URL when appropriate.
+4. Put preview files in `assets/examples/<id>/` and reference images in `assets/references/<id>/`. Displayed images, GIFs and SVGs must be local files, not external hotlinks.
 5. Keep the source URL and author. Record image/prompt reuse terms and attribution. If you are only linking to the original image, choose `rights.preview: "link-only"` and leave `preview.path` empty.
 6. Set `verification.status` to `source-only` unless you have actually reproduced the result. For a test, record the date, execution platform, and relevant limitations.
 7. Switch to `published` when the record is complete, then regenerate and validate.

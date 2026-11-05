@@ -3,6 +3,10 @@ and original decorative SVG assets. Third-party prompts, reference images, and
 example outputs added later retain their own rights and item-level terms; this
 license does not grant rights to those materials.
 
+README layout adaptation: see docs/ATTRIBUTION.md for the YouMind OpenLab
+CC BY 4.0 attribution and terms. This exception does not relicense third-party
+prompts or media.
+
 MIT License
 
 Copyright (c) 2026 Contributors to Awesome GPT Image 2.6
