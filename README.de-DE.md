@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 5 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 7 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 6 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 8 | 0 |
 | [Infografiken](#category-infographics) | 3 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 2 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 10 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 9 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 11 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 3 | 0 |
-| [GIF & Animation](#category-gif-animation) | 12 | 0 |
+| [GIF & Animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **51** |
+| Beispiele mit Quellenverweisen | **56** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **14** |
-| An der Quelle verfügbare Original-Prompts | **36** |
+| Von Erstellern gemeldete Beispiele | **19** |
+| An der Quelle verfügbare Original-Prompts | **38** |
 | Hier veröffentlichte vollständige Prompts | **0** |
 | Lokal archivierte Mediendateien | **110** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Miniature brand product world](cases/launch-sable/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Offizielle Demo zur Einführung | Prompt nicht öffentlich |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

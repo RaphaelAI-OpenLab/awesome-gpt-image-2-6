@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 5 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 7 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 6 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 8 | 0 |
 | [Infografiche](#category-infographics) | 3 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
 | [Personaggi e coerenza](#category-characters-consistency) | 10 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 9 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 11 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 3 | 0 |
-| [GIF e animazione](#category-gif-animation) | 12 | 0 |
+| [GIF e animazione](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **51** |
+| Casi con collegamenti alle fonti | **56** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **14** |
-| Prompt originali disponibili alla fonte | **36** |
+| Esempi dichiarati dai creatori | **19** |
+| Prompt originali disponibili alla fonte | **38** |
 | Prompt completi pubblicati qui | **0** |
 | File multimediali archiviati localmente | **110** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Miniature brand product world](cases/launch-sable/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demo ufficiale di lancio | Prompt non pubblico |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

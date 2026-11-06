@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 5 | 0 |
-| [Posters & typography](#category-posters-typography) | 7 | 0 |
+| [Brand & product visuals](#category-brand-products) | 6 | 0 |
+| [Posters & typography](#category-posters-typography) | 8 | 0 |
 | [Infographics](#category-infographics) | 3 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 10 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 9 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 11 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
-| [GIF & animation](#category-gif-animation) | 12 | 0 |
+| [GIF & animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **51** |
+| Source-linked cases | **56** |
 | Official examples | **37** |
-| Creator-reported examples | **14** |
-| Original prompts available at source | **36** |
+| Creator-reported examples | **19** |
+| Original prompts available at source | **38** |
 | Full prompts published here | **0** |
 | Locally archived media files | **110** |
 | Last source check (UTC) | **2026-11-06** |
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Creator-reported model |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Creator-reported model |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Creator-reported model |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Creator-reported model |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Creator-reported model |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Creator-reported model |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Creator-reported model |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -139,6 +139,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Official documentation | Original prompt at source |
 | [Miniature brand product world](cases/launch-sable/README.md) | Official launch demo | Original prompt at source |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Official launch demo | Prompt not public |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-posters-typography"></a>
 
@@ -153,6 +154,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Creator-reported model | Prompt not public |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Creator-reported model | Prompt not public |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -205,6 +207,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Official documentation | Original prompt at source |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Creator-reported model | Original prompt at source |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Creator-reported model | Original prompt at source |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Creator-reported model | Prompt not public |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -234,6 +238,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model | Prompt not public |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Creator-reported model | Prompt not public |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model | Original prompt at source |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

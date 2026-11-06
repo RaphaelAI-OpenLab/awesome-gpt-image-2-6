@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 5 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 7 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 6 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 8 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 3 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 2 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 10 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 9 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 11 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 3 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 12 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **51** |
+| Trường hợp có liên kết nguồn | **56** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **14** |
-| Câu lệnh gốc có sẵn tại nguồn | **36** |
+| Ví dụ do tác giả báo cáo | **19** |
+| Câu lệnh gốc có sẵn tại nguồn | **38** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
 | Tệp tư liệu được lưu trữ cục bộ | **110** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Miniature brand product world](cases/launch-sable/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh chưa công khai |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
