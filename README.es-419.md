@@ -51,7 +51,7 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | [Pósteres y tipografía](#category-posters-typography) | 8 | 0 |
 | [Infografías](#category-infographics) | 3 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 2 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 10 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 14 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 11 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 3 | 0 |
 | [GIF y animación](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **60** |
+| Casos con enlace a la fuente | **64** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **23** |
-| Prompts originales disponibles en la fuente | **38** |
+| Ejemplos según sus creadores | **27** |
+| Prompts originales disponibles en la fuente | **42** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **110** |
+| Archivos multimedia archivados localmente | **114** |
 | Última comprobación de fuentes (UTC) | **2026-11-06** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -123,10 +123,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Documentación oficial | Prompt original en la fuente |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Demostración oficial de lanzamiento | Prompt no público |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Demostración oficial de lanzamiento | Prompt original en la fuente |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-markup-edits"></a>
 

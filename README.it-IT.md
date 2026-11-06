@@ -51,7 +51,7 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | [Poster e tipografia](#category-posters-typography) | 8 | 0 |
 | [Infografiche](#category-infographics) | 3 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 10 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 14 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 11 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 3 | 0 |
 | [GIF e animazione](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **60** |
+| Casi con collegamenti alle fonti | **64** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **23** |
-| Prompt originali disponibili alla fonte | **38** |
+| Esempi dichiarati dai creatori | **27** |
+| Prompt originali disponibili alla fonte | **42** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **110** |
+| File multimediali archiviati localmente | **114** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Demo ufficiale di lancio | Prompt non pubblico |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 

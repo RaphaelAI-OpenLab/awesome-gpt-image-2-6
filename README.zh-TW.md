@@ -51,7 +51,7 @@
 | [海報與文字排版](#category-posters-typography) | 8 | 0 |
 | [資訊圖表](#category-infographics) | 3 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 2 | 0 |
-| [角色與一致性](#category-characters-consistency) | 10 | 0 |
+| [角色與一致性](#category-characters-consistency) | 14 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 11 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 3 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **60** |
+| 附來源連結的案例 | **64** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **23** |
-| 可於來源取得的原始提示詞 | **38** |
+| 創作者自述範例 | **27** |
+| 可於來源取得的原始提示詞 | **42** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **110** |
+| 已於本機封存的媒體檔案 | **114** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -123,10 +123,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Continue the same character’s story](cases/docs-character-story/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Stained-glass whale](cases/launch-picsart/README.md) | 官方發布示範 | 提示詞未公開 |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | 官方發布示範 | 來源中的原始提示詞 |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-markup-edits"></a>
 

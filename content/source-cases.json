@@ -5291,5 +5291,297 @@
       },
       "report_path": "docs/PRODUCTAI_LINK_ONLY_ACCESS_2026-11-05.md"
     }
+  },
+  {
+    "id": "community-ophanim-coastal-lookout",
+    "status": "published",
+    "title": {
+      "en": "Ophanim-inspired still: The Coastal Lookout",
+      "zh-CN": "Ophanim 艺术演绎静帧：海岸瞭望台"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-coastal",
+      "author": "Max Bard / Pray Production Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The article credits Max Bard with four opening stills made using GPT Image 2.6 Sunburst. It separately attributes the subsequent animation to Seedance 2.5; that animation is not included here. This is the creator’s report, not an independent reproduction.",
+        "zh-CN": "文章称 Max Bard 使用 GPT Image 2.6 Sunburst 制作了四张开场静帧，之后另用 Seedance 2.5 制作动画；本案例不收录该动画。以上为创作者自述，整理者未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-coastal"
+    },
+    "media": [
+      {
+        "source_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts/still-coastal-lookout.jpg",
+        "path": "assets/examples/community-ophanim-coastal-lookout/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Ophanim-inspired still: The Coastal Lookout: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Ophanim 艺术演绎静帧：海岸瞭望台：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-coastal",
+          "credit": "Max Bard / Pray Production Studio",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 168127,
+        "sha256": "31f3b60a1b3d846b006771cb21d78601ef055b5743af696990e5f4c304bf26a7",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Dark, eye-covered interlocking rings above a stormy North Atlantic coast and lighthouse, seen from behind a ruined lookout wall. The page presents an artistic interpretation and links the original still-image prompt. The source labels its format as 9:16, but the served still JPEG is 1024 × 1536 (2:3); this file is preserved unchanged. The later Seedance 2.5 animation is excluded.",
+      "zh-CN": "从残破瞭望台石墙后望向暴风雨中的北大西洋海岸与灯塔，空中悬着布满眼睛的深色交错圆环。原页将其定位为艺术演绎，并提供原始静态图像提示词。 来源页面标示格式为 9:16，但实际提供的静态 JPEG 为 1024 × 1536（2:3）；文件保持原样。后续 Seedance 2.5 动画不收录为 2.6 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original publisher article opened normally in the public browser without signing in.",
+        "zh-CN": "原发布方文章在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "The source-served JPEG downloaded directly and decoded successfully. Its actual 2:3 dimensions are recorded despite the article’s 9:16 label.",
+        "zh-CN": "来源提供的 JPEG 直接下载及解码成功。实际宽高比为 2:3，与文章的 9:16 标签区别记录。"
+      },
+      "report_path": "docs/OPHANIM_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-ophanim-mountain-reservoir",
+    "status": "published",
+    "title": {
+      "en": "Ophanim-inspired still: The Mountain Reservoir",
+      "zh-CN": "Ophanim 艺术演绎静帧：山间水库"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-reservoir",
+      "author": "Max Bard / Pray Production Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The article credits Max Bard with four opening stills made using GPT Image 2.6 Sunburst. It separately attributes the subsequent animation to Seedance 2.5; that animation is not included here. This is the creator’s report, not an independent reproduction.",
+        "zh-CN": "文章称 Max Bard 使用 GPT Image 2.6 Sunburst 制作了四张开场静帧，之后另用 Seedance 2.5 制作动画；本案例不收录该动画。以上为创作者自述，整理者未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-reservoir"
+    },
+    "media": [
+      {
+        "source_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts/still-mountain-reservoir.jpg",
+        "path": "assets/examples/community-ophanim-mountain-reservoir/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Ophanim-inspired still: The Mountain Reservoir: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Ophanim 艺术演绎静帧：山间水库：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-reservoir",
+          "credit": "Max Bard / Pray Production Studio",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 200995,
+        "sha256": "214f82c445804b749217f675e76c9ad41af035f17fcbc1a21a85097db9372ca5",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Golden, winged, eye-covered rings above a lake and dam, viewed from a ruined maintenance building. The page presents an artistic interpretation and links the original still-image prompt. The source labels its format as 9:16, but the served still JPEG is 1024 × 1536 (2:3); this file is preserved unchanged. The later Seedance 2.5 animation is excluded.",
+      "zh-CN": "从废弃维修建筑望向湖泊与大坝，空中悬着带翼、布满眼睛的金色圆环。原页将其定位为艺术演绎，并提供原始静态图像提示词。 来源页面标示格式为 9:16，但实际提供的静态 JPEG 为 1024 × 1536（2:3）；文件保持原样。后续 Seedance 2.5 动画不收录为 2.6 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original publisher article opened normally in the public browser without signing in.",
+        "zh-CN": "原发布方文章在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "The source-served JPEG downloaded directly and decoded successfully. Its actual 2:3 dimensions are recorded despite the article’s 9:16 label.",
+        "zh-CN": "来源提供的 JPEG 直接下载及解码成功。实际宽高比为 2:3，与文章的 9:16 标签区别记录。"
+      },
+      "report_path": "docs/OPHANIM_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-ophanim-village-rain",
+    "status": "published",
+    "title": {
+      "en": "Ophanim-inspired still: The Village in the Rain",
+      "zh-CN": "Ophanim 艺术演绎静帧：雨中村庄"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-village",
+      "author": "Max Bard / Pray Production Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The article credits Max Bard with four opening stills made using GPT Image 2.6 Sunburst. It separately attributes the subsequent animation to Seedance 2.5; that animation is not included here. This is the creator’s report, not an independent reproduction.",
+        "zh-CN": "文章称 Max Bard 使用 GPT Image 2.6 Sunburst 制作了四张开场静帧，之后另用 Seedance 2.5 制作动画；本案例不收录该动画。以上为创作者自述，整理者未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-village"
+    },
+    "media": [
+      {
+        "source_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts/still-hidden-witness.jpg",
+        "path": "assets/examples/community-ophanim-village-rain/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Ophanim-inspired still: The Village in the Rain: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Ophanim 艺术演绎静帧：雨中村庄：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-village",
+          "credit": "Max Bard / Pray Production Studio",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 115577,
+        "sha256": "e6e9e5b55ad5b40ad8672479581bfbe0f10abff6cdbb65ddbf02bf40055ea1bf",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Dark, eye-covered rings above a village and church, seen from behind wet masonry. The source describes this artistic interpretation with a shot-plan prompt that the creator says was also used to make the opening still. The source labels its format as 9:16, but the served still JPEG is 1024 × 1536 (2:3); this file is preserved unchanged. The later Seedance 2.5 animation is excluded.",
+      "zh-CN": "从湿漉漉的砖石后望向村庄与教堂，空中悬着布满眼睛的深色圆环。原页以镜头方案描述这幅艺术演绎；创作者称该提示词也用于制作开场静帧。 来源页面标示格式为 9:16，但实际提供的静态 JPEG 为 1024 × 1536（2:3）；文件保持原样。后续 Seedance 2.5 动画不收录为 2.6 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original publisher article opened normally in the public browser without signing in.",
+        "zh-CN": "原发布方文章在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "The source-served JPEG downloaded directly and decoded successfully. Its actual 2:3 dimensions are recorded despite the article’s 9:16 label.",
+        "zh-CN": "来源提供的 JPEG 直接下载及解码成功。实际宽高比为 2:3，与文章的 9:16 标签区别记录。"
+      },
+      "report_path": "docs/OPHANIM_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-ophanim-subway-entrance",
+    "status": "published",
+    "title": {
+      "en": "Ophanim-inspired still: The Subway Entrance",
+      "zh-CN": "Ophanim 艺术演绎静帧：地铁入口"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-subway",
+      "author": "Max Bard / Pray Production Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The article credits Max Bard with four opening stills made using GPT Image 2.6 Sunburst. It separately attributes the subsequent animation to Seedance 2.5; that animation is not included here. This is the creator’s report, not an independent reproduction.",
+        "zh-CN": "文章称 Max Bard 使用 GPT Image 2.6 Sunburst 制作了四张开场静帧，之后另用 Seedance 2.5 制作动画；本案例不收录该动画。以上为创作者自述，整理者未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-subway"
+    },
+    "media": [
+      {
+        "source_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts/still-gold-winged-subway.jpg",
+        "path": "assets/examples/community-ophanim-subway-entrance/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Ophanim-inspired still: The Subway Entrance: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Ophanim 艺术演绎静帧：地铁入口：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.prayproductionstudio.com/blog/gpt-image-2-6-ophanim-prompts#oph-subway",
+          "credit": "Max Bard / Pray Production Studio",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 201426,
+        "sha256": "361edd9e8b131666e5215667ac702dd60478c2ff9bd3ae92666f156f91d32c41",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Golden winged rings above a rain-soaked city avenue, viewed from subway stairs. The source describes this artistic interpretation with a shot-plan prompt that the creator says was also used to make the opening still. The source labels its format as 9:16, but the served still JPEG is 1024 × 1536 (2:3); this file is preserved unchanged. The later Seedance 2.5 animation is excluded.",
+      "zh-CN": "从地铁阶梯望向被雨水浸湿的城市大道，空中悬着带翼金色圆环。原页以镜头方案描述这幅艺术演绎；创作者称该提示词也用于制作开场静帧。 来源页面标示格式为 9:16，但实际提供的静态 JPEG 为 1024 × 1536（2:3）；文件保持原样。后续 Seedance 2.5 动画不收录为 2.6 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original publisher article opened normally in the public browser without signing in.",
+        "zh-CN": "原发布方文章在公开浏览器中正常打开，无需登录。"
+      },
+      "media_note": {
+        "en": "The source-served JPEG downloaded directly and decoded successfully. Its actual 2:3 dimensions are recorded despite the article’s 9:16 label.",
+        "zh-CN": "来源提供的 JPEG 直接下载及解码成功。实际宽高比为 2:3，与文章的 9:16 标签区别记录。"
+      },
+      "report_path": "docs/OPHANIM_PROVENANCE_2026-11-06.md"
+    }
   }
 ]

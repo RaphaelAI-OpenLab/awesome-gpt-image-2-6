@@ -51,7 +51,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Afişler ve tipografi](#category-posters-typography) | 8 | 0 |
 | [İnfografikler](#category-infographics) | 3 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 10 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 14 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 11 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 3 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **60** |
+| Kaynak bağlantılı örnekler | **64** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **23** |
-| Kaynakta bulunan özgün istemler | **38** |
+| Üreticilerinin bildirdiği örnekler | **27** |
+| Kaynakta bulunan özgün istemler | **42** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **110** |
+| Yerel olarak arşivlenmiş medya dosyaları | **114** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Resmî lansman demosu | İstem herkese açık değil |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 

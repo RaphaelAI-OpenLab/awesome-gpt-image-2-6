@@ -47,7 +47,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Posters & typography](#category-posters-typography) | 8 | 0 |
 | [Infographics](#category-infographics) | 3 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 10 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 14 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 11 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
 | [GIF & animation](#category-gif-animation) | 13 | 0 |
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **60** |
+| Source-linked cases | **64** |
 | Official examples | **37** |
-| Creator-reported examples | **23** |
-| Original prompts available at source | **38** |
+| Creator-reported examples | **27** |
+| Original prompts available at source | **42** |
 | Full prompts published here | **0** |
-| Locally archived media files | **110** |
+| Locally archived media files | **114** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Creator-reported model |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Creator-reported model |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Creator-reported model |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Creator-reported model |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Creator-reported model |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Creator-reported model |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Creator-reported model |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -195,6 +195,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Official documentation | Original prompt at source |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Official launch demo | Prompt not public |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Official launch demo | Original prompt at source |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Creator-reported model | Original prompt at source |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Creator-reported model | Original prompt at source |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Creator-reported model | Original prompt at source |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
