@@ -37,7 +37,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
 | [Brand & product visuals](#category-brand-products) | 5 | 0 |
-| [Posters & typography](#category-posters-typography) | 6 | 0 |
+| [Posters & typography](#category-posters-typography) | 7 | 0 |
 | [Infographics](#category-infographics) | 3 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 10 | 0 |
@@ -75,12 +75,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **49** |
+| Source-linked cases | **50** |
 | Official examples | **37** |
-| Creator-reported examples | **12** |
+| Creator-reported examples | **13** |
 | Original prompts available at source | **35** |
 | Full prompts published here | **0** |
-| Locally archived media files | **101** |
+| Locally archived media files | **107** |
 | Last source check (UTC) | **2026-11-05** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -110,12 +110,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Creator-reported model |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Creator-reported model |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Creator-reported model |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Creator-reported model |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Creator-reported model |
 | 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Creator-reported model |
-| 2026-11-05 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -145,6 +145,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Creator-reported model | Prompt not public |
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Creator-reported model | Prompt not public |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-infographics"></a>
 
