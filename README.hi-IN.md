@@ -53,7 +53,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 2 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 15 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 11 | 0 |
-| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 3 | 0 |
+| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **70** |
+| स्रोत से जुड़े उदाहरण | **73** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **33** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **48** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **36** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **51** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **126** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **130** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -123,10 +123,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-gif-animation"></a>
 

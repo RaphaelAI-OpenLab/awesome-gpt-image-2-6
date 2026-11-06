@@ -53,7 +53,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 2 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 15 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 11 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 3 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **70** |
+| Trường hợp có liên kết nguồn | **73** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **33** |
-| Câu lệnh gốc có sẵn tại nguồn | **48** |
+| Ví dụ do tác giả báo cáo | **36** |
+| Câu lệnh gốc có sẵn tại nguồn | **51** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **126** |
+| Tệp tư liệu được lưu trữ cục bộ | **130** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-gif-animation"></a>
 

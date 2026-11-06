@@ -53,7 +53,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Innenräume & Architektur](#category-interiors-architecture) | 2 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 15 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 11 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 3 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
 | [GIF & Animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **70** |
+| Beispiele mit Quellenverweisen | **73** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **33** |
-| An der Quelle verfügbare Original-Prompts | **48** |
+| Von Erstellern gemeldete Beispiele | **36** |
+| An der Quelle verfügbare Original-Prompts | **51** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **126** |
+| Lokal archivierte Mediendateien | **130** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-gif-animation"></a>
 

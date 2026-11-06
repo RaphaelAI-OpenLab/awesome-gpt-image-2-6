@@ -53,7 +53,7 @@
 | [室內設計與建築](#category-interiors-architecture) | 2 | 0 |
 | [角色與一致性](#category-characters-consistency) | 15 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 11 | 0 |
-| [SVG 與設計素材](#category-svg-design-assets) | 3 | 0 |
+| [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **70** |
+| 附來源連結的案例 | **73** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **33** |
-| 可於來源取得的原始提示詞 | **48** |
+| 創作者自述範例 | **36** |
+| 可於來源取得的原始提示詞 | **51** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **126** |
+| 已於本機封存的媒體檔案 | **130** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -123,10 +123,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-gif-animation"></a>
 

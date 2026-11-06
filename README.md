@@ -49,7 +49,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 15 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 11 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
 | [GIF & animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **70** |
+| Source-linked cases | **73** |
 | Official examples | **37** |
-| Creator-reported examples | **33** |
-| Original prompts available at source | **48** |
+| Creator-reported examples | **36** |
+| Original prompts available at source | **51** |
 | Full prompts published here | **0** |
-| Locally archived media files | **126** |
+| Locally archived media files | **130** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Creator-reported model |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Creator-reported model |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Creator-reported model |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -233,6 +233,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Official documentation | Original prompt at source |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Official documentation | Original prompt at source |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-gif-animation"></a>
 

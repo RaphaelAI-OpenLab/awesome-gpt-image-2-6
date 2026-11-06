@@ -53,7 +53,7 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
 | [Personaggi e coerenza](#category-characters-consistency) | 15 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 11 | 0 |
-| [SVG e risorse grafiche](#category-svg-design-assets) | 3 | 0 |
+| [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animazione](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **70** |
+| Casi con collegamenti alle fonti | **73** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **33** |
-| Prompt originali disponibili alla fonte | **48** |
+| Esempi dichiarati dai creatori | **36** |
+| Prompt originali disponibili alla fonte | **51** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **126** |
+| File multimediali archiviati localmente | **130** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-gif-animation"></a>
 

@@ -53,7 +53,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 15 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 11 | 0 |
-| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 3 | 0 |
+| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **70** |
+| Kaynak bağlantılı örnekler | **73** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **33** |
-| Kaynakta bulunan özgün istemler | **48** |
+| Üreticilerinin bildirdiği örnekler | **36** |
+| Kaynakta bulunan özgün istemler | **51** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **126** |
+| Yerel olarak arşivlenmiş medya dosyaları | **130** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-gif-animation"></a>
 
