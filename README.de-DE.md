@@ -54,7 +54,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Figuren & Konsistenz](#category-characters-consistency) | 10 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 9 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 3 | 0 |
-| [GIF & Animation](#category-gif-animation) | 11 | 0 |
+| [GIF & Animation](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **50** |
+| Beispiele mit Quellenverweisen | **51** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **13** |
-| An der Quelle verfügbare Original-Prompts | **35** |
+| Von Erstellern gemeldete Beispiele | **14** |
+| An der Quelle verfügbare Original-Prompts | **36** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **107** |
-| Letzte Quellenprüfung (UTC) | **2026-11-05** |
+| Lokal archivierte Mediendateien | **110** |
+| Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
 
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

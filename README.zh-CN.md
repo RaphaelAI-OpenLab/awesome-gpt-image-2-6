@@ -50,7 +50,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 10 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 9 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF 与动画](#category-gif-animation) | 11 | 0 |
+| [GIF 与动画](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **50** |
+| 来源案例 | **51** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **13** |
-| 来源公开原始提示词 | **35** |
+| 社区作者自报案例 | **14** |
+| 来源公开原始提示词 | **36** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **107** |
-| 最近来源核对（UTC） | **2026-11-05** |
+| 本地收录素材文件 | **110** |
+| 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
 
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Flare 质量与规划对比](cases/aivideos-flare-quality-planning/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [柴犬拉面店：两轮画质对比](cases/ai-garage-ramen-quality-series/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -233,6 +233,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

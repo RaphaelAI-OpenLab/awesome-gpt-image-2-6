@@ -54,7 +54,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 10 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 9 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 3 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 11 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **50** |
+| Kaynak bağlantılı örnekler | **51** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **13** |
-| Kaynakta bulunan özgün istemler | **35** |
+| Üreticilerinin bildirdiği örnekler | **14** |
+| Kaynakta bulunan özgün istemler | **36** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **107** |
-| Son kaynak kontrolü (UTC) | **2026-11-05** |
+| Yerel olarak arşivlenmiş medya dosyaları | **110** |
+| Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
 
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 
