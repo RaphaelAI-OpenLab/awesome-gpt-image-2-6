@@ -47,14 +47,14 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 5 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 7 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 6 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 8 | 0 |
 | [Infographies](#category-infographics) | 3 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 2 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 10 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 9 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 11 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 3 | 0 |
-| [GIF et animation](#category-gif-animation) | 12 | 0 |
+| [GIF et animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **51** |
+| Cas avec liens vers les sources | **56** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **14** |
-| Prompts originaux disponibles à la source | **36** |
+| Exemples déclarés par leurs créateurs | **19** |
+| Prompts originaux disponibles à la source | **38** |
 | Prompts complets publiés ici | **0** |
 | Fichiers multimédias archivés localement | **110** |
 | Dernière vérification des sources (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Documentation officielle | Prompt original à la source |
 | [Miniature brand product world](cases/launch-sable/README.md) | Démonstration officielle de lancement | Prompt original à la source |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Démonstration officielle de lancement | Prompt non public |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Documentation officielle | Prompt original à la source |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 5 | 0 |
-| [海報與文字排版](#category-posters-typography) | 7 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 6 | 0 |
+| [海報與文字排版](#category-posters-typography) | 8 | 0 |
 | [資訊圖表](#category-infographics) | 3 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 2 | 0 |
 | [角色與一致性](#category-characters-consistency) | 10 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 9 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 11 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 12 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **51** |
+| 附來源連結的案例 | **56** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **14** |
-| 可於來源取得的原始提示詞 | **36** |
+| 創作者自述範例 | **19** |
+| 可於來源取得的原始提示詞 | **38** |
 | 於此發布的完整提示詞 | **0** |
 | 已於本機封存的媒體檔案 | **110** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Miniature brand product world](cases/launch-sable/README.md) | 官方發布示範 | 來源中的原始提示詞 |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | 官方發布示範 | 提示詞未公開 |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

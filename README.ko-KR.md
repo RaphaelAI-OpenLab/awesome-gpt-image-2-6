@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 5 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 7 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 6 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 8 | 0 |
 | [인포그래픽](#category-infographics) | 3 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 2 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 10 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 9 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 11 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 3 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 12 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **51** |
+| 출처 링크가 있는 사례 | **56** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **14** |
-| 출처에서 제공하는 원문 프롬프트 | **36** |
+| 제작자가 보고한 예시 | **19** |
+| 출처에서 제공하는 원문 프롬프트 | **38** |
 | 여기에 공개된 전체 프롬프트 | **0** |
 | 로컬에 보관된 미디어 파일 | **110** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
 | [Miniature brand product world](cases/launch-sable/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | 공식 출시 데모 | 프롬프트 비공개 |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

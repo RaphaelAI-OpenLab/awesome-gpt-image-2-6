@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 5 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 7 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 6 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 8 | 0 |
 | [Infográficos](#category-infographics) | 3 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 2 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 10 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 9 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 11 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 3 | 0 |
-| [GIF e animação](#category-gif-animation) | 12 | 0 |
+| [GIF e animação](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **51** |
+| Casos com link para a fonte | **56** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **14** |
-| Prompts originais disponíveis na fonte | **36** |
+| Exemplos relatados pelos criadores | **19** |
+| Prompts originais disponíveis na fonte | **38** |
 | Prompts completos publicados aqui | **0** |
 | Arquivos de mídia arquivados localmente | **110** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Documentação oficial | Prompt original na fonte |
 | [Miniature brand product world](cases/launch-sable/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demonstração oficial de lançamento | Prompt não público |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Documentação oficial | Prompt original na fonte |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 5 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 7 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 6 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 8 | 0 |
 | [İnfografikler](#category-infographics) | 3 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 10 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 9 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 11 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 3 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 12 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **51** |
+| Kaynak bağlantılı örnekler | **56** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **14** |
-| Kaynakta bulunan özgün istemler | **36** |
+| Üreticilerinin bildirdiği örnekler | **19** |
+| Kaynakta bulunan özgün istemler | **38** |
 | Burada yayımlanan tam istemler | **0** |
 | Yerel olarak arşivlenmiş medya dosyaları | **110** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Miniature brand product world](cases/launch-sable/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Resmî lansman demosu | İstem herkese açık değil |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

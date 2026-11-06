@@ -4528,5 +4528,393 @@
       },
       "report_path": "docs/GRETA_KITTEN_SOURCE_2026-11-06.md"
     }
+  },
+  {
+    "id": "dreamega-retro-diner",
+    "status": "published",
+    "title": {
+      "en": "Retro diner menu board",
+      "zh-CN": "复古餐厅菜单牌"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.dreamega.ai/models/gpt-image-2-6",
+      "author": "Dreamega",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The dedicated GPT Image 2.6 example section labels this individual example Flare. Dreamega is the publishing provider; no individual creator or independent generation log is exposed. Unrelated older-model templates are excluded.",
+        "zh-CN": "专门的 GPT Image 2.6 案例区将此单项标为 Flare。Dreamega 为发布提供方，未披露个人创作者或独立生成日志，排除无关旧模型模板。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.dreamega.ai/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://meterial.dreamega.ai/meterial/aigc/model/gpt-image-2-6/text-to-image/flare-retro-diner/output.avif",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Waiter beside a retro diner menu and GOOD FOOD GOOD MOOD neon sign",
+          "zh-CN": "服务员站在复古餐厅菜单及 GOOD FOOD GOOD MOOD 霓虹招牌旁"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.dreamega.ai/models/gpt-image-2-6",
+          "credit": "Dreamega",
+          "note": {
+            "en": "Original provider media retained as links only. No redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原提供方媒体仅保留链接。未核实转载许可。公开可见与署名不构成授权；仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The public long prompt is linked at source. The original AVIF remains link-only because the archive schema does not support that format.",
+      "zh-CN": "公开长提示词链接原文。存档结构不支持 AVIF 格式，因此原始文件仅保留链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The retained November 5 source records identify this specific example and model tier. No new source request was made for this review.",
+        "zh-CN": "留存的11月5日来源记录明确对应此单项案例及模型版本。本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "No media is archived in this repository; this case remains link-only. Historical access record: Original AVIF files were downloaded and decoded, but are not provided as local media because the archive schema does not support AVIF. No format conversion or extension substitution was performed. Current remote availability was not rechecked.",
+        "zh-CN": "本仓库未存档媒体，此案例仅保留链接。历史访问记录：原始 AVIF 已下载并完整解码，但存档结构不支持 AVIF，因此不提供本地素材。未转换格式或伪改扩展名。未重新核查当前远程可用性。"
+      },
+      "report_path": "docs/DREAMEGA_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "dreamega-mirror-reflection",
+    "status": "published",
+    "title": {
+      "en": "Mirror reflection costume edit",
+      "zh-CN": "镜面倒影服饰编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.dreamega.ai/models/gpt-image-2-6",
+      "author": "Dreamega",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The dedicated GPT Image 2.6 example section labels this individual example Flare. Dreamega is the publishing provider; no individual creator or independent generation log is exposed. Unrelated older-model templates are excluded.",
+        "zh-CN": "专门的 GPT Image 2.6 案例区将此单项标为 Flare。Dreamega 为发布提供方，未披露个人创作者或独立生成日志，排除无关旧模型模板。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://meterial.dreamega.ai/meterial/aigc/model/gpt-image-2-6/image-edit/flare-mirror-reflection/output.avif",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Woman beside a mirror whose reflection wears an ornate crown and costume",
+          "zh-CN": "站在镜前的女性，镜中倒影戴华丽皇冠并穿装饰服饰"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.dreamega.ai/models/gpt-image-2-6",
+          "credit": "Dreamega",
+          "note": {
+            "en": "Original provider media retained as links only. No redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原提供方媒体仅保留链接。未核实转载许可。公开可见与署名不构成授权；仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://meterial.dreamega.ai/meterial/aigc/model/gpt-image-2-6/image-edit/flare-mirror-reflection/input.avif",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Input: woman and uncrowned mirror reflection",
+          "zh-CN": "输入：女性与未戴皇冠的镜中倒影"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.dreamega.ai/models/gpt-image-2-6",
+          "credit": "Dreamega",
+          "note": {
+            "en": "Original provider media retained as links only. No redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原提供方媒体仅保留链接。未核实转载许可。公开可见与署名不构成授权；仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "The provider shows an input/output pair for a single written edit. The actual edit instruction and the input creator/model are unknown. No instruction is reconstructed from the pictures. This is a written-instruction edit; no markup-guided workflow is claimed.",
+      "zh-CN": "提供方展示一次文字编辑的输入输出对。实际编辑指令及输入图创作者、模型未知，不根据图像反推指令。这是文字指令编辑，不声称使用标注引导流程。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The retained November 5 source records identify this specific example and model tier. No new source request was made for this review.",
+        "zh-CN": "留存的11月5日来源记录明确对应此单项案例及模型版本。本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "No media is archived in this repository; this case remains link-only. Historical access record: Original AVIF files were downloaded and decoded, but are not provided as local media because the archive schema does not support AVIF. No format conversion or extension substitution was performed. Current remote availability was not rechecked.",
+        "zh-CN": "本仓库未存档媒体，此案例仅保留链接。历史访问记录：原始 AVIF 已下载并完整解码，但存档结构不支持 AVIF，因此不提供本地素材。未转换格式或伪改扩展名。未重新核查当前远程可用性。"
+      },
+      "report_path": "docs/DREAMEGA_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "dreamega-piano-city",
+    "status": "published",
+    "title": {
+      "en": "Miniature city inside a piano",
+      "zh-CN": "钢琴内的微缩城市"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.dreamega.ai/models/gpt-image-2-6",
+      "author": "Dreamega",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The dedicated GPT Image 2.6 example section labels this individual example Sunburst. Dreamega is the publishing provider; no individual creator or independent generation log is exposed. Unrelated older-model templates are excluded.",
+        "zh-CN": "专门的 GPT Image 2.6 案例区将此单项标为 Sunburst。Dreamega 为发布提供方，未披露个人创作者或独立生成日志，排除无关旧模型模板。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://meterial.dreamega.ai/meterial/aigc/model/gpt-image-2-6/image-edit/sunburst-piano-city/output.avif",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Man beside a grand piano with a lit miniature city inside",
+          "zh-CN": "男性站在内部有灯光微缩城市的三角钢琴旁"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.dreamega.ai/models/gpt-image-2-6",
+          "credit": "Dreamega",
+          "note": {
+            "en": "Original provider media retained as links only. No redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原提供方媒体仅保留链接。未核实转载许可。公开可见与署名不构成授权；仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://meterial.dreamega.ai/meterial/aigc/model/gpt-image-2-6/image-edit/sunburst-piano-city/input.avif",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Input: man beside an open grand piano",
+          "zh-CN": "输入：男性站在打开的三角钢琴旁"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.dreamega.ai/models/gpt-image-2-6",
+          "credit": "Dreamega",
+          "note": {
+            "en": "Original provider media retained as links only. No redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原提供方媒体仅保留链接。未核实转载许可。公开可见与署名不构成授权；仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "The provider shows an input/output pair for a single written edit. The actual edit instruction and the input creator/model are unknown. No instruction is reconstructed from the pictures. This is a written-instruction edit; no markup-guided workflow is claimed.",
+      "zh-CN": "提供方展示一次文字编辑的输入输出对。实际编辑指令及输入图创作者、模型未知，不根据图像反推指令。这是文字指令编辑，不声称使用标注引导流程。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The retained November 5 source records identify this specific example and model tier. No new source request was made for this review.",
+        "zh-CN": "留存的11月5日来源记录明确对应此单项案例及模型版本。本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "No media is archived in this repository; this case remains link-only. Historical access record: Original AVIF files were downloaded and decoded, but are not provided as local media because the archive schema does not support AVIF. No format conversion or extension substitution was performed. Current remote availability was not rechecked.",
+        "zh-CN": "本仓库未存档媒体，此案例仅保留链接。历史访问记录：原始 AVIF 已下载并完整解码，但存档结构不支持 AVIF，因此不提供本地素材。未转换格式或伪改扩展名。未重新核查当前远程可用性。"
+      },
+      "report_path": "docs/DREAMEGA_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "techrepublic-gif-workspace-illustration",
+    "status": "published",
+    "title": {
+      "en": "Laptop GIF-creation workspace illustration",
+      "zh-CN": "笔记本 GIF 创作工作区配图"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.techrepublic.com/article/news-chatgpt-images-2-6-gif-creation/",
+      "author": "Liz Ticong / TechRepublic (article attribution; image operator not separately named)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original TechRepublic article, written by Liz Ticong, explicitly credits its lead illustration as generated with ChatGPT Images 2.6. No API variant or separate image creator is named. This is publisher-reported attribution, not an independently reproduced run.",
+        "zh-CN": "Liz Ticong 撰写的 TechRepublic 原文明确将首图标注为 ChatGPT Images 2.6 生成。未注明 API 版本或单独的图像创作者。归因来自发布方，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.techrepublic.com/uploads/2026/11/Laptop-GIF-Creation-Workspace.jpg",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Editorial illustration of a laptop with a fictional ChatGPT dog-photo-to-GIF interface on a desk.",
+          "zh-CN": "桌面笔记本电脑的编辑配图，屏幕显示虚构的 ChatGPT 狗狗照片转 GIF 界面。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.techrepublic.com/article/news-chatgpt-images-2-6-gif-creation/",
+          "credit": "TechRepublic; article by Liz Ticong",
+          "note": {
+            "en": "No redistribution license verified. Attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未核实转载许可。署名不构成授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A static editorial illustration, not a product screenshot, actual GIF or evidence that the depicted interface exists. The generation prompt is not public. Although its URL ends in .jpg, the served file is AVIF; the original source is linked without conversion, and no media file is included in this repository.",
+      "zh-CN": "静态编辑配图，不是产品截图、实际 GIF，也不能证明图中界面真实存在。生成提示词未公开。网址虽以 .jpg 结尾，实际文件为 AVIF；原始来源仅链接而不转换，本仓库不包含该媒体文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained November 5 original-article text explicitly credits this illustration to ChatGPT Images 2.6. No new source request was made for this review.",
+        "zh-CN": "留存的11月5日原文明确将此配图归因为 ChatGPT Images 2.6。本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "No media is archived in this repository; this case remains link-only. Historical access record: Both the displayed 1024-width URL and original share-image URL returned HTTP 200 with identical 36,590-byte AVIF content. All pixels decoded at 900×507 and visually inspected. Current archive validator does not accept AVIF, so no misleading JPEG extension or conversion is used. Current remote availability was not rechecked.",
+        "zh-CN": "本仓库未存档媒体，此案例仅保留链接。历史访问记录：页面显示的 1024 宽度地址及原始分享图片地址均 HTTP 200，返回相同的 36,590 字节 AVIF。完整解码为 900×507 并目视检查。现有存档验证器不接受 AVIF，因此不使用误导的 JPEG 扩展名，也不转换格式。未重新核查当前远程可用性。"
+      },
+      "report_path": "docs/NEWS_IMAGE_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "morphed-bubblegum-loop",
+    "status": "published",
+    "title": {
+      "en": "Morphed: bubblegum pop and reset loop",
+      "zh-CN": "Morphed：泡泡糖吹大、破裂并重置的循环动图"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://morphed.app/blog/gpt-image-2-6",
+      "author": "Bilal Azhar / Morphed",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Bilal Azhar’s November 6, 2026 article places this specific bubblegum-loop.gif under “GPT Image 2.6 GIF: how it works” and captions it “Generated by calling the model directly, not in the Morphed app.” The exact prompt follows that figure. Neither Flare nor Sunburst is assigned to this work. This is the publisher’s attribution, not an independently reproduced generation.",
+        "zh-CN": "Bilal Azhar 于 2026 年 11 月 6 日发表的文章，将这个具体的 bubblegum-loop.gif 放在“GPT Image 2.6 GIF: how it works”章节，并明确说明它由直接调用模型生成，而不是在 Morphed 应用中生成；该图之后列出原始提示词。文章未说明本作品使用 Flare 还是 Sunburst。这是发布者的模型归因，并非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://morphed.app/blog/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://morphed.app/blog/gpt-image-26/bubblegum-loop.gif",
+        "path": null,
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Source-described synthetic woman in a hot-pink puffer jacket against a cobalt-blue studio backdrop, blowing a bubble that pops and resets; pixels not independently inspected.",
+          "zh-CN": "来源描述的合成人物穿着亮粉色羽绒服，站在钴蓝色摄影棚背景前吹泡泡糖，泡泡破裂后重置；未独立检查像素。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://morphed.app/acceptable-use-policy",
+          "credit": "Bilal Azhar / Morphed",
+          "note": {
+            "en": "Link-only policy hold: the source-linked Acceptable Use Policy §3 prohibits automated requests through the Services. Applicability to a public blog-media download is unresolved, so no media request was made. This is not an HTTP denial or a specific image-redistribution prohibition; no redistribution license or permission was verified.",
+            "zh-CN": "仅保留链接：来源所链接的《可接受使用政策》第 3 节禁止通过服务发送自动请求。该规定对公开博客媒体下载的适用范围尚未明确，因此未请求媒体。这不是 HTTP 访问拒绝，也不代表已发现针对该图像的转载禁令；未核实转载许可或授权。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One source-described text-to-GIF work with its exact public prompt linked, not copied. The publisher reports nine 512 × 512 frames at 200 ms each (1.8 seconds), with no input image. These are source claims: no media fetch, MIME/byte/hash verification, frame decode, pixel inspection, playback, generation, or native pipeline test was performed. The separate linked Kling 4.0 clip is a video-model continuation and is excluded, as are the editorial cover and promotional footer image.",
+      "zh-CN": "同一来源中的一个文生 GIF 作品，完整公开提示词仅链接原文，不复制正文。发布者称其为 9 帧、512 × 512、每帧 200 毫秒（合计 1.8 秒），不需要输入图。这些均为来源陈述：未下载媒体，未核实 MIME、字节数或哈希，未解码、检查像素、播放、生成或测试原生流程。另行链接的 Kling 4.0 视频属于视频模型后续作品，予以排除；封面与推广页脚图也不收录。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained November 6 original-article and access records identify the author, case-specific caption, exact media URL and public prompt. The article and linked policy pages were accessible at that check; no new source request was made for this review.",
+        "zh-CN": "留存的11月6日原文及访问记录明确对应作者、作品专属图注、精确媒体地址和公开提示词。当时文章及所链接政策页面可访问，本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "Link-only policy hold: the source-linked Acceptable Use Policy §3 prohibits automated requests through the Services. Applicability to a public blog-media download is unresolved, so no media request was made. This is not an HTTP denial or a specific image-redistribution prohibition; no redistribution license or permission was verified.",
+        "zh-CN": "仅保留链接：来源所链接的《可接受使用政策》第 3 节禁止通过服务发送自动请求。该规定对公开博客媒体下载的适用范围尚未明确，因此未请求媒体。这不是 HTTP 访问拒绝，也不代表已发现针对该图像的转载禁令；未核实转载许可或授权。"
+      },
+      "report_path": "docs/MORPHED_ACCESS_2026-11-06.md"
+    }
   }
 ]

@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 5 | 0 |
-| [海报与文字排版](#category-posters-typography) | 7 | 0 |
+| [品牌与商品](#category-brand-products) | 6 | 0 |
+| [海报与文字排版](#category-posters-typography) | 8 | 0 |
 | [信息图](#category-infographics) | 3 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 10 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 9 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 11 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF 与动画](#category-gif-animation) | 12 | 0 |
+| [GIF 与动画](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **51** |
+| 来源案例 | **56** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **14** |
-| 来源公开原始提示词 | **36** |
+| 社区作者自报案例 | **19** |
+| 来源公开原始提示词 | **38** |
 | 仓库内完整提示词 | **0** |
 | 本地收录素材文件 | **110** |
 | 最近来源核对（UTC） | **2026-11-06** |
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Flare 质量与规划对比](cases/aivideos-flare-quality-planning/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [笔记本 GIF 创作工作区配图](cases/techrepublic-gif-workspace-illustration/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [镜面倒影服饰编辑](cases/dreamega-mirror-reflection/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [复古餐厅菜单牌](cases/dreamega-retro-diner/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -139,6 +139,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [玩具飞机包装](cases/docs-toy-package/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [品牌产品微缩场景](cases/launch-sable/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
 | [旅行视觉生成速度对比](cases/launch-travel/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
+| [笔记本 GIF 创作工作区配图](cases/techrepublic-gif-workspace-illustration/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-posters-typography"></a>
 
@@ -153,6 +154,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Flare 质量与规划对比](cases/aivideos-flare-quality-planning/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [复古餐厅菜单牌](cases/dreamega-retro-diner/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -205,6 +207,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [广告牌场景改为雪夜](cases/docs-snow-edit/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [柴犬厨师夏祭背景编辑](cases/ai-garage-festival-background/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [镜面倒影服饰编辑](cases/dreamega-mirror-reflection/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -234,6 +238,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

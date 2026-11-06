@@ -47,14 +47,14 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 5 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 7 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 6 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 8 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 3 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 2 | 0 |
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 10 | 0 |
-| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 9 | 0 |
+| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 11 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 3 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 12 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **51** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **56** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **14** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **36** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **19** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **38** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
 | ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **110** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | วันที่เพิ่ม | กรณีตัวอย่าง | หลักฐาน |
 | --- | --- | --- |
+| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -143,6 +143,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Miniature brand product world](cases/launch-sable/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-posters-typography"></a>
 
@@ -157,6 +158,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +211,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-svg-design-assets"></a>
 
@@ -238,6 +242,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 
