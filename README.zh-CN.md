@@ -43,11 +43,11 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 15 | 0 |
-| [海报与文字排版](#category-posters-typography) | 15 | 0 |
+| [品牌与商品](#category-brand-products) | 16 | 0 |
+| [海报与文字排版](#category-posters-typography) | 17 | 0 |
 | [信息图](#category-infographics) | 7 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 3 | 0 |
-| [角色与一致性](#category-characters-consistency) | 19 | 0 |
+| [角色与一致性](#category-characters-consistency) | 22 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 12 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 与动画](#category-gif-animation) | 14 | 0 |
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **91** |
+| 来源案例 | **97** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **54** |
-| 来源公开原始提示词 | **68** |
+| 社区作者自报案例 | **60** |
+| 来源公开原始提示词 | **74** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **153** |
+| 本地收录素材文件 | **160** |
 | 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,10 +119,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Made 唱片店橱窗字样](cases/made-sunburst-shop-window/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Made 试听间](cases/made-sunburst-listening-booth/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Made 唱机分解图](cases/made-sunburst-turntable-diagram/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [自行车季末促销广告](cases/yir-bicycle-sale-ad/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [雨衣女孩动画分镜](cases/yir-raincoat-storyboard/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [三种口味汽水陈列](cases/yir-flavor-lineup/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [夜市面摊](cases/yir-noodle-stall/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [耳机产品广告双版本比较](cases/community-lightlyn-earbuds-ad-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 饺子外卖盒](cases/made-flare-dumpling-box/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 唱针微距](cases/made-sunburst-stylus-macro/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [三种口味汽水陈列](cases/yir-flavor-lineup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -171,6 +172,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Made 灯箱菜单](cases/made-flare-noodle-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 唱片封套排版](cases/made-sunburst-record-sleeve/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 唱片店橱窗字样](cases/made-sunburst-shop-window/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [辣酱发布与速度测试海报](cases/yir-hot-sauce-posters/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [自行车季末促销广告](cases/yir-bicycle-sale-ad/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -221,6 +224,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Made 雨夜夜市](cases/made-flare-rain-stall/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 淘唱片的人](cases/made-sunburst-crate-digger/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Made 试听间](cases/made-sunburst-listening-booth/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [蓝调时刻渡轮](cases/yir-ferry-blue-hour/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [夜市面摊](cases/yir-noodle-stall/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雨衣女孩动画分镜](cases/yir-raincoat-storyboard/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-markup-edits"></a>
 

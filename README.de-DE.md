@@ -47,11 +47,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 15 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 15 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 16 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 17 | 0 |
 | [Infografiken](#category-infographics) | 7 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 3 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 19 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 12 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
 | [GIF & Animation](#category-gif-animation) | 14 | 0 |
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **91** |
+| Beispiele mit Quellenverweisen | **97** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **54** |
-| An der Quelle verfügbare Original-Prompts | **68** |
+| Von Erstellern gemeldete Beispiele | **60** |
+| An der Quelle verfügbare Original-Prompts | **74** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **153** |
+| Lokal archivierte Mediendateien | **160** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -153,6 +153,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -175,6 +176,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -225,6 +228,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Night market noodle stall](cases/yir-noodle-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
