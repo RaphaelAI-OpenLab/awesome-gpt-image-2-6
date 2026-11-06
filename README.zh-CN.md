@@ -43,7 +43,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 6 | 0 |
+| [品牌与商品](#category-brand-products) | 10 | 0 |
 | [海报与文字排版](#category-posters-typography) | 8 | 0 |
 | [信息图](#category-infographics) | 3 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
@@ -82,9 +82,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **56** |
+| 来源案例 | **60** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **19** |
+| 社区作者自报案例 | **23** |
 | 来源公开原始提示词 | **38** |
 | 仓库内完整提示词 | **0** |
 | 本地收录素材文件 | **110** |
@@ -119,10 +119,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [笔记本 GIF 创作工作区配图](cases/techrepublic-gif-workspace-illustration/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [镜面倒影服饰编辑](cases/dreamega-mirror-reflection/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [复古餐厅菜单牌](cases/dreamega-retro-diner/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [模特穿着绞花开衫对照](cases/productai-cable-knit-cardigan-comparison/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [跑鞋场景与精确编辑](cases/productai-running-shoe-comparison/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [Quillhaven 咖啡袋场景与精确编辑](cases/productai-quillhaven-coffee-comparison/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [Tovalin 精华瓶场景对照](cases/productai-tovalin-serum-comparison/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -140,6 +140,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [品牌产品微缩场景](cases/launch-sable/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
 | [旅行视觉生成速度对比](cases/launch-travel/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
 | [笔记本 GIF 创作工作区配图](cases/techrepublic-gif-workspace-illustration/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Tovalin 精华瓶场景对照](cases/productai-tovalin-serum-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Quillhaven 咖啡袋场景与精确编辑](cases/productai-quillhaven-coffee-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [跑鞋场景与精确编辑](cases/productai-running-shoe-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [模特穿着绞花开衫对照](cases/productai-cable-knit-cardigan-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-posters-typography"></a>
 

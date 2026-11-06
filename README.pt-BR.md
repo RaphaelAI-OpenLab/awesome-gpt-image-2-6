@@ -47,7 +47,7 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 6 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 10 | 0 |
 | [Pôsteres e tipografia](#category-posters-typography) | 8 | 0 |
 | [Infográficos](#category-infographics) | 3 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **56** |
+| Casos com link para a fonte | **60** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **19** |
+| Exemplos relatados pelos criadores | **23** |
 | Prompts originais disponíveis na fonte | **38** |
 | Prompts completos publicados aqui | **0** |
 | Arquivos de mídia arquivados localmente | **110** |
@@ -123,10 +123,10 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Miniature brand product world](cases/launch-sable/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demonstração oficial de lançamento | Prompt não público |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-posters-typography"></a>
 

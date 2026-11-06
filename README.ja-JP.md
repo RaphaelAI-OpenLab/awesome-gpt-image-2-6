@@ -47,7 +47,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 6 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 10 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 8 | 0 |
 | [インフォグラフィック](#category-infographics) | 3 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **56** |
+| 出典リンク付き事例 | **60** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **19** |
+| 作者が報告した作例 | **23** |
 | 出典で公開されている原文プロンプト | **38** |
 | ここで公開している完全なプロンプト | **0** |
 | ローカルに保存済みのメディアファイル | **110** |
@@ -123,10 +123,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Miniature brand product world](cases/launch-sable/README.md) | 公式公開デモ | 出典にある原文プロンプト |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | 公式公開デモ | プロンプト非公開 |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-posters-typography"></a>
 

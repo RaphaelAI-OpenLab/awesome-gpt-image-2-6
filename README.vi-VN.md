@@ -47,7 +47,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 6 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 10 | 0 |
 | [Áp phích và nghệ thuật chữ](#category-posters-typography) | 8 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 3 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **56** |
+| Trường hợp có liên kết nguồn | **60** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **19** |
+| Ví dụ do tác giả báo cáo | **23** |
 | Câu lệnh gốc có sẵn tại nguồn | **38** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
 | Tệp tư liệu được lưu trữ cục bộ | **110** |
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Miniature brand product world](cases/launch-sable/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh chưa công khai |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-posters-typography"></a>
 

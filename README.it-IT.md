@@ -47,7 +47,7 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 6 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 10 | 0 |
 | [Poster e tipografia](#category-posters-typography) | 8 | 0 |
 | [Infografiche](#category-infographics) | 3 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **56** |
+| Casi con collegamenti alle fonti | **60** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **19** |
+| Esempi dichiarati dai creatori | **23** |
 | Prompt originali disponibili alla fonte | **38** |
 | Prompt completi pubblicati qui | **0** |
 | File multimediali archiviati localmente | **110** |
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Miniature brand product world](cases/launch-sable/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demo ufficiale di lancio | Prompt non pubblico |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-posters-typography"></a>
 

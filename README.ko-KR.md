@@ -47,7 +47,7 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 6 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 10 | 0 |
 | [포스터 및 타이포그래피](#category-posters-typography) | 8 | 0 |
 | [인포그래픽](#category-infographics) | 3 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **56** |
+| 출처 링크가 있는 사례 | **60** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **19** |
+| 제작자가 보고한 예시 | **23** |
 | 출처에서 제공하는 원문 프롬프트 | **38** |
 | 여기에 공개된 전체 프롬프트 | **0** |
 | 로컬에 보관된 미디어 파일 | **110** |
@@ -123,10 +123,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Miniature brand product world](cases/launch-sable/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | 공식 출시 데모 | 프롬프트 비공개 |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-posters-typography"></a>
 

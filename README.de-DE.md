@@ -47,7 +47,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 6 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 10 | 0 |
 | [Poster & Typografie](#category-posters-typography) | 8 | 0 |
 | [Infografiken](#category-infographics) | 3 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **56** |
+| Beispiele mit Quellenverweisen | **60** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **19** |
+| Von Erstellern gemeldete Beispiele | **23** |
 | An der Quelle verfügbare Original-Prompts | **38** |
 | Hier veröffentlichte vollständige Prompts | **0** |
 | Lokal archivierte Mediendateien | **110** |
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Miniature brand product world](cases/launch-sable/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Offizielle Demo zur Einführung | Prompt nicht öffentlich |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
