@@ -1,11 +1,12 @@
 """README layout inspired by YouMind; all copy and rendering are project-specific."""
+from i18n import DETAIL_LANGUAGES, ui
+from presentation import language_nav, repo_badges
 from common import GENERATED_MARKER, html_attr, localized, md_link, md_text, published, repo_url, tracked_url
 from source_cases import label, page_path, preview, read_cases, visible
 
 
 def render_home(config, prompts, language, render_prompt):
-    zh = language == 'zh-CN'
-    c = lambda en, cn: cn if zh else en
+    c = lambda en, cn: ui(en, cn, language)
     cases = visible(read_cases())
     full = published(prompts)
     brand = config['brand']
@@ -15,12 +16,15 @@ def render_home(config, prompts, language, render_prompt):
         return [f'<a id="{anchor}"></a>', '', '## ' + c(en, cn), '']
     def case_link(item):
         return md_link(localized(item['title'], language), page_path(item, language))
-    lines = [GENERATED_MARKER, '', f'[![{title}](assets/header.svg)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
+    lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/header.svg)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
              '# 🎨 ' + title, '',
              c('An open collection of prompts, visual examples and original sources for GPT Image 2.6.', 'GPT Image 2.6 提示词、创意案例与原始来源合集。'), '',
-             md_link('MIT · ' + c('code & original docs', '代码与原创文档'), 'LICENSE') + ' · ' + md_link(c('Contributions welcome', '欢迎贡献'), 'CONTRIBUTING.md') + (' · ' + md_link(c('Validation CI', '自动校验'), repository + '/actions') if repository else ''), '',
+             repo_badges(config, language), '',
              '⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ', '本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new') + c(', and we will remove it immediately.', '，我们将立即移除。'), '',
-             '[English](README.md) · [简体中文](README.zh-CN.md)', '', '---', '']
+             language_nav(language), '', '---', '']
+    if language not in DETAIL_LANGUAGES:
+        lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
+    lines += ['**' + c('Quick links', '快捷导航') + '** · ' + md_link('🖼️ ' + c('Browse cases', '浏览案例'), '#all-cases') + ' · ' + md_link('🆕 ' + c('Recently added', '最近收录'), '#latest') + ' · ' + md_link('📝 ' + c('Add an example', '提交案例'), repository + '/issues/new?template=submit-case.yml') + ' · ' + md_link('🐞 ' + c('Report an issue', '报告问题'), repository + '/issues/new?template=report-problem.yml') + ' · ' + md_link('📚 ' + c('Read the guide', '阅读指南'), 'CONTRIBUTING.md'), '']
     lines += heading('gallery', '🌐 Browse the collection', '🌐 浏览案例图库')
     lines += ['**' + md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases') + '**', '',
               c('Every case below opens an internal detail page with model evidence, source credits and prompt availability.', '下方每条案例都链接到仓库内部详情页，包含模型依据、来源署名与提示词状态。'), '']
@@ -99,8 +103,8 @@ def render_home(config, prompts, language, render_prompt):
     lines += [c('README structure adapted from YouMind OpenLab’s awesome-nano-banana-pro-prompts under CC BY 4.0. Adapted for GPT Image 2.6 with new copy, data, local detail pages and explicit placeholders; no creative examples or media were copied.', 'README 结构参考并改编自 YouMind OpenLab 的 awesome-nano-banana-pro-prompts（CC BY 4.0）。已替换为 GPT Image 2.6 的文案、数据、仓库内详情页与明确占位符；未复制其创意案例或图片素材。'),'',
               md_link('YouMind README','https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md')+' · '+md_link('CC BY 4.0','https://creativecommons.org/licenses/by/4.0/')+' · '+md_link(c('Attribution notes','署名说明'),'docs/ATTRIBUTION.md'),'',c('Thanks to OpenAI and the original creators credited on each case page.','感谢 OpenAI 与各案例详情页标注的原作者。'),'']
     lines += heading('star-history','⭐ Star history','⭐ Star 历史')
-    lines += ['**'+c('PLACEHOLDER · Star-history chart not configured.','占位 · Star 历史图表尚未配置。')+'**','']
+    lines += [md_link(c('Star history', 'Star 历史'), 'https://star-history.com/#' + config['project']['repository_owner'] + '/' + config['project']['repository_slug'] + '&Date') + ' · ' + md_link(c('View stargazers', '查看 Star 用户'), repository + '/stargazers'), '']
     if repository:lines += [md_link(c('Star / follow this repository','Star / 关注本仓库'),repository),'']
-    lines += ['---','',c('Curated by Raphael.','由 Raphael 整理。')+' '+md_link(c('Homepage','主页'),tracked_url(brand['home_url'],'footer',language,config)),'',
+    lines += [md_link('↑ ' + c('Back to top', '返回顶部'), '#top'), '', '---','',c('Curated by Raphael.','由 Raphael 整理。')+' '+md_link(c('Homepage','主页'),tracked_url(brand['home_url'],'footer',language,config)),'',
               c('Generated from structured source data. Edit the datasets and regenerate; do not edit this file directly.','由结构化数据自动生成。请修改数据源并重新生成，不直接编辑本文件。'),'']
     return '\n'.join(lines)

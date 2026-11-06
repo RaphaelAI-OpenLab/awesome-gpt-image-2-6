@@ -14,7 +14,7 @@
 | [content/schema.json](../content/schema.json) | 字段、类型与可选值说明 |
 | `assets/examples/<案例id>/` | 存放已获相应使用条件的效果图、预览 GIF 或 SVG |
 | `assets/references/<案例id>/` | 存放用户复现时需要的参考图 |
-| `README.md`、`README.zh-CN.md` | 自动生成的仓库首页，不直接修改 |
+| `README.md`、`README.<locale>.md` | 自动生成的 16 语界面首页，不直接修改；详情见 [多语言维护](LANGUAGES.md) |
 | `cases/<案例id>/README.md`、`README.zh-CN.md` | 发布案例后自动生成的中英文独立详情页 |
 | [scripts/build_readme.py](../scripts/build_readme.py) | 生成页面；改布局时才需要改脚本 |
 | [scripts/validate.py](../scripts/validate.py) | 检查数据、素材路径、本地链接与发布准备情况 |
