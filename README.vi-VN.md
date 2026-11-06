@@ -47,11 +47,11 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 10 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 8 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 3 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 11 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 11 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 4 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 2 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 14 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 15 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 11 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 3 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **64** |
+| Trường hợp có liên kết nguồn | **70** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **27** |
-| Câu lệnh gốc có sẵn tại nguồn | **42** |
+| Ví dụ do tác giả báo cáo | **33** |
+| Câu lệnh gốc có sẵn tại nguồn | **48** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **114** |
+| Tệp tư liệu được lưu trữ cục bộ | **126** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-markup-edits"></a>
 

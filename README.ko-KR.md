@@ -47,11 +47,11 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 10 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 8 | 0 |
-| [인포그래픽](#category-infographics) | 3 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 11 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 11 | 0 |
+| [인포그래픽](#category-infographics) | 4 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 2 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 14 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 15 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 11 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 3 | 0 |
 | [GIF 및 애니메이션](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **64** |
+| 출처 링크가 있는 사례 | **70** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **27** |
-| 출처에서 제공하는 원문 프롬프트 | **42** |
+| 제작자가 보고한 예시 | **33** |
+| 출처에서 제공하는 원문 프롬프트 | **48** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **114** |
+| 로컬에 보관된 미디어 파일 | **126** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -123,10 +123,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 

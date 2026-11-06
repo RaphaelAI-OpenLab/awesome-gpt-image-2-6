@@ -43,11 +43,11 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 10 | 0 |
-| [Posters & typography](#category-posters-typography) | 8 | 0 |
-| [Infographics](#category-infographics) | 3 | 0 |
+| [Brand & product visuals](#category-brand-products) | 11 | 0 |
+| [Posters & typography](#category-posters-typography) | 11 | 0 |
+| [Infographics](#category-infographics) | 4 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 14 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 15 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 11 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
 | [GIF & animation](#category-gif-animation) | 13 | 0 |
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **64** |
+| Source-linked cases | **70** |
 | Official examples | **37** |
-| Creator-reported examples | **27** |
-| Original prompts available at source | **42** |
+| Creator-reported examples | **33** |
+| Original prompts available at source | **48** |
 | Full prompts published here | **0** |
-| Locally archived media files | **114** |
+| Locally archived media files | **126** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Creator-reported model |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Creator-reported model |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Creator-reported model |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Creator-reported model |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Creator-reported model |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Creator-reported model |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Creator-reported model |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -159,6 +160,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Creator-reported model | Prompt not public |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Creator-reported model | Original prompt at source |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Creator-reported model | Original prompt at source |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Creator-reported model | Original prompt at source |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -169,6 +173,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Official documentation | Original prompt at source |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Official documentation | Original prompt at source |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Official documentation | Original prompt at source |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -199,6 +204,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Creator-reported model | Original prompt at source |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Creator-reported model | Original prompt at source |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Creator-reported model | Original prompt at source |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 

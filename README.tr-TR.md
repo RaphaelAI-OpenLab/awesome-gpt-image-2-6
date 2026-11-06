@@ -47,11 +47,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 10 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 8 | 0 |
-| [İnfografikler](#category-infographics) | 3 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 11 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 11 | 0 |
+| [İnfografikler](#category-infographics) | 4 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 14 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 15 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 11 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 3 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **64** |
+| Kaynak bağlantılı örnekler | **70** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **27** |
-| Kaynakta bulunan özgün istemler | **42** |
+| Üreticilerinin bildirdiği örnekler | **33** |
+| Kaynakta bulunan özgün istemler | **48** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **114** |
+| Yerel olarak arşivlenmiş medya dosyaları | **126** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 

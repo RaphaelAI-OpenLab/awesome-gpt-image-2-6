@@ -47,11 +47,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 10 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 8 | 0 |
-| [Infografiken](#category-infographics) | 3 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 11 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 11 | 0 |
+| [Infografiken](#category-infographics) | 4 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 2 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 14 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 15 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 11 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 3 | 0 |
 | [GIF & Animation](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **64** |
+| Beispiele mit Quellenverweisen | **70** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **27** |
-| An der Quelle verfügbare Original-Prompts | **42** |
+| Von Erstellern gemeldete Beispiele | **33** |
+| An der Quelle verfügbare Original-Prompts | **48** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **114** |
+| Lokal archivierte Mediendateien | **126** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 

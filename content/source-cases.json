@@ -5583,5 +5583,581 @@
       },
       "report_path": "docs/OPHANIM_PROVENANCE_2026-11-06.md"
     }
+  },
+  {
+    "id": "community-moss-night-market-flyer",
+    "status": "published",
+    "title": {
+      "en": "Lantern Row Night Market flyer: Flare and Sunburst",
+      "zh-CN": "Lantern Row Night Market 传单：Flare 与 Sunburst"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-1-a-flyer",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-1-a-flyer"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-flyer-flare.jpg",
+        "path": "assets/examples/community-moss-night-market-flyer/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Lantern Row Night Market flyer: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "Lantern Row Night Market 传单：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-1-a-flyer",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 362564,
+        "sha256": "18474adbd01d4f03bb99d213b9067ac0fcb10535fb47497783cbf911d4aee878",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-flyer-sunburst.jpg",
+        "path": "assets/examples/community-moss-night-market-flyer/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Lantern Row Night Market flyer: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Lantern Row Night Market 传单：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-1-a-flyer",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 365747,
+        "sha256": "8c7519cb90be6512ca368b1e928e7a6d512358cd8b991d116227bdcccfb5f24e",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Warm night-market event flyer with string lights and food stalls, titled Lantern Row Night Market. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "暖色夜市活动传单，包含灯串与小吃摊，标题为 Lantern Row Night Market。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-moss-breakfast-menu",
+    "status": "published",
+    "title": {
+      "en": "Café breakfast menu: Flare and Sunburst",
+      "zh-CN": "咖啡馆早餐菜单：Flare 与 Sunburst"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-2-a-menu",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-2-a-menu"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-menu-flare.jpg",
+        "path": "assets/examples/community-moss-breakfast-menu/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Café breakfast menu: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "咖啡馆早餐菜单：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-2-a-menu",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 170331,
+        "sha256": "8573ff2fa8ec8496934df4a3fc5e028099e8e95bb46d4a65fb199f3c4a6f5ec5",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-menu-sunburst.jpg",
+        "path": "assets/examples/community-moss-breakfast-menu/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Café breakfast menu: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "咖啡馆早餐菜单：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-2-a-menu",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 132684,
+        "sha256": "9dcd1f66972730e7590b940c274b914848fadcf081b350dc463ffd1281216337",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Cream-colored café breakfast menu with a line-drawn coffee cup. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "奶油色咖啡馆早餐菜单，配有线描咖啡杯。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-moss-coffee-label",
+    "status": "published",
+    "title": {
+      "en": "Oaken Mile Coffee label: Flare and Sunburst",
+      "zh-CN": "Oaken Mile Coffee 标签：Flare 与 Sunburst"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-label-flare.jpg",
+        "path": "assets/examples/community-moss-coffee-label/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Oaken Mile Coffee label: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "Oaken Mile Coffee 标签：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 233282,
+        "sha256": "ca23e601d9acd01445d7f48ec49d2eaa115fd6c23117e97af1eadd7423196f55",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-label-sunburst.jpg",
+        "path": "assets/examples/community-moss-coffee-label/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Oaken Mile Coffee label: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Oaken Mile Coffee 标签：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 205930,
+        "sha256": "76fd5cf5b60ae6904b7a68ea0861bd70cc226bbfd639660b17edc01a779e4c04",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Kraft coffee bag with an Oaken Mile Coffee / Ethiopia label and tasting notes. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "牛皮纸咖啡袋，带有 Oaken Mile Coffee / Ethiopia 标签及风味说明。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-moss-design-summit-agenda",
+    "status": "published",
+    "title": {
+      "en": "Northfield Design Summit agenda: Flare and Sunburst",
+      "zh-CN": "Northfield Design Summit 议程：Flare 与 Sunburst"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-4-a-dense-agenda",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-4-a-dense-agenda"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-agenda-flare.jpg",
+        "path": "assets/examples/community-moss-design-summit-agenda/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Northfield Design Summit agenda: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "Northfield Design Summit 议程：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-4-a-dense-agenda",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 195911,
+        "sha256": "dd67a89cd8aa546bf1417dcc503f100b5aed2068cab911a9070b6476aa4de7b1",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-agenda-sunburst.jpg",
+        "path": "assets/examples/community-moss-design-summit-agenda/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Northfield Design Summit agenda: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "Northfield Design Summit 议程：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-4-a-dense-agenda",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 187657,
+        "sha256": "57476d8a42f8cbf546d814e35ec59c54be07de486cab1ded936f8919ff41f2ee",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "White-and-navy design-conference agenda for Northfield Design Summit. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "白色与海军蓝配色的 Northfield Design Summit 设计会议日程表。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-moss-pottery-banner-layout",
+    "status": "published",
+    "title": {
+      "en": "Pottery event banner layout: Flare and Sunburst",
+      "zh-CN": "陶艺活动横幅布局：Flare 与 Sunburst"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-layout-flare.jpg",
+        "path": "assets/examples/community-moss-pottery-banner-layout/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pottery event banner layout: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "陶艺活动横幅布局：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 160074,
+        "sha256": "65f67459423e47781a22178815a06ab6a108fd76e7cf00421ced5eb77f6aac0c",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-layout-sunburst.jpg",
+        "path": "assets/examples/community-moss-pottery-banner-layout/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pottery event banner layout: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "陶艺活动横幅布局：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 163635,
+        "sha256": "18f861f9917592d4c51cc1018a6a88b3b86de611e0bec3a05dca21ef78b84e94",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Terracotta-toned pottery event banner with a vase and flowers on the left and the title at upper right. The publisher supplied MOSS-Image with JSON layout instructions but GPT Image with position words, so this round does not use identical input formats across all models. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "陶土色陶艺活动横幅，花瓶与花卉位于左侧，标题位于右上方。发布方向 MOSS-Image 提供 JSON 布局指令，向 GPT Image 提供方位文字，因此本轮并非所有模型都使用相同格式的输入。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-moss-fisherman-dawn",
+    "status": "published",
+    "title": {
+      "en": "Fisherman at dawn: Flare and Sunburst",
+      "zh-CN": "黎明时分的渔夫：Flare 与 Sunburst"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-6-a-photo-with-no-text",
+      "author": "MossImage Studio Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The page labels these two outputs GPT Image 2.6 Flare and Sunburst. MossImage Studio Team reports generating them through fal on November 5, 2026. This is publisher-reported attribution, not an independent reproduction. The site is unofficial and not affiliated with OpenAI or OpenMOSS.",
+        "zh-CN": "页面将这两张结果标注为 GPT Image 2.6 Flare 与 Sunburst。MossImage Studio Team 称其于 2026 年 11 月 5 日通过 fal 生成。这是发布方自述的模型归因，并非独立复现；该网站非官方，与 OpenAI 或 OpenMOSS 无关联。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-6-a-photo-with-no-text"
+    },
+    "media": [
+      {
+        "source_url": "https://mossimage.studio/examples/compare-photo-flare.jpg",
+        "path": "assets/examples/community-moss-fisherman-dawn/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Fisherman at dawn: Flare and Sunburst: GPT Image 2.6 Flare source-served JPEG",
+          "zh-CN": "黎明时分的渔夫：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Flare JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-6-a-photo-with-no-text",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 252754,
+        "sha256": "ea227479e3d72e35a9a9d052a7cb9eb95228238802162393c8e2057df26ce386",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://mossimage.studio/examples/compare-photo-sunburst.jpg",
+        "path": "assets/examples/community-moss-fisherman-dawn/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Fisherman at dawn: Flare and Sunburst: GPT Image 2.6 Sunburst source-served JPEG",
+          "zh-CN": "黎明时分的渔夫：Flare 与 Sunburst：来源提供的 GPT Image 2.6 Sunburst JPEG"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mossimage.studio/blog/gpt-image-2-6#round-6-a-photo-with-no-text",
+          "credit": "MossImage Studio Team",
+          "note": {
+            "en": "Unmodified public-source image archived with original attribution. An explicit redistribution license was not located; attribution and the repository copyright notice do not grant permission, and the repository MIT license does not cover this file. The direct HTTP request returned 403, but the source article and full-size image opened normally in a public browser, and its supported media save succeeded.",
+            "zh-CN": "保留原始署名、原样存档的公开来源图片。未找到明确转载许可证；署名及仓库版权声明不构成授权，仓库 MIT 许可不覆盖此文件。 直接 HTTP 请求返回 403，但来源文章与全尺寸图片均能在正常公开浏览器中打开，并已通过浏览器支持的保存方式取得。"
+          }
+        },
+        "bytes": 221652,
+        "sha256": "0ba11164e823dfe4b204369c722be7ded19f03229ce8f16f0e220614c1f02e09",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Photographic scene of an elderly fisherman mending a net on a wooden dock at dawn in fog; the source prompt requests no text. The publisher reports one attempt per prompt with no edits; this is a source example, not our benchmark or an independent reproduction. Only the Flare and Sunburst outputs are included.",
+      "zh-CN": "摄影风格场景：一位年老渔夫在雾气笼罩的黎明，于木码头上修补渔网；原始提示词要求不出现文字。 发布方称每条提示词仅尝试一次且未作编辑；本案例为来源整理，不是我们的基准测试，亦未独立复现。仅收录 Flare 和 Sunburst 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article opened normally in a public browser during the original collection. A later direct request to the same article returned HTTP 403. Present browser availability has not been rechecked.",
+        "zh-CN": "首次收集时，文章可在公开浏览器中正常打开。之后对同一文章的直接请求返回 HTTP 403；未重新检查当前浏览器可访问性。"
+      },
+      "media_note": {
+        "en": "The two archived JPEGs remain available locally and passed hash, byte-size and decoding checks. During original collection, direct media requests returned HTTP 403, while the exact full-size images opened and saved normally in the public browser. No new media request was made for this review.",
+        "zh-CN": "两张已存档 JPEG 的本地文件仍可用，并通过哈希、字节数及解码检查。首次收集时，素材直接请求返回 HTTP 403，但确切全尺寸图片可在公开浏览器中正常打开并保存。本次核对未重新请求素材。"
+      },
+      "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
+    }
   }
 ]
