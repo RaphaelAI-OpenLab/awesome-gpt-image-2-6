@@ -47,11 +47,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 14 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 13 | 0 |
-| [Infografiken](#category-infographics) | 6 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 15 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 15 | 0 |
+| [Infografiken](#category-infographics) | 7 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 3 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 17 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 19 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 12 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
 | [GIF & Animation](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **84** |
+| Beispiele mit Quellenverweisen | **90** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **47** |
-| An der Quelle verfügbare Original-Prompts | **62** |
+| Von Erstellern gemeldete Beispiele | **53** |
+| An der Quelle verfügbare Original-Prompts | **68** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **146** |
+| Lokal archivierte Mediendateien | **152** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 

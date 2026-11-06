@@ -7318,5 +7318,443 @@
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
+  },
+  {
+    "id": "made-sunburst-crate-digger",
+    "status": "published",
+    "title": {
+      "en": "Made Crate digger",
+      "zh-CN": "Made 淘唱片的人"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Crate digger” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Crate digger”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/crate-digger.jpg",
+        "path": "assets/examples/made-sunburst-crate-digger/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "A low-angle view of a smiling man browsing record crates in a narrow shop.",
+          "zh-CN": "低角度画面展示一名微笑男子在狭窄店铺中翻找唱片。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "c0ac30250f079db93de7ac05ddf00ef496a0359dd4673c6da661495473cf2f52",
+        "bytes": 161029,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A low-angle view of a smiling man browsing record crates in a narrow shop. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
+      "zh-CN": "低角度画面展示一名微笑男子在狭窄店铺中翻找唱片。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
+  },
+  {
+    "id": "made-sunburst-record-sleeve",
+    "status": "published",
+    "title": {
+      "en": "Made Sleeve typography",
+      "zh-CN": "Made 唱片封套排版"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Sleeve typography” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Sleeve typography”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/record-sleeve.jpg",
+        "path": "assets/examples/made-sunburst-record-sleeve/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "An AFTER HOURS record sleeve with a four-line track list and geometric brown and cobalt shapes beside a turntable.",
+          "zh-CN": "唱机旁的 AFTER HOURS 唱片封套印有四行曲目及棕色、钴蓝色几何图形。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "10b05c59a14250a926863fb27a4056a0f3ce10b652459c0615b28bc3f04e6bf7",
+        "bytes": 137823,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "An AFTER HOURS record sleeve with a four-line track list and geometric brown and cobalt shapes beside a turntable. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
+      "zh-CN": "唱机旁的 AFTER HOURS 唱片封套印有四行曲目及棕色、钴蓝色几何图形。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
+  },
+  {
+    "id": "made-sunburst-stylus-macro",
+    "status": "published",
+    "title": {
+      "en": "Made Stylus macro",
+      "zh-CN": "Made 唱针微距"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Stylus macro” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Stylus macro”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/stylus-macro.jpg",
+        "path": "assets/examples/made-sunburst-stylus-macro/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "An extreme close-up of a stylus touching vinyl grooves, with dust and a blue cartridge accent.",
+          "zh-CN": "唱针接触黑胶沟槽的特写，可见灰尘及唱头上的蓝色部件。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "ba62b97e19beb290ae44ee5dd1aa7ad393c3fa6df267fcb082aadf127826d6fe",
+        "bytes": 113760,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "An extreme close-up of a stylus touching vinyl grooves, with dust and a blue cartridge accent. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
+      "zh-CN": "唱针接触黑胶沟槽的特写，可见灰尘及唱头上的蓝色部件。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
+  },
+  {
+    "id": "made-sunburst-turntable-diagram",
+    "status": "published",
+    "title": {
+      "en": "Made Exploded diagram",
+      "zh-CN": "Made 唱机分解图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Exploded diagram” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Exploded diagram”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/turntable-diagram.jpg",
+        "path": "assets/examples/made-sunburst-turntable-diagram/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "A labeled exploded turntable illustration shows the platter, tonearm, cartridge, stylus, counterweight, belt, motor and plinth.",
+          "zh-CN": "带标签的唱机分解图展示转盘、唱臂、唱头、唱针、配重、皮带、电机及底座。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "c5fae845e940d63326adc449f7c500216b8629e8fb09ef6e6a627d3b8e055bfb",
+        "bytes": 147837,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A labeled exploded turntable illustration shows the platter, tonearm, cartridge, stylus, counterweight, belt, motor and plinth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
+      "zh-CN": "带标签的唱机分解图展示转盘、唱臂、唱头、唱针、配重、皮带、电机及底座。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
+  },
+  {
+    "id": "made-sunburst-listening-booth",
+    "status": "published",
+    "title": {
+      "en": "Made Listening booth",
+      "zh-CN": "Made 试听间"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Listening booth” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Listening booth”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/listening-booth.jpg",
+        "path": "assets/examples/made-sunburst-listening-booth/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Two friends sit close together sharing headphones against the pegboard walls of a listening booth.",
+          "zh-CN": "两位朋友在试听间的洞洞板墙前紧挨着坐，共用耳机。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "e5333d8cbe82c6a401434b8d3bfa4d68cc99a127db197ae0978cc00d98b9ceee",
+        "bytes": 172523,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Two people sit close together sharing headphones against the pegboard walls of a listening booth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
+      "zh-CN": "两个人在试听间的洞洞板墙前紧挨着坐，共用耳机。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
+  },
+  {
+    "id": "made-sunburst-shop-window",
+    "status": "published",
+    "title": {
+      "en": "Made Window lettering",
+      "zh-CN": "Made 唱片店橱窗字样"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Made’s original-results gallery labels this item “GPT Image 2.6 Sunburst: Window lettering” and says these examples use media produced for Made. This is creator attribution, not an independently reproduced generation.",
+        "zh-CN": "Made 原创结果画廊将本图标为“GPT Image 2.6 Sunburst: Window lettering”，并称这些案例使用为 Made 制作的媒体。这是创作者的模型归因，并非独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading"
+    },
+    "media": [
+      {
+        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/shop-window.jpg",
+        "path": "assets/examples/made-sunburst-shop-window/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Gold SECOND SPIN RECORDS lettering fills a night-time shop window as a cyclist passes.",
+          "zh-CN": "夜间商店橱窗上有金色 SECOND SPIN RECORDS 字样，一名骑行者从前方经过。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+          "credit": "Made / Made Inc.",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
+            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+          }
+        },
+        "sha256": "16376b242418eac1202937747d9c58a5ad02654fc77b89a6041679ea94d45ee0",
+        "bytes": 154901,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Gold SECOND SPIN RECORDS lettering fills a night-time shop window as a cyclist passes. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
+      "zh-CN": "夜间商店橱窗上有金色 SECOND SPIN RECORDS 字样，一名骑行者从前方经过。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public gallery was inspected on 2026-11-05. Its item label, exact media URL and presence of a public prompt were recorded. The 2026-11-06 review used those retained observations and local files; it did not make a new availability check or independently recheck the prompt wording.",
+        "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
+      },
+      "media_note": {
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+      },
+      "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
+    }
   }
 ]

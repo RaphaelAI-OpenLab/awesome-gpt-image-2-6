@@ -47,11 +47,11 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 14 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 13 | 0 |
-| [Infografias](#category-infographics) | 6 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 15 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 15 | 0 |
+| [Infografias](#category-infographics) | 7 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 3 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 17 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 19 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 12 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animação](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **84** |
+| Casos com ligação para a fonte | **90** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **47** |
-| Prompts originais disponíveis na fonte | **62** |
+| Exemplos comunicados pelos criadores | **53** |
+| Prompts originais disponíveis na fonte | **68** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **146** |
+| Ficheiros multimédia arquivados localmente | **152** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -123,10 +123,10 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-markup-edits"></a>
 

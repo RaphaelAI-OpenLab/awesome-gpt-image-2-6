@@ -47,11 +47,11 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 14 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 13 | 0 |
-| [Infografiche](#category-infographics) | 6 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 15 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 15 | 0 |
+| [Infografiche](#category-infographics) | 7 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 3 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 17 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 19 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 12 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animazione](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **84** |
+| Casi con collegamenti alle fonti | **90** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **47** |
-| Prompt originali disponibili alla fonte | **62** |
+| Esempi dichiarati dai creatori | **53** |
+| Prompt originali disponibili alla fonte | **68** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **146** |
+| File multimediali archiviati localmente | **152** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 

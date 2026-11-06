@@ -47,11 +47,11 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 14 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 13 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 6 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 15 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 15 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 7 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 17 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 19 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 12 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **84** |
+| Trường hợp có liên kết nguồn | **90** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **47** |
-| Câu lệnh gốc có sẵn tại nguồn | **62** |
+| Ví dụ do tác giả báo cáo | **53** |
+| Câu lệnh gốc có sẵn tại nguồn | **68** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **146** |
+| Tệp tư liệu được lưu trữ cục bộ | **152** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-markup-edits"></a>
 

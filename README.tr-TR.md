@@ -47,11 +47,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 14 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 13 | 0 |
-| [İnfografikler](#category-infographics) | 6 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 15 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 15 | 0 |
+| [İnfografikler](#category-infographics) | 7 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 17 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 19 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **84** |
+| Kaynak bağlantılı örnekler | **90** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **47** |
-| Kaynakta bulunan özgün istemler | **62** |
+| Üreticilerinin bildirdiği örnekler | **53** |
+| Kaynakta bulunan özgün istemler | **68** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **146** |
+| Yerel olarak arşivlenmiş medya dosyaları | **152** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 
