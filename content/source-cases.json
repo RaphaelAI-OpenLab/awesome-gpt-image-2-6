@@ -4411,5 +4411,122 @@
       },
       "report_path": "docs/AIVIDEOS_QUALITY_SOURCE_2026-11-05.md"
     }
+  },
+  {
+    "id": "community-greta-stock-kitten-iterations",
+    "status": "published",
+    "title": {
+      "en": "Stock-market kitten meme: three GIF iterations",
+      "zh-CN": "股市小猫梗图：三版 GIF 迭代"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://gretatsai.com/chatgpt-images-2-6-gif/",
+      "author": "蔡明淳 (Greta Tsai)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In her Images 2.6 article, Tsai identifies all three kitten versions as her own ChatGPT web Plus tests. This is creator attribution, not independently reproduced model verification.",
+        "zh-CN": "蔡明淳在 Images 2.6 文章中说明，三版小猫均由她在 ChatGPT 网页版 Plus 中实测生成。这是作者归因，不是独立复现的模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://gretatsai.com/chatgpt-images-2-6-gif/"
+    },
+    "media": [
+      {
+        "source_url": "https://i0.wp.com/gretatsai.com/wp-content/uploads/2026/11/chatgpt-images-2-6-gif-01.webp?resize=508%2C507&ssl=1",
+        "path": "assets/examples/community-greta-stock-kitten-iterations/iteration-1.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Cartoon orange kitten with a falling chart and Traditional Chinese caption.",
+          "zh-CN": "橘猫卡通、下跌图表和繁体中文标题。"
+        },
+        "role": "output",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gretatsai.com/chatgpt-images-2-6-gif/",
+          "credit": "蔡明淳 (Greta Tsai)",
+          "note": {
+            "en": "Public creator example archived unchanged. No redistribution license was located; attribution is not permission or an open license.",
+            "zh-CN": "公开作者案例，原样存档。未找到再分发许可；署名不等于授权或开放许可。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 420502,
+        "sha256": "ca382787759ad8898fa1bdaf0222e490619dac4bfd897c8989b58518e1e1f834"
+      },
+      {
+        "source_url": "https://i0.wp.com/gretatsai.com/wp-content/uploads/2026/11/chatgpt-images-2-6-gif-02.webp?resize=508%2C508&ssl=1",
+        "path": "assets/examples/community-greta-stock-kitten-iterations/iteration-2.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Three pale kittens in front of a synthetic Taiwan market chart.",
+          "zh-CN": "三只浅色小猫位于合成的台湾市场图表前。"
+        },
+        "role": "output",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gretatsai.com/chatgpt-images-2-6-gif/",
+          "credit": "蔡明淳 (Greta Tsai)",
+          "note": {
+            "en": "Public creator example archived unchanged. No redistribution license was located; attribution is not permission or an open license.",
+            "zh-CN": "公开作者案例，原样存档。未找到再分发许可；署名不等于授权或开放许可。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 369403,
+        "sha256": "385de156adb2888aa802ccd3b09b0c2ee41247c50ab1e5e217f6129c6257329a"
+      },
+      {
+        "source_url": "https://i0.wp.com/gretatsai.com/wp-content/uploads/2026/11/chatgpt-images-2-6-gif-03.webp?resize=508%2C508&ssl=1",
+        "path": "assets/examples/community-greta-stock-kitten-iterations/iteration-3.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Revised three-kitten sequence with more synchronized poses.",
+          "zh-CN": "三只小猫动作更同步的修改序列。"
+        },
+        "role": "output",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gretatsai.com/chatgpt-images-2-6-gif/",
+          "credit": "蔡明淳 (Greta Tsai)",
+          "note": {
+            "en": "Public creator example archived unchanged. No redistribution license was located; attribution is not permission or an open license.",
+            "zh-CN": "公开作者案例，原样存档。未找到再分发许可；署名不等于授权或开放许可。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 335438,
+        "sha256": "8583d499c87ac0528708eb765a4de540a4f61a1510acff6968ed18c0f07df4e0"
+      }
+    ],
+    "notes": {
+      "en": "One grouped work: cartoon first version, realistic kitten revision, then a synchronization revision. Source-linked prompts only. Market numbers are synthetic, not financial data. Original GIF bytes were retained, decoded and inspected across all six frames of each file (18 frames total); playback and generation were not tested.",
+      "zh-CN": "作为一个作品组收录：卡通初版、写实小猫改版及同步动作改版。提示词仅链接原文。市场数字为合成内容，不是真实金融数据。保留 GIF 原始字节，完整解码并检查每个文件的六帧；未测试实际播放或生成过程。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained November 6 source excerpts identify Images 2.6 and the creator’s own three-version ChatGPT Plus test. No new source request was made for this review.",
+        "zh-CN": "留存的11月6日来源摘录明确提及 Images 2.6 及作者亲自进行的三版 ChatGPT Plus 测试。本次审核未重新请求来源。"
+      },
+      "media_note": {
+        "en": "The three unchanged GIF files were fully decoded and all 18 frames were visually inspected. Sizes and SHA-256 hashes match the original records. No EXIF or XMP payload was found. Playback and generation were not tested.",
+        "zh-CN": "完整解码三份未改动的 GIF，并目视检查全部18帧。大小与 SHA-256 均匹配原记录。未发现 EXIF 或 XMP 数据。未测试播放或生成。"
+      },
+      "report_path": "docs/GRETA_KITTEN_SOURCE_2026-11-06.md"
+    }
   }
 ]

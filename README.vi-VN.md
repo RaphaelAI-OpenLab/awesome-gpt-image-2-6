@@ -54,7 +54,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 10 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 9 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 3 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 11 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **50** |
+| Trường hợp có liên kết nguồn | **51** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **13** |
-| Câu lệnh gốc có sẵn tại nguồn | **35** |
+| Ví dụ do tác giả báo cáo | **14** |
+| Câu lệnh gốc có sẵn tại nguồn | **36** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **107** |
-| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-05** |
+| Tệp tư liệu được lưu trữ cục bộ | **110** |
+| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
 
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

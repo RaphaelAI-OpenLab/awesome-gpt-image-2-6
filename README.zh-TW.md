@@ -54,7 +54,7 @@
 | [角色與一致性](#category-characters-consistency) | 10 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 9 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 11 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **50** |
+| 附來源連結的案例 | **51** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **13** |
-| 可於來源取得的原始提示詞 | **35** |
+| 創作者自述範例 | **14** |
+| 可於來源取得的原始提示詞 | **36** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **107** |
-| 最近來源檢查時間（UTC） | **2026-11-05** |
+| 已於本機封存的媒體檔案 | **110** |
+| 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
 
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 創作者自述模型 |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

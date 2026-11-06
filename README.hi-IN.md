@@ -54,7 +54,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पात्र और एकरूपता](#category-characters-consistency) | 10 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 9 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 3 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 11 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **50** |
+| स्रोत से जुड़े उदाहरण | **51** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **13** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **35** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **14** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **36** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **107** |
-| स्रोत की पिछली जाँच (UTC) | **2026-11-05** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **110** |
+| स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
 
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

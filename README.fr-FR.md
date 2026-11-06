@@ -54,7 +54,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Personnages et cohérence](#category-characters-consistency) | 10 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 9 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 3 | 0 |
-| [GIF et animation](#category-gif-animation) | 11 | 0 |
+| [GIF et animation](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **50** |
+| Cas avec liens vers les sources | **51** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **13** |
-| Prompts originaux disponibles à la source | **35** |
+| Exemples déclarés par leurs créateurs | **14** |
+| Prompts originaux disponibles à la source | **36** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **107** |
-| Dernière vérification des sources (UTC) | **2026-11-05** |
+| Fichiers multimédias archivés localement | **110** |
+| Dernière vérification des sources (UTC) | **2026-11-06** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
 
@@ -121,12 +121,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

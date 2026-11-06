@@ -54,7 +54,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [キャラクターと一貫性](#category-characters-consistency) | 10 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 9 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 11 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **50** |
+| 出典リンク付き事例 | **51** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **13** |
-| 出典で公開されている原文プロンプト | **35** |
+| 作者が報告した作例 | **14** |
+| 出典で公開されている原文プロンプト | **36** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **107** |
-| 出典の最終確認日時（UTC） | **2026-11-05** |
+| ローカルに保存済みのメディアファイル | **110** |
+| 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

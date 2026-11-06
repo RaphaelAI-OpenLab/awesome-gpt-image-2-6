@@ -54,7 +54,7 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 | [Personagens e consistência](#category-characters-consistency) | 10 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 9 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 3 | 0 |
-| [GIF e animação](#category-gif-animation) | 11 | 0 |
+| [GIF e animação](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **50** |
+| Casos com link para a fonte | **51** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **13** |
-| Prompts originais disponíveis na fonte | **35** |
+| Exemplos relatados pelos criadores | **14** |
+| Prompts originais disponíveis na fonte | **36** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **107** |
-| Última verificação das fontes (UTC) | **2026-11-05** |
+| Arquivos de mídia arquivados localmente | **110** |
+| Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
 
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

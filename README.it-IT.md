@@ -54,7 +54,7 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | [Personaggi e coerenza](#category-characters-consistency) | 10 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 9 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 3 | 0 |
-| [GIF e animazione](#category-gif-animation) | 11 | 0 |
+| [GIF e animazione](#category-gif-animation) | 12 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **50** |
+| Casi con collegamenti alle fonti | **51** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **13** |
-| Prompt originali disponibili alla fonte | **35** |
+| Esempi dichiarati dai creatori | **14** |
+| Prompt originali disponibili alla fonte | **36** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **107** |
-| Ultima verifica delle fonti (UTC) | **2026-11-05** |
+| File multimediali archiviati localmente | **110** |
+| Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
 
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
+| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modello dichiarato dal creatore |
 | 2026-11-05 | [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 
