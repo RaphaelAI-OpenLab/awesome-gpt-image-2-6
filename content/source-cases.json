@@ -3817,5 +3817,416 @@
       },
       "report_path": "docs/AI_GARAGE_FESTIVAL_SOURCE_2026-11-05.md"
     }
+  },
+  {
+    "id": "ai-garage-ramen-quality-series",
+    "status": "published",
+    "title": {
+      "en": "Shiba ramen shop: two quality comparison runs",
+      "zh-CN": "柴犬拉面店：两轮画质对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The November 5 original report by Seiya Yagashiro describes its own GPT Image 2.6 API tests and labels the displayed variants. This is source attribution, not independent reproduction.",
+        "zh-CN": "Seiya Yagashiro 的 11 月 5 日原始报告描述自行进行的 GPT Image 2.6 API 测试，并标注展示的变体。这是来源归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-7.webp",
+        "path": "assets/examples/ai-garage-ramen-quality-series/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Shiba ramen shop: two quality comparison runs. Two original labelled four-panel composites are one natural quality/timing series, not eight cases. Exact full generation prompt is not published; the subject description is not substituted for it.",
+          "zh-CN": "柴犬拉面店：两轮画质对比。两张原始带标签四宫格组成一个画质及计时系列，不拆为八个案例。未公开完整生成提示词，不以题材描述替代。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "9e0075944a3a04adeec50ac8ca2ea010b05c9ab59d61607779b55f793b52d180",
+        "bytes": 313364,
+        "mime_type": "image/webp"
+      },
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-1.webp",
+        "path": "assets/examples/ai-garage-ramen-quality-series/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Shiba ramen shop: two quality comparison runs. Two original labelled four-panel composites are one natural quality/timing series, not eight cases. Exact full generation prompt is not published; the subject description is not substituted for it.",
+          "zh-CN": "柴犬拉面店：两轮画质对比。两张原始带标签四宫格组成一个画质及计时系列，不拆为八个案例。未公开完整生成提示词，不以题材描述替代。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "62660c37bb3d141bac618d4b38a5f7057d6b28b41832111590ec68c78ba39076",
+        "bytes": 267924,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Two original labelled four-panel composites are one natural quality/timing series, not eight cases. Exact full generation prompt is not published; the subject description is not substituted for it.",
+      "zh-CN": "两张原始带标签四宫格组成一个画质及计时系列，不拆为八个案例。未公开完整生成提示词，不以题材描述替代。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original public page and displayed model attribution checked in a normal browser without login.",
+        "zh-CN": "已在普通浏览器中核对公开原页面及展示的模型归因，无需登录。"
+      },
+      "media_note": {
+        "en": "The two original WebP comparison composites are archived unchanged: 1216 × 1328 (313,364 bytes) and 1528 × 1132 (267,924 bytes). Their formats, full raster decoding, dimensions and hashes were checked. Both four-panel composites remain one quality/timing series.",
+        "zh-CN": "两张原始 WebP 对比拼图原样存档：1216 × 1328（313,364 字节）与 1528 × 1132（267,924 字节）。已核查格式、完整图像解码、尺寸及哈希。两张四宫格仍合计为一个画质及计时系列。"
+      },
+      "report_path": "docs/AI_GARAGE_RAMEN_SOURCE_2026-11-05.md"
+    }
+  },
+  {
+    "id": "ai-garage-autumn-cafe",
+    "status": "published",
+    "title": {
+      "en": "Autumn café menu announcement comparison",
+      "zh-CN": "秋季咖啡馆新品告知对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The November 5 original report by Seiya Yagashiro describes its own GPT Image 2.6 API tests and labels the displayed variants. This is source attribution, not independent reproduction.",
+        "zh-CN": "Seiya Yagashiro 的 11 月 5 日原始报告描述自行进行的 GPT Image 2.6 API 测试，并标注展示的变体。这是来源归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-2.webp",
+        "path": "assets/examples/ai-garage-autumn-cafe/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Autumn café menu announcement comparison. Original side-by-side Flare and Sunburst medium-quality results. The complete instruction is unknown.",
+          "zh-CN": "秋季咖啡馆新品告知对比。原始并排 Flare 与 Sunburst 中等画质结果，完整指令未知。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "5b06b0bc9910f2768b187c28b4bbd8cfa6e7e49ca7cd83656521130c569de4ab",
+        "bytes": 288176,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Original side-by-side Flare and Sunburst medium-quality results. The complete instruction is unknown.",
+      "zh-CN": "原始并排 Flare 与 Sunburst 中等画质结果，完整指令未知。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original public page and displayed model attribution checked in a normal browser without login.",
+        "zh-CN": "已在普通浏览器中核对公开原页面及展示的模型归因，无需登录。"
+      },
+      "media_note": {
+        "en": "The original 1248 × 986 WebP comparison is archived unchanged (288,176 bytes). Its format, full raster decoding, dimensions and hashes were checked. The labelled Flare and Sunburst panels remain one comparison case.",
+        "zh-CN": "原始 1248 × 986 WebP 对比图原样存档（288,176 字节）。已核查格式、完整图像解码、尺寸及哈希。带标签的 Flare 与 Sunburst 面板仍合计为一个对比案例。"
+      },
+      "report_path": "docs/AI_GARAGE_CAFE_SOURCE_2026-11-05.md"
+    }
+  },
+  {
+    "id": "ai-garage-red-chef-hat",
+    "status": "published",
+    "title": {
+      "en": "Red chef hat despite conflicting markup",
+      "zh-CN": "与圈注位置不同的红厨师帽编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The November 5 original report by Seiya Yagashiro describes its own GPT Image 2.6 API tests and labels the displayed variants. This is source attribution, not independent reproduction.",
+        "zh-CN": "Seiya Yagashiro 的 11 月 5 日原始报告描述自行进行的 GPT Image 2.6 API 测试，并标注展示的变体。这是来源归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/"
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-4.webp",
+        "path": "assets/examples/ai-garage-red-chef-hat/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Red chef hat despite conflicting markup. Original before/after composite. The input marks an object away from the hat, while the written instruction changes the hat. Input remains context only.",
+          "zh-CN": "与圈注位置不同的红厨师帽编辑。原始前后对照图。输入圈注位于帽子以外，而文字指令要求改变帽子。输入仅作上下文。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "c2bf65665f191ac81875f6b4d52ec7e16e16abe0561982fbad0ccb6736c491ed",
+        "bytes": 117792,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Original before/after composite. The input marks an object away from the hat, while the written instruction changes the hat. Input remains context only.",
+      "zh-CN": "原始前后对照图。输入圈注位于帽子以外，而文字指令要求改变帽子。输入仅作上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original public page and displayed model attribution checked in a normal browser without login.",
+        "zh-CN": "已在普通浏览器中核对公开原页面及展示的模型归因，无需登录。"
+      },
+      "media_note": {
+        "en": "The original 1408 × 522 WebP before/after comparison is archived unchanged (117,792 bytes). Its format, full raster decoding, dimensions and hashes were checked. The marked input at left is context; only the right panel is the attributed Flare edit.",
+        "zh-CN": "原始 1408 × 522 WebP 前后对比图原样存档（117,792 字节）。已核查格式、完整图像解码、尺寸及哈希。左侧圈注输入仅为上下文，只有右侧面板是归于 Flare 的编辑结果。"
+      },
+      "report_path": "docs/AI_GARAGE_CHEF_HAT_SOURCE_2026-11-05.md"
+    }
+  },
+  {
+    "id": "ai-garage-shiba-wave",
+    "status": "published",
+    "title": {
+      "en": "Shiba chef waving loop",
+      "zh-CN": "柴犬厨师挥手循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The November 5 original report by Seiya Yagashiro describes its own GPT Image 2.6 API tests and labels the displayed variants. This is source attribution, not independent reproduction.",
+        "zh-CN": "Seiya Yagashiro 的 11 月 5 日原始报告描述自行进行的 GPT Image 2.6 API 测试，并标注展示的变体。这是来源归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-5.gif",
+        "path": "assets/examples/ai-garage-shiba-wave/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Shiba chef waving loop. Nine-frame 512 × 512 GIF. The author explicitly could not confirm whether it came as one API GIF or separately assembled frames. Variant and exact prompt are unknown; do not present it as proven native API GIF output.",
+          "zh-CN": "柴犬厨师挥手循环。九帧 512 × 512 GIF。作者明确未确认是 API 一次返回 GIF 还是多帧合成。变体和完整提示词未知，不应称为已证实的原生 API GIF 输出。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "e1846e247d5e6bf9f9f524199d0bf8bd9163350c8ba647500bec3286aee2d415",
+        "bytes": 470021,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Nine-frame 512 × 512 GIF. The author explicitly could not confirm whether it came as one API GIF or separately assembled frames. Variant and exact prompt are unknown; do not present it as proven native API GIF output.",
+      "zh-CN": "九帧 512 × 512 GIF。作者明确未确认是 API 一次返回 GIF 还是多帧合成。变体和完整提示词未知，不应称为已证实的原生 API GIF 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original public page and displayed model attribution checked in a normal browser without login.",
+        "zh-CN": "已在普通浏览器中核对公开原页面及展示的模型归因，无需登录。"
+      },
+      "media_note": {
+        "en": "The original 512 × 512 GIF is archived unchanged (470,021 bytes). All nine frames were decoded and visually inspected; each lasts 200 ms. Format, dimensions and hashes were checked. This does not establish whether an API returned a native GIF or separate frames were assembled.",
+        "zh-CN": "原始 512 × 512 GIF 原样存档（470,021 字节）。九帧全部解码并逐帧目视检查，每帧 200 毫秒。已核查格式、尺寸及哈希。这不能证明 API 直接返回 GIF，或由多张图像合成。"
+      },
+      "report_path": "docs/AI_GARAGE_SHIBA_GIF_SOURCE_2026-11-05.md"
+    }
+  },
+  {
+    "id": "aivideos-flare-4k-comparison",
+    "status": "published",
+    "title": {
+      "en": "Flare 4K test, published previews",
+      "zh-CN": "Flare 4K 测试公开预览"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://aivideos.eu/blog/gpt-image-2-6",
+      "author": "Richard Byrne / AI Videos",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Richard Byrne’s 5 November 2026 first-person review attributes these displayed outputs to GPT Image 2.6. Model attribution and settings are source claims, not independently reproduced.",
+        "zh-CN": "Richard Byrne 于 2026 年 11 月 5 日发布的亲测评测将所示结果归于 GPT Image 2.6。模型与设置依据来源陈述，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-4k-high.webp",
+        "path": "assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-high.webp",
+        "sha256": "6eb0730120be7a11cf179d022acef7b1ca1b0d8c5574da73dcb3c36eefcbaeec",
+        "bytes": 457884,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Published 1920×1080 preview of the Flare high 4K poster test.",
+          "zh-CN": "Flare 4K 海报测试发布的 1920×1080 预览。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-4k-max.webp",
+        "path": "assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-max.webp",
+        "sha256": "9b784846b27cac38def4be6b12bfe8bc0f7819cd14655d9c52c8b3590291e1a7",
+        "bytes": 445900,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Published 1920×1080 preview of the Flare max 4K poster test.",
+          "zh-CN": "Flare 4K 海报测试发布的 1920×1080 预览。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Source describes high and max generations at 3840×2160, but both published WebP files are 1920×1080. These are source-published previews, not full-resolution 4K originals. The crop derivative is excluded. Source reports invented laurel taglines in max. Costs, timings and qualitative judgments are author claims. No generation was run.",
+      "zh-CN": "来源称 high 和 max 生成尺寸为 3840×2160，但公开 WebP 均为 1920×1080。这些是来源发布的预览，并非原始 4K 文件。排除裁剪衍生图；来源指出 max 添加了未要求的桂冠标语。 成本、耗时及质量评价均为作者陈述。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened normally in browser; media URLs and labels inspected from visible page DOM.",
+        "zh-CN": "原始文章在浏览器正常打开，已从页面 DOM 核查媒体地址与标签。"
+      },
+      "media_note": {
+        "en": "Both original source-published WebP previews are archived unchanged: 1920 × 1080, 457,884 and 445,900 bytes. Formats, full raster decoding, dimensions and hashes were checked. They are not full-resolution 4K originals.",
+        "zh-CN": "两张来源公开的原始 WebP 预览原样存档，均为 1920 × 1080，分别为 457,884 与 445,900 字节。已核查格式、完整图像解码、尺寸及哈希。它们不是完整分辨率的 4K 原文件。"
+      },
+      "report_path": "docs/AIVIDEOS_4K_SOURCE_2026-11-05.md"
+    }
   }
 ]
