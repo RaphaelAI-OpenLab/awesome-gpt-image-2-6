@@ -47,11 +47,11 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 14 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 13 | 0 |
-| [Infographies](#category-infographics) | 6 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 15 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 15 | 0 |
+| [Infographies](#category-infographics) | 7 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 3 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 17 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 19 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 12 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
 | [GIF et animation](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **84** |
+| Cas avec liens vers les sources | **90** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **47** |
-| Prompts originaux disponibles à la source | **62** |
+| Exemples déclarés par leurs créateurs | **53** |
+| Prompts originaux disponibles à la source | **68** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **146** |
+| Fichiers multimédias archivés localement | **152** |
 | Dernière vérification des sources (UTC) | **2026-11-06** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -123,10 +123,10 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-markup-edits"></a>
 

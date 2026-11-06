@@ -47,11 +47,11 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 14 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 13 | 0 |
-| [인포그래픽](#category-infographics) | 6 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 15 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 15 | 0 |
+| [인포그래픽](#category-infographics) | 7 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 3 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 17 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 19 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 12 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
 | [GIF 및 애니메이션](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **84** |
+| 출처 링크가 있는 사례 | **90** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **47** |
-| 출처에서 제공하는 원문 프롬프트 | **62** |
+| 제작자가 보고한 예시 | **53** |
+| 출처에서 제공하는 원문 프롬프트 | **68** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **146** |
+| 로컬에 보관된 미디어 파일 | **152** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -123,10 +123,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -152,6 +152,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -172,6 +173,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -185,6 +188,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -219,6 +223,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 

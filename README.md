@@ -43,11 +43,11 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 14 | 0 |
-| [Posters & typography](#category-posters-typography) | 13 | 0 |
-| [Infographics](#category-infographics) | 6 | 0 |
+| [Brand & product visuals](#category-brand-products) | 15 | 0 |
+| [Posters & typography](#category-posters-typography) | 15 | 0 |
+| [Infographics](#category-infographics) | 7 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 3 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 17 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 19 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 12 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
 | [GIF & animation](#category-gif-animation) | 13 | 0 |
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **84** |
+| Source-linked cases | **90** |
 | Official examples | **37** |
-| Creator-reported examples | **47** |
-| Original prompts available at source | **62** |
+| Creator-reported examples | **53** |
+| Original prompts available at source | **68** |
 | Full prompts published here | **0** |
-| Locally archived media files | **146** |
+| Locally archived media files | **152** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Creator-reported model |
-| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Creator-reported model |
-| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model |
-| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Creator-reported model |
+| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Creator-reported model |
+| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Creator-reported model |
+| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Creator-reported model |
+| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Creator-reported model | Original prompt at source |
+| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -168,6 +169,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Creator-reported model | Original prompt at source |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Creator-reported model | Original prompt at source |
+| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Creator-reported model | Original prompt at source |
+| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -181,6 +184,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Creator-reported model | Original prompt at source |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Creator-reported model | Original prompt at source |
+| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -215,6 +219,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Creator-reported model | Original prompt at source |
 | [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Creator-reported model | Original prompt at source |
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Creator-reported model | Original prompt at source |
+| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Creator-reported model | Original prompt at source |
+| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
