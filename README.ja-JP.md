@@ -51,7 +51,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [ポスター・タイポグラフィ](#category-posters-typography) | 8 | 0 |
 | [インフォグラフィック](#category-infographics) | 3 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 2 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 10 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 14 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 11 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 3 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **60** |
+| 出典リンク付き事例 | **64** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **23** |
-| 出典で公開されている原文プロンプト | **38** |
+| 作者が報告した作例 | **27** |
+| 出典で公開されている原文プロンプト | **42** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **110** |
+| ローカルに保存済みのメディアファイル | **114** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -123,10 +123,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Continue the same character’s story](cases/docs-character-story/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Stained-glass whale](cases/launch-picsart/README.md) | 公式公開デモ | プロンプト非公開 |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | 公式公開デモ | 出典にある原文プロンプト |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-markup-edits"></a>
 

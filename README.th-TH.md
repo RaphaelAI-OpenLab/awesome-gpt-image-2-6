@@ -51,7 +51,7 @@
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 8 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 3 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 2 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 10 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 14 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 11 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 3 | 0 |
 | [GIF และแอนิเมชัน](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **60** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **64** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **23** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **38** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **27** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **42** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **110** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **114** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -123,10 +123,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Continue the same character’s story](cases/docs-character-story/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Stained-glass whale](cases/launch-picsart/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-markup-edits"></a>
 

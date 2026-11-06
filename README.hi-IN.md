@@ -51,7 +51,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 8 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 3 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 2 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 10 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 14 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 11 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 3 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **60** |
+| स्रोत से जुड़े उदाहरण | **64** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **23** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **38** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **27** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **42** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **110** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **114** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -123,10 +123,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -199,6 +199,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Continue the same character’s story](cases/docs-character-story/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Stained-glass whale](cases/launch-picsart/README.md) | आधिकारिक लॉन्च डेमो | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | आधिकारिक लॉन्च डेमो | स्रोत पर मूल प्रॉम्प्ट |
+| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-markup-edits"></a>
 
