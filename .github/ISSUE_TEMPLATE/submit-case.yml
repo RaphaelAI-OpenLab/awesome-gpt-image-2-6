@@ -39,6 +39,7 @@ body:
       options:
         - Public original prompt / 已公开原始提示词
         - Not public / 未公开
+        - Prompt availability unverified / 提示词公开状态待核验
     validations:
       required: true
   - type: textarea

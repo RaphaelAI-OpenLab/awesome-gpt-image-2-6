@@ -81,6 +81,78 @@ class CollectionTests(unittest.TestCase):
             self.assertIn('PLACEHOLDER' if lang == 'en' else '占位', text)
             self.assertNotIn('```', text)
 
+    def test_schema_supports_three_distinct_prompt_statuses(self):
+        schema = read_json('content/source-cases.schema.json')
+        item = copy.deepcopy(self.cases[0])
+        for status in ('source-only', 'not-public', 'unverified'):
+            with self.subTest(status=status):
+                item['prompt'] = {'status': status, 'url': item['source']['url'] if status == 'source-only' else None}
+                self.assertEqual(schema_errors([item], schema, 'cases', schema), [])
+                self.assertEqual(self.errors_for(item), [])
+        item['prompt']['status'] = 'unknown'
+        self.assertTrue(schema_errors([item], schema, 'cases', schema))
+
+    def test_unverified_and_not_public_prompts_require_null_url(self):
+        item = copy.deepcopy(self.cases[0])
+        for status in ('unverified', 'not-public'):
+            for url in (item['source']['url'], ''):
+                with self.subTest(status=status, url=url):
+                    item['prompt'] = {'status': status, 'url': url}
+                    self.assertTrue(any(f'{status} prompts must not have a prompt URL' in e for e in self.errors_for(item)))
+
+    def test_unverified_prompt_does_not_relax_source_model_or_rights_checks(self):
+        original = self.media_item()
+        original['prompt'] = {'status': 'unverified', 'url': None}
+        self.assertEqual(self.errors_for(original), [])
+        for field, value, message in (
+            (('source', 'url'), '', 'original HTTPS source'),
+            (('source', 'author'), '', 'missing author'),
+            (('model', 'evidence', 'en'), '', 'explicit model evidence'),
+            (('model', 'evidence', 'zh-CN'), '', 'explicit model evidence'),
+            (('media', 0, 'rights', 'evidence_url'), None, 'evidence'),
+        ):
+            with self.subTest(field=field):
+                item = copy.deepcopy(original)
+                target = item
+                for key in field[:-1]:
+                    target = target[key]
+                target[field[-1]] = value
+                self.assertTrue(any(message in e for e in self.errors_for(item)))
+
+    def test_unverified_prompt_detail_never_claims_availability(self):
+        item = copy.deepcopy(self.cases[0])
+        item['prompt'] = {'status': 'unverified', 'url': None}
+        for lang, heading, label, attribution in (
+            ('en', 'Original prompt', 'Prompt availability unverified', 'Attribution and verification'),
+            ('zh-CN', '原始提示词', '提示词公开状态待核验', '来源与核对信息'),
+        ):
+            with self.subTest(lang=lang):
+                text = render_detail(item, lang)
+                section = text.split('## ' + heading + '\n', 1)[1].split('## ' + attribution, 1)[0]
+                self.assertIn('**' + label + '**', section)
+                self.assertNotRegex(section, r'\[[^]]*\]\(')
+                self.assertNotIn('```', section)
+                self.assertNotIn('prompt not publicly provided', section)
+                self.assertNotIn('原作者未公开提示词', section)
+                self.assertIn('](' + item['source']['url'] + ')', text)
+
+    def test_unverified_prompt_is_not_counted_as_source_available(self):
+        cases = [copy.deepcopy(self.cases[0]) for _ in range(3)]
+        for item, status in zip(cases, ('source-only', 'not-public', 'unverified')):
+            item['id'] = 'prompt-status-' + status
+            item['prompt'] = {'status': status, 'url': item['source']['url'] if status == 'source-only' else None}
+        with patch('homepage.read_cases', return_value=cases):
+            for lang, source_count, prompt_count, status_label in (
+                ('en', 'Source-linked cases', 'Original prompts available at source', 'Prompt availability unverified'),
+                ('zh-CN', '来源案例', '来源公开原始提示词', '提示词公开状态待核验'),
+            ):
+                with self.subTest(lang=lang):
+                    text = render_readme(self.config, self.prompts, lang)
+                    self.assertIn(f'| {source_count} | **3** |', text)
+                    self.assertIn(f'| {prompt_count} | **1** |', text)
+                    self.assertIn(status_label, text)
+                    self.assertIn(page_path(cases[2], lang), text)
+
     def test_drafts_are_not_rendered(self):
         cases = copy.deepcopy(self.cases)
         cases[0]['status'] = 'draft'

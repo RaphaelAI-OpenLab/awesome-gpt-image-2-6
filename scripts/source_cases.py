@@ -10,6 +10,7 @@ LABELS = {
     'community': {'en': 'Creator-reported model', 'zh-CN': '作者自报模型'},
     'source-only': {'en': 'Original prompt at source', 'zh-CN': '原提示词见来源'},
     'not-public': {'en': 'Prompt not public', 'zh-CN': '提示词未公开'},
+    'unverified': {'en': 'Prompt availability unverified', 'zh-CN': '提示词公开状态待核验'},
     'unspecified': {'en': 'Variant unspecified', 'zh-CN': '版本未注明'},
     'accessible': {'en': 'Accessible', 'zh-CN': '可打开'},
     'blocked': {'en': 'Blocked in this browser', 'zh-CN': '当前浏览器被拦截'},
@@ -85,6 +86,9 @@ def render_detail(item, language):
     if item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',
                   choose('The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.', '来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。')]
+    elif item['prompt']['status'] == 'unverified':
+        lines += ['**' + label('unverified', language) + '**', '',
+                  choose('Public availability of the original prompt has not been verified. The original source is credited below.', '尚未核实原始提示词是否公开。原始来源见下方署名信息。')]
     else:
         lines += ['**' + choose('PLACEHOLDER: prompt not publicly provided.', '占位：原作者未公开提示词。') + '**']
     lines += ['', '## ' + choose('Attribution and verification', '来源与核对信息'), '',

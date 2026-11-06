@@ -131,7 +131,8 @@
             "type": "string",
             "enum": [
               "source-only",
-              "not-public"
+              "not-public",
+              "unverified"
             ]
           },
           "url": {

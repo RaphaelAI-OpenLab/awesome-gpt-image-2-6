@@ -297,7 +297,7 @@ def validate_source_cases(config, cases, prompts, errors):
             if not is_https_url(item['prompt']['url']):
                 errors.append(f'{name}.prompt.url: required for public source prompt')
         elif item['prompt']['url'] is not None:
-            errors.append(f'{name}.prompt.url: not-public prompts must not have a prompt URL')
+            errors.append(f"{name}.prompt.url: {item['prompt']['status']} prompts must not have a prompt URL")
         access = item.get('access')
         if access:
             if not is_date(access['checked_at']):

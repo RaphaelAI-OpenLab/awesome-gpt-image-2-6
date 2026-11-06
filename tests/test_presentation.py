@@ -81,6 +81,22 @@ class PresentationTests(unittest.TestCase):
         for lang in LANGUAGES:
             self.assertEqual(localized({'en':text},lang),text)
 
+    def test_unverified_prompt_label_is_translated_with_existing_detail_fallback(self):
+        item = copy.deepcopy(self.cases[0])
+        item['prompt'] = {'status': 'unverified', 'url': None}
+        key = 'Prompt availability unverified'
+        with patch('homepage.read_cases', return_value=[item]):
+            for lang in LANGUAGES:
+                with self.subTest(lang=lang):
+                    translation = messages(lang)[key]
+                    text = render_readme(self.config, self.prompts, lang)
+                    self.assertIn(translation, text)
+                    self.assertIn(page_path(item, lang), text)
+                    self.assertIn(f'| {messages(lang)["Original prompts available at source"]} | **0** |', text)
+                    if lang != 'en':
+                        self.assertNotEqual(translation, key)
+                        self.assertNotIn(key, text)
+
     def test_shared_anchors_and_case_inventory_are_preserved(self):
         reference = set(re.findall(r'<a id="([^"]+)"',render_readme(self.config,self.prompts,'en')))
         for lang in LANGUAGES:
