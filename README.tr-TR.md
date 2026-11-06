@@ -54,7 +54,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 19 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **90** |
+| Kaynak bağlantılı örnekler | **91** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **53** |
+| Üreticilerinin bildirdiği örnekler | **54** |
 | Kaynakta bulunan özgün istemler | **68** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **152** |
+| Yerel olarak arşivlenmiş medya dosyaları | **153** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Üreticinin bildirdiği model |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

@@ -50,7 +50,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Characters & consistency](#category-characters-consistency) | 19 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 12 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 13 | 0 |
+| [GIF & animation](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **90** |
+| Source-linked cases | **91** |
 | Official examples | **37** |
-| Creator-reported examples | **53** |
+| Creator-reported examples | **54** |
 | Original prompts available at source | **68** |
 | Full prompts published here | **0** |
-| Locally archived media files | **152** |
+| Locally archived media files | **153** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Creator-reported model |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Creator-reported model |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Creator-reported model |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Creator-reported model |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -273,6 +273,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Creator-reported model | Prompt not public |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model | Original prompt at source |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Creator-reported model | Prompt availability unverified |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

@@ -54,7 +54,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 19 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 12 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **90** |
+| Trường hợp có liên kết nguồn | **91** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **53** |
+| Ví dụ do tác giả báo cáo | **54** |
 | Câu lệnh gốc có sẵn tại nguồn | **68** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **152** |
+| Tệp tư liệu được lưu trữ cục bộ | **153** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
