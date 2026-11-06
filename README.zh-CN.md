@@ -37,7 +37,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 5 | 0 |
-| [海报与文字排版](#category-posters-typography) | 6 | 0 |
+| [海报与文字排版](#category-posters-typography) | 7 | 0 |
 | [信息图](#category-infographics) | 3 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 10 | 0 |
@@ -75,12 +75,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **49** |
+| 来源案例 | **50** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **12** |
+| 社区作者自报案例 | **13** |
 | 来源公开原始提示词 | **35** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **101** |
+| 本地收录素材文件 | **107** |
 | 最近来源核对（UTC） | **2026-11-05** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -110,12 +110,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-05 | [Flare 质量与规划对比](cases/aivideos-flare-quality-planning/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [柴犬拉面店：两轮画质对比](cases/ai-garage-ramen-quality-series/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [柴犬厨师夏祭背景编辑](cases/ai-garage-festival-background/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -145,6 +145,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [柴犬拉面店：两轮画质对比](cases/ai-garage-ramen-quality-series/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Flare 质量与规划对比](cases/aivideos-flare-quality-planning/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-infographics"></a>
 

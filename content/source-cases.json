@@ -4228,5 +4228,188 @@
       },
       "report_path": "docs/AIVIDEOS_4K_SOURCE_2026-11-05.md"
     }
+  },
+  {
+    "id": "aivideos-flare-quality-planning",
+    "status": "published",
+    "title": {
+      "en": "Flare quality and planning comparison",
+      "zh-CN": "Flare 质量与规划对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://aivideos.eu/blog/gpt-image-2-6",
+      "author": "Richard Byrne / AI Videos",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Richard Byrne’s 5 November 2026 first-person review attributes these displayed outputs to GPT Image 2.6. Model attribution and settings are source claims, not independently reproduced.",
+        "zh-CN": "Richard Byrne 于 2026 年 11 月 5 日发布的亲测评测将所示结果归于 GPT Image 2.6。模型与设置依据来源陈述，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-quality-low.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-low.webp",
+        "sha256": "4be2285ea2d53f3afb371ecca7bbd9f1c94468772e2b6e477b5a325e12688dce",
+        "bytes": 270420,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster in a rainy bus shelter, Flare low quality.",
+          "zh-CN": "雨中公交站电影周海报，Flare low 质量。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-quality-medium.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-medium.webp",
+        "sha256": "fb095c29f0db1deb41423c1c84678c3122071dba1a4bef2c9dcca7b3be8bb5f6",
+        "bytes": 221588,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster in a rainy bus shelter, Flare medium quality.",
+          "zh-CN": "雨中公交站电影周海报，Flare medium 质量。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-quality-high.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-high.webp",
+        "sha256": "4666762e835e4f1a1b9fed9ef98a69c33cf6404baca5799a414933baf4d8d430",
+        "bytes": 261380,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster in a rainy bus shelter, Flare high quality.",
+          "zh-CN": "雨中公交站电影周海报，Flare high 质量。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-quality-xhigh.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-xhigh.webp",
+        "sha256": "3a8dcfd4e43c7de4c8c0f92daa7f3d8a19afe56414a185635a5aaa9917cef543",
+        "bytes": 251454,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster in a rainy bus shelter, Flare xhigh quality.",
+          "zh-CN": "雨中公交站电影周海报，Flare xhigh 质量。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-quality-max.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-max.webp",
+        "sha256": "3dfeb22eb6d35f6cb62b18bd4f7b190c33c3578fff5f41780e47b199ae3906a8",
+        "bytes": 230104,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster in a rainy bus shelter, Flare max quality.",
+          "zh-CN": "雨中公交站电影周海报，Flare max 质量。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://aivideos.eu/blog/inline/gpt-image-2-6-planning-quick.webp",
+        "path": "assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-planning-quick.webp",
+        "sha256": "8f536195c58b87dfd4d4201305efb9f83a5f3801f7cdaedbbcc453bf77813fa3",
+        "bytes": 247526,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "alt": {
+          "en": "Film-week poster with the date near the foot, Flare high quality and quick planning.",
+          "zh-CN": "日期位于底部的电影周海报，Flare 高质量快速规划。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aivideos.eu/blog/gpt-image-2-6",
+          "credit": "Richard Byrne / AI Videos",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Five quality tiers at 1024×1024 plus a high-quality quick-planning output. The high-quality thorough result is counted once. A summarized shared poster brief is public, not an exact prompt. Costs, timings and qualitative judgments are author claims. No generation was run.",
+      "zh-CN": "1024×1024 的五档质量结果，加上一张高质量快速规划结果。高质量细致规划图仅计一次。公开的是共同海报需求摘要，并非完整提示词。 成本、耗时及质量评价均为作者陈述。未执行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened normally in browser; media URLs and labels inspected from visible page DOM.",
+        "zh-CN": "原始文章在浏览器正常打开，已从页面 DOM 核查媒体地址与标签。"
+      },
+      "media_note": {
+        "en": "Six displayed original WebP images are archived unchanged, each 1024 × 1024 pixels and one static frame. File sizes, SHA-256 hashes, full raster decoding and pixels were checked. These are published source images, not independently reproduced outputs or raw generation files.",
+        "zh-CN": "原样存档六张页面公开的原始 WebP 图，均为 1024 × 1024 像素单帧静态图。已核查大小、SHA-256、完整解码与图像内容。这些是来源公开图，并非独立复现结果或原始生成文件。"
+      },
+      "report_path": "docs/AIVIDEOS_QUALITY_SOURCE_2026-11-05.md"
+    }
   }
 ]
