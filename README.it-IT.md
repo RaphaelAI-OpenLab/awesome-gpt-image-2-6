@@ -47,11 +47,11 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 10 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 8 | 0 |
-| [Infografiche](#category-infographics) | 3 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 11 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 11 | 0 |
+| [Infografiche](#category-infographics) | 4 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 14 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 15 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 11 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 3 | 0 |
 | [GIF e animazione](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **64** |
+| Casi con collegamenti alle fonti | **70** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **27** |
-| Prompt originali disponibili alla fonte | **42** |
+| Esempi dichiarati dai creatori | **33** |
+| Prompt originali disponibili alla fonte | **48** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **114** |
+| File multimediali archiviati localmente | **126** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 

@@ -47,11 +47,11 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 10 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 8 | 0 |
-| [อินโฟกราฟิก](#category-infographics) | 3 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 11 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 11 | 0 |
+| [อินโฟกราฟิก](#category-infographics) | 4 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 2 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 14 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 15 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 11 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 3 | 0 |
 | [GIF และแอนิเมชัน](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **64** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **70** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **27** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **42** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **33** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **48** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **114** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **126** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -123,10 +123,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -148,6 +148,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +164,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-infographics"></a>
 
@@ -173,6 +177,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +208,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-markup-edits"></a>
 
