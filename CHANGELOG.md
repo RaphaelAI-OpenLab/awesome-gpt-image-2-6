@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-05 · Multilingual GitHub presentation
+
+- Add 16 real README interface editions with native-language SVG buttons and a visible current-language indicator.
+- Keep English/Chinese detail pages and clearly disclose English case-content fallback in the other editions.
+- Add locally generated repository-navigation badges, working issue shortcuts and a source-case suggestion form.
+- Update generated repository links to RaphaelAI-OpenLab after the repository transfer; preserve source data and media.
+- Validate translation catalogs, locale routes, stable anchors and local SVG outputs; document maintenance and YouMind attribution.
+
+
 ## 2026-11-05 · Recover nine media files through the browser
 
 - Re-open all four X originals and archive the nine previously failed media files using normal browser saving: six MP4s and three WebP files.

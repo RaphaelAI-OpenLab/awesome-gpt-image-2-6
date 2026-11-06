@@ -10,6 +10,18 @@ Use [the source-case guide](docs/SOURCE_CASES.md) for works with prompts linked 
 
 没有公开提示词的作品也可收录，但必须明确记录模型证据、来源和缺失状态，不伪造原始提示词。
 
+## Suggest a source case / 推荐来源案例
+
+Use the [case suggestion form](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=submit-case.yml) for examples with or without a public prompt. Keep missing prompts explicit and include source/model evidence.
+
+有无公开提示词的案例均可通过案例表单提交，请提供准确原作链接与模型依据。
+
+## Translations / 翻译
+
+The README interface supports 16 languages; case details are currently English and Simplified Chinese. Follow the [language guide](docs/LANGUAGES.md) to improve UI translations without changing original prompts or source claims.
+
+README 界面支持 16 种语言，完整案例详情目前为英文与简体中文。请在翻译目录中维护界面文案，不改写原始提示词或来源陈述。
+
 ## Add a complete prompt / 添加完整提示词
 
 1. Copy the complete object in [templates/prompt.json](templates/prompt.json) into the array in [content/prompts.json](content/prompts.json).

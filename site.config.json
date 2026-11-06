@@ -2,13 +2,16 @@
   "project": {
     "name": "Awesome GPT Image 2.6",
     "repository_slug": "awesome-gpt-image-2-6",
-    "repository_owner": "netlogs",
+    "repository_owner": "RaphaelAI-OpenLab",
     "default_branch": "main",
     "model_family": "GPT Image 2.6",
     "official_release_date": "2026-11-04",
     "official_url": "https://openai.com/index/introducing-images-2-6/",
     "model_docs_url": "https://developers.openai.com/api/docs/guides/image-generation",
-    "model_ids": ["gpt-image-2.6-sunburst", "gpt-image-2.6-flare"]
+    "model_ids": [
+      "gpt-image-2.6-sunburst",
+      "gpt-image-2.6-flare"
+    ]
   },
   "brand": {
     "name": "Raphael",
@@ -30,19 +33,81 @@
   },
   "cross_promo": {
     "enabled": false,
-    "title": {"en": "", "zh-CN": ""},
-    "description": {"en": "", "zh-CN": ""},
+    "title": {
+      "en": "",
+      "zh-CN": ""
+    },
+    "description": {
+      "en": "",
+      "zh-CN": ""
+    },
     "url": null,
     "image_path": null
   },
   "categories": [
-    {"id": "brand-products", "label": {"en": "Brand & product visuals", "zh-CN": "品牌与商品"}, "website_url": null},
-    {"id": "posters-typography", "label": {"en": "Posters & typography", "zh-CN": "海报与文字排版"}, "website_url": null},
-    {"id": "infographics", "label": {"en": "Infographics", "zh-CN": "信息图"}, "website_url": null},
-    {"id": "interiors-architecture", "label": {"en": "Interiors & architecture", "zh-CN": "室内与建筑"}, "website_url": null},
-    {"id": "characters-consistency", "label": {"en": "Characters & consistency", "zh-CN": "角色与一致性"}, "website_url": null},
-    {"id": "markup-edits", "label": {"en": "Markup & targeted edits", "zh-CN": "标注与局部编辑"}, "website_url": null},
-    {"id": "svg-design-assets", "label": {"en": "SVG & design assets", "zh-CN": "SVG 与设计素材"}, "website_url": null},
-    {"id": "gif-animation", "label": {"en": "GIF & animation", "zh-CN": "GIF 与动画"}, "website_url": null}
+    {
+      "id": "brand-products",
+      "label": {
+        "en": "Brand & product visuals",
+        "zh-CN": "品牌与商品"
+      },
+      "website_url": null
+    },
+    {
+      "id": "posters-typography",
+      "label": {
+        "en": "Posters & typography",
+        "zh-CN": "海报与文字排版"
+      },
+      "website_url": null
+    },
+    {
+      "id": "infographics",
+      "label": {
+        "en": "Infographics",
+        "zh-CN": "信息图"
+      },
+      "website_url": null
+    },
+    {
+      "id": "interiors-architecture",
+      "label": {
+        "en": "Interiors & architecture",
+        "zh-CN": "室内与建筑"
+      },
+      "website_url": null
+    },
+    {
+      "id": "characters-consistency",
+      "label": {
+        "en": "Characters & consistency",
+        "zh-CN": "角色与一致性"
+      },
+      "website_url": null
+    },
+    {
+      "id": "markup-edits",
+      "label": {
+        "en": "Markup & targeted edits",
+        "zh-CN": "标注与局部编辑"
+      },
+      "website_url": null
+    },
+    {
+      "id": "svg-design-assets",
+      "label": {
+        "en": "SVG & design assets",
+        "zh-CN": "SVG 与设计素材"
+      },
+      "website_url": null
+    },
+    {
+      "id": "gif-animation",
+      "label": {
+        "en": "GIF & animation",
+        "zh-CN": "GIF 与动画"
+      },
+      "website_url": null
+    }
   ]
 }

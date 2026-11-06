@@ -1,5 +1,7 @@
 """Source-linked cases: bilingual pages, explicit evidence and local-only media."""
 from __future__ import annotations
+from i18n import DETAIL_LANGUAGES, detail_language, filename
+from presentation import language_nav
 from common import GENERATED_MARKER, ROOT, localized, md_link, md_text, md_url, read_json, image_path
 
 LABELS = {
@@ -31,7 +33,7 @@ def label(key, language):
 
 
 def page_path(item, language):
-    name = 'README.md' if language == 'en' else 'README.zh-CN.md'
+    name = filename(detail_language(language))
     return f"cases/{item['id']}/{name}"
 
 
@@ -40,13 +42,15 @@ def preview(item):
 
 
 def render_detail(item, language):
+    if language not in DETAIL_LANGUAGES:
+        raise ValueError('Untranslated case details must route to an existing English page')
     zh = language == 'zh-CN'
     choose = lambda en, cn: cn if zh else en
     media_heading = choose('Images / animation files', '图片 / 动画文件') if any(m['kind'] == 'video' for m in item['media']) else choose('Images / GIFs', '图片 / GIF')
     home = '../../README.zh-CN.md' if zh else '../../README.md'
     lines = [GENERATED_MARKER, '', '# ' + md_text(localized(item['title'], language)), '',
              md_link(choose('← Back to all cases', '← 返回全部案例'), home + '#all-cases'), '']
-    lines += ['[English](README.md) · [简体中文](README.zh-CN.md)', '',
+    lines += [language_nav(language, prefix='../../', detail=True), '',
               '**' + label(item['source']['type'], language) + ' · ' + choose('Source-only; not independently reproduced', '仅核对来源；未独立复现') + '**', '',
               md_text(localized(item['notes'], language)), '',
               '## ' + media_heading, '']

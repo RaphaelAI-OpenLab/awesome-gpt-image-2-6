@@ -392,6 +392,39 @@ def markdown_link_errors() -> list[str]:
     return errors
 
 
+def validate_locales(errors):
+    from i18n import LANGUAGES, filename
+    if len({filename(language) for language in LANGUAGES}) != len(LANGUAGES):
+        errors.append('locales: every language must have a unique README route')
+    try:
+        english = read_json('content/locales/en.json')['messages']
+    except (OSError, KeyError, json.JSONDecodeError) as error:
+        errors.append(f'locales: {error}')
+        return
+    for language in LANGUAGES:
+        try:
+            data = read_json(f'content/locales/{language}.json')
+        except (OSError, json.JSONDecodeError) as error:
+            errors.append(f'locales.{language}: {error}')
+            continue
+        if not isinstance(data, dict) or data.get('language') != language or not isinstance(data.get('messages'), dict):
+            errors.append(f'locales.{language}: expected matching language and messages object')
+            continue
+        messages = data['messages']
+        if set(messages) != set(english):
+            errors.append(f'locales.{language}: keys must exactly match the English UI catalog')
+        for key, value in messages.items():
+            if not isinstance(value, str) or not value.strip():
+                errors.append(f'locales.{language}: non-empty translation required for {key!r}')
+                continue
+            if set(re.findall(r"\{[a-zA-Z_][a-zA-Z0-9_]*\}", key)) != set(re.findall(r"\{[a-zA-Z_][a-zA-Z0-9_]*\}", value)):
+                errors.append(f'locales.{language}: placeholders differ for {key!r}')
+            if key.count('|') != value.count('|'):
+                errors.append(f'locales.{language}: table separators differ for {key!r}')
+            if language == 'en' and key != value:
+                errors.append('locales.en: source text must match its key')
+
+
 def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[str], list[str]]:
     errors, warnings = [], []
     try:
@@ -404,6 +437,7 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
     except (OSError, json.JSONDecodeError) as error:
         return [str(error)], warnings
     validate_config(config, errors)
+    validate_locales(errors)
     errors.extend(schema_errors(prompts, schema, "prompts", schema))
     errors.extend(schema_errors([template], schema, "template", schema))
     errors.extend(schema_errors(cases, case_schema, "source-cases", case_schema))

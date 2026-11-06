@@ -1,0 +1,57 @@
+name: Suggest a case / 推荐案例
+description: Add an original-source example, with or without a public prompt.
+title: "[Case] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share the original work and what the source actually says. Missing prompts are welcome when explicitly marked.
+        请提供原作与明确的模型依据。原作者未公开提示词的案例也可提交，请如实说明。
+  - type: input
+    id: title
+    attributes:
+      label: Case title / 案例标题
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original post or documentation URL / 原帖或文档链接
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Creator credit / 原作者署名
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Model evidence / 模型依据
+      description: Include the explicit Images 2.6 attribution. Leave the variant unknown unless verified.
+    validations:
+      required: true
+  - type: dropdown
+    id: prompt
+    attributes:
+      label: Prompt availability / 提示词状态
+      options:
+        - Public original prompt / 已公开原始提示词
+        - Not public / 未公开
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Media sources and access / 素材来源与可获取状态
+      description: Link to the actual media where available. Distinguish an inaccessible post from a failed media request; do not bypass restrictions.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Known reuse terms / 已知使用条件
+      description: State any license, permission, explicit restriction, or unknown status. Attribution alone is not a license.
+    validations:
+      required: true
