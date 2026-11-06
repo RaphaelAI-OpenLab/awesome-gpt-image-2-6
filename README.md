@@ -41,7 +41,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Infographics](#category-infographics) | 3 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 10 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 7 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 8 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 3 | 0 |
 | [GIF & animation](#category-gif-animation) | 10 | 0 |
 
@@ -75,12 +75,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **43** |
+| Source-linked cases | **44** |
 | Official examples | **37** |
-| Creator-reported examples | **6** |
-| Original prompts available at source | **33** |
+| Creator-reported examples | **7** |
+| Original prompts available at source | **34** |
 | Full prompts published here | **0** |
-| Locally archived media files | **93** |
+| Locally archived media files | **94** |
 | Last source check (UTC) | **2026-11-05** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -110,12 +110,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-05 | [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Creator-reported model |
 | 2026-11-05 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Creator-reported model |
 | 2026-11-05 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Creator-reported model |
 | 2026-11-05 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Creator-reported model |
 | 2026-11-05 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Creator-reported model |
 | 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Creator-reported model |
-| 2026-11-05 | [Summer character illustration animation](cases/community-malfoid/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -192,6 +192,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Turn a sketch into a realistic scene](cases/docs-sketch-render/README.md) | Official documentation | Original prompt at source |
 | [Remove a held flower](cases/docs-remove-flower/README.md) | Official documentation | Original prompt at source |
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Official documentation | Original prompt at source |
+| [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 

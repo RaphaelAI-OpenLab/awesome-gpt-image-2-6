@@ -3743,5 +3743,79 @@
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
     }
+  },
+  {
+    "id": "ai-garage-festival-background",
+    "status": "published",
+    "title": {
+      "en": "Shiba chef festival background edit",
+      "zh-CN": "柴犬厨师夏祭背景编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The November 5 original report by Seiya Yagashiro describes its own GPT Image 2.6 API tests and labels the displayed variants. This is source attribution, not independent reproduction.",
+        "zh-CN": "Seiya Yagashiro 的 11 月 5 日原始报告描述自行进行的 GPT Image 2.6 API 测试，并标注展示的变体。这是来源归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/"
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-3.webp",
+        "path": "assets/examples/ai-garage-festival-background/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Shiba chef festival background edit. Original triptych includes the input at left and explicitly labelled Flare/Sunburst edits. Input is context within the composite, not counted as a generated output. Published short edit instruction linked at source.",
+          "zh-CN": "柴犬厨师夏祭背景编辑。原始三联图左侧为输入，另有明确标注的 Flare/Sunburst 编辑结果。输入仅为拼图内上下文，不作为新输出计数。原文公开简短编辑指令。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "7063e40eb7b3fd683d9ff0b8e2f2b24c4e913f2775e96d12cb017d990a6bbc28",
+        "bytes": 210864,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Original triptych includes the input at left and explicitly labelled Flare/Sunburst edits. Input is context within the composite, not counted as a generated output. Published short edit instruction linked at source.",
+      "zh-CN": "原始三联图左侧为输入，另有明确标注的 Flare/Sunburst 编辑结果。输入仅为拼图内上下文，不作为新输出计数。原文公开简短编辑指令。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original public page and displayed model attribution checked in a normal browser without login.",
+        "zh-CN": "已在普通浏览器中核对公开原页面及展示的模型归因，无需登录。"
+      },
+      "media_note": {
+        "en": "The original 1876 × 469 WebP comparison is archived unchanged (210,864 bytes). Its format, full raster decode, file size and SHA-256 were checked. The input occupies the left panel; the Flare and Sunburst edits are labelled in the other panels.",
+        "zh-CN": "原始 1876 × 469 WebP 对比图原样存档（210,864 字节）。已检查格式、完整图像解码、文件大小与 SHA-256。左侧面板为输入，其余两幅分别标注 Flare 与 Sunburst 编辑结果。"
+      },
+      "report_path": "docs/AI_GARAGE_FESTIVAL_SOURCE_2026-11-05.md"
+    }
   }
 ]
