@@ -9,14 +9,24 @@
 - `docs/CASE_GALLERY.md`: dated research record, including media reports and unresolved leads. It is historical context, not the live case count.
 - Never edit generated README or `cases/<id>/README*.md` files directly. Every published source case appears in both README category lists and has two internal detail pages.
 
-来源案例可以没有公开提示词。`prompt.status` 使用 `source-only`（链接真实原文）或 `not-public`（明确未公开）；不要填写猜测或自行改写的假原文。媒体报道或模型归因不充分的线索继续放在检索记录，不混入已核对来源的案例总数。
+Prompt availability is independent of model evidence, attribution and media reuse eligibility:
+
+- `source-only`: the public original prompt has been verified; `prompt.url` links to it.
+- `not-public`: the original prompt is confirmed not publicly provided in the reviewed source; `prompt.url` is `null`. Directly observed absence is sufficient; an explicit creator declaration is not required. This describes the reviewed source, not the creator's intent or availability elsewhere.
+- `unverified`: public availability of the original prompt was not checked or could not be established; `prompt.url` is `null`. Keep the exact original post in `source.url`, not in `prompt.url`. This status makes no claim about public availability and does not count toward original prompts available at source.
+
+来源案例可以没有公开提示词。`prompt.status` 使用 `source-only`（已核实公开的真实原文）、`not-public`（已核实所查来源未提供公开原始提示词）或 `unverified`（提示词公开状态待核验，尚未检查或无法确认）；后两者的 `prompt.url` 均为 `null`，准确原帖链接保留在 `source.url`。`not-public` 可依据直接检查所查来源确认，不要求作者明确声明，也不推断作者意图或其他来源的公开情况。`unverified` 不断言提示词是否公开，也不计入来源公开原始提示词数量。不要填写猜测或自行改写的假原文。
+
+An unverified prompt does not relax any publication requirement for the case's exact source, creator, work-specific model evidence or media provenance and reuse status. Leads with insufficient model attribution remain outside the published case count.
+
+提示词待核验不放宽案例的准确来源、作者、该作品模型依据、素材来源与使用状态要求。媒体报道或模型归因不充分的线索继续放在检索记录，不混入已核对来源的案例总数。
 
 ## Add a source case / 添加来源案例
 
 1. Copy a structurally similar record from `content/source-cases.json`, or use [templates/source-case.json](../templates/source-case.json). Keep a unique stable `id` across both datasets. Keep `status: draft` until the required evidence is complete; drafts remain public in JSON but are not displayed.
 2. Record the exact source URL, creator and model evidence for that specific work. A page mentioning 2.6 does not prove every image used it. Use `variants: ["unspecified"]` when the variant is unknown.
 3. Add English and Chinese titles, notes and evidence, an existing category, and ISO collection/check dates. Community creator claims use `source.type: community`, not independent verification.
-4. For a public original prompt, set `prompt.status: source-only` and its exact HTTPS URL. Otherwise use `not-public` with `url: null`.
+4. For a verified public original prompt, set `prompt.status: source-only` and its exact HTTPS URL. Use `not-public` when the original prompt is confirmed not publicly provided in the reviewed source, including directly observed absence. Use `unverified` when public availability was not checked or could not be established. Both latter statuses require `url: null`; always retain the exact original post in `source.url`.
 5. Add original media links when known. Unknown source URLs are not fabricated. Archive normally accessible public examples with truthful provenance and use status. Use `rights.status: link-only`, `path: null` for explicit redistribution restrictions, access failures or unresolved files, with the precise reason.
 6. Run the commands below, inspect the generated pages, then commit the data, code if changed, local assets and generated pages together. Read the latest remote head before publishing; never force-push over newer work.
 
