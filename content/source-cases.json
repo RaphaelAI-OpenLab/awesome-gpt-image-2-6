@@ -7756,5 +7756,78 @@
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
+  },
+  {
+    "id": "kingy-sunburst-bottle-rocking",
+    "status": "published",
+    "title": {
+      "en": "Rocking KINGY LAB bottle GIF",
+      "zh-CN": "KINGY LAB 水瓶摇摆 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+      "author": "Curtis Pyke / Kingy AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The individual source caption reads “The native GIF returned by GPT Image 2.6 Sunburst.”. The methodology identifies the requested API model as gpt-image-2.6-sunburst. This is the source creator’s attribution, not an independently reproduced generation. The separate ChatGPT-web outputs have an undisclosed model and are excluded.",
+        "zh-CN": "该作品单独配文为“The native GIF returned by GPT Image 2.6 Sunburst.”。测试方法明确请求 API 模型 gpt-image-2.6-sunburst。这是来源创作者的模型归因，不是独立复现生成。另行测试的 ChatGPT 网页输出模型未披露，已排除。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+        "path": "assets/examples/kingy-sunburst-bottle-rocking/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Animated orange KINGY LAB 750 mL bottle rocking on a pale-gray background",
+          "zh-CN": "浅灰背景上左右摇摆的橙色 KINGY LAB 750 mL 水瓶动图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+          "credit": "Curtis Pyke / Kingy AI",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "10fc7a505e9886a9803360fc08ecc3ce2d843262595c89e8fb75063796d471e8",
+        "bytes": 470186,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The original GIF89a file is 512 × 512, with 10 distinct decoded frames at 200 ms each, a two-second cycle and infinite looping. Normal browser playback showed upright, right-leaning and left-leaning poses; all ten decoded frames were inspected. Motion steps and the last-to-first pose transition are noticeable. A white mountain-like mark appears in the turquoise badge, documented by the source as unrequested. No 2.5 GIF or unknown-model ChatGPT-web output is included. No input image is claimed, and no generation was reproduced. The source advertises a ZIP containing exact prompts and receipts, but its contents have not been inspected. Full original-prompt availability is unverified; no claim is made that the prompt is definitely public or unpublished.",
+      "zh-CN": "原始 GIF89a 文件为 512 × 512，解码得到 10 个不同帧，每帧 200 毫秒，共两秒并无限循环。正常浏览器播放中观察到直立、右倾和左倾姿态，并检查了全部十帧。动作步进和末帧到首帧的姿态变化较明显。青绿色徽章出现白色山形图案，来源指出此细节未经要求。未收录 2.5 GIF 或模型未披露的 ChatGPT 网页输出，不声称使用了图片输入，亦未复现生成。 来源宣传包含准确提示词及凭据的 ZIP，但尚未检查包内内容。完整原始提示词的可获取状态未核实，不声称其确定公开或未公开。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The original public page opened normally without login; the individual image caption, exact media URL and methodology were rechecked in the browser.",
+        "zh-CN": "原始公开页面无需登录即可正常打开，已在浏览器重新核对单图配文、准确媒体地址和测试方法。"
+      },
+      "media_note": {
+        "en": "The direct HTTP request returned 403, while the original page and exact media were normally accessible in the browser. The supported browser media downloader saved the file; magic bytes, MIME, full decode, dimensions, size and SHA-256 were checked. Image pixels were inspected. Browser playback was observed, and all ten decoded frames were inspected.",
+        "zh-CN": "直接 HTTP 请求返回 403，但原始页面及准确媒体在浏览器中可正常访问。已通过浏览器支持的媒体下载功能保存文件，并核查文件头、MIME、完整解码、尺寸、大小和 SHA-256，亦检查了图片像素。 已观察浏览器实际播放，并检查全部十个解码帧。"
+      },
+      "report_path": "docs/KINGY_GIF_SOURCES_2026-11-06.md"
+    }
   }
 ]

@@ -54,7 +54,7 @@
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 19 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 12 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 6 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 13 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **90** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **91** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **53** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **54** |
 | พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **68** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **152** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **153** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -123,10 +123,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

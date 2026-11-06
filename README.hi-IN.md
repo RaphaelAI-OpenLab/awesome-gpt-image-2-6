@@ -54,7 +54,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पात्र और एकरूपता](#category-characters-consistency) | 19 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 12 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 13 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **90** |
+| स्रोत से जुड़े उदाहरण | **91** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **53** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **54** |
 | स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **68** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **152** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **153** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -123,10 +123,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

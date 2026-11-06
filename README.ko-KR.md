@@ -54,7 +54,7 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | [캐릭터 및 일관성](#category-characters-consistency) | 19 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 12 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 13 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **90** |
+| 출처 링크가 있는 사례 | **91** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **53** |
+| 제작자가 보고한 예시 | **54** |
 | 출처에서 제공하는 원문 프롬프트 | **68** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **152** |
+| 로컬에 보관된 미디어 파일 | **153** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -123,10 +123,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

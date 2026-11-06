@@ -50,7 +50,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 19 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 12 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 13 | 0 |
+| [GIF 与动画](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **90** |
+| 来源案例 | **91** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **53** |
+| 社区作者自报案例 | **54** |
 | 来源公开原始提示词 | **68** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **152** |
+| 本地收录素材文件 | **153** |
 | 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,10 +119,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Made 唱片店橱窗字样](cases/made-sunburst-shop-window/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Made 试听间](cases/made-sunburst-listening-booth/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [Made 唱机分解图](cases/made-sunburst-turntable-diagram/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Made 唱针微距](cases/made-sunburst-stylus-macro/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -273,6 +273,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

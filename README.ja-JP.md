@@ -54,7 +54,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [キャラクターと一貫性](#category-characters-consistency) | 19 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 12 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 13 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **90** |
+| 出典リンク付き事例 | **91** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **53** |
+| 作者が報告した作例 | **54** |
 | 出典で公開されている原文プロンプト | **68** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **152** |
+| ローカルに保存済みのメディアファイル | **153** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -123,10 +123,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

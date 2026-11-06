@@ -54,7 +54,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Figuren & Konsistenz](#category-characters-consistency) | 19 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 12 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 13 | 0 |
+| [GIF & Animation](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **90** |
+| Beispiele mit Quellenverweisen | **91** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **53** |
+| Von Erstellern gemeldete Beispiele | **54** |
 | An der Quelle verfügbare Original-Prompts | **68** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **152** |
+| Lokal archivierte Mediendateien | **153** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

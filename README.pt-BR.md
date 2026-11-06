@@ -54,7 +54,7 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 | [Personagens e consistência](#category-characters-consistency) | 19 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 12 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
-| [GIF e animação](#category-gif-animation) | 13 | 0 |
+| [GIF e animação](#category-gif-animation) | 14 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **90** |
+| Casos com link para a fonte | **91** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **53** |
+| Exemplos relatados pelos criadores | **54** |
 | Prompts originais disponíveis na fonte | **68** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **152** |
+| Arquivos de mídia arquivados localmente | **153** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -123,10 +123,10 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador |
+| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modelo informado pelo criador |
 | 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo informado pelo criador |
-| 2026-11-05 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -277,6 +277,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 
