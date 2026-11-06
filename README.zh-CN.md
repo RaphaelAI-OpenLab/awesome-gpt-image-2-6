@@ -37,13 +37,13 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 5 | 0 |
-| [海报与文字排版](#category-posters-typography) | 3 | 0 |
+| [海报与文字排版](#category-posters-typography) | 6 | 0 |
 | [信息图](#category-infographics) | 3 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 10 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 7 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 9 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 3 | 0 |
-| [GIF 与动画](#category-gif-animation) | 10 | 0 |
+| [GIF 与动画](#category-gif-animation) | 11 | 0 |
 
 <a id="contents"></a>
 
@@ -75,12 +75,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **43** |
+| 来源案例 | **49** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **6** |
-| 来源公开原始提示词 | **33** |
+| 社区作者自报案例 | **12** |
+| 来源公开原始提示词 | **35** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **93** |
+| 本地收录素材文件 | **101** |
 | 最近来源核对（UTC） | **2026-11-05** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -110,12 +110,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-05 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [夏日角色插画动画](cases/community-malfoid/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [柴犬拉面店：两轮画质对比](cases/ai-garage-ramen-quality-series/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [柴犬厨师夏祭背景编辑](cases/ai-garage-festival-background/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -142,6 +142,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [街头服饰广告排字](cases/docs-streetwear/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [洗发水公路广告牌](cases/docs-billboard/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [怀旧节日贺卡](cases/docs-holiday-card/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
+| [柴犬拉面店：两轮画质对比](cases/ai-garage-ramen-quality-series/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [秋季咖啡馆新品告知对比](cases/ai-garage-autumn-cafe/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Flare 4K 测试公开预览](cases/aivideos-flare-4k-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +195,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [线稿转写实场景](cases/docs-sketch-render/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [移除手持花朵](cases/docs-remove-flower/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [广告牌场景改为雪夜](cases/docs-snow-edit/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
+| [柴犬厨师夏祭背景编辑](cases/ai-garage-festival-background/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -219,6 +224,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [柴犬厨师挥手循环](cases/ai-garage-shiba-wave/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
