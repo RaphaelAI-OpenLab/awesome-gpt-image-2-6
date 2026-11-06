@@ -47,11 +47,11 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 13 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 12 | 0 |
-| [Infografias](#category-infographics) | 5 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 2 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 15 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 14 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 13 | 0 |
+| [Infografias](#category-infographics) | 6 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 3 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 17 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 12 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animação](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **78** |
+| Casos com ligação para a fonte | **84** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **41** |
-| Prompts originais disponíveis na fonte | **56** |
+| Exemplos comunicados pelos criadores | **47** |
+| Prompts originais disponíveis na fonte | **62** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **140** |
+| Ficheiros multimédia arquivados localmente | **146** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -123,10 +123,10 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo indicado pelo criador |
+| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -151,6 +151,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -170,6 +171,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -182,6 +184,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentação oficial | Prompt original na fonte |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Illustrated map](cases/made-flare-market-map/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -191,6 +194,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentação oficial | Prompt original na fonte |
 | [Living-room markup edit](cases/launch-fal/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
+| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -213,6 +217,8 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-markup-edits"></a>
 

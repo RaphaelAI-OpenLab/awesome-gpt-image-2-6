@@ -47,11 +47,11 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 13 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 12 | 0 |
-| [インフォグラフィック](#category-infographics) | 5 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 2 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 15 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 14 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 13 | 0 |
+| [インフォグラフィック](#category-infographics) | 6 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 3 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 17 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 12 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **78** |
+| 出典リンク付き事例 | **84** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **41** |
-| 出典で公開されている原文プロンプト | **56** |
+| 作者が報告した作例 | **47** |
+| 出典で公開されている原文プロンプト | **62** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **140** |
+| ローカルに保存済みのメディアファイル | **146** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -123,10 +123,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -151,6 +151,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -170,6 +171,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -182,6 +184,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Made Illustrated map](cases/made-flare-market-map/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-interiors-architecture"></a>
 
@@ -191,6 +194,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Living-room markup edit](cases/launch-fal/README.md) | 公式公開デモ | 出典にある原文プロンプト |
+| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
@@ -213,6 +217,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Made Rainy night](cases/made-flare-rain-stall/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-markup-edits"></a>
 

@@ -47,11 +47,11 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 13 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 12 | 0 |
-| [Infografiche](#category-infographics) | 5 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 2 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 15 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 14 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 13 | 0 |
+| [Infografiche](#category-infographics) | 6 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 3 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 17 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 12 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animazione](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **78** |
+| Casi con collegamenti alle fonti | **84** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **41** |
-| Prompt originali disponibili alla fonte | **56** |
+| Esempi dichiarati dai creatori | **47** |
+| Prompt originali disponibili alla fonte | **62** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **140** |
+| File multimediali archiviati localmente | **146** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -123,10 +123,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modello dichiarato dal creatore |
-| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore |
+| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -151,6 +151,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -170,6 +171,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -182,6 +184,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Illustrated map](cases/made-flare-market-map/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -191,6 +194,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
+| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -213,6 +217,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 

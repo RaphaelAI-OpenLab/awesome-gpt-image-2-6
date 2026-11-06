@@ -47,11 +47,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 13 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 12 | 0 |
-| [İnfografikler](#category-infographics) | 5 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 15 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 14 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 13 | 0 |
+| [İnfografikler](#category-infographics) | 6 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 17 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **78** |
+| Kaynak bağlantılı örnekler | **84** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **41** |
-| Kaynakta bulunan özgün istemler | **56** |
+| Üreticilerinin bildirdiği örnekler | **47** |
+| Kaynakta bulunan özgün istemler | **62** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **140** |
+| Yerel olarak arşivlenmiş medya dosyaları | **146** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -151,6 +151,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -170,6 +171,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -182,6 +184,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -191,6 +194,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Living-room markup edit](cases/launch-fal/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
+| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-characters-consistency"></a>
 
@@ -213,6 +217,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 

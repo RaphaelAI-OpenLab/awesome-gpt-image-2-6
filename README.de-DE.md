@@ -47,11 +47,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 13 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 12 | 0 |
-| [Infografiken](#category-infographics) | 5 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 2 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 15 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 14 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 13 | 0 |
+| [Infografiken](#category-infographics) | 6 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 3 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 17 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 12 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
 | [GIF & Animation](#category-gif-animation) | 13 | 0 |
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **78** |
+| Beispiele mit Quellenverweisen | **84** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **41** |
-| An der Quelle verfügbare Original-Prompts | **56** |
+| Von Erstellern gemeldete Beispiele | **47** |
+| An der Quelle verfügbare Original-Prompts | **62** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **140** |
+| Lokal archivierte Mediendateien | **146** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,10 +123,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-05 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -151,6 +151,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -170,6 +171,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -182,6 +184,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Illustrated map](cases/made-flare-market-map/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -191,6 +194,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Living-room markup edit](cases/launch-fal/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
+| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-characters-consistency"></a>
 
@@ -213,6 +217,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
