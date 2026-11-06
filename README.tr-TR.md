@@ -47,7 +47,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 6 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 10 | 0 |
 | [Afişler ve tipografi](#category-posters-typography) | 8 | 0 |
 | [İnfografikler](#category-infographics) | 3 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **56** |
+| Kaynak bağlantılı örnekler | **60** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **19** |
+| Üreticilerinin bildirdiği örnekler | **23** |
 | Kaynakta bulunan özgün istemler | **38** |
 | Burada yayımlanan tam istemler | **0** |
 | Yerel olarak arşivlenmiş medya dosyaları | **110** |
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Miniature brand product world](cases/launch-sable/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Resmî lansman demosu | İstem herkese açık değil |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-posters-typography"></a>
 

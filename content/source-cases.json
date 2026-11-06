@@ -4916,5 +4916,380 @@
       },
       "report_path": "docs/MORPHED_ACCESS_2026-11-06.md"
     }
+  },
+  {
+    "id": "productai-tovalin-serum-comparison",
+    "status": "published",
+    "title": {
+      "en": "Tovalin serum scene comparison",
+      "zh-CN": "Tovalin 精华瓶场景对照"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+      "author": "Marko Balažic / ProductAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The article identifies the corresponding right-hand scene as GPT Image 2.6 and dates its own test to November 5. The scene variant is not disclosed.",
+        "zh-CN": "文章将对应场景右侧结果明确标为 GPT Image 2.6，并声明为 11 月 5 日自测；场景版本未公开。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-serum.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "High-quality scene panel: 2.5 on the left, 2.6 on the right.",
+          "zh-CN": "高画质场景面板：左侧为 2.5，右侧为 2.6。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-labels.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Shared close-ups of the serum and coffee labels from the high-quality panels, comparing GPT Image 2.5 and GPT Image 2.6; detail crops, not additional generations.",
+          "zh-CN": "高画质面板的精华瓶与咖啡标签共用局部对照，比较 GPT Image 2.5 与 GPT Image 2.6；为细节裁图，并非额外生成。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Original provider comparison panels include GPT Image 2.5 controls, not solely 2.6 outputs. Exact prompts and standalone output files are not exposed. The provider reports its own production-pipeline test; we did not reproduce it or inspect image bytes. The editorial cover is excluded; companion detail panels are retained within their corresponding cases, not as separate works. Companion detail panels are retained as links in this same case. The label close-up panel is shared between the serum and coffee cases and is not an extra generation.",
+      "zh-CN": "提供方原始对比面板含 GPT Image 2.5 对照，并非全部为 2.6 输出。未公开准确提示词或独立输出文件。测试为提供方自报生产流程测试；本轮未复现或检查图片字节。排除编辑封面；细节对照面板保留在相应案例中，不另计作品。 同组细节对照面板保留链接，不另建案例。标签局部对照由精华瓶与咖啡案例共享，不作为额外生成计数。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained original article and per-image alternative text identify these comparison panels. No new access check was made.",
+        "zh-CN": "留存的原文及逐图替代文本明确标注这些对比面板；未进行新的访问检查。"
+      },
+      "media_note": {
+        "en": "All panels remain link-only under the source usage hold. No media bytes, pixels or playback were inspected. GPT Image 2.5 comparison panels and original reference products are not additional GPT Image 2.6 outputs.",
+        "zh-CN": "因来源使用限制，全部面板仅保留链接。未检查媒体字节、像素或播放。GPT Image 2.5 对照及原始参考产品不另计为 GPT Image 2.6 输出。"
+      },
+      "report_path": "docs/PRODUCTAI_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "productai-quillhaven-coffee-comparison",
+    "status": "published",
+    "title": {
+      "en": "Quillhaven coffee scenes and precise edits",
+      "zh-CN": "Quillhaven 咖啡袋场景与精确编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+      "author": "Marko Balažic / ProductAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The article identifies the corresponding right-hand scene as GPT Image 2.6 and dates its own test to November 5. The scene variant is not disclosed. The Precise panel is explicitly identified as Sunburst, but the scene variant is not specified.",
+        "zh-CN": "文章将对应场景右侧结果明确标为 GPT Image 2.6，并声明为 11 月 5 日自测；场景版本未公开。 Precise 面板明确标注 Sunburst，但场景生成版本未说明。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-coffee.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "High-quality café panel: 2.5 left and 2.6 right.",
+          "zh-CN": "高画质咖啡馆面板：2.5 在左，2.6 在右。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-precise-coffee.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Reference and Precise-edit comparison; only the 2.6 edit is attributed to Sunburst.",
+          "zh-CN": "参考图与 Precise 编辑对照；只有 2.6 编辑结果归为 Sunburst。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-labels.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Shared close-ups of the serum and coffee labels from the high-quality panels, comparing GPT Image 2.5 and GPT Image 2.6; detail crops, not additional generations.",
+          "zh-CN": "高画质面板的精华瓶与咖啡标签共用局部对照，比较 GPT Image 2.5 与 GPT Image 2.6；为细节裁图，并非额外生成。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Original provider comparison panels include GPT Image 2.5 controls, not solely 2.6 outputs. Exact prompts and standalone output files are not exposed. The provider reports its own production-pipeline test; we did not reproduce it or inspect image bytes. The editorial cover is excluded; companion detail panels are retained within their corresponding cases, not as separate works. Companion detail panels are retained as links in this same case. The label close-up panel is shared between the serum and coffee cases and is not an extra generation.",
+      "zh-CN": "提供方原始对比面板含 GPT Image 2.5 对照，并非全部为 2.6 输出。未公开准确提示词或独立输出文件。测试为提供方自报生产流程测试；本轮未复现或检查图片字节。排除编辑封面；细节对照面板保留在相应案例中，不另计作品。 同组细节对照面板保留链接，不另建案例。标签局部对照由精华瓶与咖啡案例共享，不作为额外生成计数。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained original article and per-image alternative text identify these comparison panels. No new access check was made.",
+        "zh-CN": "留存的原文及逐图替代文本明确标注这些对比面板；未进行新的访问检查。"
+      },
+      "media_note": {
+        "en": "All panels remain link-only under the source usage hold. No media bytes, pixels or playback were inspected. GPT Image 2.5 comparison panels and original reference products are not additional GPT Image 2.6 outputs.",
+        "zh-CN": "因来源使用限制，全部面板仅保留链接。未检查媒体字节、像素或播放。GPT Image 2.5 对照及原始参考产品不另计为 GPT Image 2.6 输出。"
+      },
+      "report_path": "docs/PRODUCTAI_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "productai-running-shoe-comparison",
+    "status": "published",
+    "title": {
+      "en": "Running-shoe scenes and precise edits",
+      "zh-CN": "跑鞋场景与精确编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+      "author": "Marko Balažic / ProductAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The article identifies the corresponding right-hand scene as GPT Image 2.6 and dates its own test to November 5. The scene variant is not disclosed. The Precise panel is explicitly identified as Sunburst, but the scene variant is not specified.",
+        "zh-CN": "文章将对应场景右侧结果明确标为 GPT Image 2.6，并声明为 11 月 5 日自测；场景版本未公开。 Precise 面板明确标注 Sunburst，但场景生成版本未说明。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-sneaker.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "High-quality shoe panel: 2.5 left and 2.6 right.",
+          "zh-CN": "高画质跑鞋面板：2.5 在左，2.6 在右。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-precise-sneaker.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Reference and Precise-edit comparison; only the 2.6 edit is attributed to Sunburst.",
+          "zh-CN": "参考图与 Precise 编辑对照；只有 2.6 编辑结果归为 Sunburst。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Original provider comparison panels include GPT Image 2.5 controls, not solely 2.6 outputs. Exact prompts and standalone output files are not exposed. The provider reports its own production-pipeline test; we did not reproduce it or inspect image bytes. The editorial cover is excluded; companion detail panels are retained within their corresponding cases, not as separate works.",
+      "zh-CN": "提供方原始对比面板含 GPT Image 2.5 对照，并非全部为 2.6 输出。未公开准确提示词或独立输出文件。测试为提供方自报生产流程测试；本轮未复现或检查图片字节。排除编辑封面；细节对照面板保留在相应案例中，不另计作品。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained original article and per-image alternative text identify these comparison panels. No new access check was made.",
+        "zh-CN": "留存的原文及逐图替代文本明确标注这些对比面板；未进行新的访问检查。"
+      },
+      "media_note": {
+        "en": "All panels remain link-only under the source usage hold. No media bytes, pixels or playback were inspected. GPT Image 2.5 comparison panels and original reference products are not additional GPT Image 2.6 outputs.",
+        "zh-CN": "因来源使用限制，全部面板仅保留链接。未检查媒体字节、像素或播放。GPT Image 2.5 对照及原始参考产品不另计为 GPT Image 2.6 输出。"
+      },
+      "report_path": "docs/PRODUCTAI_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
+  },
+  {
+    "id": "productai-cable-knit-cardigan-comparison",
+    "status": "published",
+    "title": {
+      "en": "Cable-knit cardigan on a model",
+      "zh-CN": "模特穿着绞花开衫对照"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+      "author": "Marko Balažic / ProductAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The article identifies the corresponding right-hand scene as GPT Image 2.6 and dates its own test to November 5. The scene variant is not disclosed.",
+        "zh-CN": "文章将对应场景右侧结果明确标为 GPT Image 2.6，并声明为 11 月 5 日自测；场景版本未公开。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-cardigan.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "High-quality cardigan panel: 2.5 left and 2.6 right.",
+          "zh-CN": "高画质开衫面板：2.5 在左，2.6 在右。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.productai.photo/blog/img/gpt-image-2-6-vs-2-5-buttons.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Four source-described cardigan-button close-ups comparing default and high quality on GPT Image 2.5 and GPT Image 2.6; preserve this within the same cardigan comparison.",
+          "zh-CN": "来源描述的四张开衫纽扣局部对照，比较 GPT Image 2.5 和 GPT Image 2.6 的默认与高画质设置；归入同一开衫对比。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://www.productai.photo/blog/gpt-image-2-6-vs-2-5-product-photos",
+          "credit": "Marko Balažic / ProductAI",
+          "note": {
+            "en": "Link only. ProductAI terms restrict scraping without written agreement and building competing datasets from outputs. No image was requested or downloaded. Source attribution does not grant redistribution permission. Terms: https://www.productai.photo/terms",
+            "zh-CN": "仅保留链接。ProductAI 条款限制未经书面同意的抓取，以及用输出构建竞争性数据集。本轮未请求或下载图片；来源署名不代表转载许可。条款：https://www.productai.photo/terms"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Original provider comparison panels include GPT Image 2.5 controls, not solely 2.6 outputs. Exact prompts and standalone output files are not exposed. The provider reports its own production-pipeline test; we did not reproduce it or inspect image bytes. The editorial cover is excluded; companion detail panels are retained within their corresponding cases, not as separate works. The default/high-quality button comparison is retained as a companion panel in this same case; it is not a separate case.",
+      "zh-CN": "提供方原始对比面板含 GPT Image 2.5 对照，并非全部为 2.6 输出。未公开准确提示词或独立输出文件。测试为提供方自报生产流程测试；本轮未复现或检查图片字节。排除编辑封面；细节对照面板保留在相应案例中，不另计作品。 默认与高画质纽扣对照作为同组补充面板保留，不另建案例。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "Retained original article and per-image alternative text identify these comparison panels. No new access check was made.",
+        "zh-CN": "留存的原文及逐图替代文本明确标注这些对比面板；未进行新的访问检查。"
+      },
+      "media_note": {
+        "en": "All panels remain link-only under the source usage hold. No media bytes, pixels or playback were inspected. GPT Image 2.5 comparison panels and original reference products are not additional GPT Image 2.6 outputs.",
+        "zh-CN": "因来源使用限制，全部面板仅保留链接。未检查媒体字节、像素或播放。GPT Image 2.5 对照及原始参考产品不另计为 GPT Image 2.6 输出。"
+      },
+      "report_path": "docs/PRODUCTAI_LINK_ONLY_ACCESS_2026-11-05.md"
+    }
   }
 ]

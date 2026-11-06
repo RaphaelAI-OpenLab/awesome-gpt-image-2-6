@@ -47,7 +47,7 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 6 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 10 | 0 |
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 8 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 3 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **56** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **60** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **19** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **23** |
 | พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **38** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
 | ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **110** |
@@ -123,10 +123,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Miniature brand product world](cases/launch-sable/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-posters-typography"></a>
 

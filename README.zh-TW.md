@@ -47,7 +47,7 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 6 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 10 | 0 |
 | [海報與文字排版](#category-posters-typography) | 8 | 0 |
 | [資訊圖表](#category-infographics) | 3 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **56** |
+| 附來源連結的案例 | **60** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **19** |
+| 創作者自述範例 | **23** |
 | 可於來源取得的原始提示詞 | **38** |
 | 於此發布的完整提示詞 | **0** |
 | 已於本機封存的媒體檔案 | **110** |
@@ -123,10 +123,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Miniature brand product world](cases/launch-sable/README.md) | 官方發布示範 | 來源中的原始提示詞 |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | 官方發布示範 | 提示詞未公開 |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-posters-typography"></a>
 

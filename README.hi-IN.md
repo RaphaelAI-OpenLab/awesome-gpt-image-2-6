@@ -47,7 +47,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 6 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 10 | 0 |
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 8 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 3 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **56** |
+| स्रोत से जुड़े उदाहरण | **60** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **19** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **23** |
 | स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **38** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
 | स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **110** |
@@ -123,10 +123,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Miniature brand product world](cases/launch-sable/README.md) | आधिकारिक लॉन्च डेमो | स्रोत पर मूल प्रॉम्प्ट |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | आधिकारिक लॉन्च डेमो | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-posters-typography"></a>
 

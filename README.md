@@ -43,7 +43,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 6 | 0 |
+| [Brand & product visuals](#category-brand-products) | 10 | 0 |
 | [Posters & typography](#category-posters-typography) | 8 | 0 |
 | [Infographics](#category-infographics) | 3 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
@@ -82,9 +82,9 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **56** |
+| Source-linked cases | **60** |
 | Official examples | **37** |
-| Creator-reported examples | **19** |
+| Creator-reported examples | **23** |
 | Original prompts available at source | **38** |
 | Full prompts published here | **0** |
 | Locally archived media files | **110** |
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Creator-reported model |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Creator-reported model |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Creator-reported model |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Creator-reported model |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Creator-reported model |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Creator-reported model |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -140,6 +140,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Miniature brand product world](cases/launch-sable/README.md) | Official launch demo | Original prompt at source |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Official launch demo | Prompt not public |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Creator-reported model | Prompt not public |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-posters-typography"></a>
 

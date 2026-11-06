@@ -47,7 +47,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 6 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 10 | 0 |
 | [Affiches et typographie](#category-posters-typography) | 8 | 0 |
 | [Infographies](#category-infographics) | 3 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **56** |
+| Cas avec liens vers les sources | **60** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **19** |
+| Exemples déclarés par leurs créateurs | **23** |
 | Prompts originaux disponibles à la source | **38** |
 | Prompts complets publiés ici | **0** |
 | Fichiers multimédias archivés localement | **110** |
@@ -123,10 +123,10 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Miniature brand product world](cases/launch-sable/README.md) | Démonstration officielle de lancement | Prompt original à la source |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Démonstration officielle de lancement | Prompt non public |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-posters-typography"></a>
 

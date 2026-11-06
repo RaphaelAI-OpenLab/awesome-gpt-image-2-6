@@ -47,7 +47,7 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 6 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 10 | 0 |
 | [Pósteres y tipografía](#category-posters-typography) | 8 | 0 |
 | [Infografías](#category-infographics) | 3 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 2 | 0 |
@@ -86,9 +86,9 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **56** |
+| Casos con enlace a la fuente | **60** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **19** |
+| Ejemplos según sus creadores | **23** |
 | Prompts originales disponibles en la fuente | **38** |
 | Prompts completos publicados aquí | **0** |
 | Archivos multimedia archivados localmente | **110** |
@@ -123,10 +123,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -144,6 +144,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Miniature brand product world](cases/launch-sable/README.md) | Demostración oficial de lanzamiento | Prompt original en la fuente |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demostración oficial de lanzamiento | Prompt no público |
 | [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-posters-typography"></a>
 
