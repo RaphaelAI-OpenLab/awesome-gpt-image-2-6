@@ -47,12 +47,12 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 11 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 11 | 0 |
-| [İnfografikler](#category-infographics) | 4 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 13 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 12 | 0 |
+| [İnfografikler](#category-infographics) | 5 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 2 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 15 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 11 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 13 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **73** |
+| Kaynak bağlantılı örnekler | **78** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **36** |
-| Kaynakta bulunan özgün istemler | **51** |
+| Üreticilerinin bildirdiği örnekler | **41** |
+| Kaynakta bulunan özgün istemler | **56** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **130** |
+| Yerel olarak arşivlenmiş medya dosyaları | **140** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -123,10 +123,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -167,6 +169,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -178,6 +181,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -227,6 +231,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
