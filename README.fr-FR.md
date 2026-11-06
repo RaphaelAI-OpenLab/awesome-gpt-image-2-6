@@ -47,12 +47,12 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 11 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 11 | 0 |
-| [Infographies](#category-infographics) | 4 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 13 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 12 | 0 |
+| [Infographies](#category-infographics) | 5 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 2 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 15 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 11 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 12 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
 | [GIF et animation](#category-gif-animation) | 13 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **73** |
+| Cas avec liens vers les sources | **78** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **36** |
-| Prompts originaux disponibles à la source | **51** |
+| Exemples déclarés par leurs créateurs | **41** |
+| Prompts originaux disponibles à la source | **56** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **130** |
+| Fichiers multimédias archivés localement | **140** |
 | Dernière vérification des sources (UTC) | **2026-11-06** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -123,10 +123,10 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-posters-typography"></a>
 
@@ -167,6 +169,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -178,6 +181,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Documentation officielle | Prompt original à la source |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentation officielle | Prompt original à la source |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -227,6 +231,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-svg-design-assets"></a>
 

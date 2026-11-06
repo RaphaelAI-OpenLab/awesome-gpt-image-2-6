@@ -47,12 +47,12 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 11 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 11 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 4 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 13 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 12 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 5 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 2 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 15 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 11 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 12 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 13 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **73** |
+| Trường hợp có liên kết nguồn | **78** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **36** |
-| Câu lệnh gốc có sẵn tại nguồn | **51** |
+| Ví dụ do tác giả báo cáo | **41** |
+| Câu lệnh gốc có sẵn tại nguồn | **56** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **130** |
+| Tệp tư liệu được lưu trữ cục bộ | **140** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -123,10 +123,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -167,6 +169,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -178,6 +181,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -227,6 +231,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 

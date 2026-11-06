@@ -43,12 +43,12 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 11 | 0 |
-| [海报与文字排版](#category-posters-typography) | 11 | 0 |
-| [信息图](#category-infographics) | 4 | 0 |
+| [品牌与商品](#category-brand-products) | 13 | 0 |
+| [海报与文字排版](#category-posters-typography) | 12 | 0 |
+| [信息图](#category-infographics) | 5 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 15 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 11 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 12 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 与动画](#category-gif-animation) | 13 | 0 |
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **73** |
+| 来源案例 | **78** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **36** |
-| 来源公开原始提示词 | **51** |
+| 社区作者自报案例 | **41** |
+| 来源公开原始提示词 | **56** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **130** |
+| 本地收录素材文件 | **140** |
 | 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,10 +119,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [将咖啡馆照片转换为矢量插画](cases/community-lightlyn-latte-vector-svg/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [六枚天气 SVG 图标](cases/community-lightlyn-weather-icons-svg/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Harbor Roast 矢量标志](cases/community-lightlyn-coffee-logo-svg/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [黎明时分的渔夫：Flare 与 Sunburst](cases/community-moss-fisherman-dawn/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [客厅沙发改色双版本比较](cases/community-lightlyn-sofa-edit-variants/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [蜜蜂科学尺度版式比较](cases/community-lightlyn-bee-scale-variants/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [耳机产品广告双版本比较](cases/community-lightlyn-earbuds-ad-variants/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [夜市海报双版本比较](cases/community-lightlyn-night-market-variants/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -145,6 +145,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [跑鞋场景与精确编辑](cases/productai-running-shoe-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [模特穿着绞花开衫对照](cases/productai-cable-knit-cardigan-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Oaken Mile Coffee 标签：Flare 与 Sunburst](cases/community-moss-coffee-label/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [咖啡馆拿铁：Flare 与 Sunburst](cases/community-lightlyn-latte-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [耳机产品广告双版本比较](cases/community-lightlyn-earbuds-ad-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +165,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Lantern Row Night Market 传单：Flare 与 Sunburst](cases/community-moss-night-market-flyer/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [咖啡馆早餐菜单：Flare 与 Sunburst](cases/community-moss-breakfast-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [陶艺活动横幅布局：Flare 与 Sunburst](cases/community-moss-pottery-banner-layout/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [夜市海报双版本比较](cases/community-lightlyn-night-market-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -174,6 +177,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [细胞呼吸教学图](cases/docs-cell-respiration/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [市场规模演示页](cases/docs-pitch-slide/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [Northfield Design Summit 议程：Flare 与 Sunburst](cases/community-moss-design-summit-agenda/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [蜜蜂科学尺度版式比较](cases/community-lightlyn-bee-scale-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -223,6 +227,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [与圈注位置不同的红厨师帽编辑](cases/ai-garage-red-chef-hat/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [镜面倒影服饰编辑](cases/dreamega-mirror-reflection/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [客厅沙发改色双版本比较](cases/community-lightlyn-sofa-edit-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 

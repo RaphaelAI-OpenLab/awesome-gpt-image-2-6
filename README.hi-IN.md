@@ -47,12 +47,12 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 11 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 11 | 0 |
-| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 4 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 13 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 12 | 0 |
+| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 5 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 2 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 15 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 11 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 12 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 13 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **73** |
+| स्रोत से जुड़े उदाहरण | **78** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **36** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **51** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **41** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **56** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **130** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **140** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -123,10 +123,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -167,6 +169,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -178,6 +181,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-interiors-architecture"></a>
 
@@ -227,6 +231,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-svg-design-assets"></a>
 

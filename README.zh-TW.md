@@ -47,12 +47,12 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 11 | 0 |
-| [海報與文字排版](#category-posters-typography) | 11 | 0 |
-| [資訊圖表](#category-infographics) | 4 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 13 | 0 |
+| [海報與文字排版](#category-posters-typography) | 12 | 0 |
+| [資訊圖表](#category-infographics) | 5 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 2 | 0 |
 | [角色與一致性](#category-characters-consistency) | 15 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 11 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 12 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 13 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **73** |
+| 附來源連結的案例 | **78** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **36** |
-| 可於來源取得的原始提示詞 | **51** |
+| 創作者自述範例 | **41** |
+| 可於來源取得的原始提示詞 | **56** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **130** |
+| 已於本機封存的媒體檔案 | **140** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -123,10 +123,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -149,6 +149,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -167,6 +169,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -178,6 +181,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -227,6 +231,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 

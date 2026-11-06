@@ -43,12 +43,12 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 11 | 0 |
-| [Posters & typography](#category-posters-typography) | 11 | 0 |
-| [Infographics](#category-infographics) | 4 | 0 |
+| [Brand & product visuals](#category-brand-products) | 13 | 0 |
+| [Posters & typography](#category-posters-typography) | 12 | 0 |
+| [Infographics](#category-infographics) | 5 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 2 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 15 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 11 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 12 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
 | [GIF & animation](#category-gif-animation) | 13 | 0 |
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **73** |
+| Source-linked cases | **78** |
 | Official examples | **37** |
-| Creator-reported examples | **36** |
-| Original prompts available at source | **51** |
+| Creator-reported examples | **41** |
+| Original prompts available at source | **56** |
 | Full prompts published here | **0** |
-| Locally archived media files | **130** |
+| Locally archived media files | **140** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -119,10 +119,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model |
-| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model |
-| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model |
-| 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Creator-reported model |
+| 2026-11-05 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Creator-reported model |
+| 2026-11-05 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Creator-reported model |
+| 2026-11-05 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Creator-reported model |
+| 2026-11-05 | [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -145,6 +145,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Creator-reported model | Original prompt at source |
+| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Creator-reported model | Original prompt at source |
+| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -163,6 +165,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Creator-reported model | Original prompt at source |
 | [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Creator-reported model | Original prompt at source |
 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Creator-reported model | Original prompt at source |
+| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -174,6 +177,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Official documentation | Original prompt at source |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Official documentation | Original prompt at source |
 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Creator-reported model | Original prompt at source |
+| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -223,6 +227,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Creator-reported model | Original prompt at source |
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Creator-reported model | Prompt not public |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model | Prompt not public |
+| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
