@@ -47,11 +47,11 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 15 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 15 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 16 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 17 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 7 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 3 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 19 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 22 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 12 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 6 | 0 |
 | [GIF และแอนิเมชัน](#category-gif-animation) | 14 | 0 |
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **91** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **97** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **54** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **68** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **60** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **74** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **153** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **160** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -123,10 +123,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -153,6 +153,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-posters-typography"></a>
 
@@ -175,6 +176,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-infographics"></a>
 
@@ -225,6 +228,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Night market noodle stall](cases/yir-noodle-stall/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-markup-edits"></a>
 

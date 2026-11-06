@@ -47,11 +47,11 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 15 | 0 |
-| [Pósteres y tipografía](#category-posters-typography) | 15 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 16 | 0 |
+| [Pósteres y tipografía](#category-posters-typography) | 17 | 0 |
 | [Infografías](#category-infographics) | 7 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 3 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 19 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 22 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 12 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 6 | 0 |
 | [GIF y animación](#category-gif-animation) | 14 | 0 |
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **91** |
+| Casos con enlace a la fuente | **97** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **54** |
-| Prompts originales disponibles en la fuente | **68** |
+| Ejemplos según sus creadores | **60** |
+| Prompts originales disponibles en la fuente | **74** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **153** |
+| Archivos multimedia archivados localmente | **160** |
 | Última comprobación de fuentes (UTC) | **2026-11-06** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -123,10 +123,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modelo indicado por el creador |
-| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado por el creador |
+| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -153,6 +153,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-posters-typography"></a>
 
@@ -175,6 +176,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-infographics"></a>
 
@@ -225,6 +228,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-markup-edits"></a>
 

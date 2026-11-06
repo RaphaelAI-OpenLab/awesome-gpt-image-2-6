@@ -47,11 +47,11 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 15 | 0 |
-| [海報與文字排版](#category-posters-typography) | 15 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 16 | 0 |
+| [海報與文字排版](#category-posters-typography) | 17 | 0 |
 | [資訊圖表](#category-infographics) | 7 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 3 | 0 |
-| [角色與一致性](#category-characters-consistency) | 19 | 0 |
+| [角色與一致性](#category-characters-consistency) | 22 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 12 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 14 | 0 |
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **91** |
+| 附來源連結的案例 | **97** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **54** |
-| 可於來源取得的原始提示詞 | **68** |
+| 創作者自述範例 | **60** |
+| 可於來源取得的原始提示詞 | **74** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **153** |
+| 已於本機封存的媒體檔案 | **160** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -123,10 +123,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 創作者自述模型 |
-| 2026-11-05 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 創作者自述模型 |
+| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 創作者自述模型 |
+| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -153,6 +153,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -175,6 +176,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -225,6 +228,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Made Rainy night](cases/made-flare-rain-stall/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Night market noodle stall](cases/yir-noodle-stall/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-markup-edits"></a>
 
