@@ -6159,5 +6159,246 @@
       },
       "report_path": "docs/MOSS_PROVENANCE_2026-11-06.md"
     }
+  },
+  {
+    "id": "community-lightlyn-coffee-logo-svg",
+    "status": "published",
+    "title": {
+      "en": "Harbor Roast vector logo",
+      "zh-CN": "Harbor Roast 矢量标志"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+      "author": "Linger / Lightlyn Images",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Linger’s 5 November 2026 article labels this specific output as GPT Image 2.6 Flare. This is creator-reported attribution, not independent model reproduction.",
+        "zh-CN": "Linger 于 2026 年 11 月 5 日发布的文章将该具体结果标注为 GPT Image 2.6 Flare。这是作者自报归因，不是独立复现模型。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en"
+    },
+    "media": [
+      {
+        "source_url": "https://image.lightlyn.com/examples/gpt-image-2-6/svg-logo.svg",
+        "path": "assets/examples/community-lightlyn-coffee-logo-svg/svg-logo.svg",
+        "kind": "svg",
+        "role": "output",
+        "alt": {
+          "en": "Navy and orange stylized emblem above HARBOR ROAST lettering.",
+          "zh-CN": "深蓝与橙色图形，下方为 HARBOR ROAST 字样。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "credit": "Linger / Lightlyn Images",
+          "note": {
+            "en": "Public example saved unchanged from its normal source link. No redistribution license was verified. Attribution is provenance, not permission or an open license; the repository MIT license does not cover this file.",
+            "zh-CN": "从正常公开来源链接原样保存的示例。未核实转载许可证。来源署名仅记录出处，不等于授权或开放许可；仓库 MIT 协议不覆盖该文件。"
+          }
+        },
+        "sha256": "a3e2c8ba02a83e1a2c195afa9f4df6df241551170c43c455f8ef80eb9af0251b",
+        "bytes": 1893,
+        "mime_type": "image/svg+xml"
+      }
+    ],
+    "notes": {
+      "en": "A self-contained SVG with an abstract two-color mark and brand lettering. The original file was inspected for active content and rendered locally; no open license was verified.",
+      "zh-CN": "包含抽象双色图形及品牌字样的独立 SVG。已检查原始文件的主动内容并在本地渲染；未核实开放许可证。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article and individual model captions were readable in the normal public browser.",
+        "zh-CN": "正常公开浏览器可读取文章及逐项模型标签。"
+      },
+      "media_note": {
+        "en": "All media recorded in this case were saved normally and checked for real file format, size and SHA-256. Visual checks and limitations are in the per-file report.",
+        "zh-CN": "本案例记录的素材均经正常保存，并核对真实格式、大小与 SHA-256。视觉检查和限制详见逐文件报告。"
+      },
+      "report_path": "docs/LIGHTLYN_SVG_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-lightlyn-weather-icons-svg",
+    "status": "published",
+    "title": {
+      "en": "Six weather icons as SVG",
+      "zh-CN": "六枚天气 SVG 图标"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+      "author": "Linger / Lightlyn Images",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Linger’s 5 November 2026 article labels this specific output as GPT Image 2.6 Sunburst. This is creator-reported attribution, not independent model reproduction.",
+        "zh-CN": "Linger 于 2026 年 11 月 5 日发布的文章将该具体结果标注为 GPT Image 2.6 Sunburst。这是作者自报归因，不是独立复现模型。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en"
+    },
+    "media": [
+      {
+        "source_url": "https://image.lightlyn.com/examples/gpt-image-2-6/svg-icons.svg",
+        "path": "assets/examples/community-lightlyn-weather-icons-svg/svg-icons.svg",
+        "kind": "svg",
+        "role": "output",
+        "alt": {
+          "en": "Six line icons for sun, cloud, rain, snow, lightning and wind.",
+          "zh-CN": "太阳、云、雨、雪、闪电与风六枚线条图标。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "credit": "Linger / Lightlyn Images",
+          "note": {
+            "en": "Public example saved unchanged from its normal source link. No redistribution license was verified. Attribution is provenance, not permission or an open license; the repository MIT license does not cover this file.",
+            "zh-CN": "从正常公开来源链接原样保存的示例。未核实转载许可证。来源署名仅记录出处，不等于授权或开放许可；仓库 MIT 协议不覆盖该文件。"
+          }
+        },
+        "sha256": "ce5de1517abadb0f5f16c68cf734f1ead0dcbd1b0f9db22460f417bdbe55e957",
+        "bytes": 3971,
+        "mime_type": "image/svg+xml"
+      }
+    ],
+    "notes": {
+      "en": "The SVG arranges six dark-outline icons with blue accents in a two-row grid. It was rendered locally and has no external resource dependencies or embedded scripts.",
+      "zh-CN": "SVG 将六枚深色线条、蓝色点缀的图标排成两行。已本地渲染，未发现外部资源依赖或嵌入脚本。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article and individual model captions were readable in the normal public browser.",
+        "zh-CN": "正常公开浏览器可读取文章及逐项模型标签。"
+      },
+      "media_note": {
+        "en": "All media recorded in this case were saved normally and checked for real file format, size and SHA-256. Visual checks and limitations are in the per-file report.",
+        "zh-CN": "本案例记录的素材均经正常保存，并核对真实格式、大小与 SHA-256。视觉检查和限制详见逐文件报告。"
+      },
+      "report_path": "docs/LIGHTLYN_SVG_PROVENANCE_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-lightlyn-latte-vector-svg",
+    "status": "published",
+    "title": {
+      "en": "Turn a cafe photo into vector art",
+      "zh-CN": "将咖啡馆照片转换为矢量插画"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+      "author": "Linger / Lightlyn Images",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Linger’s 5 November 2026 article labels this specific output as GPT Image 2.6 Sunburst. This is creator-reported attribution, not independent model reproduction.",
+        "zh-CN": "Linger 于 2026 年 11 月 5 日发布的文章将该具体结果标注为 GPT Image 2.6 Sunburst。这是作者自报归因，不是独立复现模型。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en"
+    },
+    "media": [
+      {
+        "source_url": "https://image.lightlyn.com/examples/gpt-image-2-6/svg-photo.svg",
+        "path": "assets/examples/community-lightlyn-latte-vector-svg/svg-photo.svg",
+        "kind": "svg",
+        "role": "output",
+        "alt": {
+          "en": "Flat warm-toned vector scene with a latte, saucer, vase and window.",
+          "zh-CN": "暖色平面矢量场景，包含拿铁、碟子、花瓶与窗户。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "credit": "Linger / Lightlyn Images",
+          "note": {
+            "en": "Public example saved unchanged from its normal source link. No redistribution license was verified. Attribution is provenance, not permission or an open license; the repository MIT license does not cover this file.",
+            "zh-CN": "从正常公开来源链接原样保存的示例。未核实转载许可证。来源署名仅记录出处，不等于授权或开放许可；仓库 MIT 协议不覆盖该文件。"
+          }
+        },
+        "sha256": "3e4b1a324190ac33ea80f43629fd1b31e28ab9240509360fb170e74be402e7dd",
+        "bytes": 13193,
+        "mime_type": "image/svg+xml"
+      },
+      {
+        "source_url": "https://image.lightlyn.com/examples/gpt-image-2-6/1-photo-26-sunburst-960.webp",
+        "path": "assets/references/community-lightlyn-latte-vector-svg/latte-input-960.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Published input photo for the SVG: the Sunburst latte still, not a vector output.",
+          "zh-CN": "SVG 的公开输入照片：Sunburst 拿铁静态图，不是矢量结果。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "credit": "Linger / Lightlyn Images",
+          "note": {
+            "en": "Public example saved unchanged from its normal source link. No redistribution license was verified. Attribution is provenance, not permission or an open license; the repository MIT license does not cover this file.",
+            "zh-CN": "从正常公开来源链接原样保存的示例。未核实转载许可证。来源署名仅记录出处，不等于授权或开放许可；仓库 MIT 协议不覆盖该文件。"
+          }
+        },
+        "sha256": "efdb28babe3b988726bdcb1380f98888775ca6fcc484787cbfe6e28b13d74793",
+        "bytes": 45302,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "The page explicitly pairs the vector output with its source photograph, which is stored as a reference. The SVG preserves the broad arrangement while simplifying the scene.",
+      "zh-CN": "页面明确配对展示矢量结果及其原始照片，照片已另存为参考图。SVG 保留总体布局，并简化场景。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The article and individual model captions were readable in the normal public browser.",
+        "zh-CN": "正常公开浏览器可读取文章及逐项模型标签。"
+      },
+      "media_note": {
+        "en": "All media recorded in this case were saved normally and checked for real file format, size and SHA-256. Visual checks and limitations are in the per-file report.",
+        "zh-CN": "本案例记录的素材均经正常保存，并核对真实格式、大小与 SHA-256。视觉检查和限制详见逐文件报告。"
+      },
+      "report_path": "docs/LIGHTLYN_SVG_PROVENANCE_2026-11-06.md"
+    }
   }
 ]

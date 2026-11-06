@@ -49,7 +49,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [室内与建筑](#category-interiors-architecture) | 2 | 0 |
 | [角色与一致性](#category-characters-consistency) | 15 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 11 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 3 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 与动画](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **70** |
+| 来源案例 | **73** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **33** |
-| 来源公开原始提示词 | **48** |
+| 社区作者自报案例 | **36** |
+| 来源公开原始提示词 | **51** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **126** |
+| 本地收录素材文件 | **130** |
 | 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,10 +119,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- | --- |
 | 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [将咖啡馆照片转换为矢量插画](cases/community-lightlyn-latte-vector-svg/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [六枚天气 SVG 图标](cases/community-lightlyn-weather-icons-svg/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-05 | [Harbor Roast 矢量标志](cases/community-lightlyn-coffee-logo-svg/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-05 | [黎明时分的渔夫：Flare 与 Sunburst](cases/community-moss-fisherman-dawn/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [陶艺活动横幅布局：Flare 与 Sunburst](cases/community-moss-pottery-banner-layout/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Northfield Design Summit 议程：Flare 与 Sunburst](cases/community-moss-design-summit-agenda/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-05 | [Oaken Mile Coffee 标签：Flare 与 Sunburst](cases/community-moss-coffee-label/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -233,6 +233,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [面包店 SVG 标志](cases/docs-bakery-svg/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [农夫市场手机界面](cases/docs-market-ui/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Harbor Roast 矢量标志](cases/community-lightlyn-coffee-logo-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [六枚天气 SVG 图标](cases/community-lightlyn-weather-icons-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [将咖啡馆照片转换为矢量插画](cases/community-lightlyn-latte-vector-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-gif-animation"></a>
 

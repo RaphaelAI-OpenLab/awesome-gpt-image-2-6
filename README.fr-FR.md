@@ -53,7 +53,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Intérieurs et architecture](#category-interiors-architecture) | 2 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 15 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 11 | 0 |
-| [SVG et ressources graphiques](#category-svg-design-assets) | 3 | 0 |
+| [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
 | [GIF et animation](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **70** |
+| Cas avec liens vers les sources | **73** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **33** |
-| Prompts originaux disponibles à la source | **48** |
+| Exemples déclarés par leurs créateurs | **36** |
+| Prompts originaux disponibles à la source | **51** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **126** |
+| Fichiers multimédias archivés localement | **130** |
 | Dernière vérification des sources (UTC) | **2026-11-06** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -123,10 +123,10 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modèle déclaré par le créateur |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modèle déclaré par le créateur |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modèle déclaré par le créateur |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Documentation officielle | Prompt original à la source |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Documentation officielle | Prompt original à la source |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-gif-animation"></a>
 

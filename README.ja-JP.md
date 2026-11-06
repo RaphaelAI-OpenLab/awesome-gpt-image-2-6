@@ -53,7 +53,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [インテリア・建築](#category-interiors-architecture) | 2 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 15 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 11 | 0 |
-| [SVG・デザイン素材](#category-svg-design-assets) | 3 | 0 |
+| [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 13 | 0 |
 
 <a id="contents"></a>
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **70** |
+| 出典リンク付き事例 | **73** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **33** |
-| 出典で公開されている原文プロンプト | **48** |
+| 作者が報告した作例 | **36** |
+| 出典で公開されている原文プロンプト | **51** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **126** |
+| ローカルに保存済みのメディアファイル | **130** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -123,10 +123,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- | --- |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 作者申告のモデル |
+| 2026-11-05 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 作者申告のモデル |
 | 2026-11-05 | [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -237,6 +237,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-gif-animation"></a>
 
