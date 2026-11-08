@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 24 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 25 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 25 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 26 | 0 |
 | [Infografias](#category-infographics) | 12 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 7 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 26 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 18 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 29 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 19 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animação](#category-gif-animation) | 81 | 0 |
+| [GIF e animação](#category-gif-animation) | 87 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **201** |
+| Casos com ligação para a fonte | **213** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **164** |
-| Prompts originais disponíveis na fonte | **149** |
+| Exemplos comunicados pelos criadores | **176** |
+| Prompts originais disponíveis na fonte | **161** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **319** |
+| Ficheiros multimédia arquivados localmente | **335** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -162,6 +162,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -194,6 +195,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -260,6 +262,9 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -285,6 +290,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -388,6 +394,12 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 [Registo de pesquisas, relatório de conteúdos multimédia e pistas por resolver](docs/CASE_GALLERY.md)
 

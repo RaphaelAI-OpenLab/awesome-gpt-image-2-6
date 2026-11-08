@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 24 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 25 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 25 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 26 | 0 |
 | [Infografiche](#category-infographics) | 12 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 7 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 26 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 18 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 29 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 19 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animazione](#category-gif-animation) | 81 | 0 |
+| [GIF e animazione](#category-gif-animation) | 87 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **201** |
+| Casi con collegamenti alle fonti | **213** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **164** |
-| Prompt originali disponibili alla fonte | **149** |
+| Esempi dichiarati dai creatori | **176** |
+| Prompt originali disponibili alla fonte | **161** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **319** |
+| File multimediali archiviati localmente | **335** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -162,6 +162,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -194,6 +195,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -260,6 +262,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -285,6 +290,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -388,6 +394,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

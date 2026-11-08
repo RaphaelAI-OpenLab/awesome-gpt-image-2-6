@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 24 | 0 |
-| [Posters & typography](#category-posters-typography) | 25 | 0 |
+| [Brand & product visuals](#category-brand-products) | 25 | 0 |
+| [Posters & typography](#category-posters-typography) | 26 | 0 |
 | [Infographics](#category-infographics) | 12 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 7 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 26 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 18 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 29 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 19 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
-| [GIF & animation](#category-gif-animation) | 81 | 0 |
+| [GIF & animation](#category-gif-animation) | 87 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **201** |
+| Source-linked cases | **213** |
 | Official examples | **37** |
-| Creator-reported examples | **164** |
-| Original prompts available at source | **149** |
+| Creator-reported examples | **176** |
+| Original prompts available at source | **161** |
 | Full prompts published here | **0** |
-| Locally archived media files | **319** |
+| Locally archived media files | **335** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -158,6 +158,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Creator-reported model | Original prompt at source |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Creator-reported model | Original prompt at source |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -190,6 +191,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Creator-reported model | Original prompt at source |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Creator-reported model | Prompt not public |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -256,6 +258,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Creator-reported model | Prompt not public |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Creator-reported model | Original prompt at source |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Creator-reported model | Original prompt at source |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Creator-reported model | Original prompt at source |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -281,6 +286,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Creator-reported model | Prompt not public |
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Creator-reported model | Prompt not public |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Creator-reported model | Prompt not public |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -384,6 +390,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model | Original prompt at source |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model | Original prompt at source |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model | Original prompt at source |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Creator-reported model | Original prompt at source |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

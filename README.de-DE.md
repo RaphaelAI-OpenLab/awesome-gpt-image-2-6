@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 24 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 25 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 25 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 26 | 0 |
 | [Infografiken](#category-infographics) | 12 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 7 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 26 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 18 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 29 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 19 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 8 | 0 |
-| [GIF & Animation](#category-gif-animation) | 81 | 0 |
+| [GIF & Animation](#category-gif-animation) | 87 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **201** |
+| Beispiele mit Quellenverweisen | **213** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **164** |
-| An der Quelle verfügbare Original-Prompts | **149** |
+| Von Erstellern gemeldete Beispiele | **176** |
+| An der Quelle verfügbare Original-Prompts | **161** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **319** |
+| Lokal archivierte Mediendateien | **335** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -162,6 +162,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -194,6 +195,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -260,6 +262,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -285,6 +290,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -388,6 +394,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 
