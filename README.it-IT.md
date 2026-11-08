@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 35 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 36 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 64 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 40 | 0 |
 | [Infografiche](#category-infographics) | 16 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 10 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 37 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 35 | 0 |
-| [SVG e risorse grafiche](#category-svg-design-assets) | 11 | 0 |
-| [GIF e animazione](#category-gif-animation) | 115 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 52 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 36 | 0 |
+| [SVG e risorse grafiche](#category-svg-design-assets) | 12 | 0 |
+| [GIF e animazione](#category-gif-animation) | 116 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **295** |
+| Casi con collegamenti alle fonti | **346** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **258** |
-| Prompt originali disponibili alla fonte | **215** |
+| Esempi dichiarati dai creatori | **309** |
+| Prompt originali disponibili alla fonte | **216** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **455** |
+| File multimediali archiviati localmente | **507** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
-| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -173,6 +173,35 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-posters-typography"></a>
 
@@ -216,6 +245,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-infographics"></a>
 
@@ -300,6 +333,21 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-markup-edits"></a>
 
@@ -342,6 +390,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -360,6 +409,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-gif-animation"></a>
 
@@ -482,6 +532,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 35 | 0 |
-| [海报与文字排版](#category-posters-typography) | 36 | 0 |
+| [品牌与商品](#category-brand-products) | 64 | 0 |
+| [海报与文字排版](#category-posters-typography) | 40 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 10 | 0 |
-| [角色与一致性](#category-characters-consistency) | 37 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 35 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 11 | 0 |
-| [GIF 与动画](#category-gif-animation) | 115 | 0 |
+| [角色与一致性](#category-characters-consistency) | 52 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 36 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 12 | 0 |
+| [GIF 与动画](#category-gif-animation) | 116 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **295** |
+| 来源案例 | **346** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **258** |
-| 来源公开原始提示词 | **215** |
+| 社区作者自报案例 | **309** |
+| 来源公开原始提示词 | **216** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **455** |
+| 本地收录素材文件 | **507** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-06 | [五视图概念车海报拼贴](cases/302-flying-car-collage/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [半色调猫咪喵叫动画对照](cases/302-halftone-meow-loop/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [方块世界对比封面改版](cases/302-block-world-cover/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [雪地群狼黑白墨线插画](cases/302-ink-wolves-snow/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [VHS 风格夜间山路赛车](cases/302-vhs-drift-race/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [照片转三维黏土角色](cases/yepshot-creative-3d-clay/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [照片转水彩插画](cases/yepshot-creative-watercolor-illustration/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [宠物转收藏手办](cases/yepshot-creative-collectible-figure/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [提亮曝光不足照片](cases/yepshot-restore-low-light-fix/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,35 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [洞石台上的鼠尾草绿音箱](cases/gptimagehub-sage-speaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [LUMIÈRE 珠宝人像：车窗构图](cases/302-lumiere-jewelry-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [VHS 风格夜间山路赛车](cases/302-vhs-drift-race/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [纯白电商产品照](cases/yepshot-studio-pure-white-amazon/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [黑色亚克力镜面倒影](cases/yepshot-studio-acrylic-reflection/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [悬浮产品主图](cases/yepshot-studio-floating-ambient-shadow/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [浅灰背景俯拍平铺](cases/yepshot-studio-overhead-flat-lay/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [四分之三角度目录照](cases/yepshot-studio-three-quarter-angle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [材质细节特写](cases/yepshot-studio-material-detail-closeup/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [并排配色预览](cases/yepshot-studio-colorway-lineup/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [晨光中的洞石展台](cases/yepshot-lifestyle-travertine-stone/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [带水滴的大理石盥洗台](cases/yepshot-lifestyle-marble-bathroom-dew/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [橡木桌与厨房道具](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [科技风混凝土展台](cases/yepshot-lifestyle-industrial-concrete-podium/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [明亮现代客厅](cases/yepshot-lifestyle-bright-living-room/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [阳光野餐毯](cases/yepshot-lifestyle-outdoor-picnic/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [霓虹游戏桌](cases/yepshot-lifestyle-neon-gaming-desk/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [去除亮面眩光](cases/yepshot-cleanup-remove-glare-reflections/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [移除条码与价格贴纸](cases/yepshot-cleanup-erase-barcode-watermark/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [清理灰尘与指纹](cases/yepshot-cleanup-dust-fingerprints/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [将产品放入场景](cases/yepshot-compose-product-into-scene/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [两件产品组合照](cases/yepshot-compose-bundle-group-shot/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [匹配现有目录风格](cases/yepshot-compose-match-catalog-style/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [抚平面料褶皱](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [圣诞松枝与暖色散景](cases/yepshot-seasonal-christmas-pine-bokeh/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [夏日泳池与焦散](cases/yepshot-seasonal-summer-pool-water-ripples/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [黑色星期五黑金展台](cases/yepshot-seasonal-black-friday-gold-geometry/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [农历新年红金配色](cases/yepshot-seasonal-lunar-new-year/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [宠物转收藏手办](cases/yepshot-creative-collectible-figure/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [照片转水彩插画](cases/yepshot-creative-watercolor-illustration/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-posters-typography"></a>
 
@@ -212,6 +241,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [AMALFI 旅行海报](cases/gptimagehub-amalfi-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [方块世界对比封面改版](cases/302-block-world-cover/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [五视图概念车海报拼贴](cases/302-flying-car-collage/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [修改产品标签名称](cases/yepshot-text-label-name-swap/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [包装文字翻译](cases/yepshot-text-translate-packaging/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [产品照转促销海报](cases/yepshot-campaign-sale-poster-text/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [更新促销折扣](cases/yepshot-text-promo-discount-update/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-infographics"></a>
 
@@ -296,6 +329,21 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [蓝色摄影棚里的橙色 Y2K 时装](cases/302-y2k-orange-fashion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雪地群狼黑白墨线插画](cases/302-ink-wolves-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [空心人台服装转街拍模特](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [虚拟试衣](cases/yepshot-compose-virtual-try-on/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [面料升级为丝绸](cases/yepshot-apparel-silk-texture-upgrade/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [服装改色](cases/yepshot-fashion-garment-recolor/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [模特照纯净影棚背景](cases/yepshot-fashion-model-studio-backdrop/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [头发改为铂金色](cases/yepshot-portrait-platinum-blonde-hair/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [自然皮肤修饰](cases/yepshot-portrait-skin-texture-refinement/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [休闲照转商务头像](cases/yepshot-portrait-business-headshot/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [白底证件照风格](cases/yepshot-portrait-id-photo/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [移除背景路人](cases/yepshot-portrait-remove-photobomber/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [修复褪色老照片](cases/yepshot-restore-vintage-photo-reconstruction/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [黑白照片上色](cases/yepshot-restore-colorize-bw/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [修复模糊与噪点](cases/yepshot-restore-deblur-sharpen/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [提亮曝光不足照片](cases/yepshot-restore-low-light-fix/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [照片转三维黏土角色](cases/yepshot-creative-3d-clay/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-markup-edits"></a>
 
@@ -338,6 +386,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [拉面店从雨夜到雪夜的参考图编辑](cases/gptimagehub-ramen-rain-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [MOONLEAF 茶罐：茉莉到玫瑰的标签编辑](cases/gptimagehub-moonleaf-tea-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Flare STUDIO NIGHTS 标题编辑](cases/aivideos-flare-headline-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -356,6 +405,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [紫色狐狸与新闻面板 SVG](cases/ai-garage-fox-news-vector/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Ember & Rye 标志：SVG 工作流的栅格预览](cases/overchat-ember-rye-logo/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [咖啡杯 SVG 图标](cases/apixo-coffee-cup-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [场记板播放按钮 SVG](cases/aivideos-clapperboard-svg/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-gif-animation"></a>
 
@@ -478,6 +528,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [热气拉面：参考图转动画流程](cases/framemux-ramen-steam/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [狐狸挥爪问候动图流程](cases/apixo-fox-wave-workflow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [半色调猫咪喵叫动画对照](cases/302-halftone-meow-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [霓虹胶片盘 GIF 对比](cases/aivideos-neon-reel-gif-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

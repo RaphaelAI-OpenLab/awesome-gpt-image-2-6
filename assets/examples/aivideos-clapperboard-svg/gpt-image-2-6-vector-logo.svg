@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+  <title>Clapperboard play button logo</title>
+  <rect width="1024" height="1024" fill="#ffffff" />
+  <g id="clapperboard">
+    <path id="red-backing" fill="#ff1822" d="M93 366C86 381 83 398 83 419L84 768C84 842 140 902 212 902H790C850 902 904 869 929 820L927 411Z" />
+    <path id="board" fill="#232328" d="M145 403L414 354H888C922 354 942 373 942 405V772C942 823 903 862 849 862H243C183 862 145 823 145 766Z" />
+    <g id="board-stripes" fill="#ffffff">
+      <path d="M403 373H506L433 475H327Z" />
+      <path d="M622 373H725L651 475H545Z" />
+      <path d="M826 373H918L851 475H755Z" />
+    </g>
+    <path id="raised-clapper" fill="#232328" d="M111 369C77 341 88 294 128 274C148 264 194 250 235 235L823 57C864 43 900 65 916 104L932 149C943 182 930 207 905 216C688 287 474 328 250 371Z" />
+    <g id="clapper-stripes" fill="#ffffff">
+      <path d="M326 227L427 196L517 304L417 333Z" />
+      <path d="M522 167L623 136L717 252L616 279Z" />
+      <path d="M717 105L804 79L900 199L815 225Z" />
+    </g>
+    <g id="hinge">
+      <circle cx="181" cy="378" r="72" fill="#ffffff" />
+      <circle cx="181" cy="380" r="53" fill="#232328" />
+      <circle cx="182" cy="382" r="19" fill="#ffffff" />
+    </g>
+    <path id="play-button" fill="#ff1822" d="M450 521L671 634C699 648 700 675 672 691L451 800C422 815 396 801 396 772L395 552C395 522 421 508 450 521Z" />
+  </g>
+</svg>
