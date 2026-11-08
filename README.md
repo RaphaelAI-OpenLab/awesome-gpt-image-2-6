@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 21 | 0 |
-| [Posters & typography](#category-posters-typography) | 23 | 0 |
+| [Brand & product visuals](#category-brand-products) | 22 | 0 |
+| [Posters & typography](#category-posters-typography) | 26 | 0 |
 | [Infographics](#category-infographics) | 11 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 27 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 16 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 17 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 41 | 0 |
+| [GIF & animation](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **150** |
+| Source-linked cases | **158** |
 | Official examples | **37** |
-| Creator-reported examples | **113** |
-| Original prompts available at source | **110** |
+| Creator-reported examples | **121** |
+| Original prompts available at source | **113** |
 | Full prompts published here | **0** |
-| Locally archived media files | **240** |
+| Locally archived media files | **251** |
 | Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -155,6 +155,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Creator-reported model | Original prompt at source |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-posters-typography"></a>
 
@@ -185,6 +186,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Creator-reported model | Original prompt at source |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Creator-reported model | Original prompt at source |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Creator-reported model | Prompt not public |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Creator-reported model | Prompt not public |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -272,6 +276,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Creator-reported model | Original prompt at source |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Creator-reported model | Original prompt at source |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Creator-reported model | Original prompt at source |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -333,6 +338,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Creator-reported model | Original prompt at source |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Creator-reported model | Prompt not public |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

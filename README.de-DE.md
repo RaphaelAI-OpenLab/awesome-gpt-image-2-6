@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 21 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 23 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 22 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 26 | 0 |
 | [Infografiken](#category-infographics) | 11 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 27 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 16 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 17 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 41 | 0 |
+| [GIF & Animation](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **150** |
+| Beispiele mit Quellenverweisen | **158** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **113** |
-| An der Quelle verfügbare Original-Prompts | **110** |
+| Von Erstellern gemeldete Beispiele | **121** |
+| An der Quelle verfügbare Original-Prompts | **113** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **240** |
+| Lokal archivierte Mediendateien | **251** |
 | Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -159,6 +159,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +190,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -276,6 +280,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-svg-design-assets"></a>
 
@@ -337,6 +342,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

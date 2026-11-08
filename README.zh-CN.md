@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 21 | 0 |
-| [海报与文字排版](#category-posters-typography) | 23 | 0 |
+| [品牌与商品](#category-brand-products) | 22 | 0 |
+| [海报与文字排版](#category-posters-typography) | 26 | 0 |
 | [信息图](#category-infographics) | 11 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 5 | 0 |
 | [角色与一致性](#category-characters-consistency) | 27 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 16 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 17 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 41 | 0 |
+| [GIF 与动画](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **150** |
+| 来源案例 | **158** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **113** |
-| 来源公开原始提示词 | **110** |
+| 社区作者自报案例 | **121** |
+| 来源公开原始提示词 | **113** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **240** |
+| 本地收录素材文件 | **251** |
 | 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -155,6 +155,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [腕表四轮编辑](cases/yir-watch-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [彩虹茶杯与猫](cases/community-flixly-rainbow-teacups/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [鼠尾草绿到陶土橙瓶子编辑](cases/omniakey-bottle-color-edit/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-posters-typography"></a>
 
@@ -185,6 +186,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [NIGHT TIDE 海浪演出海报](cases/zzo-flare-night-tide-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [OPEN LATE 霓虹店面招牌](cases/kavel-open-late/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [柠檬蛋糕食谱卡](cases/community-flixly-lemon-recipe/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [FIELD & FLOUR 烘焙海报](cases/sogni-flare-bakery-poster/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [NORTHLIGHT TEA 海报版式对比](cases/sandbase-northlight-tea-posters/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Port Calder 海报复杂度对比](cases/omniakey-port-calder-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -272,6 +276,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [标注引导的森林绿扶手椅编辑](cases/analyticsvidhya-markup-green-armchair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [森林溪石上的 LUMA 02 滴管瓶](cases/zzo-flare-luma-forest-stone/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [宅邸晴天改造](cases/community-flixly-sunny-mansion-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [NORTHLIGHT TEA 颜色及日期编辑](cases/sandbase-northlight-tea-edits/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -333,6 +338,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [节日金毛犬摇尾循环](cases/veevid-dog-tail-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [墨线机器人草图挥手](cases/veevid-robot-sketch-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [香水瓶光线扫过循环](cases/veevid-perfume-light-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Sunburst 提灯猴循环](cases/sogni-sunburst-lantern-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Flare 提灯猴循环](cases/sogni-flare-lantern-loop/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [剪纸狐狸挥手循环](cases/omniakey-paper-fox-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

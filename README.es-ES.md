@@ -47,14 +47,14 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 21 | 0 |
-| [Carteles y tipografía](#category-posters-typography) | 23 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 22 | 0 |
+| [Carteles y tipografía](#category-posters-typography) | 26 | 0 |
 | [Infografías](#category-infographics) | 11 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 5 | 0 |
 | [Personajes y coherencia](#category-characters-consistency) | 27 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 16 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 17 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 6 | 0 |
-| [GIF y animación](#category-gif-animation) | 41 | 0 |
+| [GIF y animación](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **150** |
+| Casos con enlace a la fuente | **158** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **113** |
-| Prompts originales disponibles en la fuente | **110** |
+| Ejemplos según sus creadores | **121** |
+| Prompts originales disponibles en la fuente | **113** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **240** |
+| Archivos multimedia archivados localmente | **251** |
 | Última comprobación de fuentes (UTC) | **2026-11-08** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -159,6 +159,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +190,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modelo indicado por el creador | Prompt no público |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-infographics"></a>
 
@@ -276,6 +280,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-svg-design-assets"></a>
 
@@ -337,6 +342,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 

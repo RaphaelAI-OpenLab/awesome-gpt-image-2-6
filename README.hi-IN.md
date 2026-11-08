@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 21 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 23 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 22 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 26 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 11 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 5 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 27 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 16 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 17 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 41 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **150** |
+| स्रोत से जुड़े उदाहरण | **158** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **113** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **110** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **121** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **113** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **240** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **251** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-08** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -159,6 +159,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +190,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -276,6 +280,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-svg-design-assets"></a>
 
@@ -337,6 +342,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

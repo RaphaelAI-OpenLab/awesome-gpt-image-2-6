@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 21 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 23 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 22 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 26 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 11 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 5 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 27 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 16 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 17 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 41 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **150** |
+| Trường hợp có liên kết nguồn | **158** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **113** |
-| Câu lệnh gốc có sẵn tại nguồn | **110** |
+| Ví dụ do tác giả báo cáo | **121** |
+| Câu lệnh gốc có sẵn tại nguồn | **113** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **240** |
+| Tệp tư liệu được lưu trữ cục bộ | **251** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -159,6 +159,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +190,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -276,6 +280,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-svg-design-assets"></a>
 
@@ -337,6 +342,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 21 | 0 |
-| [海報與文字排版](#category-posters-typography) | 23 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 22 | 0 |
+| [海報與文字排版](#category-posters-typography) | 26 | 0 |
 | [資訊圖表](#category-infographics) | 11 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 5 | 0 |
 | [角色與一致性](#category-characters-consistency) | 27 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 16 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 17 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 41 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 44 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **150** |
+| 附來源連結的案例 | **158** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **113** |
-| 可於來源取得的原始提示詞 | **110** |
+| 創作者自述範例 | **121** |
+| 可於來源取得的原始提示詞 | **113** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **240** |
+| 已於本機封存的媒體檔案 | **251** |
 | 最近來源檢查時間（UTC） | **2026-11-08** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -159,6 +159,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +190,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -276,6 +280,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -337,6 +342,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 
