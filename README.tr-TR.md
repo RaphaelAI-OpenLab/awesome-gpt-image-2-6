@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 64 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 40 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 65 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 41 | 0 |
 | [İnfografikler](#category-infographics) | 16 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 10 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 11 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 55 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 36 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 12 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 116 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **349** |
+| Kaynak bağlantılı örnekler | **359** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **312** |
-| Kaynakta bulunan özgün istemler | **216** |
+| Üreticilerinin bildirdiği örnekler | **322** |
+| Kaynakta bulunan özgün istemler | **226** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **511** |
+| Yerel olarak arşivlenmiş medya dosyaları | **526** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -202,6 +202,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -249,6 +250,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -289,6 +291,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-characters-consistency"></a>
 
@@ -536,6 +539,13 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

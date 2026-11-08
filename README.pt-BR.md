@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 64 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 40 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 65 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 41 | 0 |
 | [Infográficos](#category-infographics) | 16 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 10 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 11 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 55 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 36 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 12 | 0 |
-| [GIF e animação](#category-gif-animation) | 116 | 0 |
+| [GIF e animação](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **349** |
+| Casos com link para a fonte | **359** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **312** |
-| Prompts originais disponíveis na fonte | **216** |
+| Exemplos relatados pelos criadores | **322** |
+| Prompts originais disponíveis na fonte | **226** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **511** |
+| Arquivos de mídia arquivados localmente | **526** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modelo informado pelo criador |
+| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modelo informado pelo criador |
+| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo informado pelo criador |
+| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -202,6 +202,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -249,6 +250,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -289,6 +291,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modelo informado pelo criador | Prompt não público |
+| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -536,6 +539,13 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 64 | 0 |
-| [海报与文字排版](#category-posters-typography) | 40 | 0 |
+| [品牌与商品](#category-brand-products) | 65 | 0 |
+| [海报与文字排版](#category-posters-typography) | 41 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 10 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 11 | 0 |
 | [角色与一致性](#category-characters-consistency) | 55 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 36 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 12 | 0 |
-| [GIF 与动画](#category-gif-animation) | 116 | 0 |
+| [GIF 与动画](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **349** |
+| 来源案例 | **359** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **312** |
-| 来源公开原始提示词 | **216** |
+| 社区作者自报案例 | **322** |
+| 来源公开原始提示词 | **226** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **511** |
+| 本地收录素材文件 | **526** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly：六项 GIF 生成与编辑测试](cases/flixly-six-gif-tests/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [CubistAI 剪纸风森林小屋](cases/community-cubistai-paper-cut-cabin/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [照片转三维黏土角色](cases/yepshot-creative-3d-clay/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [照片转水彩插画](cases/yepshot-creative-watercolor-illustration/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [宠物转收藏手办](cases/yepshot-creative-collectible-figure/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [提亮曝光不足照片](cases/yepshot-restore-low-light-fix/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -198,6 +198,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [照片转水彩插画](cases/yepshot-creative-watercolor-illustration/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -245,6 +246,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [包装文字翻译](cases/yepshot-text-translate-packaging/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [产品照转促销海报](cases/yepshot-campaign-sale-poster-text/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [更新促销折扣](cases/yepshot-text-promo-discount-update/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -285,6 +287,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [尘埃仓库提示细节对比](cases/community-sunburst-dust-detail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雨窗阅读角](cases/chatimage2-rainy-reading-nook/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [瀑布与徒步者合成风景](cases/zhidx-waterfall-landscape/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [CubistAI 剪纸风森林小屋](cases/community-cubistai-paper-cut-cabin/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-characters-consistency"></a>
 
@@ -532,6 +535,13 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [狐狸挥爪问候动图流程](cases/apixo-fox-wave-workflow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [半色调猫咪喵叫动画对照](cases/302-halftone-meow-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [霓虹胶片盘 GIF 对比](cases/aivideos-neon-reel-gif-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Q 版问候贴纸挥手](cases/opusly-hi-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [TGIF 礼帽橘猫舞蹈](cases/opusly-cat-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [派对帽柯基舞蹈](cases/opusly-corgi-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [动漫头像眨眼循环](cases/opusly-anime-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [红披风骑士步行循环](cases/opusly-knight-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雨窗咖啡蒸汽循环](cases/opusly-coffee-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Flixly：六项 GIF 生成与编辑测试](cases/flixly-six-gif-tests/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

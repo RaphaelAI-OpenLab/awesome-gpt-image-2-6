@@ -47,14 +47,14 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 64 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 40 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 65 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 41 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 16 | 0 |
-| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 10 | 0 |
+| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 11 | 0 |
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 55 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 36 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 12 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 116 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **349** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **359** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **312** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **216** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **322** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **226** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **511** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **526** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -121,12 +121,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | วันที่เพิ่ม | กรณีตัวอย่าง | หลักฐาน |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -202,6 +202,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-posters-typography"></a>
 
@@ -249,6 +250,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-infographics"></a>
 
@@ -289,6 +291,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-characters-consistency"></a>
 
@@ -536,6 +539,13 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

@@ -28433,5 +28433,846 @@
       },
       "report_path": "docs/AIVIDEOS_YEPSHOT_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "opusly-hi-loop",
+    "status": "published",
+    "title": {
+      "en": "Chibi greeting sticker wave",
+      "zh-CN": "Q 版问候贴纸挥手"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-hi.gif",
+        "path": "assets/examples/opusly-hi-loop/gpt-image-2-6-hi.gif",
+        "sha256": "1e50765e5699c0c06c858fdd6fa7c33f3b0b4fe8724db1b22233d846b35e5ee3",
+        "bytes": 345601,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Chibi greeting character waves below Hi text.",
+          "zh-CN": "Q版问候角色在Hi文字下挥手。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run. The source photo used by the photo-conditioned prompt is not supplied; do not infer an identity.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。该提示词所用参考照片未提供，不推断人物身份。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "opusly-cat-loop",
+    "status": "published",
+    "title": {
+      "en": "TGIF top-hat cat dance",
+      "zh-CN": "TGIF 礼帽橘猫舞蹈"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-cat.gif",
+        "path": "assets/examples/opusly-cat-loop/gpt-image-2-6-cat.gif",
+        "sha256": "c554b0879b1b3f525143ace37661f6afc56d06f9c25f0cbc8d49f55309802402",
+        "bytes": 513808,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Top-hat orange cat dances below TGIF text.",
+          "zh-CN": "戴礼帽的橙猫在TGIF文字下跳舞。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "opusly-corgi-loop",
+    "status": "published",
+    "title": {
+      "en": "Party-hat corgi dance",
+      "zh-CN": "派对帽柯基舞蹈"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-corgi.gif",
+        "path": "assets/examples/opusly-corgi-loop/gpt-image-2-6-corgi.gif",
+        "sha256": "06edeeebe874180f131a8313fbfef5e8d55d7b498cb04f8d81a5ca8a032588b1",
+        "bytes": 417602,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Party-hat corgi hops and wags its tail.",
+          "zh-CN": "戴派对帽的柯基跳动并摇尾。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "opusly-anime-loop",
+    "status": "published",
+    "title": {
+      "en": "Anime portrait blink loop",
+      "zh-CN": "动漫头像眨眼循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-anime.gif",
+        "path": "assets/examples/opusly-anime-loop/gpt-image-2-6-anime.gif",
+        "sha256": "75e164bce4effa100696e3947e3ecf242493d6379ad68f650d11afa2a513f469",
+        "bytes": 1119095,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Anime portrait blinks as hair and ribbon sway.",
+          "zh-CN": "动漫人像眨眼，头发与丝带摇动。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "opusly-knight-loop",
+    "status": "published",
+    "title": {
+      "en": "Red-cape knight walk cycle",
+      "zh-CN": "红披风骑士步行循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-knight.gif",
+        "path": "assets/examples/opusly-knight-loop/gpt-image-2-6-knight.gif",
+        "sha256": "adf4866fdcbdc6e9d355b99b4023daad4e0ede09ac1211e91274455dcf4e3829",
+        "bytes": 384517,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Armored cartoon knight walks in place on transparency.",
+          "zh-CN": "穿盔甲的卡通骑士在透明背景原地行走。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "opusly-coffee-loop",
+    "status": "published",
+    "title": {
+      "en": "Rainy-window coffee steam loop",
+      "zh-CN": "雨窗咖啡蒸汽循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.opusly.ai/gpt-image-2-6",
+      "author": "Opusly / Lunonia Inc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The known page explicitly describes every displayed GIF as a real result of its adjacent prompt generated on this maker. It states the maker runs GPT Image 2.6 Flare, medium quality, and describes six test calls. The original GIF URL and historical file hash match. This is publisher attribution, not independent backend verification.",
+        "zh-CN": "已知原页明确称每份展示GIF均是该工具按紧邻提示词生成的实际结果，并说明工具使用GPT Image 2.6 Flare、medium质量，记录六次测试。原GIF地址及历史文件哈希一致。此为发布方归因，并非独立验证后端调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.opusly.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.opusly.ai/sample/gpt-image-2-6-coffee.gif",
+        "path": "assets/examples/opusly-coffee-loop/gpt-image-2-6-coffee.gif",
+        "sha256": "9b7e7e8e8609760efecb05ede39347ce98065b249340cc5188b3d2a22fb155a4",
+        "bytes": 839925,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Illustrated coffee steam rises beside a rainy window.",
+          "zh-CN": "雨窗旁插画咖啡杯冒出蒸汽。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.opusly.ai/gpt-image-2-6",
+          "credit": "Opusly / Lunonia Inc",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One publisher-generated GIF per existing case. The original adjacent prompt is linked, not reproduced. All eight frames are retained, not counted separately. Public X posts are credited by the site as ideas; these records attribute the actual served GIFs to Opusly and do not assume they are those users’ original files. No generation or timing benchmark was independently run.",
+      "zh-CN": "每个既有案例对应一份发布方生成GIF，原始紧邻提示词仅链接，不转载。保留全部8帧，不按帧拆分计数。网站将公开X帖文列为创意来源；本记录把实际提供的GIF归于Opusly，不假定它们就是这些用户的原文件。未独立生成或进行耗时基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-cubistai-espresso-cup",
+    "status": "published",
+    "title": {
+      "en": "CubistAI espresso-cup still life",
+      "zh-CN": "CubistAI 浓缩咖啡杯静物"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+      "author": "CubistAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current known model page labels this exact named example and its image element GPT Image 2.6, with the associated prompt alongside. It does not establish Flare versus Sunburst for the individual example. Publisher attribution, not independent reproduction.",
+        "zh-CN": "当前已知模型页将本具体示例及其图片元素标为GPT Image 2.6，并在旁边公开关联提示词。未明确此具体示例属于Flare还是Sunburst；归因来自发布方，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cubistai.app/_next/image?url=%2Fshowcase%2Fgpt-image-2-6%2Fproduct.webp&w=3840&q=75&dpl=dpl_Bh2UAbKrAbHWscpNJiT3uJeUCWFp",
+        "path": "assets/examples/community-cubistai-espresso-cup/source-01.jpg",
+        "sha256": "63d25d7b8d9d4bc2e9380ec948d29d1684b53385934e7be09e68476ff765555b",
+        "bytes": 37111,
+        "mime_type": "image/jpeg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pale-green ceramic espresso cup on travertine in sunlight.",
+          "zh-CN": "阳光下洞石上的浅绿陶瓷浓缩咖啡杯。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+          "credit": "CubistAI",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The exact publisher-served image URL from the current page is archived unchanged. The underlying asset name ends in WebP, but the served preview is actually JPEG and is saved with a JPEG extension. The cup/cabin files decode as 1024×768 and the poster as 768×1024. This is an existing historical candidate whose missing evidence was rechecked, not a newly searched case.",
+      "zh-CN": "原样存档当前页面准确图片地址提供的文件。底层素材名以WebP结尾，但实际提供的预览为JPEG，故按JPEG扩展名保存。咖啡杯与小屋为1024×768，海报为768×1024。这是既有历史候选的补证，不是新搜索案例。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-cubistai-botanical-poster",
+    "status": "published",
+    "title": {
+      "en": "CubistAI Botanical Forms poster",
+      "zh-CN": "CubistAI 植物形态海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+      "author": "CubistAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current known model page labels this exact named example and its image element GPT Image 2.6, with the associated prompt alongside. It does not establish Flare versus Sunburst for the individual example. Publisher attribution, not independent reproduction.",
+        "zh-CN": "当前已知模型页将本具体示例及其图片元素标为GPT Image 2.6，并在旁边公开关联提示词。未明确此具体示例属于Flare还是Sunburst；归因来自发布方，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cubistai.app/_next/image?url=%2Fshowcase%2Fgpt-image-2-6%2Fposter.webp&w=3840&q=75&dpl=dpl_Bh2UAbKrAbHWscpNJiT3uJeUCWFp",
+        "path": "assets/examples/community-cubistai-botanical-poster/source-01.jpg",
+        "sha256": "07b73ea6a771a0f65ed464140b67e17c00038c97a8760d20d4c3d95ac4112ec4",
+        "bytes": 38829,
+        "mime_type": "image/jpeg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Green botanical exhibition poster with ivory heading.",
+          "zh-CN": "带象牙白标题的绿色植物展海报。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+          "credit": "CubistAI",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The exact publisher-served image URL from the current page is archived unchanged. The underlying asset name ends in WebP, but the served preview is actually JPEG and is saved with a JPEG extension. The cup/cabin files decode as 1024×768 and the poster as 768×1024. This is an existing historical candidate whose missing evidence was rechecked, not a newly searched case.",
+      "zh-CN": "原样存档当前页面准确图片地址提供的文件。底层素材名以WebP结尾，但实际提供的预览为JPEG，故按JPEG扩展名保存。咖啡杯与小屋为1024×768，海报为768×1024。这是既有历史候选的补证，不是新搜索案例。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-cubistai-paper-cut-cabin",
+    "status": "published",
+    "title": {
+      "en": "CubistAI paper-cut forest cabin",
+      "zh-CN": "CubistAI 剪纸风森林小屋"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+      "author": "CubistAI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current known model page labels this exact named example and its image element GPT Image 2.6, with the associated prompt alongside. It does not establish Flare versus Sunburst for the individual example. Publisher attribution, not independent reproduction.",
+        "zh-CN": "当前已知模型页将本具体示例及其图片元素标为GPT Image 2.6，并在旁边公开关联提示词。未明确此具体示例属于Flare还是Sunburst；归因来自发布方，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cubistai.app/_next/image?url=%2Fshowcase%2Fgpt-image-2-6%2Fillustration.webp&w=3840&q=75&dpl=dpl_Bh2UAbKrAbHWscpNJiT3uJeUCWFp",
+        "path": "assets/examples/community-cubistai-paper-cut-cabin/source-01.jpg",
+        "sha256": "66be9c014eda6ec0202c77b8af9615357cbd2d41731e1f329ef8f374fd5f0ad2",
+        "bytes": 133343,
+        "mime_type": "image/jpeg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Layered paper-cut cabin and winding river in green tones.",
+          "zh-CN": "绿色调多层剪纸小屋与蜿蜒河流。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+          "credit": "CubistAI",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The exact publisher-served image URL from the current page is archived unchanged. The underlying asset name ends in WebP, but the served preview is actually JPEG and is saved with a JPEG extension. The cup/cabin files decode as 1024×768 and the poster as 768×1024. This is an existing historical candidate whose missing evidence was rechecked, not a newly searched case.",
+      "zh-CN": "原样存档当前页面准确图片地址提供的文件。底层素材名以WebP结尾，但实际提供的预览为JPEG，故按JPEG扩展名保存。咖啡杯与小屋为1024×768，海报为768×1024。这是既有历史候选的补证，不是新搜索案例。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "flixly-six-gif-tests",
+    "status": "published",
+    "title": {
+      "en": "Flixly: six GIF generation and editing tests",
+      "zh-CN": "Flixly：六项 GIF 生成与编辑测试"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original article describes six GIF tests made on Flixly and labels each exact output by model. Fox, coffee, sticker and Mira are labelled Sunburst (Mira: Sunburst Edit); neon and snow are labelled Flare. Settings, first-result and unchanged-output statements are publisher claims, not independently reproduced API observations.",
+        "zh-CN": "原文说明六份GIF是在Flixly所做的测试，并为每份准确输出标注模型。狐狸、咖啡、贴纸及Mira归为Sunburst（Mira注明Sunburst Edit），霓虹与雪景归为Flare。参数、首次结果及未编辑陈述均属发布方自述，不是独立观察到的API调用。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/fox.gif",
+        "path": "assets/examples/flixly-six-gif-tests/fox.gif",
+        "sha256": "263246d3d154dc16940d16170ee32260417c00fdd3d8797816af40cbb8a0e4c9",
+        "bytes": 2257786,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst fox hops across a forest log.",
+          "zh-CN": "Sunburst小狐狸跳过森林木头。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/coffee.gif",
+        "path": "assets/examples/flixly-six-gif-tests/coffee.gif",
+        "sha256": "2195f16678e2659bb4b9fc58560cbcf88b0836bf71b56bf5f295d28dc5b63814",
+        "bytes": 1279995,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst MORNING RITUAL coffee cup with moving steam.",
+          "zh-CN": "Sunburst MORNING RITUAL咖啡杯与流动蒸汽。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/neon.gif",
+        "path": "assets/examples/flixly-six-gif-tests/neon.gif",
+        "sha256": "48ab1327a91971200c5414813b736d5f09385178881c2fd1cb29d76dd5db555f",
+        "bytes": 1359447,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Flare OPEN LATE neon sign dims and lights again.",
+          "zh-CN": "Flare OPEN LATE霓虹灯暗下后重亮。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/sticker.gif",
+        "path": "assets/examples/flixly-six-gif-tests/sticker.gif",
+        "sha256": "9343665e4ab11c043bb11807a35b90aa8ad5734030b29fa7ec566dc796aeb18f",
+        "bytes": 487199,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst yellow cat winks with a thumbs-up gesture.",
+          "zh-CN": "Sunburst黄色小猫眨眼并竖拇指。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/snow.gif",
+        "path": "assets/examples/flixly-six-gif-tests/snow.gif",
+        "sha256": "83ebe649ff3505b2d9ba52ad950950ace4584b3d682b6bc016a8a0be315156d9",
+        "bytes": 1060097,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Flare cabin candle flickers while snow falls outside.",
+          "zh-CN": "Flare小屋蜡烛摇动，窗外落雪。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-2-6-gif/mira.gif",
+        "path": "assets/examples/flixly-six-gif-tests/mira.gif",
+        "sha256": "df8f3d02e7a33c703176fc101679dae42767ef701f365df3148e86e68473dd61",
+        "bytes": 1370889,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst-attributed Mira portrait smiles, blinks and waves.",
+          "zh-CN": "发布方归于Sunburst的Mira人像微笑、眨眼并挥手。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-gif-maker",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Unchanged publisher-served bytes. No explicit redistribution licence verified. Public access and attribution do not establish permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始字节。未验证明确转载许可，公开访问及署名不等于授权；仓库MIT不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The existing six-test collection remains one case, preserving its historical ID instead of adding six newly counted cases. Six original GIFs and source-linked prompts are included. The article attributes Mira to editing an earlier portrait; the exact input file is not established here and is not guessed or duplicated from another comparison. Provider editing/capability claims are not independently verified. All frames are retained, including output imperfections; no browser playback or generation was run.",
+      "zh-CN": "既有六项测试合集仍计为一条，保留历史ID，不扩成六条新增案例。包含六份原始GIF并链接原提示词。文章称Mira由此前人像编辑而来，但本次未确立准确输入文件，不猜测或从其他对比中重复复制。提供方的编辑能力陈述未经独立验证。保留全部帧与输出瑕疵，未进行浏览器播放或模型生成。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Known primary source page reopened to resolve this existing candidate; exact example labels, prompts and media URLs checked. No new case search.",
+        "zh-CN": "重新打开已知一手来源，为既有候选核对具体示例标签、提示词与素材地址，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Publisher-served files fetched successfully and preserved without modification. Formats, dimensions, hashes, full frame decoding and visual content were checked. Historical Opusly GIF hashes match; the nine other files were acquired now from already-known candidate pages.",
+        "zh-CN": "成功取得发布方提供的文件并原样保留，检查格式、尺寸、哈希、完整逐帧解码与视觉内容。Opusly历史GIF哈希一致，其余九份文件本次从既有候选原页补取。"
+      },
+      "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

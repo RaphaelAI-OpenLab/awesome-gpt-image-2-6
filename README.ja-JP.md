@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 64 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 40 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 65 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 41 | 0 |
 | [インフォグラフィック](#category-infographics) | 16 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 10 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 11 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 55 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 36 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 12 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 116 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **349** |
+| 出典リンク付き事例 | **359** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **312** |
-| 出典で公開されている原文プロンプト | **216** |
+| 作者が報告した作例 | **322** |
+| 出典で公開されている原文プロンプト | **226** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **511** |
+| ローカルに保存済みのメディアファイル | **526** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 作者申告のモデル |
+| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | 作者申告のモデル |
+| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 作者申告のモデル |
+| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -202,6 +202,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -249,6 +250,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -289,6 +291,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
@@ -536,6 +539,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 64 | 0 |
-| [Posters & typography](#category-posters-typography) | 40 | 0 |
+| [Brand & product visuals](#category-brand-products) | 65 | 0 |
+| [Posters & typography](#category-posters-typography) | 41 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 11 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 55 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 36 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 12 | 0 |
-| [GIF & animation](#category-gif-animation) | 116 | 0 |
+| [GIF & animation](#category-gif-animation) | 123 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **349** |
+| Source-linked cases | **359** |
 | Official examples | **37** |
-| Creator-reported examples | **312** |
-| Original prompts available at source | **216** |
+| Creator-reported examples | **322** |
+| Original prompts available at source | **226** |
 | Full prompts published here | **0** |
-| Locally archived media files | **511** |
+| Locally archived media files | **526** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Creator-reported model |
+| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Creator-reported model |
+| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model |
+| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model |
 | 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model |
-| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Creator-reported model |
-| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Creator-reported model |
-| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Creator-reported model |
-| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -198,6 +198,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Creator-reported model | Prompt availability unverified |
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model | Prompt availability unverified |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model | Prompt availability unverified |
+| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -245,6 +246,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Creator-reported model | Prompt availability unverified |
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Creator-reported model | Prompt availability unverified |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Creator-reported model | Prompt availability unverified |
+| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -285,6 +287,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Creator-reported model | Prompt availability unverified |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Creator-reported model | Original prompt at source |
 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model | Prompt not public |
+| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-characters-consistency"></a>
 
@@ -532,6 +535,13 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Creator-reported model | Original prompt at source |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Creator-reported model | Original prompt at source |
+| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 
