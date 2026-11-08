@@ -47,9 +47,9 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 16 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 17 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 7 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 17 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 18 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 9 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 12 | 0 |
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **97** |
+| Trường hợp có liên kết nguồn | **101** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **60** |
-| Câu lệnh gốc có sẵn tại nguồn | **74** |
+| Ví dụ do tác giả báo cáo | **64** |
+| Câu lệnh gốc có sẵn tại nguồn | **78** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **160** |
+| Tệp tư liệu được lưu trữ cục bộ | **172** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -154,6 +154,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +194,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 

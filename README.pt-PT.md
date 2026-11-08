@@ -47,9 +47,9 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 16 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 17 | 0 |
-| [Infografias](#category-infographics) | 7 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 17 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 18 | 0 |
+| [Infografias](#category-infographics) | 9 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 3 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 22 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 12 | 0 |
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **97** |
+| Casos com ligação para a fonte | **101** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **60** |
-| Prompts originais disponíveis na fonte | **74** |
+| Exemplos comunicados pelos criadores | **64** |
+| Prompts originais disponíveis na fonte | **78** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **160** |
+| Ficheiros multimédia arquivados localmente | **172** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo indicado pelo criador |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo indicado pelo criador |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo indicado pelo criador |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo indicado pelo criador |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado pelo criador |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado pelo criador |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modelo indicado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -154,6 +154,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +194,8 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 

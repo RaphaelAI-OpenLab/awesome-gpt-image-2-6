@@ -8289,5 +8289,477 @@
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }
+  },
+  {
+    "id": "community-gptimagehub-weather-ui",
+    "status": "published",
+    "title": {
+      "en": "Lisbon weather screen: matched Flare and Sunburst test",
+      "zh-CN": "里斯本天气界面：Flare 与 Sunburst 同提示对比"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original guide labels the Lisbon weather screen: matched Flare and Sunburst test outputs individually as GPT Image 2.6 Flare and Sunburst. Its Sources section identifies the images as its own Saver-route tests on 5 November 2026. This is a creator claim, not independent reproduction.",
+        "zh-CN": "原指南对“里斯本天气界面：Flare 与 Sunburst 同提示对比”各输出分别标注 GPT Image 2.6 Flare 与 Sunburst；来源说明指出图像来自其于 2026 年 11 月 5 日在 Saver 路线上进行的自有测试。此为创作者声明，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/app-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-weather-ui/app-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 32266,
+        "sha256": "0cbca7c0e098c3c105fd53ca3f856ae99a3032fd2fbcda088561b2e0a8f872b2",
+        "alt": {
+          "en": "Mobile app screen generated with GPT Image 2.6 Flare from the same prompt as the other models in this comparison",
+          "zh-CN": "里斯本天气界面：Flare 与 Sunburst 同提示对比：Flare 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/app-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-weather-ui/app-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 38716,
+        "sha256": "6d7f5ba773bf0811f63b98db538fe36e7af3dfcf26518d00cecf9396f2199f37",
+        "alt": {
+          "en": "Mobile app screen generated with GPT Image 2.6 Sunburst from the same prompt as the other models in this comparison",
+          "zh-CN": "里斯本天气界面：Flare 与 Sunburst 同提示对比：Sunburst 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The matched mobile UI outputs show extra weather labels in Flare and the specified wind/humidity card in Sunburst. Exact generation and edit prompts remain linked at the source. Cited CellCog API timings and older DEV 2.5 tests are not these works. Source files are 1000-pixel WebP editorial exports, not claimed raw 1536-pixel generation files.",
+      "zh-CN": "两张移动界面输出中，Flare 增添天气标签，Sunburst 使用指定的风速／湿度卡片。 精确生成及编辑提示词保留为原文链接。引用的 CellCog API 耗时及旧 DEV 2.5 测试不属于这些作品。文件为 1000 像素 WebP 网页导出版，不声称为 1536 像素原始生成文件。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original source returned HTTP 200; retained source evidence reused without refetching.",
+        "zh-CN": "原始页面返回 HTTP 200；复用保留证据，未重新抓取。"
+      },
+      "media_note": {
+        "en": "All exact public original WebP files fetched unchanged, fully decoded and visually inspected.",
+        "zh-CN": "所有精确公开原始 WebP 文件原样获取，已完整解码并检查画面。"
+      },
+      "report_path": "docs/GPTIMAGEHUB_ACCESS_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-gptimagehub-law-infographic",
+    "status": "published",
+    "title": {
+      "en": "Six-step bill-to-law infographic comparison",
+      "zh-CN": "法案成为法律六步信息图对比"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original guide labels the Six-step bill-to-law infographic comparison outputs individually as GPT Image 2.6 Flare and Sunburst. Its Sources section identifies the images as its own Saver-route tests on 5 November 2026. This is a creator claim, not independent reproduction.",
+        "zh-CN": "原指南对“法案成为法律六步信息图对比”各输出分别标注 GPT Image 2.6 Flare 与 Sunburst；来源说明指出图像来自其于 2026 年 11 月 5 日在 Saver 路线上进行的自有测试。此为创作者声明，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/infographic-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-law-infographic/infographic-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 72214,
+        "sha256": "8fc29a9672ccbf80893640802acdff55f52fcd823fc210ca3b2222b716e24fcc",
+        "alt": {
+          "en": "Six-step infographic generated with GPT Image 2.6 Flare from the same prompt as the other models in this comparison",
+          "zh-CN": "法案成为法律六步信息图对比：Flare 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/infographic-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-law-infographic/infographic-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 76056,
+        "sha256": "3ac585948955f311d6dcbcd0b56b429439f170d987d2cb09c6040e01ae2a208d",
+        "alt": {
+          "en": "Six-step infographic generated with GPT Image 2.6 Sunburst from the same prompt as the other models in this comparison",
+          "zh-CN": "法案成为法律六步信息图对比：Sunburst 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two navy-and-cream vertical infographic layouts compare the same six-step brief. Exact generation and edit prompts remain linked at the source. Cited CellCog API timings and older DEV 2.5 tests are not these works. Source files are 1000-pixel WebP editorial exports, not claimed raw 1536-pixel generation files.",
+      "zh-CN": "两张海军蓝与奶油色纵向信息图比较相同六步需求。 精确生成及编辑提示词保留为原文链接。引用的 CellCog API 耗时及旧 DEV 2.5 测试不属于这些作品。文件为 1000 像素 WebP 网页导出版，不声称为 1536 像素原始生成文件。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original source returned HTTP 200; retained source evidence reused without refetching.",
+        "zh-CN": "原始页面返回 HTTP 200；复用保留证据，未重新抓取。"
+      },
+      "media_note": {
+        "en": "All exact public original WebP files fetched unchanged, fully decoded and visually inspected.",
+        "zh-CN": "所有精确公开原始 WebP 文件原样获取，已完整解码并检查画面。"
+      },
+      "report_path": "docs/GPTIMAGEHUB_ACCESS_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-gptimagehub-jazz-poster-edit",
+    "status": "published",
+    "title": {
+      "en": "Blue Hour jazz posters and date-edit continuation",
+      "zh-CN": "Blue Hour 爵士海报与日期编辑延续"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original guide labels the Blue Hour jazz posters and date-edit continuation outputs individually as GPT Image 2.6 Flare and Sunburst. Its Sources section identifies the images as its own Saver-route tests on 5 November 2026. This is a creator claim, not independent reproduction.",
+        "zh-CN": "原指南对“Blue Hour 爵士海报与日期编辑延续”各输出分别标注 GPT Image 2.6 Flare 与 Sunburst；来源说明指出图像来自其于 2026 年 11 月 5 日在 Saver 路线上进行的自有测试。此为创作者声明，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/poster-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-jazz-poster-edit/poster-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 133782,
+        "sha256": "ef9ea105bf79f2d8edc39fa0bcb2c63ce5991b2b2677af4caa5a1a1b3a7a1e59",
+        "alt": {
+          "en": "Text-heavy event poster generated with GPT Image 2.6 Flare from the same prompt as the other models in this comparison",
+          "zh-CN": "Blue Hour 爵士海报与日期编辑延续：Flare 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/poster-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-jazz-poster-edit/poster-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 94180,
+        "sha256": "dcd0f2454cbb575008e74d5f00967f8776191918ec5ee5171205a5c8129e1c28",
+        "alt": {
+          "en": "Text-heavy event poster generated with GPT Image 2.6 Sunburst from the same prompt as the other models in this comparison",
+          "zh-CN": "Blue Hour 爵士海报与日期编辑延续：Sunburst 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/edit-date-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-jazz-poster-edit/edit-date-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 123962,
+        "sha256": "53d464a2266d704161a1634f71963d23de850aa7bc751376fe3bd35450a20750",
+        "alt": {
+          "en": "One-line text change on the poster: the GPT Image 2.6 Flare original edited with GPT Image 2.6 Flare",
+          "zh-CN": "Blue Hour 爵士海报与日期编辑延续：Flare 编辑输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/edit-date-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-jazz-poster-edit/edit-date-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 123838,
+        "sha256": "9d79947328bbc4df7df41be2a6e7e11f3c9cb858d7cc62a1c10f0aee141585bc",
+        "alt": {
+          "en": "One-line text change on the poster: the GPT Image 2.6 Flare original edited with GPT Image 2.6 Sunburst",
+          "zh-CN": "Blue Hour 爵士海报与日期编辑延续：Sunburst 编辑输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two initial poster variants and two date edits form one work. Both date edits use the Flare original, as stated in image alt text; the Sunburst initial poster is not their input. The event is a synthetic design example, not a verified event. Exact generation and edit prompts remain linked at the source. Cited CellCog API timings and older DEV 2.5 tests are not these works. Source files are 1000-pixel WebP editorial exports, not claimed raw 1536-pixel generation files.",
+      "zh-CN": "两张初始海报及两张日期编辑归为同一作品。图片说明标明两次日期编辑均以 Flare 原图为输入，非 Sunburst 初始海报。活动为合成设计示例，未核实为真实活动。 精确生成及编辑提示词保留为原文链接。引用的 CellCog API 耗时及旧 DEV 2.5 测试不属于这些作品。文件为 1000 像素 WebP 网页导出版，不声称为 1536 像素原始生成文件。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original source returned HTTP 200; retained source evidence reused without refetching.",
+        "zh-CN": "原始页面返回 HTTP 200；复用保留证据，未重新抓取。"
+      },
+      "media_note": {
+        "en": "All exact public original WebP files fetched unchanged, fully decoded and visually inspected.",
+        "zh-CN": "所有精确公开原始 WebP 文件原样获取，已完整解码并检查画面。"
+      },
+      "report_path": "docs/GPTIMAGEHUB_ACCESS_2026-11-06.md"
+    }
+  },
+  {
+    "id": "community-gptimagehub-french-press-edit",
+    "status": "published",
+    "title": {
+      "en": "French press product photos and background-edit continuation",
+      "zh-CN": "法压壶产品照与背景编辑延续"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original guide labels the French press product photos and background-edit continuation outputs individually as GPT Image 2.6 Flare and Sunburst. Its Sources section identifies the images as its own Saver-route tests on 5 November 2026. This is a creator claim, not independent reproduction.",
+        "zh-CN": "原指南对“法压壶产品照与背景编辑延续”各输出分别标注 GPT Image 2.6 Flare 与 Sunburst；来源说明指出图像来自其于 2026 年 11 月 5 日在 Saver 路线上进行的自有测试。此为创作者声明，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/product-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-french-press-edit/product-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 60562,
+        "sha256": "4c291676fcbdfbfb699508d95462673017b6cbfc94dd1e018caa8e580d60c559",
+        "alt": {
+          "en": "Product photo generated with GPT Image 2.6 Flare from the same prompt as the other models in this comparison",
+          "zh-CN": "法压壶产品照与背景编辑延续：Flare 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/product-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-french-press-edit/product-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 64876,
+        "sha256": "7a2e6f164dda06054095d4dc9c9776aff8f5b550f632ca85fbe1e945eda444f7",
+        "alt": {
+          "en": "Product photo generated with GPT Image 2.6 Sunburst from the same prompt as the other models in this comparison",
+          "zh-CN": "法压壶产品照与背景编辑延续：Sunburst 初始生成输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/edit-background-2-6-flare.webp",
+        "path": "assets/examples/community-gptimagehub-french-press-edit/edit-background-2-6-flare.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 45226,
+        "sha256": "f5a13752eacf9d2d203d8f25d54851297ca1e8084e2e63605a6c21845b43d273",
+        "alt": {
+          "en": "Background swap on the product photo: the GPT Image 2.6 Flare original edited with GPT Image 2.6 Flare",
+          "zh-CN": "法压壶产品照与背景编辑延续：Flare 编辑输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/guides/gpt-image-2-6/edit-background-2-6-sunburst.webp",
+        "path": "assets/examples/community-gptimagehub-french-press-edit/edit-background-2-6-sunburst.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 42548,
+        "sha256": "374e0b69cf688c2e67d5568c70f85780ce71165c7808e19762eacfd3211a818c",
+        "alt": {
+          "en": "Background swap on the product photo: the GPT Image 2.6 Flare original edited with GPT Image 2.6 Sunburst",
+          "zh-CN": "法压壶产品照与背景编辑延续：Sunburst 编辑输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/gpt-image-2-6-flare-vs-sunburst",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Public original archived unchanged with attribution. No redistribution license was located; dataset prompt licensing does not license these images. Source attribution is not permission or an open license.",
+            "zh-CN": "公开原图保持字节不变并注明来源存档。未找到图片再分发许可证；提示词数据集许可不适用于这些图片。来源署名不等于授权或开放许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two initial product variants and two background edits form one work. Both edits use the Flare product original, retaining the press, cup, napkin and beans. Flare keeps background props while Sunburst clears them. These are synthetic product images, not documentary photographs. Exact generation and edit prompts remain linked at the source. Cited CellCog API timings and older DEV 2.5 tests are not these works. Source files are 1000-pixel WebP editorial exports, not claimed raw 1536-pixel generation files.",
+      "zh-CN": "两张初始产品图及两张背景编辑归为同一作品。两次编辑均以 Flare 产品原图为输入，保留法压壶、杯、餐巾和咖啡豆。Flare 保留背景道具，Sunburst 清除它们。这些为合成产品图，并非纪实照片。 精确生成及编辑提示词保留为原文链接。引用的 CellCog API 耗时及旧 DEV 2.5 测试不属于这些作品。文件为 1000 像素 WebP 网页导出版，不声称为 1536 像素原始生成文件。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original source returned HTTP 200; retained source evidence reused without refetching.",
+        "zh-CN": "原始页面返回 HTTP 200；复用保留证据，未重新抓取。"
+      },
+      "media_note": {
+        "en": "All exact public original WebP files fetched unchanged, fully decoded and visually inspected.",
+        "zh-CN": "所有精确公开原始 WebP 文件原样获取，已完整解码并检查画面。"
+      },
+      "report_path": "docs/GPTIMAGEHUB_ACCESS_2026-11-06.md"
+    }
   }
 ]

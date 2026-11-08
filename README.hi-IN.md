@@ -47,9 +47,9 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 16 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 17 | 0 |
-| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 7 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 17 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 18 | 0 |
+| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 9 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 3 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 22 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 12 | 0 |
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **97** |
+| स्रोत से जुड़े उदाहरण | **101** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **60** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **74** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **64** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **78** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **160** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **172** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -154,6 +154,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +194,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-interiors-architecture"></a>
 

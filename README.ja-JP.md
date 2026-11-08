@@ -47,9 +47,9 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 16 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 17 | 0 |
-| [インフォグラフィック](#category-infographics) | 7 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 17 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 18 | 0 |
+| [インフォグラフィック](#category-infographics) | 9 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 3 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 12 | 0 |
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **97** |
+| 出典リンク付き事例 | **101** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **60** |
-| 出典で公開されている原文プロンプト | **74** |
+| 作者が報告した作例 | **64** |
+| 出典で公開されている原文プロンプト | **78** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **160** |
+| ローカルに保存済みのメディアファイル | **172** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -154,6 +154,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +194,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-interiors-architecture"></a>
 
