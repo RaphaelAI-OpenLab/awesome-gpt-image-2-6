@@ -50,11 +50,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Marken- & Produktvisualisierungen](#category-brand-products) | 31 | 0 |
 | [Poster & Typografie](#category-posters-typography) | 31 | 0 |
 | [Infografiken](#category-infographics) | 14 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 9 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 33 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 29 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 10 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 35 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 31 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 10 | 0 |
-| [GIF & Animation](#category-gif-animation) | 104 | 0 |
+| [GIF & Animation](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **261** |
+| Beispiele mit Quellenverweisen | **269** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **224** |
+| Von Erstellern gemeldete Beispiele | **232** |
 | An der Quelle verfügbare Original-Prompts | **190** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **401** |
+| Lokal archivierte Mediendateien | **409** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

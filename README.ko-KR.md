@@ -50,11 +50,11 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | [브랜드 및 제품 비주얼](#category-brand-products) | 31 | 0 |
 | [포스터 및 타이포그래피](#category-posters-typography) | 31 | 0 |
 | [인포그래픽](#category-infographics) | 14 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 9 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 33 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 29 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 10 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 35 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 31 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 10 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 104 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **261** |
+| 출처 링크가 있는 사례 | **269** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **224** |
+| 제작자가 보고한 예시 | **232** |
 | 출처에서 제공하는 원문 프롬프트 | **190** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **401** |
+| 로컬에 보관된 미디어 파일 | **409** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

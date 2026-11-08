@@ -50,11 +50,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Marka ve ürün görselleri](#category-brand-products) | 31 | 0 |
 | [Afişler ve tipografi](#category-posters-typography) | 31 | 0 |
 | [İnfografikler](#category-infographics) | 14 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 9 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 33 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 29 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 10 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 35 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 31 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 10 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 104 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **261** |
+| Kaynak bağlantılı örnekler | **269** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **224** |
+| Üreticilerinin bildirdiği örnekler | **232** |
 | Kaynakta bulunan özgün istemler | **190** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **401** |
+| Yerel olarak arşivlenmiş medya dosyaları | **409** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

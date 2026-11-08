@@ -50,11 +50,11 @@
 | [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 31 | 0 |
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 31 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 14 | 0 |
-| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 9 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 33 | 0 |
-| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 29 | 0 |
+| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 10 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 35 | 0 |
+| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 31 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 10 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 104 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **261** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **269** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **224** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **232** |
 | พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **190** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **401** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **409** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -121,12 +121,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | วันที่เพิ่ม | กรณีตัวอย่าง | หลักฐาน |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

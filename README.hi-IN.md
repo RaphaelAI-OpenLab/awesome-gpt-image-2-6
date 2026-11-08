@@ -50,11 +50,11 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 31 | 0 |
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 31 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 14 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 9 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 33 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 29 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 10 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 35 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 31 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 10 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 104 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **261** |
+| स्रोत से जुड़े उदाहरण | **269** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **224** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **232** |
 | स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **190** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **401** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **409** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

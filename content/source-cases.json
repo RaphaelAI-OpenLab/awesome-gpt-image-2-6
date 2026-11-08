@@ -21499,5 +21499,589 @@
       },
       "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "zhidx-clay-robot-garden",
+    "status": "published",
+    "title": {
+      "en": "Clay robot waters and observes a plant",
+      "zh-CN": "黏土机器人浇花动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-clay-robot-garden/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Clay robot waters and observes a plant",
+          "zh-CN": "黏土机器人浇花动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "3296ee3e48016d282835cfaa179a97a490545c35ae3eb06f802b4c4312a8e851",
+        "bytes": 2319534,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The archived GIF is the publisher’s ChatGPT UI recording at 2× playback, not a standalone native model GIF. Embedded “完成了！” text is an assistant completion summary, not the original user prompt. No exact prompt was published in the reviewed source.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 存档 GIF 是发布方以 2 倍速播放的 ChatGPT 界面录制，不是独立原生模型 GIF。画面中的“完成了！”为助手完成说明，不是用户原始提示词；所查来源未公开准确提示词。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-rv-reconciliation",
+    "status": "published",
+    "title": {
+      "en": "TV-scene reconciliation dialogue GIF",
+      "zh-CN": "房车场景和解对话动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-rv-reconciliation/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "TV-scene reconciliation dialogue GIF",
+          "zh-CN": "房车场景和解对话动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "715d392a152db6b0b5b8dce1115c0fffcb7e8828d8adb8e817196726e5edfd90",
+        "bytes": 734133,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. A source-described reference-image animation with invented reconciliation dialogue. This is a synthetic scene, not documentation of a real conversation. The original television watermark and all source frames remain unchanged.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 来源说明为参考图动画，和解对话是合成内容，并非真实谈话记录。电视台水印及所有原始帧保持不变。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-vintage-checkpoint",
+    "status": "published",
+    "title": {
+      "en": "Vintage street checkpoint photo animation",
+      "zh-CN": "旧照片中的检查站动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-vintage-checkpoint/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Vintage street checkpoint photo animation",
+          "zh-CN": "旧照片中的检查站动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "7413af93fcef31cedc54be60f66e064e3ef755d217f59ae557b5e26c2671d934",
+        "bytes": 1395091,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The source reports animating an old photograph and notes that the car trajectory collides with the person. The visible motion should not be presented as a physical-accuracy success.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 来源称将旧照片制作成动画，并指出汽车轨迹与人物发生碰撞；不应将画面描述为物理准确性的成功案例。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-fictional-release-post",
+    "status": "published",
+    "title": {
+      "en": "Clearly labeled fictional GPT-6.2 announcement edit",
+      "zh-CN": "带虚构标识的模型发布帖编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-fictional-release-post/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Clearly labeled fictional GPT-6.2 announcement edit",
+          "zh-CN": "带虚构标识的模型发布帖编辑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "c429b4a6459939e1535b38144cfe0feeb8dbdb78ddf1e6fb70e45153c62ff40d",
+        "bytes": 1833167,
+        "mime_type": "image/png",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. Fictional model-release screenshot, not an actual OpenAI announcement. The visible Fictional concept and 虚构内容 markings are preserved.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 虚构的模型发布截图，不是 OpenAI 真实公告。保留画面中 Fictional concept 和“虚构内容”标识。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-museum-person-removal",
+    "status": "published",
+    "title": {
+      "en": "Museum photograph: marked-person removal comparison",
+      "zh-CN": "博物馆人物移除对照面板"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-museum-person-removal/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Museum photograph: marked-person removal comparison",
+          "zh-CN": "博物馆人物移除对照面板"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "6f28f4137934c8803fa4694335bd293aa4ee2c6d218ae8e37a968543696eec7c",
+        "bytes": 9062770,
+        "mime_type": "image/png",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. One original 13166×5904 comparison montage combines marked input, edited output and overlay. It is one workflow, not three generated outputs; the source notes an incompletely removed reflection.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 原始 13166×5904 对照拼图包含标注输入、编辑结果与叠加图，属于一个工作流，不是三个生成结果；来源指出倒影没有完全消除。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-nine-panel-comic",
+    "status": "published",
+    "title": {
+      "en": "Nine-panel workplace AI comic",
+      "zh-CN": "九宫格办公主题漫画"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-nine-panel-comic/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Nine-panel workplace AI comic",
+          "zh-CN": "九宫格办公主题漫画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "04be1c95f4bf019b726ce630a6bce3fd2e727c51a1886747a865788e52d64b15",
+        "bytes": 2744022,
+        "mime_type": "image/png",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. One nine-panel comic, not nine cases. The source notes imperfect Chinese text rendering.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 一张九宫格漫画，不拆成九个案例。来源指出部分中文文字渲染不理想。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-basketball-photo",
+    "status": "published",
+    "title": {
+      "en": "Photoreal basketball game image",
+      "zh-CN": "篮球比赛合成照片"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-basketball-photo/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Photoreal basketball game image",
+          "zh-CN": "篮球比赛合成照片"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "6cbdb0a631ea485f69664820b0f1a035a45d996a8a92d6cfa3b5af75da9935b4",
+        "bytes": 2427995,
+        "mime_type": "image/png",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. Synthetic sports image presented as a generated example, not a photograph documenting a real game.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 作为生成示例展示的合成体育图像，不是真实比赛的摄影记录。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zhidx-waterfall-landscape",
+    "status": "published",
+    "title": {
+      "en": "Waterfall landscape with a red-jacket hiker",
+      "zh-CN": "瀑布与徒步者合成风景"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://zhidx.com/p/607614.html",
+      "author": "陈骏达 / 智东西",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The current original article attributes this particular illustrated test to Images 2.6 in its first-person test sequence. The API variant is not stated. Publisher attribution is not independently authenticated execution.",
+        "zh-CN": "当前原文在第一人称实测段落中将此项图示结果归于Images 2.6，未说明API版本。发布方归因不等于独立认证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zhidx.com/p/607614.html",
+        "path": "assets/examples/zhidx-waterfall-landscape/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Waterfall landscape with a red-jacket hiker",
+          "zh-CN": "瀑布与徒步者合成风景"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zhidx.com/p/607614.html",
+          "credit": "陈骏达 / 智东西",
+          "note": {
+            "en": "Unchanged source-served bytes. The stable source-page URL is a provenance link, not a direct file locator. The current page-linked image was fetched on 2026-11-08 and matched this exact SHA-256. No explicit redistribution licence verified; attribution is not permission and the repository MIT licence does not cover this media.",
+            "zh-CN": "保留来源提供的原始字节。稳定原文地址是溯源链接，不是文件直链。2026-11-08取得当前页面链接的图片并核对准确SHA-256一致。未验证明确转载许可，署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "f03089c5820ec31e2e388137f081d91d64300c2cc89a29ef3e7e19b93ca1862c",
+        "bytes": 2677517,
+        "mime_type": "image/png",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. Synthetic landscape example; the exact generation prompt is not published in the reviewed article.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 合成风景案例；所查文章未公开准确生成提示词。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known article was reopened to verify existing local cases. Its current image links were fetched without sign-in and all eight files exactly match the retained SHA-256 and byte counts. No new case search.",
+        "zh-CN": "重新打开已知原文，为既有本地案例补证。无需登录取得当前页面图片链接所指文件，八份素材均与留存SHA-256及字节数完全一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "All original raster files were decoded and visually reviewed, including every frame of the three GIFs. No crop or QA derivative is published. Stable article URLs replace expiring CDN locators as provenance links.",
+        "zh-CN": "原始栅格文件均完整解码并目视核验，包括三份GIF的全部帧。不发布裁剪或质检派生图；以稳定原文地址作为溯源链接，不发布临时CDN地址。"
+      },
+      "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

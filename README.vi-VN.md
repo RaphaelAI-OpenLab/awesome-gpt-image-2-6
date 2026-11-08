@@ -50,11 +50,11 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 31 | 0 |
 | [Áp phích và nghệ thuật chữ](#category-posters-typography) | 31 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 14 | 0 |
-| [Nội thất và kiến trúc](#category-interiors-architecture) | 9 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 33 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 29 | 0 |
+| [Nội thất và kiến trúc](#category-interiors-architecture) | 10 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 35 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 31 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 10 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 104 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **261** |
+| Trường hợp có liên kết nguồn | **269** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **224** |
+| Ví dụ do tác giả báo cáo | **232** |
 | Câu lệnh gốc có sẵn tại nguồn | **190** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **401** |
+| Tệp tư liệu được lưu trữ cục bộ | **409** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

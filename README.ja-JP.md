@@ -50,11 +50,11 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [ブランド・製品ビジュアル](#category-brand-products) | 31 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 31 | 0 |
 | [インフォグラフィック](#category-infographics) | 14 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 9 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 33 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 29 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 10 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 35 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 31 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 10 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 104 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **261** |
+| 出典リンク付き事例 | **269** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **224** |
+| 作者が報告した作例 | **232** |
 | 出典で公開されている原文プロンプト | **190** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **401** |
+| ローカルに保存済みのメディアファイル | **409** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

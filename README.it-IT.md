@@ -50,11 +50,11 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | [Immagini per marchi e prodotti](#category-brand-products) | 31 | 0 |
 | [Poster e tipografia](#category-posters-typography) | 31 | 0 |
 | [Infografiche](#category-infographics) | 14 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 9 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 33 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 29 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 10 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 35 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 31 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 10 | 0 |
-| [GIF e animazione](#category-gif-animation) | 104 | 0 |
+| [GIF e animazione](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **261** |
+| Casi con collegamenti alle fonti | **269** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **224** |
+| Esempi dichiarati dai creatori | **232** |
 | Prompt originali disponibili alla fonte | **190** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **401** |
+| File multimediali archiviati localmente | **409** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -244,6 +244,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-characters-consistency"></a>
 
@@ -284,6 +285,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-markup-edits"></a>
 
@@ -320,6 +323,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-svg-design-assets"></a>
 
@@ -448,6 +453,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

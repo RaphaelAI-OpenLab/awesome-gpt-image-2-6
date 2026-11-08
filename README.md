@@ -46,11 +46,11 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Brand & product visuals](#category-brand-products) | 31 | 0 |
 | [Posters & typography](#category-posters-typography) | 31 | 0 |
 | [Infographics](#category-infographics) | 14 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 9 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 33 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 29 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 35 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 31 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 10 | 0 |
-| [GIF & animation](#category-gif-animation) | 104 | 0 |
+| [GIF & animation](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **261** |
+| Source-linked cases | **269** |
 | Official examples | **37** |
-| Creator-reported examples | **224** |
+| Creator-reported examples | **232** |
 | Original prompts available at source | **190** |
 | Full prompts published here | **0** |
-| Locally archived media files | **401** |
+| Locally archived media files | **409** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model |
-| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Creator-reported model |
-| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model |
-| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Creator-reported model |
-| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -240,6 +240,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Creator-reported model | Prompt availability unverified |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Creator-reported model | Original prompt at source |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-characters-consistency"></a>
 
@@ -280,6 +281,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Creator-reported model | Prompt availability unverified |
 | [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Creator-reported model | Original prompt at source |
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model | Original prompt at source |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model | Prompt not public |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-markup-edits"></a>
 
@@ -316,6 +319,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model | Original prompt at source |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model | Prompt not public |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -444,6 +449,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Creator-reported model | Original prompt at source |
 | [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Creator-reported model | Original prompt at source |
 | [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Creator-reported model | Original prompt at source |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Creator-reported model | Prompt not public |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Creator-reported model | Prompt not public |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 
