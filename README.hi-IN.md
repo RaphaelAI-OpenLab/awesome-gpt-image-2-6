@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 65 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 41 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 67 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 42 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 16 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 11 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 55 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 36 | 0 |
-| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 12 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 123 | 0 |
+| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 13 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **359** |
+| स्रोत से जुड़े उदाहरण | **366** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **322** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **226** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **329** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **233** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **526** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **536** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -203,6 +203,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 65 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 41 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 67 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 42 | 0 |
 | [인포그래픽](#category-infographics) | 16 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 11 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 55 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 36 | 0 |
-| [SVG 및 디자인 에셋](#category-svg-design-assets) | 12 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 123 | 0 |
+| [SVG 및 디자인 에셋](#category-svg-design-assets) | 13 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **359** |
+| 출처 링크가 있는 사례 | **366** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **322** |
-| 출처에서 제공하는 원문 프롬프트 | **226** |
+| 제작자가 보고한 예시 | **329** |
+| 출처에서 제공하는 원문 프롬프트 | **233** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **526** |
+| 로컬에 보관된 미디어 파일 | **536** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -203,6 +203,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

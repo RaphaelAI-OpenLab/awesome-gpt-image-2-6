@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 65 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 41 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 67 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 42 | 0 |
 | [Infografias](#category-infographics) | 16 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 11 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 55 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 36 | 0 |
-| [SVG e recursos de design](#category-svg-design-assets) | 12 | 0 |
-| [GIF e animação](#category-gif-animation) | 123 | 0 |
+| [SVG e recursos de design](#category-svg-design-assets) | 13 | 0 |
+| [GIF e animação](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **359** |
+| Casos com ligação para a fonte | **366** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **322** |
-| Prompts originais disponíveis na fonte | **226** |
+| Exemplos comunicados pelos criadores | **329** |
+| Prompts originais disponíveis na fonte | **233** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **526** |
+| Ficheiros multimédia arquivados localmente | **536** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -203,6 +203,8 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 [Registo de pesquisas, relatório de conteúdos multimédia e pistas por resolver](docs/CASE_GALLERY.md)
 

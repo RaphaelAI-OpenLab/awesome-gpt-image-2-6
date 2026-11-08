@@ -29274,5 +29274,620 @@
       },
       "report_path": "docs/MODEL_HOLDS_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "weel-saved-mug-scenes",
+    "status": "published",
+    "title": {
+      "en": "Saved mug reference across three scenes",
+      "zh-CN": "保存马克杯参考图并复用于三个场景"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27",
+      "author": "WEEL (ウィール) / WEEL Inc.",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "WEEL labels the hands-on section “ChatGPT Images 2.6を実際に使って検証してみた” and says it saved a mug reference named マグ, then called it from a new chat for three scenes. The article supplies the input, three individual prompts and three results. This is the publisher’s model attribution; the underlying Flare/Sunburst variant is not disclosed.",
+        "zh-CN": "WEEL 将实测章节标为“ChatGPT Images 2.6を実際に使って検証してみた”，并称把马克杯参考图保存为“マグ”，随后在新对话中调用并生成三个场景。文章给出了输入图、三条独立提示词和三张结果。这是发布者的模型归因，未披露底层 Flare/Sunburst 版本。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27"
+    },
+    "media": [
+      {
+        "source_url": "https://weel.co.jp/wp-content/uploads/%E6%9C%9D%E3%81%AE%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%A8%E3%82%AF%E3%83%A2%EF%BC%86%E3%83%93%E3%83%BC%E3%83%B3%E3%81%AE%E3%83%9E%E3%82%B0.png",
+        "path": "assets/examples/weel-saved-mug-scenes/source-01.png",
+        "bytes": 2206053,
+        "sha256": "43a95b3f8886a0679bae74e772fb0a99aea339e6e90bd366869f3f0efac62594",
+        "kind": "image",
+        "alt": {
+          "en": "Teal KUMO & BEAN mug filled with coffee on a sunlit cafe table",
+          "zh-CN": "装有咖啡的青绿色 KUMO & BEAN 马克杯，置于阳光照射的咖啡馆木桌上"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27",
+          "credit": "WEEL (ウィール) / WEEL Inc.",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        },
+        "mime_type": "image/png",
+        "role": "output"
+      },
+      {
+        "source_url": "https://weel.co.jp/wp-content/uploads/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%81%AE%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC.png",
+        "path": "assets/examples/weel-saved-mug-scenes/source-02.png",
+        "bytes": 2190580,
+        "sha256": "e71f7f751b0fa374bf7a6d714f9c958ea4ab5ec3623dc53b652ac0d52a069456",
+        "kind": "image",
+        "alt": {
+          "en": "The teal branded mug filled with coffee on a checked picnic blanket",
+          "zh-CN": "装有咖啡的青绿色品牌马克杯，置于格纹野餐毯上"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27",
+          "credit": "WEEL (ウィール) / WEEL Inc.",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        },
+        "mime_type": "image/png",
+        "role": "output"
+      },
+      {
+        "source_url": "https://weel.co.jp/wp-content/uploads/%E7%99%BD%E3%81%84%E8%83%8C%E6%99%AF%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B0%E3%80%8CKUMO-BEAN%E3%80%8D.png",
+        "path": "assets/examples/weel-saved-mug-scenes/source-03.png",
+        "bytes": 1188462,
+        "sha256": "62786249e18ee43429793ddec524b31c9bd3366d7aabed956acd723799775707",
+        "kind": "image",
+        "alt": {
+          "en": "The teal branded mug isolated on white for an ecommerce thumbnail",
+          "zh-CN": "青绿色品牌马克杯的白底电商缩略图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27",
+          "credit": "WEEL (ウィール) / WEEL Inc.",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        },
+        "mime_type": "image/png",
+        "role": "output"
+      },
+      {
+        "source_url": "https://weel.co.jp/wp-content/uploads/mug.png",
+        "path": "assets/references/weel-saved-mug-scenes/input-01.png",
+        "bytes": 418862,
+        "sha256": "903c18949a48a40189c9b2e85b981399aa5ce07bbe2625bafb77004211e7faa3",
+        "kind": "image",
+        "alt": {
+          "en": "Reference input: teal KUMO & BEAN mug on a pale neutral background",
+          "zh-CN": "参考输入：浅色背景上的青绿色 KUMO & BEAN 马克杯"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://weel.co.jp/media/tech/chatgpt-images-2-6/#index_id27",
+          "credit": "WEEL (ウィール) / WEEL Inc.",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        },
+        "mime_type": "image/png",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "One reference-reuse series, not three separate tests: a cafe table, a park picnic and a square white-background ecommerce image. The three public Japanese prompts are expanded in the source. The source reports preserved color, logo and shape, while noting that the cafe and picnic outputs add coffee without being asked. The mug reference is an input, not an additional 2.6 output. No independent generation was run.",
+      "zh-CN": "同一组参考图复用案例，不拆成三项测试：咖啡馆木桌、公园野餐及白底方形电商图。来源折叠区域公开了三条日文提示词。来源称颜色、标志和形状得到保留，同时指出咖啡馆与野餐结果在未要求时加入了咖啡。马克杯参考图仅作为输入，不另计 2.6 输出。未独立运行生成。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-sailor-dance",
+    "status": "published",
+    "title": {
+      "en": "Moonlit magical-girl dance",
+      "zh-CN": "月下美少女战士舞蹈"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 案例 1A is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将案例 1A明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/9ff4f428146eff32d28f14d3db8d46d1.gif",
+        "path": "assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Magical girl dancing at night",
+          "zh-CN": "夜景中的美少女战士舞蹈"
+        },
+        "mime_type": "image/gif",
+        "bytes": 643389,
+        "sha256": "f00a6a57a5797e3047bddc1da6ed48f34d57a01950c19f518dbb5622d4e99b93",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One original nine-frame 427×400 GIF, not the separate editor-interface screenshot. The complete prompt is public. Existing character rights are not cleared by source attribution.",
+      "zh-CN": "一份原始九帧427×400 GIF，不是单独的编辑器界面截图。原文公开完整提示词；来源署名不代表角色权利已经清除。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-cat-programmer",
+    "status": "published",
+    "title": {
+      "en": "Clay orange cat typing",
+      "zh-CN": "黏土橘猫敲键盘"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 案例 1B is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将案例 1B明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/8ed3d79aa8c9de6c2722d2426f9a406f.gif",
+        "path": "assets/examples/community-struggle-cat-programmer/8ed3d79aa8c9de6c2722d2426f9a406f.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Orange cat typing with coffee nearby",
+          "zh-CN": "橘猫敲键盘，旁边放着咖啡"
+        },
+        "mime_type": "image/gif",
+        "bytes": 691415,
+        "sha256": "f9bc08f46c5277d5dbcd4c883d3f52e09486cb37624cd79d34fb4b3b2d4584aa",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One original nine-frame 427×400 GIF. The public prompt specifies plaid clothing, screen reflections and steaming coffee. All frames were inspected; naturalness and seamlessness are creator claims rather than independent benchmarks.",
+      "zh-CN": "一份原始九帧427×400 GIF。公开提示词指定格子衫、屏幕反光和冒热气咖啡。已查看所有帧；自然度和无缝程度属于作者评价，不是独立基准。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-desk-animation",
+    "status": "published",
+    "title": {
+      "en": "Desk photograph cleanup and animation",
+      "zh-CN": "桌面照片清理并转动图"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 实测二 is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将实测二明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/28c1519fce92a17d56fef731dcf02691.jpeg",
+        "path": null,
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Original desktop photograph",
+          "zh-CN": "桌面实拍参考照片"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Reference input kept link-only: the source original contains location metadata. No coordinates are copied into this repository and this file is not republished. No redistribution licence was verified.",
+            "zh-CN": "参考输入仅保留来源链接：原文件含位置元数据，仓库不复制坐标或重新发布该文件；未核实转载许可证。"
+          }
+        }
+      },
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/a4f35dfc424561c644adc7533b89ff8e.gif",
+        "path": "assets/examples/community-struggle-desk-animation/a4f35dfc424561c644adc7533b89ff8e.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunflower and doll on cleaned desk",
+          "zh-CN": "清理后的桌面上向日葵与玩偶动图"
+        },
+        "mime_type": "image/gif",
+        "bytes": 464275,
+        "sha256": "f39593da011e3877a419dc082369d9bc2f12da85d34db2de9a93dd5b9c3a7d87",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One photo-to-animation workflow: the 267×716 output has eight GIF frames. The input photo stays link-only because its original contains location metadata; only the animation is archived. The source reports cable removal, background cleanup and reduced resolution. Reported generation time is not independently benchmarked.",
+      "zh-CN": "同一照片转动画工作流，输出为267×716、八帧 GIF。原始输入照片含位置元数据，仅保留链接，只存档动画。来源报告移除数据线、清理背景及分辨率下降；生成耗时未作独立基准验证。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-poster-edit",
+    "status": "published",
+    "title": {
+      "en": "AI evolution poster revised to Image 2.6",
+      "zh-CN": "AI进化论海报改为Image 2.6实测"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 实测三 is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将实测三明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/b1a93a6ee9e5febed5811e8e7c27ed32.png",
+        "path": "assets/examples/community-struggle-poster-edit/b1a93a6ee9e5febed5811e8e7c27ed32.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Rocket in glass cube, AI evolution title",
+          "zh-CN": "玻璃立方体中的火箭与AI进化论标题"
+        },
+        "mime_type": "image/png",
+        "bytes": 1655849,
+        "sha256": "67f69346445b5d03f42ffc0f4b97a60cd372fa20cc056dedc3fe636f57803bee",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://pub-51f65a9eade44d299ca17b0d6dd95654.r2.dev/articles/chatgpt-images-2-6-review/07-3-1.png",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Gear in glass cube, Image 2.6 test title",
+          "zh-CN": "玻璃立方体中的齿轮与Image 2.6实测标题"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Link-only: the exact second-stage image URL embedded in the article returned HTTP 403 on 8 November. No retry or alternate route was used; the file is not republished. No redistribution licence was verified.",
+            "zh-CN": "仅保留链接：文章内嵌的准确第二阶段图片地址于11月8日返回 HTTP 403，未重试或换路，不重新发布该文件；未核实转载许可证。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two stages of one editing workflow: rocket/AI evolution title, then gear/Image 2.6 test title. Only the first image is archived. The article retains the exact second original URL in a failed-transfer placeholder; that URL now returns HTTP 403 and remains link-only. The broad layout is similar, but pixel-identical preservation is not claimed.",
+      "zh-CN": "同一编辑工作流的两个阶段：火箭与“AI进化论”标题，随后改为齿轮与“Image 2.6 实测”。仅存档第一张。文章转存失败占位项仍含准确的第二张原始地址，但当前返回 HTTP 403，故仅保留链接；不宣称构图像素级不变。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-code-lightning-svg",
+    "status": "published",
+    "title": {
+      "en": "Code Lightning vector logo",
+      "zh-CN": "代码闪电矢量标志"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 实测四 is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将实测四明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/62de72dff63229a2552216ee58ec142b.svg",
+        "path": "assets/examples/community-struggle-code-lightning-svg/62de72dff63229a2552216ee58ec142b.svg",
+        "kind": "svg",
+        "role": "output",
+        "alt": {
+          "en": "White brackets and lightning on blue square",
+          "zh-CN": "蓝色方块上的白色括号与闪电"
+        },
+        "mime_type": "image/svg+xml",
+        "bytes": 1092,
+        "sha256": "8db145e0c921eb1fb3d5da69789616a4dda80f4de8a9cd18cfe4409a84d7952c",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The exact source SVG was fetched and matches the retained original. It is a static rectangle plus three editable paths, not a raster wrapper. Parsed XML contains no scripts, event handlers, embedded raster, foreign objects or external resources; an offline SVG render was inspected. The author’s file-size and line-count descriptions are not used as performance claims.",
+      "zh-CN": "准确来源 SVG 已取回并与留存原件一致，含静态矩形及三条可编辑路径，不是栅格套壳。XML 未发现脚本、事件处理、内嵌栅格、外部对象或外部资源；已离线渲染检查。不将作者的文件大小或行数描述作为性能结论。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-struggle-aurora-perfume",
+    "status": "published",
+    "title": {
+      "en": "AURORA orange perfume product image",
+      "zh-CN": "AURORA橙色香水商品图"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "author": "STRUGGLE_xlf",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original author STRUGGLE_xlf’s Images 2.6 review, 实测五 is explicitly presented as a test run with the author’s own account, with prompt and output. This is creator-reported attribution, not independent model verification.",
+        "zh-CN": "原作者 STRUGGLE_xlf 在 Images 2.6 实测文章中，将实测五明确列为本人账号的实测，附有提示词和成片；属于创作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+    },
+    "media": [
+      {
+        "source_url": "https://i-blog.csdnimg.cn/img_convert/95c77557e2dc3b1d95975cfe16cf3138.png",
+        "path": "assets/examples/community-struggle-aurora-perfume/95c77557e2dc3b1d95975cfe16cf3138.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Orange AURORA perfume bottle with mint",
+          "zh-CN": "薄荷叶旁的橙色AURORA香水瓶"
+        },
+        "mime_type": "image/png",
+        "bytes": 1885481,
+        "sha256": "b7bcb5684f3dba8ed8549322d103454e44f771a0785b4844e668dfa2009bb2d8",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+          "credit": "STRUGGLE_xlf",
+          "note": {
+            "en": "Unmodified public example archived with source attribution. No explicit redistribution licence has been verified. Attribution and public availability are not permission; the repository MIT licence does not cover this media. Character, trademark and other third-party rights may apply.",
+            "zh-CN": "公开案例按原样存档并保留来源署名，未核实明确转载许可证。署名和公开可见性不等于授权，仓库 MIT 许可不覆盖此媒体；角色、商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One source-attributed product visualization with exact public prompt.",
+      "zh-CN": "一张有来源署名的商品视觉图，附公开原始提示词。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.",
+        "zh-CN": "既有原文返回 HTTP 200，作者本人实测章节将本案例、提示词及媒体对应到 Images 2.6 测试；具体版本未公开。"
+      },
+      "media_note": {
+        "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
+        "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
+      },
+      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+    }
   }
 ]

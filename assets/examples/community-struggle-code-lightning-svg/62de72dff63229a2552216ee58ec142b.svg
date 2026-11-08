@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Code Lightning — 技术博客 Logo</title>
+  <desc id="desc">极简蓝白扁平化图标：圆角蓝色方形底板、白色代码括号及闪电符号。所有元素均为可编辑矢量路径。</desc>
+  <!-- 背景：独立圆角矩形，可单独修改颜色或删除 -->
+  <rect id="background" x="24" y="24" width="464" height="464" rx="112" fill="#1867E8"/>
+  <!-- 左代码括号 -->
+  <path id="left-code-bracket" d="M176 173 L96 256 L176 339" fill="none" stroke="#FFFFFF" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 右代码括号 -->
+  <path id="right-code-bracket" d="M336 173 L416 256 L336 339" fill="none" stroke="#FFFFFF" stroke-width="27" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 中间闪电：独立封闭路径 -->
+  <path id="lightning-bolt" d="M271 140 L204 265 H255 L233 372 L311 239 H258 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round"/>
+</svg>

@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 65 | 0 |
-| [海報與文字排版](#category-posters-typography) | 41 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 67 | 0 |
+| [海報與文字排版](#category-posters-typography) | 42 | 0 |
 | [資訊圖表](#category-infographics) | 16 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 11 | 0 |
 | [角色與一致性](#category-characters-consistency) | 55 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 36 | 0 |
-| [SVG 與設計素材](#category-svg-design-assets) | 12 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 123 | 0 |
+| [SVG 與設計素材](#category-svg-design-assets) | 13 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **359** |
+| 附來源連結的案例 | **366** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **322** |
-| 可於來源取得的原始提示詞 | **226** |
+| 創作者自述範例 | **329** |
+| 可於來源取得的原始提示詞 | **233** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **526** |
+| 已於本機封存的媒體檔案 | **536** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -203,6 +203,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

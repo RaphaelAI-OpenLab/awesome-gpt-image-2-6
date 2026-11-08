@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 65 | 0 |
-| [海报与文字排版](#category-posters-typography) | 41 | 0 |
+| [品牌与商品](#category-brand-products) | 67 | 0 |
+| [海报与文字排版](#category-posters-typography) | 42 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 11 | 0 |
 | [角色与一致性](#category-characters-consistency) | 55 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 36 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 12 | 0 |
-| [GIF 与动画](#category-gif-animation) | 123 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 13 | 0 |
+| [GIF 与动画](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **359** |
+| 来源案例 | **366** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **322** |
-| 来源公开原始提示词 | **226** |
+| 社区作者自报案例 | **329** |
+| 来源公开原始提示词 | **233** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **526** |
+| 本地收录素材文件 | **536** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -199,6 +199,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [保存马克杯参考图并复用于三个场景](cases/weel-saved-mug-scenes/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [AURORA橙色香水商品图](cases/community-struggle-aurora-perfume/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -247,6 +249,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [产品照转促销海报](cases/yepshot-campaign-sale-poster-text/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [更新促销折扣](cases/yepshot-text-promo-discount-update/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [AI进化论海报改为Image 2.6实测](cases/community-struggle-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -412,6 +415,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Ember & Rye 标志：SVG 工作流的栅格预览](cases/overchat-ember-rye-logo/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [咖啡杯 SVG 图标](cases/apixo-coffee-cup-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [场记板播放按钮 SVG](cases/aivideos-clapperboard-svg/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [代码闪电矢量标志](cases/community-struggle-code-lightning-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-gif-animation"></a>
 
@@ -542,6 +546,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [红披风骑士步行循环](cases/opusly-knight-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨窗咖啡蒸汽循环](cases/opusly-coffee-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Flixly：六项 GIF 生成与编辑测试](cases/flixly-six-gif-tests/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [月下美少女战士舞蹈](cases/community-struggle-sailor-dance/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [黏土橘猫敲键盘](cases/community-struggle-cat-programmer/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [桌面照片清理并转动图](cases/community-struggle-desk-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
