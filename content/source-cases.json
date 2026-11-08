@@ -10929,6 +10929,2118 @@
     }
   },
   {
+    "id": "cellcog-mascot-wave",
+    "status": "published",
+    "title": {
+      "en": "Glasses-wearing fox mascot wave",
+      "zh-CN": "戴眼镜狐狸吉祥物挥手"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Nitish Garg reports CellCog’s own 80-generation test on November 5, 00:50–02:30 UTC. The animation is individually discussed in the GPT Image 2.6 GIF section. Figure 4 explicitly names Flare.",
+        "zh-CN": "Nitish Garg 报告 CellCog 于 11 月 5 日 00:50–02:30 UTC 自行进行的 80 次生成测试。该动画在 GPT Image 2.6 GIF 小节单独展示讨论。图 4 明确标为 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/gpt-image-2-6-vs-2-5/gif-mascot.mp4?v=0403269d88",
+        "path": "assets/examples/cellcog-mascot-wave/source-01.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Glasses-wearing fox mascot wave. Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded.",
+          "zh-CN": "戴眼镜狐狸吉祥物挥手。归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "f60e0280099b8a89bf59f0cebf2cf68902dfee6d524ac093892e2fea72087fd4",
+        "bytes": 64448,
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "cellcog-labelled-workflow",
+    "status": "published",
+    "title": {
+      "en": "SCOUT ANALYSE PATCH animation",
+      "zh-CN": "SCOUT ANALYSE PATCH 流程动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Nitish Garg reports CellCog’s own 80-generation test on November 5, 00:50–02:30 UTC. The animation is individually discussed in the GPT Image 2.6 GIF section. The individual caption does not specify a variant; none is inferred.",
+        "zh-CN": "Nitish Garg 报告 CellCog 于 11 月 5 日 00:50–02:30 UTC 自行进行的 80 次生成测试。该动画在 GPT Image 2.6 GIF 小节单独展示讨论。单项配文未指定变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/gpt-image-2-6-vs-2-5/gif-explainer.mp4?v=42d1402619",
+        "path": "assets/examples/cellcog-labelled-workflow/source-01.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "SCOUT ANALYSE PATCH animation. Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded.",
+          "zh-CN": "SCOUT ANALYSE PATCH 流程动画。归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "8196a2e01ca2dab4b49bade6de552c753b0252e3390f6c9785b349f32096e13a",
+        "bytes": 23275,
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "cellcog-office-reaction",
+    "status": "published",
+    "title": {
+      "en": "Office worker surprise reaction",
+      "zh-CN": "办公室人物惊讶反应"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Nitish Garg reports CellCog’s own 80-generation test on November 5, 00:50–02:30 UTC. The animation is individually discussed in the GPT Image 2.6 GIF section. The individual caption does not specify a variant; none is inferred.",
+        "zh-CN": "Nitish Garg 报告 CellCog 于 11 月 5 日 00:50–02:30 UTC 自行进行的 80 次生成测试。该动画在 GPT Image 2.6 GIF 小节单独展示讨论。单项配文未指定变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/gpt-image-2-6-vs-2-5/gif-reaction.mp4?v=738be58be8",
+        "path": "assets/examples/cellcog-office-reaction/source-01.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Office worker surprise reaction. Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded.",
+          "zh-CN": "办公室人物惊讶反应。归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "ee16fc719483a600bac3f0b60c32f6b8b15871650bf18b0ed03d1e96c66306a5",
+        "bytes": 94557,
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "Archived as the original published MP4 presentation, not renamed GIF. The article describes GIF generation, but does not attach the original GIF bytes or exact prompt. Editorial 2.5 illustrations, hand-coded explainer SVGs and model-ambiguous edit panels are excluded. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "归档原网页发布的 MP4 展示文件，未伪改为 GIF。文章描述 GIF 生成，但未附原始 GIF 字节或完整提示词。排除 2.5 编辑插图、手写讲解 SVG 及模型归因不明的编辑拼图。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "cellcog-hourglass-icon",
+    "status": "published",
+    "title": {
+      "en": "Teal and amber hourglass pictogram comparison",
+      "zh-CN": "青色琥珀色沙漏图标对比"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "CellCog reports its own November 5 test; labels inside this original composite identify 2.5 Flare on the left and 2.6 Flare on the right.",
+        "zh-CN": "CellCog 报告自行进行的 11 月 5 日测试；原始拼图内标签明确指出左侧为 2.5 Flare、右侧为 2.6 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/gpt-image-2-6-vs-2-5/slide-1.webp?v=89ec235e9a",
+        "path": "assets/examples/cellcog-hourglass-icon/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Teal and amber hourglass pictogram comparison. The right panel is the eligible 2.6 output; the left older-model comparator is context only, never counted as another output. This is a raster WebP, not SVG. Exact prompt not shown.",
+          "zh-CN": "青色琥珀色沙漏图标对比。右侧为符合收录条件的 2.6 输出；左侧旧模型仅作上下文，不计为另一输出。这是位图 WebP，而非 SVG。未展示确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "f85e7058dfc6832f033175098368e6a7490d841c76c107eb1b169ea10e37721f",
+        "bytes": 30294,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "The right panel is the eligible 2.6 output; the left older-model comparator is context only, never counted as another output. This is a raster WebP, not SVG. Exact prompt not shown. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Source-caption discrepancy: the retained HTML calls this a stopwatch/dial, but the published comparison pixels depict hourglasses. The title follows the visible artifact; the model labels are printed in the image. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "右侧为符合收录条件的 2.6 输出；左侧旧模型仅作上下文，不计为另一输出。这是位图 WebP，而非 SVG。未展示确切提示词。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 来源配文存在差异：保留的 HTML 将其称为秒表或表盘，但公开对比画面实际为沙漏。标题依据可见作品；模型标签印于图内。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "cellcog-night-market-poster",
+    "status": "published",
+    "title": {
+      "en": "NIGHT MARKET typography comparison",
+      "zh-CN": "NIGHT MARKET 文字海报对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "CellCog reports its own November 5 test; labels inside this original composite identify 2.5 Flare on the left and 2.6 Flare on the right.",
+        "zh-CN": "CellCog 报告自行进行的 11 月 5 日测试；原始拼图内标签明确指出左侧为 2.5 Flare、右侧为 2.6 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/gpt-image-2-6-vs-2-5/slide-2.webp?v=7d7427ace5",
+        "path": "assets/examples/cellcog-night-market-poster/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "NIGHT MARKET typography comparison. The right panel is the eligible 2.6 output; the left older-model comparator is context only, never counted as another output. This is a raster WebP, not SVG. Exact prompt not shown.",
+          "zh-CN": "NIGHT MARKET 文字海报对比。右侧为符合收录条件的 2.6 输出；左侧旧模型仅作上下文，不计为另一输出。这是位图 WebP，而非 SVG。未展示确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/gpt-image-2-6-vs-2-5/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "df59fcb843118afe201d217cbbb81a75204a86471e7ddaf9ed6679088598ade7",
+        "bytes": 79898,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "The right panel is the eligible 2.6 output; the left older-model comparator is context only, never counted as another output. This is a raster WebP, not SVG. Exact prompt not shown. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "右侧为符合收录条件的 2.6 输出；左侧旧模型仅作上下文，不计为另一输出。这是位图 WebP，而非 SVG。未展示确切提示词。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-cafe-sign-motion",
+    "status": "published",
+    "title": {
+      "en": "Café neon text comparison",
+      "zh-CN": "咖啡馆霓虹文字对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-cafe-sign.gif",
+        "path": "assets/examples/nowrap-cafe-sign-motion/app-cafe-sign.gif",
+        "sha256": "4f19ba00daf1d521d600caca3c5fdf7ec1b8312b6e45a8d7cf3cf50cd84fd6e8",
+        "bytes": 698252,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a rainy café at night whose neon sign alternates between pink OPEN and blue LATE, with NOWRAP CAFÉ on the window",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：咖啡馆霓虹文字对比（12 帧，355×356）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-cafe-sign.gif",
+        "path": "assets/examples/nowrap-cafe-sign-motion/api-flare-cafe-sign.gif",
+        "sha256": "58f5714c7e7065735238eb83afd23a80c2807d9dcb0409cf75127adfe83be208",
+        "bytes": 1267018,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: the café scene, where some frames show OPEN and LATE overlapping",
+          "zh-CN": "API Flare：咖啡馆霓虹文字对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-cafe-sign.gif",
+        "path": "assets/examples/nowrap-cafe-sign-motion/api-sunburst-cafe-sign.gif",
+        "sha256": "2269baac8d10ece37768c44fe32ff9f71183a7b5e6d0a01a2fd1a04d692bb417",
+        "bytes": 1089317,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: the café scene, with the sign fading between OPEN and LATE",
+          "zh-CN": "API Sunburst：咖啡馆霓虹文字对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-cafe-sign-complexity-low.gif",
+        "path": "assets/examples/nowrap-cafe-sign-motion/api-flare-cafe-sign-complexity-low.gif",
+        "sha256": "866f3b532ad579099ee309801dda2fe9934e27636362ae3984958e0a0b3df50d",
+        "bytes": 1169278,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF at low complexity: the café sign alternating cleanly between OPEN and LATE; complexity low",
+          "zh-CN": "API Flare：咖啡馆霓虹文字对比；低复杂度（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-cafe-sign-complexity-low.gif",
+        "path": "assets/examples/nowrap-cafe-sign-motion/api-sunburst-cafe-sign-complexity-low.gif",
+        "sha256": "cbc4a22c5b21c851510808499b5421f6c3a90a1c1d45bc8cd4dc54deb4ff33a7",
+        "bytes": 1161369,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF at low complexity: the café sign flickering into partial words; complexity low",
+          "zh-CN": "API Sunburst：咖啡馆霓虹文字对比；低复杂度（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Five outputs include low-complexity Flare/Sunburst variants. Source reports stable NOWRAP CAFÉ spelling, overlapping OPEN/LATE in default Flare, and partial letters in low-complexity Sunburst. Those visual failures remain in the files. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "五份结果包括 Flare、Sunburst 的低复杂度变体。来源报告 NOWRAP CAFÉ 拼写稳定，默认 Flare 出现 OPEN/LATE 重叠，低复杂度 Sunburst 出现残缺字母；原文件保留这些问题。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-chart-motion",
+    "status": "published",
+    "title": {
+      "en": "Quarterly revenue chart animation",
+      "zh-CN": "季度收入图表动画"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-chart.gif",
+        "path": "assets/examples/nowrap-chart-motion/app-chart.gif",
+        "sha256": "5fec060d209fe0286368f71c47a494ecf117f8a3fe9ae7062c539d379d03932c",
+        "bytes": 239971,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a blue bar chart growing to 12, 18, 27 and 35, with grey placeholder bars",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：季度收入图表动画（8 帧，439×438）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-chart.gif",
+        "path": "assets/examples/nowrap-chart-motion/api-flare-chart.gif",
+        "sha256": "0f53f9066d0233b48ae0c6d91f095e542218bf19164ccf60943da9f70e714475",
+        "bytes": 313979,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a bar chart that grows to 12, 18, 27 and 35, then sweeps a highlight across the last bar",
+          "zh-CN": "API Flare：季度收入图表动画（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-chart.gif",
+        "path": "assets/examples/nowrap-chart-motion/api-sunburst-chart.gif",
+        "sha256": "5af9cdd2908faf09e06d6feeda711da13bf8195219133e9d6a1c280398e9bf6d",
+        "bytes": 345018,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a bar chart whose bars grow in stages to 12, 18, 27 and 35",
+          "zh-CN": "API Sunburst：季度收入图表动画（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Source reports approximate final bar-height errors: app about one unit short for Q1–Q3, Flare up to 0.7, Sunburst within 0.2. These measurements are publisher claims, not independently remeasured. Grey app placeholder bars and unlabelled Sunburst intermediate heights remain visible; treat as illustration, not exact data. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "来源报告最终柱高误差：应用 Q1–Q3 约低一单位，Flare 最大约 0.7，Sunburst 在 0.2 以内。这些是出版方测量，未独立复测。应用灰色占位柱和 Sunburst 无标签中间柱高清晰可见，应视作插画而非精确数据。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-ball-motion",
+    "status": "published",
+    "title": {
+      "en": "Bouncing ball frame-control comparison",
+      "zh-CN": "弹跳球帧数控制对比"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-ball-24-frames.gif",
+        "path": "assets/examples/nowrap-ball-motion/app-ball-24-frames.gif",
+        "sha256": "c35dfd2be3b453a213b0a9de075c943d290e23cdd0327c0f61997ab6f310cd4d",
+        "bytes": 122764,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a red ball bouncing with squash on impact, 24 frames",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：弹跳球帧数控制对比（24 帧，249×249）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-ball-9-frames.gif",
+        "path": "assets/examples/nowrap-ball-motion/api-flare-ball-9-frames.gif",
+        "sha256": "84f95079146a12e3badae27ac98ef82337db3f508115220e6aa0bfeaf2770c4f",
+        "bytes": 133324,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a red ball bouncing, 9 frames at the default timing",
+          "zh-CN": "API Flare：弹跳球帧数控制对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-ball-9-frames.gif",
+        "path": "assets/examples/nowrap-ball-motion/api-sunburst-ball-9-frames.gif",
+        "sha256": "0024b842e3d9a197d2de3108cf06a69abeb16e89c702eaa9c8c3e12d0b2927b1",
+        "bytes": 124487,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a red ball bouncing, 9 frames at the default timing",
+          "zh-CN": "API Sunburst：弹跳球帧数控制对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-ball-16-frames.gif",
+        "path": "assets/examples/nowrap-ball-motion/api-flare-ball-16-frames.gif",
+        "sha256": "82de653a2c1503db1d2779e1403b931c71cb2d4c5e52764e0479891f89412ef0",
+        "bytes": 229232,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a basketball bouncing unevenly, 16 frames at 100 ms",
+          "zh-CN": "API Flare：弹跳球帧数控制对比（16 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-ball-16-frames.gif",
+        "path": "assets/examples/nowrap-ball-motion/api-sunburst-ball-16-frames.gif",
+        "sha256": "8a0e1798e50f8de07520550592db78c5fe9f715a62ea57e1126fd86039c59f81",
+        "bytes": 169984,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a red ball bouncing with squash and stretch, 16 frames at 100 ms",
+          "zh-CN": "API Sunburst：弹跳球帧数控制对比（16 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "App file is 24×100 ms; API defaults are 9×200 ms despite the 24-frame prompt. Explicit API setting variants are 16×100 ms. Flare changes the ball to a basketball at 16 frames; Sunburst shows squash and stretch. Publisher reports rejected API requests above 16 frames; not independently rerun. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "应用文件为 24 帧×100 毫秒；尽管提示词要求 24 帧，API 默认结果为 9 帧×200 毫秒。显式 API 参数变体为 16 帧×100 毫秒。16 帧 Flare 将球变成篮球，Sunburst 有挤压拉伸。来源报告 API 拒绝超 16 帧请求，未独立重试。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-boat-motion",
+    "status": "published",
+    "title": {
+      "en": "Paper boat seamless-loop test",
+      "zh-CN": "纸船无缝循环测试"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-boat.gif",
+        "path": "assets/examples/nowrap-boat-motion/app-boat.gif",
+        "sha256": "6ebb6b143e492f16de662b174693ea91dfea5421b179abfd9a44d020b8cc0006",
+        "bytes": 699747,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a white paper boat drifting on a dark pond at dusk, lanterns reflected in the ripples",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：纸船无缝循环测试（12 帧，356×355）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-boat.gif",
+        "path": "assets/examples/nowrap-boat-motion/api-flare-boat.gif",
+        "sha256": "431c585c49d6e5c81f65fdadde5b548957906d59799f03a90d1148e4fd1c738a",
+        "bytes": 963206,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a paper boat on a pond under an orange sunset, with lotus flowers",
+          "zh-CN": "API Flare：纸船无缝循环测试（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-boat.gif",
+        "path": "assets/examples/nowrap-boat-motion/api-sunburst-boat.gif",
+        "sha256": "7456167dcefcf19798c6ce53d2bd757a0aca682dcb0fffb97e6a75edb42df79d",
+        "bytes": 953178,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a paper boat on a blue dusk pond, with cherry blossom",
+          "zh-CN": "API Sunburst：纸船无缝循环测试（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Three boat/ripple scenes with differing scenery. Source judges app and Flare loop joins comparable to neighbouring-frame changes, with Sunburst close. That numerical loop-quality comparison is not independently reproduced. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "三组纸船和涟漪画面采用不同背景。来源称应用和 Flare 的首尾差异接近相邻帧，Sunburst 较接近；未独立复现该数值循环质量比较。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-fox-motion",
+    "status": "published",
+    "title": {
+      "en": "Fox raincoat consistency test",
+      "zh-CN": "雨衣狐狸一致性测试"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-fox.gif",
+        "path": "assets/examples/nowrap-fox-motion/app-fox.gif",
+        "sha256": "c28d2d17f2ca2bd62921e184f115249a163eee313b3cf19c896df073d558833c",
+        "bytes": 904373,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a fox in a yellow raincoat under an umbrella walking in the rain at a bus stop, then turning to the camera",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：雨衣狐狸一致性测试（12 帧，352×349）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-fox.gif",
+        "path": "assets/examples/nowrap-fox-motion/api-flare-fox.gif",
+        "sha256": "59b9bb4a003647c0725f64240f4ca56885e150d93fce89157a9507d75e2f22ac",
+        "bytes": 1467344,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a fox in a yellow raincoat under an umbrella at a rainy bus stop",
+          "zh-CN": "API Flare：雨衣狐狸一致性测试（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-fox.gif",
+        "path": "assets/examples/nowrap-fox-motion/api-sunburst-fox.gif",
+        "sha256": "ae96ecdb2f144f24722e61613e16109183fa537643b53d587d4f521a43d60d3b",
+        "bytes": 1493113,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a fox in a yellow raincoat under an umbrella at a rainy bus stop",
+          "zh-CN": "API Sunburst：雨衣狐狸一致性测试（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Source reports stable fox, coat and one umbrella but failure to walk past the bus stop: the fox walks in place and turns. Left-paw placement and silver zip cannot be confidently resolved at published sizes. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "来源指出狐狸、雨衣和单把伞保持稳定，但未按要求走过公交站，而是在原地行走后转头。公开尺寸不足以可靠判断左爪持伞及银色拉链。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-night-market-motion",
+    "status": "published",
+    "title": {
+      "en": "Night-market crowd animation",
+      "zh-CN": "夜市人群动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-night-market.gif",
+        "path": "assets/examples/nowrap-night-market-motion/app-night-market.gif",
+        "sha256": "fa233e5de5c02c856783116f296da27bbfcf9c62c08cb9c8cca5993de0ba7783",
+        "bytes": 953163,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: a crowded night market with Satay, Laksa and Roti Prata stall signs and fireworks overhead",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：夜市人群动画（12 帧，358×356）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-night-market.gif",
+        "path": "assets/examples/nowrap-night-market-motion/api-flare-night-market.gif",
+        "sha256": "89f9c600cc601657396277221b666ff041bd0396bb574cc0b7fb976d87de1862",
+        "bytes": 1335565,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a crowded night market with Chinese-language signs and fireworks in every frame",
+          "zh-CN": "API Flare：夜市人群动画（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-night-market.gif",
+        "path": "assets/examples/nowrap-night-market-motion/api-sunburst-night-market.gif",
+        "sha256": "1ad62e527f458ce810595579e7cb25c3eec9fae68495989dac930ffaf850482a",
+        "bytes": 1272619,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a crowded night market with Chinese-language signs and English subtitles, the crowd walking toward the camera",
+          "zh-CN": "API Sunburst：夜市人群动画（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Source reports stable readable signs. App uses English food-stall signs; API outputs use Chinese signs, with English subtitles on Sunburst. Flare crowd motion is limited, while Sunburst advances toward camera. Small-face detail remains limited. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "来源报告招牌稳定可读。应用使用英文食摊招牌，API 使用中文，Sunburst 加有英文副标题。Flare 人群运动有限，Sunburst 人群向镜头移动；小人脸细节仍有限。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nowrap-logo-motion",
+    "status": "published",
+    "title": {
+      "en": "Nowrap logo motion comparison",
+      "zh-CN": "Nowrap 标志动态对比"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+      "author": "Nowrap",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nowrap’s November 5, 2026 hands-on test labels API outputs Flare and Sunburst. These known variants apply only to API media; the ChatGPT Plus app’s underlying variant is explicitly unknown. Publisher attribution, not independent generation verification.",
+        "zh-CN": "Nowrap 2026 年 11 月 5 日亲测将 API 结果标为 Flare 和 Sunburst；这两个已知变体仅适用于 API 媒体，ChatGPT Plus 应用底层变体明确未知。归属依据出版方陈述，非独立生成验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://nowrap.ai/tools/chatgpt-images-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/logo-original-reference.jpg",
+        "path": "assets/references/nowrap-logo-motion/logo-original-reference.jpg",
+        "sha256": "898f0ea3bab56656b00e6d4fa5970965f7a12ae63b7db2943bbdb243543da8f7",
+        "bytes": 13175,
+        "mime_type": "image/jpeg",
+        "role": "reference",
+        "kind": "image",
+        "alt": {
+          "en": "Original input reference: The original Nowrap logo: a black rounded rectangle followed by the lowercase word nowrap",
+          "zh-CN": "原始输入参考：Nowrap 标志动态对比（1 帧，388×161）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/app-logo.gif",
+        "path": "assets/examples/nowrap-logo-motion/app-logo.gif",
+        "sha256": "d9d952d7105882e0672dd0eda0e96dad944cb708f9886caa2757f504f7413aac",
+        "bytes": 129686,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "ChatGPT app (underlying variant unspecified): ChatGPT app GIF: the nowrap logo, a black rounded bar and the lowercase word nowrap, tilting gently",
+          "zh-CN": "ChatGPT 应用（底层变体未披露）：Nowrap 标志动态对比（10 帧，397×397）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-flare-logo.gif",
+        "path": "assets/examples/nowrap-logo-motion/api-flare-logo.gif",
+        "sha256": "ad62e20e483e8c350c962821ba1da1941dd2ed274786d0038220b97117889927",
+        "bytes": 133742,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Flare: API Flare GIF: a black pill-shaped bar swinging beside the word nowrap, with the bar drawn too tall",
+          "zh-CN": "API Flare：Nowrap 标志动态对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://nowrap.ai/reviews/chatgpt-images-2-6/api-sunburst-logo.gif",
+        "path": "assets/examples/nowrap-logo-motion/api-sunburst-logo.gif",
+        "sha256": "b1288da0dbac4d8a638f7422bc42487f1147b7302d557d444904dc03b196218e",
+        "bytes": 131943,
+        "mime_type": "image/gif",
+        "role": "output",
+        "kind": "gif",
+        "alt": {
+          "en": "API Sunburst: API Sunburst GIF: a black pill-shaped bar and the word nowrap, drifting slightly",
+          "zh-CN": "API Sunburst：Nowrap 标志动态对比（9 帧，512×512）"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://nowrap.ai/tools/chatgpt-images-2-6",
+          "credit": "Nowrap",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件；未核实明确转载许可。署名不等于授权，仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Prompt coverage: source-only applies to the exact app instruction only; the full API logo description is absent from the reviewed source. Input mismatch: only the app received the original logo image; API models received a written description calling the bar a fully rounded pill. Exact app instruction is public, but full API logo description is not reproduced. This is not a controlled image-reference comparison. Flare bar is taller and swings; Sunburst motion is subtle. One run per prompt/surface in a small publisher test, not a benchmark. Exact public instructions remain at source; no generations were run. App model must not be inferred from API labels. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "提示词覆盖范围：source-only 仅适用于应用的准确指令；已复核来源未提供完整 API 标志描述。输入不一致：仅应用获得原标志图，API 接收将竖条描述为完全圆角胶囊的文字。应用精确指令公开，但 API 标志描述全文未公开，不是受控图像参考对比。Flare 竖条更高且摇摆，Sunburst 动作较轻。 这是出版方每提示词/平台一次的小型测试，非基准测试。精确公开指令保留在来源；未执行生成。不得从 API 标签推断应用模型。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-owl-watercolor",
+    "status": "published",
+    "title": {
+      "en": "Owl doodle watercolor edit",
+      "zh-CN": "猫头鹰涂鸦水彩编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/gallery-06-owl-watercolor.webp",
+        "path": "assets/examples/toonderly-owl-watercolor/gallery-06-owl-watercolor.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Teal and ochre watercolor washes added to an owl drawing.",
+          "zh-CN": "猫头鹰线稿添加青绿色与赭色水彩。"
+        },
+        "sha256": "1558621f228c4d78d29ee0fdf117e96c5ad10a0b5feed94dfa1c4a4ee06fdb9a",
+        "bytes": 59498,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/gallery-02-owl-doodle.webp",
+        "path": "assets/references/toonderly-owl-watercolor/gallery-02-owl-doodle.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Original pen-drawn owl doodle reference",
+          "zh-CN": "猫头鹰钢笔涂鸦参考图。"
+        },
+        "sha256": "ad61ea873d7b5d51bebe3e099d2c5bfd1e1e825346bfc6899ff84b917e6b133b",
+        "bytes": 60690,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source pairs the pen drawing with the watercolor edit; both are archived. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "来源将钢笔画与水彩编辑结果配对展示，两者均已存档。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-fox-bounce",
+    "status": "published",
+    "title": {
+      "en": "Bouncing fox pup loop",
+      "zh-CN": "小狐狸弹跳循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/gallery-04-fox-bounce.gif",
+        "path": "assets/examples/toonderly-fox-bounce/gallery-04-fox-bounce.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cartoon fox pup bouncing in a sunny meadow.",
+          "zh-CN": "阳光草地上弹跳的卡通小狐狸。"
+        },
+        "sha256": "6a6bda5dfeb83cc7799b4da2e3c757ae1d2505a1bc246471fe9f9bc191b71ce7",
+        "bytes": 527208,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Original animated GIF. The 2026-11-05 collector reported browser playback at 15:45 UTC, with standing/crouching changes. The 2026-11-06 local audit checked all six stored frames; it did not repeat browser playback. The short gallery caption is not a full public prompt. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "原始动态 GIF。2026 年 11 月 5 日采集者记录于 15:45 UTC 检查浏览器播放，观察到站立与蹲伏变化。2026 年 11 月 6 日本地审查核对全部六个已存帧，没有重新播放浏览器动画。简短图库标题不被视为完整公开提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-robot-storyboard",
+    "status": "published",
+    "title": {
+      "en": "Robot learning to fly storyboard",
+      "zh-CN": "机器人学飞分镜"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/feat-storyboard.webp",
+        "path": "assets/examples/toonderly-robot-storyboard/feat-storyboard.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Four-panel pencil storyboard of a small robot learning to fly.",
+          "zh-CN": "小机器人学习飞行的四格铅笔分镜。"
+        },
+        "sha256": "2e5fe825921ad0e8b825298bff43d7f666f64654365fec0749421ef7cb352753",
+        "bytes": 130018,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The page describes a four-panel storyboard generated from one prompt but does not publish that full prompt. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "页面称四格分镜由一个提示词生成，但未公开完整提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-ramen-sparrow-edit",
+    "status": "published",
+    "title": {
+      "en": "Sparrow added to a ramen shop",
+      "zh-CN": "拉面店添加麻雀"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/feat-ramen-sparrow.webp",
+        "path": "assets/examples/toonderly-ramen-sparrow-edit/feat-ramen-sparrow.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Ramen shop with a sparrow perched on a paper lantern and a cat chef.",
+          "zh-CN": "纸灯笼上停着麻雀、由猫厨师经营的拉面店。"
+        },
+        "sha256": "72b76f3bdd5eff4ac2943dee7827a7eb3aaf8c9ea42fc86ad17a1eb621f20cae",
+        "bytes": 118022,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The publisher describes an edit adding one sparrow while preserving the cat chef, signs and scene. No before/reference image is present in the retained source mapping or local package, so scene preservation cannot be independently compared. This case contains the claimed edited output only; the short edit description is not treated as a full public prompt. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "发布方描述为添加一只麻雀并保留猫厨师、招牌与场景的编辑。保留的来源对应记录与本地包均未提供编辑前参考图，因此无法独立对比保留效果。本案例仅包含发布方声称的编辑输出；简短编辑描述不被视为完整公开提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-bounce-poster",
+    "status": "published",
+    "title": {
+      "en": "BOUNCE balloon-letter poster",
+      "zh-CN": "BOUNCE 气球字海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/feat-bounce-poster.webp",
+        "path": "assets/examples/toonderly-bounce-poster/feat-bounce-poster.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Bright balloon letters spelling BOUNCE with confetti.",
+          "zh-CN": "彩色气球字 BOUNCE 与纸屑。"
+        },
+        "sha256": "4df07670a5dca12e4ec4a6ebd737d4a9e68bbfe89c9183d71bd6e1bc3cec1ae2",
+        "bytes": 48954,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A raster typography poster; the page description is not a published full generation prompt. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "栅格文字海报；页面描述不是公开的完整生成提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-penguin-pancake",
+    "status": "published",
+    "title": {
+      "en": "Penguin chef pancake-flip loop",
+      "zh-CN": "企鹅厨师翻煎饼循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/uc-penguin-pancake.gif",
+        "path": "assets/examples/toonderly-penguin-pancake/uc-penguin-pancake.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Penguin chef tossing a pancake from a small skillet.",
+          "zh-CN": "企鹅厨师用小煎锅抛起煎饼。"
+        },
+        "sha256": "b04863ea64b6adb4373903eedefd539278f7e4debeaf855e06369de8f9a22f81",
+        "bytes": 886192,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Original animated GIF. The 2026-11-05 collector reported browser playback at 15:45 UTC, with the pancake in the pan and air. The 2026-11-06 local audit checked all six stored frames without repeating browser playback. The full public prompt is retained in the source page text, under “What You Can Make with GPT Image 2.6” → “Animated GIF” → “Prompt”; follow the source link for the original wording. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "原始动态 GIF。2026 年 11 月 5 日采集者记录于 15:45 UTC 检查浏览器播放，观察到煎饼在锅中与空中的变化。2026 年 11 月 6 日本地审查检查全部六个已存帧，未重新播放浏览器动画。保留的页面文字包含完整公开提示词，位于“What You Can Make with GPT Image 2.6”→“Animated GIF”→“Prompt”；请通过来源链接查看原文。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-fox-badge",
+    "status": "published",
+    "title": {
+      "en": "Flat fox mascot badge",
+      "zh-CN": "扁平狐狸吉祥物徽章"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/uc-fox-badge.webp",
+        "path": "assets/examples/toonderly-fox-badge/uc-fox-badge.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Friendly fox head inside a circular flat-color mascot badge.",
+          "zh-CN": "圆形扁平色彩徽章中的友好狐狸头像。"
+        },
+        "sha256": "c64faf3c77bea9fe8140d96830ea08fb9fd8842174f5f3f16ddda333090e914d",
+        "bytes": 47996,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Raster WebP artwork with a vector-like style and transparent outer pixels, not SVG or evidence of working SVG export. The full public prompt is retained in the source page text, under “What You Can Make with GPT Image 2.6” → “Graphic” → “Prompt”; follow the source link for the original wording. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "带有透明外围像素的矢量风格栅格 WebP，并非 SVG，也不能证明 SVG 导出可用。保留的页面文字包含完整公开提示词，位于“What You Can Make with GPT Image 2.6”→“Graphic”→“Prompt”；请通过来源链接查看原文。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "toonderly-dog-photo-cartoon",
+    "status": "published",
+    "title": {
+      "en": "Golden retriever photo to cartoon",
+      "zh-CN": "金毛照片转卡通"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+      "author": "Toonderly",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained 2026-11-05 page text explicitly attributes Toonderly’s own generated samples, including both GIFs, to GPT Image 2.6 Sunburst. This applies to the output, not a claim that reference inputs were generated by that model. The separately credited official whale imagery is excluded. These are publisher claims, not independently reproduced generations.",
+        "zh-CN": "保留的 2026 年 11 月 5 日页面文字明确称 Toonderly 自有生成样例（包括两段 GIF）使用 GPT Image 2.6 Sunburst。此归属适用于输出，不意味着参考输入也由该模型生成。单独归属官方公告的鲸鱼图片已排除。这些是发布方声明，并非本项目独立复现的生成。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/uc-photo-after.webp",
+        "path": "assets/examples/toonderly-dog-photo-cartoon/uc-photo-after.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Animated-movie-style golden retriever in a park.",
+          "zh-CN": "公园中动画电影风格的金毛犬。"
+        },
+        "sha256": "c510459b937e8eaf69b8de952cddee90f084885804aa56f7edd2c9bc396accc6",
+        "bytes": 38496,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://artworks.aicartoongenerator.io/assets/pages/models/gpt-image-2-6/outputs/uc-photo-before.webp",
+        "path": "assets/references/toonderly-dog-photo-cartoon/uc-photo-before.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference photo of a happy golden retriever in a park",
+          "zh-CN": "公园中金毛犬的参考照片。"
+        },
+        "sha256": "9812898e7ca2e80ea8d5e61febcf2e359cbfff70d44480a498a6831c7b94c67f",
+        "bytes": 17292,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aicartoongenerator.io/models/gpt-image-2-6",
+          "credit": "Toonderly",
+          "note": {
+            "en": "Public source sample archived unchanged with attribution. No redistribution license verified; not open-licensed and not covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样存档并署名。未核实转载许可，非开放许可素材，不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source pairs a dog photo with the cartoon output. Both are archived; the full transformation prompt is not public. The rendering changes coat color and background details, so this is not exact preservation. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "来源将狗狗照片与卡通结果配对展示。两者均已存档，完整转换提示词未公开。结果改变了毛色和背景细节，并非精确保留。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "cellcog-vector-comparison-renders",
+    "status": "published",
+    "title": {
+      "en": "Six vector-test comparison renders",
+      "zh-CN": "六组矢量测试对比渲染"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+      "author": "Nitish Garg / CellCog",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "CellCog identifies the right side of six published comparison images as GPT Image 2.6, paired with Recraft V4.1 on the left. The article describes its own paid SVG tests. Exact image-model variant is not assigned to each slide. These are publisher claims, not independently reproduced results.",
+        "zh-CN": "CellCog 将六张公开对比图右侧标为 GPT Image 2.6，左侧为 Recraft V4.1，并描述自己的付费 SVG 测试。每张图未明确对应具体图像模型变体。此为发布方声明，非独立复现结果。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-1.webp?v=48a1e42bae",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-1.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Bakery wordmark; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "烘焙字标；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "7955a2549fed86056d2f326cdd3758338963f8449e2470217c2f7f66e4590717",
+        "bytes": 33458,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-2.webp?v=ce829acbe4",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-2.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Three-step labelled flow; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "三步标签流程；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "c42ca84c7e6a026b50c95f2c7df1f9906ed61df2e3ae53d96536c1492fff06e4",
+        "bytes": 20310,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-3.webp?v=453d97ba79",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-3.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman at a desk at dusk; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "黄昏桌旁女性；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "60424dc11e786b50ddf8826cf2239ef06e3ee4c58521a5543c35a6a61d240455",
+        "bytes": 56534,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-4.webp?v=f18bfdde0a",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-4.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Orange fox mascot; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "橙色狐狸吉祥物；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "bcf28acb15fba1499bd528bd484be55fce7751562a71ce46c0e507d5f1d44a94",
+        "bytes": 34690,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-5.webp?v=f5120f504b",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-5.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Paper-plane app icon; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "纸飞机应用图标；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "b40c65da29e00c127c1587d386e597affc781d2ab9786d71cf47a4ab74df6e72",
+        "bytes": 21128,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cellcog.ai/blog/media/recraft-v4-1-vs-gpt-image-2-6-svg/slide-6.webp?v=d6b28eea92",
+        "path": "assets/examples/cellcog-vector-comparison-renders/slide-6.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Four line icons; Recraft left, GPT Image 2.6 right.",
+          "zh-CN": "四个线条图标；左侧 Recraft，右侧 GPT Image 2.6。"
+        },
+        "sha256": "9b4a7af7b491e974a8991f1d999120bd540eec6c1a778f44044531c236123ada",
+        "bytes": 18748,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://cellcog.ai/blog/recraft-v4-1-vs-gpt-image-2-6-svg/",
+          "credit": "Nitish Garg / CellCog",
+          "note": {
+            "en": "Public source sample preserved unchanged with attribution. No redistribution license verified; not open-licensed or covered by the repository MIT license.",
+            "zh-CN": "公开来源样例原样保存并署名。未核实转载许可，非开放许可素材，也不受仓库 MIT 许可证覆盖。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Original WebP comparison renders only, not editable SVG files or proof of inert vector structure. Six subjects: bakery wordmark, labelled flow, dusk desk scene, fox mascot, paper-plane app icon and four line icons. Full prompts and original SVG files are not exposed; no prompt reconstructed. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "仅保存原始 WebP 对比渲染图，不是可编辑 SVG 文件，也不能证明矢量结构安全。六个主题：烘焙品牌字标、带标签流程、黄昏桌面、狐狸吉祥物、纸飞机应用图标及四个线条图标。未提供完整提示词与原始 SVG，不重构提示词。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Historical source access is recorded for 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability check was made.",
+        "zh-CN": "历史来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，未检查当前可访问性。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were rechecked by SHA-256, byte length and full decoding on 2026-11-08. Every GIF frame and each distinct MP4 frame was inspected as still frames; this is not new timed playback or an online access test.",
+        "zh-CN": "2026-11-08 复核留存原文件的 SHA-256、字节数与完整解码，以静帧检查每个 GIF 帧及 MP4 的各个不同帧；不等于新的实时播放或在线访问测试。"
+      },
+      "report_path": "docs/NOWRAP_CELLCOG_TOONDERLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
     "id": "yir-portrait-edit-sequence",
     "status": "published",
     "title": {

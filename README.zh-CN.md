@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 20 | 0 |
-| [海报与文字排版](#category-posters-typography) | 22 | 0 |
-| [信息图](#category-infographics) | 11 | 0 |
+| [品牌与商品](#category-brand-products) | 22 | 0 |
+| [海报与文字排版](#category-posters-typography) | 25 | 0 |
+| [信息图](#category-infographics) | 12 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 5 | 0 |
-| [角色与一致性](#category-characters-consistency) | 24 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 15 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 35 | 0 |
+| [角色与一致性](#category-characters-consistency) | 26 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 18 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 8 | 0 |
+| [GIF 与动画](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **138** |
+| 来源案例 | **159** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **101** |
-| 来源公开原始提示词 | **98** |
+| 社区作者自报案例 | **122** |
+| 来源公开原始提示词 | **107** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **224** |
+| 本地收录素材文件 | **271** |
 | 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -152,6 +152,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [三种口味汽水陈列](cases/yir-flavor-lineup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [法压壶产品照与背景编辑延续](cases/community-gptimagehub-french-press-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [SUMMIT ROAST 咖啡袋产品图](cases/zzo-flare-summit-roast-bag/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Nowrap 标志动态对比](cases/nowrap-logo-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [扁平狐狸吉祥物徽章](cases/toonderly-fox-badge/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [腕表四轮编辑](cases/yir-watch-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
@@ -182,6 +184,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [根据文档简报生成的英印双语晚间菜单](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [NIGHT TIDE 海浪演出海报](cases/zzo-flare-night-tide-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [NIGHT MARKET 文字海报对比](cases/cellcog-night-market-poster/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [咖啡馆霓虹文字对比](cases/nowrap-cafe-sign-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [BOUNCE 气球字海报](cases/toonderly-bounce-poster/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [OPEN LATE 霓虹店面招牌](cases/kavel-open-late/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-infographics"></a>
@@ -201,6 +206,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [法案成为法律六步信息图对比](cases/community-gptimagehub-law-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [帝王蝶生命周期自然图鉴](cases/analyticsvidhya-monarch-life-cycle/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [自动咖啡机流程信息图](cases/zzo-flare-coffee-machine-diagram/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [季度收入图表动画](cases/nowrap-chart-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -242,6 +248,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [蓝调时刻渡轮](cases/yir-ferry-blue-hour/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [夜市面摊](cases/yir-noodle-stall/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨衣女孩动画分镜](cases/yir-raincoat-storyboard/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雨衣狐狸一致性测试](cases/nowrap-fox-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [机器人学飞分镜](cases/toonderly-robot-storyboard/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [人像四轮编辑](cases/yir-portrait-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [九十年代闪光灯风格人像](cases/kavel-90s-snapshot/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
@@ -266,6 +274,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [标注引导的森林绿扶手椅编辑](cases/analyticsvidhya-markup-green-armchair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [森林溪石上的 LUMA 02 滴管瓶](cases/zzo-flare-luma-forest-stone/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [猫头鹰涂鸦水彩编辑](cases/toonderly-owl-watercolor/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [拉面店添加麻雀](cases/toonderly-ramen-sparrow-edit/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [金毛照片转卡通](cases/toonderly-dog-photo-cartoon/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -279,6 +290,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Harbor Roast 矢量标志](cases/community-lightlyn-coffee-logo-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [六枚天气 SVG 图标](cases/community-lightlyn-weather-icons-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [将咖啡馆照片转换为矢量插画](cases/community-lightlyn-latte-vector-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [青色琥珀色沙漏图标对比](cases/cellcog-hourglass-icon/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [六组矢量测试对比渲染](cases/cellcog-vector-comparison-renders/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-gif-animation"></a>
 
@@ -318,6 +331,14 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [圣诞树动画预览](cases/zzo-christmas-tree/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [2027 新年动画预览](cases/zzo-new-year-2027/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雪窗小猫动画预览](cases/zzo-window-cat-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [戴眼镜狐狸吉祥物挥手](cases/cellcog-mascot-wave/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [SCOUT ANALYSE PATCH 流程动画](cases/cellcog-labelled-workflow/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [办公室人物惊讶反应](cases/cellcog-office-reaction/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [弹跳球帧数控制对比](cases/nowrap-ball-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [纸船无缝循环测试](cases/nowrap-boat-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [夜市人群动画](cases/nowrap-night-market-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [小狐狸弹跳循环](cases/toonderly-fox-bounce/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [企鹅厨师翻煎饼循环](cases/toonderly-penguin-pancake/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [LUCKY 霓虹招牌闪烁](cases/kavel-neon-lucky/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [柯基追逐尾巴](cases/kavel-corgi/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [扁平角色拉伸动作](cases/kavel-stretch/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |

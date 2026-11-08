@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 20 | 0 |
-| [Posters & typography](#category-posters-typography) | 22 | 0 |
-| [Infographics](#category-infographics) | 11 | 0 |
+| [Brand & product visuals](#category-brand-products) | 22 | 0 |
+| [Posters & typography](#category-posters-typography) | 25 | 0 |
+| [Infographics](#category-infographics) | 12 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 24 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 15 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 35 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 26 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 18 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
+| [GIF & animation](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **138** |
+| Source-linked cases | **159** |
 | Official examples | **37** |
-| Creator-reported examples | **101** |
-| Original prompts available at source | **98** |
+| Creator-reported examples | **122** |
+| Original prompts available at source | **107** |
 | Full prompts published here | **0** |
-| Locally archived media files | **224** |
+| Locally archived media files | **271** |
 | Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -152,6 +152,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model | Original prompt at source |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model | Original prompt at source |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Creator-reported model | Original prompt at source |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Creator-reported model | Original prompt at source |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 
@@ -182,6 +184,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Creator-reported model | Original prompt at source |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Creator-reported model | Prompt not public |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Creator-reported model | Original prompt at source |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Creator-reported model | Prompt not public |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-infographics"></a>
@@ -201,6 +206,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model | Original prompt at source |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Creator-reported model | Original prompt at source |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Creator-reported model | Original prompt at source |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -242,6 +248,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Creator-reported model | Original prompt at source |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Creator-reported model | Original prompt at source |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Creator-reported model | Original prompt at source |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Creator-reported model | Prompt not public |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Creator-reported model | Original prompt at source |
 
@@ -266,6 +274,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model | Original prompt at source |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Creator-reported model | Original prompt at source |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Creator-reported model | Original prompt at source |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Creator-reported model | Prompt not public |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Creator-reported model | Prompt not public |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -279,6 +290,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Creator-reported model | Prompt not public |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
 
@@ -318,6 +331,14 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Creator-reported model | Prompt availability unverified |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Creator-reported model | Prompt availability unverified |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Creator-reported model | Original prompt at source |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Creator-reported model | Prompt not public |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Creator-reported model | Prompt not public |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Creator-reported model | Prompt not public |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Creator-reported model | Prompt not public |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Creator-reported model | Original prompt at source |
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Creator-reported model | Prompt not public |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Creator-reported model | Prompt not public |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Creator-reported model | Original prompt at source |
