@@ -7,7 +7,7 @@
 - `content/source-cases.json`: source-linked cases, including works without public prompts. Both languages are required. The schema is `content/source-cases.schema.json`.
 - `content/prompts.json`: complete original prompts and reproducibility metadata. This dataset keeps its existing schema. Do not copy a source-case record into it without the actual prompt and appropriate reuse terms.
 - `docs/CASE_GALLERY.md`: dated research record, including media reports and unresolved leads. It is historical context, not the live case count.
-- `docs/PENDING_MODEL_LEADS_2026-11-08.md`: [22 model-unconfirmed leads / 22条模型未确认线索](PENDING_MODEL_LEADS_2026-11-08.md). Documentation only, not verified GPT Image 2.6 works and not part of the published case count. 仅存线索，不代表确认使用2.6，不计入已发布案例。
+- `docs/PENDING_MODEL_LEADS_2026-11-08.md`: [50 unconfirmed leads / 50条模型或来源待核线索](PENDING_MODEL_LEADS_2026-11-08.md). Includes 22 model holds and 28 source-blocked holds. Documentation only, not verified GPT Image 2.6 works and not part of the published case count. 仅存线索，不代表确认使用2.6，不计入已发布案例。
 - Never edit generated README or `cases/<id>/README*.md` files directly. Every published source case appears in both README category lists and has two internal detail pages.
 
 Prompt availability is independent of model evidence, attribution and media reuse eligibility:
