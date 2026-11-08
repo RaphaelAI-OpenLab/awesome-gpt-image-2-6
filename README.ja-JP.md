@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 22 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 26 | 0 |
-| [インフォグラフィック](#category-infographics) | 11 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 5 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 27 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 17 | 0 |
-| [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 44 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 26 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 29 | 0 |
+| [インフォグラフィック](#category-infographics) | 12 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 7 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 29 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 20 | 0 |
+| [SVG・デザイン素材](#category-svg-design-assets) | 8 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 90 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **158** |
+| 出典リンク付き事例 | **221** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **121** |
-| 出典で公開されている原文プロンプト | **113** |
+| 作者が報告した作例 | **184** |
+| 出典で公開されている原文プロンプト | **164** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **251** |
-| 出典の最終確認日時（UTC） | **2026-11-08** |
+| ローカルに保存済みのメディアファイル | **346** |
+| 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -156,8 +156,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
 
@@ -188,6 +192,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
@@ -211,6 +218,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-interiors-architecture"></a>
 
@@ -223,6 +231,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
@@ -252,6 +262,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
@@ -279,6 +291,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 作者申告のモデル | プロンプト非公開 |
 
@@ -294,6 +309,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-gif-animation"></a>
 
@@ -333,9 +350,55 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
