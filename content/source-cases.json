@@ -17531,5 +17531,659 @@
       },
       "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "sogni-flare-bakery-poster",
+    "status": "published",
+    "title": {
+      "en": "FIELD & FLOUR bakery poster",
+      "zh-CN": "FIELD & FLOUR 烘焙海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+      "author": "Sogni Labs",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual caption reads GPT Image 2.6 Flare · Medium. Sogni Labs reports one take per prompt, 1024 square JPEG, Medium quality and High planning complexity through serial OpenAI Images API calls on November 4, 2026 PT.",
+        "zh-CN": "单图配文为 GPT Image 2.6 Flare · Medium。Sogni Labs 称于太平洋时间 2026 年 11 月 4 日串行调用 OpenAI Images API，每条提示词一次生成，1024 方形 JPEG、中等画质、高规划复杂度。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/assets/poster-26-flare.jpg",
+        "path": "assets/examples/sogni-flare-bakery-poster/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Bread and wheat above FIELD & FLOUR BAKED DAILY on cream",
+          "zh-CN": "奶油色背景上，面包与麦穗下写有 FIELD & FLOUR BAKED DAILY"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+          "credit": "Sogni Labs",
+          "note": {
+            "en": "Public-source copy with original provider attribution. No explicit redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原提供方署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "2f221298f96e378efb63f81e85ec2e18436d3882eebed27c0fb2e00ef693e5c1",
+        "bytes": 179132,
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Only the visible GPT Image 2.6 Flare bakery poster is included. The 2.5 counterpart and discussed but unattached solar-system/watch images are excluded. The reviewed source does not provide the exact bakery prompt; not-public records this observed absence, not secrecy or availability elsewhere. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "仅收录可见的 GPT Image 2.6 Flare 烘焙海报。排除 2.5 对照及仅提及但未展示的太阳系、腕表图。已复核来源未提供准确烘焙提示词；not-public 仅记录此观察结果，不判断保密意图或其他地方的公开情况。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "sogni-sunburst-lantern-loop",
+    "status": "published",
+    "title": {
+      "en": "Sunburst monkey lantern loop",
+      "zh-CN": "Sunburst 提灯猴循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+      "author": "Sogni Labs",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Sogni Labs labels this GIF Sunburst at Medium quality, nine 896 × 896 frames and 200 ms/frame; the article describes its own measured run. This is provider attribution, not independent reproduction.",
+        "zh-CN": "Sogni Labs 将此 GIF 标为 Sunburst、中等画质、九个 896 × 896 帧及每帧 200 毫秒，文章描述其自行测量的生成。这是提供方归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://blog.sogni.ai/blogs/gpt-image-2-6/"
+    },
+    "media": [
+      {
+        "source_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/assets/lantern-sunburst.gif",
+        "path": "assets/examples/sogni-sunburst-lantern-loop/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Monkey in a green coat raises and lowers a lantern outside a snowy cabin",
+          "zh-CN": "绿外套猴子在雪地小屋外举起再放下灯笼"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+          "credit": "Sogni Labs",
+          "note": {
+            "en": "Public-source copy with original provider attribution. No explicit redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原提供方署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "2048efc145e0d9f5560d7706f4b29580332679cb37d657ba847e02fede812d5f",
+        "bytes": 3349096,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Same broad subject as the official monkey-lantern example, but different bytes and visibly different character, clothing and framing. The displayed motion prompt is linked at source. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "与官方提灯猴案例主题相近，但字节不同，角色、服装及构图也明显不同。已链接原文展示的动作提示词。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "sogni-flare-lantern-loop",
+    "status": "published",
+    "title": {
+      "en": "Flare monkey lantern loop",
+      "zh-CN": "Flare 提灯猴循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+      "author": "Sogni Labs",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Sogni Labs labels this GIF Flare at Medium quality, nine 896 × 896 frames and 200 ms/frame; the article describes its own measured run. This is provider attribution, not independent reproduction.",
+        "zh-CN": "Sogni Labs 将此 GIF 标为 Flare、中等画质、九个 896 × 896 帧及每帧 200 毫秒，文章描述其自行测量的生成。这是提供方归因，非独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/assets/lantern-flare.gif",
+        "path": "assets/examples/sogni-flare-lantern-loop/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Monkey in a green coat raises and lowers a lantern outside a snowy cabin",
+          "zh-CN": "绿外套猴子在雪地小屋外举起再放下灯笼"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://blog.sogni.ai/blogs/gpt-image-2-6/",
+          "credit": "Sogni Labs",
+          "note": {
+            "en": "Public-source copy with original provider attribution. No explicit redistribution license was verified. Public availability and attribution do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原提供方署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "dbec1fda06e7325215649f14b08a08094b2afff48cbf2ef5913ed61bded1712b",
+        "bytes": 3295042,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Same broad subject as the official monkey-lantern example, but different bytes and visibly different character, clothing and framing. The article says Flare used a similar prompt, not explicitly the identical published Sunburst prompt; exact Flare prompt remains unknown. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "与官方提灯猴案例主题相近，但字节不同，角色、服装及构图也明显不同。文章称 Flare 使用类似提示词，并未确认与公开的 Sunburst 提示词完全相同；确切 Flare 提示词未知。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "sandbase-northlight-tea-posters",
+    "status": "published",
+    "title": {
+      "en": "NORTHLIGHT TEA poster layout comparison",
+      "zh-CN": "NORTHLIGHT TEA 海报版式对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://blog.sandbase.ai/gpt-image-2-6-flare-sunburst-api-2026/",
+      "author": "Evelyn Park / SandBase",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "SandBase identifies its own medium-quality API test as GPT Image 2.6 Flare and Sunburst and states the panel order. This is the provider’s attribution, not independent verification of the served model.",
+        "zh-CN": "SandBase 将自己的中等画质 API 测试明确标为 GPT Image 2.6 Flare 与 Sunburst，并说明面板顺序。这是提供方归因，不是对实际调用模型的独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://static.sandbase.ai/blog/screenshots/gpt-image-2-6-flare-sunburst-api-2026/t2i-pair-d834853a41f3.png",
+        "path": "assets/examples/sandbase-northlight-tea-posters/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Original pair: Flare left, Sunburst right, with 1024 × 1280 panels. The fictional tea posters place the date differently. The article describes the medium-quality brief but its abbreviated low-quality code example is not the exact prompt for these outputs.",
+          "zh-CN": "原始双联图：左为 Flare，右为 Sunburst，每格 1024 × 1280。虚构茶叶海报的日期位置不同。文章描述了中等画质测试要求，但简写的低画质代码示例并非这些输出的确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://blog.sandbase.ai/gpt-image-2-6-flare-sunburst-api-2026/",
+          "credit": "Evelyn Park / SandBase",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "d834853a41f3d7ea12f9affbfea25cc00ccde0c5b5657de271126f03b34ccac2",
+        "bytes": 2983292,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original pair: Flare left, Sunburst right, with 1024 × 1280 panels. The fictional tea posters place the date differently. The article describes the medium-quality brief but its abbreviated low-quality code example is not the exact prompt for these outputs. Offline recovery review on 2026-11-08 checked retained original browser page text and image captions, plus dated exact-file manifest. Provider results and measurements are not independent benchmarks. The archived original PNG contains the publisher’s comparison panels, not one independently generated image: original 1024×1280 panels plus 16-pixel gutters. The retained browser extraction shows the corresponding WebP previews and Original PNG links by text; exact PNG URLs and hashes come from the dated collection manifest.",
+      "zh-CN": "原始双联图：左为 Flare，右为 Sunburst，每格 1024 × 1280。虚构茶叶海报的日期位置不同。文章描述了中等画质测试要求，但简写的低画质代码示例并非这些输出的确切提示词。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。 存档原始PNG为发布方对比拼图，不是一次独立生成的单图：原始1024×1280面板加16像素间隔。保留的浏览器提取含对应WebP预览与Original PNG链接文字；准确PNG地址和哈希依据当日采集清单。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "sandbase-northlight-tea-edits",
+    "status": "published",
+    "title": {
+      "en": "NORTHLIGHT TEA color and date edits",
+      "zh-CN": "NORTHLIGHT TEA 颜色及日期编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://blog.sandbase.ai/gpt-image-2-6-flare-sunburst-api-2026/",
+      "author": "Evelyn Park / SandBase",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "SandBase identifies its own medium-quality API test as GPT Image 2.6 Flare and Sunburst and states the panel order. This is the provider’s attribution, not independent verification of the served model.",
+        "zh-CN": "SandBase 将自己的中等画质 API 测试明确标为 GPT Image 2.6 Flare 与 Sunburst，并说明面板顺序。这是提供方归因，不是对实际调用模型的独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://static.sandbase.ai/blog/screenshots/gpt-image-2-6-flare-sunburst-api-2026/edit-triptych-23b40a05d8d5.png",
+        "path": "assets/examples/sandbase-northlight-tea-edits/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Original triptych: Flare base, Flare edit, Sunburst edit. Both edits change the tin from green to burgundy and the date from Nov 12 to Nov 19. The base repeats the poster test as input context, not a new result. The full original edit prompt is not provided in the reviewed article.",
+          "zh-CN": "原始三联图：Flare 底图、Flare 编辑、Sunburst 编辑。两张编辑图将茶罐由绿色改为酒红色，日期由 11 月 12 日改为 19 日。底图重复海报测试，仅作输入上下文，不另计结果。所查文章未提供完整原始编辑提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://blog.sandbase.ai/gpt-image-2-6-flare-sunburst-api-2026/",
+          "credit": "Evelyn Park / SandBase",
+          "note": {
+            "en": "Public-source copy with original author attribution. No explicit redistribution license was verified. Public availability and credit do not grant permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开来源副本，保留原作者署名。未核实明确转载许可证。公开可见及署名不构成授权，仓库 MIT 许可证不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "23b40a05d8d546b1b1b1e657d118c3b25653d23ccac73a4de4da8157a4ea0b7b",
+        "bytes": 4508756,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original triptych: Flare base, Flare edit, Sunburst edit. Both edits change the tin from green to burgundy and the date from Nov 12 to Nov 19. The base repeats the poster test as input context, not a new result. The full original edit prompt is not provided in the reviewed article. Offline recovery review on 2026-11-08 checked retained original browser page text and image captions, plus dated exact-file manifest. Provider results and measurements are not independent benchmarks. The archived original PNG contains the publisher’s comparison panels, not one independently generated image: original 1024×1280 panels plus 16-pixel gutters. The retained browser extraction shows the corresponding WebP previews and Original PNG links by text; exact PNG URLs and hashes come from the dated collection manifest.",
+      "zh-CN": "原始三联图：Flare 底图、Flare 编辑、Sunburst 编辑。两张编辑图将茶罐由绿色改为酒红色，日期由 11 月 12 日改为 19 日。底图重复海报测试，仅作输入上下文，不另计结果。所查文章未提供完整原始编辑提示词。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。 存档原始PNG为发布方对比拼图，不是一次独立生成的单图：原始1024×1280面板加16像素间隔。保留的浏览器提取含对应WebP预览与Original PNG链接文字；准确PNG地址和哈希依据当日采集清单。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "omniakey-paper-fox-loop",
+    "status": "published",
+    "title": {
+      "en": "Paper-cut fox waving loop",
+      "zh-CN": "剪纸狐狸挥手循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://omniakey.com/blog/gpt-image-2-6-review",
+      "author": "Kiki, COO / OmniaKey",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Kiki’s November 5 original review shows the request naming gpt-image-2.6-sunburst and attributes this exact returned GIF to it. Creator claim, not independently reproduced.",
+        "zh-CN": "Kiki 的 11 月 5 日原创评测展示指定 gpt-image-2.6-sunburst 的请求，并将此 GIF 归于该模型。依据创作者陈述，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://omniakey.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif",
+        "path": "assets/examples/omniakey-paper-fox-loop/paper-fox.gif",
+        "sha256": "01ebdbd614e270ade8870766e1564c73c3c0ee1f0ee3a34d5ecb73c42a5057c1",
+        "bytes": 669897,
+        "mime_type": "image/gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Paper-cut fox in a teal scarf waving on a grassy hill.",
+          "zh-CN": "草坡上戴青绿色围巾的剪纸狐狸挥手动画。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Exact prompt is public at source. Independently verified GIF89a: 433×395, 9 frames, 180 ms each, infinite loop, 669,897 bytes; requested duration was 200 ms. A waving paw and blink are visible; all nine frames decoded and inspected. No generation was run. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "精确提示词见来源。独立核查为 GIF89a：433×395、9 帧、每帧 180 毫秒、无限循环、669,897 字节；请求为每帧 200 毫秒。可见挥爪及眨眼，全部九帧已解码并审核。未执行生成。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "omniakey-port-calder-comparison",
+    "status": "published",
+    "title": {
+      "en": "Port Calder poster complexity comparison",
+      "zh-CN": "Port Calder 海报复杂度对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://omniakey.com/blog/gpt-image-2-6-review",
+      "author": "Kiki, COO / OmniaKey",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst",
+        "flare"
+      ],
+      "evidence": {
+        "en": "The original review labels run A Sunburst/low complexity, B Sunburst/high, and C Flare/high, all 1024×1536 medium quality, once each on November 5. Attribution and settings are author claims.",
+        "zh-CN": "原创评测将 A 标为 Sunburst/低复杂度、B 为 Sunburst/高复杂度、C 为 Flare/高复杂度；均为 1024×1536、中等质量，11 月 5 日各运行一次。模型及设置依据作者陈述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://omniakey.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://omniakey.com/_img/blog/gpt-image-2-6-review/poster-sunburst-low.9ad4e5d5.1024.webp",
+        "path": "assets/examples/omniakey-port-calder-comparison/poster-sunburst-low.9ad4e5d5.1024.webp",
+        "sha256": "17c29ed65ec7990521a0613f0c41d33c47c9f391e0e001d887de09ff80b6688f",
+        "bytes": 300312,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst low-complexity Port Calder travel poster.",
+          "zh-CN": "Sunburst 低复杂度 Port Calder 旅游海报。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://omniakey.com/_img/blog/gpt-image-2-6-review/poster-sunburst-high.f8d6eeab.1024.webp",
+        "path": "assets/examples/omniakey-port-calder-comparison/poster-sunburst-high.f8d6eeab.1024.webp",
+        "sha256": "f958e689a50b55933a42dfdc86e5d8a57f552069f3e8e4333fadb506c1647817",
+        "bytes": 296440,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst high-complexity Port Calder travel poster.",
+          "zh-CN": "Sunburst 高复杂度 Port Calder 旅游海报。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://omniakey.com/_img/blog/gpt-image-2-6-review/poster-flare-high.8799a409.1024.webp",
+        "path": "assets/examples/omniakey-port-calder-comparison/poster-flare-high.8799a409.1024.webp",
+        "sha256": "d89ca58151746133e8e631023a3426d1b40f68147bd142ddfd49c6d5a1c67185",
+        "bytes": 277414,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Flare high-complexity Port Calder travel poster.",
+          "zh-CN": "Flare 高复杂度 Port Calder 旅游海报。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One comparison case, three outputs with the same exact public prompt. All are 1024×1536 WebP files. Headline, festival date and inset map are visible; Sunburst high has two nearby red map dots at Market Square. One run per setting cannot establish causation or a benchmark. Timing and text-accuracy judgments are source claims. No generation was run. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "一个对比案例含三个输出，使用同一公开精确提示词。均为 1024×1536 WebP。可见标题、节庆日期和小地图；Sunburst 高复杂度版本在 Market Square 附近有两个红点。每个设置仅运行一次，不能建立因果或性能基准。耗时与文字正确性结论为来源陈述。未执行生成。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "omniakey-bottle-color-edit",
+    "status": "published",
+    "title": {
+      "en": "Sage-green to terracotta bottle edit",
+      "zh-CN": "鼠尾草绿到陶土橙瓶子编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://omniakey.com/blog/gpt-image-2-6-review",
+      "author": "Kiki, COO / OmniaKey",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original review explicitly identifies Flare as creator of the input and Sunburst as the editor changing the bottle to glossy terracotta orange on November 5. This is the creator’s attribution, not independent reproduction.",
+        "zh-CN": "原创评测明确标明输入由 Flare 生成，11 月 5 日由 Sunburst 编辑为亮面陶土橙色瓶子。模型归因来自创作者，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://omniakey.com/_img/blog/gpt-image-2-6-review/bottle-original.a6b5c48a.1536.webp",
+        "path": "assets/references/omniakey-bottle-color-edit/bottle-original.a6b5c48a.1536.webp",
+        "sha256": "1e79e3564bf2ad72d0ba5b101747112c2490d2050639c9de054edc70254d6bbb",
+        "bytes": 35466,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Flare input: matte sage-green bottle with bamboo cap on travertine.",
+          "zh-CN": "Flare 输入图：洞石台上的哑光鼠尾草绿瓶子与竹盖。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      },
+      {
+        "source_url": "https://omniakey.com/_img/blog/gpt-image-2-6-review/bottle-terracotta.7b882db3.1536.webp",
+        "path": "assets/examples/omniakey-bottle-color-edit/bottle-terracotta.7b882db3.1536.webp",
+        "sha256": "d425e3cca4a50a2a2b0d5be5ec5ca5e01d836eaefc8d4aeddf725353e1250cf8",
+        "bytes": 34094,
+        "mime_type": "image/webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst edit: glossy terracotta bottle in the same composition.",
+          "zh-CN": "Sunburst 编辑图：相似构图中的亮面陶土橙瓶子。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://omniakey.com/blog/gpt-image-2-6-review",
+          "credit": "Kiki / OmniaKey",
+          "note": {
+            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Attribution is not permission; repository MIT licensing does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实明确转载许可。署名不等于授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Source describes the creation and edit instructions but does not provide verbatim full prompts. The green Flare image is a reference, not an extra output. Both displayed WebPs are 1536×1024. Broad composition is retained; source reports background SSIM 0.94/0.96, not pixel identity. Those SSIM figures were not independently reproduced. No generation was run. Here, not-public records that the reviewed source does not provide the exact original prompt; availability elsewhere and the creator’s intent are not established. Offline recovery review on 2026-11-08 checked retained original HTML. Provider results and measurements are not independent benchmarks.",
+      "zh-CN": "来源描述生成与编辑要求，但未提供逐字完整提示词。绿色 Flare 图为参考输入，不另算输出。两份公开 WebP 均为 1536×1024。整体构图保留；来源称背景 SSIM 为 0.94/0.96，并非像素完全一致；未独立复现这些 SSIM 数值。未执行生成。 此处 not-public 仅表示已复核来源未提供准确原始提示词，不判断其他地方是否公开或创作者意图。 2026-11-08离线恢复审核核对了保留的一手页面证据。提供方结果与测量不是独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original page evidence collected on 2026-11-05 was rechecked offline on 2026-11-08. Current access was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页证据，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, byte counts, formats and full decoding were rechecked. Every static image and GIF frame was visually reviewed; no new timed playback or generation was performed.",
+        "zh-CN": "已重新核对原字节、SHA-256、大小、格式和完整解码，查看每张静图与GIF全部帧；未进行新的实时播放或模型生成。"
+      },
+      "report_path": "docs/SOGNI_OMNIAKEY_SANDBASE_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

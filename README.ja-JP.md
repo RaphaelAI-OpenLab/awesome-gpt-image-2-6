@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 25 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 26 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 26 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 29 | 0 |
 | [インフォグラフィック](#category-infographics) | 12 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 7 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 29 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 19 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 20 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 8 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 87 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 90 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **213** |
+| 出典リンク付き事例 | **221** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **176** |
-| 出典で公開されている原文プロンプト | **161** |
+| 作者が報告した作例 | **184** |
+| 出典で公開されている原文プロンプト | **164** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **335** |
+| ローカルに保存済みのメディアファイル | **346** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -163,6 +163,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-posters-typography"></a>
 
@@ -196,6 +197,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -291,6 +295,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -400,6 +405,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

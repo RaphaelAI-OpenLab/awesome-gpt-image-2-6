@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 25 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 26 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 26 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 29 | 0 |
 | [Infografiche](#category-infographics) | 12 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 7 | 0 |
 | [Personaggi e coerenza](#category-characters-consistency) | 29 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 19 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 20 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animazione](#category-gif-animation) | 87 | 0 |
+| [GIF e animazione](#category-gif-animation) | 90 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **213** |
+| Casi con collegamenti alle fonti | **221** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **176** |
-| Prompt originali disponibili alla fonte | **161** |
+| Esempi dichiarati dai creatori | **184** |
+| Prompt originali disponibili alla fonte | **164** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **335** |
+| File multimediali archiviati localmente | **346** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -163,6 +163,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-posters-typography"></a>
 
@@ -196,6 +197,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -291,6 +295,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-svg-design-assets"></a>
 
@@ -400,6 +405,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 
