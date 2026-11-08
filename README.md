@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 23 | 0 |
-| [Posters & typography](#category-posters-typography) | 26 | 0 |
-| [Infographics](#category-infographics) | 11 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 27 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 17 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 7 | 0 |
-| [GIF & animation](#category-gif-animation) | 48 | 0 |
+| [Brand & product visuals](#category-brand-products) | 27 | 0 |
+| [Posters & typography](#category-posters-typography) | 29 | 0 |
+| [Infographics](#category-infographics) | 12 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 7 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 29 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 20 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 9 | 0 |
+| [GIF & animation](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **164** |
+| Source-linked cases | **231** |
 | Official examples | **37** |
-| Creator-reported examples | **127** |
-| Original prompts available at source | **114** |
+| Creator-reported examples | **194** |
+| Original prompts available at source | **167** |
 | Full prompts published here | **0** |
-| Locally archived media files | **257** |
-| Last source check (UTC) | **2026-11-08** |
+| Locally archived media files | **357** |
+| Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
 
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Creator-reported model |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -152,8 +152,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model | Original prompt at source |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model | Original prompt at source |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Creator-reported model | Original prompt at source |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Creator-reported model | Original prompt at source |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Creator-reported model | Original prompt at source |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Creator-reported model | Original prompt at source |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Creator-reported model | Original prompt at source |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Creator-reported model | Prompt not public |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Creator-reported model | Original prompt at source |
@@ -185,6 +189,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Creator-reported model | Original prompt at source |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Creator-reported model | Prompt not public |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Creator-reported model | Original prompt at source |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Creator-reported model | Prompt not public |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Creator-reported model | Original prompt at source |
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Creator-reported model | Prompt not public |
@@ -208,6 +215,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model | Original prompt at source |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Creator-reported model | Original prompt at source |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Creator-reported model | Original prompt at source |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -220,6 +228,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model | Original prompt at source |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Creator-reported model | Original prompt at source |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Creator-reported model | Prompt not public |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Creator-reported model | Original prompt at source |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-characters-consistency"></a>
 
@@ -249,6 +259,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Creator-reported model | Original prompt at source |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Creator-reported model | Original prompt at source |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Creator-reported model | Original prompt at source |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Creator-reported model | Prompt not public |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Creator-reported model | Original prompt at source |
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Creator-reported model | Original prompt at source |
@@ -276,6 +288,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model | Original prompt at source |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Creator-reported model | Original prompt at source |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Creator-reported model | Original prompt at source |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Creator-reported model | Prompt not public |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Creator-reported model | Prompt not public |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Creator-reported model | Prompt not public |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Creator-reported model | Original prompt at source |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Creator-reported model | Prompt not public |
 
@@ -291,6 +306,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Creator-reported model | Prompt not public |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Creator-reported model | Prompt not public |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
@@ -331,9 +348,55 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Creator-reported model | Prompt availability unverified |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Creator-reported model | Prompt availability unverified |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Creator-reported model | Original prompt at source |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Creator-reported model | Prompt not public |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Creator-reported model | Prompt not public |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Creator-reported model | Prompt not public |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Creator-reported model | Prompt not public |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Creator-reported model | Original prompt at source |
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Creator-reported model | Prompt not public |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Creator-reported model | Prompt not public |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Creator-reported model | Original prompt at source |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Creator-reported model | Original prompt at source |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Creator-reported model | Original prompt at source |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Creator-reported model | Original prompt at source |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Creator-reported model | Original prompt at source |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Creator-reported model | Original prompt at source |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Creator-reported model | Original prompt at source |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Creator-reported model | Original prompt at source |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Creator-reported model | Original prompt at source |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Creator-reported model | Original prompt at source |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Creator-reported model | Original prompt at source |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Creator-reported model | Original prompt at source |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Creator-reported model | Original prompt at source |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Creator-reported model | Original prompt at source |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Creator-reported model | Original prompt at source |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Creator-reported model | Original prompt at source |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Creator-reported model | Original prompt at source |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Creator-reported model | Original prompt at source |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Creator-reported model | Original prompt at source |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Creator-reported model | Original prompt at source |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Creator-reported model | Original prompt at source |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Creator-reported model | Original prompt at source |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Creator-reported model | Original prompt at source |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Creator-reported model | Original prompt at source |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Creator-reported model | Original prompt at source |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Creator-reported model | Original prompt at source |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Creator-reported model | Original prompt at source |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Creator-reported model | Original prompt at source |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Creator-reported model | Original prompt at source |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Creator-reported model | Original prompt at source |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Creator-reported model | Original prompt at source |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Creator-reported model | Original prompt at source |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Creator-reported model | Original prompt at source |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Creator-reported model | Original prompt at source |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Creator-reported model | Original prompt at source |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model | Original prompt at source |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model | Original prompt at source |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model | Original prompt at source |
 | [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Creator-reported model | Original prompt at source |
 | [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Creator-reported model | Original prompt at source |
 | [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Creator-reported model | Original prompt at source |
@@ -343,6 +406,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Creator-reported model | Prompt not public |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model | Original prompt at source |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Creator-reported model | Original prompt at source |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Creator-reported model | Prompt not public |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Creator-reported model | Prompt not public |
 | [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Creator-reported model | Prompt availability unverified |
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Creator-reported model | Prompt availability unverified |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Creator-reported model | Prompt availability unverified |

@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 23 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 26 | 0 |
-| [Infografiche](#category-infographics) | 11 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 5 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 27 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 17 | 0 |
-| [SVG e risorse grafiche](#category-svg-design-assets) | 7 | 0 |
-| [GIF e animazione](#category-gif-animation) | 48 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 27 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 29 | 0 |
+| [Infografiche](#category-infographics) | 12 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 7 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 29 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 20 | 0 |
+| [SVG e risorse grafiche](#category-svg-design-assets) | 9 | 0 |
+| [GIF e animazione](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **164** |
+| Casi con collegamenti alle fonti | **231** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **127** |
-| Prompt originali disponibili alla fonte | **114** |
+| Esempi dichiarati dai creatori | **194** |
+| Prompt originali disponibili alla fonte | **167** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **257** |
-| Ultima verifica delle fonti (UTC) | **2026-11-08** |
+| File multimediali archiviati localmente | **357** |
+| Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
 
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -156,8 +156,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
@@ -189,6 +193,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
@@ -212,6 +219,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -224,6 +232,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -253,6 +263,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
@@ -280,6 +292,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
@@ -295,6 +310,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-gif-animation"></a>
@@ -335,9 +352,55 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
@@ -347,6 +410,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |

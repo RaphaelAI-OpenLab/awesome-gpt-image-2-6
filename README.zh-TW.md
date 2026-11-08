@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 23 | 0 |
-| [海報與文字排版](#category-posters-typography) | 26 | 0 |
-| [資訊圖表](#category-infographics) | 11 | 0 |
-| [室內設計與建築](#category-interiors-architecture) | 5 | 0 |
-| [角色與一致性](#category-characters-consistency) | 27 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 17 | 0 |
-| [SVG 與設計素材](#category-svg-design-assets) | 7 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 48 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 27 | 0 |
+| [海報與文字排版](#category-posters-typography) | 29 | 0 |
+| [資訊圖表](#category-infographics) | 12 | 0 |
+| [室內設計與建築](#category-interiors-architecture) | 7 | 0 |
+| [角色與一致性](#category-characters-consistency) | 29 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 20 | 0 |
+| [SVG 與設計素材](#category-svg-design-assets) | 9 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **164** |
+| 附來源連結的案例 | **231** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **127** |
-| 可於來源取得的原始提示詞 | **114** |
+| 創作者自述範例 | **194** |
+| 可於來源取得的原始提示詞 | **167** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **257** |
-| 最近來源檢查時間（UTC） | **2026-11-08** |
+| 已於本機封存的媒體檔案 | **357** |
+| 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
 
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 創作者自述模型 |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 創作者自述模型 |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -156,8 +156,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
@@ -189,6 +193,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 創作者自述模型 | 提示詞未公開 |
@@ -212,6 +219,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -224,6 +232,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-characters-consistency"></a>
 
@@ -253,6 +263,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
@@ -280,6 +292,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 創作者自述模型 | 提示詞未公開 |
 
@@ -295,6 +310,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-gif-animation"></a>
@@ -335,9 +352,55 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
@@ -347,6 +410,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
