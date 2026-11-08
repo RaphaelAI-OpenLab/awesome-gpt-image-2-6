@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 34 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 35 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 35 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 36 | 0 |
 | [인포그래픽](#category-infographics) | 16 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 10 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 37 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 34 | 0 |
-| [SVG 및 디자인 에셋](#category-svg-design-assets) | 10 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 108 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 35 | 0 |
+| [SVG 및 디자인 에셋](#category-svg-design-assets) | 11 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **284** |
+| 출처 링크가 있는 사례 | **295** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **247** |
-| 출처에서 제공하는 원문 프롬프트 | **205** |
+| 제작자가 보고한 예시 | **258** |
+| 출처에서 제공하는 원문 프롬프트 | **215** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **438** |
+| 로컬에 보관된 미디어 파일 | **455** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -169,6 +169,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
@@ -210,6 +211,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
@@ -336,6 +338,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
@@ -356,6 +359,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-gif-animation"></a>
 
@@ -470,6 +474,13 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)

@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 34 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 35 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 35 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 36 | 0 |
 | [İnfografikler](#category-infographics) | 16 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 10 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 37 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 34 | 0 |
-| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 10 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 108 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 35 | 0 |
+| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 11 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **284** |
+| Kaynak bağlantılı örnekler | **295** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **247** |
-| Kaynakta bulunan özgün istemler | **205** |
+| Üreticilerinin bildirdiği örnekler | **258** |
+| Kaynakta bulunan özgün istemler | **215** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **438** |
+| Yerel olarak arşivlenmiş medya dosyaları | **455** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -169,6 +169,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
@@ -210,6 +211,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
@@ -336,6 +338,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
@@ -356,6 +359,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-gif-animation"></a>
 
@@ -470,6 +474,13 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)

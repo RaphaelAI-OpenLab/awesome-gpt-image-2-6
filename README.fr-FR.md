@@ -47,14 +47,14 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 34 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 35 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 35 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 36 | 0 |
 | [Infographies](#category-infographics) | 16 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 10 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 37 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 34 | 0 |
-| [SVG et ressources graphiques](#category-svg-design-assets) | 10 | 0 |
-| [GIF et animation](#category-gif-animation) | 108 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 35 | 0 |
+| [SVG et ressources graphiques](#category-svg-design-assets) | 11 | 0 |
+| [GIF et animation](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **284** |
+| Cas avec liens vers les sources | **295** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **247** |
-| Prompts originaux disponibles à la source | **205** |
+| Exemples déclarés par leurs créateurs | **258** |
+| Prompts originaux disponibles à la source | **215** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **438** |
+| Fichiers multimédias archivés localement | **455** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -169,6 +169,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
@@ -210,6 +211,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
@@ -336,6 +338,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
@@ -356,6 +359,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-gif-animation"></a>
 
@@ -470,6 +474,13 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)

@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 34 | 0 |
-| [Posters & typography](#category-posters-typography) | 35 | 0 |
+| [Brand & product visuals](#category-brand-products) | 35 | 0 |
+| [Posters & typography](#category-posters-typography) | 36 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 37 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 34 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 10 | 0 |
-| [GIF & animation](#category-gif-animation) | 108 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 35 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 11 | 0 |
+| [GIF & animation](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **284** |
+| Source-linked cases | **295** |
 | Official examples | **37** |
-| Creator-reported examples | **247** |
-| Original prompts available at source | **205** |
+| Creator-reported examples | **258** |
+| Original prompts available at source | **215** |
 | Full prompts published here | **0** |
-| Locally archived media files | **438** |
+| Locally archived media files | **455** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -165,6 +165,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Creator-reported model | Original prompt at source |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Creator-reported model | Prompt availability unverified |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model | Original prompt at source |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Creator-reported model | Original prompt at source |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Creator-reported model | Original prompt at source |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Creator-reported model | Original prompt at source |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model | Original prompt at source |
@@ -206,6 +207,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Creator-reported model | Prompt availability unverified |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Creator-reported model | Prompt not public |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Creator-reported model | Original prompt at source |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Creator-reported model | Original prompt at source |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model | Original prompt at source |
@@ -332,6 +334,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model | Original prompt at source |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model | Prompt not public |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model | Prompt not public |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Creator-reported model | Original prompt at source |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
@@ -352,6 +355,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Creator-reported model | Prompt not public |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Creator-reported model | Original prompt at source |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-gif-animation"></a>
 
@@ -466,6 +470,13 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Creator-reported model | Prompt not public |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Creator-reported model | Prompt not public |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model | Prompt not public |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Creator-reported model | Original prompt at source |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Creator-reported model | Original prompt at source |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Creator-reported model | Original prompt at source |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Creator-reported model | Original prompt at source |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Creator-reported model | Original prompt at source |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Creator-reported model | Original prompt at source |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)

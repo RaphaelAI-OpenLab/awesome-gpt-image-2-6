@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 34 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 35 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 35 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 36 | 0 |
 | [Infografias](#category-infographics) | 16 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 10 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 37 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 34 | 0 |
-| [SVG e recursos de design](#category-svg-design-assets) | 10 | 0 |
-| [GIF e animação](#category-gif-animation) | 108 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 35 | 0 |
+| [SVG e recursos de design](#category-svg-design-assets) | 11 | 0 |
+| [GIF e animação](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **284** |
+| Casos com ligação para a fonte | **295** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **247** |
-| Prompts originais disponíveis na fonte | **205** |
+| Exemplos comunicados pelos criadores | **258** |
+| Prompts originais disponíveis na fonte | **215** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **438** |
+| Ficheiros multimédia arquivados localmente | **455** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -169,6 +169,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
@@ -210,6 +211,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
@@ -336,6 +338,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
@@ -356,6 +359,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-gif-animation"></a>
 
@@ -470,6 +474,13 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 [Registo de pesquisas, relatório de conteúdos multimédia e pistas por resolver](docs/CASE_GALLERY.md)

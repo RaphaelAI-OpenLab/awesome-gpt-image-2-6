@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 34 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 35 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 35 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 36 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 16 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 10 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 37 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 34 | 0 |
-| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 10 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 108 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 35 | 0 |
+| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 11 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **284** |
+| स्रोत से जुड़े उदाहरण | **295** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **247** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **205** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **258** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **215** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **438** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **455** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -169,6 +169,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
@@ -210,6 +211,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
@@ -336,6 +338,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
@@ -356,6 +359,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-gif-animation"></a>
 
@@ -470,6 +474,13 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
