@@ -29891,6 +29891,789 @@
     }
   },
   {
+    "id": "nyle-sunburst-style-gallery",
+    "status": "published",
+    "title": {
+      "en": "Sunburst six-style sample gallery",
+      "zh-CN": "Sunburst 六种风格样例集"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "author": "石原 / Nyle Content Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Nyle Content Studio’s author Ishihara reports its own model comparison; this specific collage is captioned as GPT Image 2.6 Sunburst output.",
+        "zh-CN": "Nyle Content Studio 作者石原报告了本人团队的模型对比；此拼图被明确标为 GPT Image 2.6 Sunburst 输出。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793849674-e861KcnLwkPyvBhSEZz30xTu.png?width=1200",
+        "path": "assets/examples/nyle-sunburst-style-gallery/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Sunburst six-style sample gallery. One six-panel style series: business portrait, food photo, watercolor street, 3D illustration, bar chart and pixel-art street. This all-2.6 collage is a single series; clearly labelled comparisons are separate cases, while benchmark score charts are excluded. Exact prompts are not shown.",
+          "zh-CN": "Sunburst 六种风格样例集。一个六宫格风格系列：商务人像、美食照片、水彩街景、3D 插画、柱状图及像素街景。该全部归于 2.6 的拼图计为一个系列；明确标注的对照另计案例，排除评分统计图。未展示确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+          "credit": "石原 / Nyle Content Studio",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "role": "output",
+        "sha256": "ba5b266c53cf739ec873a97d42ed00bee5163725974f2780a90695b26334b3fa",
+        "bytes": 374945,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "One six-panel style series: business portrait, food photo, watercolor street, 3D illustration, bar chart and pixel-art street. This all-2.6 collage is a single series; clearly labelled comparisons are separate cases, while benchmark score charts are excluded. Exact prompts are not shown. Model score, price and latency claims elsewhere in the article are not independently verified. Older-model panels and printed marketing claims are retained only as labelled visual context.",
+      "zh-CN": "一个六宫格风格系列：商务人像、美食照片、水彩街景、3D 插画、柱状图及像素街景。该全部归于 2.6 的拼图计为一个系列；明确标注的对照另计案例，排除评分统计图。未展示确切提示词。 文章其他位置的模型评分、价格与耗时宣称未作独立验证。旧模型面板及画面营销文字仅按原标签保留为视觉上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nyle-health-fair",
+    "status": "published",
+    "title": {
+      "en": "Spring Health Fair 2027 flyer comparison",
+      "zh-CN": "2027 春季健康展传单对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "author": "石原 / Nyle Content Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Ishihara / Nyle Content Studio reports its own generation comparison; embedded labels identify GPT Image 2.5 Sunburst, GPT Image 2.6 Sunburst and GPT Image 2.6 Flare. Only the labelled 2.6 results qualify; the older model is comparison context.",
+        "zh-CN": "石原 / Nyle Content Studio 报告了自行进行的生成对比；图中明确标注 GPT Image 2.5 Sunburst、GPT Image 2.6 Sunburst 和 GPT Image 2.6 Flare。仅标注为 2.6 的结果符合收录条件，旧模型仅作对照上下文。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793849470-PCxpkUQRnKN3dEWatfFTwAXJ.png?width=1200",
+        "path": "assets/examples/nyle-health-fair/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Spring Health Fair 2027 flyer comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.",
+          "zh-CN": "2027 春季健康展传单对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+          "credit": "石原 / Nyle Content Studio",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "role": "output",
+        "sha256": "c9d9d7bfb7965aec46622e33880c77cb64c2124d363b65c6e5ae5f9ebe36cccd",
+        "bytes": 383166,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown. Model score, price and latency claims elsewhere in the article are not independently verified. Older-model panels and printed marketing claims are retained only as labelled visual context.",
+      "zh-CN": "保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。 文章其他位置的模型评分、价格与耗时宣称未作独立验证。旧模型面板及画面营销文字仅按原标签保留为视觉上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nyle-skincare-ad",
+    "status": "published",
+    "title": {
+      "en": "Sensitive-skin lotion advertisement comparison",
+      "zh-CN": "敏感肌化妆水广告对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "author": "石原 / Nyle Content Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Ishihara / Nyle Content Studio reports its own generation comparison; embedded labels identify GPT Image 2.5 Sunburst, GPT Image 2.6 Sunburst and GPT Image 2.6 Flare. Only the labelled 2.6 results qualify; the older model is comparison context.",
+        "zh-CN": "石原 / Nyle Content Studio 报告了自行进行的生成对比；图中明确标注 GPT Image 2.5 Sunburst、GPT Image 2.6 Sunburst 和 GPT Image 2.6 Flare。仅标注为 2.6 的结果符合收录条件，旧模型仅作对照上下文。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793849582-6hunvqBK2lDZM3J4Gz50wNj8.png?width=1200",
+        "path": "assets/examples/nyle-skincare-ad/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Sensitive-skin lotion advertisement comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.",
+          "zh-CN": "敏感肌化妆水广告对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+          "credit": "石原 / Nyle Content Studio",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "role": "output",
+        "sha256": "303fb21be564ce5bab3dbfc72c740d84c17caaf588283b0868dfc2298919ea51",
+        "bytes": 239488,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown. Model score, price and latency claims elsewhere in the article are not independently verified. Older-model panels and printed marketing claims are retained only as labelled visual context.",
+      "zh-CN": "保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。 文章其他位置的模型评分、价格与耗时宣称未作独立验证。旧模型面板及画面营销文字仅按原标签保留为视觉上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nyle-kanji-cover",
+    "status": "published",
+    "title": {
+      "en": "Dense Japanese business cover comparison",
+      "zh-CN": "密集日文商务封面对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "author": "石原 / Nyle Content Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Ishihara / Nyle Content Studio reports its own generation comparison; embedded labels identify GPT Image 2.5 Sunburst, GPT Image 2.6 Sunburst and GPT Image 2.6 Flare. Only the labelled 2.6 results qualify; the older model is comparison context.",
+        "zh-CN": "石原 / Nyle Content Studio 报告了自行进行的生成对比；图中明确标注 GPT Image 2.5 Sunburst、GPT Image 2.6 Sunburst 和 GPT Image 2.6 Flare。仅标注为 2.6 的结果符合收录条件，旧模型仅作对照上下文。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793849617-BYykTnMZd5w3VKCseqcFGJUg.png?width=1200",
+        "path": "assets/examples/nyle-kanji-cover/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Dense Japanese business cover comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.",
+          "zh-CN": "密集日文商务封面对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+          "credit": "石原 / Nyle Content Studio",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "role": "output",
+        "sha256": "1f9281a32a3c2adb050234a38619eacf3b862cee0f977dd962a9e0508f107a30",
+        "bytes": 497862,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown. Model score, price and latency claims elsewhere in the article are not independently verified. Older-model panels and printed marketing claims are retained only as labelled visual context.",
+      "zh-CN": "保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。 文章其他位置的模型评分、价格与耗时宣称未作独立验证。旧模型面板及画面营销文字仅按原标签保留为视觉上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "nyle-webinar-date-edit",
+    "status": "published",
+    "title": {
+      "en": "Webinar date replacement comparison",
+      "zh-CN": "网络研讨会日期替换对比"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "author": "石原 / Nyle Content Studio",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Ishihara / Nyle Content Studio reports its own generation comparison; embedded labels identify GPT Image 2.5 Sunburst, GPT Image 2.6 Sunburst and GPT Image 2.6 Flare. Only the labelled 2.6 results qualify; the older model is comparison context.",
+        "zh-CN": "石原 / Nyle Content Studio 报告了自行进行的生成对比；图中明确标注 GPT Image 2.5 Sunburst、GPT Image 2.6 Sunburst 和 GPT Image 2.6 Flare。仅标注为 2.6 的结果符合收录条件，旧模型仅作对照上下文。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea"
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793849696-6qGf37NLi9wIUKrutMZcolsA.png?width=1200",
+        "path": "assets/examples/nyle-webinar-date-edit/source-01.png",
+        "kind": "image",
+        "alt": {
+          "en": "Webinar date replacement comparison. Original labelled composite retained without cropping. From top: input, 2.5 Sunburst comparison, 2.6 Sunburst result, 2.6 Flare result with an erroneous date. The small printed edit instruction is public in the source image.",
+          "zh-CN": "网络研讨会日期替换对比。保留原始带标签拼图，不裁切。从上至下为输入、2.5 Sunburst 对照、2.6 Sunburst 结果及日期错误的 2.6 Flare 结果。原图底部公开了简短编辑指令。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+          "credit": "石原 / Nyle Content Studio",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "role": "output",
+        "sha256": "0ec02a22dc4bddc1fd912de86a435abb66b384e304c13a76c4c7a26328d961d8",
+        "bytes": 446273,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Original labelled composite retained without cropping. From top: input, 2.5 Sunburst comparison, 2.6 Sunburst result, 2.6 Flare result with an erroneous date. The small printed edit instruction is public in the source image. Model score, price and latency claims elsewhere in the article are not independently verified. Older-model panels and printed marketing claims are retained only as labelled visual context.",
+      "zh-CN": "保留原始带标签拼图，不裁切。从上至下为输入、2.5 Sunburst 对照、2.6 Sunburst 结果及日期错误的 2.6 Flare 结果。原图底部公开了简短编辑指令。 文章其他位置的模型评分、价格与耗时宣称未作独立验证。旧模型面板及画面营销文字仅按原标签保留为视觉上下文。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-zunbeho-parody-ad-gifs",
+    "status": "published",
+    "title": {
+      "en": "Ten parody web-ad GIFs: a Japanese creator test",
+      "zh-CN": "十款戏仿网页广告 GIF：日本创作者测试"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://note.com/akikito/n/ne6232185c3c4",
+      "author": "Zun-Beho",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original creator explicitly says GPT image 2.6 generated the parody footer and square-banner ads in this ten-item series. All ten source GIFs are attached directly to their numbered entries. This is a creator attribution, not independent model verification; the API variant is not stated.",
+        "zh-CN": "原作者明确说用 GPT image 2.6 生成本十项系列中的戏仿底部及方形横幅广告。全部十幅来源 GIF 均直接列于对应编号条目。此为作者归因，并非独立模型验证；未说明 API 变体。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332432556/picture_pc_b2fb4080cfef30bbfe1a7b7f9fba6958.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-01.gif",
+        "bytes": 648112,
+        "sha256": "51f49a65ccad1b1b15539ec7ee8a6ae4c81a8f1549d527f8356654774c4fd117",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "English-lesson parody banner with an animated instructor and moving close button.",
+          "zh-CN": "英语课程戏仿横幅，讲师与关闭按钮随帧变化。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332432470/picture_pc_c50d85d5bff043907d66b789e4807b92.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-02.gif",
+        "bytes": 693263,
+        "sha256": "01979bf69c2857de3db3c15ad9e4209a5eadfd3956df28d5516dceaaf1e14b58",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Hair-removal salon parody banner with a repeating countdown and flashing discount text.",
+          "zh-CN": "脱毛沙龙戏仿横幅，倒计时循环并闪烁优惠文字。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332434788/picture_pc_414a7f4892c776c48be2d06bc54ab1c6.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-03.gif",
+        "bytes": 813985,
+        "sha256": "9c96cbcaafbe60f7dfee475f228ad35f34d58d3ad06cbdec6b7d8e2122bafeec",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Property-investment seminar parody banner with a presenter, rising chart and expanding sales text.",
+          "zh-CN": "房地产投资研讨会戏仿横幅，展示讲师、上涨图表及放大推销文字。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332435505/picture_pc_8ae7edacb9265ffc213764c99279d45c.gif?width=1200",
+        "path": null,
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Supplement-ad parody with a rotating bottle, flashing price and a fabricated celebrity endorsement.",
+          "zh-CN": "补充剂广告戏仿，展示旋转瓶子、闪烁价格与虚构名人背书。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Kept source-link only rather than republishing the named-person endorsement depicted in this satirical sample. It is not a genuine endorsement or approved advertisement. No redistribution or publicity-rights clearance has been verified.",
+            "zh-CN": "此讽刺样例含具名人物的虚构背书，仅保留来源链接而不重新发布。它不是真实背书或获批广告，未核实转载或肖像使用授权。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332436588/picture_pc_ed3a9ab426372cb5770f5b45f5c4ac82.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-05.gif",
+        "bytes": 760664,
+        "sha256": "a7c5b9a149293c81a211355730becc79c8eb169091f86f36339cb11c394daac0",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "AI-companion parody ad with an anime character whose expression changes during the loop.",
+          "zh-CN": "AI 伴侣戏仿广告，动漫角色在循环中改变表情。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332437267/picture_pc_8dad3d4fec9c9cb47732bc696000e268.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-06.gif",
+        "bytes": 596424,
+        "sha256": "14ce9f562a960daebff02c078995af4240cb109532c4c48abe22259a80cecbcf",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Security-software parody ad showing changing fake threat counts and an animated scan button.",
+          "zh-CN": "安全软件戏仿广告，虚假威胁计数与扫描按钮随帧变化。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332438087/picture_pc_bb5f871d075ca530ecda7f218cf1d24a.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-07.gif",
+        "bytes": 617870,
+        "sha256": "c73e5b9555657d89f4fb251f18f03f1ff8b62b2d3328a0db9e710ff546c681d0",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Recruitment-agency parody ad with a gesturing presenter and scrolling news-style salary ticker.",
+          "zh-CN": "招聘机构戏仿广告，主持人改变手势并滚动新闻式薪资字幕。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332438815/picture_pc_173151d04a9154cbc15eced42d9eb556.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-08.gif",
+        "bytes": 504964,
+        "sha256": "55d749197e406ece501154a5ccd456b0d87aede867971bd5798d0ac975a93f81",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Online-shopping coupon parody with a returning popup and changing character expression.",
+          "zh-CN": "网购优惠券戏仿，弹窗重新出现且人物表情变化。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332439227/picture_pc_0730b6d0f8a4267d6b8270e75447ea8d.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-09.gif",
+        "bytes": 674996,
+        "sha256": "5eb9889254f3bc9a54a8dd86f5397b83e02d72bb0def4a303694c4c000da87b7",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Online-fitness parody banner with a muscular instructor changing pose and expression.",
+          "zh-CN": "在线健身戏仿横幅，肌肉讲师改变姿势和表情。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      },
+      {
+        "source_url": "https://assets.st-note.com/production/uploads/images/332441649/picture_pc_f44aa591076a60fd0884056441f31613.gif?width=1200",
+        "path": "assets/examples/community-zunbeho-parody-ad-gifs/ad-10.gif",
+        "bytes": 655287,
+        "sha256": "6266208f3d22e137ad1b80cc3bfb68aeb1b2f12e224687294ebbcd8796b04e33",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Streaming-service parody banner with successively appearing promotional cards.",
+          "zh-CN": "流媒体服务戏仿横幅，促销卡片依次出现。"
+        },
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/akikito/n/ne6232185c3c4",
+          "credit": "Zun-Beho / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One ten-ad satirical series, not ten separate cases. Nine original eight-frame GIFs are archived; the supplement sample with a fabricated named-person endorsement stays source-link only. The article supplies short scenarios but does not establish that these are verbatim original prompts, so prompt availability is unverified. These are non-interactive visual parodies, not genuine endorsements, investment/health/security advice or deployed ads. Fake threat counts and commercial claims are fictional visual content. Header and introductory artwork are excluded because their model attribution is not established.",
+      "zh-CN": "十项讽刺广告按一个系列收录，不拆成十个案例。存档九份八帧原始 GIF；含具名人物虚构背书的补充剂样例仅保留来源链接。原文提供简短场景描述，但不能确立它们是逐字原始提示词，故提示词公开状态待核验。这些是不具备交互功能的视觉戏仿，不是真实背书、投资/健康/安全建议或实际投放广告；虚假威胁计数和商业宣称仅属虚构画面。未确立模型归属的头图和介绍图不收录。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-temae-pixel-love-swimming-sheet",
+    "status": "published",
+    "title": {
+      "en": "Pixel♡Love: swimming-character animation contact sheet",
+      "zh-CN": "Pixel♡Love：游泳角色动画帧表"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://note.com/temae/n/n5b9b365d8c99",
+      "author": "❐てまえ❐ (temae)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The author explicitly states that GPT Image 2.6 generated the character GIFs and some backgrounds, and identifies Sunburst via Higgsfield for this project. The illustrated sheet is captioned “泳ぐ 全コマ” (swimming, all frames). This is a creator claim, not independent model verification.",
+        "zh-CN": "作者明确说明 GPT Image 2.6 生成了角色 GIF 和部分背景，并说明本项目通过 Higgsfield 使用 Sunburst。图表标注为“泳ぐ 全コマ”（游泳全部帧）。这是作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793871829-HVSz65vukJFAGirUaKlXNjxD.png?width=1200",
+        "path": "assets/examples/community-temae-pixel-love-swimming-sheet/swimming-frames.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Static two-row contact sheet of a dark-haired, pink-clad pixel character swimming through sixteen poses.",
+          "zh-CN": "静态双排帧表：深色头发、粉色服装的像素角色展示十六个游泳姿势。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/temae/n/n5b9b365d8c99",
+          "credit": "❐てまえ❐ / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        },
+        "mime_type": "image/png",
+        "bytes": 123039,
+        "sha256": "c03ddd0655bcf6f6bc282a6ec03d2ca5c0ecae5e7af866ff9de47b0be062e4d2"
+      }
+    ],
+    "notes": {
+      "en": "One natural workflow series, not sixteen separate cases. The source describes reference-based character GIFs (idle, swim, run, jump, kart, stance and punch) for a 96-second music video. Only the published swimming contact sheet is archived. The completed music video combines model-generated characters and some backgrounds with Claude Code/Python compositing, backgrounds, lyrics and retro effects; it is not native model video output. Exact prompts, reference input and native GIF files were not published on the inspected article.",
+      "zh-CN": "按一个自然创作系列收录，不将十六帧拆成十六个案例。来源介绍了为 96 秒音乐视频制作的参考图驱动角色 GIF（待机、游泳、跑步、跳跃、卡丁车、架势和出拳）。仅存档公开游泳帧表。完整音乐视频将模型生成角色与部分背景和 Claude Code/Python 合成、背景、歌词、复古特效结合，不能视为模型原生视频输出。所检查文章未公开精确提示词、参考输入和原始 GIF 文件。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-kokone-sunburst-calico",
+    "status": "published",
+    "title": {
+      "en": "Sunburst calico cat by a window",
+      "zh-CN": "Sunburst 窗边三花猫"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://note.com/kokone_ailab/n/n58ea583f8d45",
+      "author": "ここね｜AI学習中",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The creator explicitly reports requesting GPT Image 2.6 Sunburst after switching the tool on November 5, and checking a matching usage record for this cat test. This is creator-reported evidence, not our access to API logs.",
+        "zh-CN": "作者明确报告 11 月 5 日切换工具后请求 GPT Image 2.6 Sunburst，并核对与此猫图测试匹配的用量记录。这是作者报告的依据，不代表我们访问了 API 日志。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://assets.st-note.com/img/1793865936-UyWp54z8YEiBOaN9PgKMRAsv.png?width=1200",
+        "path": "assets/examples/community-kokone-sunburst-calico/calico-window.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Calico cat resting on a sunlit wooden windowsill",
+          "zh-CN": "三花猫卧在阳光下的木质窗台上"
+        },
+        "mime_type": "image/png",
+        "bytes": 690316,
+        "sha256": "c4bac5c54128f7e5766c4a4ef734fcce596023ba20e16d4b92187c841f1ce57f",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://note.com/kokone_ailab/n/n58ea583f8d45",
+          "credit": "ここね｜AI学習中 / note",
+          "note": {
+            "en": "Unmodified public-source archival copy with creator attribution. No explicit redistribution licence verified. Public access and credit are not permission; repository MIT terms do not cover this file. Third-party likeness, character and trademark rights may apply.",
+            "zh-CN": "保留创作者署名的公开来源原样存档。未核实明确转载许可证；公开访问和署名不等于许可，仓库 MIT 不覆盖此文件。人物形象、角色及商标等第三方权利可能另行适用。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Only the November 5 calico-cat image is included. Earlier two cat examples in this article are explicitly 2.5 and excluded. The creator reports low quality, 1024 square and 19.5 seconds; no full original prompt is published. The matching usage record is reported by the creator; no account logs were accessed. Timing and quality settings are source claims, not independent benchmarks.",
+      "zh-CN": "只收录 11 月 5 日三花猫图。文章较早两幅猫图明确为 2.5，已排除。作者报告低质量、1024 方图及 19.5 秒；未公开完整实际提示词。 匹配的用量记录由作者报告，我们未访问账户日志。耗时及质量选项属于来源说法，不是独立基准。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.",
+        "zh-CN": "既有原文返回 HTTP 200。当前作者自述及逐作品模型标签提供本案例的来源归因，不代表独立观察了模型执行。"
+      },
+      "media_note": {
+        "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
+        "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
+      },
+      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
     "id": "kingy-sunburst-bottle-thumbnail",
     "status": "published",
     "title": {

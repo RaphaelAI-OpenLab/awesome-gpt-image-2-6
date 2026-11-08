@@ -48,13 +48,13 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
 | [브랜드 및 제품 비주얼](#category-brand-products) | 68 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 44 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 47 | 0 |
 | [인포그래픽](#category-infographics) | 16 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 11 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 55 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 38 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 57 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 39 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 13 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 127 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **372** |
+| 출처 링크가 있는 사례 | **380** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **335** |
-| 출처에서 제공하는 원문 프롬프트 | **235** |
+| 제작자가 보고한 예시 | **343** |
+| 출처에서 제공하는 원문 프롬프트 | **236** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **536** |
+| 로컬에 보관된 미디어 파일 | **552** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -255,6 +255,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
@@ -360,6 +363,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-markup-edits"></a>
 
@@ -403,6 +408,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
@@ -558,6 +564,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)

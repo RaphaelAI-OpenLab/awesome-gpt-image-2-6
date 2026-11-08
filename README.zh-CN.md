@@ -44,13 +44,13 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 68 | 0 |
-| [海报与文字排版](#category-posters-typography) | 44 | 0 |
+| [海报与文字排版](#category-posters-typography) | 47 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 11 | 0 |
-| [角色与一致性](#category-characters-consistency) | 55 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 38 | 0 |
+| [角色与一致性](#category-characters-consistency) | 57 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 39 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 与动画](#category-gif-animation) | 127 | 0 |
+| [GIF 与动画](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **372** |
+| 来源案例 | **380** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **335** |
-| 来源公开原始提示词 | **235** |
+| 社区作者自报案例 | **343** |
+| 来源公开原始提示词 | **236** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **536** |
+| 本地收录素材文件 | **552** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -251,6 +251,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [更新促销折扣](cases/yepshot-text-promo-discount-update/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AI进化论海报改为Image 2.6实测](cases/community-struggle-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [2027 春季健康展传单对比](cases/nyle-health-fair/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [敏感肌化妆水广告对比](cases/nyle-skincare-ad/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [密集日文商务封面对比](cases/nyle-kanji-cover/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [KINGY LAB 水瓶与大字缩略图](cases/kingy-sunburst-bottle-thumbnail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [Sunburst 面包店质量档位对比](cases/quantslant-sunburst-bakery-quality-ladder/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
@@ -356,6 +359,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [修复模糊与噪点](cases/yepshot-restore-deblur-sharpen/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [提亮曝光不足照片](cases/yepshot-restore-low-light-fix/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [照片转三维黏土角色](cases/yepshot-creative-3d-clay/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Sunburst 六种风格样例集](cases/nyle-sunburst-style-gallery/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Sunburst 窗边三花猫](cases/community-kokone-sunburst-calico/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-markup-edits"></a>
 
@@ -399,6 +404,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [MOONLEAF 茶罐：茉莉到玫瑰的标签编辑](cases/gptimagehub-moonleaf-tea-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Flare STUDIO NIGHTS 标题编辑](cases/aivideos-flare-headline-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [网络研讨会日期替换对比](cases/nyle-webinar-date-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [KINGY LAB 水瓶改色与价格编辑](cases/kingy-sunburst-turquoise-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [Ofox 三杯插画标注定位测试](cases/ofox-three-mug-markup-target-test/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
@@ -554,6 +560,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [月下美少女战士舞蹈](cases/community-struggle-sailor-dance/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [黏土橘猫敲键盘](cases/community-struggle-cat-programmer/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [桌面照片清理并转动图](cases/community-struggle-desk-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [十款戏仿网页广告 GIF：日本创作者测试](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Pixel♡Love：游泳角色动画帧表](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [橙色小鸟原生 GIF 循环](cases/ofox-native-bird/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)

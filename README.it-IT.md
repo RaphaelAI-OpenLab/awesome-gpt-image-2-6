@@ -48,13 +48,13 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
 | [Immagini per marchi e prodotti](#category-brand-products) | 68 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 44 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 47 | 0 |
 | [Infografiche](#category-infographics) | 16 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 11 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 55 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 38 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 57 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 39 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 13 | 0 |
-| [GIF e animazione](#category-gif-animation) | 127 | 0 |
+| [GIF e animazione](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **372** |
+| Casi con collegamenti alle fonti | **380** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **335** |
-| Prompt originali disponibili alla fonte | **235** |
+| Esempi dichiarati dai creatori | **343** |
+| Prompt originali disponibili alla fonte | **236** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **536** |
+| File multimediali archiviati localmente | **552** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -255,6 +255,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
@@ -360,6 +363,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-markup-edits"></a>
 
@@ -403,6 +408,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
@@ -558,6 +564,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)

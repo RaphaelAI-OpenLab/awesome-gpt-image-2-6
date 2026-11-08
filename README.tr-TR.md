@@ -48,13 +48,13 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
 | [Marka ve ürün görselleri](#category-brand-products) | 68 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 44 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 47 | 0 |
 | [İnfografikler](#category-infographics) | 16 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 11 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 55 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 38 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 57 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 39 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 13 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 127 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **372** |
+| Kaynak bağlantılı örnekler | **380** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **335** |
-| Kaynakta bulunan özgün istemler | **235** |
+| Üreticilerinin bildirdiği örnekler | **343** |
+| Kaynakta bulunan özgün istemler | **236** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **536** |
+| Yerel olarak arşivlenmiş medya dosyaları | **552** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -255,6 +255,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
@@ -360,6 +363,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-markup-edits"></a>
 
@@ -403,6 +408,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
@@ -558,6 +564,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)

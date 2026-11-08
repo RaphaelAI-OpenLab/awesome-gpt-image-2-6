@@ -48,13 +48,13 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
 | [Imágenes de marca y producto](#category-brand-products) | 68 | 0 |
-| [Carteles y tipografía](#category-posters-typography) | 44 | 0 |
+| [Carteles y tipografía](#category-posters-typography) | 47 | 0 |
 | [Infografías](#category-infographics) | 16 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 11 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 55 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 38 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 57 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 39 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 13 | 0 |
-| [GIF y animación](#category-gif-animation) | 127 | 0 |
+| [GIF y animación](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **372** |
+| Casos con enlace a la fuente | **380** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **335** |
-| Prompts originales disponibles en la fuente | **235** |
+| Ejemplos según sus creadores | **343** |
+| Prompts originales disponibles en la fuente | **236** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **536** |
+| Archivos multimedia archivados localmente | **552** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -255,6 +255,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modelo indicado por el creador | Prompt no público |
 | [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
@@ -360,6 +363,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-markup-edits"></a>
 
@@ -403,6 +408,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
@@ -558,6 +564,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)

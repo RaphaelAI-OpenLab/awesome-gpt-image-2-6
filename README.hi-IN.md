@@ -48,13 +48,13 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
 | [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 68 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 44 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 47 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 16 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 11 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 55 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 38 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 57 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 39 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 13 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 127 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **372** |
+| स्रोत से जुड़े उदाहरण | **380** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **335** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **235** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **343** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **236** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **536** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **552** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -255,6 +255,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 
@@ -360,6 +363,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-markup-edits"></a>
 
@@ -403,6 +408,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
@@ -558,6 +564,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
