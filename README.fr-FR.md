@@ -54,7 +54,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Personnages et cohérence](#category-characters-consistency) | 57 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 39 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 13 | 0 |
-| [GIF et animation](#category-gif-animation) | 129 | 0 |
+| [GIF et animation](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **380** |
+| Cas avec liens vers les sources | **383** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **343** |
-| Prompts originaux disponibles à la source | **236** |
+| Exemples déclarés par leurs créateurs | **346** |
+| Prompts originaux disponibles à la source | **237** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **552** |
+| Fichiers multimédias archivés localement | **560** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -567,6 +567,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

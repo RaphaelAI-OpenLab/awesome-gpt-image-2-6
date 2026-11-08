@@ -50,7 +50,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Characters & consistency](#category-characters-consistency) | 57 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 39 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 13 | 0 |
-| [GIF & animation](#category-gif-animation) | 129 | 0 |
+| [GIF & animation](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **380** |
+| Source-linked cases | **383** |
 | Official examples | **37** |
-| Creator-reported examples | **343** |
-| Original prompts available at source | **236** |
+| Creator-reported examples | **346** |
+| Original prompts available at source | **237** |
 | Full prompts published here | **0** |
-| Locally archived media files | **552** |
+| Locally archived media files | **560** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -563,6 +563,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Creator-reported model | Prompt availability unverified |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Creator-reported model | Prompt not public |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Creator-reported model | Original prompt at source |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Creator-reported model | Prompt availability unverified |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Creator-reported model | Prompt availability unverified |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

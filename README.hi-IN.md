@@ -54,7 +54,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पात्र और एकरूपता](#category-characters-consistency) | 57 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 39 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 13 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 129 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **380** |
+| स्रोत से जुड़े उदाहरण | **383** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **343** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **236** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **346** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **237** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **552** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **560** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -567,6 +567,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

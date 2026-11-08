@@ -54,7 +54,7 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | [캐릭터 및 일관성](#category-characters-consistency) | 57 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 39 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 13 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 129 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **380** |
+| 출처 링크가 있는 사례 | **383** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **343** |
-| 출처에서 제공하는 원문 프롬프트 | **236** |
+| 제작자가 보고한 예시 | **346** |
+| 출처에서 제공하는 원문 프롬프트 | **237** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **552** |
+| 로컬에 보관된 미디어 파일 | **560** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -567,6 +567,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

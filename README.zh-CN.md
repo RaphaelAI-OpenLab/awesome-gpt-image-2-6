@@ -50,7 +50,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 57 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 39 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 与动画](#category-gif-animation) | 129 | 0 |
+| [GIF 与动画](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **380** |
+| 来源案例 | **383** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **343** |
-| 来源公开原始提示词 | **236** |
+| 社区作者自报案例 | **346** |
+| 来源公开原始提示词 | **237** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **552** |
+| 本地收录素材文件 | **560** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -563,6 +563,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [十款戏仿网页广告 GIF：日本创作者测试](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [Pixel♡Love：游泳角色动画帧表](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [橙色小鸟原生 GIF 循环](cases/ofox-native-bird/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [炭治郎像素风水刃循环动画](cases/community-kiki-tanjiro-pixel-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [心跳舞模式对比：来源封面](cases/community-kiki-heartbeat-dance-comparison/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [六段 Miss Malfoid 情绪贴纸循环动画](cases/community-kiki-malfoid-mood-stickers/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
