@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 20 | 0 |
-| [海报与文字排版](#category-posters-typography) | 22 | 0 |
+| [品牌与商品](#category-brand-products) | 21 | 0 |
+| [海报与文字排版](#category-posters-typography) | 23 | 0 |
 | [信息图](#category-infographics) | 11 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 5 | 0 |
-| [角色与一致性](#category-characters-consistency) | 24 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 15 | 0 |
+| [角色与一致性](#category-characters-consistency) | 27 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 16 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 35 | 0 |
+| [GIF 与动画](#category-gif-animation) | 41 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **138** |
+| 来源案例 | **150** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **101** |
-| 来源公开原始提示词 | **98** |
+| 社区作者自报案例 | **113** |
+| 来源公开原始提示词 | **110** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **224** |
+| 本地收录素材文件 | **240** |
 | 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -154,6 +154,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [SUMMIT ROAST 咖啡袋产品图](cases/zzo-flare-summit-roast-bag/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [腕表四轮编辑](cases/yir-watch-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [彩虹茶杯与猫](cases/community-flixly-rainbow-teacups/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -183,6 +184,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [根据文档简报生成的英印双语晚间菜单](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [NIGHT TIDE 海浪演出海报](cases/zzo-flare-night-tide-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [OPEN LATE 霓虹店面招牌](cases/kavel-open-late/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [柠檬蛋糕食谱卡](cases/community-flixly-lemon-recipe/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -244,6 +246,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [雨衣女孩动画分镜](cases/yir-raincoat-storyboard/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [人像四轮编辑](cases/yir-portrait-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [九十年代闪光灯风格人像](cases/kavel-90s-snapshot/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Mira 灯塔关键帧](cases/community-flixly-mira-keyframes/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [渔夫补网肖像](cases/community-flixly-fisherman-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雨中的狐狸与獾](cases/community-flixly-rainy-bridge-friends/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-markup-edits"></a>
 
@@ -266,6 +271,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [标注引导的森林绿扶手椅编辑](cases/analyticsvidhya-markup-green-armchair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [森林溪石上的 LUMA 02 滴管瓶](cases/zzo-flare-luma-forest-stone/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [宅邸晴天改造](cases/community-flixly-sunny-mansion-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +327,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [LUCKY 霓虹招牌闪烁](cases/kavel-neon-lucky/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [柯基追逐尾巴](cases/kavel-corgi/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [扁平角色拉伸动作](cases/kavel-stretch/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [橙色狐狸吉祥物挥手](cases/veevid-fox-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [爱心拉花咖啡蒸汽循环](cases/veevid-coffee-steam/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [盆栽仙人掌吉祥物挥手](cases/veevid-cactus-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [节日金毛犬摇尾循环](cases/veevid-dog-tail-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [墨线机器人草图挥手](cases/veevid-robot-sketch-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [香水瓶光线扫过循环](cases/veevid-perfume-light-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

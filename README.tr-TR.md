@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 20 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 22 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 21 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 23 | 0 |
 | [İnfografikler](#category-infographics) | 11 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 5 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 24 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 15 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 27 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 16 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 35 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 41 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **138** |
+| Kaynak bağlantılı örnekler | **150** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **101** |
-| Kaynakta bulunan özgün istemler | **98** |
+| Üreticilerinin bildirdiği örnekler | **113** |
+| Kaynakta bulunan özgün istemler | **110** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **224** |
+| Yerel olarak arşivlenmiş medya dosyaları | **240** |
 | Son kaynak kontrolü (UTC) | **2026-11-08** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -158,6 +158,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -187,6 +188,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -248,6 +250,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 
@@ -270,6 +275,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -325,6 +331,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 20 | 0 |
-| [海報與文字排版](#category-posters-typography) | 22 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 21 | 0 |
+| [海報與文字排版](#category-posters-typography) | 23 | 0 |
 | [資訊圖表](#category-infographics) | 11 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 5 | 0 |
-| [角色與一致性](#category-characters-consistency) | 24 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 15 | 0 |
+| [角色與一致性](#category-characters-consistency) | 27 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 16 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 35 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 41 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **138** |
+| 附來源連結的案例 | **150** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **101** |
-| 可於來源取得的原始提示詞 | **98** |
+| 創作者自述範例 | **113** |
+| 可於來源取得的原始提示詞 | **110** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **224** |
+| 已於本機封存的媒體檔案 | **240** |
 | 最近來源檢查時間（UTC） | **2026-11-08** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -158,6 +158,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -187,6 +188,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -248,6 +250,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-markup-edits"></a>
 
@@ -270,6 +275,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -325,6 +331,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

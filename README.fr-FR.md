@@ -47,14 +47,14 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 20 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 22 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 21 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 23 | 0 |
 | [Infographies](#category-infographics) | 11 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 5 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 24 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 15 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 27 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 16 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
-| [GIF et animation](#category-gif-animation) | 35 | 0 |
+| [GIF et animation](#category-gif-animation) | 41 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **138** |
+| Cas avec liens vers les sources | **150** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **101** |
-| Prompts originaux disponibles à la source | **98** |
+| Exemples déclarés par leurs créateurs | **113** |
+| Prompts originaux disponibles à la source | **110** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **224** |
+| Fichiers multimédias archivés localement | **240** |
 | Dernière vérification des sources (UTC) | **2026-11-08** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -158,6 +158,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-posters-typography"></a>
 
@@ -187,6 +188,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -248,6 +250,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-markup-edits"></a>
 
@@ -270,6 +275,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -325,6 +331,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

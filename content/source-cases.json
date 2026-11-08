@@ -11845,5 +11845,969 @@
       },
       "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "veevid-fox-wave",
+    "status": "published",
+    "title": {
+      "en": "Orange fox mascot waving",
+      "zh-CN": "橙色狐狸吉祥物挥手"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The individual GIF variant is not specified and is not inferred.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 该 GIF 未单独说明变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/gif-fox.gif",
+        "path": "assets/examples/veevid-fox-wave/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Orange fox mascot waving",
+          "zh-CN": "橙色狐狸吉祥物挥手"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "b8acb434d70a2b6648d78574259bba3ad58290e5455a79f7155bbabaafa51852",
+        "bytes": 590659,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "An orange sticker-style fox waves and blinks in front of a yellow circle. The GIF includes transparent pixels. The original nine-frame file is preserved. Provider attribution only; generation was not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks. The article says transparent GIF backgrounds are unsupported, but this file contains transparent pixels; the observed file property is retained instead of adopting that general claim.",
+      "zh-CN": "橙色贴纸风狐狸在黄色圆形前挥手眨眼，GIF 含透明像素。保留原始九帧文件。依据提供方归因，未独立复现生成。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。 原文概述称不支持GIF透明背景，但此文件实际包含透明像素；保留文件实测属性，不照搬该概述。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "veevid-coffee-steam",
+    "status": "published",
+    "title": {
+      "en": "Heart-latte steam loop",
+      "zh-CN": "爱心拉花咖啡蒸汽循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The individual GIF variant is not specified and is not inferred.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 该 GIF 未单独说明变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/gif-coffee.gif",
+        "path": "assets/examples/veevid-coffee-steam/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Heart-latte steam loop",
+          "zh-CN": "爱心拉花咖啡蒸汽循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "097fd00add8edf39e087bde10a5585ba4a7ae0422094391e9f77fd6b3a253475",
+        "bytes": 1195270,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Steam rises above a heart-latte cup on a warm wooden cafe table. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "温暖的咖啡馆木桌上，爱心拉花咖啡杯升起蒸汽。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "veevid-cactus-wave",
+    "status": "published",
+    "title": {
+      "en": "Potted cactus mascot waving",
+      "zh-CN": "盆栽仙人掌吉祥物挥手"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The accompanying text explicitly identifies Flare.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 相邻正文明确标为 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-cactus-mascot-v2.gif",
+        "path": "assets/examples/veevid-cactus-wave/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Potted cactus mascot waving",
+          "zh-CN": "盆栽仙人掌吉祥物挥手"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "fbdd5fd94e508d58079205c11351825561fb840b3b614d1323883f68a1ca56a4",
+        "bytes": 520796,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "A potted green cactus leans and waves against peach. The article explicitly says this example was generated once with Flare; its nine-frame contact sheet is not counted separately. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "桃色背景上，绿色盆栽仙人掌倾身挥手。文章明确称此图使用 Flare 一次生成；其九帧拼图不另计案例。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "veevid-dog-tail-loop",
+    "status": "published",
+    "title": {
+      "en": "Holiday retriever tail-wag loop",
+      "zh-CN": "节日金毛犬摇尾循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The individual GIF variant is not specified and is not inferred.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 该 GIF 未单独说明变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/gif-dog-edit.gif",
+        "path": "assets/examples/veevid-dog-tail-loop/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Holiday retriever tail-wag loop",
+          "zh-CN": "节日金毛犬摇尾循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "8e66f90cb4507e8140a32a4352853497ada2297b5f9b7e07db77bceac38e7d00",
+        "bytes": 1617115,
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/flare-1k.webp",
+        "path": "assets/references/veevid-dog-tail-loop/input-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Reference: red-scarfed retriever in a Christmas living room",
+          "zh-CN": "参考：圣诞客厅中系红围巾的金毛犬"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "reference",
+        "sha256": "363bf065e0b42c4590a007462d1c0d67f5418cef3c91bd818c017876d7aaa202",
+        "bytes": 250688,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "A red-scarfed retriever blinks and wags its tail in a Christmas living room. The identified still input is included only as reference; its filename is not evidence for the GIF variant. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "圣诞客厅里，系红围巾的金毛犬眨眼摇尾。明确的静态输入仅作参考收录，不能据输入文件名推断 GIF 变体。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "veevid-robot-sketch-wave",
+    "status": "published",
+    "title": {
+      "en": "Ink robot sketch waving",
+      "zh-CN": "墨线机器人草图挥手"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The individual GIF variant is not specified and is not inferred.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 该 GIF 未单独说明变体，不作推断。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-robot-sketch.gif",
+        "path": "assets/examples/veevid-robot-sketch-wave/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Ink robot sketch waving",
+          "zh-CN": "墨线机器人草图挥手"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "194af8a7e1be6120ed6f68c4147d2e7b1f9caf6a6346ee60f3f8210e3606680e",
+        "bytes": 855668,
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/blog/sketch-robot.webp",
+        "path": "assets/references/veevid-robot-sketch-wave/input-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Reference: GPT Image 2.6-generated robot sketch; variant unspecified",
+          "zh-CN": "参考：GPT Image 2.6 生成的机器人草图，变体未说明"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "reference",
+        "sha256": "0cf59b3c2c2f276a38486d77cee1be17725a0e57c748da9eb59b58166c7b98a9",
+        "bytes": 68334,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "A black-ink robot waves an arm and bobs its antenna on white paper. Veevid explicitly says the input sketch was itself generated with GPT Image 2.6, not hand drawn; its variant and original sketch prompt are undisclosed. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "白纸上的黑墨线机器人挥动手臂，天线起伏。Veevid 明确说输入草图也是 GPT Image 2.6 生成，而非手绘；其变体及原始草图提示词未披露。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "veevid-perfume-light-loop",
+    "status": "published",
+    "title": {
+      "en": "Perfume bottle light sweep",
+      "zh-CN": "香水瓶光线扫过循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+      "author": "Veevid Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Veevid Team states on November 5, 2026 that all displayed examples were actually run with GPT Image 2.6 on Veevid. This is provider attribution, not an independently reproduced generation. The accompanying text explicitly identifies Flare.",
+        "zh-CN": "Veevid Team 于 2026 年 11 月 5 日声明，所展示案例均是在 Veevid 上实际运行 GPT Image 2.6 的结果。这是提供方归因，并非独立复现。 相邻正文明确标为 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif",
+        "path": "assets/examples/veevid-perfume-light-loop/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Perfume bottle light sweep",
+          "zh-CN": "香水瓶光线扫过循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://veevid.ai/ja/blog/gpt-image-2-6-gif",
+          "credit": "Veevid Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "role": "output",
+        "sha256": "ff47327095bd335f65ca7c49cf671ca8ba9700b5f434d5a44054826d8f4da4e1",
+        "bytes": 1034983,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Light moves across a frosted perfume bottle on a stone pedestal with drifting dust. The article explicitly labels this product loop as Flare. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "光线扫过石台上的磨砂香水瓶，尘粒飘动。文章明确将此产品循环标为 Flare。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-mira-keyframes",
+    "status": "published",
+    "title": {
+      "en": "Mira lighthouse keyframes",
+      "zh-CN": "Mira 灯塔关键帧"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels keyframes-26.jpg as GPT Image 2.6 Sunburst Edit. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 keyframes-26.jpg 标注为 GPT Image 2.6 Sunburst Edit。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/keyframes-26.jpg",
+        "path": "assets/examples/community-flixly-mira-keyframes/keyframes-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Six-panel Mira storyboard",
+          "zh-CN": "Mira 六格故事板"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 385402,
+        "sha256": "b2a8bef7f842af8cd6a8aa85ca88a108b605a766732d254348a7bb5f088aadbe"
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/mira-reference.jpg",
+        "path": "assets/references/community-flixly-mira-keyframes/mira-reference.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Mira input, another model",
+          "zh-CN": "Mira 输入图，其他模型生成"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 76593,
+        "sha256": "993cdda570372abd8c943d2b251d534343e54606302c464c95afbc327b264568"
+      }
+    ],
+    "notes": {
+      "en": "Mira reference required. Six shots remain one case. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "需使用 Mira 参考图；六个镜头合并为一个案例。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-lemon-recipe",
+    "status": "published",
+    "title": {
+      "en": "Lemon cake recipe card",
+      "zh-CN": "柠檬蛋糕食谱卡"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels recipe-26.jpg as GPT Image 2.6 Sunburst. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 recipe-26.jpg 标注为 GPT Image 2.6 Sunburst。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/recipe-26.jpg",
+        "path": "assets/examples/community-flixly-lemon-recipe/recipe-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Lemon cake recipe card",
+          "zh-CN": "柠檬蛋糕食谱卡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 193591,
+        "sha256": "b6796c12f5fbe7f974d776999b328503eab7fe36a97fac3eeca65ba8b8e666cb"
+      }
+    ],
+    "notes": {
+      "en": "Typography test; first-run output. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "文字排版测试；单次生成结果。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-rainbow-teacups",
+    "status": "published",
+    "title": {
+      "en": "Rainbow cups and cat",
+      "zh-CN": "彩虹茶杯与猫"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels teacups-26.jpg as GPT Image 2.6 Sunburst. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 teacups-26.jpg 标注为 GPT Image 2.6 Sunburst。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/teacups-26.jpg",
+        "path": "assets/examples/community-flixly-rainbow-teacups/teacups-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Colored cups and black cat",
+          "zh-CN": "彩色茶杯与黑猫"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 108335,
+        "sha256": "23340f36f2fa157f3b340634424d18186e56940182773a20459746a742ef4d7e"
+      }
+    ],
+    "notes": {
+      "en": "Object-placement test; first-run output. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "物体位置测试；单次生成结果。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-fisherman-portrait",
+    "status": "published",
+    "title": {
+      "en": "Fisherman repairing a net",
+      "zh-CN": "渔夫补网肖像"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels fisherman-26.jpg as GPT Image 2.6 Sunburst. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 fisherman-26.jpg 标注为 GPT Image 2.6 Sunburst。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/fisherman-26.jpg",
+        "path": "assets/examples/community-flixly-fisherman-portrait/fisherman-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Fisherman holding a blue net",
+          "zh-CN": "手持蓝色渔网的渔夫"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 193419,
+        "sha256": "2014a2ec406397e9fc5b06b3bb717cddd68fdf60b058d84e22491fae10cfb68a"
+      }
+    ],
+    "notes": {
+      "en": "Portrait test; first-run output. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "肖像测试；单次生成结果。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-rainy-bridge-friends",
+    "status": "published",
+    "title": {
+      "en": "Fox and badger in rain",
+      "zh-CN": "雨中的狐狸与獾"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels fox-26.jpg as GPT Image 2.6 Sunburst. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 fox-26.jpg 标注为 GPT Image 2.6 Sunburst。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/fox-26.jpg",
+        "path": "assets/examples/community-flixly-rainy-bridge-friends/fox-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Fox and badger sharing shelter",
+          "zh-CN": "狐狸与獾共用雨伞"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 291091,
+        "sha256": "2729aef739ace6b1eba40cd94f69feecd34e21cdd7d2140ea0d88640ed3ecb45"
+      }
+    ],
+    "notes": {
+      "en": "Illustration test; first-run output. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "插画测试；单次生成结果。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flixly-sunny-mansion-edit",
+    "status": "published",
+    "title": {
+      "en": "Sunny mansion transformation",
+      "zh-CN": "宅邸晴天改造"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+      "author": "Flixly Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Flixly labels edit-26.jpg as GPT Image 2.6 Sunburst Edit. This is the provider’s attribution, not independently reproduced generation.",
+        "zh-CN": "Flixly 将 edit-26.jpg 标注为 GPT Image 2.6 Sunburst Edit。 依据提供方归因，未独立复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0"
+    },
+    "media": [
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/edit-26.jpg",
+        "path": "assets/examples/community-flixly-sunny-mansion-edit/edit-26.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "White mansion with sunflower garden",
+          "zh-CN": "白色宅邸与向日葵花园"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 308940,
+        "sha256": "47a3904090637b378cc6412378df9551a7feb2934320afeb970e094806fb3005"
+      },
+      {
+        "source_url": "https://www.flixly.ai/blog-media/gpt-image-comparison/edit-src.jpg",
+        "path": "assets/references/community-flixly-sunny-mansion-edit/edit-src.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Mansion input, another model",
+          "zh-CN": "宅邸输入图，其他模型生成"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.flixly.ai/blog/gpt-image-2-6-vs-2-5-vs-2-0",
+          "credit": "Flixly Team",
+          "note": {
+            "en": "Original public-source file with source attribution. No redistribution license was located; attribution is not permission. The repository MIT license does not cover this media.",
+            "zh-CN": "公开原始来源文件，保留来源署名。未找到转载许可证；署名不等于授权，仓库 MIT 许可不覆盖此媒体。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 140715,
+        "sha256": "02dfca3e3487cb0244bd724d4b87a3ed79833b1e4749c50900e28ca655b55176"
+      }
+    ],
+    "notes": {
+      "en": "Uses the dark mansion input. Creator test, not independently reproduced. Offline recovery review on 2026-11-08 checked the retained original page, output mapping and original file integrity. Source performance claims are not independent benchmarks.",
+      "zh-CN": "使用暗色宅邸作为输入。 作者测试，未独立复现。 2026-11-08离线恢复审核核对了保留原页、作品对应关系与原文件完整性。来源性能陈述不属于独立基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The public source was collected on 2026-11-05. Retained original HTML was rechecked offline on 2026-11-08; current access was not tested.",
+        "zh-CN": "公开来源于2026-11-05收集。2026-11-08离线复核保留的原始HTML，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "The exact public files are retained unchanged. SHA-256, byte count, actual format and complete decoding were rechecked locally. Still images and every GIF frame were visually reviewed; no new timed playback or model execution was performed.",
+        "zh-CN": "准确公开文件保持原字节。已在本地重新核对SHA-256、大小、真实格式和完整解码，查看静图及GIF全部帧；未进行新的实时播放或模型执行。"
+      },
+      "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]
