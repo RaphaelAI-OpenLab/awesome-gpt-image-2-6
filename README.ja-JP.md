@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 17 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 20 | 0 |
-| [インフォグラフィック](#category-infographics) | 10 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 18 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 21 | 0 |
+| [インフォグラフィック](#category-infographics) | 11 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 4 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 14 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 15 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 15 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **108** |
+| 出典リンク付き事例 | **129** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **71** |
-| 出典で公開されている原文プロンプト | **85** |
+| 作者が報告した作例 | **92** |
+| 出典で公開されている原文プロンプト | **96** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **177** |
-| 出典の最終確認日時（UTC） | **2026-11-06** |
+| ローカルに保存済みのメディアファイル | **204** |
+| 出典の最終確認日時（UTC） | **2026-11-08** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -155,6 +155,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +183,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +201,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-interiors-architecture"></a>
 
@@ -260,6 +263,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-svg-design-assets"></a>
 
@@ -295,6 +299,23 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

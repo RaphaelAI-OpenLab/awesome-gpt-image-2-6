@@ -9262,5 +9262,1670 @@
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
     }
+  },
+  {
+    "id": "zzo-flare-summit-roast-bag",
+    "status": "published",
+    "title": {
+      "en": "SUMMIT ROAST coffee-bag product shot",
+      "zh-CN": "SUMMIT ROAST 咖啡袋产品图"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "A dated 2026-11-05 collector observation maps this exact media URL to the comparison’s individually labelled GPT Image 2.6 output and records Flare, high quality and one first run per prompt. This is zzo.ai’s attributed claim, not independent generation or retained verbatim comparison-page HTML.",
+        "zh-CN": "2026-11-05 的有日期收集观察将该准确媒体网址对应至比较文章中单独标明 GPT Image 2.6 的输出，并记录 Flare、高画质与每条提示词一次首轮生成。这是归于 zzo.ai 的来源陈述，不是独立生成，也不声称保留了比较文章的逐字 HTML。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/summit-roast-coffee-bag.webp",
+        "path": "assets/examples/zzo-flare-summit-roast-bag/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Black SUMMIT ROAST coffee bag with mountain artwork on a rustic wooden surface",
+          "zh-CN": "木质台面上印有山峰图案的黑色 SUMMIT ROAST 咖啡袋"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "a94bdaa85bef2bceb33a0138c550b5484261c27a8a6446ce33b8ca68dcbd4781",
+        "bytes": 105030,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A black SUMMIT ROAST coffee pouch with mountain line art stands on wood beside a window. The source notes unrequested marketing copy and a stray full stop in the small bottom slogan. The 1024 × 1024 WebP is the public published version. zzo.ai reports one first run at high quality using Flare; no independent generation was run. The authors of adapted prompts are not attributed as this image’s creators. No image input was identified. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "黑色 SUMMIT ROAST 咖啡袋带山峰线稿，置于窗边木桌上。来源指出图片添加了未要求的营销文字，底部小字标语还有多余句点。存档为公开发表的 1024 × 1024 WebP。zzo.ai 称使用 Flare 高画质进行一次首轮生成，未独立复现。改编提示词的作者不被误记为本图创作者，未标明图片输入。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The historical direct HTTP output requests returned 403. The dated collector report separately records supported browser saving from the normally accessible page, including the identified LUMA input. This audit made no requests; retained files match the recorded bytes and hashes and passed MIME, frame, pixel and metadata checks.",
+        "zh-CN": "历史输出文件直接 HTTP 请求返回 403；有日期的收集报告另行记录从正常可访问页面通过受支持浏览器保存文件，包括已标明的 LUMA 输入。本次未请求网络；保留文件符合记录字节数与哈希，并通过 MIME、帧、像素与元数据检查。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-flare-night-tide-poster",
+    "status": "published",
+    "title": {
+      "en": "NIGHT TIDE wave concert poster",
+      "zh-CN": "NIGHT TIDE 海浪演出海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "A dated 2026-11-05 collector observation maps this exact media URL to the comparison’s individually labelled GPT Image 2.6 output and records Flare, high quality and one first run per prompt. This is zzo.ai’s attributed claim, not independent generation or retained verbatim comparison-page HTML.",
+        "zh-CN": "2026-11-05 的有日期收集观察将该准确媒体网址对应至比较文章中单独标明 GPT Image 2.6 的输出，并记录 Flare、高画质与每条提示词一次首轮生成。这是归于 zzo.ai 的来源陈述，不是独立生成，也不声称保留了比较文章的逐字 HTML。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/night-tide-poster.webp",
+        "path": "assets/examples/zzo-flare-night-tide-poster/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Blue wave above NIGHT TIDE and Harbour Hall concert details on an off-white poster",
+          "zh-CN": "米白海报上，蓝色海浪下方排有 NIGHT TIDE 及 Harbour Hall 演出信息"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "19e6df31c83e5a01ce744914088dc57ee68f298b2527f92eee6384e084269aa0",
+        "bytes": 144018,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A blue illustrated wave and large NIGHT TIDE lettering fill an off-white poster. The saved WebP is 768 × 1024. The source notes that the requested middle dot was rendered as a larger bullet, so this is not described as exact character-level compliance. The image is attributed to zzo.ai’s first high-quality Flare run, not to the authors of an adapted prompt. No image input was identified and the generation was not reproduced. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "米白海报上绘有蓝色海浪，并排有大号 NIGHT TIDE 文字。存档 WebP 为 768 × 1024。来源指出提示词要求的中点被替换为更大的圆点，因此不将其描述为逐字符完全遵循。图片归于 zzo.ai 的一次 Flare 高画质首轮生成，而非改编提示词的作者。未标明图片输入，未复现生成。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The historical direct HTTP output requests returned 403. The dated collector report separately records supported browser saving from the normally accessible page, including the identified LUMA input. This audit made no requests; retained files match the recorded bytes and hashes and passed MIME, frame, pixel and metadata checks.",
+        "zh-CN": "历史输出文件直接 HTTP 请求返回 403；有日期的收集报告另行记录从正常可访问页面通过受支持浏览器保存文件，包括已标明的 LUMA 输入。本次未请求网络；保留文件符合记录字节数与哈希，并通过 MIME、帧、像素与元数据检查。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-flare-coffee-machine-diagram",
+    "status": "published",
+    "title": {
+      "en": "Automatic coffee-machine flow infographic",
+      "zh-CN": "自动咖啡机流程信息图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "A dated 2026-11-05 collector observation maps this exact media URL to the comparison’s individually labelled GPT Image 2.6 output and records Flare, high quality and one first run per prompt. This is zzo.ai’s attributed claim, not independent generation or retained verbatim comparison-page HTML.",
+        "zh-CN": "2026-11-05 的有日期收集观察将该准确媒体网址对应至比较文章中单独标明 GPT Image 2.6 的输出，并记录 Flare、高画质与每条提示词一次首轮生成。这是归于 zzo.ai 的来源陈述，不是独立生成，也不声称保留了比较文章的逐字 HTML。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/coffee-machine-infographic.webp",
+        "path": "assets/examples/zzo-flare-coffee-machine-diagram/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Cutaway coffee-machine infographic with colored paths and two callouts numbered 4",
+          "zh-CN": "带彩色流路与两个编号 4 标注的咖啡机剖视信息图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "f6c6456478d81eed79d82a831adb02c7aaa374110c1c20691aebeb3adba0b7f3",
+        "bytes": 147146,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A cutaway-style coffee-machine illustration uses numbered callouts and colored flow lines. The 768 × 1024 image visibly labels both the brewing unit and coffee outlet as step 4, matching the source’s stated limitation. Technical accuracy was not independently established. zzo.ai attributes the output to one high-quality Flare run; the adapted prompt’s author is not the image creator. No reference image was identified and no generation was reproduced. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "咖啡机剖视风格插图带编号说明和不同颜色的流程线。这张 768 × 1024 图片将冲泡单元与咖啡出口都标为第 4 步，与来源披露的缺陷相符。未独立确认技术准确性。zzo.ai 将输出归于一次 Flare 高画质生成，改编提示词的作者不是图像创作者。未标明参考图片，未复现生成。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The historical direct HTTP output requests returned 403. The dated collector report separately records supported browser saving from the normally accessible page, including the identified LUMA input. This audit made no requests; retained files match the recorded bytes and hashes and passed MIME, frame, pixel and metadata checks.",
+        "zh-CN": "历史输出文件直接 HTTP 请求返回 403；有日期的收集报告另行记录从正常可访问页面通过受支持浏览器保存文件，包括已标明的 LUMA 输入。本次未请求网络；保留文件符合记录字节数与哈希，并通过 MIME、帧、像素与元数据检查。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-flare-luma-forest-stone",
+    "status": "published",
+    "title": {
+      "en": "LUMA 02 bottle on a forest river stone",
+      "zh-CN": "森林溪石上的 LUMA 02 滴管瓶"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "A dated 2026-11-05 collector observation maps this exact media URL to the comparison’s individually labelled GPT Image 2.6 output and records Flare, high quality and one first run per prompt. This is zzo.ai’s attributed claim, not independent generation or retained verbatim comparison-page HTML.",
+        "zh-CN": "2026-11-05 的有日期收集观察将该准确媒体网址对应至比较文章中单独标明 GPT Image 2.6 的输出，并记录 Flare、高画质与每条提示词一次首轮生成。这是归于 zzo.ai 的来源陈述，不是独立生成，也不声称保留了比较文章的逐字 HTML。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/luma-02-forest-stone.webp",
+        "path": "assets/examples/zzo-flare-luma-forest-stone/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Amber LUMA 02 dropper bottle on mossy river stone with a sunlit forest stream behind",
+          "zh-CN": "琥珀色 LUMA 02 滴管瓶置于苔藓溪石上，后方为阳光下的森林溪流"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "c309d70a5a3b637e5d12194cdfb9a028c6c98636a852366ea9d8cd565b20e79a",
+        "bytes": 125376,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-5/luma-02-packshot-input.webp",
+        "path": "assets/references/zzo-flare-luma-forest-stone/input-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Reference only: LUMA 02 white-background packshot made with GPT Image 2.5 according to zzo.ai",
+          "zh-CN": "仅作参考：据 zzo.ai 说明，由 GPT Image 2.5 生成的 LUMA 02 白底产品图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/compare/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Unmodified public-source archival copy with source attribution. An explicit redistribution license was not found. Attribution, public availability and any site copyright notice do not grant permission; the repository MIT license does not cover this file. The page explicitly attributes this input to GPT Image 2.5; the variant is unspecified for the input. It is not a GPT Image 2.6 output.",
+            "zh-CN": "原样存档的公开来源文件，保留来源署名。未找到明确转载许可证；署名、公开可见性及网站版权声明均不构成授权，仓库 MIT 许可不覆盖此文件。 页面明确将此输入归于 GPT Image 2.5，未说明输入图的变体；它不是 GPT Image 2.6 输出。"
+          }
+        },
+        "sha256": "3422237f609cfd4bc1de7496b045e44e28357a089ac51f56885bc4d70a76c3c7",
+        "bytes": 12134,
+        "mime_type": "image/webp",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "An amber LUMA 02 dropper bottle appears on a moss-covered stone beside a sunlit forest stream. The page explicitly identifies the shared packshot input as made with GPT Image 2.5; that file is archived separately as a reference, not counted as a 2.6 output. The output is attributed to a high-quality 2.6 Flare edit. Its duplicate appearance in the page header is counted once. This is not a markup-guidance claim or an independently reproduced fidelity test. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "琥珀色 LUMA 02 滴管瓶置于长苔藓的溪石上，背景是阳光下的森林溪流。页面明确说明共同使用的白底产品输入图由 GPT Image 2.5 生成；该文件单列为参考，不计入 2.6 输出。输出归于 2.6 Flare 高画质编辑。页首重复展示的同一图片仅计一次。不声称使用标注引导，也不声称独立复现了保真度测试。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The historical direct HTTP output requests returned 403. The dated collector report separately records supported browser saving from the normally accessible page, including the identified LUMA input. This audit made no requests; retained files match the recorded bytes and hashes and passed MIME, frame, pixel and metadata checks.",
+        "zh-CN": "历史输出文件直接 HTTP 请求返回 403；有日期的收集报告另行记录从正常可访问页面通过受支持浏览器保存文件，包括已标明的 LUMA 输入。本次未请求网络；保留文件符合记录字节数与哈希，并通过 MIME、帧、像素与元数据检查。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yepshot-sunglasses-reaction",
+    "status": "published",
+    "title": {
+      "en": "Selfie to sunglasses reaction loop",
+      "zh-CN": "自拍戴墨镜反应动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://yepshot.com/explore/gif-sunglasses-reaction",
+      "author": "YepShot",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "https://yepshot.com/gpt-image-2-6 explicitly states each of its four linked examples was made on YepShot with GPT Image 2.6 from the left-hand AI-generated photo using the card prompt, and identifies the examples as its own fal.ai runs on November 5, 2026. The separate Flare pricing test does not establish the variant of every example. This is source attribution, not independent model verification.",
+        "zh-CN": "https://yepshot.com/gpt-image-2-6 明确称四个链接示例均由 YepShot 使用 GPT Image 2.6、左侧 AI 生成参考图及卡片提示词制作，并称这些示例为其 2026 年 11 月 5 日在 fal.ai 上的自行测试。另列的 Flare 价格测试不能证明每个示例的版本。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://yepshot.com/explore/gif-sunglasses-reaction"
+    },
+    "media": [
+      {
+        "source_url": "https://yepshot.com/explore/gif-sunglasses-reaction-after.webp",
+        "path": "assets/examples/yepshot-sunglasses-reaction/gif-sunglasses-reaction-after.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Red-haired woman wearing black sunglasses against a blue wall.",
+          "zh-CN": "蓝墙前戴黑色墨镜的红发女子。"
+        },
+        "sha256": "84f61158bbb44295c8227af51c45913e9a9806677db19f76efdcc68f07fa207a",
+        "bytes": 255366,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-sunglasses-reaction",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://yepshot.com/explore/gif-sunglasses-reaction-before.webp",
+        "path": "assets/references/yepshot-sunglasses-reaction/gif-sunglasses-reaction-before.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "AI-generated selfie of a red-haired woman in a white shirt.",
+          "zh-CN": "AI 生成的白衬衫红发女子自拍。"
+        },
+        "sha256": "b6ad2953f825d6cfc7c9304f60cf4daa61604a5deff943292d4693e34b39d30d",
+        "bytes": 106918,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-sunglasses-reaction",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source calls this a GIF, but the unchanged downloadable output is animated WebP: nine frames, 200 ms each, 1.8 seconds, looping. All nine frames and the separate AI-generated reference were inspected. The public detail-page prompt was checked. The creator claims GPT Image 2.6; this example has no established Flare/Sunburst variant. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "来源称其为 GIF，但原始下载文件实际为动态 WebP：9 帧，每帧 200 毫秒，共 1.8 秒循环。已检查全部 9 帧及单独的 AI 生成参考图，并核对公开详情页提示词。GPT Image 2.6 归因来自作者，此例未确认 Flare 或 Sunburst 变体。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yepshot-pet-head-tilt",
+    "status": "published",
+    "title": {
+      "en": "Puppy head-tilt loop",
+      "zh-CN": "小狗歪头动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://yepshot.com/explore/gif-pet-head-tilt",
+      "author": "YepShot",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "https://yepshot.com/gpt-image-2-6 explicitly states each of its four linked examples was made on YepShot with GPT Image 2.6 from the left-hand AI-generated photo using the card prompt, and identifies the examples as its own fal.ai runs on November 5, 2026. The separate Flare pricing test does not establish the variant of every example. This is source attribution, not independent model verification.",
+        "zh-CN": "https://yepshot.com/gpt-image-2-6 明确称四个链接示例均由 YepShot 使用 GPT Image 2.6、左侧 AI 生成参考图及卡片提示词制作，并称这些示例为其 2026 年 11 月 5 日在 fal.ai 上的自行测试。另列的 Flare 价格测试不能证明每个示例的版本。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://yepshot.com/explore/gif-pet-head-tilt"
+    },
+    "media": [
+      {
+        "source_url": "https://yepshot.com/explore/gif-pet-head-tilt-after.webp",
+        "path": "assets/examples/yepshot-pet-head-tilt/gif-pet-head-tilt-after.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Golden puppy tilting its head in a living room.",
+          "zh-CN": "客厅里歪头的金色小狗。"
+        },
+        "sha256": "df524e1d522fe705b9e20a526b0223932fbf030a25c15826a2a6f9e9050f9f75",
+        "bytes": 263760,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-pet-head-tilt",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://yepshot.com/explore/gif-pet-head-tilt-before.webp",
+        "path": "assets/references/yepshot-pet-head-tilt/gif-pet-head-tilt-before.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "AI-generated golden puppy sitting in a living room.",
+          "zh-CN": "AI 生成的客厅中坐着的金色小狗。"
+        },
+        "sha256": "3aaa499d5165deead55edcc5a3dd47323dcbf8c8fdb7eb71fe4a42fc2a3c22ef",
+        "bytes": 105484,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-pet-head-tilt",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source calls this a GIF, but the unchanged downloadable output is animated WebP: nine frames, 200 ms each, 1.8 seconds, looping. All nine frames and the separate AI-generated reference were inspected. The public detail-page prompt was checked. The creator claims GPT Image 2.6; this example has no established Flare/Sunburst variant. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "来源称其为 GIF，但原始下载文件实际为动态 WebP：9 帧，每帧 200 毫秒，共 1.8 秒循环。已检查全部 9 帧及单独的 AI 生成参考图，并核对公开详情页提示词。GPT Image 2.6 归因来自作者，此例未确认 Flare 或 Sunburst 变体。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yepshot-chibi-sticker-wave",
+    "status": "published",
+    "title": {
+      "en": "Photo to waving chibi sticker loop",
+      "zh-CN": "照片转挥手 Q 版贴纸动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://yepshot.com/explore/gif-chibi-sticker-wave",
+      "author": "YepShot",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "https://yepshot.com/gpt-image-2-6 explicitly states each of its four linked examples was made on YepShot with GPT Image 2.6 from the left-hand AI-generated photo using the card prompt, and identifies the examples as its own fal.ai runs on November 5, 2026. The separate Flare pricing test does not establish the variant of every example. This is source attribution, not independent model verification.",
+        "zh-CN": "https://yepshot.com/gpt-image-2-6 明确称四个链接示例均由 YepShot 使用 GPT Image 2.6、左侧 AI 生成参考图及卡片提示词制作，并称这些示例为其 2026 年 11 月 5 日在 fal.ai 上的自行测试。另列的 Flare 价格测试不能证明每个示例的版本。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://yepshot.com/explore/gif-chibi-sticker-wave"
+    },
+    "media": [
+      {
+        "source_url": "https://yepshot.com/explore/gif-chibi-sticker-wave-after.webp",
+        "path": "assets/examples/yepshot-chibi-sticker-wave/gif-chibi-sticker-wave-after.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Curly-haired chibi character with glasses, green sweater and white sticker border.",
+          "zh-CN": "卷发眼镜、绿毛衣及白色贴纸描边的 Q 版角色。"
+        },
+        "sha256": "5471b95cdb9e5f3ac06914c23299f28ef709bebeee987e55731bfd73ad93b19f",
+        "bytes": 262892,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-chibi-sticker-wave",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://yepshot.com/explore/gif-chibi-sticker-wave-before.webp",
+        "path": "assets/references/yepshot-chibi-sticker-wave/gif-chibi-sticker-wave-before.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "AI-generated photo of a curly-haired person with glasses and green sweater at a cafe.",
+          "zh-CN": "AI 生成的咖啡馆内戴眼镜、穿绿毛衣的卷发人物照片。"
+        },
+        "sha256": "943efee68b7e9b03b2c332285717f0714f0ac251a0fd35496a8b99016c3203a0",
+        "bytes": 118348,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-chibi-sticker-wave",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source calls this a GIF, but the unchanged downloadable output is animated WebP: nine frames, 200 ms each, 1.8 seconds, looping. All nine frames and the separate AI-generated reference were inspected. The public detail-page prompt was checked. The creator claims GPT Image 2.6; this example has no established Flare/Sunburst variant. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "来源称其为 GIF，但原始下载文件实际为动态 WebP：9 帧，每帧 200 毫秒，共 1.8 秒循环。已检查全部 9 帧及单独的 AI 生成参考图，并核对公开详情页提示词。GPT Image 2.6 归因来自作者，此例未确认 Flare 或 Sunburst 变体。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yepshot-drawing-comes-alive",
+    "status": "published",
+    "title": {
+      "en": "Owl sketch comes alive",
+      "zh-CN": "猫头鹰素描动起来"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://yepshot.com/explore/gif-drawing-comes-alive",
+      "author": "YepShot",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "https://yepshot.com/gpt-image-2-6 explicitly states each of its four linked examples was made on YepShot with GPT Image 2.6 from the left-hand AI-generated photo using the card prompt, and identifies the examples as its own fal.ai runs on November 5, 2026. The separate Flare pricing test does not establish the variant of every example. This is source attribution, not independent model verification.",
+        "zh-CN": "https://yepshot.com/gpt-image-2-6 明确称四个链接示例均由 YepShot 使用 GPT Image 2.6、左侧 AI 生成参考图及卡片提示词制作，并称这些示例为其 2026 年 11 月 5 日在 fal.ai 上的自行测试。另列的 Flare 价格测试不能证明每个示例的版本。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://yepshot.com/explore/gif-drawing-comes-alive"
+    },
+    "media": [
+      {
+        "source_url": "https://yepshot.com/explore/gif-drawing-comes-alive-after.webp",
+        "path": "assets/examples/yepshot-drawing-comes-alive/gif-drawing-comes-alive-after.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Pencil owl on a branch blinking and raising a wing.",
+          "zh-CN": "树枝上的铅笔素描猫头鹰眨眼并抬起翅膀。"
+        },
+        "sha256": "ad5523ec1855964537e457a1d34b9bac5ad9e63964edee1b4820decdd06005ed",
+        "bytes": 282556,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-drawing-comes-alive",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://yepshot.com/explore/gif-drawing-comes-alive-before.webp",
+        "path": "assets/references/yepshot-drawing-comes-alive/gif-drawing-comes-alive-before.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "AI-generated pencil drawing of an owl on a branch.",
+          "zh-CN": "AI 生成的树枝上猫头鹰铅笔素描。"
+        },
+        "sha256": "4f04159786ed9185203a10f5a7703eed37c828f28822ceb7f6d5c2102499c360",
+        "bytes": 64440,
+        "mime_type": "image/webp",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yepshot.com/explore/gif-drawing-comes-alive",
+          "credit": "YepShot",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The source calls this a GIF, but the unchanged downloadable output is animated WebP: nine frames, 200 ms each, 1.8 seconds, looping. All nine frames and the separate AI-generated reference were inspected. The public detail-page prompt was checked. The creator claims GPT Image 2.6; this example has no established Flare/Sunburst variant. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "来源称其为 GIF，但原始下载文件实际为动态 WebP：9 帧，每帧 200 毫秒，共 1.8 秒循环。已检查全部 9 帧及单独的 AI 生成参考图，并核对公开详情页提示词。GPT Image 2.6 归因来自作者，此例未确认 Flare 或 Sunburst 变体。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-neon-open-sign",
+    "status": "published",
+    "title": {
+      "en": "OPEN neon animation preview",
+      "zh-CN": "OPEN 霓虹动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists open neon animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将OPEN 霓虹动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/neon-open-sign.webp",
+        "path": "assets/examples/zzo-neon-open-sign/neon-open-sign.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster with pink OPEN neon lettering on a rainy brick wall.",
+          "zh-CN": "静态预览：雨中砖墙上的粉色 OPEN 霓虹字样。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "5d4c43b547cc037d665f94904bca4017e50ad569c28d8795b068d59f9bc2761a",
+        "bytes": 107402,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster with pink OPEN neon lettering on a rainy brick wall. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The page displays the prompt for this sample, linked without reconstruction. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：雨中砖墙上的粉色 OPEN 霓虹字样。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。页面展示该样例提示词，仅链接原文，不重构。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview and any listed reference. A referenced frontend-script request returned 403, so original animation URLs remain unknown. This audit did not retry or reacquire content. Every local file is a static image, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览及列出的参考图通过 HTTP 200 获取。所引用前端脚本请求返回 403，因此原始动画网址仍未知。本次未重试或重新获取内容。所有本地文件均为静态图片，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-goodnight-girl-from-reference",
+    "status": "published",
+    "title": {
+      "en": "Good-night sticker animation preview",
+      "zh-CN": "晚安贴纸动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists good-night sticker animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将晚安贴纸动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/goodnight-girl-from-reference.webp",
+        "path": "assets/examples/zzo-goodnight-girl-from-reference/goodnight-girl-from-reference.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a girl in pink pajamas holding a pillow, with moon, stars and Good night text.",
+          "zh-CN": "静态预览：穿粉色睡衣、抱枕头的女孩，配有月亮、星星与 Good night 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "271278d787e8caf8458d31770ef206e52879563f96c4b44f64d9c8f7d16e7bbd",
+        "bytes": 55208,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/goodnight-girl-reference.webp",
+        "path": "assets/references/zzo-goodnight-girl-from-reference/goodnight-girl-reference.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Reference input: pink-pajama girl holding a pillow with a white sticker outline.",
+          "zh-CN": "参考输入：抱着枕头、穿粉色睡衣的女孩，带白色贴纸轮廓。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is the source-supplied static reference input. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态参考输入。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "7a72a92c85214d3caa8d66af7081dc314b6aeaa44352695f32ce34d485a8de91",
+        "bytes": 46106,
+        "mime_type": "image/webp",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a girl in pink pajamas holding a pillow, with moon, stars and Good night text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The page displays the prompt for this sample, linked without reconstruction. The separately archived 512×512 WebP is the provider’s stated GPT Image 2.6-generated reference input, not an output animation. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：穿粉色睡衣、抱枕头的女孩，配有月亮、星星与 Good night 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。页面展示该样例提示词，仅链接原文，不重构。另存的 512×512 WebP 是提供方称由 GPT Image 2.6 生成的参考输入，不是输出动画。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview and any listed reference. A referenced frontend-script request returned 403, so original animation URLs remain unknown. This audit did not retry or reacquire content. Every local file is a static image, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览及列出的参考图通过 HTTP 200 获取。所引用前端脚本请求返回 403，因此原始动画网址仍未知。本次未重试或重新获取内容。所有本地文件均为静态图片，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-thank-you-shiba",
+    "status": "published",
+    "title": {
+      "en": "Thank-you shiba animation preview",
+      "zh-CN": "感谢柴犬动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists thank-you shiba animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将感谢柴犬动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/thank-you-shiba.webp",
+        "path": "assets/examples/zzo-thank-you-shiba/thank-you-shiba.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a smiling shiba sticker above THANK YOU lettering.",
+          "zh-CN": "静态预览：微笑柴犬贴纸与 THANK YOU 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "09c206e131f60c169f7fb34f2c2272fdb0734a9835cf84ee3045dc08ac55d80b",
+        "bytes": 40438,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a smiling shiba sticker above THANK YOU lettering. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：微笑柴犬贴纸与 THANK YOU 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-lol-bean",
+    "status": "published",
+    "title": {
+      "en": "LOL bean animation preview",
+      "zh-CN": "LOL 豆子角色动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists lol bean animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将LOL 豆子角色动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/lol-bean.webp",
+        "path": "assets/examples/zzo-lol-bean/lol-bean.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a laughing yellow character under LOL lettering.",
+          "zh-CN": "静态预览：LOL 字样下的黄色大笑角色。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "6a454f16519ab3ee833d7b11e6ba8e367364558fe89003ae26cd1949157820c7",
+        "bytes": 34654,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a laughing yellow character under LOL lettering. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：LOL 字样下的黄色大笑角色。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-oops-facepalm",
+    "status": "published",
+    "title": {
+      "en": "Oops reaction animation preview",
+      "zh-CN": "Oops 反应动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists oops reaction animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将Oops 反应动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/oops-facepalm.webp",
+        "path": "assets/examples/zzo-oops-facepalm/oops-facepalm.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a surprised cartoon office worker holding a mug beneath OOPS text.",
+          "zh-CN": "静态预览：OOPS 文字下，一名惊讶的卡通上班族手持杯子。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "38c3316cdcb151d51cf1035419f5bc9f3ae5c77951e8232b5164b9ec68153385",
+        "bytes": 40002,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a surprised cartoon office worker holding a mug beneath OOPS text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：OOPS 文字下，一名惊讶的卡通上班族手持杯子。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-got-it-robot",
+    "status": "published",
+    "title": {
+      "en": "Got-it robot animation preview",
+      "zh-CN": "收到机器人动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists got-it robot animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将收到机器人动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/got-it-robot.webp",
+        "path": "assets/examples/zzo-got-it-robot/got-it-robot.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a smiling blue robot giving a thumbs-up above GOT IT lettering.",
+          "zh-CN": "静态预览：蓝色微笑机器人竖起拇指，旁有 GOT IT 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "0afa263252fbdb7e0cc7afb1fbe83fc60b4976a017be71d76e98a30533fc35d0",
+        "bytes": 37260,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a smiling blue robot giving a thumbs-up above GOT IT lettering. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：蓝色微笑机器人竖起拇指，旁有 GOT IT 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-good-morning-coffee",
+    "status": "published",
+    "title": {
+      "en": "Morning coffee animation preview",
+      "zh-CN": "早安咖啡动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists morning coffee animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将早安咖啡动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/good-morning-coffee.webp",
+        "path": "assets/examples/zzo-good-morning-coffee/good-morning-coffee.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a steaming coffee cup, sunrise and Good morning text.",
+          "zh-CN": "静态预览：冒热气的咖啡杯、日出与 Good morning 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "e050dbe8a3a1704c693e3a25c76ec04e5be9d0f624ab8a8c49e9c253d6193a7c",
+        "bytes": 81650,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a steaming coffee cup, sunrise and Good morning text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：冒热气的咖啡杯、日出与 Good morning 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-birthday-cake",
+    "status": "published",
+    "title": {
+      "en": "Birthday cake animation preview",
+      "zh-CN": "生日蛋糕动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists birthday cake animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将生日蛋糕动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/birthday-cake.webp",
+        "path": "assets/examples/zzo-birthday-cake/birthday-cake.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a candle-topped birthday cake, balloons and Happy Birthday text.",
+          "zh-CN": "静态预览：插有蜡烛的生日蛋糕、气球与 Happy Birthday 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "a31dcf5eab4059bac4ed757a75fcd0488c47d0bab5c46b57f797da274e5c1955",
+        "bytes": 47776,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a candle-topped birthday cake, balloons and Happy Birthday text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：插有蜡烛的生日蛋糕、气球与 Happy Birthday 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-thanksgiving-turkey",
+    "status": "published",
+    "title": {
+      "en": "Thanksgiving turkey animation preview",
+      "zh-CN": "感恩节火鸡动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists thanksgiving turkey animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将感恩节火鸡动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/thanksgiving-turkey.webp",
+        "path": "assets/examples/zzo-thanksgiving-turkey/thanksgiving-turkey.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a cartoon turkey among autumn leaves and pumpkins above Happy Thanksgiving text.",
+          "zh-CN": "静态预览：秋叶与南瓜间的卡通火鸡，以及 Happy Thanksgiving 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "6513948b9da2927fa2d5f6ca2738091f6d94e137f1d7e97232a452ac93657281",
+        "bytes": 84632,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a cartoon turkey among autumn leaves and pumpkins above Happy Thanksgiving text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：秋叶与南瓜间的卡通火鸡，以及 Happy Thanksgiving 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-black-friday-sale",
+    "status": "published",
+    "title": {
+      "en": "Black Friday animation preview",
+      "zh-CN": "黑色星期五动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists black friday animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将黑色星期五动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/black-friday-sale.webp",
+        "path": "assets/examples/zzo-black-friday-sale/black-friday-sale.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static black-and-gold poster with a bow and BLACK FRIDAY SALE lettering.",
+          "zh-CN": "黑金色静态预览，带蝴蝶结与 BLACK FRIDAY SALE 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "a18c6c2f544113b3a8457690aa6ab4b46a972af9f28368dd9dbe4da2cb31ad74",
+        "bytes": 41886,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static black-and-gold poster with a bow and BLACK FRIDAY SALE lettering. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "黑金色静态预览，带蝴蝶结与 BLACK FRIDAY SALE 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-christmas-tree",
+    "status": "published",
+    "title": {
+      "en": "Christmas tree animation preview",
+      "zh-CN": "圣诞树动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists christmas tree animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将圣诞树动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/christmas-tree.webp",
+        "path": "assets/examples/zzo-christmas-tree/christmas-tree.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of a decorated Christmas tree beside a fireplace and snowy window, with Merry Christmas text.",
+          "zh-CN": "静态预览：壁炉与雪窗旁的装饰圣诞树，以及 Merry Christmas 文字。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "02f4610679df6987d9a5f945d239116e5a13c36e0e1e10fb9124c6577defd579",
+        "bytes": 137058,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of a decorated Christmas tree beside a fireplace and snowy window, with Merry Christmas text. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：壁炉与雪窗旁的装饰圣诞树，以及 Merry Christmas 文字。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-new-year-2027",
+    "status": "published",
+    "title": {
+      "en": "New Year 2027 animation preview",
+      "zh-CN": "2027 新年动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "zzo.ai lists new year 2027 animation preview in its “Made with GPT Image 2.6” gallery, with a GIF badge and provider sample attribution. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 将2027 新年动画预览列于“Made with GPT Image 2.6”图库，带 GIF 标记，并归因为提供方生成样例。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/new-year-2027.webp",
+        "path": "assets/examples/zzo-new-year-2027/new-year-2027.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of fireworks over a waterfront skyline with Happy New Year 2027 lettering.",
+          "zh-CN": "静态预览：滨水天际线上方的烟花与 Happy New Year 2027 字样。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "2d46c41219fecb641c62cd63316389ea2bcc1192a11366706dc1bc8dd6e377ca",
+        "bytes": 155518,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of fireworks over a waterfront skyline with Happy New Year 2027 lettering. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The original page offers a prompt for this sample, but the prompt itself is absent from retained evidence. Its public availability is unverified, not established as unpublished. No prompt was invented. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：滨水天际线上方的烟花与 Happy New Year 2027 字样。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。原始页面表示可打开样例查看提示词，但保留证据中没有该提示词原文。其公开状态尚未核实，并非已确认未公开；未虚构提示词。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview. A referenced frontend-script request returned HTTP 403; original animation URLs remain unknown. The audit did not retry or reacquire content. This file is a static poster, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览通过 HTTP 200 获取。所引用前端脚本请求返回 HTTP 403，原始动画网址仍未知。本次未重试或重新获取内容。此文件为静态预览，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "zzo-window-cat-snow",
+    "status": "published",
+    "title": {
+      "en": "Snowy-window cat animation preview",
+      "zh-CN": "雪窗小猫动画预览"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://zzo.ai/models/gpt-image-2-6",
+      "author": "zzo.ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The “A cosy loop for social posts” card in zzo.ai’s GPT Image 2.6 use-case section identifies this snowy-window cat example as a four-frame GIF from the provider’s test. The exact Flare/Sunburst variant was not disclosed for this sample. Only its static WebP preview was retrieved; this is not independent model verification.",
+        "zh-CN": "zzo.ai 的 GPT Image 2.6 用例区中，“A cosy loop for social posts”卡片将雪窗小猫样例描述为提供方测试的四帧 GIF。该作品的具体 Flare／Sunburst 变体未披露。仅取得静态 WebP 预览，不属于独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://zzo.ai/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://zzo.ai/samples/gpt-image-2-6/window-cat-snow.webp",
+        "path": "assets/examples/zzo-window-cat-snow/window-cat-snow.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static poster of an orange kitten on a windowsill beside a lantern and cup, with snow outside.",
+          "zh-CN": "静态预览：窗台上的橘色小猫、灯笼与杯子，窗外正在下雪。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://zzo.ai/models/gpt-image-2-6",
+          "credit": "zzo.ai",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. This file is only the source-supplied static poster; animation rights and original file remain unverified. Terms checked on 2026-11-05: https://zzo.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 此文件仅为来源提供的静态预览，动画原文件及使用状态未核实。 已于 2026-11-05 查看条款：https://zzo.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "4d2055bb499c8fdc6aa7058edc6a6a5fb960a8818722b631308bda35e53ae486",
+        "bytes": 59414,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Static poster of an orange kitten on a windowsill beside a lantern and cup, with snow outside. The downloaded file is a single-frame WebP poster, not the claimed animation. Original animation URL is unknown. A referenced frontend JavaScript request returned HTTP 403; it was not retried or bypassed. The page displays the prompt for this sample, linked without reconstruction. Offline recovery review on 2026-11-08 rechecked retained source evidence and original file integrity. Current source availability, animation playback and model execution were not tested.",
+      "zh-CN": "静态预览：窗台上的橘色小猫、灯笼与杯子，窗外正在下雪。 下载文件为单帧 WebP 海报，不是页面所称的动画；原始动画网址未知。读取页面引用的前端脚本时返回 HTTP 403，未重试或绕过。页面展示该样例提示词，仅链接原文，不重构。 2026-11-08离线恢复复核了留存来源证据与原文件完整性，未测试当前来源访问、动画播放或模型执行。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The collector checked source access on 2026-11-05. A prior audit reviewed retained evidence on 2026-11-06, followed by this offline recovery recheck on 2026-11-08. Neither local review establishes current availability.",
+        "zh-CN": "收集者于2026-11-05检查来源访问；此前审核于2026-11-06复查留存证据，本次于2026-11-08再次离线复核。两次本地审核均不证明当前可访问性。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 manifest records HTTP 200 for the static WebP preview and any listed reference. A referenced frontend-script request returned 403, so original animation URLs remain unknown. This audit did not retry or reacquire content. Every local file is a static image, not an archived animation.",
+        "zh-CN": "2026-11-05 清单记录静态 WebP 预览及列出的参考图通过 HTTP 200 获取。所引用前端脚本请求返回 403，因此原始动画网址仍未知。本次未重试或重新获取内容。所有本地文件均为静态图片，并非存档动画。"
+      },
+      "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

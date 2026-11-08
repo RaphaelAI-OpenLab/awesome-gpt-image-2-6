@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 17 | 0 |
-| [海报与文字排版](#category-posters-typography) | 20 | 0 |
-| [信息图](#category-infographics) | 10 | 0 |
+| [品牌与商品](#category-brand-products) | 18 | 0 |
+| [海报与文字排版](#category-posters-typography) | 21 | 0 |
+| [信息图](#category-infographics) | 11 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 4 | 0 |
 | [角色与一致性](#category-characters-consistency) | 22 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 14 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 15 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 15 | 0 |
+| [GIF 与动画](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **108** |
+| 来源案例 | **129** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **71** |
-| 来源公开原始提示词 | **85** |
+| 社区作者自报案例 | **92** |
+| 来源公开原始提示词 | **96** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **177** |
-| 最近来源核对（UTC） | **2026-11-06** |
+| 本地收录素材文件 | **204** |
+| 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
 
@@ -151,6 +151,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Made 唱针微距](cases/made-sunburst-stylus-macro/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [三种口味汽水陈列](cases/yir-flavor-lineup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [法压壶产品照与背景编辑延续](cases/community-gptimagehub-french-press-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [SUMMIT ROAST 咖啡袋产品图](cases/zzo-flare-summit-roast-bag/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Blue Hour 爵士海报与日期编辑延续](cases/community-gptimagehub-jazz-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [根据文档简报生成的英印双语晚间菜单](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [NIGHT TIDE 海浪演出海报](cases/zzo-flare-night-tide-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -195,6 +197,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [里斯本天气界面：Flare 与 Sunburst 同提示对比](cases/community-gptimagehub-weather-ui/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [法案成为法律六步信息图对比](cases/community-gptimagehub-law-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [帝王蝶生命周期自然图鉴](cases/analyticsvidhya-monarch-life-cycle/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [自动咖啡机流程信息图](cases/zzo-flare-coffee-machine-diagram/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -256,6 +259,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [客厅沙发改色双版本比较](cases/community-lightlyn-sofa-edit-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [标注引导的森林绿扶手椅编辑](cases/analyticsvidhya-markup-green-armchair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [森林溪石上的 LUMA 02 滴管瓶](cases/zzo-flare-luma-forest-stone/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -291,6 +295,23 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [卡通雪人挥手循环](cases/veevid-snowman-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [自拍戴墨镜反应动画](cases/yepshot-sunglasses-reaction/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [小狗歪头动画](cases/yepshot-pet-head-tilt/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [照片转挥手 Q 版贴纸动画](cases/yepshot-chibi-sticker-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [猫头鹰素描动起来](cases/yepshot-drawing-comes-alive/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [OPEN 霓虹动画预览](cases/zzo-neon-open-sign/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [晚安贴纸动画预览](cases/zzo-goodnight-girl-from-reference/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [感谢柴犬动画预览](cases/zzo-thank-you-shiba/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [LOL 豆子角色动画预览](cases/zzo-lol-bean/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Oops 反应动画预览](cases/zzo-oops-facepalm/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [收到机器人动画预览](cases/zzo-got-it-robot/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [早安咖啡动画预览](cases/zzo-good-morning-coffee/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [生日蛋糕动画预览](cases/zzo-birthday-cake/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [感恩节火鸡动画预览](cases/zzo-thanksgiving-turkey/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [黑色星期五动画预览](cases/zzo-black-friday-sale/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [圣诞树动画预览](cases/zzo-christmas-tree/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [2027 新年动画预览](cases/zzo-new-year-2027/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [雪窗小猫动画预览](cases/zzo-window-cat-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
