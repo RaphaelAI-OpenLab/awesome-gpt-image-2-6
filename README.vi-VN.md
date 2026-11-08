@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 18 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 21 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 11 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 20 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 24 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 12 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 4 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 15 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 32 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 24 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 18 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 8 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 40 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **129** |
+| Trường hợp có liên kết nguồn | **150** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **92** |
-| Câu lệnh gốc có sẵn tại nguồn | **96** |
+| Ví dụ do tác giả báo cáo | **113** |
+| Câu lệnh gốc có sẵn tại nguồn | **105** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **204** |
+| Tệp tư liệu được lưu trữ cục bộ | **251** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -156,6 +156,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -184,6 +186,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-infographics"></a>
 
@@ -202,6 +207,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -242,6 +248,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-markup-edits"></a>
 
@@ -264,6 +272,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-svg-design-assets"></a>
 
@@ -277,6 +288,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-gif-animation"></a>
 
@@ -316,6 +329,14 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
