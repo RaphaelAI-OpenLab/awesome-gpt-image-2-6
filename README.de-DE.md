@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 17 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 20 | 0 |
-| [Infografiken](#category-infographics) | 10 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 4 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 14 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 53 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 22 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 25 | 0 |
+| [Infografiken](#category-infographics) | 12 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 26 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 18 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 8 | 0 |
+| [GIF & Animation](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **146** |
+| Beispiele mit Quellenverweisen | **197** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **109** |
-| An der Quelle verfügbare Original-Prompts | **123** |
+| Von Erstellern gemeldete Beispiele | **160** |
+| An der Quelle verfügbare Original-Prompts | **145** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **218** |
+| Lokal archivierte Mediendateien | **312** |
 | Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -155,6 +155,11 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +187,11 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +209,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -210,6 +222,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Living-room markup edit](cases/launch-fal/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-characters-consistency"></a>
 
@@ -239,6 +252,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -260,6 +277,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-svg-design-assets"></a>
 
@@ -273,6 +294,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-gif-animation"></a>
 
@@ -295,6 +318,34 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |

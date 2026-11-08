@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 17 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 20 | 0 |
-| [인포그래픽](#category-infographics) | 10 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 4 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 22 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 14 | 0 |
-| [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 53 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 22 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 25 | 0 |
+| [인포그래픽](#category-infographics) | 12 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 5 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 26 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 18 | 0 |
+| [SVG 및 디자인 에셋](#category-svg-design-assets) | 8 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **146** |
+| 출처 링크가 있는 사례 | **197** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **109** |
-| 출처에서 제공하는 원문 프롬프트 | **123** |
+| 제작자가 보고한 예시 | **160** |
+| 출처에서 제공하는 원문 프롬프트 | **145** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **218** |
+| 로컬에 보관된 미디어 파일 | **312** |
 | 최근 출처 확인 일시(UTC) | **2026-11-08** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -155,6 +155,11 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +187,11 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +209,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -210,6 +222,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Living-room markup edit](cases/launch-fal/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-characters-consistency"></a>
 
@@ -239,6 +252,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 
@@ -260,6 +277,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -273,6 +294,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-gif-animation"></a>
 
@@ -295,6 +318,34 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |

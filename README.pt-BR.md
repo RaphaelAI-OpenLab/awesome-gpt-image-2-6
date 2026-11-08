@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 17 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 20 | 0 |
-| [Infográficos](#category-infographics) | 10 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 4 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 22 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 14 | 0 |
-| [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
-| [GIF e animação](#category-gif-animation) | 53 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 22 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 25 | 0 |
+| [Infográficos](#category-infographics) | 12 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 5 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 26 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 18 | 0 |
+| [SVG e recursos de design](#category-svg-design-assets) | 8 | 0 |
+| [GIF e animação](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **146** |
+| Casos com link para a fonte | **197** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **109** |
-| Prompts originais disponíveis na fonte | **123** |
+| Exemplos relatados pelos criadores | **160** |
+| Prompts originais disponíveis na fonte | **145** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **218** |
+| Arquivos de mídia arquivados localmente | **312** |
 | Última verificação das fontes (UTC) | **2026-11-08** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -155,6 +155,11 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +187,11 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modelo informado pelo criador | Prompt não público |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +209,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -210,6 +222,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Living-room markup edit](cases/launch-fal/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-characters-consistency"></a>
 
@@ -239,6 +252,10 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -260,6 +277,10 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-svg-design-assets"></a>
 
@@ -273,6 +294,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-gif-animation"></a>
 
@@ -295,6 +318,34 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Modelo informado pelo criador | Prompt não público |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modelo informado pelo criador | Prompt original na fonte |
