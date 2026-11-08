@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 18 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 21 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 20 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 22 | 0 |
 | [インフォグラフィック](#category-infographics) | 11 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 4 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 5 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 24 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 15 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 32 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **129** |
+| 出典リンク付き事例 | **138** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **92** |
-| 出典で公開されている原文プロンプト | **96** |
+| 作者が報告した作例 | **101** |
+| 出典で公開されている原文プロンプト | **98** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **204** |
+| ローカルに保存済みのメディアファイル | **224** |
 | 出典の最終確認日時（UTC） | **2026-11-08** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -156,6 +156,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-posters-typography"></a>
 
@@ -184,6 +186,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-infographics"></a>
 
@@ -213,6 +216,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Living-room markup edit](cases/launch-fal/README.md) | 公式公開デモ | 出典にある原文プロンプト |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-characters-consistency"></a>
 
@@ -242,6 +246,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-markup-edits"></a>
 
@@ -316,6 +322,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

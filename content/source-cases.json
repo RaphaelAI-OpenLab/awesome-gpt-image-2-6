@@ -10927,5 +10927,923 @@
       },
       "report_path": "docs/YEPSHOT_ZZO_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "yir-portrait-edit-sequence",
+    "status": "published",
+    "title": {
+      "en": "Portrait four-round editing",
+      "zh-CN": "人像四轮编辑"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://yir.ai/models/gpt-image-2-6",
+      "author": "Yir / Sungerine Labs LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Yir displays this five-frame sequence under the GPT Image 2.6 highlights heading “Edit it four times, the subject stays the same,” and says each result becomes the next reference. Nearby Sunburst consistency language is a general model claim, not an explicit per-sequence variant label; variant retained as unspecified.",
+        "zh-CN": "Yir 在 GPT Image 2.6 特点区的四轮编辑演示中展示该五帧序列，并称每轮输出作为下一轮参考。附近 Sunburst 一致性描述为一般模型陈述，并非对该序列的明确变体标注；因此变体保留为未指定。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-portrait-0.webp",
+        "path": "assets/references/yir-portrait-edit-sequence/lab-portrait-0.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Portrait four-round editing: initial reference",
+          "zh-CN": "人像四轮编辑：初始参考图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 173024,
+        "sha256": "93df4c2b17fffda95eee43106b7c9b7c73e39ba7b0bbd3f8ea6a3de4287c92eb"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-portrait-1.webp",
+        "path": "assets/examples/yir-portrait-edit-sequence/lab-portrait-1.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Portrait four-round editing: round 1 output",
+          "zh-CN": "人像四轮编辑：第 1 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 165482,
+        "sha256": "247153227e82e6bbb88c47cd5a5ba0553dc4c68894dc4114c3666faacd3e48ee"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-portrait-2.webp",
+        "path": "assets/examples/yir-portrait-edit-sequence/lab-portrait-2.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Portrait four-round editing: round 2 output",
+          "zh-CN": "人像四轮编辑：第 2 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 171886,
+        "sha256": "94fbcbbdd3d67f32aeb802d370353abe5c165ee0815679b647647935c519f2f1"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-portrait-3.webp",
+        "path": "assets/examples/yir-portrait-edit-sequence/lab-portrait-3.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Portrait four-round editing: round 3 output",
+          "zh-CN": "人像四轮编辑：第 3 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 293658,
+        "sha256": "b4d6f05ec3c2b8d6a3593f1118e69bdf0944f8f090ef9ad8f18de8f5c1adb005"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-portrait-4.webp",
+        "path": "assets/examples/yir-portrait-edit-sequence/lab-portrait-4.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Portrait four-round editing: round 4 output",
+          "zh-CN": "人像四轮编辑：第 4 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 203458,
+        "sha256": "db17be314dea426584924b5c2fda963cf81e69e0a567ef17795b3e78a8a50620"
+      }
+    ],
+    "notes": {
+      "en": "One natural sequence, four edited outputs plus the initial reference. Public short edit captions are preserved as captions, not claimed as full original prompts. Published images are 1086×1448. Provider demonstration only; no independent generation or pixel-identical preservation claim. The retained source provides short captions, not a complete generation/edit prompt; not-public refers to that source record, not a claim that no prompt exists anywhere. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "一个完整序列，包含四张编辑输出及初始参考图。公开简短编辑说明仅按说明保存，不冒充完整原始提示词。发布图片为 1086×1448。仅为提供商演示；未独立生成，也不声称逐像素保留。 保留来源仅提供简短配文，未提供完整生成／编辑提示词；未公开状态仅指该来源记录，不声称其他地方不存在提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yir-watch-edit-sequence",
+    "status": "published",
+    "title": {
+      "en": "Watch four-round editing",
+      "zh-CN": "腕表四轮编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://yir.ai/models/gpt-image-2-6",
+      "author": "Yir / Sungerine Labs LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Yir displays this five-frame sequence under the GPT Image 2.6 highlights heading “Edit it four times, the subject stays the same,” and says each result becomes the next reference. Nearby Sunburst consistency language is a general model claim, not an explicit per-sequence variant label; variant retained as unspecified.",
+        "zh-CN": "Yir 在 GPT Image 2.6 特点区的四轮编辑演示中展示该五帧序列，并称每轮输出作为下一轮参考。附近 Sunburst 一致性描述为一般模型陈述，并非对该序列的明确变体标注；因此变体保留为未指定。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-watch-0.webp",
+        "path": "assets/references/yir-watch-edit-sequence/lab-watch-0.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Watch four-round editing: initial reference",
+          "zh-CN": "腕表四轮编辑：初始参考图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 285616,
+        "sha256": "9b87617e44aaeaf33d18b34da7e674385366743cd716ee359d86c8d1a328c5b5"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-watch-1.webp",
+        "path": "assets/examples/yir-watch-edit-sequence/lab-watch-1.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Watch four-round editing: round 1 output",
+          "zh-CN": "腕表四轮编辑：第 1 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 265082,
+        "sha256": "f5f5e83953079889026652993d73a358d8805e5e7ed952973147e3f6e25c68fd"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-watch-2.webp",
+        "path": "assets/examples/yir-watch-edit-sequence/lab-watch-2.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Watch four-round editing: round 2 output",
+          "zh-CN": "腕表四轮编辑：第 2 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 207454,
+        "sha256": "b9f9018fc9af01abc2d200ef55ed3f1b3f4e2fb79058bfb8e3de4d8c6dfc13f3"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-watch-3.webp",
+        "path": "assets/examples/yir-watch-edit-sequence/lab-watch-3.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Watch four-round editing: round 3 output",
+          "zh-CN": "腕表四轮编辑：第 3 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 501660,
+        "sha256": "6d2dae1b3fdd1e7de16d6e4eb7c2744769d942b3596e22abb607b89028fc2ed4"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-watch-4.webp",
+        "path": "assets/examples/yir-watch-edit-sequence/lab-watch-4.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Watch four-round editing: round 4 output",
+          "zh-CN": "腕表四轮编辑：第 4 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 456486,
+        "sha256": "428d39bd84f8d4df96f3a53f6cc163d59324e4d4d50e0762921326ed30a01601"
+      }
+    ],
+    "notes": {
+      "en": "One natural sequence, four edited outputs plus the initial reference. Public short edit captions are preserved as captions, not claimed as full original prompts. Published images are 1086×1448. Provider demonstration only; no independent generation or pixel-identical preservation claim. The retained source provides short captions, not a complete generation/edit prompt; not-public refers to that source record, not a claim that no prompt exists anywhere. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "一个完整序列，包含四张编辑输出及初始参考图。公开简短编辑说明仅按说明保存，不冒充完整原始提示词。发布图片为 1086×1448。仅为提供商演示；未独立生成，也不声称逐像素保留。 保留来源仅提供简短配文，未提供完整生成／编辑提示词；未公开状态仅指该来源记录，不声称其他地方不存在提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "yir-vase-edit-sequence",
+    "status": "published",
+    "title": {
+      "en": "Vase four-round editing",
+      "zh-CN": "花瓶四轮编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://yir.ai/models/gpt-image-2-6",
+      "author": "Yir / Sungerine Labs LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Yir displays this five-frame sequence under the GPT Image 2.6 highlights heading “Edit it four times, the subject stays the same,” and says each result becomes the next reference. Nearby Sunburst consistency language is a general model claim, not an explicit per-sequence variant label; variant retained as unspecified.",
+        "zh-CN": "Yir 在 GPT Image 2.6 特点区的四轮编辑演示中展示该五帧序列，并称每轮输出作为下一轮参考。附近 Sunburst 一致性描述为一般模型陈述，并非对该序列的明确变体标注；因此变体保留为未指定。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-vase-0.webp",
+        "path": "assets/references/yir-vase-edit-sequence/lab-vase-0.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Vase four-round editing: initial reference",
+          "zh-CN": "花瓶四轮编辑：初始参考图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 129456,
+        "sha256": "3df8c6133363c32356b9496af25f86fa46a52a45074b64ccb272a6fca8dfbf3e"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-vase-1.webp",
+        "path": "assets/examples/yir-vase-edit-sequence/lab-vase-1.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Vase four-round editing: round 1 output",
+          "zh-CN": "花瓶四轮编辑：第 1 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 121230,
+        "sha256": "45f9f29ff6629308f4bcf97ba11a23b79b49c57262ee047fd70ff9a182f13bfc"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-vase-2.webp",
+        "path": "assets/examples/yir-vase-edit-sequence/lab-vase-2.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Vase four-round editing: round 2 output",
+          "zh-CN": "花瓶四轮编辑：第 2 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 136244,
+        "sha256": "1a6ec1b4fe57be71fc58c2444bb19885b48c5a39bcc9dc951d197d65b3d01e40"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-vase-3.webp",
+        "path": "assets/examples/yir-vase-edit-sequence/lab-vase-3.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Vase four-round editing: round 3 output",
+          "zh-CN": "花瓶四轮编辑：第 3 轮输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 242200,
+        "sha256": "8e02927b8bda957be208d94fef2453b956f0f8d12117f7ed022bdbdc78064eb0"
+      },
+      {
+        "source_url": "https://yir.ai/images/models/gpt-image-2-6/lab-vase-4.webp",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Vase four-round editing: round 4 output",
+          "zh-CN": "花瓶四轮编辑：第 4 轮输出"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
+          "credit": "Yir / Sungerine Labs LLC",
+          "note": {
+            "en": "Source link only; this media item is not included in the snapshot. No redistribution license is verified. Attribution is not permission.",
+            "zh-CN": "仅保留来源链接，本快照不包含此素材。未核实转载许可；署名不构成授权。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "One natural sequence, four edited outputs plus the initial reference. Public short edit captions are preserved as captions, not claimed as full original prompts. Published images are 1086×1448. Provider demonstration only; no independent generation or pixel-identical preservation claim. The retained source provides short captions, not a complete generation/edit prompt; not-public refers to that source record, not a claim that no prompt exists anywhere. In this snapshot, one source-linked media item is not included. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "一个完整序列，包含四张编辑输出及初始参考图。公开简短编辑说明仅按说明保存，不冒充完整原始提示词。发布图片为 1086×1448。仅为提供商演示；未独立生成，也不声称逐像素保留。 保留来源仅提供简短配文，未提供完整生成／编辑提示词；未公开状态仅指该来源记录，不声称其他地方不存在提示词。 本快照有一项素材仅保留来源链接，不包含文件。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "Four original files are included. The final vase output remains source-linked and is not included in this snapshot.",
+        "zh-CN": "包含四份原始文件。花瓶最后一轮输出仅保留来源链接，本快照不包含该文件。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-neon-lucky",
+    "status": "published",
+    "title": {
+      "en": "LUCKY neon sign flicker",
+      "zh-CN": "LUCKY 霓虹招牌闪烁"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For lucky neon sign flicker, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/neon-lucky-sign-ai-image.gif",
+        "path": "assets/examples/kavel-neon-lucky/neon-lucky-sign-ai-image.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Pink LUCKY neon lettering changes brightness on a brick wall.",
+          "zh-CN": "砖墙上的粉色 LUCKY 霓虹字样改变亮度。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "9a96cb1aafb188ec03a888801189421786b0885748a2792a1bcc98a6cd09acca",
+        "bytes": 756206,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Pink LUCKY neon lettering changes brightness on a brick wall. Original provider asset archived byte-for-byte. All nine frames were decoded and inspected as sequential contact sheets; real-time playback was not performed. Each frame is 200 ms, total 1.8 s. The retained original page and this asset’s registry provide a description but no full generation prompt. No prompt was reconstructed. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "砖墙上的粉色 LUCKY 霓虹字样改变亮度。 提供方公开素材按原字节存档。9 帧全部解码并按顺序查看接触表，未进行实时播放；每帧 200 毫秒，总时长 1.8 秒。未取得完整生成提示词，不进行猜测或重写。 保留原页与该素材记录仅提供描述，未给出完整生成提示词，未据此重构提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-open-late",
+    "status": "published",
+    "title": {
+      "en": "OPEN LATE neon storefront",
+      "zh-CN": "OPEN LATE 霓虹店面招牌"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For open late neon storefront, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/open-late-neon-ai-image.webp",
+        "path": "assets/examples/kavel-open-late/open-late-neon-ai-image.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Pink OPEN and blue LATE neon lettering beside a wet city street.",
+          "zh-CN": "湿润城市街道旁的粉色 OPEN 与蓝色 LATE 霓虹字样。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "dcfc24acf1973275a9f85221219c716325027d88fe3322f03fdc1eaff4e54ceb",
+        "bytes": 186638,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Pink OPEN and blue LATE neon lettering beside a wet city street. Original provider asset archived byte-for-byte. The static WebP was decoded and visually inspected. The retained original page and this asset’s registry provide a description but no full generation prompt. No prompt was reconstructed. The page broadly describes its stills as X posts, but this selected asset has a more specific embedded “Generated on Kavel” statement. Attribution follows that per-asset statement; the inconsistency remains a limitation. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "湿润城市街道旁的粉色 OPEN 与蓝色 LATE 霓虹字样。 提供方公开素材按原字节存档。静态 WebP 已解码并查看像素。未取得完整生成提示词，不进行猜测或重写。 页面概述将静态图称为 X 帖子，但该具体素材的嵌入记录明确写为 Kavel 生成。归因依据逐素材声明，同时保留这一表述不一致的限制。 保留原页与该素材记录仅提供描述，未给出完整生成提示词，未据此重构提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-tram",
+    "status": "published",
+    "title": {
+      "en": "Red tram in a foggy city",
+      "zh-CN": "雾中城市红色电车"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For red tram in a foggy city, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/tram-dusk-fog-ai-image.webp",
+        "path": "assets/examples/kavel-tram/tram-dusk-fog-ai-image.webp",
+        "kind": "image",
+        "alt": {
+          "en": "A red tram and pedestrians cross a wet street with glowing lamps and distant spires.",
+          "zh-CN": "红色电车和行人穿过湿润街道，街灯亮起，远处可见尖塔。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "45a7ef12689e228fb25add242c097a6d9264888d3fbb87f4a13d33fdecec1c9d",
+        "bytes": 250084,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A red tram and pedestrians cross a wet street with glowing lamps and distant spires. Original provider asset archived byte-for-byte. The static WebP was decoded and visually inspected. The retained original page and this asset’s registry provide a description but no full generation prompt. No prompt was reconstructed. The page broadly describes its stills as X posts, but this selected asset has a more specific embedded “Generated on Kavel” statement. Attribution follows that per-asset statement; the inconsistency remains a limitation. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "红色电车和行人穿过湿润街道，街灯亮起，远处可见尖塔。 提供方公开素材按原字节存档。静态 WebP 已解码并查看像素。未取得完整生成提示词，不进行猜测或重写。 页面概述将静态图称为 X 帖子，但该具体素材的嵌入记录明确写为 Kavel 生成。归因依据逐素材声明，同时保留这一表述不一致的限制。 保留原页与该素材记录仅提供描述，未给出完整生成提示词，未据此重构提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-corgi",
+    "status": "published",
+    "title": {
+      "en": "Corgi chasing its tail",
+      "zh-CN": "柯基追逐尾巴"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For corgi chasing its tail, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/corgi-tail-chase-ai-image.gif",
+        "path": "assets/examples/kavel-corgi/corgi-tail-chase-ai-image.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "A stylized corgi turns in a circle on a cream background.",
+          "zh-CN": "一只风格化柯基在奶油色背景上转圈。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "45666b226cf3ba1456796819a3d19ac4dbb6306efcce95864e5d1779aab994a4",
+        "bytes": 394724,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A stylized corgi turns in a circle on a cream background. Original provider asset archived byte-for-byte. All nine frames were decoded and inspected as sequential contact sheets; real-time playback was not performed. Each frame is 200 ms, total 1.8 s. The retained original page and this asset’s registry provide a description but no full generation prompt. No prompt was reconstructed. The adjacent capability copy discusses a stretch loop, but the embedded per-asset record and inspected frames identify this as the corgi loop. The record follows the asset-specific evidence and preserves that mismatch. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "一只风格化柯基在奶油色背景上转圈。 提供方公开素材按原字节存档。9 帧全部解码并按顺序查看接触表，未进行实时播放；每帧 200 毫秒，总时长 1.8 秒。未取得完整生成提示词，不进行猜测或重写。 相邻功能说明谈及拉伸循环，但逐素材嵌入记录与查看的帧均表明这是柯基循环。本记录依据素材专属证据，并保留这一文案错配。 保留原页与该素材记录仅提供描述，未给出完整生成提示词，未据此重构提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-stretch",
+    "status": "published",
+    "title": {
+      "en": "Flat character stretch routine",
+      "zh-CN": "扁平角色拉伸动作"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For flat character stretch routine, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.kavel.ai/image/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/stretch-warmup-loop-ai-image.gif",
+        "path": "assets/examples/kavel-stretch/stretch-warmup-loop-ai-image.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "A cartoon woman in a teal shirt changes between standing and stretching poses.",
+          "zh-CN": "穿蓝绿色上衣的卡通女性在站立与拉伸姿势间切换。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel; prompt by @MiraMusic_AI",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Provider says it reran the prompt from @MiraMusic_AI: https://x.com/MiraMusic_AI/status/2118168013618987298. This is the provider output, not an archive of that creator’s output. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 提供方称按 @MiraMusic_AI 的提示词重新生成，原提示词出处：https://x.com/MiraMusic_AI/status/2118168013618987298。此处收录提供方输出，并非该创作者原输出。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "a6bcbd1a3bbed64e574f46c27787985be783c174dfcbcd552826455366f78d70",
+        "bytes": 224758,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A cartoon woman in a teal shirt changes between standing and stretching poses. Original provider asset archived byte-for-byte. All nine frames were decoded and inspected as sequential contact sheets; real-time playback was not performed. Each frame is 200 ms, total 1.8 s. The full source prompt is shown on the provider page. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "穿蓝绿色上衣的卡通女性在站立与拉伸姿势间切换。 提供方公开素材按原字节存档。9 帧全部解码并按顺序查看接触表，未进行实时播放；每帧 200 毫秒，总时长 1.8 秒。提供方页面显示完整来源提示词。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kavel-90s-snapshot",
+    "status": "published",
+    "title": {
+      "en": "1990s-style flash portrait",
+      "zh-CN": "九十年代闪光灯风格人像"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://www.kavel.ai/image/gpt-image-2-6",
+      "author": "Kavel",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "For 1990s-style flash portrait, Kavel’s per-asset metadata names gpt-image-2.6-flare-c and the date 2026-11-05, and attributes generation to Kavel. This records the provider’s claim; it is not an independent reproduction or confirmation of an official API endpoint.",
+        "zh-CN": "提供方原页为该素材嵌入了独立记录，明确声明由 Kavel 在 2026-11-05 使用 gpt-image-2.6-flare-c 生成。此为提供方对该作品的归因，并非独立复现或对官方端点的验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.kavel.ai/image/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.kavel.ai/images/kavel/models/nineties-snapshot-portrait-ai-image.webp",
+        "path": "assets/examples/kavel-90s-snapshot/nineties-snapshot-portrait-ai-image.webp",
+        "kind": "image",
+        "alt": {
+          "en": "A dark-haired woman in a blue zip-up top sits in front of a wall of snapshots and handwritten notes.",
+          "zh-CN": "一位穿蓝色拉链上衣的黑发女性坐在贴有照片与手写便条的墙前。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.kavel.ai/image/gpt-image-2-6",
+          "credit": "Kavel; prompt by @AIwithSarah_",
+          "note": {
+            "en": "Public provider asset archived unmodified with source attribution. No redistribution license was located; attribution is not permission or an open license. Provider says it reran the prompt from @AIwithSarah_: https://x.com/AIwithSarah_/status/2118202866448077182. This is the provider output, not an archive of that creator’s output. Terms checked on 2026-11-05: https://www.kavel.ai/terms-of-service. Customer-output commercial-use statements do not license these site samples. The repository MIT license does not cover this third-party file.",
+            "zh-CN": "公开提供方素材按原样存档并署名。未找到转载许可证；来源署名不等于授权或开放许可。 提供方称按 @AIwithSarah_ 的提示词重新生成，原提示词出处：https://x.com/AIwithSarah_/status/2118202866448077182。此处收录提供方输出，并非该创作者原输出。 已于 2026-11-05 查看条款：https://www.kavel.ai/terms-of-service。客户生成物的商业使用说明不构成本网站样例的转载许可。 仓库 MIT 许可不覆盖此第三方文件。"
+          }
+        },
+        "sha256": "c4b968e0155fa2b4411089f6f52e0fcc4055bdab1deace7f07547b52360aebbc",
+        "bytes": 143054,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A dark-haired woman in a blue zip-up top sits in front of a wall of snapshots and handwritten notes. Original provider asset archived byte-for-byte. The static WebP was decoded and visually inspected. The full source prompt is shown on the provider page. The page broadly describes its stills as X posts, but this selected asset has a more specific embedded “Generated on Kavel” statement. Attribution follows that per-asset statement; the inconsistency remains a limitation. The prompt says “same unchanged face”, but Kavel describes this route as text-to-image and identifies no input file for its rerun. No reference was invented and reproducibility is not claimed. Offline recovery recheck on 2026-11-08 confirms retained source mapping and original file integrity, not backend execution or current availability.",
+      "zh-CN": "一位穿蓝色拉链上衣的黑发女性坐在贴有照片与手写便条的墙前。 提供方公开素材按原字节存档。静态 WebP 已解码并查看像素。提供方页面显示完整来源提示词。 页面概述将静态图称为 X 帖子，但该具体素材的嵌入记录明确写为 Kavel 生成。归因依据逐素材声明，同时保留这一表述不一致的限制。 提示词含“same unchanged face”，但 Kavel 将该入口描述为文生图，未为其重跑结果标明输入文件；未虚构参考图，也不声称可完整复现。 2026-11-08 的离线恢复复核确认留存来源映射与原文件完整性，不证明后台执行或当前可访问性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Source access was recorded on 2026-11-05. Retained original source evidence was rechecked offline on 2026-11-08; no current availability claim is made.",
+        "zh-CN": "来源访问记录日期为 2026-11-05；2026-11-08 离线复核保留的原始来源证据，不据此声称当前可访问。"
+      },
+      "media_note": {
+        "en": "The retained 2026-11-05 response manifest records ordinary HTTP 200 for these files. This audit verified unchanged bytes, MIME, hashes, all frames, pixels and metadata without new requests. GIF C2PA signatures were not cryptographically verified.",
+        "zh-CN": "保留的 2026-11-05 响应清单记录这些文件通过普通 HTTP 200 获取。本次未发起新请求，核查原样字节、MIME、哈希、全部帧、像素与元数据；未进行 GIF C2PA 签名的密码学验证。"
+      },
+      "report_path": "docs/KAVEL_YIR_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 18 | 0 |
-| [海报与文字排版](#category-posters-typography) | 21 | 0 |
+| [品牌与商品](#category-brand-products) | 20 | 0 |
+| [海报与文字排版](#category-posters-typography) | 22 | 0 |
 | [信息图](#category-infographics) | 11 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 4 | 0 |
-| [角色与一致性](#category-characters-consistency) | 22 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 5 | 0 |
+| [角色与一致性](#category-characters-consistency) | 24 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 15 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 32 | 0 |
+| [GIF 与动画](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **129** |
+| 来源案例 | **138** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **92** |
-| 来源公开原始提示词 | **96** |
+| 社区作者自报案例 | **101** |
+| 来源公开原始提示词 | **98** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **204** |
+| 本地收录素材文件 | **224** |
 | 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -152,6 +152,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [三种口味汽水陈列](cases/yir-flavor-lineup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [法压壶产品照与背景编辑延续](cases/community-gptimagehub-french-press-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [SUMMIT ROAST 咖啡袋产品图](cases/zzo-flare-summit-roast-bag/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [腕表四轮编辑](cases/yir-watch-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-posters-typography"></a>
 
@@ -180,6 +182,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [根据文档简报生成的英印双语晚间菜单](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [NIGHT TIDE 海浪演出海报](cases/zzo-flare-night-tide-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [OPEN LATE 霓虹店面招牌](cases/kavel-open-late/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +212,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [客厅标注编辑](cases/launch-fal/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
 | [Made 超广角夜市通道](cases/made-flare-market-aerial/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [蓝调时刻的雪山玻璃温室](cases/analyticsvidhya-snowy-greenhouse/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雾中城市红色电车](cases/kavel-tram/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-characters-consistency"></a>
 
@@ -238,6 +242,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [蓝调时刻渡轮](cases/yir-ferry-blue-hour/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [夜市面摊](cases/yir-noodle-stall/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨衣女孩动画分镜](cases/yir-raincoat-storyboard/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [人像四轮编辑](cases/yir-portrait-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [九十年代闪光灯风格人像](cases/kavel-90s-snapshot/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-markup-edits"></a>
 
@@ -312,6 +318,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [圣诞树动画预览](cases/zzo-christmas-tree/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [2027 新年动画预览](cases/zzo-new-year-2027/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雪窗小猫动画预览](cases/zzo-window-cat-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [LUCKY 霓虹招牌闪烁](cases/kavel-neon-lucky/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [柯基追逐尾巴](cases/kavel-corgi/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [扁平角色拉伸动作](cases/kavel-stretch/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

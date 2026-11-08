@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 18 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 21 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 20 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 22 | 0 |
 | [Infografiche](#category-infographics) | 11 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 4 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 22 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 5 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 24 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 15 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
-| [GIF e animazione](#category-gif-animation) | 32 | 0 |
+| [GIF e animazione](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **129** |
+| Casi con collegamenti alle fonti | **138** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **92** |
-| Prompt originali disponibili alla fonte | **96** |
+| Esempi dichiarati dai creatori | **101** |
+| Prompt originali disponibili alla fonte | **98** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **204** |
+| File multimediali archiviati localmente | **224** |
 | Ultima verifica delle fonti (UTC) | **2026-11-08** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -156,6 +156,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-posters-typography"></a>
 
@@ -184,6 +186,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-infographics"></a>
 
@@ -213,6 +216,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-characters-consistency"></a>
 
@@ -242,6 +246,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -316,6 +322,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

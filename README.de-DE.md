@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 18 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 21 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 20 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 22 | 0 |
 | [Infografiken](#category-infographics) | 11 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 4 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 24 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 15 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 32 | 0 |
+| [GIF & Animation](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **129** |
+| Beispiele mit Quellenverweisen | **138** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **92** |
-| An der Quelle verfügbare Original-Prompts | **96** |
+| Von Erstellern gemeldete Beispiele | **101** |
+| An der Quelle verfügbare Original-Prompts | **98** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **204** |
+| Lokal archivierte Mediendateien | **224** |
 | Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -156,6 +156,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
@@ -184,6 +186,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-infographics"></a>
 
@@ -213,6 +216,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Living-room markup edit](cases/launch-fal/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-characters-consistency"></a>
 
@@ -242,6 +246,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -316,6 +322,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

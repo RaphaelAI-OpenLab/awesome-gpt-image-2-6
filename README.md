@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 18 | 0 |
-| [Posters & typography](#category-posters-typography) | 21 | 0 |
+| [Brand & product visuals](#category-brand-products) | 20 | 0 |
+| [Posters & typography](#category-posters-typography) | 22 | 0 |
 | [Infographics](#category-infographics) | 11 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 4 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 22 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 24 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 15 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 32 | 0 |
+| [GIF & animation](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **129** |
+| Source-linked cases | **138** |
 | Official examples | **37** |
-| Creator-reported examples | **92** |
-| Original prompts available at source | **96** |
+| Creator-reported examples | **101** |
+| Original prompts available at source | **98** |
 | Full prompts published here | **0** |
-| Locally archived media files | **204** |
+| Locally archived media files | **224** |
 | Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -152,6 +152,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model | Original prompt at source |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model | Original prompt at source |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Creator-reported model | Original prompt at source |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-posters-typography"></a>
 
@@ -180,6 +182,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Creator-reported model | Original prompt at source |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-infographics"></a>
 
@@ -209,6 +212,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Living-room markup edit](cases/launch-fal/README.md) | Official launch demo | Original prompt at source |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model | Original prompt at source |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Creator-reported model | Original prompt at source |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-characters-consistency"></a>
 
@@ -238,6 +242,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Creator-reported model | Original prompt at source |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Creator-reported model | Original prompt at source |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Creator-reported model | Original prompt at source |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -312,6 +318,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Creator-reported model | Prompt availability unverified |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Creator-reported model | Prompt availability unverified |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Creator-reported model | Original prompt at source |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Creator-reported model | Prompt not public |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Creator-reported model | Prompt not public |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

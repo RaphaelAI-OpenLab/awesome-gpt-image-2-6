@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 18 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 21 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 20 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 22 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 11 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 4 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 22 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 5 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 24 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 15 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 32 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 35 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **129** |
+| स्रोत से जुड़े उदाहरण | **138** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **92** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **96** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **101** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **98** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **204** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **224** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-08** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -156,6 +156,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-posters-typography"></a>
 
@@ -184,6 +186,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-infographics"></a>
 
@@ -213,6 +216,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Living-room markup edit](cases/launch-fal/README.md) | आधिकारिक लॉन्च डेमो | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-characters-consistency"></a>
 
@@ -242,6 +246,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-markup-edits"></a>
 
@@ -316,6 +322,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 
