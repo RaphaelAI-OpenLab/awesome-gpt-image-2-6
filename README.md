@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 32 | 0 |
-| [Posters & typography](#category-posters-typography) | 32 | 0 |
-| [Infographics](#category-infographics) | 14 | 0 |
+| [Brand & product visuals](#category-brand-products) | 35 | 0 |
+| [Posters & typography](#category-posters-typography) | 36 | 0 |
+| [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 35 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 32 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 37 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 35 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 11 | 0 |
-| [GIF & animation](#category-gif-animation) | 114 | 0 |
+| [GIF & animation](#category-gif-animation) | 115 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **280** |
+| Source-linked cases | **295** |
 | Official examples | **37** |
-| Creator-reported examples | **243** |
-| Original prompts available at source | **200** |
+| Creator-reported examples | **258** |
+| Original prompts available at source | **215** |
 | Full prompts published here | **0** |
-| Locally archived media files | **426** |
+| Locally archived media files | **455** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Creator-reported model |
-| 2026-11-06 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Creator-reported model |
-| 2026-11-06 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Creator-reported model |
-| 2026-11-06 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Creator-reported model |
-| 2026-11-06 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Creator-reported model |
-| 2026-11-06 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Creator-reported model |
+| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model |
+| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model |
+| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model |
+| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model |
+| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model |
+| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Creator-reported model | Prompt availability unverified |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model | Original prompt at source |
 | [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Creator-reported model | Original prompt at source |
+| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Creator-reported model | Original prompt at source |
+| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Creator-reported model | Original prompt at source |
+| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -205,6 +208,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Creator-reported model | Prompt availability unverified |
 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Creator-reported model | Prompt not public |
+| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Creator-reported model | Original prompt at source |
+| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Creator-reported model | Original prompt at source |
+| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model | Original prompt at source |
+| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -226,6 +233,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Creator-reported model | Original prompt at source |
 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Creator-reported model | Original prompt at source |
 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Creator-reported model | Original prompt at source |
+| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Creator-reported model | Original prompt at source |
+| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -285,6 +294,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model | Original prompt at source |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model | Prompt not public |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model | Prompt not public |
+| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Creator-reported model | Original prompt at source |
+| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -324,6 +335,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model | Prompt not public |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model | Prompt not public |
 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Creator-reported model | Original prompt at source |
+| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Creator-reported model | Original prompt at source |
+| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
+| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -463,6 +477,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Creator-reported model | Original prompt at source |
 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Creator-reported model | Original prompt at source |
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Creator-reported model | Original prompt at source |
+| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 
