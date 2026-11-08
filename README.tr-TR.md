@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 25 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 26 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 26 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 29 | 0 |
 | [İnfografikler](#category-infographics) | 12 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 7 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 29 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 19 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 20 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 8 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 91 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **217** |
+| Kaynak bağlantılı örnekler | **225** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **180** |
-| Kaynakta bulunan özgün istemler | **163** |
+| Üreticilerinin bildirdiği örnekler | **188** |
+| Kaynakta bulunan özgün istemler | **166** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **340** |
+| Yerel olarak arşivlenmiş medya dosyaları | **351** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -163,6 +163,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-posters-typography"></a>
 
@@ -196,6 +197,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -291,6 +295,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-svg-design-assets"></a>
 
@@ -400,6 +405,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |

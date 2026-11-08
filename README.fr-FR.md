@@ -47,14 +47,14 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 25 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 26 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 26 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 29 | 0 |
 | [Infographies](#category-infographics) | 12 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 7 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 29 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 19 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 20 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 8 | 0 |
-| [GIF et animation](#category-gif-animation) | 91 | 0 |
+| [GIF et animation](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **217** |
+| Cas avec liens vers les sources | **225** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **180** |
-| Prompts originaux disponibles à la source | **163** |
+| Exemples déclarés par leurs créateurs | **188** |
+| Prompts originaux disponibles à la source | **166** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **340** |
+| Fichiers multimédias archivés localement | **351** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -163,6 +163,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-posters-typography"></a>
 
@@ -196,6 +197,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -291,6 +295,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -400,6 +405,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modèle déclaré par le créateur | Prompt non public |
