@@ -43,9 +43,9 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 16 | 0 |
-| [Posters & typography](#category-posters-typography) | 17 | 0 |
-| [Infographics](#category-infographics) | 7 | 0 |
+| [Brand & product visuals](#category-brand-products) | 17 | 0 |
+| [Posters & typography](#category-posters-typography) | 18 | 0 |
+| [Infographics](#category-infographics) | 9 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 3 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 22 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 12 | 0 |
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **97** |
+| Source-linked cases | **101** |
 | Official examples | **37** |
-| Creator-reported examples | **60** |
-| Original prompts available at source | **74** |
+| Creator-reported examples | **64** |
+| Original prompts available at source | **78** |
 | Full prompts published here | **0** |
-| Locally archived media files | **160** |
+| Locally archived media files | **172** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Creator-reported model |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Creator-reported model |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Creator-reported model |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -150,6 +150,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Creator-reported model | Original prompt at source |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Creator-reported model | Original prompt at source |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model | Original prompt at source |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -174,6 +175,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Creator-reported model | Original prompt at source |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Creator-reported model | Original prompt at source |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Creator-reported model | Original prompt at source |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -188,6 +190,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Creator-reported model | Original prompt at source |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Creator-reported model | Original prompt at source |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Creator-reported model | Original prompt at source |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 

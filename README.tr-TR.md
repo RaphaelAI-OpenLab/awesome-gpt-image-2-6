@@ -47,9 +47,9 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 16 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 17 | 0 |
-| [İnfografikler](#category-infographics) | 7 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 17 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 18 | 0 |
+| [İnfografikler](#category-infographics) | 9 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 22 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **97** |
+| Kaynak bağlantılı örnekler | **101** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **60** |
-| Kaynakta bulunan özgün istemler | **74** |
+| Üreticilerinin bildirdiği örnekler | **64** |
+| Kaynakta bulunan özgün istemler | **78** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **160** |
+| Yerel olarak arşivlenmiş medya dosyaları | **172** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Üreticinin bildirdiği model |
-| 2026-11-05 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -154,6 +154,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -192,6 +194,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
