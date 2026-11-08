@@ -47,10 +47,10 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 17 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 19 | 0 |
 | [Áp phích và nghệ thuật chữ](#category-posters-typography) | 20 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 10 | 0 |
-| [Nội thất và kiến trúc](#category-interiors-architecture) | 4 | 0 |
+| [Nội thất và kiến trúc](#category-interiors-architecture) | 6 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 14 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
@@ -86,13 +86,13 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **146** |
+| Trường hợp có liên kết nguồn | **150** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **109** |
-| Câu lệnh gốc có sẵn tại nguồn | **123** |
+| Ví dụ do tác giả báo cáo | **113** |
+| Câu lệnh gốc có sẵn tại nguồn | **127** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **218** |
-| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
+| Tệp tư liệu được lưu trữ cục bộ | **225** |
+| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
 
@@ -155,6 +155,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -210,6 +212,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Living-room markup edit](cases/launch-fal/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-characters-consistency"></a>
 

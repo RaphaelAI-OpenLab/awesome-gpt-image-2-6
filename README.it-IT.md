@@ -47,10 +47,10 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 17 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 19 | 0 |
 | [Poster e tipografia](#category-posters-typography) | 20 | 0 |
 | [Infografiche](#category-infographics) | 10 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 4 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 6 | 0 |
 | [Personaggi e coerenza](#category-characters-consistency) | 22 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 14 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
@@ -86,13 +86,13 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **146** |
+| Casi con collegamenti alle fonti | **150** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **109** |
-| Prompt originali disponibili alla fonte | **123** |
+| Esempi dichiarati dai creatori | **113** |
+| Prompt originali disponibili alla fonte | **127** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **218** |
-| Ultima verifica delle fonti (UTC) | **2026-11-08** |
+| File multimediali archiviati localmente | **225** |
+| Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
 
@@ -155,6 +155,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -210,6 +212,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-characters-consistency"></a>
 

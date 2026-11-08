@@ -47,10 +47,10 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 17 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 19 | 0 |
 | [포스터 및 타이포그래피](#category-posters-typography) | 20 | 0 |
 | [인포그래픽](#category-infographics) | 10 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 4 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 6 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 22 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 14 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
@@ -86,13 +86,13 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **146** |
+| 출처 링크가 있는 사례 | **150** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **109** |
-| 출처에서 제공하는 원문 프롬프트 | **123** |
+| 제작자가 보고한 예시 | **113** |
+| 출처에서 제공하는 원문 프롬프트 | **127** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **218** |
-| 최근 출처 확인 일시(UTC) | **2026-11-08** |
+| 로컬에 보관된 미디어 파일 | **225** |
+| 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
 
@@ -155,6 +155,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -210,6 +212,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Living-room markup edit](cases/launch-fal/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-characters-consistency"></a>
 

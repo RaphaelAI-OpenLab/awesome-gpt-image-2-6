@@ -47,10 +47,10 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 17 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 19 | 0 |
 | [Pósteres y tipografía](#category-posters-typography) | 20 | 0 |
 | [Infografías](#category-infographics) | 10 | 0 |
-| [Interiores y arquitectura](#category-interiors-architecture) | 4 | 0 |
+| [Interiores y arquitectura](#category-interiors-architecture) | 6 | 0 |
 | [Personajes y coherencia](#category-characters-consistency) | 22 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 14 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 6 | 0 |
@@ -86,13 +86,13 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **146** |
+| Casos con enlace a la fuente | **150** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **109** |
-| Prompts originales disponibles en la fuente | **123** |
+| Ejemplos según sus creadores | **113** |
+| Prompts originales disponibles en la fuente | **127** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **218** |
-| Última comprobación de fuentes (UTC) | **2026-11-08** |
+| Archivos multimedia archivados localmente | **225** |
+| Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
 
@@ -155,6 +155,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-posters-typography"></a>
 
@@ -210,6 +212,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Living-room markup edit](cases/launch-fal/README.md) | Demostración oficial de lanzamiento | Prompt original en la fuente |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-characters-consistency"></a>
 

@@ -11570,5 +11570,307 @@
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
     "featured": false
+  },
+  {
+    "id": "joinoasis-tomato-soup",
+    "status": "published",
+    "title": {
+      "en": "Soup photograph with recipe card",
+      "zh-CN": "汤品照片与食谱卡"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+      "author": "Karthikeya Meesala / Oasis HQ",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Karthikeya Meesala explicitly attributes these four tests to GPT Image 2.6 Sunburst. The article says both ChatGPT web and an explicitly selected Playground model; the execution route and actual served model are not independently verified.",
+        "zh-CN": "Karthikeya Meesala 明确将这四项测试归于 GPT Image 2.6 Sunburst。文章同时声称使用 ChatGPT 网页和在 Playground 明确选择模型，执行途径及实际调用模型未获独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F1bbfe8a2-gpt-image-2-bowl-tomato-soup-basil-leaves-grilled-toast.webp",
+        "path": "assets/examples/joinoasis-tomato-soup/1bbfe8a2-gpt-image-2-bowl-tomato-soup-basil-leaves-grilled-toast.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Red soup, toast and a printed recipe card.",
+          "zh-CN": "红色汤、吐司和印字食谱卡。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "2e7657fcc951afecb169cfc40692baab114002d8657abdeb4b707568c46efd3c",
+        "bytes": 339744,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The recipe card, three basil leaves, two toast pieces and spoon are visible. The toast plate touches the top edge and the napkin extends past the left edge despite the prompt requiring every object inside the frame. Full original prompt is at the source.",
+      "zh-CN": "可见食谱卡、三片罗勒叶、两块吐司和汤匙。尽管提示词要求所有物品完整入框，吐司盘仍触及上边缘，餐巾伸出左边缘。完整原始提示词见来源。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false
+  },
+  {
+    "id": "joinoasis-four-room-floorplan",
+    "status": "published",
+    "title": {
+      "en": "Four-room doorway layout",
+      "zh-CN": "四房间门洞布局"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+      "author": "Karthikeya Meesala / Oasis HQ",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Karthikeya Meesala explicitly attributes these four tests to GPT Image 2.6 Sunburst. The article says both ChatGPT web and an explicitly selected Playground model; the execution route and actual served model are not independently verified.",
+        "zh-CN": "Karthikeya Meesala 明确将这四项测试归于 GPT Image 2.6 Sunburst。文章同时声称使用 ChatGPT 网页和在 Playground 明确选择模型，执行途径及实际调用模型未获独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2Fac2c0be2-gpt-image-2-floor-plan-showing-workshop-studio-store-lobby.webp",
+        "path": "assets/examples/joinoasis-four-room-floorplan/ac2c0be2-gpt-image-2-floor-plan-showing-workshop-studio-store-lobby.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Four labelled rooms within a rectangular plan.",
+          "zh-CN": "矩形平面图中的四间标注房间。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "205f087d9c4bbbb7f73f6012b8fc917a751d14ca09318b3680a65cf38f029f5e",
+        "bytes": 35414,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The raster schematic has four labelled rooms and three wall gaps. It is an image of a requested layout, not an SVG, measured architectural plan or construction document. Full original prompt is at the source.",
+      "zh-CN": "栅格示意图含四个标注房间和三个墙体开口。这是要求布局的图像，不是 SVG、实测建筑平面图或施工文件。完整原始提示词见来源。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false
+  },
+  {
+    "id": "joinoasis-kitchen-pendant-edit",
+    "status": "published",
+    "title": {
+      "en": "Kitchen hanging-light replacement",
+      "zh-CN": "厨房吊灯替换"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+      "author": "Karthikeya Meesala / Oasis HQ",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Karthikeya Meesala explicitly attributes these four tests to GPT Image 2.6 Sunburst. The article says both ChatGPT web and an explicitly selected Playground model; the execution route and actual served model are not independently verified.",
+        "zh-CN": "Karthikeya Meesala 明确将这四项测试归于 GPT Image 2.6 Sunburst。文章同时声称使用 ChatGPT 网页和在 Playground 明确选择模型，执行途径及实际调用模型未获独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F0dc52eb4-gpt-image-2-dining-table-chairs-pendant-light-kitchen.webp",
+        "path": "assets/references/joinoasis-kitchen-pendant-edit/0dc52eb4-gpt-image-2-dining-table-chairs-pendant-light-kitchen.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Kitchen reference with a dark hanging lantern.",
+          "zh-CN": "挂着深色吊灯的厨房参考图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "0a284d151755d7fcb63b88b586b8a9ed89471e711d3bb7233773a588ce6de6f7",
+        "bytes": 173374,
+        "mime_type": "image/webp",
+        "role": "reference"
+      },
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F08e53a72-gpt-image-2-dining-area-glass-table-white-chairs-paper.webp",
+        "path": "assets/examples/joinoasis-kitchen-pendant-edit/08e53a72-gpt-image-2-dining-area-glass-table-white-chairs-paper.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Kitchen edit with a white globe pendant.",
+          "zh-CN": "换成白色球形吊灯的厨房编辑图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "895232c0037d05666e9242cb199f8e42781fb752a9506f3b3b9d332dbee8c013",
+        "bytes": 311576,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Reference and output retained. A white globe replaces the dark lantern; its scale changes.",
+      "zh-CN": "保留参考图与输出图。深色吊灯被白色球灯替换，尺寸有所变化。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false
+  },
+  {
+    "id": "joinoasis-blazer-boots-composition",
+    "status": "published",
+    "title": {
+      "en": "Blazer and boots reference composition",
+      "zh-CN": "外套与长靴参考组合"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+      "author": "Karthikeya Meesala / Oasis HQ",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Karthikeya Meesala explicitly attributes these four tests to GPT Image 2.6 Sunburst. The article says both ChatGPT web and an explicitly selected Playground model; the execution route and actual served model are not independently verified.",
+        "zh-CN": "Karthikeya Meesala 明确将这四项测试归于 GPT Image 2.6 Sunburst。文章同时声称使用 ChatGPT 网页和在 Playground 明确选择模型，执行途径及实际调用模型未获独立验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review"
+    },
+    "media": [
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F4da020cf-gpt-image-2-light-beige-blazer-buttons-pockets.webp",
+        "path": "assets/references/joinoasis-blazer-boots-composition/4da020cf-gpt-image-2-light-beige-blazer-buttons-pockets.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Beige blazer reference.",
+          "zh-CN": "米色西装外套参考图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "fe733c09ac964e12082e8e523f244cb067bf470022e9ef01f0bfe6a2f8e5293e",
+        "bytes": 8056,
+        "mime_type": "image/webp",
+        "role": "reference"
+      },
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F91d2d89d-gpt-image-2-grey-knee-high-boots-buckle-zipper-closure.webp",
+        "path": "assets/references/joinoasis-blazer-boots-composition/91d2d89d-gpt-image-2-grey-knee-high-boots-buckle-zipper-closure.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Grey tall boots reference.",
+          "zh-CN": "灰色长靴参考图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "d1be8402da290fa5da6f5d5eb86ac2620da14721851fc1acf0462f52c9bd1925",
+        "bytes": 135778,
+        "mime_type": "image/webp",
+        "role": "reference"
+      },
+      {
+        "source_url": "https://docs.joinoasis.com/api/cms/asset/glossary%2Fassets%2F0742a7f7-gpt-image-2-mannequin-displays-beige-blazer-grey-knee-high.webp",
+        "path": "assets/examples/joinoasis-blazer-boots-composition/0742a7f7-gpt-image-2-mannequin-displays-beige-blazer-grey-knee-high.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Blazer mannequin and boots shown together.",
+          "zh-CN": "穿西装外套的模特架与长靴同框。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://docs.joinoasis.com/blog/gpt-image-2-6-review",
+          "credit": "Karthikeya Meesala / Oasis HQ",
+          "note": {
+            "en": "Public article asset archived unchanged with attribution. No redistribution license was located; attribution is not permission or an open license. No explicit sample-archiving ban was found in the checked terms: https://docs.joinoasis.com/terms.",
+            "zh-CN": "公开文章素材按原字节暂存并署名。未找到转载许可证；署名不等于授权或开放许可。已查看条款，未发现针对样例存档的明确禁令：https://docs.joinoasis.com/terms。"
+          }
+        },
+        "sha256": "630d97a86afe59020755f7d0a3c930d4cef5544cfd7ea2e604c47a3939ee1f3e",
+        "bytes": 123838,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Two product references and one combined output retained. References are inputs, not claimed 2.6 outputs.",
+      "zh-CN": "保留两张商品参考图及一张组合输出；参考图属于输入，不宣称为 2.6 输出。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false
   }
 ]

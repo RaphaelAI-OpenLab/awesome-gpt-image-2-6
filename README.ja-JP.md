@@ -47,10 +47,10 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 17 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 19 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 20 | 0 |
 | [インフォグラフィック](#category-infographics) | 10 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 4 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 6 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 14 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **146** |
+| 出典リンク付き事例 | **150** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **109** |
-| 出典で公開されている原文プロンプト | **123** |
+| 作者が報告した作例 | **113** |
+| 出典で公開されている原文プロンプト | **127** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **218** |
-| 出典の最終確認日時（UTC） | **2026-11-08** |
+| ローカルに保存済みのメディアファイル | **225** |
+| 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -155,6 +155,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -210,6 +212,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Living-room markup edit](cases/launch-fal/README.md) | 公式公開デモ | 出典にある原文プロンプト |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
