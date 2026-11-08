@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 31 | 0 |
-| [海报与文字排版](#category-posters-typography) | 31 | 0 |
-| [信息图](#category-infographics) | 14 | 0 |
+| [品牌与商品](#category-brand-products) | 34 | 0 |
+| [海报与文字排版](#category-posters-typography) | 35 | 0 |
+| [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 10 | 0 |
-| [角色与一致性](#category-characters-consistency) | 35 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 31 | 0 |
+| [角色与一致性](#category-characters-consistency) | 37 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 34 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 10 | 0 |
-| [GIF 与动画](#category-gif-animation) | 107 | 0 |
+| [GIF 与动画](#category-gif-animation) | 108 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **269** |
+| 来源案例 | **284** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **232** |
-| 来源公开原始提示词 | **190** |
+| 社区作者自报案例 | **247** |
+| 来源公开原始提示词 | **205** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **409** |
+| 本地收录素材文件 | **438** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-06 | [瀑布与徒步者合成风景](cases/zhidx-waterfall-landscape/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [九宫格办公主题漫画](cases/zhidx-nine-panel-comic/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [博物馆人物移除对照面板](cases/zhidx-museum-person-removal/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [带虚构标识的模型发布帖编辑](cases/zhidx-fictional-release-post/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [旧照片中的检查站动画](cases/zhidx-vintage-checkpoint/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [五视图概念车海报拼贴](cases/302-flying-car-collage/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [半色调猫咪喵叫动画对照](cases/302-halftone-meow-loop/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [方块世界对比封面改版](cases/302-block-world-cover/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [雪地群狼黑白墨线插画](cases/302-ink-wolves-snow/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [VHS 风格夜间山路赛车](cases/302-vhs-drift-race/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Sunburst Roasters 陶瓷咖啡罐](cases/replicate-sunburst-coffee-canister/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [钛金属咖啡压粉器：Flare 与 Sunburst](cases/csuite-tamper/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [陶瓷杯：2K 背景设置测试](cases/iskragen-mug-2k-background-test/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [洞石台上的鼠尾草绿音箱](cases/gptimagehub-sage-speaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [LUMIÈRE 珠宝人像：车窗构图](cases/302-lumiere-jewelry-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [VHS 风格夜间山路赛车](cases/302-vhs-drift-race/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Port Calder 海报复杂度对比](cases/omniakey-port-calder-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [生日蛋糕与额外标语对比](cases/community-flare-slogan-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [NIGHT SIGNAL 演出海报：Flare 与 Sunburst](cases/csuite-poster/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [咖啡海报：模糊提示与结构化简报对照](cases/gptimagehub-structured-coffee-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [AMALFI 旅行海报](cases/gptimagehub-amalfi-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [方块世界对比封面改版](cases/302-block-world-cover/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [五视图概念车海报拼贴](cases/302-flying-car-collage/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -224,6 +231,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [季度收入图表动画](cases/nowrap-chart-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [咖啡制作五步信息图](cases/replicate-flare-coffee-process-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [带标签的向日葵植物图谱](cases/replicate-sunburst-sunflower-botanical/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [咖啡豆的一生信息图](cases/gptimagehub-coffee-bean-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [余烬群岛幻想地图](cases/gptimagehub-ember-isles-map/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -283,6 +292,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [背喷气背包的宇航猫贴纸](cases/replicate-flare-astronaut-cat-sticker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [九宫格办公主题漫画](cases/zhidx-nine-panel-comic/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [蓝色摄影棚里的橙色 Y2K 时装](cases/302-y2k-orange-fashion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雪地群狼黑白墨线插画](cases/302-ink-wolves-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-markup-edits"></a>
 
@@ -321,6 +332,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [钟表工作台：夕照到月光编辑](cases/replicate-sunburst-watchmaker-moonlight/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [带虚构标识的模型发布帖编辑](cases/zhidx-fictional-release-post/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [博物馆人物移除对照面板](cases/zhidx-museum-person-removal/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [拉面店从雨夜到雪夜的参考图编辑](cases/gptimagehub-ramen-rain-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [MOONLEAF 茶罐：茉莉到玫瑰的标签编辑](cases/gptimagehub-moonleaf-tea-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -452,6 +466,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [黏土机器人浇花动画](cases/zhidx-clay-robot-garden/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [房车场景和解对话动画](cases/zhidx-rv-reconciliation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [旧照片中的检查站动画](cases/zhidx-vintage-checkpoint/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [半色调猫咪喵叫动画对照](cases/302-halftone-meow-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

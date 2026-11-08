@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 31 | 0 |
-| [海報與文字排版](#category-posters-typography) | 31 | 0 |
-| [資訊圖表](#category-infographics) | 14 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 34 | 0 |
+| [海報與文字排版](#category-posters-typography) | 35 | 0 |
+| [資訊圖表](#category-infographics) | 16 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 10 | 0 |
-| [角色與一致性](#category-characters-consistency) | 35 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 31 | 0 |
+| [角色與一致性](#category-characters-consistency) | 37 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 34 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 10 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 107 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 108 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **269** |
+| 附來源連結的案例 | **284** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **232** |
-| 可於來源取得的原始提示詞 | **190** |
+| 創作者自述範例 | **247** |
+| 可於來源取得的原始提示詞 | **205** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **409** |
+| 已於本機封存的媒體檔案 | **438** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | 創作者自述模型 |
+| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | 創作者自述模型 |
+| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +210,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -228,6 +235,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -287,6 +296,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-markup-edits"></a>
 
@@ -325,6 +336,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -456,6 +470,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

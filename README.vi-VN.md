@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 31 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 31 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 14 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 34 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 35 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 16 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 10 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 35 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 31 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 37 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 34 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 10 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 107 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 108 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **269** |
+| Trường hợp có liên kết nguồn | **284** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **232** |
-| Câu lệnh gốc có sẵn tại nguồn | **190** |
+| Ví dụ do tác giả báo cáo | **247** |
+| Câu lệnh gốc có sẵn tại nguồn | **205** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **409** |
+| Tệp tư liệu được lưu trữ cục bộ | **438** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +210,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -228,6 +235,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -287,6 +296,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-markup-edits"></a>
 
@@ -325,6 +336,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -456,6 +470,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

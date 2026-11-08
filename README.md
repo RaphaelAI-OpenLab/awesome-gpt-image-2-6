@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 31 | 0 |
-| [Posters & typography](#category-posters-typography) | 31 | 0 |
-| [Infographics](#category-infographics) | 14 | 0 |
+| [Brand & product visuals](#category-brand-products) | 34 | 0 |
+| [Posters & typography](#category-posters-typography) | 35 | 0 |
+| [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 35 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 31 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 37 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 34 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 10 | 0 |
-| [GIF & animation](#category-gif-animation) | 107 | 0 |
+| [GIF & animation](#category-gif-animation) | 108 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **269** |
+| Source-linked cases | **284** |
 | Official examples | **37** |
-| Creator-reported examples | **232** |
-| Original prompts available at source | **190** |
+| Creator-reported examples | **247** |
+| Original prompts available at source | **205** |
 | Full prompts published here | **0** |
-| Locally archived media files | **409** |
+| Locally archived media files | **438** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model |
+| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model |
+| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model |
+| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model |
+| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model |
+| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model |
+| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Creator-reported model | Original prompt at source |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Creator-reported model | Prompt availability unverified |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model | Original prompt at source |
+| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Creator-reported model | Original prompt at source |
+| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Creator-reported model | Original prompt at source |
+| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Creator-reported model | Prompt availability unverified |
+| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Creator-reported model | Original prompt at source |
+| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Creator-reported model | Original prompt at source |
+| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model | Original prompt at source |
+| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -224,6 +231,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Creator-reported model | Original prompt at source |
 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Creator-reported model | Original prompt at source |
 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Creator-reported model | Original prompt at source |
+| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Creator-reported model | Original prompt at source |
+| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -283,6 +292,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model | Original prompt at source |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model | Prompt not public |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model | Prompt not public |
+| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Creator-reported model | Original prompt at source |
+| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -321,6 +332,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model | Original prompt at source |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model | Prompt not public |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model | Prompt not public |
+| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Creator-reported model | Original prompt at source |
+| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
+| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -452,6 +466,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Creator-reported model | Prompt not public |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Creator-reported model | Prompt not public |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model | Prompt not public |
+| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

@@ -22083,5 +22083,1414 @@
       },
       "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "gptimagehub-structured-coffee-poster",
+    "status": "published",
+    "title": {
+      "en": "Coffee poster: vague prompt versus structured brief",
+      "zh-CN": "咖啡海报：模糊提示与结构化简报对照"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.gptimagehub.com/guides/how-to-prompt-gpt-image-2-6",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Each of the two comparison captions explicitly names “GPT Image 2.6 Flare, 1024x1536, high”. The guide describes these as prompts tested on GPT Image Hub, with the matching outputs alongside. This is the platform’s own test claim, not our reproduction.",
+        "zh-CN": "两张对照图的说明均明确标注“GPT Image 2.6 Flare, 1024x1536, high”；指南说明这是 GPT Image Hub 自测提示词及其对应结果。这是平台自报测试，并非本项目复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/guides/how-to-prompt-gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fguides%2Fgpt-image-2-6%2Fprompt-vague.webp&w=2048&q=75&dpl=dpl_FyR6M3BaZMqhLFojFeokF6X2yge5",
+        "path": "assets/examples/gptimagehub-structured-coffee-poster/hub-vague.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Café photograph from the short prompt, JPEG comparison image",
+          "zh-CN": "简短提示生成的咖啡馆照片，JPEG 对照图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/how-to-prompt-gpt-image-2-6",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "46b65ed92f8ffc81e643b04423008146cd4347a8fb6feabf0d41951a5e1c2fe7",
+        "bytes": 96020,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fguides%2Fgpt-image-2-6%2Fprompt-structured.webp&w=2048&q=75&dpl=dpl_FyR6M3BaZMqhLFojFeokF6X2yge5",
+        "path": "assets/examples/gptimagehub-structured-coffee-poster/hub-structured.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Autumn menu poster from the structured brief, JPEG comparison image",
+          "zh-CN": "结构化简报生成的秋季菜单海报，JPEG 对照图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/guides/how-to-prompt-gpt-image-2-6",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "f008d3fba9da89bf67ada8d685e3c0bee3908a6621b81c470c17aba23dc834c0",
+        "bytes": 108570,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. The vague and structured prompts form one controlled comparison, not two cases. The served files are 667×1000 JPEG previews; the page reports generation settings of 1024×1536, high. Other guide examples already collected elsewhere are excluded.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 模糊提示与结构化提示构成同一组对照，不拆成两个案例。实际下载文件为 667×1000 的 JPEG 预览图；页面报告的生成设置为 1024×1536、高画质。指南中已在其他来源收录的示例不重复计算。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-amalfi-poster",
+    "status": "published",
+    "title": {
+      "en": "AMALFI travel poster",
+      "zh-CN": "AMALFI 旅行海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-flare-poster.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-amalfi-poster/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "AMALFI travel poster",
+          "zh-CN": "AMALFI 旅行海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "44f4421f0c5e46fa0a0ad1f0c06538dae37ff05a234505796ff80a1bd19b4d91",
+        "bytes": 271810,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The original model page publishes the associated prompt. Parameters and performance figures remain publisher claims. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 原模型页公开关联提示词；参数及性能数据仍属发布方自述。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-coffee-bean-infographic",
+    "status": "published",
+    "title": {
+      "en": "The Life of a Coffee Bean infographic",
+      "zh-CN": "咖啡豆的一生信息图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-sunburst-coffee-infographic.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-coffee-bean-infographic/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "The Life of a Coffee Bean infographic",
+          "zh-CN": "咖啡豆的一生信息图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "d7194ef3a950a1ca47b7b590ba4c30a6827a881fa308c5b9e0f43b87ce83a438",
+        "bytes": 227234,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The original model page publishes the associated prompt. Parameters and performance figures remain publisher claims. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 原模型页公开关联提示词；参数及性能数据仍属发布方自述。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-sage-speaker",
+    "status": "published",
+    "title": {
+      "en": "Sage-green speaker on travertine",
+      "zh-CN": "洞石台上的鼠尾草绿音箱"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-flare-speaker.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-sage-speaker/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Sage-green speaker on travertine",
+          "zh-CN": "洞石台上的鼠尾草绿音箱"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "e7fe58ddca1988deac5c1730ee42e632545a607a1d894a8d2a01a73c09488111",
+        "bytes": 105951,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The original model page publishes the associated prompt. Parameters and performance figures remain publisher claims. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 原模型页公开关联提示词；参数及性能数据仍属发布方自述。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-ember-isles-map",
+    "status": "published",
+    "title": {
+      "en": "The Ember Isles fantasy map",
+      "zh-CN": "余烬群岛幻想地图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-sunburst-map.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-ember-isles-map/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "The Ember Isles fantasy map",
+          "zh-CN": "余烬群岛幻想地图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "2aa3fefb75ae3ec27ebae3b66a698d99b17c3174b7aff3dfd67035f0c2ef21af",
+        "bytes": 408876,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The original model page publishes the associated prompt. Parameters and performance figures remain publisher claims. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 原模型页公开关联提示词；参数及性能数据仍属发布方自述。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-ramen-rain-snow",
+    "status": "published",
+    "title": {
+      "en": "Ramen shop: rain-to-snow reference edit",
+      "zh-CN": "拉面店从雨夜到雪夜的参考图编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-flare-ramen.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-ramen-rain-snow/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Ramen shop: rain-to-snow reference edit",
+          "zh-CN": "拉面店从雨夜到雪夜的参考图编辑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "7a93b122cfed6b018c2e5fd7f41fe128a3ed80f5301d152250ebc8288c236037",
+        "bytes": 228852,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-flare-ramen-snow-edit.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-ramen-rain-snow/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Ramen shop: rain-to-snow reference edit",
+          "zh-CN": "拉面店从雨夜到雪夜的参考图编辑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-flare-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "ea50d8a4884e0ababbbc617bd13e304a9a44ac25d385e8c70e4816879e724e31",
+        "bytes": 278224,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. Initial rainy scene and snowy reference edit are one workflow. The public prompt link verifies the edit instruction only; the initial scene’s exact prompt is not published in the reviewed model page. Both assets are publisher-attributed outputs, with the first reused as the edit input. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 雨夜原图和雪夜参考图编辑归为同一工作流。公开链接仅核实编辑指令；所查模型页未公开原图准确提示词。两张均为发布方标注的生成结果，前一张随后作为编辑输入。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gptimagehub-moonleaf-tea-edit",
+    "status": "published",
+    "title": {
+      "en": "MOONLEAF tea tin: jasmine-to-rose label edit",
+      "zh-CN": "MOONLEAF 茶罐：茉莉到玫瑰的标签编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+      "author": "GPT Image Hub",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The corresponding GPT Image Hub model page identifies the named Flare/Sunburst Saver route and labels these individual examples as generated or edited on GPT Image Hub on 5 November 2026. This is the publisher’s model attribution.",
+        "zh-CN": "对应 GPT Image Hub 模型页明确标注 Flare/Sunburst Saver 路由，并将这些逐项案例注明为 2026 年 11 月 5 日在平台生成或编辑。模型归因为发布方自述。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver"
+    },
+    "media": [
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-sunburst-tea.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-moonleaf-tea-edit/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "MOONLEAF tea tin: jasmine-to-rose label edit",
+          "zh-CN": "MOONLEAF 茶罐：茉莉到玫瑰的标签编辑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "b60dbdc509dc2f7b313f7da8c8919719df4384830a000f97f0110b6d226e88e6",
+        "bytes": 104961,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      },
+      {
+        "source_url": "https://www.gptimagehub.com/_next/image?url=%2Fmodels%2Fgpt-image-2-6-sunburst-tea-edit.webp&w=2048&q=75&dpl=dpl_7AcecpQN4dYqVme3P5wmTbzBjibd",
+        "path": "assets/examples/gptimagehub-moonleaf-tea-edit/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "MOONLEAF tea tin: jasmine-to-rose label edit",
+          "zh-CN": "MOONLEAF 茶罐：茉莉到玫瑰的标签编辑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.gptimagehub.com/models/gpt-image-2-6-sunburst-saver",
+          "credit": "GPT Image Hub",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "f5348f25ec2f8c7b81ec0158f79ab9686659cf0900d7f47e35f528a363d27588",
+        "bytes": 102026,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. Original jasmine tea packaging and rose-label edit remain one workflow. The model page publishes the original packaging prompt and a short label-edit instruction. The first output is reused as the input for the second. Saver is the provider’s service-route label, not independently verified evidence of a separate official OpenAI model.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 茉莉茶包装与玫瑰标签编辑归为同一工作流。模型页公开原始包装提示词及简短标签编辑指令，前一张结果随后作为后一张的输入。 Saver 是提供方的服务路由标签，不是经独立核实的另一官方 OpenAI 模型。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-lumiere-jewelry-portrait",
+    "status": "published",
+    "title": {
+      "en": "LUMIÈRE jewelry portrait at a car window",
+      "zh-CN": "LUMIÈRE 珠宝人像：车窗构图"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 1 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 1 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B1-%E6%96%87%E7%94%9F%E5%9B%BE-%E4%BA%BA%E5%83%8F%E6%8B%9F%E7%9C%9F-44"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-18.png",
+        "path": "assets/examples/302-lumiere-jewelry-portrait/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for LUMIÈRE jewelry portrait at a car window",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「LUMIÈRE 珠宝人像：车窗构图」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "8f4ad4db69429e6c989fd8b04a7163920349be54600027038eb1a05e49c38554",
+        "bytes": 2237793,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-19.png",
+        "path": "assets/examples/302-lumiere-jewelry-portrait/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for LUMIÈRE jewelry portrait at a car window",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「LUMIÈRE 珠宝人像：车窗构图」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "f9c4d45dfc97b5a3b000c66c8cedcfd2c5fcd61ce7625b36eee2cc64b2b9be9b",
+        "bytes": 2054053,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "A pearl-jewelry campaign image combines a brown coat, a vintage car window and a short brand wordmark. These two outputs are one shared portrait task. The neighboring Gemini comparison is not included. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "珠宝广告图将珍珠首饰、棕色外套、复古车窗和简短品牌字样组合在一起。两张结果属于同一人像任务，不收录原文相邻的 Gemini 对照图。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-y2k-orange-fashion",
+    "status": "published",
+    "title": {
+      "en": "Orange Y2K fashion in a blue studio",
+      "zh-CN": "蓝色摄影棚里的橙色 Y2K 时装"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 2 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 2 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B2-%E6%96%87%E7%94%9F%E5%9B%BE-%E6%97%B6%E5%B0%9A%E6%91%84%E5%BD%B1-55"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-21.png",
+        "path": "assets/examples/302-y2k-orange-fashion/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for Orange Y2K fashion in a blue studio",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「蓝色摄影棚里的橙色 Y2K 时装」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "b83fbfa1d5a68c483834e038ce241c7db53e06b1069cb3c77063dd9a6172506c",
+        "bytes": 2256238,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-22.png",
+        "path": "assets/examples/302-y2k-orange-fashion/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for Orange Y2K fashion in a blue studio",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「蓝色摄影棚里的橙色 Y2K 时装」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "72c78ab59e9952135c803a525d7c7e42043d554bfa163c4e980b6a7135c22706",
+        "bytes": 2036882,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Two interpretations of one adult-fashion task use an oversized orange outfit, a low camera angle and a saturated blue studio. This is a composition comparison, not a claim of identity consistency. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "同一成年时装人物任务的两种结果，采用夸张橙色服装、低机位和高饱和蓝色摄影棚。此处是构图对照，不声称人物身份一致性已获验证。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-vhs-drift-race",
+    "status": "published",
+    "title": {
+      "en": "VHS-style night racing scene",
+      "zh-CN": "VHS 风格夜间山路赛车"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 3 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 3 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B3-%E6%96%87%E7%94%9F%E5%9B%BE-%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A8%A1%E6%8B%9F-64"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-23.png",
+        "path": "assets/examples/302-vhs-drift-race/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for VHS-style night racing scene",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「VHS 风格夜间山路赛车」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "b912821ab3475eb2f45d7a3689e8ec504539f5005606c7d58d0ab2c5b018bf2b",
+        "bytes": 1824841,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-24.png",
+        "path": "assets/examples/302-vhs-drift-race/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for VHS-style night racing scene",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「VHS 风格夜间山路赛车」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "a1e2b84d90b861adcfecdd528548acda526118f34eefd330eb3f8bfb30f70602",
+        "bytes": 1359073,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "A fictional night-racing scene uses two cars, mountain-road curves and camcorder-style overlays. The files are static images; the timestamps and visual recording noise are generated design elements, not evidence of a real race. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "虚构夜间赛车画面包含两辆汽车、山路弯道和摄像机式叠字。文件是静态图，时间戳和录像噪点均为生成的设计元素，不是真实赛事的证据。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-ink-wolves-snow",
+    "status": "published",
+    "title": {
+      "en": "Ink illustration of wolves in snow",
+      "zh-CN": "雪地群狼黑白墨线插画"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 4 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 4 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B4-%E6%96%87%E7%94%9F%E5%9B%BE-%E8%89%BA%E6%9C%AF%E6%8F%92%E7%94%BB-73"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-25.png",
+        "path": "assets/examples/302-ink-wolves-snow/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for Ink illustration of wolves in snow",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「雪地群狼黑白墨线插画」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "cd423fcc91034a87a2b6cb82bb2cd32dcf156f9a3066517ef2bac842d4caf6af",
+        "bytes": 2079501,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-26.png",
+        "path": "assets/examples/302-ink-wolves-snow/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for Ink illustration of wolves in snow",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「雪地群狼黑白墨线插画」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "90286dbd0c382a40d1985bbf2913e80cf75fa9640af1ded4dca77dafb947036c",
+        "bytes": 1842291,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "A dark-clothed figure and wolves are arranged in a snowy black-and-white scene. Both outputs belong to one illustration prompt. This record makes no claim of endorsement by the artist referenced in the original prompt. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "黑衣人物与群狼构成黑白雪地场景，两张结果属于同一插画提示词任务。原始提示词提及艺术家，但本记录不暗示获得该艺术家认可。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-block-world-cover",
+    "status": "published",
+    "title": {
+      "en": "Block-world comparison cover redesign",
+      "zh-CN": "方块世界对比封面改版"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 6 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 6 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B6-%E5%9B%BE%E5%83%8F%E7%BC%96%E8%BE%91-%E4%BA%8C%E5%88%9B%E6%94%B9%E5%9B%BE-90"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-27.png",
+        "path": "assets/examples/302-block-world-cover/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for Block-world comparison cover redesign",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「方块世界对比封面改版」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "25104736781e0b7a390ce82cbcd4e6cbaa881b3107bf8d05300912869e5b7189",
+        "bytes": 2660692,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-28.png",
+        "path": "assets/examples/302-block-world-cover/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for Block-world comparison cover redesign",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「方块世界对比封面改版」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "a8a8307ada352dd1273918e41a1a16be4a6a311d177328fd350d59ff49b00787",
+        "bytes": 3139294,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode.webp",
+        "path": "assets/references/302-block-world-cover/reference.webp",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Publisher-provided input composite for Block-world comparison cover redesign; reference only, not a GPT Image 2.6 output",
+          "zh-CN": "发布方提供的「方块世界对比封面改版」输入拼接图；仅为参考，不是 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "05859f0bb3f5373a849e6526ba2cf4f5f62f3860842a43474e58c3c352e6427d",
+        "bytes": 56778,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "One source-provided three-panel game screenshot is the input for two cover redesigns with Chinese headline text. Model names printed inside the cover belong to the depicted comparison, not the image-generation attribution. The input is a single WEBP reference, not a third GPT Image 2.6 output. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "一份来源提供的三栏游戏截图作为输入，生成两张带中文标题的封面改版图。封面内写出的模型名称属于画面所展示的对比内容，不是该图的生图模型归因。输入是一份 WEBP 参考图，不是第三张 GPT Image 2.6 结果。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-group-photo-environment-edit",
+    "status": "published",
+    "title": {
+      "en": "AI-edited group-photo environment transfer",
+      "zh-CN": "AI 编辑的合照环境迁移"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Original section 7 places explicit GPT-Image-2.6 Flare and gpt-image-2.6-sunburst labels directly before the respective output files. The article names both API model IDs and reports using 302.AI API debugging. File assignments follow those adjacent labels, not image order or product-release context. These are source-reported results, not independently observed API responses.",
+        "zh-CN": "原文第 7 节在两份结果文件前分别直接标注 GPT-Image-2.6 Flare 与 gpt-image-2.6-sunburst。文章明确列出两个 API 模型 ID，并说明使用 302.AI API 在线调试。文件归因依据紧邻标签，不依据排列顺序或产品发布背景。这是来源自述结果，并非独立观察到的 API 响应。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B7-%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91-%E5%AE%9A%E5%90%91%E4%BF%AE%E6%94%B9-101"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-30.png",
+        "path": "assets/examples/302-group-photo-environment-edit/flare.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-flare output for AI-edited group-photo environment transfer",
+          "zh-CN": "来源标为 gpt-image-2.6-flare 的「AI 编辑的合照环境迁移」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "ef908bff3345cb4c91d9c14e34c4cbf965f024fc5f69ca4927fb8455eafe183a",
+        "bytes": 2320956,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-31.png",
+        "path": "assets/examples/302-group-photo-environment-edit/sunburst.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labeled gpt-image-2.6-sunburst output for AI-edited group-photo environment transfer",
+          "zh-CN": "来源标为 gpt-image-2.6-sunburst 的「AI 编辑的合照环境迁移」结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "a3492f53ac5a73a2796606a24e559fd5a00d193b014bd1ff6226df69d3613248",
+        "bytes": 2530631,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-29.png",
+        "path": "assets/references/302-group-photo-environment-edit/reference.png",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Publisher-provided input composite for AI-edited group-photo environment transfer; reference only, not a GPT Image 2.6 output",
+          "zh-CN": "发布方提供的「AI 编辑的合照环境迁移」输入拼接图；仅为参考，不是 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "d9f97766581de4e47604fba0ecbc559f738482183caa99472ee07a9924486d62",
+        "bytes": 1322017,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Two AI-edited outputs transfer a group and lettering from the left panel of a public-source reference composite into the environment shown on its right. These are edited demonstrations, not authentic event photographs. The reference composite is one file with two input views and is not counted as a model output. No identities are inferred from faces. Original provenance metadata is retained. Its generic gpt-image claim does not independently establish the 2.6 family or variant, and its signatures have not been authenticated. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "两张 AI 编辑结果将公开来源拼接参考图左侧的人物与文字迁移到右侧环境。这些是编辑演示，不是真实活动照片。参考拼接图是一份含两幅输入画面的文件，不计为模型输出，也不根据面孔推断人物身份。 保留原始来源元数据；其中泛指 gpt-image 的声明不能独立确认 2.6 家族或变体，签名真实性未作验证。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-halftone-meow-loop",
+    "status": "published",
+    "title": {
+      "en": "Halftone cat meow animation pair",
+      "zh-CN": "半色调猫咪喵叫动画对照"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original section 5, the exact two-file gallery follows its own prompt and is discussed in a work-specific table naming gpt-image-2.6-flare and gpt-image-2.6-sunburst. The article states that its tests used 302.AI API debugging. This supports the pair's GPT Image 2.6 family attribution, but no label maps either individual file to a variant. Variants are therefore unspecified. This is publisher-reported work, not independent API reproduction.",
+        "zh-CN": "原文第 5 节中，这一对文件位于该任务自己的提示词之后，配套的任务表格明确列出 gpt-image-2.6-flare 与 gpt-image-2.6-sunburst。文章说明测试通过 302.AI API 在线调试完成，足以支持这一对结果的 GPT Image 2.6 家族归因，但没有标签将单个文件对应到具体变体，因此记录为 unspecified。这是发布方自述作品，不是独立 API 复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B5-%E6%96%87%E7%94%9F%E5%9B%BE-gif%E7%94%9F%E6%88%90-82"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-4.gif",
+        "path": "assets/examples/302-halftone-meow-loop/output-1.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Source-reported GPT Image 2.6 output 1 for Halftone cat meow animation pair; individual variant unspecified",
+          "zh-CN": "来源归为 GPT Image 2.6 的「半色调猫咪喵叫动画对照」结果 1；单文件变体未确认"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "0de00ca26fed1dc19b21f5f99bfeb305454ac914e595f78a6d908345c221ac9c",
+        "bytes": 1189365,
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-5.gif",
+        "path": "assets/examples/302-halftone-meow-loop/output-2.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Source-reported GPT Image 2.6 output 2 for Halftone cat meow animation pair; individual variant unspecified",
+          "zh-CN": "来源归为 GPT Image 2.6 的「半色调猫咪喵叫动画对照」结果 2；单文件变体未确认"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "76700a723934dfd570c0182d269e834ab37a02da789d320a9b8e753912d108f8",
+        "bytes": 1157102,
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Two original GIFs show a cat-face cutout and changing lettering. Each has 9 decoded frames at 200 ms per frame: 512 × 512 pixels and 1,800 ms per loop. All frames were inspected in sequence; no real-time playback or motion-quality benchmark is claimed. The pair is one task, not 18 cases or two separate prompts. Individual Flare/Sunburst assignments are unknown; neither display order nor color is used to infer them. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "两份原始 GIF 展示猫脸贴纸和变化的文字。每份均完整解码为 9 帧，每帧 200 毫秒，尺寸 512 × 512，每轮 1,800 毫秒。已按顺序检查全部帧，不声称完成实时播放或动态质量基准测试。这一对动画属于同一任务，不计为 18 个案例或两个提示词。无法确认每个文件对应 Flare 还是 Sunburst，不依据显示顺序或颜色推断。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "302-flying-car-collage",
+    "status": "published",
+    "title": {
+      "en": "Five-view concept-car poster collage",
+      "zh-CN": "五视图概念车海报拼贴"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+      "author": "302.AI Test Team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In original section 8, the exact two-file gallery follows its own prompt and is discussed in a work-specific table naming gpt-image-2.6-flare and gpt-image-2.6-sunburst. The article states that its tests used 302.AI API debugging. This supports the pair's GPT Image 2.6 family attribution, but no label maps either individual file to a variant. Variants are therefore unspecified. This is publisher-reported work, not independent API reproduction.",
+        "zh-CN": "原文第 8 节中，这一对文件位于该任务自己的提示词之后，配套的任务表格明确列出 gpt-image-2.6-flare 与 gpt-image-2.6-sunburst。文章说明测试通过 302.AI API 在线调试完成，足以支持这一对结果的 GPT Image 2.6 家族归因，但没有标签将单个文件对应到具体变体，因此记录为 unspecified。这是发布方自述作品，不是独立 API 复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/#aioseo-%E6%A1%88%E4%BE%8B8-%E5%A4%9A%E5%9B%BE%E7%BC%96%E8%BE%91-%E6%B5%B7%E6%8A%A5%E5%88%B6%E4%BD%9C-112"
+    },
+    "media": [
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-33.png",
+        "path": "assets/examples/302-flying-car-collage/output-1.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-reported GPT Image 2.6 output 1 for Five-view concept-car poster collage; individual variant unspecified",
+          "zh-CN": "来源归为 GPT Image 2.6 的「五视图概念车海报拼贴」结果 1；单文件变体未确认"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "41722e10a2ff21e884f1b323bc5da891dd5fcbac9b9154161369f13b5a4086d5",
+        "bytes": 1573477,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-34.png",
+        "path": "assets/examples/302-flying-car-collage/output-2.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-reported GPT Image 2.6 output 2 for Five-view concept-car poster collage; individual variant unspecified",
+          "zh-CN": "来源归为 GPT Image 2.6 的「五视图概念车海报拼贴」结果 2；单文件变体未确认"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "fd55c660ffc4c4af9bf3e30e8bbed4ec6d3bed4c302e671cd777ffcc96c99137",
+        "bytes": 2001795,
+        "mime_type": "image/png"
+      },
+      {
+        "source_url": "https://302.ai/blog/wp-content/uploads/2026/11/asynccode-32.png",
+        "path": "assets/references/302-flying-car-collage/reference.png",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Publisher-provided input composite for Five-view concept-car poster collage; reference only, not a GPT Image 2.6 output",
+          "zh-CN": "发布方提供的「五视图概念车海报拼贴」输入拼接图；仅为参考，不是 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-gpt-image-2-6-flare-and-sunburst/",
+          "credit": "302.AI Test Team",
+          "note": {
+            "en": "Unchanged publisher-served media. On 2026-11-08 the known file URL returned bytes identical to the retained SHA-256 and size. No explicit redistribution licence was verified. Public availability and attribution are not permission; repository MIT does not cover this media.",
+            "zh-CN": "保留发布方提供的原始素材。2026-11-08从已知文件地址取得的字节与留存SHA-256及大小一致。未验证明确转载许可，公开可访问及署名不等于授权，仓库MIT不覆盖此素材。"
+          }
+        },
+        "sha256": "9fd169a47f637ab907f2f97b67645368b7d718fde1a9a98cdb210854e5a037eb",
+        "bytes": 241200,
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "Two promotional-style collages use a single source-provided composite containing five car views. This is a visual-design task, not evidence of a real vehicle specification, release date or endorsement. Any generated performance claims are unverified. The input composite is one reference file, not five independent cases. Individual Flare/Sunburst assignments remain unknown and are not inferred from order or article commentary. The source reports xhigh quality, high complexity and first-returned outputs. Those settings and the model identity were not independently reproduced. The original request is public at the linked section; this record supplies only an independent short description and does not reproduce the full prompt. Source timing, cost and quality rankings are not adopted as verified benchmarks.",
+      "zh-CN": "两张宣传风格拼贴图使用来源提供的一份含五个汽车视角的拼接参考图。这是视觉设计任务，不构成真实车辆参数、发布日期或品牌认可的证据。画面中生成的性能说法未经核实。输入拼接图只计一份参考文件，不拆成五个案例。每个文件对应 Flare 还是 Sunburst 仍未知，不根据顺序或文章评论推断。 来源自述采用 xhigh 质量、high 复杂度并展示首次返回结果；这些设置与模型身份未独立复现。原始指令公开于所链接章节，此处仅提供独立简述，不复制完整提示词，也不将来源的速度、成本或质量排名作为已核实基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Only the already-known source and model pages were reopened to verify this existing local case. Their example URLs and model labels were checked. All retained media URLs were fetched successfully and matched their original SHA-256 and byte counts. No new case search.",
+        "zh-CN": "仅重新打开已知来源与模型页面，为既有本地案例核对示例地址及模型标签。所有留存素材地址均成功取得文件，SHA-256及字节数与原件一致，未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Original bytes retained. All stills and every GIF frame were fully decoded and visually reviewed. Reference composites are not generated outputs. No QA derivative is published.",
+        "zh-CN": "保留原始字节；所有静图及GIF全部帧完整解码并目视核验。参考拼图不是生成输出，不发布质检派生图。"
+      },
+      "report_path": "docs/302_GPTIMAGEHUB_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 31 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 31 | 0 |
-| [Infografiken](#category-infographics) | 14 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 34 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 35 | 0 |
+| [Infografiken](#category-infographics) | 16 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 10 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 35 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 31 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 37 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 34 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 10 | 0 |
-| [GIF & Animation](#category-gif-animation) | 107 | 0 |
+| [GIF & Animation](#category-gif-animation) | 108 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **269** |
+| Beispiele mit Quellenverweisen | **284** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **232** |
-| An der Quelle verfügbare Original-Prompts | **190** |
+| Von Erstellern gemeldete Beispiele | **247** |
+| An der Quelle verfügbare Original-Prompts | **205** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **409** |
+| Lokal archivierte Mediendateien | **438** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +210,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -228,6 +235,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -287,6 +296,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -325,6 +336,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -456,6 +470,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 
