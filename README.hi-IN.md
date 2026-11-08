@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 19 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 20 | 0 |
-| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 10 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 6 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 22 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 14 | 0 |
-| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 53 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 24 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 25 | 0 |
+| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 12 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 7 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 26 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 18 | 0 |
+| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 8 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **150** |
+| स्रोत से जुड़े उदाहरण | **201** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **113** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **127** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **164** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **149** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **225** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **319** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -155,6 +155,11 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
@@ -184,6 +189,11 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-infographics"></a>
 
@@ -201,6 +211,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-interiors-architecture"></a>
 
@@ -212,6 +224,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Living-room markup edit](cases/launch-fal/README.md) | आधिकारिक लॉन्च डेमो | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
@@ -243,6 +256,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Night market noodle stall](cases/yir-noodle-stall/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-markup-edits"></a>
 
@@ -264,6 +281,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-svg-design-assets"></a>
 
@@ -277,6 +298,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-gif-animation"></a>
 
@@ -299,6 +322,34 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
