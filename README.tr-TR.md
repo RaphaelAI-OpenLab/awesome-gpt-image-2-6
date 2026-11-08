@@ -50,11 +50,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Marka ve ürün görselleri](#category-brand-products) | 28 | 0 |
 | [Afişler ve tipografi](#category-posters-typography) | 30 | 0 |
 | [İnfografikler](#category-infographics) | 12 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 9 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 30 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 23 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 10 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 32 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 25 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 9 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 98 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **239** |
+| Kaynak bağlantılı örnekler | **247** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **202** |
+| Üreticilerinin bildirdiği örnekler | **210** |
 | Kaynakta bulunan özgün istemler | **173** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **370** |
+| Yerel olarak arşivlenmiş medya dosyaları | **378** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

@@ -50,11 +50,11 @@
 | [品牌與產品視覺](#category-brand-products) | 28 | 0 |
 | [海報與文字排版](#category-posters-typography) | 30 | 0 |
 | [資訊圖表](#category-infographics) | 12 | 0 |
-| [室內設計與建築](#category-interiors-architecture) | 9 | 0 |
-| [角色與一致性](#category-characters-consistency) | 30 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 23 | 0 |
+| [室內設計與建築](#category-interiors-architecture) | 10 | 0 |
+| [角色與一致性](#category-characters-consistency) | 32 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 25 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 9 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 98 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **239** |
+| 附來源連結的案例 | **247** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **202** |
+| 創作者自述範例 | **210** |
 | 可於來源取得的原始提示詞 | **173** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **370** |
+| 已於本機封存的媒體檔案 | **378** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 創作者自述模型 |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 創作者自述模型 |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 創作者自述模型 |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

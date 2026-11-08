@@ -50,11 +50,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Marken- & Produktvisualisierungen](#category-brand-products) | 28 | 0 |
 | [Poster & Typografie](#category-posters-typography) | 30 | 0 |
 | [Infografiken](#category-infographics) | 12 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 9 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 30 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 23 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 10 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 32 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 25 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 9 | 0 |
-| [GIF & Animation](#category-gif-animation) | 98 | 0 |
+| [GIF & Animation](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **239** |
+| Beispiele mit Quellenverweisen | **247** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **202** |
+| Von Erstellern gemeldete Beispiele | **210** |
 | An der Quelle verfügbare Original-Prompts | **173** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **370** |
+| Lokal archivierte Mediendateien | **378** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

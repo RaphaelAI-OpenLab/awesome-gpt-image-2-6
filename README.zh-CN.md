@@ -46,11 +46,11 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [品牌与商品](#category-brand-products) | 28 | 0 |
 | [海报与文字排版](#category-posters-typography) | 30 | 0 |
 | [信息图](#category-infographics) | 12 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 9 | 0 |
-| [角色与一致性](#category-characters-consistency) | 30 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 23 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 10 | 0 |
+| [角色与一致性](#category-characters-consistency) | 32 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 25 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 9 | 0 |
-| [GIF 与动画](#category-gif-animation) | 98 | 0 |
+| [GIF 与动画](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **239** |
+| 来源案例 | **247** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **202** |
+| 社区作者自报案例 | **210** |
 | 来源公开原始提示词 | **173** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **370** |
+| 本地收录素材文件 | **378** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-06 | [海边湿岩上的香水瓶编辑](cases/chatimage2-seaside-perfume-edit/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [雨窗阅读角](cases/chatimage2-rainy-reading-nook/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [GEN202 宇航员猫改狗双版本对照](cases/gen202-astronaut-cat-dog-variant-workflow/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [《最后一卷胶片》：共同输入的服装编辑](cases/maxvideo-gpt26-last-reel-edit/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [《最后一卷胶片》：Flare 与 Sunburst 场景版本](cases/maxvideo-gpt26-last-reel-generation/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [铜茶壶心形蒸汽循环动画](cases/analyticsvidhya-copper-teapot-heart-gif/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [瀑布与徒步者合成风景](cases/zhidx-waterfall-landscape/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [九宫格办公主题漫画](cases/zhidx-nine-panel-comic/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [博物馆人物移除对照面板](cases/zhidx-museum-person-removal/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [带虚构标识的模型发布帖编辑](cases/zhidx-fictional-release-post/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [旧照片中的检查站动画](cases/zhidx-vintage-checkpoint/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -234,6 +234,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [厨房吊灯替换](cases/joinoasis-kitchen-pendant-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [尘埃仓库提示细节对比](cases/community-sunburst-dust-detail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雨窗阅读角](cases/chatimage2-rainy-reading-nook/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [瀑布与徒步者合成风景](cases/zhidx-waterfall-landscape/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-characters-consistency"></a>
 
@@ -271,6 +272,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [渔夫补网肖像](cases/community-flixly-fisherman-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨中的狐狸与獾](cases/community-flixly-rainy-bridge-friends/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [《最后一卷胶片》：Flare 与 Sunburst 场景版本](cases/maxvideo-gpt26-last-reel-generation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [九宫格办公主题漫画](cases/zhidx-nine-panel-comic/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-markup-edits"></a>
 
@@ -301,6 +304,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [兔子绘本场景日暮编辑](cases/community-flare-day-dusk-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [《最后一卷胶片》：共同输入的服装编辑](cases/maxvideo-gpt26-last-reel-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [GEN202 宇航员猫改狗双版本对照](cases/gen202-astronaut-cat-dog-variant-workflow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [带虚构标识的模型发布帖编辑](cases/zhidx-fictional-release-post/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [博物馆人物移除对照面板](cases/zhidx-museum-person-removal/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -422,6 +427,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [鹰振翅 GIF](cases/community-hn-eagle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [国际象棋开局 GIF 测试](cases/community-hn-chess/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雪花球内哈士奇嚎叫 GIF](cases/community-hn-husky/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [黏土机器人浇花动画](cases/zhidx-clay-robot-garden/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [房车场景和解对话动画](cases/zhidx-rv-reconciliation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [旧照片中的检查站动画](cases/zhidx-vintage-checkpoint/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

@@ -50,11 +50,11 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 28 | 0 |
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 30 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 12 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 9 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 30 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 23 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 10 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 32 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 25 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 9 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 98 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **239** |
+| स्रोत से जुड़े उदाहरण | **247** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **202** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **210** |
 | स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **173** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **370** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **378** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

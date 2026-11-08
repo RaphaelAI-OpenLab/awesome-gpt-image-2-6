@@ -46,11 +46,11 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Brand & product visuals](#category-brand-products) | 28 | 0 |
 | [Posters & typography](#category-posters-typography) | 30 | 0 |
 | [Infographics](#category-infographics) | 12 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 9 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 30 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 23 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 32 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 25 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 9 | 0 |
-| [GIF & animation](#category-gif-animation) | 98 | 0 |
+| [GIF & animation](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **239** |
+| Source-linked cases | **247** |
 | Official examples | **37** |
-| Creator-reported examples | **202** |
+| Creator-reported examples | **210** |
 | Original prompts available at source | **173** |
 | Full prompts published here | **0** |
-| Locally archived media files | **370** |
+| Locally archived media files | **378** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Creator-reported model |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Creator-reported model |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Creator-reported model |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -234,6 +234,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Creator-reported model | Prompt availability unverified |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Creator-reported model | Original prompt at source |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-characters-consistency"></a>
 
@@ -271,6 +272,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Creator-reported model | Original prompt at source |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Creator-reported model | Original prompt at source |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Creator-reported model | Original prompt at source |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Creator-reported model | Prompt not public |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-markup-edits"></a>
 
@@ -301,6 +304,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Creator-reported model | Prompt availability unverified |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Creator-reported model | Original prompt at source |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Creator-reported model | Original prompt at source |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Creator-reported model | Prompt not public |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -422,6 +427,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Creator-reported model | Prompt availability unverified |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Creator-reported model | Prompt availability unverified |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Creator-reported model | Prompt availability unverified |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Creator-reported model | Prompt not public |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Creator-reported model | Prompt not public |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

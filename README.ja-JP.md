@@ -50,11 +50,11 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [ブランド・製品ビジュアル](#category-brand-products) | 28 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 30 | 0 |
 | [インフォグラフィック](#category-infographics) | 12 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 9 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 30 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 23 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 10 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 32 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 25 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 9 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 98 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **239** |
+| 出典リンク付き事例 | **247** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **202** |
+| 作者が報告した作例 | **210** |
 | 出典で公開されている原文プロンプト | **173** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **370** |
+| ローカルに保存済みのメディアファイル | **378** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 作者申告のモデル |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

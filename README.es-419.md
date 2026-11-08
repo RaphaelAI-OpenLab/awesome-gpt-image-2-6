@@ -50,11 +50,11 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | [Imágenes de marca y producto](#category-brand-products) | 28 | 0 |
 | [Pósteres y tipografía](#category-posters-typography) | 30 | 0 |
 | [Infografías](#category-infographics) | 12 | 0 |
-| [Interiores y arquitectura](#category-interiors-architecture) | 9 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 30 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 23 | 0 |
+| [Interiores y arquitectura](#category-interiors-architecture) | 10 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 32 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 25 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 9 | 0 |
-| [GIF y animación](#category-gif-animation) | 98 | 0 |
+| [GIF y animación](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **239** |
+| Casos con enlace a la fuente | **247** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **202** |
+| Ejemplos según sus creadores | **210** |
 | Prompts originales disponibles en la fuente | **173** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **370** |
+| Archivos multimedia archivados localmente | **378** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Agregado | Caso | Evidencia |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modelo indicado por el creador | Prompt no público |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo indicado por el creador | Prompt no público |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 

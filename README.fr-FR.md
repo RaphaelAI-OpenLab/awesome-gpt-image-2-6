@@ -50,11 +50,11 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Visuels de marque et de produit](#category-brand-products) | 28 | 0 |
 | [Affiches et typographie](#category-posters-typography) | 30 | 0 |
 | [Infographies](#category-infographics) | 12 | 0 |
-| [Intérieurs et architecture](#category-interiors-architecture) | 9 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 30 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 23 | 0 |
+| [Intérieurs et architecture](#category-interiors-architecture) | 10 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 32 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 25 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 9 | 0 |
-| [GIF et animation](#category-gif-animation) | 98 | 0 |
+| [GIF et animation](#category-gif-animation) | 101 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **239** |
+| Cas avec liens vers les sources | **247** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **202** |
+| Exemples déclarés par leurs créateurs | **210** |
 | Prompts originaux disponibles à la source | **173** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **370** |
+| Fichiers multimédias archivés localement | **378** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -121,12 +121,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -238,6 +238,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-characters-consistency"></a>
 
@@ -275,6 +276,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +308,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-svg-design-assets"></a>
 
@@ -426,6 +431,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 
