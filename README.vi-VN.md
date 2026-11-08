@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 67 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 45 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 68 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 47 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 16 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 11 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 57 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 37 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 39 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 13 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 128 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **374** |
+| Trường hợp có liên kết nguồn | **380** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **337** |
-| Câu lệnh gốc có sẵn tại nguồn | **234** |
+| Ví dụ do tác giả báo cáo | **343** |
+| Câu lệnh gốc có sẵn tại nguồn | **236** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
 | Tệp tư liệu được lưu trữ cục bộ | **552** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 <a id="category-posters-typography"></a>
 
@@ -257,6 +258,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 <a id="category-infographics"></a>
 
@@ -406,6 +409,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -561,6 +566,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

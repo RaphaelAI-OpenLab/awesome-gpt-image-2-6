@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 67 | 0 |
-| [Posters & typography](#category-posters-typography) | 45 | 0 |
+| [Brand & product visuals](#category-brand-products) | 68 | 0 |
+| [Posters & typography](#category-posters-typography) | 47 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 11 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 57 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 37 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 39 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 13 | 0 |
-| [GIF & animation](#category-gif-animation) | 128 | 0 |
+| [GIF & animation](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **374** |
+| Source-linked cases | **380** |
 | Official examples | **37** |
-| Creator-reported examples | **337** |
-| Original prompts available at source | **234** |
+| Creator-reported examples | **343** |
+| Original prompts available at source | **236** |
 | Full prompts published here | **0** |
 | Locally archived media files | **552** |
 | Last source check (UTC) | **2026-11-09** |
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Creator-reported model |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model | Original prompt at source |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Creator-reported model | Original prompt at source |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Creator-reported model | Original prompt at source |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-posters-typography"></a>
 
@@ -253,6 +254,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Creator-reported model | Prompt not public |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Creator-reported model | Prompt not public |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Creator-reported model | Prompt not public |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Creator-reported model | Prompt availability unverified |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-infographics"></a>
 
@@ -402,6 +405,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Creator-reported model | Original prompt at source |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Creator-reported model | Prompt availability unverified |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -557,6 +562,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Creator-reported model | Original prompt at source |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Creator-reported model | Prompt availability unverified |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Creator-reported model | Prompt not public |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

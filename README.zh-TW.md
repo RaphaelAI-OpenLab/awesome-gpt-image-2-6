@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 67 | 0 |
-| [海報與文字排版](#category-posters-typography) | 45 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 68 | 0 |
+| [海報與文字排版](#category-posters-typography) | 47 | 0 |
 | [資訊圖表](#category-infographics) | 16 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 11 | 0 |
 | [角色與一致性](#category-characters-consistency) | 57 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 37 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 39 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 128 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **374** |
+| 附來源連結的案例 | **380** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **337** |
-| 可於來源取得的原始提示詞 | **234** |
+| 創作者自述範例 | **343** |
+| 可於來源取得的原始提示詞 | **236** |
 | 於此發布的完整提示詞 | **0** |
 | 已於本機封存的媒體檔案 | **552** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 創作者自述模型 |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | 創作者自述模型 |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 創作者自述模型 |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 
 <a id="category-posters-typography"></a>
 
@@ -257,6 +258,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 
 <a id="category-infographics"></a>
 
@@ -406,6 +409,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -561,6 +566,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

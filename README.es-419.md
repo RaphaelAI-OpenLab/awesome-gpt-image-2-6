@@ -47,14 +47,14 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 67 | 0 |
-| [Pósteres y tipografía](#category-posters-typography) | 45 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 68 | 0 |
+| [Pósteres y tipografía](#category-posters-typography) | 47 | 0 |
 | [Infografías](#category-infographics) | 16 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 11 | 0 |
 | [Personajes y coherencia](#category-characters-consistency) | 57 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 37 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 39 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 13 | 0 |
-| [GIF y animación](#category-gif-animation) | 128 | 0 |
+| [GIF y animación](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **374** |
+| Casos con enlace a la fuente | **380** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **337** |
-| Prompts originales disponibles en la fuente | **234** |
+| Ejemplos según sus creadores | **343** |
+| Prompts originales disponibles en la fuente | **236** |
 | Prompts completos publicados aquí | **0** |
 | Archivos multimedia archivados localmente | **552** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Agregado | Caso | Evidencia |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
 <a id="category-posters-typography"></a>
 
@@ -257,6 +258,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modelo indicado por el creador | Prompt no público |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
 <a id="category-infographics"></a>
 
@@ -406,6 +409,8 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-svg-design-assets"></a>
 
@@ -561,6 +566,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 67 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 45 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 68 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 47 | 0 |
 | [インフォグラフィック](#category-infographics) | 16 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 11 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 57 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 37 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 39 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 128 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **374** |
+| 出典リンク付き事例 | **380** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **337** |
-| 出典で公開されている原文プロンプト | **234** |
+| 作者が報告した作例 | **343** |
+| 出典で公開されている原文プロンプト | **236** |
 | ここで公開している完全なプロンプト | **0** |
 | ローカルに保存済みのメディアファイル | **552** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 作者申告のモデル |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | 作者申告のモデル |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 作者申告のモデル |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 
 <a id="category-posters-typography"></a>
 
@@ -257,6 +258,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 
 <a id="category-infographics"></a>
 
@@ -406,6 +409,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-svg-design-assets"></a>
 
@@ -561,6 +566,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

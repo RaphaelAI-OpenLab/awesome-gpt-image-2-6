@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 67 | 0 |
-| [海报与文字排版](#category-posters-typography) | 45 | 0 |
+| [品牌与商品](#category-brand-products) | 68 | 0 |
+| [海报与文字排版](#category-posters-typography) | 47 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 11 | 0 |
 | [角色与一致性](#category-characters-consistency) | 57 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 37 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 39 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 与动画](#category-gif-animation) | 128 | 0 |
+| [GIF 与动画](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **374** |
+| 来源案例 | **380** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **337** |
-| 来源公开原始提示词 | **234** |
+| 社区作者自报案例 | **343** |
+| 来源公开原始提示词 | **236** |
 | 仓库内完整提示词 | **0** |
 | 本地收录素材文件 | **552** |
 | 最近来源核对（UTC） | **2026-11-09** |
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox 三杯插画标注定位测试](cases/ofox-three-mug-markup-target-test/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [Flixly：六项 GIF 生成与编辑测试](cases/flixly-six-gif-tests/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 剪纸风森林小屋](cases/community-cubistai-paper-cut-cabin/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [保存马克杯参考图并复用于三个场景](cases/weel-saved-mug-scenes/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AURORA橙色香水商品图](cases/community-struggle-aurora-perfume/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [橙色 KINGY LAB 产品海报](cases/kingy-sunburst-orange-bottle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-posters-typography"></a>
 
@@ -253,6 +254,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [2027 春季健康展传单对比](cases/nyle-health-fair/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [敏感肌化妆水广告对比](cases/nyle-skincare-ad/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [密集日文商务封面对比](cases/nyle-kanji-cover/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [KINGY LAB 水瓶与大字缩略图](cases/kingy-sunburst-bottle-thumbnail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Sunburst 面包店质量档位对比](cases/quantslant-sunburst-bakery-quality-ladder/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-infographics"></a>
 
@@ -402,6 +405,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Flare STUDIO NIGHTS 标题编辑](cases/aivideos-flare-headline-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [网络研讨会日期替换对比](cases/nyle-webinar-date-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [KINGY LAB 水瓶改色与价格编辑](cases/kingy-sunburst-turquoise-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Ofox 三杯插画标注定位测试](cases/ofox-three-mug-markup-target-test/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -557,6 +562,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [桌面照片清理并转动图](cases/community-struggle-desk-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [十款戏仿网页广告 GIF：日本创作者测试](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [Pixel♡Love：游泳角色动画帧表](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [橙色小鸟原生 GIF 循环](cases/ofox-native-bird/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

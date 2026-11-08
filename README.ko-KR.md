@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 67 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 45 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 68 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 47 | 0 |
 | [인포그래픽](#category-infographics) | 16 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 11 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 57 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 37 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 39 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 13 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 128 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 129 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **374** |
+| 출처 링크가 있는 사례 | **380** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **337** |
-| 출처에서 제공하는 원문 프롬프트 | **234** |
+| 제작자가 보고한 예시 | **343** |
+| 출처에서 제공하는 원문 프롬프트 | **236** |
 | 여기에 공개된 전체 프롬프트 | **0** |
 | 로컬에 보관된 미디어 파일 | **552** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 <a id="category-posters-typography"></a>
 
@@ -257,6 +258,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 <a id="category-infographics"></a>
 
@@ -406,6 +409,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -561,6 +566,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 
