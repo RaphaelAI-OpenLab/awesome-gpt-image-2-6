@@ -47,12 +47,12 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 27 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 29 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 28 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 30 | 0 |
 | [Infographies](#category-infographics) | 12 | 0 |
-| [Intérieurs et architecture](#category-interiors-architecture) | 7 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 29 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 20 | 0 |
+| [Intérieurs et architecture](#category-interiors-architecture) | 9 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 30 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 23 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 9 | 0 |
 | [GIF et animation](#category-gif-animation) | 98 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **231** |
+| Cas avec liens vers les sources | **239** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **194** |
-| Prompts originaux disponibles à la source | **167** |
+| Exemples déclarés par leurs créateurs | **202** |
+| Prompts originaux disponibles à la source | **173** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **357** |
+| Fichiers multimédias archivés localement | **370** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -121,12 +121,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
+| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modèle déclaré par le créateur |
 | 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-posters-typography"></a>
 
@@ -201,6 +202,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -234,6 +236,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-characters-consistency"></a>
 
@@ -270,6 +274,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-markup-edits"></a>
 
@@ -297,6 +302,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-svg-design-assets"></a>
 

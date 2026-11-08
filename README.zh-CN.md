@@ -43,12 +43,12 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 27 | 0 |
-| [海报与文字排版](#category-posters-typography) | 29 | 0 |
+| [品牌与商品](#category-brand-products) | 28 | 0 |
+| [海报与文字排版](#category-posters-typography) | 30 | 0 |
 | [信息图](#category-infographics) | 12 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 7 | 0 |
-| [角色与一致性](#category-characters-consistency) | 29 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 20 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 9 | 0 |
+| [角色与一致性](#category-characters-consistency) | 30 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 23 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 9 | 0 |
 | [GIF 与动画](#category-gif-animation) | 98 | 0 |
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **231** |
+| 来源案例 | **239** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **194** |
-| 来源公开原始提示词 | **167** |
+| 社区作者自报案例 | **202** |
+| 来源公开原始提示词 | **173** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **357** |
+| 本地收录素材文件 | **370** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [海边湿岩上的香水瓶编辑](cases/chatimage2-seaside-perfume-edit/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [雨窗阅读角](cases/chatimage2-rainy-reading-nook/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [GEN202 宇航员猫改狗双版本对照](cases/gen202-astronaut-cat-dog-variant-workflow/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [《最后一卷胶片》：共同输入的服装编辑](cases/maxvideo-gpt26-last-reel-edit/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [《最后一卷胶片》：Flare 与 Sunburst 场景版本](cases/maxvideo-gpt26-last-reel-generation/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [铜茶壶心形蒸汽循环动画](cases/analyticsvidhya-copper-teapot-heart-gif/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -161,6 +161,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [彩虹茶杯与猫](cases/community-flixly-rainbow-teacups/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [鼠尾草绿到陶土橙瓶子编辑](cases/omniakey-bottle-color-edit/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [水中修表微距测试](cases/community-hn-watchmaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [海边湿岩上的香水瓶编辑](cases/chatimage2-seaside-perfume-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -197,6 +198,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [FIELD & FLOUR 烘焙海报](cases/sogni-flare-bakery-poster/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [NORTHLIGHT TEA 海报版式对比](cases/sandbase-northlight-tea-posters/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Port Calder 海报复杂度对比](cases/omniakey-port-calder-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [生日蛋糕与额外标语对比](cases/community-flare-slogan-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -230,6 +232,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [雾中城市红色电车](cases/kavel-tram/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [四房间门洞布局](cases/joinoasis-four-room-floorplan/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [厨房吊灯替换](cases/joinoasis-kitchen-pendant-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [尘埃仓库提示细节对比](cases/community-sunburst-dust-detail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [雨窗阅读角](cases/chatimage2-rainy-reading-nook/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-characters-consistency"></a>
 
@@ -266,6 +270,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Mira 灯塔关键帧](cases/community-flixly-mira-keyframes/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [渔夫补网肖像](cases/community-flixly-fisherman-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨中的狐狸与獾](cases/community-flixly-rainy-bridge-friends/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [《最后一卷胶片》：Flare 与 Sunburst 场景版本](cases/maxvideo-gpt26-last-reel-generation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-markup-edits"></a>
 
@@ -293,6 +298,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [金毛照片转卡通](cases/toonderly-dog-photo-cartoon/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [宅邸晴天改造](cases/community-flixly-sunny-mansion-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [NORTHLIGHT TEA 颜色及日期编辑](cases/sandbase-northlight-tea-edits/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [兔子绘本场景日暮编辑](cases/community-flare-day-dusk-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [《最后一卷胶片》：共同输入的服装编辑](cases/maxvideo-gpt26-last-reel-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [GEN202 宇航员猫改狗双版本对照](cases/gen202-astronaut-cat-dog-variant-workflow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 

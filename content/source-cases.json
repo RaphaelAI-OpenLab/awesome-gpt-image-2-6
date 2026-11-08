@@ -18975,5 +18975,721 @@
       },
       "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "community-flare-slogan-comparison",
+    "status": "published",
+    "title": {
+      "en": "Birthday cake without extra slogan cards",
+      "zh-CN": "生日蛋糕与额外标语对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://x.com/DesignArena/status/2118124381155303918",
+      "author": "DesignArena (@DesignArena)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The retained original comparison image itself prints GPT Image 2.6 and the stated variant beside the left result. Its exact file hash and original-post mapping match the dated collection manifest. This is publisher attribution, not independently verified model execution.",
+        "zh-CN": "留存原始对比图在左侧结果旁直接印有GPT Image 2.6及所列版本；准确文件哈希与原帖对应关系符合当日采集清单。这是发布方归因，不是独立验证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/DesignArena/status/2118124381155303918"
+    },
+    "media": [
+      {
+        "source_url": "https://x.com/DesignArena/status/2118124381155303918",
+        "path": "assets/examples/community-flare-slogan-comparison/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Original birthday-cake comparison composite: GPT Image 2.6 Flare (High) on the left; GPT Image 2.5 Sunburst with extra slogan cards on the right.",
+          "zh-CN": "生日蛋糕原始对比拼图：左侧为 GPT Image 2.6 Flare (High)，右侧为带额外标语卡片的 GPT Image 2.5 Sunburst。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DesignArena/status/2118124381155303918",
+          "credit": "DesignArena (@DesignArena)",
+          "note": {
+            "en": "Unmodified platform-served file from the cited original post. The source URL is a verified source-page provenance link, not a direct file locator. The retained collection report records a failed direct HTTP request and a successful ordinary-browser observation/save; no new retrieval was attempted in this audit. No explicit redistribution license was located. Public access and attribution are not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样保存引述原帖提供的平台文件。来源 URL 是已核实的原帖溯源链接，并非文件直链。留存采集记录记载直接 HTTP 请求失败，以及普通浏览器中的观察与保存成功；本次核查未重新获取。未找到明确转载许可证；公开可访问及署名不构成授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "bytes": 42182,
+        "sha256": "7e82dfbac6f9f52bbaf756f41828bcbe89fbdd158107b7b9d5602acb15c99f3f",
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The comparison contains a pink birthday cake on the left and a GPT Image 2.5 Sunburst result on the right with extra slogan cards. The public prompt is visible in the source image. The publisher reports a preference, not an independently reproduced benchmark.",
+      "zh-CN": "对比图左侧为粉色生日蛋糕，右侧为带额外标语卡片的 GPT Image 2.5 Sunburst 结果。公开提示词位于源图中。偏好结果为发布者报告，未独立复现基准测试。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The 2026-11-05 collection record maps the original post to this exact file. On 2026-11-08, the original composite pixels and their printed model labels were checked offline; the X post was not reopened.",
+        "zh-CN": "2026-11-05采集记录将原帖对应至此文件。2026-11-08离线核对原始拼图像素及其中印刷的模型标签，未重新打开X原帖。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-flare-day-dusk-edit",
+    "status": "published",
+    "title": {
+      "en": "Rabbit storybook day-to-dusk edit",
+      "zh-CN": "兔子绘本场景日暮编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://x.com/DesignArena/status/2118124387639693686",
+      "author": "DesignArena (@DesignArena)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The retained original comparison image itself prints GPT Image 2.6 and the stated variant beside the left result. Its exact file hash and original-post mapping match the dated collection manifest. This is publisher attribution, not independently verified model execution.",
+        "zh-CN": "留存原始对比图在左侧结果旁直接印有GPT Image 2.6及所列版本；准确文件哈希与原帖对应关系符合当日采集清单。这是发布方归因，不是独立验证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://x.com/DesignArena/status/2118124387639693686",
+        "path": "assets/examples/community-flare-day-dusk-edit/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Original rabbit-scene editing comparison composite with an input thumbnail: GPT Image 2.6 Flare (High) on the left; FLUX.2 Klein 4B Distilled Edit on the right.",
+          "zh-CN": "兔子场景编辑原始对比拼图，含输入缩略图：左侧为 GPT Image 2.6 Flare (High)，右侧为 FLUX.2 Klein 4B Distilled Edit。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DesignArena/status/2118124387639693686",
+          "credit": "DesignArena (@DesignArena)",
+          "note": {
+            "en": "Unmodified platform-served file from the cited original post. The source URL is a verified source-page provenance link, not a direct file locator. The retained collection report records a failed direct HTTP request and a successful ordinary-browser observation/save; no new retrieval was attempted in this audit. No explicit redistribution license was located. Public access and attribution are not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样保存引述原帖提供的平台文件。来源 URL 是已核实的原帖溯源链接，并非文件直链。留存采集记录记载直接 HTTP 请求失败，以及普通浏览器中的观察与保存成功；本次核查未重新获取。未找到明确转载许可证；公开可访问及署名不构成授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "bytes": 82250,
+        "sha256": "98842edd0d7d30db1a70ee7a844ec350f1b132310fd3dab95cc0dbd85424debe",
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The composite includes a small input reference and two edited storybook rabbit scenes. The left Flare result has a dressed rabbit holding a flashlight beside a warm-lit cottage at dusk; the right comparator is FLUX.2 Klein 4B Distilled Edit. The visible prompt ends in an ellipsis, so it is not a complete reproducible prompt. Only a truncated prompt is visible in the retained image; availability of a complete prompt elsewhere was not rechecked.",
+      "zh-CN": "拼图包含小幅输入参考图及两张编辑后的绘本兔子场景。左侧 Flare 结果中，穿衣兔子手持手电筒，身后为暮色中的暖灯小屋；右侧比较模型为 FLUX.2 Klein 4B Distilled Edit。图中提示词以省略号结束，并非完整可复现提示词。 留存图片只显示截断提示词，未重新核对其他位置是否公开完整提示词。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The 2026-11-05 collection record maps the original post to this exact file. On 2026-11-08, the original composite pixels and their printed model labels were checked offline; the X post was not reopened.",
+        "zh-CN": "2026-11-05采集记录将原帖对应至此文件。2026-11-08离线核对原始拼图像素及其中印刷的模型标签，未重新打开X原帖。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-sunburst-dust-detail",
+    "status": "published",
+    "title": {
+      "en": "Dusty warehouse prompt-detail comparison",
+      "zh-CN": "尘埃仓库提示细节对比"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://x.com/DesignArena/status/2118124393843106154",
+      "author": "DesignArena (@DesignArena)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The retained original comparison image itself prints GPT Image 2.6 and the stated variant beside the left result. Its exact file hash and original-post mapping match the dated collection manifest. This is publisher attribution, not independently verified model execution.",
+        "zh-CN": "留存原始对比图在左侧结果旁直接印有GPT Image 2.6及所列版本；准确文件哈希与原帖对应关系符合当日采集清单。这是发布方归因，不是独立验证模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://x.com/DesignArena/status/2118124393843106154",
+        "path": "assets/examples/community-sunburst-dust-detail/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Original dusty-warehouse comparison composite: GPT Image 2.6 Sunburst (quality auto, complexity high) on the left; MAI-Image-2.6 Flash on the right.",
+          "zh-CN": "尘埃仓库原始对比拼图：左侧为 GPT Image 2.6 Sunburst（质量 auto、复杂度 high），右侧为 MAI-Image-2.6 Flash。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DesignArena/status/2118124393843106154",
+          "credit": "DesignArena (@DesignArena)",
+          "note": {
+            "en": "Unmodified platform-served file from the cited original post. The source URL is a verified source-page provenance link, not a direct file locator. The retained collection report records a failed direct HTTP request and a successful ordinary-browser observation/save; no new retrieval was attempted in this audit. No explicit redistribution license was located. Public access and attribution are not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "原样保存引述原帖提供的平台文件。来源 URL 是已核实的原帖溯源链接，并非文件直链。留存采集记录记载直接 HTTP 请求失败，以及普通浏览器中的观察与保存成功；本次核查未重新获取。未找到明确转载许可证；公开可访问及署名不构成授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "bytes": 49902,
+        "sha256": "3cc82cac3f811724150a17b7d8dc5511b4c1fd154fa3d99571b92e06670211ef",
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "The left Sunburst result shows dusty light, shelving, boxes and weathered framed paintings in a neglected warehouse; the right result is MAI-Image-2.6 Flash. The publisher compares dust and unwanted lettering. The image exposes only a truncated prompt, not the full generation recipe. Only a truncated prompt is visible in the retained image; availability of a complete prompt elsewhere was not rechecked.",
+      "zh-CN": "左侧 Sunburst 结果展示废旧仓库内的尘光、货架、纸箱与老旧画框，右侧为 MAI-Image-2.6 Flash。发布者比较尘埃与非预期文字。图片仅包含截断提示词，未提供完整生成条件。 留存图片只显示截断提示词，未重新核对其他位置是否公开完整提示词。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The 2026-11-05 collection record maps the original post to this exact file. On 2026-11-08, the original composite pixels and their printed model labels were checked offline; the X post was not reopened.",
+        "zh-CN": "2026-11-05采集记录将原帖对应至此文件。2026-11-08离线核对原始拼图像素及其中印刷的模型标签，未重新打开X原帖。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "maxvideo-gpt26-last-reel-generation",
+    "status": "published",
+    "title": {
+      "en": "The Last Reel: Flare and Sunburst scene variants",
+      "zh-CN": "《最后一卷胶片》：Flare 与 Sunburst 场景版本"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+      "author": "MaxVideoAI (publisher; individual creator not named)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original MaxVideoAI Sunburst and Flare pages identify these specific gallery outputs by named engine, title, exact original file and public request. The retained file hashes match those public records. This is provider-reported model attribution, not an independently reproduced generation or served-model verification.",
+        "zh-CN": "MaxVideoAI 的 Sunburst 与 Flare 原始页面用具体引擎名称、标题、准确原始文件及公开请求标注这些图库输出。留存文件哈希与公开记录一致。这是服务商自述的模型归因，并非独立复现生成或核实实际服务模型。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://media.maxvideoai.com/model-launch/gpt-image-2-6/2026-11-05/dd2a1bb8824ff1f64033db2c7ef459954b0001cba581f6764ceecad6be9d1d7b.png",
+        "path": "assets/examples/maxvideo-gpt26-last-reel-generation/sunburst-generation.png",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/png",
+        "bytes": 1517846,
+        "sha256": "dd2a1bb8824ff1f64033db2c7ef459954b0001cba581f6764ceecad6be9d1d7b",
+        "alt": {
+          "en": "Sunburst generation: fictional adult woman in an ochre jacket holding a blue film canister beside a burgundy curtain.",
+          "zh-CN": "Sunburst 生成图：穿赭色外套的成年虚构女性抱着蓝色胶片罐，站在酒红色帘幕旁。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+          "credit": "MaxVideoAI public example; individual creator not named",
+          "note": {
+            "en": "Unmodified public example with exact source attribution. No third-party redistribution license was found. The provider’s showcase rights do not grant this collection permission; attribution is not a license and the repository MIT license does not cover the image.",
+            "zh-CN": "原样保留公开示例并注明准确来源。未找到授予第三方的转载许可证。服务商的展示权不等于本合集获得授权；署名不等于许可，仓库 MIT 许可不覆盖图片。"
+          }
+        }
+      },
+      {
+        "source_url": "https://media.maxvideoai.com/model-launch/gpt-image-2-6/2026-11-05/5c1807810678c1a1436ee1655bf694358709f37013b8d192d9b90f0f9b6d946a.png",
+        "path": "assets/examples/maxvideo-gpt26-last-reel-generation/flare-generation.png",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/png",
+        "bytes": 1502993,
+        "sha256": "5c1807810678c1a1436ee1655bf694358709f37013b8d192d9b90f0f9b6d946a",
+        "alt": {
+          "en": "Flare generation: fictional adult woman in an ochre jacket holding a blue film canister beside a burgundy curtain.",
+          "zh-CN": "Flare 生成图：穿赭色外套的成年虚构女性抱着蓝色胶片罐，站在酒红色帘幕旁。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+          "credit": "MaxVideoAI public example; individual creator not named",
+          "note": {
+            "en": "Unmodified public example with exact source attribution. No third-party redistribution license was found. The provider’s showcase rights do not grant this collection permission; attribution is not a license and the repository MIT license does not cover the image.",
+            "zh-CN": "原样保留公开示例并注明准确来源。未找到授予第三方的转载许可证。服务商的展示权不等于本合集获得授权；署名不等于许可，仓库 MIT 许可不覆盖图片。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Two variants of one cinematic still task, not two separate cases. The 1024 × 1024 original PNGs show an adult fictional character in an ochre jacket holding a film canister in a cinema corridor. The renders differ in pose, framing and details. The Flare generation is also the shared input for both wardrobe edits; the Sunburst generation is not an edit input. The source reports high quality and high planning. Original requests remain at the source; no comparative speed or quality benchmark is claimed.",
+      "zh-CN": "同一个电影静帧任务的两个版本，不拆成两个案例。原始 1024 × 1024 PNG 展示穿赭色外套的成年虚构角色在影院走廊抱着胶片罐。两个结果的姿态、构图及细节有所不同。Flare 生成图同时是两次服装编辑的共同输入；Sunburst 生成图不是编辑输入。来源记录为 high 质量及 high 规划。原始请求留在来源，不作速度或质量基准结论。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known original provider page was read on 2026-11-08 to verify the existing local case. No new case search or generation was performed.",
+        "zh-CN": "2026-11-08打开已知服务商原页，为既有本地案例补证，未搜索新案例或执行生成。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "maxvideo-gpt26-last-reel-edit",
+    "status": "published",
+    "title": {
+      "en": "The Last Reel: shared-input wardrobe edits",
+      "zh-CN": "《最后一卷胶片》：共同输入的服装编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+      "author": "MaxVideoAI (publisher; individual creator not named)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original MaxVideoAI Sunburst and Flare pages identify these specific gallery outputs by named engine, title, exact original file and public request. The retained file hashes match those public records. This is provider-reported model attribution, not an independently reproduced generation or served-model verification.",
+        "zh-CN": "MaxVideoAI 的 Sunburst 与 Flare 原始页面用具体引擎名称、标题、准确原始文件及公开请求标注这些图库输出。留存文件哈希与公开记录一致。这是服务商自述的模型归因，并非独立复现生成或核实实际服务模型。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst"
+    },
+    "media": [
+      {
+        "source_url": "https://media.maxvideoai.com/model-launch/gpt-image-2-6/2026-11-05/30fc5d0b0da3670745c399c57b3e7094eb8682a19cdd1ebec444f2d63179020e.png",
+        "path": "assets/examples/maxvideo-gpt26-last-reel-edit/sunburst-edit.png",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/png",
+        "bytes": 1354621,
+        "sha256": "30fc5d0b0da3670745c399c57b3e7094eb8682a19cdd1ebec444f2d63179020e",
+        "alt": {
+          "en": "Sunburst wardrobe edit: deep red jacket in the shared Flare cinema scene.",
+          "zh-CN": "Sunburst 服装编辑：共同 Flare 影院场景中的深红色外套。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+          "credit": "MaxVideoAI public example; individual creator not named",
+          "note": {
+            "en": "Unmodified public example with exact source attribution. No third-party redistribution license was found. The provider’s showcase rights do not grant this collection permission; attribution is not a license and the repository MIT license does not cover the image.",
+            "zh-CN": "原样保留公开示例并注明准确来源。未找到授予第三方的转载许可证。服务商的展示权不等于本合集获得授权；署名不等于许可，仓库 MIT 许可不覆盖图片。"
+          }
+        }
+      },
+      {
+        "source_url": "https://media.maxvideoai.com/model-launch/gpt-image-2-6/2026-11-05/7262fb83e45d95abc474d1f7d9c161c119129e09aa690e9633635c7868cce9af.png",
+        "path": "assets/examples/maxvideo-gpt26-last-reel-edit/flare-edit.png",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/png",
+        "bytes": 1426209,
+        "sha256": "7262fb83e45d95abc474d1f7d9c161c119129e09aa690e9633635c7868cce9af",
+        "alt": {
+          "en": "Flare wardrobe edit: deep red jacket in the shared Flare cinema scene.",
+          "zh-CN": "Flare 服装编辑：共同 Flare 影院场景中的深红色外套。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+          "credit": "MaxVideoAI public example; individual creator not named",
+          "note": {
+            "en": "Unmodified public example with exact source attribution. No third-party redistribution license was found. The provider’s showcase rights do not grant this collection permission; attribution is not a license and the repository MIT license does not cover the image.",
+            "zh-CN": "原样保留公开示例并注明准确来源。未找到授予第三方的转载许可证。服务商的展示权不等于本合集获得授权；署名不等于许可，仓库 MIT 许可不覆盖图片。"
+          }
+        }
+      },
+      {
+        "source_url": "https://media.maxvideoai.com/model-launch/gpt-image-2-6/2026-11-05/5c1807810678c1a1436ee1655bf694358709f37013b8d192d9b90f0f9b6d946a.png",
+        "path": null,
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Shared input: the Flare generation archived in The Last Reel scene-variants case.",
+          "zh-CN": "共同输入：《最后一卷胶片》场景版本案例中已存档的 Flare 生成图。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://maxvideoai.com/models/gpt-image-2-6-sunburst",
+          "credit": "MaxVideoAI public example",
+          "note": {
+            "en": "This is the same original already stored in the generation case, not a fifth distinct file. This record links the input without a duplicate local copy. The provider maps both edits to it; attribution does not establish reuse permission.",
+            "zh-CN": "这是已存储于生成案例中的同一份原始文件，并非第五份不同文件。此记录链接输入，不重复存储本地副本。服务商将两次编辑均对应到该图；署名不构成使用授权。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Both edits use the same Flare-generated ochre-jacket image from The Last Reel generation case, not a separate Sunburst input. They change the jacket to deep red while broadly retaining the scene and pose; exact pixel or identity preservation is not claimed. The shared input is already archived with the generation case, so only the two new edit outputs are stored here. All four originals retain their embedded content credentials; signatures were not authenticated and generic gpt-image metadata does not establish the version or variant.",
+      "zh-CN": "两次编辑都使用《最后一卷胶片》生成案例中的同一张 Flare 赭色外套图，而非分别使用 Sunburst 输入。结果将外套改为深红色，大体保留场景及姿态；不宣称逐像素或身份完全一致。共同输入已在生成案例中存档，此处仅存储两份新编辑输出。四份原始文件均保留嵌入的内容凭证，未认证签名，通用 gpt-image 元数据不证明具体版本或变体。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The already-known original provider page was read on 2026-11-08 to verify the existing local case. No new case search or generation was performed.",
+        "zh-CN": "2026-11-08打开已知服务商原页，为既有本地案例补证，未搜索新案例或执行生成。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "gen202-astronaut-cat-dog-variant-workflow",
+    "status": "published",
+    "title": {
+      "en": "GEN202 astronaut cat-to-dog edit comparison",
+      "zh-CN": "GEN202 宇航员猫改狗双版本对照"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://gen202.ru/gpt-image-2-6/",
+      "author": "GEN202 (provider; no individual creative byline verified)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The known primary page was reopened and its displayed sample JSON maps all four local filenames to GPT Image 2.6 Flare or Sunburst generation/edit variants. These are provider-reported examples. Repeated sample task IDs do not establish independent runtime logs.",
+        "zh-CN": "重新检查已知原页，公开示例JSON将四个本地文件逐项对应至GPT Image 2.6 Flare或Sunburst生成及编辑版本。属于提供方自述，重复示例任务ID不能证明独立运行日志。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://gen202.ru/gpt-image-2-6/"
+    },
+    "media": [
+      {
+        "source_url": "https://gen202.com/assets/sample-gpt-image-2-6-sunburst.jpg",
+        "path": "assets/examples/gen202-astronaut-cat-dog-variant-workflow/sample-gpt-image-2-6-sunburst.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst cat astronaut",
+          "zh-CN": "Sunburst 猫咪宇航员"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gen202.ru/gpt-image-2-6/",
+          "credit": "GEN202",
+          "note": {
+            "en": "Unmodified public-source research copy. The reviewed GEN202 terms contain no explicit prohibition on archiving these public samples, but no redistribution licence was found. Customer-output rights do not license provider samples. Source-attributed only, not permission or legal clearance; excluded from this collection’s MIT licence.",
+            "zh-CN": "原样保留的公开来源研究副本。所查 GEN202 条款未明确禁止存档这些公开样本，但未发现转载许可。客户输出权利不赋予提供方样本许可。仅来源署名，不表示获得许可或法律授权，不适用合集 MIT 许可。"
+          }
+        },
+        "bytes": 248181,
+        "sha256": "19eb85d49443a255fcec2de4bc47290243d9553ef2bb5c90da4e605604643d31",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://gen202.com/assets/sample-gpt-image-2-6-sunburst-edit.jpg",
+        "path": "assets/examples/gen202-astronaut-cat-dog-variant-workflow/sample-gpt-image-2-6-sunburst-edit.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunburst dog edit",
+          "zh-CN": "Sunburst 狗狗编辑结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gen202.ru/gpt-image-2-6/",
+          "credit": "GEN202",
+          "note": {
+            "en": "Unmodified public-source research copy. The reviewed GEN202 terms contain no explicit prohibition on archiving these public samples, but no redistribution licence was found. Customer-output rights do not license provider samples. Source-attributed only, not permission or legal clearance; excluded from this collection’s MIT licence.",
+            "zh-CN": "原样保留的公开来源研究副本。所查 GEN202 条款未明确禁止存档这些公开样本，但未发现转载许可。客户输出权利不赋予提供方样本许可。仅来源署名，不表示获得许可或法律授权，不适用合集 MIT 许可。"
+          }
+        },
+        "bytes": 256764,
+        "sha256": "a2215887b0842a48886d573e71e0ac3be44c0e36e2169018df9d56369a60496f",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://gen202.com/assets/sample-gpt-image-2-6-flare.jpg",
+        "path": "assets/examples/gen202-astronaut-cat-dog-variant-workflow/sample-gpt-image-2-6-flare.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Flare cat astronaut",
+          "zh-CN": "Flare 猫咪宇航员"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gen202.ru/gpt-image-2-6/",
+          "credit": "GEN202",
+          "note": {
+            "en": "Unmodified public-source research copy. The reviewed GEN202 terms contain no explicit prohibition on archiving these public samples, but no redistribution licence was found. Customer-output rights do not license provider samples. Source-attributed only, not permission or legal clearance; excluded from this collection’s MIT licence.",
+            "zh-CN": "原样保留的公开来源研究副本。所查 GEN202 条款未明确禁止存档这些公开样本，但未发现转载许可。客户输出权利不赋予提供方样本许可。仅来源署名，不表示获得许可或法律授权，不适用合集 MIT 许可。"
+          }
+        },
+        "bytes": 245963,
+        "sha256": "bb368f9fac11eb9d7a2c2c1f4d528eb76538388e5f394e2ab66f82265e639453",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://gen202.com/assets/sample-gpt-image-2-6-flare-edit.jpg",
+        "path": "assets/examples/gen202-astronaut-cat-dog-variant-workflow/sample-gpt-image-2-6-flare-edit.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Flare dog edit",
+          "zh-CN": "Flare 狗狗编辑结果"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://gen202.ru/gpt-image-2-6/",
+          "credit": "GEN202",
+          "note": {
+            "en": "Unmodified public-source research copy. The reviewed GEN202 terms contain no explicit prohibition on archiving these public samples, but no redistribution licence was found. Customer-output rights do not license provider samples. Source-attributed only, not permission or legal clearance; excluded from this collection’s MIT licence.",
+            "zh-CN": "原样保留的公开来源研究副本。所查 GEN202 条款未明确禁止存档这些公开样本，但未发现转载许可。客户输出权利不赋予提供方样本许可。仅来源署名，不表示获得许可或法律授权，不适用合集 MIT 许可。"
+          }
+        },
+        "bytes": 237403,
+        "sha256": "1267d44d8ba3ffadf4daf4430547de2b497651d37fb1ce3b7bbd08641cf7d483",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "One workflow groups both labelled variants and their generated-still/edit pairs. The two original instructions are publicly displayed at source and linked, not reproduced here. All four retained files decode as distinct 1024 × 1024 JPEGs. The inspected images show separate cat astronauts and corresponding dog replacements. No pixel-preservation or runtime-log authenticity claim is made. Public-source archiving is source-attributed, not licensed or legally cleared.",
+      "zh-CN": "两种标注版本及各自静图、编辑图合为一个工作流。来源公开展示两条原始指令，此处仅链接，不复制。四个留存文件均解码为互异的 1024 × 1024 JPEG；所查图像为两组猫咪宇航员及对应狗狗替换图。不宣称其他像素保持不变或运行日志真实。公开来源存档仅表示署名，不表示许可或法律授权已确认。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known original provider page was read on 2026-11-08 to verify the existing local case. No new case search or generation was performed.",
+        "zh-CN": "2026-11-08打开已知服务商原页，为既有本地案例补证，未搜索新案例或执行生成。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "chatimage2-rainy-reading-nook",
+    "status": "published",
+    "title": {
+      "en": "Rainy-window reading nook",
+      "zh-CN": "雨窗阅读角"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://chatgpt-image-2.com/gpt-image-2-6",
+      "author": "ChatGPT Images / chatgpt-image-2.com (independent provider; no individual byline verified)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The provider identifies this named still as its November5 gpt-image-2.6 generation. Flare/Sunburst is unspecified. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "独立服务 chatgpt-image-2.com 将此阅读角静图归于 2026 年 11 月 5 日的 gpt-image-2.6 生成，未明确 Flare 或 Sunburst。不是 OpenAI 官方网站，也不是独立后端核验。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://chatgpt-image-2.com/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://chatgpt-image-2.com/imgs/gpt-image-2-6/still.webp",
+        "path": "assets/examples/chatimage2-rainy-reading-nook/chatimage2-reading-nook.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Reading nook beside a rainy window, compressed preview",
+          "zh-CN": "雨窗旁阅读角，压缩预览"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://chatgpt-image-2.com/gpt-image-2-6",
+          "credit": "ChatGPT Images / chatgpt-image-2.com",
+          "note": {
+            "en": "Unmodified public-source research copy. No independent redistribution licence was verified. Attribution is provenance, not permission or open licensing. Customer-output rights do not license these publisher examples; this collection’s MIT licence does not cover this file.",
+            "zh-CN": "原样保留的公开来源研究副本。未核实独立转载许可。署名仅记录来源，不构成许可或开放授权。客户输出权利不赋予这些发布方示例的许可；合集 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 112968,
+        "sha256": "442ebcb16910742e164341d9f525a1329743ee776961fbbc9d1d18465cf462d4",
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Source-reported example from an independent provider, not OpenAI. The archived 1200 × 800 WebP is the compressed preview; the source-reported generation size is 1536 × 1024. The publisher notes unrequested daisies. No original-resolution file, runtime model or generation was independently verified.",
+      "zh-CN": "独立提供方自述案例，不是 OpenAI 官方示例。存档 1200 × 800 WebP 为压缩预览；来源自述生成尺寸为 1536 × 1024。发布方指出模型添加了未要求的雏菊。未独立核验原分辨率文件、运行模型或生成过程。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known original provider page was read on 2026-11-08 to verify the existing local case. No new case search or generation was performed.",
+        "zh-CN": "2026-11-08打开已知服务商原页，为既有本地案例补证，未搜索新案例或执行生成。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "chatimage2-seaside-perfume-edit",
+    "status": "published",
+    "title": {
+      "en": "Perfume bottle on wet coastal rock",
+      "zh-CN": "海边湿岩上的香水瓶编辑"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://chatgpt-image-2.com/gpt-image-2-6",
+      "author": "ChatGPT Images / chatgpt-image-2.com (independent provider; no individual byline verified)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The provider maps this specific perfume edit to gpt-image-2.6, using an earlier2.5 product photo as input. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "独立服务 chatgpt-image-2.com 将此香水编辑归于 gpt-image-2.6，称输入来自较早的 2.5 产品照片。未明确 Flare 或 Sunburst；非 OpenAI 官方网站或独立后端核验。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://chatgpt-image-2.com/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://chatgpt-image-2.com/imgs/gpt-image-2-6/edit.webp",
+        "path": "assets/examples/chatimage2-seaside-perfume-edit/chatimage2-perfume-edit.webp",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Green perfume bottle on coastal rock, compressed preview",
+          "zh-CN": "海边岩石上的绿色香水瓶，压缩预览"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://chatgpt-image-2.com/gpt-image-2-6",
+          "credit": "ChatGPT Images / chatgpt-image-2.com",
+          "note": {
+            "en": "Unmodified public-source research copy. No independent redistribution licence was verified. Attribution is provenance, not permission or open licensing. Customer-output rights do not license these publisher examples; this collection’s MIT licence does not cover this file.",
+            "zh-CN": "原样保留的公开来源研究副本。未核实独立转载许可。署名仅记录来源，不构成许可或开放授权。客户输出权利不赋予这些发布方示例的许可；合集 MIT 许可不覆盖此文件。"
+          }
+        },
+        "bytes": 62790,
+        "sha256": "a82a94150d6959c1b15207c592f97abfd00fe7b99eb47f08ff032f2a28655510",
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Source-reported edit from an independent provider, not OpenAI. The archived 1000 × 1000 WebP is a compressed preview; the reported generation size is 1254 × 1254. The earlier 2.5 input was not collected or verified. The green unlabelled bottle differs from the indexed blue TIDAL coastal edits; a shared subject or setting alone is not duplicate work.",
+      "zh-CN": "独立提供方自述编辑，不是 OpenAI 官方示例。存档 1000 × 1000 WebP 为压缩预览；来源自述生成尺寸为 1254 × 1254。未收集或核验较早的 2.5 输入图。绿色无标签瓶与已收录的蓝色 TIDAL 海岸编辑不同，主题或场景相似本身不等于同一作品。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The already-known original provider page was read on 2026-11-08 to verify the existing local case. No new case search or generation was performed.",
+        "zh-CN": "2026-11-08打开已知服务商原页，为既有本地案例补证，未搜索新案例或执行生成。"
+      },
+      "media_note": {
+        "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
+        "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
+      },
+      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]

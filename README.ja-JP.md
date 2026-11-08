@@ -47,12 +47,12 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 27 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 29 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 28 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 30 | 0 |
 | [インフォグラフィック](#category-infographics) | 12 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 7 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 29 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 20 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 9 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 30 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 23 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 9 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 98 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **231** |
+| 出典リンク付き事例 | **239** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **194** |
-| 出典で公開されている原文プロンプト | **167** |
+| 作者が報告した作例 | **202** |
+| 出典で公開されている原文プロンプト | **173** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **357** |
+| ローカルに保存済みのメディアファイル | **370** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル |
+| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 作者申告のモデル |
+| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 作者申告のモデル |
+| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -201,6 +202,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -234,6 +236,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
@@ -270,6 +274,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-markup-edits"></a>
 
@@ -297,6 +302,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-svg-design-assets"></a>
 

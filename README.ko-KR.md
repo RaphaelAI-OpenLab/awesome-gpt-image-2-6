@@ -47,12 +47,12 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 27 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 29 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 28 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 30 | 0 |
 | [인포그래픽](#category-infographics) | 12 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 7 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 29 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 20 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 9 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 30 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 23 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 9 | 0 |
 | [GIF 및 애니메이션](#category-gif-animation) | 98 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **231** |
+| 출처 링크가 있는 사례 | **239** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **194** |
-| 출처에서 제공하는 원문 프롬프트 | **167** |
+| 제작자가 보고한 예시 | **202** |
+| 출처에서 제공하는 원문 프롬프트 | **173** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **357** |
+| 로컬에 보관된 미디어 파일 | **370** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
+| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -201,6 +202,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -234,6 +236,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-characters-consistency"></a>
 
@@ -270,6 +274,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 
@@ -297,6 +302,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-svg-design-assets"></a>
 
