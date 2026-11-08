@@ -17531,5 +17531,357 @@
       },
       "report_path": "docs/VEEVID_FLIXLY_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "analyticsvidhya-copper-teapot-heart-gif",
+    "status": "published",
+    "title": {
+      "en": "Copper teapot with heart-shaped steam loop",
+      "zh-CN": "铜茶壶心形蒸汽循环动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-5-a-real-looping-teapot-gif",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original article explicitly presents this subsection and its output as one of five hands-on GPT Image 2.6 tests. It does not specify Sunburst or Flare. This is the author’s attribution, not an independently reproduced run.",
+        "zh-CN": "原始文章明确将本小节及其输出列为五项 GPT Image 2.6 实测之一，未注明 Sunburst 或 Flare。此为作者归因，并非独立复现的运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-5-a-real-looping-teapot-gif"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/test.gif",
+        "path": "assets/examples/analyticsvidhya-copper-teapot-heart-gif/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "mime_type": "image/gif",
+        "bytes": 783965,
+        "sha256": "73d7b7305b841ca452b8c835072812dee333e8931f0c1b37b999368a807bd989",
+        "alt": {
+          "en": "Copper teapot on a rainy windowsill; rising steam forms a heart and dissolves.",
+          "zh-CN": "雨窗台上的铜茶壶，升起的蒸汽形成心形后散开。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-5-a-real-looping-teapot-gif",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Original 357×356 animated GIF: 12 distinct decoded frames, 180 ms each, 2.16 seconds total, infinite-loop metadata. Frame-by-frame review shows steam forming and dissolving a heart. Browser playback was documented during the 5 November source review; this audit rechecked the retained file and all frames. Flawless seamlessness and complete background immobility are not asserted.",
+      "zh-CN": "原始 357×356 动态 GIF：12 个不同解码帧，每帧 180 毫秒，总长 2.16 秒，含无限循环元数据。逐帧可见蒸汽形成心形后散开。11 月 5 日来源核查记录了浏览器播放，本次复核保留文件及全部帧。不宣称循环完全无缝或背景绝对静止。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The original article was inspected on 5 November 2026. This entry was reviewed against retained source evidence on 6 November; the page was not fetched again.",
+        "zh-CN": "原始文章于 2026 年 11 月 5 日核查；本条目于 11 月 6 日依据保留的来源证据复核，未重新访问网页。"
+      },
+      "media_note": {
+        "en": "The original source file(s) are archived unchanged. Format, byte count, SHA-256, full decode or SVG safety, and visual content were checked locally. Earlier source inspection and animation playback are documented in the source note.",
+        "zh-CN": "原始来源文件按原样存档。本地复核格式、字节数、SHA-256、完整解码或 SVG 安全性及视觉内容；较早的来源检查与动画播放记录见来源说明。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+    }
+  },
+  {
+    "id": "community-ozan-robin-wink-hat",
+    "status": "published",
+    "title": {
+      "en": "Robin cat wink and falling name hat",
+      "zh-CN": "Robin 猫眨眼与落下的姓名帽"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/ozansihay/status/2118238946412953985",
+      "author": "Ozan Sihay (@ozansihay)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "In his Images 2.6 post, Ozan identifies the attached animation as his own example made from a photo of his cat Robin and supplies its motion prompt. No variant is named. This is source attribution, not independent model verification.",
+        "zh-CN": "Ozan 在 Images 2.6 帖中明确说明该附件是用自家猫 Robin 照片制作的示例，并公开动作提示词。未注明具体版本。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/ozansihay/status/2118238946412953985"
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWV_FpeWcAA55uB.mp4",
+        "path": "assets/examples/community-ozan-robin-wink-hat/animation.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Gray cat winking and receiving a Robin cap",
+          "zh-CN": "灰猫眨眼并戴上 Robin 帽子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ozansihay/status/2118238946412953985",
+          "credit": "Ozan Sihay (@ozansihay)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "role": "output",
+        "mime_type": "video/mp4",
+        "bytes": 76729,
+        "sha256": "eb65fa982afe6ddc1a8f9c3cb69510cbdb895bc7d74e25aef35d1e2654205179"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWV_FpeWcAA55uB?format=webp&name=large",
+        "path": "assets/examples/community-ozan-robin-wink-hat/poster.webp",
+        "kind": "poster",
+        "alt": {
+          "en": "Static source poster for Robin cat wink and falling name hat",
+          "zh-CN": "《Robin 猫眨眼与落下的姓名帽》的原始静态海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ozansihay/status/2118238946412953985",
+          "credit": "Ozan Sihay (@ozansihay)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 32582,
+        "sha256": "706f79a3e88f47ffe19625b34d10bba3c97603ecc62b86819f9c30f1c4dfbf96"
+      }
+    ],
+    "notes": {
+      "en": "A gray cat winks before a cap labelled Robin drops onto its head. The original reference photo is not separately supplied. The public prompt is in the source post. This archived X attachment is MP4, not an original GIF; its WebP poster is separate.",
+      "zh-CN": "灰猫先眨一只眼，随后写着 Robin 的帽子落到头上。原始参考照片未单独提供。公开提示词位于原帖。存档的 X 动画附件为 MP4，并非原始 GIF；WebP 海报另行记录。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The retained original source capture was reviewed offline. Current live availability was not checked.",
+        "zh-CN": "离线复核已留存的原始来源记录；未检查当前在线可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+    }
+  },
+  {
+    "id": "community-mirochill-anime-dialogue-prototype",
+    "status": "published",
+    "title": {
+      "en": "Blue-haired maid dialogue prototype",
+      "zh-CN": "蓝发女仆对话动画原型"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/mirochill/status/2118328887348191491",
+      "author": "Mirochill (@mirochill)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator presents this attached GIF as an example of GPT Image 2.6 animation prototyping and mentions Higgsfield availability. No API record or variant is supplied; model attribution remains the creator’s claim.",
+        "zh-CN": "作者用该 GIF 附件说明 GPT Image 2.6 的动画原型用途，并提到 Higgsfield 可用。未提供 API 记录或具体版本，模型归因仅依据作者陈述。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXL-h0XgAAzDc-.mp4",
+        "path": "assets/examples/community-mirochill-anime-dialogue-prototype/animation.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Blue-haired anime maid changing expression with English dialogue subtitles",
+          "zh-CN": "蓝发动漫女仆改变表情并出现英文对白字幕"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/mirochill/status/2118328887348191491",
+          "credit": "Mirochill (@mirochill)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "role": "output",
+        "mime_type": "video/mp4",
+        "bytes": 55013,
+        "sha256": "0a6622b6a691fe3c95ce1dc63fff419771223629ad59d8a7c88bc811291b1ad3"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWXL-h0XgAAzDc-?format=webp&name=large",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static source poster for Blue-haired maid dialogue prototype",
+          "zh-CN": "《蓝发女仆对话动画原型》的原始静态海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://x.com/mirochill/status/2118328887348191491",
+          "credit": "Mirochill (@mirochill)",
+          "note": {
+            "en": "Link only; source media and derivatives are not redistributed. Consult the source and its terms. File properties and pixels are unverified unless explicitly stated.",
+            "zh-CN": "仅保留链接，不转载来源素材或衍生文件。请查看原来源及其条款。除明确说明外，文件属性和像素均未核实。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A blue-haired anime maid changes her mouth and expression while English dialogue subtitles appear. Seedance is proposed as a later refinement step, not documented as used here. Prompt and input are not public. The unchanged source attachment is MP4; the separate poster is link-only.",
+      "zh-CN": "蓝发动漫女仆改变口型与表情，画面出现英文对话字幕。Seedance 只是作者建议的后续精修步骤，不能据此认定已使用。未公开提示词和输入。原始附件为 MP4；单独海报仅保留链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The retained original source capture was reviewed offline. Current live availability was not checked.",
+        "zh-CN": "离线复核已留存的原始来源记录；未检查当前在线可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+    }
+  },
+  {
+    "id": "community-mirochill-ram-altman-animation",
+    "status": "published",
+    "title": {
+      "en": "Ram Altman memory-stick parody",
+      "zh-CN": "Ram Altman 内存条恶搞动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/mirochill/status/2118267971025944955",
+      "author": "Mirochill (@mirochill)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original creator labels this animation post GPT Image 2.6 GIF. Its quoted earlier still has no separate 2.6 attribution and is not counted as a generated output here. No variant is stated.",
+        "zh-CN": "原作者将此动画帖标为 GPT Image 2.6 GIF。引用的较早静图没有独立的 2.6 归因，因此不计为本案生成输出。未说明具体版本。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWZe0eWkAEYnsz.mp4",
+        "path": "assets/examples/community-mirochill-ram-altman-animation/animation.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "AI parody of Sam Altman biting a computer memory stick",
+          "zh-CN": "Sam Altman 咬电脑内存条的 AI 恶搞画面"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/mirochill/status/2118267971025944955",
+          "credit": "Mirochill (@mirochill)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "role": "output",
+        "mime_type": "video/mp4",
+        "bytes": 41981,
+        "sha256": "4c76bc22448d151a1545ac4fe05b1f7852be41d8f294ea99a405402b03d1b7cf"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/tweet_video_thumb/HWWZe0eWkAEYnsz?format=webp&name=large",
+        "path": null,
+        "kind": "poster",
+        "alt": {
+          "en": "Static source poster for Ram Altman memory-stick parody",
+          "zh-CN": "《Ram Altman 内存条恶搞动画》的原始静态海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://x.com/mirochill/status/2118267971025944955",
+          "credit": "Mirochill (@mirochill)",
+          "note": {
+            "en": "Link only; source media and derivatives are not redistributed. Consult the source and its terms. File properties and pixels are unverified unless explicitly stated.",
+            "zh-CN": "仅保留链接，不转载来源素材或衍生文件。请查看原来源及其条款。除明确说明外，文件属性和像素均未核实。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "An AI-made parody depicts Sam Altman biting a computer memory stick. This is a fabricated gag, not a real event. The quoted earlier image is context only; its input role is unverified. No prompt is public. The unchanged source attachment is MP4; the separate poster is link-only.",
+      "zh-CN": "AI 恶搞画面让 Sam Altman 咬一根电脑内存条，并非真实事件。引用的早期图片仅作上下文，其输入角色尚未核实。未公开提示词。原始附件为 MP4；单独海报仅保留链接。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-06",
+      "page_status": "unknown",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The retained original source capture was reviewed offline. Current live availability was not checked.",
+        "zh-CN": "离线复核已留存的原始来源记录；未检查当前在线可访问性。"
+      },
+      "media_note": {
+        "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
+        "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+    }
   }
 ]

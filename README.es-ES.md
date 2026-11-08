@@ -54,7 +54,7 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | [Personajes y coherencia](#category-characters-consistency) | 29 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 19 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 8 | 0 |
-| [GIF y animación](#category-gif-animation) | 87 | 0 |
+| [GIF y animación](#category-gif-animation) | 91 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **213** |
+| Casos con enlace a la fuente | **217** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **176** |
-| Prompts originales disponibles en la fuente | **161** |
+| Ejemplos según sus creadores | **180** |
+| Prompts originales disponibles en la fuente | **163** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **335** |
+| Archivos multimedia archivados localmente | **340** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Añadido | Caso | Evidencia |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modelo indicado por el creador |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -400,6 +400,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modelo indicado por el creador | Prompt no público |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 

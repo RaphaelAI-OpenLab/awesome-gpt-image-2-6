@@ -54,7 +54,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Figuren & Konsistenz](#category-characters-consistency) | 29 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 19 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 8 | 0 |
-| [GIF & Animation](#category-gif-animation) | 87 | 0 |
+| [GIF & Animation](#category-gif-animation) | 91 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **213** |
+| Beispiele mit Quellenverweisen | **217** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **176** |
-| An der Quelle verfügbare Original-Prompts | **161** |
+| Von Erstellern gemeldete Beispiele | **180** |
+| An der Quelle verfügbare Original-Prompts | **163** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **335** |
+| Lokal archivierte Mediendateien | **340** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -400,6 +400,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

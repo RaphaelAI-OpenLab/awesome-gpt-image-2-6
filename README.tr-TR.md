@@ -54,7 +54,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 29 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 19 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 8 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 87 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 91 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **213** |
+| Kaynak bağlantılı örnekler | **217** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **176** |
-| Kaynakta bulunan özgün istemler | **161** |
+| Üreticilerinin bildirdiği örnekler | **180** |
+| Kaynakta bulunan özgün istemler | **163** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **335** |
+| Yerel olarak arşivlenmiş medya dosyaları | **340** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -400,6 +400,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

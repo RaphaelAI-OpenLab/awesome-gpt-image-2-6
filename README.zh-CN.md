@@ -50,7 +50,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 29 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 19 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 8 | 0 |
-| [GIF 与动画](#category-gif-animation) | 87 | 0 |
+| [GIF 与动画](#category-gif-animation) | 91 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **213** |
+| 来源案例 | **217** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **176** |
-| 来源公开原始提示词 | **161** |
+| 社区作者自报案例 | **180** |
+| 来源公开原始提示词 | **163** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **335** |
+| 本地收录素材文件 | **340** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [铜茶壶心形蒸汽循环动画](cases/analyticsvidhya-copper-teapot-heart-gif/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [点赞爱心爆开](cases/ailingqu-like-heart-burst/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -396,6 +396,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [节日金毛犬摇尾循环](cases/veevid-dog-tail-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [墨线机器人草图挥手](cases/veevid-robot-sketch-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [香水瓶光线扫过循环](cases/veevid-perfume-light-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [铜茶壶心形蒸汽循环动画](cases/analyticsvidhya-copper-teapot-heart-gif/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Robin 猫眨眼与落下的姓名帽](cases/community-ozan-robin-wink-hat/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [蓝发女仆对话动画原型](cases/community-mirochill-anime-dialogue-prototype/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Ram Altman 内存条恶搞动画](cases/community-mirochill-ram-altman-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
