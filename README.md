@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 35 | 0 |
-| [Posters & typography](#category-posters-typography) | 36 | 0 |
+| [Brand & product visuals](#category-brand-products) | 64 | 0 |
+| [Posters & typography](#category-posters-typography) | 40 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 40 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 35 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 11 | 0 |
-| [GIF & animation](#category-gif-animation) | 115 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 55 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 36 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 12 | 0 |
+| [GIF & animation](#category-gif-animation) | 116 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **298** |
+| Source-linked cases | **349** |
 | Official examples | **37** |
-| Creator-reported examples | **261** |
-| Original prompts available at source | **215** |
+| Creator-reported examples | **312** |
+| Original prompts available at source | **216** |
 | Full prompts published here | **0** |
-| Locally archived media files | **459** |
+| Locally archived media files | **511** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model |
-| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model |
-| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model |
-| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model |
-| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model |
+| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model |
+| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model |
+| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Creator-reported model |
+| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Creator-reported model |
+| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Creator-reported model |
+| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,35 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Creator-reported model | Original prompt at source |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Creator-reported model | Original prompt at source |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Creator-reported model | Original prompt at source |
+| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Creator-reported model | Prompt availability unverified |
+| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Creator-reported model | Prompt availability unverified |
+| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Creator-reported model | Prompt availability unverified |
+| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Creator-reported model | Prompt availability unverified |
+| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Creator-reported model | Prompt availability unverified |
+| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Creator-reported model | Prompt availability unverified |
+| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Creator-reported model | Prompt availability unverified |
+| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Creator-reported model | Prompt availability unverified |
+| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Creator-reported model | Prompt availability unverified |
+| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Creator-reported model | Prompt availability unverified |
+| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Creator-reported model | Prompt availability unverified |
+| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Creator-reported model | Prompt availability unverified |
+| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Creator-reported model | Prompt availability unverified |
+| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Creator-reported model | Prompt availability unverified |
+| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Creator-reported model | Prompt availability unverified |
+| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Creator-reported model | Prompt availability unverified |
+| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Creator-reported model | Prompt availability unverified |
+| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Creator-reported model | Prompt availability unverified |
+| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Creator-reported model | Prompt availability unverified |
+| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Creator-reported model | Prompt availability unverified |
+| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Creator-reported model | Prompt availability unverified |
+| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Creator-reported model | Prompt availability unverified |
+| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Creator-reported model | Prompt availability unverified |
+| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Creator-reported model | Prompt availability unverified |
+| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Creator-reported model | Prompt availability unverified |
+| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Creator-reported model | Prompt availability unverified |
+| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Creator-reported model | Prompt availability unverified |
+| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model | Prompt availability unverified |
+| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-posters-typography"></a>
 
@@ -212,6 +241,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Creator-reported model | Original prompt at source |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Creator-reported model | Original prompt at source |
 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Creator-reported model | Original prompt at source |
+| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Creator-reported model | Prompt availability unverified |
+| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Creator-reported model | Prompt availability unverified |
+| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Creator-reported model | Prompt availability unverified |
+| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-infographics"></a>
 
@@ -299,6 +332,21 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Creator-reported model | Prompt not public |
 | [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Creator-reported model | Prompt not public |
 | [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Creator-reported model | Prompt not public |
+| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Creator-reported model | Prompt availability unverified |
+| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Creator-reported model | Prompt availability unverified |
+| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Creator-reported model | Prompt availability unverified |
+| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Creator-reported model | Prompt availability unverified |
+| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Creator-reported model | Prompt availability unverified |
+| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Creator-reported model | Prompt availability unverified |
+| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Creator-reported model | Prompt availability unverified |
+| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Creator-reported model | Prompt availability unverified |
+| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Creator-reported model | Prompt availability unverified |
+| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Creator-reported model | Prompt availability unverified |
+| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Creator-reported model | Prompt availability unverified |
+| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Creator-reported model | Prompt availability unverified |
+| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Creator-reported model | Prompt availability unverified |
+| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Creator-reported model | Prompt availability unverified |
+| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-markup-edits"></a>
 
@@ -341,6 +389,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Creator-reported model | Original prompt at source |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -359,6 +408,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Creator-reported model | Original prompt at source |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
 
@@ -481,6 +531,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Creator-reported model | Original prompt at source |
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Creator-reported model | Original prompt at source |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 35 | 0 |
-| [Carteles y tipografía](#category-posters-typography) | 36 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 64 | 0 |
+| [Carteles y tipografía](#category-posters-typography) | 40 | 0 |
 | [Infografías](#category-infographics) | 16 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 10 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 40 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 35 | 0 |
-| [SVG y recursos de diseño](#category-svg-design-assets) | 11 | 0 |
-| [GIF y animación](#category-gif-animation) | 115 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 55 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 36 | 0 |
+| [SVG y recursos de diseño](#category-svg-design-assets) | 12 | 0 |
+| [GIF y animación](#category-gif-animation) | 116 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **298** |
+| Casos con enlace a la fuente | **349** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **261** |
-| Prompts originales disponibles en la fuente | **215** |
+| Ejemplos según sus creadores | **312** |
+| Prompts originales disponibles en la fuente | **216** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **459** |
+| Archivos multimedia archivados localmente | **511** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Añadido | Caso | Evidencia |
 | --- | --- | --- |
-| 2026-11-06 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -173,6 +173,35 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
 <a id="category-posters-typography"></a>
 
@@ -216,6 +245,10 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
 <a id="category-infographics"></a>
 
@@ -303,6 +336,21 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 
 <a id="category-markup-edits"></a>
 
@@ -345,6 +393,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-svg-design-assets"></a>
 
@@ -363,6 +412,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-gif-animation"></a>
 
@@ -485,6 +535,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 
