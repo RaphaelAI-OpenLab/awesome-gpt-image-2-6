@@ -48,13 +48,13 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
 | [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 67 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 42 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 45 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 16 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 11 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 55 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 36 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 57 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 37 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 13 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 126 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **366** |
+| Trường hợp có liên kết nguồn | **374** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **329** |
-| Câu lệnh gốc có sẵn tại nguồn | **233** |
+| Ví dụ do tác giả báo cáo | **337** |
+| Câu lệnh gốc có sẵn tại nguồn | **234** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **536** |
+| Tệp tư liệu được lưu trữ cục bộ | **552** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -254,6 +254,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-infographics"></a>
 
@@ -357,6 +360,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-markup-edits"></a>
 
@@ -400,6 +405,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +559,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

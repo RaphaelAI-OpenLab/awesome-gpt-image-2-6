@@ -48,13 +48,13 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
 | [Visuels de marque et de produit](#category-brand-products) | 67 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 42 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 45 | 0 |
 | [Infographies](#category-infographics) | 16 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 11 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 55 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 36 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 57 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 37 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 13 | 0 |
-| [GIF et animation](#category-gif-animation) | 126 | 0 |
+| [GIF et animation](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **366** |
+| Cas avec liens vers les sources | **374** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **329** |
-| Prompts originaux disponibles à la source | **233** |
+| Exemples déclarés par leurs créateurs | **337** |
+| Prompts originaux disponibles à la source | **234** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **536** |
+| Fichiers multimédias archivés localement | **552** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -254,6 +254,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-infographics"></a>
 
@@ -357,6 +360,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-markup-edits"></a>
 
@@ -400,6 +405,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +559,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

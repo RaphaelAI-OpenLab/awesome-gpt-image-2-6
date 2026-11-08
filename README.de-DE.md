@@ -48,13 +48,13 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
 | [Marken- & Produktvisualisierungen](#category-brand-products) | 67 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 42 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 45 | 0 |
 | [Infografiken](#category-infographics) | 16 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 11 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 55 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 36 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 57 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 37 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 13 | 0 |
-| [GIF & Animation](#category-gif-animation) | 126 | 0 |
+| [GIF & Animation](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **366** |
+| Beispiele mit Quellenverweisen | **374** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **329** |
-| An der Quelle verfügbare Original-Prompts | **233** |
+| Von Erstellern gemeldete Beispiele | **337** |
+| An der Quelle verfügbare Original-Prompts | **234** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **536** |
+| Lokal archivierte Mediendateien | **552** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -254,6 +254,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-infographics"></a>
 
@@ -357,6 +360,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-markup-edits"></a>
 
@@ -400,6 +405,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +559,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 
