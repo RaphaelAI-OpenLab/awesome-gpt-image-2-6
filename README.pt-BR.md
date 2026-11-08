@@ -48,13 +48,13 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
 | [Imagens de marcas e produtos](#category-brand-products) | 17 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 18 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 19 | 0 |
 | [Infográficos](#category-infographics) | 9 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 3 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 22 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 12 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 13 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
-| [GIF e animação](#category-gif-animation) | 14 | 0 |
+| [GIF e animação](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **101** |
+| Casos com link para a fonte | **104** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **64** |
-| Prompts originais disponíveis na fonte | **78** |
+| Exemplos relatados pelos criadores | **67** |
+| Prompts originais disponíveis na fonte | **81** |
 | Prompts completos publicados aqui | **0** |
 | Arquivos de mídia arquivados localmente | **172** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo informado pelo criador |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo informado pelo criador |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

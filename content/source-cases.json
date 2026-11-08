@@ -8761,5 +8761,192 @@
       },
       "report_path": "docs/GPTIMAGEHUB_ACCESS_2026-11-06.md"
     }
+  },
+  {
+    "id": "veevid-snowman-wave",
+    "status": "published",
+    "title": {
+      "en": "Cartoon snowman waving loop",
+      "zh-CN": "卡通雪人挥手循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://veevid.ai/gpt-image-2-6",
+      "author": "Veevid AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid states that every image in this showcase came from GPT Image 2.6 on Veevid without retouching. This work appears in its named example section with a prompt. The individual variant is not established. Provider claim only, not independently reproduced.",
+        "zh-CN": "Veevid 声称此展示页图像均由平台上的 GPT Image 2.6 生成且未经修图；本作品在对应示例段落展示并附提示词。未确认该作品的具体变体。这是提供方声明，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/gif-snowman.gif",
+        "path": null,
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cartoon snowman waving, source-labelled GIF",
+          "zh-CN": "来源标注的卡通雪人挥手 GIF"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://veevid.ai/terms",
+          "credit": "Veevid AI",
+          "note": {
+            "en": "The observed Terms of Service link returned HTTP 403. Rights review remains unresolved; media was not requested or archived. This is not evidence of a redistribution prohibition.",
+            "zh-CN": "页面可见的服务条款链接返回 HTTP 403，使用条款尚未核清；未请求或存档媒体。这不等于已发现禁止转载条款。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Prompt retained only by source link. Media remains unrequested because the rights page was denied; file bytes, dimensions, animation playback and pixel-level deduplication are unverified. Named work and original asset URLs were checked against all existing cases. No native-generation or quality claim is independently verified.",
+      "zh-CN": "提示词仅链接原文。条款页访问被拒绝，因此未请求媒体，文件字节、尺寸、动画播放及像素级去重均未验证。已将作品主题及原始素材 URL 与现有案例核对。未独立核实原生生成或质量声明。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false
+  },
+  {
+    "id": "veevid-holiday-market-poster",
+    "status": "published",
+    "title": {
+      "en": "Winter Night Market poster",
+      "zh-CN": "冬夜集市海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://veevid.ai/gpt-image-2-6",
+      "author": "Veevid AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid states that every image in this showcase came from GPT Image 2.6 on Veevid without retouching. This work appears in its named example section with a prompt. The individual variant is not established. Provider claim only, not independently reproduced.",
+        "zh-CN": "Veevid 声称此展示页图像均由平台上的 GPT Image 2.6 生成且未经修图；本作品在对应示例段落展示并附提示词。未确认该作品的具体变体。这是提供方声明，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/hero-poster.webp",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Source-labelled Winter Night Market event poster",
+          "zh-CN": "来源标注的冬夜集市活动海报"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://veevid.ai/terms",
+          "credit": "Veevid AI",
+          "note": {
+            "en": "The observed Terms of Service link returned HTTP 403. Rights review remains unresolved; media was not requested or archived. This is not evidence of a redistribution prohibition.",
+            "zh-CN": "页面可见的服务条款链接返回 HTTP 403，使用条款尚未核清；未请求或存档媒体。这不等于已发现禁止转载条款。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Prompt retained only by source link. Media remains unrequested because the rights page was denied; file bytes, dimensions, animation playback and pixel-level deduplication are unverified. Named work and original asset URLs were checked against all existing cases. No native-generation or quality claim is independently verified.",
+      "zh-CN": "提示词仅链接原文。条款页访问被拒绝，因此未请求媒体，文件字节、尺寸、动画播放及像素级去重均未验证。已将作品主题及原始素材 URL 与现有案例核对。未独立核实原生生成或质量声明。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false
+  },
+  {
+    "id": "veevid-sneaker-suede-recolor",
+    "status": "published",
+    "title": {
+      "en": "Sneaker recolored to forest green suede",
+      "zh-CN": "运动鞋改为森林绿麂皮"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://veevid.ai/gpt-image-2-6",
+      "author": "Veevid AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Veevid states that every image in this showcase came from GPT Image 2.6 on Veevid without retouching. This work appears in its named example section with a prompt. The individual variant is not established. Provider claim only, not independently reproduced.",
+        "zh-CN": "Veevid 声称此展示页图像均由平台上的 GPT Image 2.6 生成且未经修图；本作品在对应示例段落展示并附提示词。未确认该作品的具体变体。这是提供方声明，未经独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://veevid.ai/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/sneaker-before.webp",
+        "path": null,
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "White leather sneaker input",
+          "zh-CN": "白色皮革运动鞋输入"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://veevid.ai/terms",
+          "credit": "Veevid AI",
+          "note": {
+            "en": "The observed Terms of Service link returned HTTP 403. Rights review remains unresolved; media was not requested or archived. This is not evidence of a redistribution prohibition.",
+            "zh-CN": "页面可见的服务条款链接返回 HTTP 403，使用条款尚未核清；未请求或存档媒体。这不等于已发现禁止转载条款。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cdn.veevid.ai/gpt-image-2-6-samples/sneaker-after.webp",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Forest green suede sneaker output",
+          "zh-CN": "森林绿麂皮运动鞋输出"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://veevid.ai/terms",
+          "credit": "Veevid AI",
+          "note": {
+            "en": "The observed Terms of Service link returned HTTP 403. Rights review remains unresolved; media was not requested or archived. This is not evidence of a redistribution prohibition.",
+            "zh-CN": "页面可见的服务条款链接返回 HTTP 403，使用条款尚未核清；未请求或存档媒体。这不等于已发现禁止转载条款。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Prompt retained only by source link. Media remains unrequested because the rights page was denied; file bytes, dimensions, animation playback and pixel-level deduplication are unverified. Named work and original asset URLs were checked against all existing cases. No native-generation or quality claim is independently verified. Before image is an editing reference, not a separately counted result; markup-edits is the existing edit taxonomy, not a markup-guidance claim.",
+      "zh-CN": "提示词仅链接原文。条款页访问被拒绝，因此未请求媒体，文件字节、尺寸、动画播放及像素级去重均未验证。已将作品主题及原始素材 URL 与现有案例核对。未独立核实原生生成或质量声明。 编辑前图像作为参考输入，不单独计为成果；分类仅沿用现有编辑类别，不表示使用标注引导。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-06",
+    "featured": false
   }
 ]

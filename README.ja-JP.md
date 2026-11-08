@@ -48,13 +48,13 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
 | [ブランド・製品ビジュアル](#category-brand-products) | 17 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 18 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 19 | 0 |
 | [インフォグラフィック](#category-infographics) | 9 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 3 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 12 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 13 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 14 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **101** |
+| 出典リンク付き事例 | **104** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **64** |
-| 出典で公開されている原文プロンプト | **78** |
+| 作者が報告した作例 | **67** |
+| 出典で公開されている原文プロンプト | **81** |
 | ここで公開している完全なプロンプト | **0** |
 | ローカルに保存済みのメディアファイル | **172** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

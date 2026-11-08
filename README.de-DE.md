@@ -48,13 +48,13 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
 | [Marken- & Produktvisualisierungen](#category-brand-products) | 17 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 18 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 19 | 0 |
 | [Infografiken](#category-infographics) | 9 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 3 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 12 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 13 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 14 | 0 |
+| [GIF & Animation](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **101** |
+| Beispiele mit Quellenverweisen | **104** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **64** |
-| An der Quelle verfügbare Original-Prompts | **78** |
+| Von Erstellern gemeldete Beispiele | **67** |
+| An der Quelle verfügbare Original-Prompts | **81** |
 | Hier veröffentlichte vollständige Prompts | **0** |
 | Lokal archivierte Mediendateien | **172** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

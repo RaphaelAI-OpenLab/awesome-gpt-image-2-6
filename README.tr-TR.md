@@ -48,13 +48,13 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
 | [Marka ve ürün görselleri](#category-brand-products) | 17 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 18 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 19 | 0 |
 | [İnfografikler](#category-infographics) | 9 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 22 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 12 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 13 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 14 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **101** |
+| Kaynak bağlantılı örnekler | **104** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **64** |
-| Kaynakta bulunan özgün istemler | **78** |
+| Üreticilerinin bildirdiği örnekler | **67** |
+| Kaynakta bulunan özgün istemler | **81** |
 | Burada yayımlanan tam istemler | **0** |
 | Yerel olarak arşivlenmiş medya dosyaları | **172** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

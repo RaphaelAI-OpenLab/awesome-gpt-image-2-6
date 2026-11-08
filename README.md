@@ -44,13 +44,13 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
 | [Brand & product visuals](#category-brand-products) | 17 | 0 |
-| [Posters & typography](#category-posters-typography) | 18 | 0 |
+| [Posters & typography](#category-posters-typography) | 19 | 0 |
 | [Infographics](#category-infographics) | 9 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 3 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 22 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 12 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 13 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 14 | 0 |
+| [GIF & animation](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **101** |
+| Source-linked cases | **104** |
 | Official examples | **37** |
-| Creator-reported examples | **64** |
-| Original prompts available at source | **78** |
+| Creator-reported examples | **67** |
+| Original prompts available at source | **81** |
 | Full prompts published here | **0** |
 | Locally archived media files | **172** |
 | Last source check (UTC) | **2026-11-06** |
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Creator-reported model |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -176,6 +176,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Creator-reported model | Original prompt at source |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Creator-reported model | Original prompt at source |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -250,6 +251,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Creator-reported model | Prompt not public |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model | Prompt not public |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Creator-reported model | Original prompt at source |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -284,6 +286,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Creator-reported model | Original prompt at source |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Creator-reported model | Prompt availability unverified |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 
