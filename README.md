@@ -44,13 +44,13 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
 | [Brand & product visuals](#category-brand-products) | 67 | 0 |
-| [Posters & typography](#category-posters-typography) | 42 | 0 |
+| [Posters & typography](#category-posters-typography) | 45 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 11 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 55 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 36 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 57 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 37 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 13 | 0 |
-| [GIF & animation](#category-gif-animation) | 126 | 0 |
+| [GIF & animation](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **366** |
+| Source-linked cases | **374** |
 | Official examples | **37** |
-| Creator-reported examples | **329** |
-| Original prompts available at source | **233** |
+| Creator-reported examples | **337** |
+| Original prompts available at source | **234** |
 | Full prompts published here | **0** |
-| Locally archived media files | **536** |
+| Locally archived media files | **552** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -250,6 +250,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Creator-reported model | Prompt availability unverified |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model | Original prompt at source |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Creator-reported model | Prompt not public |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Creator-reported model | Prompt not public |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-infographics"></a>
 
@@ -353,6 +356,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Creator-reported model | Prompt availability unverified |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Creator-reported model | Prompt availability unverified |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Creator-reported model | Prompt availability unverified |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Creator-reported model | Prompt not public |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-markup-edits"></a>
 
@@ -396,6 +401,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -549,6 +555,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Creator-reported model | Original prompt at source |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Creator-reported model | Original prompt at source |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Creator-reported model | Original prompt at source |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Creator-reported model | Prompt availability unverified |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

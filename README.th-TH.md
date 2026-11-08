@@ -48,13 +48,13 @@
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
 | [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 67 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 42 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 45 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 16 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 11 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 55 | 0 |
-| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 36 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 57 | 0 |
+| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 37 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 13 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 126 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **366** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **374** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **329** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **233** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **337** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **234** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **536** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **552** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -254,6 +254,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-infographics"></a>
 
@@ -357,6 +360,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-markup-edits"></a>
 
@@ -400,6 +405,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +559,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

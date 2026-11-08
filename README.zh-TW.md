@@ -48,13 +48,13 @@
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
 | [品牌與產品視覺](#category-brand-products) | 67 | 0 |
-| [海報與文字排版](#category-posters-typography) | 42 | 0 |
+| [海報與文字排版](#category-posters-typography) | 45 | 0 |
 | [資訊圖表](#category-infographics) | 16 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 11 | 0 |
-| [角色與一致性](#category-characters-consistency) | 55 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 36 | 0 |
+| [角色與一致性](#category-characters-consistency) | 57 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 37 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 126 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 128 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **366** |
+| 附來源連結的案例 | **374** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **329** |
-| 可於來源取得的原始提示詞 | **233** |
+| 創作者自述範例 | **337** |
+| 可於來源取得的原始提示詞 | **234** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **536** |
+| 已於本機封存的媒體檔案 | **552** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -254,6 +254,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-infographics"></a>
 
@@ -357,6 +360,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-markup-edits"></a>
 
@@ -400,6 +405,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +559,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 
