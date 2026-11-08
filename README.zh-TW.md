@@ -48,11 +48,11 @@
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
 | [品牌與產品視覺](#category-brand-products) | 17 | 0 |
-| [海報與文字排版](#category-posters-typography) | 19 | 0 |
-| [資訊圖表](#category-infographics) | 9 | 0 |
-| [室內設計與建築](#category-interiors-architecture) | 3 | 0 |
+| [海報與文字排版](#category-posters-typography) | 20 | 0 |
+| [資訊圖表](#category-infographics) | 10 | 0 |
+| [室內設計與建築](#category-interiors-architecture) | 4 | 0 |
 | [角色與一致性](#category-characters-consistency) | 22 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 13 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 14 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **104** |
+| 附來源連結的案例 | **108** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **67** |
-| 可於來源取得的原始提示詞 | **81** |
+| 創作者自述範例 | **71** |
+| 可於來源取得的原始提示詞 | **85** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **172** |
+| 已於本機封存的媒體檔案 | **177** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -181,6 +181,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | 官方說明文件 | 來源中的原始提示詞 |
 | [Living-room markup edit](cases/launch-fal/README.md) | 官方發布示範 | 來源中的原始提示詞 |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 

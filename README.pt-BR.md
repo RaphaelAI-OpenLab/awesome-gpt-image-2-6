@@ -48,11 +48,11 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
 | [Imagens de marcas e produtos](#category-brand-products) | 17 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 19 | 0 |
-| [Infográficos](#category-infographics) | 9 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 3 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 20 | 0 |
+| [Infográficos](#category-infographics) | 10 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 4 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 22 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 13 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 14 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animação](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **104** |
+| Casos com link para a fonte | **108** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **67** |
-| Prompts originais disponíveis na fonte | **81** |
+| Exemplos relatados pelos criadores | **71** |
+| Prompts originais disponíveis na fonte | **85** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **172** |
+| Arquivos de mídia arquivados localmente | **177** |
 | Última verificação das fontes (UTC) | **2026-11-06** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -181,6 +181,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentação oficial | Prompt original na fonte |
 | [Living-room markup edit](cases/launch-fal/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-svg-design-assets"></a>
 

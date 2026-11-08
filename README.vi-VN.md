@@ -48,11 +48,11 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
 | [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 17 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 19 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 9 | 0 |
-| [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 20 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 10 | 0 |
+| [Nội thất và kiến trúc](#category-interiors-architecture) | 4 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 13 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 14 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **104** |
+| Trường hợp có liên kết nguồn | **108** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **67** |
-| Câu lệnh gốc có sẵn tại nguồn | **81** |
+| Ví dụ do tác giả báo cáo | **71** |
+| Câu lệnh gốc có sẵn tại nguồn | **85** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **172** |
+| Tệp tư liệu được lưu trữ cục bộ | **177** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -181,6 +181,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Living-room markup edit](cases/launch-fal/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 

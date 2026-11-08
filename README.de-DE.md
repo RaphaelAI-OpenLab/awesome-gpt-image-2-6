@@ -48,11 +48,11 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
 | [Marken- & Produktvisualisierungen](#category-brand-products) | 17 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 19 | 0 |
-| [Infografiken](#category-infographics) | 9 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 3 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 20 | 0 |
+| [Infografiken](#category-infographics) | 10 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 4 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 13 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 14 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
 | [GIF & Animation](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **104** |
+| Beispiele mit Quellenverweisen | **108** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **67** |
-| An der Quelle verfügbare Original-Prompts | **81** |
+| Von Erstellern gemeldete Beispiele | **71** |
+| An der Quelle verfügbare Original-Prompts | **85** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **172** |
+| Lokal archivierte Mediendateien | **177** |
 | Letzte Quellenprüfung (UTC) | **2026-11-06** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -181,6 +181,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Offizielle Dokumentation | Original-Prompt an der Quelle |
 | [Living-room markup edit](cases/launch-fal/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 

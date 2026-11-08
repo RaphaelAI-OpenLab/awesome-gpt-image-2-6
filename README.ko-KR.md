@@ -48,11 +48,11 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
 | [브랜드 및 제품 비주얼](#category-brand-products) | 17 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 19 | 0 |
-| [인포그래픽](#category-infographics) | 9 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 3 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 20 | 0 |
+| [인포그래픽](#category-infographics) | 10 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 4 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 22 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 13 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 14 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
 | [GIF 및 애니메이션](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **104** |
+| 출처 링크가 있는 사례 | **108** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **67** |
-| 출처에서 제공하는 원문 프롬프트 | **81** |
+| 제작자가 보고한 예시 | **71** |
+| 출처에서 제공하는 원문 프롬프트 | **85** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **172** |
+| 로컬에 보관된 미디어 파일 | **177** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -181,6 +181,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | 공식 문서 | 출처의 원문 프롬프트 |
 | [Living-room markup edit](cases/launch-fal/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-svg-design-assets"></a>
 

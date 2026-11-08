@@ -44,11 +44,11 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 17 | 0 |
-| [海报与文字排版](#category-posters-typography) | 19 | 0 |
-| [信息图](#category-infographics) | 9 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 3 | 0 |
+| [海报与文字排版](#category-posters-typography) | 20 | 0 |
+| [信息图](#category-infographics) | 10 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 4 | 0 |
 | [角色与一致性](#category-characters-consistency) | 22 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 13 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 14 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF 与动画](#category-gif-animation) | 15 | 0 |
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **104** |
+| 来源案例 | **108** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **67** |
-| 来源公开原始提示词 | **81** |
+| 社区作者自报案例 | **71** |
+| 来源公开原始提示词 | **85** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **172** |
+| 本地收录素材文件 | **177** |
 | 最近来源核对（UTC） | **2026-11-06** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -177,6 +177,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [自行车季末促销广告](cases/yir-bicycle-sale-ad/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Blue Hour 爵士海报与日期编辑延续](cases/community-gptimagehub-jazz-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [根据文档简报生成的英印双语晚间菜单](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -193,6 +194,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Made 唱机分解图](cases/made-sunburst-turntable-diagram/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [里斯本天气界面：Flare 与 Sunburst 同提示对比](cases/community-gptimagehub-weather-ui/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [法案成为法律六步信息图对比](cases/community-gptimagehub-law-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [帝王蝶生命周期自然图鉴](cases/analyticsvidhya-monarch-life-cycle/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +205,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [室内更换椅子](cases/docs-room-chairs/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
 | [客厅标注编辑](cases/launch-fal/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
 | [Made 超广角夜市通道](cases/made-flare-market-aerial/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [蓝调时刻的雪山玻璃温室](cases/analyticsvidhya-snowy-greenhouse/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-characters-consistency"></a>
 
@@ -252,6 +255,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [客厅沙发改色双版本比较](cases/community-lightlyn-sofa-edit-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [标注引导的森林绿扶手椅编辑](cases/analyticsvidhya-markup-green-armchair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 

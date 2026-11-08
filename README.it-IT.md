@@ -48,11 +48,11 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
 | [Immagini per marchi e prodotti](#category-brand-products) | 17 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 19 | 0 |
-| [Infografiche](#category-infographics) | 9 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 3 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 20 | 0 |
+| [Infografiche](#category-infographics) | 10 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 4 | 0 |
 | [Personaggi e coerenza](#category-characters-consistency) | 22 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 13 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 14 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 6 | 0 |
 | [GIF e animazione](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **104** |
+| Casi con collegamenti alle fonti | **108** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **67** |
-| Prompt originali disponibili alla fonte | **81** |
+| Esempi dichiarati dai creatori | **71** |
+| Prompt originali disponibili alla fonte | **85** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **172** |
+| File multimediali archiviati localmente | **177** |
 | Ultima verifica delle fonti (UTC) | **2026-11-06** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -181,6 +181,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-svg-design-assets"></a>
 

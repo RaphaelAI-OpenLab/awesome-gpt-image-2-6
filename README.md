@@ -44,11 +44,11 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
 | [Brand & product visuals](#category-brand-products) | 17 | 0 |
-| [Posters & typography](#category-posters-typography) | 19 | 0 |
-| [Infographics](#category-infographics) | 9 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 3 | 0 |
+| [Posters & typography](#category-posters-typography) | 20 | 0 |
+| [Infographics](#category-infographics) | 10 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 4 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 22 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 13 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 14 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
 | [GIF & animation](#category-gif-animation) | 15 | 0 |
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **104** |
+| Source-linked cases | **108** |
 | Official examples | **37** |
-| Creator-reported examples | **67** |
-| Original prompts available at source | **81** |
+| Creator-reported examples | **71** |
+| Original prompts available at source | **85** |
 | Full prompts published here | **0** |
-| Locally archived media files | **172** |
+| Locally archived media files | **177** |
 | Last source check (UTC) | **2026-11-06** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -177,6 +177,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Creator-reported model | Original prompt at source |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -193,6 +194,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Creator-reported model | Original prompt at source |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Creator-reported model | Original prompt at source |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model | Original prompt at source |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -203,6 +205,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Official documentation | Original prompt at source |
 | [Living-room markup edit](cases/launch-fal/README.md) | Official launch demo | Original prompt at source |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model | Original prompt at source |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-characters-consistency"></a>
 
@@ -252,6 +255,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Creator-reported model | Prompt not public |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model | Original prompt at source |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 

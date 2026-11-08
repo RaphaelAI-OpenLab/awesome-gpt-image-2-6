@@ -48,11 +48,11 @@
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
 | [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 17 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 19 | 0 |
-| [อินโฟกราฟิก](#category-infographics) | 9 | 0 |
-| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 3 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 20 | 0 |
+| [อินโฟกราฟิก](#category-infographics) | 10 | 0 |
+| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 4 | 0 |
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 22 | 0 |
-| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 13 | 0 |
+| [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 14 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 6 | 0 |
 | [GIF และแอนิเมชัน](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **104** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **108** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **67** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **81** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **71** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **85** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **172** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **177** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-06** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -181,6 +181,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | เอกสารอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Living-room markup edit](cases/launch-fal/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-svg-design-assets"></a>
 
