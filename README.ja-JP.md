@@ -48,11 +48,11 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
 | [ブランド・製品ビジュアル](#category-brand-products) | 17 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 19 | 0 |
-| [インフォグラフィック](#category-infographics) | 9 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 3 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 20 | 0 |
+| [インフォグラフィック](#category-infographics) | 10 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 4 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
-| [マークアップ・部分編集](#category-markup-edits) | 13 | 0 |
+| [マークアップ・部分編集](#category-markup-edits) | 14 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **104** |
+| 出典リンク付き事例 | **108** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **67** |
-| 出典で公開されている原文プロンプト | **81** |
+| 作者が報告した作例 | **71** |
+| 出典で公開されている原文プロンプト | **85** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **172** |
+| ローカルに保存済みのメディアファイル | **177** |
 | 出典の最終確認日時（UTC） | **2026-11-06** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -181,6 +181,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | 公式ドキュメント | 出典にある原文プロンプト |
 | [Living-room markup edit](cases/launch-fal/README.md) | 公式公開デモ | 出典にある原文プロンプト |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-svg-design-assets"></a>
 

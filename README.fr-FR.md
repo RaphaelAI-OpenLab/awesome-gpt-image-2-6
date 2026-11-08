@@ -48,11 +48,11 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
 | [Visuels de marque et de produit](#category-brand-products) | 17 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 19 | 0 |
-| [Infographies](#category-infographics) | 9 | 0 |
-| [Intérieurs et architecture](#category-interiors-architecture) | 3 | 0 |
+| [Affiches et typographie](#category-posters-typography) | 20 | 0 |
+| [Infographies](#category-infographics) | 10 | 0 |
+| [Intérieurs et architecture](#category-interiors-architecture) | 4 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 22 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 13 | 0 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 14 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
 | [GIF et animation](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **104** |
+| Cas avec liens vers les sources | **108** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **67** |
-| Prompts originaux disponibles à la source | **81** |
+| Exemples déclarés par leurs créateurs | **71** |
+| Prompts originaux disponibles à la source | **85** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **172** |
+| Fichiers multimédias archivés localement | **177** |
 | Dernière vérification des sources (UTC) | **2026-11-06** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -181,6 +181,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentation officielle | Prompt original à la source |
 | [Living-room markup edit](cases/launch-fal/README.md) | Démonstration officielle de lancement | Prompt original à la source |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-svg-design-assets"></a>
 

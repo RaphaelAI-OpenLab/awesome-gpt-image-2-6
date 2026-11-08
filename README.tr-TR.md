@@ -48,11 +48,11 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
 | [Marka ve ürün görselleri](#category-brand-products) | 17 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 19 | 0 |
-| [İnfografikler](#category-infographics) | 9 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 20 | 0 |
+| [İnfografikler](#category-infographics) | 10 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 4 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 22 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 13 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 14 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **104** |
+| Kaynak bağlantılı örnekler | **108** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **67** |
-| Kaynakta bulunan özgün istemler | **81** |
+| Üreticilerinin bildirdiği örnekler | **71** |
+| Kaynakta bulunan özgün istemler | **85** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **172** |
+| Yerel olarak arşivlenmiş medya dosyaları | **177** |
 | Son kaynak kontrolü (UTC) | **2026-11-06** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -181,6 +181,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Living-room markup edit](cases/launch-fal/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 

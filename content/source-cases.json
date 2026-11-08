@@ -8948,5 +8948,319 @@
     "added_at": "2026-11-06",
     "verified_at": "2026-11-06",
     "featured": false
+  },
+  {
+    "id": "analyticsvidhya-snowy-greenhouse",
+    "status": "published",
+    "title": {
+      "en": "Snowy mountain greenhouse at blue hour",
+      "zh-CN": "蓝调时刻的雪山玻璃温室"
+    },
+    "category": "interiors-architecture",
+    "source": {
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original author explicitly presents this output among five hands-on Images 2.6 tests. Variant is not specified. This is author-reported attribution, not an independently reproduced model run.",
+        "zh-CN": "原作者明确将此输出列为五项 Images 2.6 实测之一。未注明具体版本。这是作者自报归因，并非独立复现的模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-4-h4tpnt.webp",
+        "path": "assets/examples/analyticsvidhya-snowy-greenhouse/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 487400,
+        "sha256": "829e62e712b08fc44dafc2785cce3a233d35b4d9447ee7e2de85505e9c8e64d1",
+        "alt": {
+          "en": "Warm-lit glass greenhouse and tropical plants on a snowy ridge, with a stone path and copper watering can.",
+          "zh-CN": "雪山山脊上的暖光玻璃温室与热带植物，门前有石径和铜质浇水壶。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "1672×941 WebP. The published output shows the snowy greenhouse, amber interior, stone path and watering can. Visual inspection is not a verification of physical or architectural accuracy.",
+      "zh-CN": "1672×941 WebP。公开输出呈现雪中温室、琥珀色室内灯光、石径和浇水壶。视觉检查不等于验证物理或建筑准确性。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened in a normal browser; author, test subsection and published prompt checked.",
+        "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
+      },
+      "media_note": {
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
+    }
+  },
+  {
+    "id": "analyticsvidhya-bilingual-evening-menu",
+    "status": "published",
+    "title": {
+      "en": "English–Hindi evening menu from a document brief",
+      "zh-CN": "根据文档简报生成的英印双语晚间菜单"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-2-a-bilingual-menu-from-a-pdf-brief",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original author explicitly presents this output among five hands-on Images 2.6 tests. Variant is not specified. This is author-reported attribution, not an independently reproduced model run.",
+        "zh-CN": "原作者明确将此输出列为五项 Images 2.6 实测之一。未注明具体版本。这是作者自报归因，并非独立复现的模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-2-a-bilingual-menu-from-a-pdf-brief"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-5-h4tpnt.webp",
+        "path": "assets/examples/analyticsvidhya-bilingual-evening-menu/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 90564,
+        "sha256": "cb354c831744d5d2c7eff8c645c6f49c622dfa9391c907e86cb81c2f692328ef",
+        "alt": {
+          "en": "Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.",
+          "zh-CN": "象牙白晚间菜单，带深绿色英文和印地语文字、五个卢比价格及柠檬插图。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-2-a-bilingual-menu-from-a-pdf-brief",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "1024×1536 WebP. The author reports uploading a one-page PDF; its exact copy is printed in the article, but the original PDF input is not available here. This is a reported ChatGPT document-to-image workflow, not evidence of native PDF input support in the image model. The five required dash separators are absent, as also acknowledged in the source FAQ; it is not exact-copy success.",
+      "zh-CN": "1024×1536 WebP。作者称上传了一页 PDF；文章展示其文字内容，但此处没有原始 PDF 输入文件。这是作者报告的 ChatGPT 文档转图像流程，不能据此推断图像模型原生支持 PDF 输入。五处指定的破折号分隔符缺失，原文常见问题也承认这一点，因此不能视为逐字准确复刻。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened in a normal browser; author, test subsection and published prompt checked.",
+        "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
+      },
+      "media_note": {
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
+    }
+  },
+  {
+    "id": "analyticsvidhya-markup-green-armchair",
+    "status": "published",
+    "title": {
+      "en": "Markup-guided forest-green armchair edit",
+      "zh-CN": "标注引导的森林绿扶手椅编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-3-a-markup-guided-room-photo-edit",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original author explicitly presents this output among five hands-on Images 2.6 tests. Variant is not specified. This is author-reported attribution, not an independently reproduced model run.",
+        "zh-CN": "原作者明确将此输出列为五项 Images 2.6 实测之一。未注明具体版本。这是作者自报归因，并非独立复现的模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-3-a-markup-guided-room-photo-edit"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-6-h4tpnt.webp",
+        "path": "assets/references/analyticsvidhya-markup-green-armchair/input.webp",
+        "kind": "image",
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 121922,
+        "sha256": "889eee21829377abc5a880988be7c2d518b3eeb5d173b371ad93b9afbc40c85b",
+        "alt": {
+          "en": "Original cream armchair with white ribbed cushion inside a red markup rectangle.",
+          "zh-CN": "红色标注矩形内的原始奶油色扶手椅及白色条纹靠垫。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-3-a-markup-guided-room-photo-edit",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      },
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-7-h4tpnt.webp",
+        "path": "assets/examples/analyticsvidhya-markup-green-armchair/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 71672,
+        "sha256": "a59fd046e4af88921ad68efb5b36564d650705b3a5b65dedf511f2935774be76",
+        "alt": {
+          "en": "Edited forest-green armchair with a white cushion; red markup removed.",
+          "zh-CN": "编辑后的森林绿扶手椅，保留白色靠垫并移除红色标注。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-3-a-markup-guided-room-photo-edit",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The 2048×1365 marked input and 1536×1024 output are archived separately. The main upholstery becomes green and the cushion remains white, but the chair’s lower foreground support becomes a broad green extension instead of preserving the original leg boundary. This is a useful edit example with a visible preservation error, not a perfect surgical edit.",
+      "zh-CN": "分别存档 2048×1365 标注输入和 1536×1024 输出。主要软包变绿，靠垫保持白色，但椅子前下方支撑变成宽大的绿色延伸部分，未保持原来的椅腿边界。这是带有可见保留错误的编辑示例，而非完美的精准局部编辑。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened in a normal browser; author, test subsection and published prompt checked.",
+        "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
+      },
+      "media_note": {
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
+    }
+  },
+  {
+    "id": "analyticsvidhya-monarch-life-cycle",
+    "status": "published",
+    "title": {
+      "en": "Monarch butterfly life-cycle field-guide plate",
+      "zh-CN": "帝王蝶生命周期自然图鉴"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original author explicitly presents this output among five hands-on Images 2.6 tests. Variant is not specified. This is author-reported attribution, not an independently reproduced model run.",
+        "zh-CN": "原作者明确将此输出列为五项 Images 2.6 实测之一。未注明具体版本。这是作者自报归因，并非独立复现的模型运行。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-8-h4tpnt.webp",
+        "path": "assets/examples/analyticsvidhya-monarch-life-cycle/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 369086,
+        "sha256": "a0545f3d98970534611793510da15e3a82fe04fadb1200f582b63fea8b7c36e0",
+        "alt": {
+          "en": "Watercolor monarch life-cycle plate with Egg, Caterpillar, Chrysalis and Adult labels and connecting arrows.",
+          "zh-CN": "水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration",
+          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "note": {
+            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
+            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "1536×1024 WebP. Four labeled stages occupy the requested corners with connecting arrows on ivory paper. The egg is shown on a visible leaf surface; the requested underside placement and biological accuracy are not independently established. Treat this as a generated educational illustration requiring expert review, not verified scientific reference material.",
+      "zh-CN": "1536×1024 WebP。象牙白背景上四个带标签阶段位于指定角落，并以箭头相连。卵位于可见叶面，提示词要求的叶片背面位置及生物学准确性未经独立确认。应将其视为需专家审核的生成教育插图，而非已验证的科学参考资料。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-05",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Original article opened in a normal browser; author, test subsection and published prompt checked.",
+        "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
+      },
+      "media_note": {
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+      },
+      "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
+    }
   }
 ]

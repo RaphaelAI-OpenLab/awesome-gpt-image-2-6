@@ -48,11 +48,11 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
 | [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 17 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 19 | 0 |
-| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 9 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 3 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 20 | 0 |
+| [इन्फ़ोग्राफ़िक्स](#category-infographics) | 10 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 4 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 22 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 13 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 14 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 6 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 15 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **104** |
+| स्रोत से जुड़े उदाहरण | **108** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **67** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **81** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **71** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **85** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **172** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **177** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-06** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -181,6 +181,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -197,6 +198,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-interiors-architecture"></a>
 
@@ -207,6 +209,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | आधिकारिक दस्तावेज़ | स्रोत पर मूल प्रॉम्प्ट |
 | [Living-room markup edit](cases/launch-fal/README.md) | आधिकारिक लॉन्च डेमो | स्रोत पर मूल प्रॉम्प्ट |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-characters-consistency"></a>
 
@@ -256,6 +259,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-svg-design-assets"></a>
 
