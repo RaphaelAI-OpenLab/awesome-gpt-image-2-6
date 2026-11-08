@@ -47,7 +47,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Posters & typography](#category-posters-typography) | 36 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 10 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 37 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 40 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 35 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 11 | 0 |
 | [GIF & animation](#category-gif-animation) | 115 | 0 |
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **295** |
+| Source-linked cases | **298** |
 | Official examples | **37** |
-| Creator-reported examples | **258** |
+| Creator-reported examples | **261** |
 | Original prompts available at source | **215** |
 | Full prompts published here | **0** |
-| Locally archived media files | **455** |
+| Locally archived media files | **459** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -296,6 +296,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Creator-reported model | Prompt not public |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Creator-reported model | Original prompt at source |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Creator-reported model | Original prompt at source |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Creator-reported model | Prompt not public |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Creator-reported model | Prompt not public |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-markup-edits"></a>
 

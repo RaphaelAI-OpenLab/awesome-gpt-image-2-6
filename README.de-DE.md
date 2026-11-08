@@ -51,7 +51,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Poster & Typografie](#category-posters-typography) | 36 | 0 |
 | [Infografiken](#category-infographics) | 16 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 10 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 37 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 40 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 35 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 11 | 0 |
 | [GIF & Animation](#category-gif-animation) | 115 | 0 |
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **295** |
+| Beispiele mit Quellenverweisen | **298** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **258** |
+| Von Erstellern gemeldete Beispiele | **261** |
 | An der Quelle verfügbare Original-Prompts | **215** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **455** |
+| Lokal archivierte Mediendateien | **459** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -300,6 +300,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-markup-edits"></a>
 

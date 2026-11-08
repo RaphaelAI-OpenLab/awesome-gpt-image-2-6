@@ -51,7 +51,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Affiches et typographie](#category-posters-typography) | 36 | 0 |
 | [Infographies](#category-infographics) | 16 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 10 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 37 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 40 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 35 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 11 | 0 |
 | [GIF et animation](#category-gif-animation) | 115 | 0 |
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **295** |
+| Cas avec liens vers les sources | **298** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **258** |
+| Exemples déclarés par leurs créateurs | **261** |
 | Prompts originaux disponibles à la source | **215** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **455** |
+| Fichiers multimédias archivés localement | **459** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -300,6 +300,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modèle déclaré par le créateur | Prompt non public |
 
 <a id="category-markup-edits"></a>
 

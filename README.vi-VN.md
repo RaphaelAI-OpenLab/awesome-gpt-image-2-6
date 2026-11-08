@@ -51,7 +51,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Áp phích và nghệ thuật chữ](#category-posters-typography) | 36 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 16 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 10 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 37 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 40 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 35 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 11 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 115 | 0 |
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **295** |
+| Trường hợp có liên kết nguồn | **298** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **258** |
+| Ví dụ do tác giả báo cáo | **261** |
 | Câu lệnh gốc có sẵn tại nguồn | **215** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **455** |
+| Tệp tư liệu được lưu trữ cục bộ | **459** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -300,6 +300,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-markup-edits"></a>
 

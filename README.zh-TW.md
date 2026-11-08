@@ -51,7 +51,7 @@
 | [海報與文字排版](#category-posters-typography) | 36 | 0 |
 | [資訊圖表](#category-infographics) | 16 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 10 | 0 |
-| [角色與一致性](#category-characters-consistency) | 37 | 0 |
+| [角色與一致性](#category-characters-consistency) | 40 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 35 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 11 | 0 |
 | [GIF 與動畫](#category-gif-animation) | 115 | 0 |
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **295** |
+| 附來源連結的案例 | **298** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **258** |
+| 創作者自述範例 | **261** |
 | 可於來源取得的原始提示詞 | **215** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **455** |
+| 已於本機封存的媒體檔案 | **459** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -300,6 +300,9 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-markup-edits"></a>
 
