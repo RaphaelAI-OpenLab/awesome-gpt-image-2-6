@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 22 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 23 | 0 |
 | [Áp phích và nghệ thuật chữ](#category-posters-typography) | 26 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 11 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 5 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 27 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 17 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 44 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 7 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **158** |
+| Trường hợp có liên kết nguồn | **164** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **121** |
-| Câu lệnh gốc có sẵn tại nguồn | **113** |
+| Ví dụ do tác giả báo cáo | **127** |
+| Câu lệnh gốc có sẵn tại nguồn | **114** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **251** |
+| Tệp tư liệu được lưu trữ cục bộ | **257** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -160,6 +160,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 22 | 0 |
+| [Brand & product visuals](#category-brand-products) | 23 | 0 |
 | [Posters & typography](#category-posters-typography) | 26 | 0 |
 | [Infographics](#category-infographics) | 11 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 27 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 17 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 44 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 7 | 0 |
+| [GIF & animation](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **158** |
+| Source-linked cases | **164** |
 | Official examples | **37** |
-| Creator-reported examples | **121** |
-| Original prompts available at source | **113** |
+| Creator-reported examples | **127** |
+| Original prompts available at source | **114** |
 | Full prompts published here | **0** |
-| Locally archived media files | **251** |
+| Locally archived media files | **257** |
 | Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -156,6 +156,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Creator-reported model | Original prompt at source |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Creator-reported model | Prompt not public |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -290,6 +291,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model | Original prompt at source |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
 
@@ -341,6 +343,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Creator-reported model | Prompt not public |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Creator-reported model | Prompt availability unverified |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Creator-reported model | Prompt availability unverified |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Creator-reported model | Prompt availability unverified |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Creator-reported model | Prompt availability unverified |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

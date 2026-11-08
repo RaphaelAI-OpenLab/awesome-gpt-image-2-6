@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 22 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 23 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 26 | 0 |
 | [インフォグラフィック](#category-infographics) | 11 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 5 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 27 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 17 | 0 |
-| [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 44 | 0 |
+| [SVG・デザイン素材](#category-svg-design-assets) | 7 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **158** |
+| 出典リンク付き事例 | **164** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **121** |
-| 出典で公開されている原文プロンプト | **113** |
+| 作者が報告した作例 | **127** |
+| 出典で公開されている原文プロンプト | **114** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **251** |
+| ローカルに保存済みのメディアファイル | **257** |
 | 出典の最終確認日時（UTC） | **2026-11-08** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -160,6 +160,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

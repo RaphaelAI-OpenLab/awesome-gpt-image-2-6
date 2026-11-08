@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 22 | 0 |
+| [品牌与商品](#category-brand-products) | 23 | 0 |
 | [海报与文字排版](#category-posters-typography) | 26 | 0 |
 | [信息图](#category-infographics) | 11 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 5 | 0 |
 | [角色与一致性](#category-characters-consistency) | 27 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 17 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 44 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 7 | 0 |
+| [GIF 与动画](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **158** |
+| 来源案例 | **164** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **121** |
-| 来源公开原始提示词 | **113** |
+| 社区作者自报案例 | **127** |
+| 来源公开原始提示词 | **114** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **251** |
+| 本地收录素材文件 | **257** |
 | 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -156,6 +156,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [彩虹茶杯与猫](cases/community-flixly-rainbow-teacups/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [鼠尾草绿到陶土橙瓶子编辑](cases/omniakey-bottle-color-edit/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [水中修表微距测试](cases/community-hn-watchmaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -290,6 +291,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Harbor Roast 矢量标志](cases/community-lightlyn-coffee-logo-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [六枚天气 SVG 图标](cases/community-lightlyn-weather-icons-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [将咖啡馆照片转换为矢量插画](cases/community-lightlyn-latte-vector-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [紫色狐狸与新闻面板 SVG](cases/ai-garage-fox-news-vector/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
 <a id="category-gif-animation"></a>
 
@@ -341,6 +343,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Sunburst 提灯猴循环](cases/sogni-sunburst-lantern-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Flare 提灯猴循环](cases/sogni-flare-lantern-loop/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [剪纸狐狸挥手循环](cases/omniakey-paper-fox-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [风车叶片旋转 GIF](cases/community-hn-windmill/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [鹰振翅 GIF](cases/community-hn-eagle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [国际象棋开局 GIF 测试](cases/community-hn-chess/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [雪花球内哈士奇嚎叫 GIF](cases/community-hn-husky/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

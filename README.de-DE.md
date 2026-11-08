@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 22 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 23 | 0 |
 | [Poster & Typografie](#category-posters-typography) | 26 | 0 |
 | [Infografiken](#category-infographics) | 11 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 27 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 17 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 44 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 7 | 0 |
+| [GIF & Animation](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **158** |
+| Beispiele mit Quellenverweisen | **164** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **121** |
-| An der Quelle verfügbare Original-Prompts | **113** |
+| Von Erstellern gemeldete Beispiele | **127** |
+| An der Quelle verfügbare Original-Prompts | **114** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **251** |
+| Lokal archivierte Mediendateien | **257** |
 | Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -160,6 +160,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

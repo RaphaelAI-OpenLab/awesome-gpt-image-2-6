@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 22 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 23 | 0 |
 | [포스터 및 타이포그래피](#category-posters-typography) | 26 | 0 |
 | [인포그래픽](#category-infographics) | 11 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 5 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 27 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 17 | 0 |
-| [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 44 | 0 |
+| [SVG 및 디자인 에셋](#category-svg-design-assets) | 7 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **158** |
+| 출처 링크가 있는 사례 | **164** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **121** |
-| 출처에서 제공하는 원문 프롬프트 | **113** |
+| 제작자가 보고한 예시 | **127** |
+| 출처에서 제공하는 원문 프롬프트 | **114** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **251** |
+| 로컬에 보관된 미디어 파일 | **257** |
 | 최근 출처 확인 일시(UTC) | **2026-11-08** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -160,6 +160,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

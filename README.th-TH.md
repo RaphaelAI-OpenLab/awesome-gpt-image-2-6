@@ -47,14 +47,14 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 22 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 23 | 0 |
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 26 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 11 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 5 | 0 |
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 27 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 17 | 0 |
-| [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 6 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 44 | 0 |
+| [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 7 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **158** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **164** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **121** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **113** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **127** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **114** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **251** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **257** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-08** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -160,6 +160,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 22 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 23 | 0 |
 | [Afişler ve tipografi](#category-posters-typography) | 26 | 0 |
 | [İnfografikler](#category-infographics) | 11 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 5 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 27 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 17 | 0 |
-| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 44 | 0 |
+| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 7 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 48 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **158** |
+| Kaynak bağlantılı örnekler | **164** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **121** |
-| Kaynakta bulunan özgün istemler | **113** |
+| Üreticilerinin bildirdiği örnekler | **127** |
+| Kaynakta bulunan özgün istemler | **114** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **251** |
+| Yerel olarak arşivlenmiş medya dosyaları | **257** |
 | Son kaynak kontrolü (UTC) | **2026-11-08** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -160,6 +160,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -294,6 +295,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
 <a id="category-gif-animation"></a>
 
@@ -345,6 +347,10 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 
