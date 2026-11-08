@@ -54,7 +54,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 57 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 39 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 13 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 129 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **380** |
+| Trường hợp có liên kết nguồn | **383** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **343** |
-| Câu lệnh gốc có sẵn tại nguồn | **236** |
+| Ví dụ do tác giả báo cáo | **346** |
+| Câu lệnh gốc có sẵn tại nguồn | **237** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **552** |
+| Tệp tư liệu được lưu trữ cục bộ | **560** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -567,6 +567,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

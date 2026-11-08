@@ -31168,5 +31168,353 @@
       },
       "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "community-kiki-tanjiro-pixel-loop",
+    "status": "published",
+    "title": {
+      "en": "Tanjiro pixel-art water-slash loop",
+      "zh-CN": "炭治郎像素风水刃循环动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Mayz1169/status/2118245929505669260",
+      "author": "Kiki / Mayz (@Mayz1169)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The exact creator post says GPT Image 2.6 and that the creator tried it with Tanjiro, attaching this MP4. The known same-author reply supplies the full actual reference-guided pixel-art prompt. No API model variant, request log or independently verified model snapshot is available. Another author’s Sunburst reply and the separately quoted heartbeat work are not evidence about this result.",
+        "zh-CN": "准确原帖明确提到 GPT Image 2.6，并表示用炭治郎测试，附有本MP4。已知同作者回复提供完整的参考图引导像素风提示词。无API具体版本、请求日志或独立核实模型快照；其他作者的Sunburst回复及另行引用的心跳舞不作为本作品版本证据。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/Mayz1169/status/2118246507128541553"
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWEoGRbUAANzvU.mp4",
+        "path": "assets/examples/community-kiki-tanjiro-pixel-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Pixel-art swordsman swinging a blade through a curling blue water effect.",
+          "zh-CN": "像素风剑士挥刀穿过弯曲蓝色水流效果。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118245929505669260",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 243250,
+        "sha256": "a16859c380920aa7008795fd24ba7475a27183ecdfbc358e5435ceb1da3d0ba4",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWEpmba0AAmqWc?format=webp&name=large",
+        "path": null,
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Source-attached character reference; file retrieval unresolved.",
+          "zh-CN": "来源附带角色参考图，文件获取尚未完成。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://x.com/Mayz1169/status/2118245929505669260",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "The reference remains a source link only after a historical HTTP403 and supported-save timeout. No retry, alternate fetch or restoration was attempted in this batch.",
+            "zh-CN": "参考图在历史HTTP403及支持的保存操作超时后继续仅链接。本批未重试、换路抓取或恢复。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One reference-guided sword-and-water loop, 912 × 784 MP4 with 12 decoded frames and 1.46 seconds container duration, without audio. The full prompt asks for a downloadable GIF; X serves the attachment as MP4, so this is not presented as the original GIF. All 12 frames were visually inspected, not watched in real-time playback. The reference remains link-only after the historical 403 and browser-save timeout; it was not requested or restored. The quoted heartbeat comparison is a separate work.",
+      "zh-CN": "一条参考图引导的挥剑水流循环，MP4为912×784，解码12帧、容器时长1.46秒，无音轨。完整提示词请求可下载GIF，但X提供MP4附件，因此不称为原始GIF。全部12帧已目视检查，未实时播放。参考图因历史403及浏览器保存超时继续仅链接，未请求或恢复。被引用的心跳舞对比是另一作品。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "partial",
+      "page_note": {
+        "en": "The exact already-known primary post returned HTTP200 with actual creator text and attachment markup. The relevant existing prompt/reply chain was checked. No new cases or restricted prior X posts were searched or opened.",
+        "zh-CN": "已有准确原帖返回HTTP200，包含真实作者文字及附件标记；核对相关已有提示词及回复链。未搜索新案例或打开此前受限的其他X帖。"
+      },
+      "media_note": {
+        "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
+        "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
+      },
+      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-kiki-heartbeat-dance-comparison",
+    "status": "published",
+    "title": {
+      "en": "Heartbeat dance modes: source poster",
+      "zh-CN": "心跳舞模式对比：来源封面"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Mayz1169/status/2118241781074862569",
+      "author": "Kiki / Mayz (@Mayz1169)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator’s exact post explicitly says GPT Image 2.6 was used through Codex for this heartbeat-dance comparison. The attached poster labels Low, Medium and High. The API variant and meaning of these mode labels are not specified; they are not mapped to quality or complexity settings. Creator attribution only, not independent reproduction.",
+        "zh-CN": "作者准确原帖明确写使用GPT Image 2.6，经Codex制作此心跳舞对比。附件封面标为Low、Medium、High。未注明API版本或这些模式标签对应的参数，不映射为quality或complexity设置。仅为作者归属，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2118233812392144896/img/fVNePRmjvUhk3tcZ?format=webp&name=medium",
+        "path": "assets/examples/community-kiki-heartbeat-dance-comparison/poster-01.webp",
+        "kind": "poster",
+        "role": "output",
+        "alt": {
+          "en": "Static three-column Low, Medium and High poster with a pink-haired character.",
+          "zh-CN": "粉发角色按 Low、Medium、High 三列排列的静态封面。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118241781074862569",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 42342,
+        "sha256": "011012d4c88666e60f75d5fd6ab486022d31a70013a993b0fbe7307a192594a8",
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "One three-panel comparison, retained only as its original 1200 × 675 WebP video poster. The image was decoded and visually inspected. The current public page exposes a poster but no playable video URL for this attachment; no video was fetched, reconstructed or claimed to have been watched. Three columns do not become three cases. Full original prompt availability remains unverified.",
+      "zh-CN": "一组三面板对比，仅保留原始1200×675 WebP视频封面，已解码并目视检查。当前公开页面对此附件只暴露封面、无可播放视频URL；未抓取、重建或声称观看视频。三个栏位不拆为三条案例。完整原始提示词仍待核实。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The exact already-known primary post returned HTTP200 with actual creator text and attachment markup. The relevant existing prompt/reply chain was checked. No new cases or restricted prior X posts were searched or opened.",
+        "zh-CN": "已有准确原帖返回HTTP200，包含真实作者文字及附件标记；核对相关已有提示词及回复链。未搜索新案例或打开此前受限的其他X帖。"
+      },
+      "media_note": {
+        "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
+        "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
+      },
+      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-kiki-malfoid-mood-stickers",
+    "status": "published",
+    "title": {
+      "en": "Six Miss Malfoid mood sticker loops",
+      "zh-CN": "六段 Miss Malfoid 情绪贴纸循环动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Mayz1169/status/2118355858208010412",
+      "author": "Kiki / Mayz (@Mayz1169)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator’s collection post explicitly states that these Miss Malfoid mood stickers were made with GPT Image 2.6. Its same-author reply chain maps all six retained MP4 URLs to six individual stickers. No Flare/Sunburst variant or exact generation prompt is provided. This is creator attribution, not independent model verification.",
+        "zh-CN": "作者合集原帖明确表示这些Miss Malfoid情绪贴纸由GPT Image 2.6制作。同作者回复链把六个留存MP4地址对应到六个独立贴纸。未提供Flare/Sunburst版本或准确生成提示词。仅为作者归属，不是独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXqUTNaIAAd2o8.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character blushing and covering her face.",
+          "zh-CN": "猫耳 Q 版角色脸红并遮住脸。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 140592,
+        "sha256": "33c4bf1f40de2a054a5c0fb41ea4b5453648ca2ae9eaaf032912f4dd2003a1e1",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXr89xbgAAStIq.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-02.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character bristling in anger.",
+          "zh-CN": "猫耳 Q 版角色炸毛生气。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 87616,
+        "sha256": "58eb1b7ad638e7d639853d8c0ee3b9ff982e78486669dc1ed71cf144e8e9b039",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXsBqYaEAAVDGn.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-03.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character crossing her arms dismissively.",
+          "zh-CN": "猫耳 Q 版角色抱臂表现不屑。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 89618,
+        "sha256": "f75303b6b72d9c4f58c87dad0f843481c69018cc6198b8c521cc9871637de9f9",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXsIwpasAA_BpF.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-04.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character crying with large tears.",
+          "zh-CN": "猫耳 Q 版角色流下大颗泪水哭泣。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 116462,
+        "sha256": "8983670d9ae35a2ba3d995ab75bd36a3c809573d791f82739cfee2f522f81aaf",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXsOUQakAA4Ay2.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-05.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character giving a pleased reaction.",
+          "zh-CN": "猫耳 Q 版角色做出得意反应。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 67527,
+        "sha256": "e6c9a6df82e0fb7189bf26fb4d78105316b871fbbe2efcc07942b3bb6b7df72f",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWXsTMQbcAAmNOJ.mp4",
+        "path": "assets/examples/community-kiki-malfoid-mood-stickers/source-06.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cat-eared chibi character making a green heart gesture.",
+          "zh-CN": "猫耳 Q 版角色做出绿色爱心手势。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Mayz1169/status/2118355858208010412",
+          "credit": "Kiki / Mayz (@Mayz1169)",
+          "note": {
+            "en": "Unmodified public-source file, matched byte for byte to the retained historical original and attributed to its creator. No explicit redistribution licence was verified. Attribution and public availability are not permission; the repository MIT licence excludes this media.",
+            "zh-CN": "原样保存的公开来源文件，与历史原件逐字节一致并保留作者署名。未核实明确转载许可。署名及公开可见不等于许可，仓库MIT不覆盖此素材。"
+          }
+        },
+        "bytes": 64835,
+        "sha256": "0fa99f5c52d3f1a1776d2af28794774276073ea6197aba664d21f2a81f6ac83f",
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "One six-sticker collection, not six cases: shy face-covering, jealousy, folded arms, crying, smug laughter and a hand-heart. The six original MP4 files are 480 × 480, contain 17/13/12/17/12/13 decoded frames and last about 2.1–2.5 seconds each, without audio. Every frame was visually inspected; no real-time playback claim is made. The main montage video has no playable URL in the inspected page and is excluded. The separate Reddit summer-animation entry has no retained media and is access-blocked, so visual deduplication against it remains unresolved; that page was not revisited.",
+      "zh-CN": "一组六个贴纸，不拆成六条：害羞遮脸、嫉妒、抱臂、哭泣、得意笑和手指爱心。六个原始MP4均480×480，分别解码17/13/12/17/12/13帧，每个约2.1至2.5秒，无音轨。所有帧已目视检查，不声称实时播放。所查页面中主合集视频没有可播放URL，予以排除。另一个Reddit夏日动画条目没有留存媒体且访问受限，无法完成与它的视觉去重，未重访该页。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The exact already-known primary post returned HTTP200 with actual creator text and attachment markup. The relevant existing prompt/reply chain was checked. No new cases or restricted prior X posts were searched or opened.",
+        "zh-CN": "已有准确原帖返回HTTP200，包含真实作者文字及附件标记；核对相关已有提示词及回复链。未搜索新案例或打开此前受限的其他X帖。"
+      },
+      "media_note": {
+        "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
+        "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
+      },
+      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+    }
   }
 ]

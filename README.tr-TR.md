@@ -54,7 +54,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 57 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 39 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 13 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 129 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 132 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **380** |
+| Kaynak bağlantılı örnekler | **383** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **343** |
-| Kaynakta bulunan özgün istemler | **236** |
+| Üreticilerinin bildirdiği örnekler | **346** |
+| Kaynakta bulunan özgün istemler | **237** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **552** |
+| Yerel olarak arşivlenmiş medya dosyaları | **560** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -567,6 +567,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 
