@@ -54,7 +54,7 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | [Personajes y coherencia](#category-characters-consistency) | 26 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 18 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 8 | 0 |
-| [GIF y animación](#category-gif-animation) | 43 | 0 |
+| [GIF y animación](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **159** |
+| Casos con enlace a la fuente | **197** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **122** |
-| Prompts originales disponibles en la fuente | **107** |
+| Ejemplos según sus creadores | **160** |
+| Prompts originales disponibles en la fuente | **145** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **271** |
+| Archivos multimedia archivados localmente | **312** |
 | Última comprobación de fuentes (UTC) | **2026-11-08** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Añadido | Caso | Evidencia |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -346,6 +346,44 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 

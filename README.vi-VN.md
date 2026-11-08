@@ -54,7 +54,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 26 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 18 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 8 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 43 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 81 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **159** |
+| Trường hợp có liên kết nguồn | **197** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **122** |
-| Câu lệnh gốc có sẵn tại nguồn | **107** |
+| Ví dụ do tác giả báo cáo | **160** |
+| Câu lệnh gốc có sẵn tại nguồn | **145** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **271** |
+| Tệp tư liệu được lưu trữ cục bộ | **312** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -346,6 +346,44 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Corgi chasing its tail](cases/kavel-corgi/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Flat character stretch routine](cases/kavel-stretch/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
