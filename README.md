@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 67 | 0 |
-| [Posters & typography](#category-posters-typography) | 42 | 0 |
+| [Brand & product visuals](#category-brand-products) | 68 | 0 |
+| [Posters & typography](#category-posters-typography) | 44 | 0 |
 | [Infographics](#category-infographics) | 16 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 11 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 55 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 36 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 38 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 13 | 0 |
-| [GIF & animation](#category-gif-animation) | 126 | 0 |
+| [GIF & animation](#category-gif-animation) | 127 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **366** |
+| Source-linked cases | **372** |
 | Official examples | **37** |
-| Creator-reported examples | **329** |
-| Original prompts available at source | **233** |
+| Creator-reported examples | **335** |
+| Original prompts available at source | **235** |
 | Full prompts published here | **0** |
 | Locally archived media files | **536** |
 | Last source check (UTC) | **2026-11-09** |
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Creator-reported model |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Creator-reported model |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Creator-reported model | Original prompt at source |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Creator-reported model | Original prompt at source |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Creator-reported model | Original prompt at source |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-posters-typography"></a>
 
@@ -250,6 +251,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Creator-reported model | Prompt availability unverified |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Creator-reported model | Original prompt at source |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Creator-reported model | Original prompt at source |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Creator-reported model | Prompt availability unverified |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-infographics"></a>
 
@@ -396,6 +399,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Creator-reported model | Original prompt at source |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Creator-reported model | Original prompt at source |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Creator-reported model | Prompt availability unverified |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -549,6 +554,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Creator-reported model | Original prompt at source |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Creator-reported model | Original prompt at source |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Creator-reported model | Original prompt at source |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

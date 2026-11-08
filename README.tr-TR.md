@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 67 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 42 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 68 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 44 | 0 |
 | [İnfografikler](#category-infographics) | 16 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 11 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 55 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 36 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 38 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 13 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 126 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 127 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **366** |
+| Kaynak bağlantılı örnekler | **372** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **329** |
-| Kaynakta bulunan özgün istemler | **233** |
+| Üreticilerinin bildirdiği örnekler | **335** |
+| Kaynakta bulunan özgün istemler | **235** |
 | Burada yayımlanan tam istemler | **0** |
 | Yerel olarak arşivlenmiş medya dosyaları | **536** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 <a id="category-posters-typography"></a>
 
@@ -254,6 +255,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 <a id="category-infographics"></a>
 
@@ -400,6 +403,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +558,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

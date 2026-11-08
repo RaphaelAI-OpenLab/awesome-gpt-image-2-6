@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 67 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 42 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 68 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 44 | 0 |
 | [Infográficos](#category-infographics) | 16 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 11 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 55 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 36 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 38 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 13 | 0 |
-| [GIF e animação](#category-gif-animation) | 126 | 0 |
+| [GIF e animação](#category-gif-animation) | 127 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **366** |
+| Casos com link para a fonte | **372** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **329** |
-| Prompts originais disponíveis na fonte | **233** |
+| Exemplos relatados pelos criadores | **335** |
+| Prompts originais disponíveis na fonte | **235** |
 | Prompts completos publicados aqui | **0** |
 | Arquivos de mídia arquivados localmente | **536** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 
 | Adicionado | Caso | Evidência |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo informado pelo criador |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modelo informado pelo criador |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modelo informado pelo criador |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 
 <a id="category-posters-typography"></a>
 
@@ -254,6 +255,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 
 <a id="category-infographics"></a>
 
@@ -400,6 +403,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +558,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

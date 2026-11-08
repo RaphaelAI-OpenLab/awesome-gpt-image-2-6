@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 67 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 42 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 68 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 44 | 0 |
 | [Infografiken](#category-infographics) | 16 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 11 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 55 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 36 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 38 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 13 | 0 |
-| [GIF & Animation](#category-gif-animation) | 126 | 0 |
+| [GIF & Animation](#category-gif-animation) | 127 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **366** |
+| Beispiele mit Quellenverweisen | **372** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **329** |
-| An der Quelle verfügbare Original-Prompts | **233** |
+| Von Erstellern gemeldete Beispiele | **335** |
+| An der Quelle verfügbare Original-Prompts | **235** |
 | Hier veröffentlichte vollständige Prompts | **0** |
 | Lokal archivierte Mediendateien | **536** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -205,6 +205,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 
 <a id="category-posters-typography"></a>
 
@@ -254,6 +255,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 
 <a id="category-infographics"></a>
 
@@ -400,6 +403,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -553,6 +558,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 67 | 0 |
-| [海报与文字排版](#category-posters-typography) | 42 | 0 |
+| [品牌与商品](#category-brand-products) | 68 | 0 |
+| [海报与文字排版](#category-posters-typography) | 44 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 11 | 0 |
 | [角色与一致性](#category-characters-consistency) | 55 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 36 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 38 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 13 | 0 |
-| [GIF 与动画](#category-gif-animation) | 126 | 0 |
+| [GIF 与动画](#category-gif-animation) | 127 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **366** |
+| 来源案例 | **372** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **329** |
-| 来源公开原始提示词 | **233** |
+| 社区作者自报案例 | **335** |
+| 来源公开原始提示词 | **235** |
 | 仓库内完整提示词 | **0** |
 | 本地收录素材文件 | **536** |
 | 最近来源核对（UTC） | **2026-11-09** |
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [Ofox 三杯插画标注定位测试](cases/ofox-three-mug-markup-target-test/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [Flixly：六项 GIF 生成与编辑测试](cases/flixly-six-gif-tests/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 剪纸风森林小屋](cases/community-cubistai-paper-cut-cabin/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [借用参考图风格](cases/yepshot-compose-style-transfer/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [草图转产品渲染](cases/yepshot-creative-sketch-to-render/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -201,6 +201,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [CubistAI 浓缩咖啡杯静物](cases/community-cubistai-espresso-cup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [保存马克杯参考图并复用于三个场景](cases/weel-saved-mug-scenes/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AURORA橙色香水商品图](cases/community-struggle-aurora-perfume/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [橙色 KINGY LAB 产品海报](cases/kingy-sunburst-orange-bottle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-posters-typography"></a>
 
@@ -250,6 +251,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [更新促销折扣](cases/yepshot-text-promo-discount-update/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [CubistAI 植物形态海报](cases/community-cubistai-botanical-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AI进化论海报改为Image 2.6实测](cases/community-struggle-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [KINGY LAB 水瓶与大字缩略图](cases/kingy-sunburst-bottle-thumbnail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Sunburst 面包店质量档位对比](cases/quantslant-sunburst-bakery-quality-ladder/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-infographics"></a>
 
@@ -396,6 +399,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [MOONLEAF 茶罐：茉莉到玫瑰的标签编辑](cases/gptimagehub-moonleaf-tea-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [AI 编辑的合照环境迁移](cases/302-group-photo-environment-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Flare STUDIO NIGHTS 标题编辑](cases/aivideos-flare-headline-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [KINGY LAB 水瓶改色与价格编辑](cases/kingy-sunburst-turquoise-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [Ofox 三杯插画标注定位测试](cases/ofox-three-mug-markup-target-test/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -549,6 +554,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [月下美少女战士舞蹈](cases/community-struggle-sailor-dance/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [黏土橘猫敲键盘](cases/community-struggle-cat-programmer/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [桌面照片清理并转动图](cases/community-struggle-desk-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [橙色小鸟原生 GIF 循环](cases/ofox-native-bird/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

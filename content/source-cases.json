@@ -29889,5 +29889,501 @@
       },
       "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "kingy-sunburst-bottle-thumbnail",
+    "status": "published",
+    "title": {
+      "en": "KINGY LAB bottle-and-type thumbnail",
+      "zh-CN": "KINGY LAB 水瓶与大字缩略图"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+      "author": "Curtis Pyke / Kingy AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The individual source caption reads “GPT Image 2.6 Sunburst thumbnail from the API test.”. The methodology identifies the requested API model as gpt-image-2.6-sunburst. This is the source creator’s attribution, not an independently reproduced generation. The separate ChatGPT-web outputs have an undisclosed model and are excluded.",
+        "zh-CN": "该作品单独配文为“GPT Image 2.6 Sunburst thumbnail from the API test.”。测试方法明确请求 API 模型 gpt-image-2.6-sunburst。这是来源创作者的模型归因，不是独立复现生成。另行测试的 ChatGPT 网页输出模型未披露，已排除。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T1.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Orange KINGY LAB bottle beside MAKE IT MOVE, 3 TASKS and $0 EXTRA? on a navy background",
+          "zh-CN": "深蓝背景上，橙色 KINGY LAB 水瓶旁写有 MAKE IT MOVE、3 TASKS 和 $0 EXTRA?"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+          "credit": "Curtis Pyke / Kingy AI",
+          "note": {
+            "en": "Source link only. Prior direct-media access was refused and original PNGs remain omitted. No download, embedding or restoration in this batch. Attribution does not grant a redistribution licence.",
+            "zh-CN": "仅链接来源。此前直接媒体访问被拒，继续省略原始PNG；本批不下载、嵌入或恢复。署名不构成转载许可。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Source-linked API example. Current individual caption and methodology explicitly identify GPT Image 2.6 Sunburst. Model and visual descriptions are publisher claims; this pass did not view image pixels or reproduce generation. Prior direct PNG requests returned 403 and the corrected recovery omitted the originals; no retry, alternative download, embedding or restoration was attempted. The advertised prompts/receipts ZIP was not opened, so full prompt availability remains unverified. The orange product image is also the stated input to the turquoise edit and is not counted twice.",
+      "zh-CN": "仅链接的 API 示例。本次原页单独图注与方法明确标为 GPT Image 2.6 Sunburst。模型及画面描述来自发布者，本轮未查看图片像素或复现生成。此前直接 PNG 请求返回403，修正恢复包已省略原件；本轮未重试、换路下载、嵌入或恢复。未打开来源宣传的提示词及凭据ZIP，完整提示词仍待核实。橙色产品图同时是青绿色编辑的输入，不重复计为新作品。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kingy-sunburst-orange-bottle",
+    "status": "published",
+    "title": {
+      "en": "Orange KINGY LAB product graphic",
+      "zh-CN": "橙色 KINGY LAB 产品海报"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+      "author": "Curtis Pyke / Kingy AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The individual source caption reads “GPT Image 2.6 Sunburst product graphic from the API test.”. The methodology identifies the requested API model as gpt-image-2.6-sunburst. This is the source creator’s attribution, not an independently reproduced generation. The separate ChatGPT-web outputs have an undisclosed model and are excluded.",
+        "zh-CN": "该作品单独配文为“GPT Image 2.6 Sunburst product graphic from the API test.”。测试方法明确请求 API 模型 gpt-image-2.6-sunburst。这是来源创作者的模型归因，不是独立复现生成。另行测试的 ChatGPT 网页输出模型未披露，已排除。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T2.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Orange KINGY LAB 750 mL bottle with REFILL. REPEAT. above and $29.00 below",
+          "zh-CN": "橙色 KINGY LAB 750 mL 水瓶，上方为 REFILL. REPEAT.，下方为 $29.00"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+          "credit": "Curtis Pyke / Kingy AI",
+          "note": {
+            "en": "Source link only. Prior direct-media access was refused and original PNGs remain omitted. No download, embedding or restoration in this batch. Attribution does not grant a redistribution licence.",
+            "zh-CN": "仅链接来源。此前直接媒体访问被拒，继续省略原始PNG；本批不下载、嵌入或恢复。署名不构成转载许可。"
+          }
+        },
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Source-linked API example. Current individual caption and methodology explicitly identify GPT Image 2.6 Sunburst. Model and visual descriptions are publisher claims; this pass did not view image pixels or reproduce generation. Prior direct PNG requests returned 403 and the corrected recovery omitted the originals; no retry, alternative download, embedding or restoration was attempted. The advertised prompts/receipts ZIP was not opened, so full prompt availability remains unverified. The orange product image is also the stated input to the turquoise edit and is not counted twice.",
+      "zh-CN": "仅链接的 API 示例。本次原页单独图注与方法明确标为 GPT Image 2.6 Sunburst。模型及画面描述来自发布者，本轮未查看图片像素或复现生成。此前直接 PNG 请求返回403，修正恢复包已省略原件；本轮未重试、换路下载、嵌入或恢复。未打开来源宣传的提示词及凭据ZIP，完整提示词仍待核实。橙色产品图同时是青绿色编辑的输入，不重复计为新作品。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "kingy-sunburst-turquoise-edit",
+    "status": "published",
+    "title": {
+      "en": "KINGY LAB bottle recolor and price edit",
+      "zh-CN": "KINGY LAB 水瓶改色与价格编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+      "author": "Curtis Pyke / Kingy AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The individual source caption reads “GPT Image 2.6 Sunburst edited product graphic.”. The methodology identifies the requested API model as gpt-image-2.6-sunburst. This is the source creator’s attribution, not an independently reproduced generation. The separate ChatGPT-web outputs have an undisclosed model and are excluded.",
+        "zh-CN": "该作品单独配文为“GPT Image 2.6 Sunburst edited product graphic.”。测试方法明确请求 API 模型 gpt-image-2.6-sunburst。这是来源创作者的模型归因，不是独立复现生成。另行测试的 ChatGPT 网页输出模型未披露，已排除。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T3.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Turquoise KINGY LAB bottle with a $24.00 price and the same broad product layout",
+          "zh-CN": "改为青绿色的 KINGY LAB 水瓶，价格为 $24.00，大体产品版式保持不变"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+          "credit": "Curtis Pyke / Kingy AI",
+          "note": {
+            "en": "Source link only. Prior direct-media access was refused and original PNGs remain omitted. No download, embedding or restoration in this batch. Attribution does not grant a redistribution licence.",
+            "zh-CN": "仅链接来源。此前直接媒体访问被拒，继续省略原始PNG；本批不下载、嵌入或恢复。署名不构成转载许可。"
+          }
+        },
+        "role": "output"
+      },
+      {
+        "source_url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T2.png",
+        "path": null,
+        "kind": "image",
+        "alt": {
+          "en": "Reference input: the preceding GPT Image 2.6 Sunburst orange $29.00 product graphic",
+          "zh-CN": "参考输入：前一张 GPT Image 2.6 Sunburst 橙色 $29.00 产品图"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+          "credit": "Curtis Pyke / Kingy AI",
+          "note": {
+            "en": "Source link only. Prior direct-media access was refused and original PNGs remain omitted. No download, embedding or restoration in this batch. Attribution does not grant a redistribution licence.",
+            "zh-CN": "仅链接来源。此前直接媒体访问被拒，继续省略原始PNG；本批不下载、嵌入或恢复。署名不构成转载许可。"
+          }
+        },
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "Source-linked API example. Current individual caption and methodology explicitly identify GPT Image 2.6 Sunburst. Model and visual descriptions are publisher claims; this pass did not view image pixels or reproduce generation. Prior direct PNG requests returned 403 and the corrected recovery omitted the originals; no retry, alternative download, embedding or restoration was attempted. The advertised prompts/receipts ZIP was not opened, so full prompt availability remains unverified. The orange product image is also the stated input to the turquoise edit and is not counted twice.",
+      "zh-CN": "仅链接的 API 示例。本次原页单独图注与方法明确标为 GPT Image 2.6 Sunburst。模型及画面描述来自发布者，本轮未查看图片像素或复现生成。此前直接 PNG 请求返回403，修正恢复包已省略原件；本轮未重试、换路下载、嵌入或恢复。未打开来源宣传的提示词及凭据ZIP，完整提示词仍待核实。橙色产品图同时是青绿色编辑的输入，不重复计为新作品。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "ofox-native-bird",
+    "status": "published",
+    "title": {
+      "en": "Orange bird native GIF loop",
+      "zh-CN": "橙色小鸟原生 GIF 循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+      "author": "Ofox",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The source describes its measured native GIF as one Ofox Image 2.6 Flare API call, with an exact bird request and separately labelled returned GIF. The output alt text explicitly names GPT Image 2.6 Flare. This is provider attribution, not a verified model snapshot or independently reproduced generation.",
+        "zh-CN": "来源将实测原生GIF明确对应到一次 Ofox Image 2.6 Flare API调用，列有鸟类请求及单独标注的返回GIF。作品alt明确写 GPT Image 2.6 Flare。仅记录提供方归属，不是独立验证模型快照或复现生成。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/"
+    },
+    "media": [
+      {
+        "source_url": "https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif",
+        "path": null,
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Publisher-labelled orange bird raising and lowering its wings.",
+          "zh-CN": "发布者标注的橙色小鸟抬起、放下翅膀动图。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+          "credit": "Ofox",
+          "note": {
+            "en": "Original source link only. Source usage remains unresolved; the .ai terms page returned 403 and was not retried. No media was requested, embedded or restored, and no licence is inferred.",
+            "zh-CN": "仅链接原始来源。素材使用条件仍未解决；.ai条款页返回403后未重试。不请求、嵌入或恢复媒体，不推定许可。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The article separates the measured API bird result from untested prompt templates and a third-party sprite-sheet cat conversion. Only the existing bird candidate is included. Nine frames, 512 × 512 and 200 ms/frame are publisher-reported values, not new file measurements in this batch. The precise API prompt is visible at the source and is linked rather than copied. No image input is claimed.",
+      "zh-CN": "文章区分实际API小鸟输出、未测试提示词模板和第三方猫咪精灵图转换。本批只收录已有小鸟候选。九帧、512×512及每帧200毫秒来自发布者，并非本批新测。准确API提示词在原页可见，仅提供链接，不复制。不声称存在图片输入。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "quantslant-sunburst-bakery-quality-ladder",
+    "status": "published",
+    "title": {
+      "en": "Sunburst bakery quality comparison",
+      "zh-CN": "Sunburst 面包店质量档位对比"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://quantslant.com/gpt-image-2-6-flare-vs-sunburst/",
+      "author": "Quantslant editorial team",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The current article source note explicitly identifies its own benchmark requests as openai/gpt-image-2.6-flare and openai/gpt-image-2.6-sunburst. The bakery ladder is described as part of that benchmark, and its two individual captions identify Sunburst low and max outputs. Thus the attribution is tied to the specific experiment rather than inferred only from the title. Publisher attribution, not independent reproduction.",
+        "zh-CN": "当前文章源注明确其自有基准请求使用 openai/gpt-image-2.6-flare 与 openai/gpt-image-2.6-sunburst。正文将面包店质量阶梯归入该基准，两张独立图注明确为 Sunburst low 与 max 输出。归属因此对应具体实验，而不只依据标题。仅记录发布者归属，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://quantslant.com/wp-content/uploads/2026/11/gpt-image-2-6-flare-vs-sunburst-1.webp",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Publisher-labelled rainy bakery result at Sunburst low quality.",
+          "zh-CN": "发布者标注的 Sunburst low 质量雨中面包店结果。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://quantslant.com/terms/",
+          "credit": "Quantslant editorial team",
+          "note": {
+            "en": "Only an original-source link. The terms require written permission to republish images; none has been established. No image copy, embedding, thumbnail or derived image is included.",
+            "zh-CN": "仅链接原始来源。条款要求转载图片取得书面许可，目前未获得。不包含图片副本、嵌入图、缩略图或衍生图。"
+          }
+        }
+      },
+      {
+        "source_url": "https://quantslant.com/wp-content/uploads/2026/11/gpt-image-2-6-flare-vs-sunburst-2.webp",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Publisher-labelled rainy bakery result at Sunburst max quality.",
+          "zh-CN": "发布者标注的 Sunburst max 质量雨中面包店结果。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://quantslant.com/terms/",
+          "credit": "Quantslant editorial team",
+          "note": {
+            "en": "Only an original-source link. The terms require written permission to republish images; none has been established. No image copy, embedding, thumbnail or derived image is included.",
+            "zh-CN": "仅链接原始来源。条款要求转载图片取得书面许可，目前未获得。不包含图片副本、嵌入图、缩略图或衍生图。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One two-output quality comparison. Intermediate table rows without images are not extra cases. Model settings, dimensions, times, costs and spelling judgments remain source-reported; no new pixel inspection or API test was done. The page describes a rainy bakery with Polish signs but does not show a complete original prompt, so prompt availability remains unverified. Separate 2.5 comparison panels and other works on the same page are excluded.",
+      "zh-CN": "一组两图质量对比。表格中没有作品的中间档位不另计案例。设置、尺寸、时间、成本和拼写判断均为来源报告，本批未检查像素或调用API。页面描述雨中面包店及波兰语招牌，但未展示完整原始提示词，故仍待核实。同页其他作品及2.5对比面板不在本批。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "ofox-three-mug-markup-target-test",
+    "status": "published",
+    "title": {
+      "en": "Ofox three-mug markup targeting test",
+      "zh-CN": "Ofox 三杯插画标注定位测试"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://ofox.io/blog/gpt-image-2-6-markup-edit-guide/",
+      "author": "Ofox",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The first-person methodology explicitly identifies the tested Ofox Images edit endpoint and model openai/gpt-image-2.6-flare. Two output links correspond to left and right annotations applied separately to the same source image, using the same published prompt. Provider attribution only; no generation or returned identity was independently verified.",
+        "zh-CN": "第一手方法明确给出实测 Ofox Images 编辑端点及 openai/gpt-image-2.6-flare 模型。左右两个结果分别对应在同一底图上使用左右标注、相同公开提示词的两次独立编辑。仅记录提供方归属，未独立复现或验证返回模型身份。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://ofox.io/blog/gpt-image-2-6-markup-edit-guide/"
+    },
+    "media": [
+      {
+        "source_url": "https://ofox.io/blog/_assets/downloads/image26-markup/source.png",
+        "path": null,
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Publisher-provided three-mug illustration used for both edits.",
+          "zh-CN": "发布者提供的两次编辑共同使用的三杯插画底图。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://ofox.io/terms-of-service",
+          "credit": "Ofox",
+          "note": {
+            "en": "Source link only. The terms distinguish user-owned outputs from platform materials but do not establish redistribution permission for these publisher-made examples. No media copy or derivative is included.",
+            "zh-CN": "仅链接来源。条款区分用户生成输出与平台资料，但未建立这些发布者制作示例的转载许可。不包含素材副本或衍生图。"
+          }
+        }
+      },
+      {
+        "source_url": "https://ofox.io/blog/_assets/downloads/image26-markup/left-result.png",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Publisher-labelled result recoloring the left mug orange.",
+          "zh-CN": "发布者标注的左杯改为橙色的结果。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://ofox.io/terms-of-service",
+          "credit": "Ofox",
+          "note": {
+            "en": "Source link only. The terms distinguish user-owned outputs from platform materials but do not establish redistribution permission for these publisher-made examples. No media copy or derivative is included.",
+            "zh-CN": "仅链接来源。条款区分用户生成输出与平台资料，但未建立这些发布者制作示例的转载许可。不包含素材副本或衍生图。"
+          }
+        }
+      },
+      {
+        "source_url": "https://ofox.io/blog/_assets/downloads/image26-markup/right-result.png",
+        "path": null,
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Publisher-labelled result recoloring the right mug orange.",
+          "zh-CN": "发布者标注的右杯改为橙色的结果。"
+        },
+        "rights": {
+          "status": "link-only",
+          "evidence_url": "https://ofox.io/terms-of-service",
+          "credit": "Ofox",
+          "note": {
+            "en": "Source link only. The terms distinguish user-owned outputs from platform materials but do not establish redistribution permission for these publisher-made examples. No media copy or derivative is included.",
+            "zh-CN": "仅链接来源。条款区分用户生成输出与平台资料，但未建立这些发布者制作示例的转载许可。不包含素材副本或衍生图。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "One existing two-target experiment, not two new cases. The right edit starts again from the original, not from the left result. The source says both target bodies changed, annotations disappeared and other pixels also drifted; these are publisher observations, not our pixel tests. The actual full edit prompt is publicly displayed and linked. Decorative cover art and evidence-viewer screenshots are excluded. No media requests were made.",
+      "zh-CN": "保留为已有的一组双目标实验，不拆为两条。右侧编辑重新使用底图，并非接续左侧结果。来源称两个目标杯身变色、标注消失且其他像素也有偏移；均为发布者观察，不是本批像素测试。准确完整编辑提示词已公开，提供原页链接。排除装饰封面和证据查看器截图，本批未请求媒体。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "unknown",
+      "page_note": {
+        "en": "The exact existing primary page returned HTTP 200. Captions and work-specific methodology were read; no new cases were searched for.",
+        "zh-CN": "已有准确一手页面返回HTTP200，核对单独图注及作品对应的方法；未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Link-only by design. No media was requested, decoded, visually inspected, embedded or restored in this batch. Prior refusals and unresolved usage conditions are preserved.",
+        "zh-CN": "本批明确仅链接。不请求、解码、查看、嵌入或恢复媒体，保留此前访问拒绝及未解决使用条件。"
+      },
+      "report_path": "docs/OFOX_QUANTSLANT_KINGY_LINK_AUDIT_2026-11-08.md"
+    }
   }
 ]
