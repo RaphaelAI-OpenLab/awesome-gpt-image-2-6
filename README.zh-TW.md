@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 31 | 0 |
-| [海報與文字排版](#category-posters-typography) | 31 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 32 | 0 |
+| [海報與文字排版](#category-posters-typography) | 32 | 0 |
 | [資訊圖表](#category-infographics) | 14 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 10 | 0 |
 | [角色與一致性](#category-characters-consistency) | 35 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 31 | 0 |
-| [SVG 與設計素材](#category-svg-design-assets) | 10 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 107 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 32 | 0 |
+| [SVG 與設計素材](#category-svg-design-assets) | 11 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 114 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **269** |
+| 附來源連結的案例 | **280** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **232** |
-| 可於來源取得的原始提示詞 | **190** |
+| 創作者自述範例 | **243** |
+| 可於來源取得的原始提示詞 | **200** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **409** |
+| 已於本機封存的媒體檔案 | **426** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 |
+| 2026-11-06 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +208,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-infographics"></a>
 
@@ -325,6 +327,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -342,6 +345,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-gif-animation"></a>
 
@@ -456,6 +460,13 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 31 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 31 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 32 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 32 | 0 |
 | [Infografiken](#category-infographics) | 14 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 10 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 35 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 31 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 10 | 0 |
-| [GIF & Animation](#category-gif-animation) | 107 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 32 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 11 | 0 |
+| [GIF & Animation](#category-gif-animation) | 114 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **269** |
+| Beispiele mit Quellenverweisen | **280** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **232** |
-| An der Quelle verfügbare Original-Prompts | **190** |
+| Von Erstellern gemeldete Beispiele | **243** |
+| An der Quelle verfügbare Original-Prompts | **200** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **409** |
+| Lokal archivierte Mediendateien | **426** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +208,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-infographics"></a>
 
@@ -325,6 +327,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -342,6 +345,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-gif-animation"></a>
 
@@ -456,6 +460,13 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

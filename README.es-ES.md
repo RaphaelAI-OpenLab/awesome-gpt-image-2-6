@@ -47,14 +47,14 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 
 | Categoría | Casos con enlace a la fuente | Prompts completos |
 | --- | ---: | ---: |
-| [Imágenes de marca y producto](#category-brand-products) | 31 | 0 |
-| [Carteles y tipografía](#category-posters-typography) | 31 | 0 |
+| [Imágenes de marca y producto](#category-brand-products) | 32 | 0 |
+| [Carteles y tipografía](#category-posters-typography) | 32 | 0 |
 | [Infografías](#category-infographics) | 14 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 10 | 0 |
 | [Personajes y coherencia](#category-characters-consistency) | 35 | 0 |
-| [Anotaciones y ediciones específicas](#category-markup-edits) | 31 | 0 |
-| [SVG y recursos de diseño](#category-svg-design-assets) | 10 | 0 |
-| [GIF y animación](#category-gif-animation) | 107 | 0 |
+| [Anotaciones y ediciones específicas](#category-markup-edits) | 32 | 0 |
+| [SVG y recursos de diseño](#category-svg-design-assets) | 11 | 0 |
+| [GIF y animación](#category-gif-animation) | 114 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **269** |
+| Casos con enlace a la fuente | **280** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **232** |
-| Prompts originales disponibles en la fuente | **190** |
+| Ejemplos según sus creadores | **243** |
+| Prompts originales disponibles en la fuente | **200** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **409** |
+| Archivos multimedia archivados localmente | **426** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -121,12 +121,12 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 
 | Añadido | Caso | Evidencia |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo indicado por el creador |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modelo indicado por el creador |
+| 2026-11-06 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Modelo indicado por el creador |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +208,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Modelo indicado por el creador | Prompt no público |
 
 <a id="category-infographics"></a>
 
@@ -325,6 +327,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-svg-design-assets"></a>
 
@@ -342,6 +345,7 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 <a id="category-gif-animation"></a>
 
@@ -456,6 +460,13 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modelo indicado por el creador | Prompt no público |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 
 [Registro de búsquedas, informe de material multimedia y pistas sin resolver](docs/CASE_GALLERY.md)
 
