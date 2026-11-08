@@ -48,13 +48,13 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
 | [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 17 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 18 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 19 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 9 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 12 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 13 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 14 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **101** |
+| Trường hợp có liên kết nguồn | **104** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **64** |
-| Câu lệnh gốc có sẵn tại nguồn | **78** |
+| Ví dụ do tác giả báo cáo | **67** |
+| Câu lệnh gốc có sẵn tại nguồn | **81** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
 | Tệp tư liệu được lưu trữ cục bộ | **172** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

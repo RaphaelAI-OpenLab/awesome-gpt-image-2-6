@@ -48,13 +48,13 @@
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
 | [品牌與產品視覺](#category-brand-products) | 17 | 0 |
-| [海報與文字排版](#category-posters-typography) | 18 | 0 |
+| [海報與文字排版](#category-posters-typography) | 19 | 0 |
 | [資訊圖表](#category-infographics) | 9 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 3 | 0 |
 | [角色與一致性](#category-characters-consistency) | 22 | 0 |
-| [標註與局部編輯](#category-markup-edits) | 12 | 0 |
+| [標註與局部編輯](#category-markup-edits) | 13 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 14 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **101** |
+| 附來源連結的案例 | **104** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **64** |
-| 可於來源取得的原始提示詞 | **78** |
+| 創作者自述範例 | **67** |
+| 可於來源取得的原始提示詞 | **81** |
 | 於此發布的完整提示詞 | **0** |
 | 已於本機封存的媒體檔案 | **172** |
 | 最近來源檢查時間（UTC） | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 創作者自述模型 |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 創作者自述模型 |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 創作者自述模型 |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

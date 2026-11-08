@@ -48,13 +48,13 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
 | [브랜드 및 제품 비주얼](#category-brand-products) | 17 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 18 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 19 | 0 |
 | [인포그래픽](#category-infographics) | 9 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 3 | 0 |
 | [캐릭터 및 일관성](#category-characters-consistency) | 22 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 12 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 13 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 14 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -86,10 +86,10 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **101** |
+| 출처 링크가 있는 사례 | **104** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **64** |
-| 출처에서 제공하는 원문 프롬프트 | **78** |
+| 제작자가 보고한 예시 | **67** |
+| 출처에서 제공하는 원문 프롬프트 | **81** |
 | 여기에 공개된 전체 프롬프트 | **0** |
 | 로컬에 보관된 미디어 파일 | **172** |
 | 최근 출처 확인 일시(UTC) | **2026-11-06** |
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
+| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -180,6 +180,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-infographics"></a>
 
@@ -254,6 +255,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -288,6 +290,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

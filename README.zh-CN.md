@@ -44,13 +44,13 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 17 | 0 |
-| [海报与文字排版](#category-posters-typography) | 18 | 0 |
+| [海报与文字排版](#category-posters-typography) | 19 | 0 |
 | [信息图](#category-infographics) | 9 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 3 | 0 |
 | [角色与一致性](#category-characters-consistency) | 22 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 12 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 13 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 14 | 0 |
+| [GIF 与动画](#category-gif-animation) | 15 | 0 |
 
 <a id="contents"></a>
 
@@ -82,10 +82,10 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **101** |
+| 来源案例 | **104** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **64** |
-| 来源公开原始提示词 | **78** |
+| 社区作者自报案例 | **67** |
+| 来源公开原始提示词 | **81** |
 | 仓库内完整提示词 | **0** |
 | 本地收录素材文件 | **172** |
 | 最近来源核对（UTC） | **2026-11-06** |
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-06 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [卡通雪人挥手循环](cases/veevid-snowman-wave/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [法压壶产品照与背景编辑延续](cases/community-gptimagehub-french-press-edit/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [Blue Hour 爵士海报与日期编辑延续](cases/community-gptimagehub-jazz-poster-edit/README.zh-CN.md) | 作者自报模型 |
 | 2026-11-06 | [法案成为法律六步信息图对比](cases/community-gptimagehub-law-infographic/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [里斯本天气界面：Flare 与 Sunburst 同提示对比](cases/community-gptimagehub-weather-ui/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -176,6 +176,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [辣酱发布与速度测试海报](cases/yir-hot-sauce-posters/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [自行车季末促销广告](cases/yir-bicycle-sale-ad/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Blue Hour 爵士海报与日期编辑延续](cases/community-gptimagehub-jazz-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-infographics"></a>
 
@@ -250,6 +251,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [镜面倒影服饰编辑](cases/dreamega-mirror-reflection/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [钢琴内的微缩城市](cases/dreamega-piano-city/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [客厅沙发改色双版本比较](cases/community-lightlyn-sofa-edit-variants/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -284,6 +286,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [股市小猫梗图：三版 GIF 迭代](cases/community-greta-stock-kitten-iterations/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [卡通雪人挥手循环](cases/veevid-snowman-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 
