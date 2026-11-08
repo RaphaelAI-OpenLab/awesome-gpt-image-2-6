@@ -47,14 +47,14 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 26 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 27 | 0 |
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 29 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 12 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 7 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 29 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 20 | 0 |
-| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 8 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 94 | 0 |
+| [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 9 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **225** |
+| स्रोत से जुड़े उदाहरण | **231** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **188** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **166** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **194** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **167** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **351** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **357** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -164,6 +164,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -311,6 +312,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 <a id="category-gif-animation"></a>
 
@@ -412,6 +414,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 26 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 27 | 0 |
 | [Cartazes e tipografia](#category-posters-typography) | 29 | 0 |
 | [Infografias](#category-infographics) | 12 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 7 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 29 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 20 | 0 |
-| [SVG e recursos de design](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animação](#category-gif-animation) | 94 | 0 |
+| [SVG e recursos de design](#category-svg-design-assets) | 9 | 0 |
+| [GIF e animação](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **225** |
+| Casos com ligação para a fonte | **231** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **188** |
-| Prompts originais disponíveis na fonte | **166** |
+| Exemplos comunicados pelos criadores | **194** |
+| Prompts originais disponíveis na fonte | **167** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **351** |
+| Ficheiros multimédia arquivados localmente | **357** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -164,6 +164,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -311,6 +312,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modelo indicado pelo criador | Prompt não público |
 
 <a id="category-gif-animation"></a>
 
@@ -412,6 +414,10 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modelo indicado pelo criador | Prompt não público |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modelo indicado pelo criador | Prompt não público |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 
 [Registo de pesquisas, relatório de conteúdos multimédia e pistas por resolver](docs/CASE_GALLERY.md)
 

@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 26 | 0 |
+| [Brand & product visuals](#category-brand-products) | 27 | 0 |
 | [Posters & typography](#category-posters-typography) | 29 | 0 |
 | [Infographics](#category-infographics) | 12 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 7 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 29 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 20 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
-| [GIF & animation](#category-gif-animation) | 94 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 9 | 0 |
+| [GIF & animation](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **225** |
+| Source-linked cases | **231** |
 | Official examples | **37** |
-| Creator-reported examples | **188** |
-| Original prompts available at source | **166** |
+| Creator-reported examples | **194** |
+| Original prompts available at source | **167** |
 | Full prompts published here | **0** |
-| Locally archived media files | **351** |
+| Locally archived media files | **357** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -160,6 +160,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Creator-reported model | Original prompt at source |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Creator-reported model | Original prompt at source |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Creator-reported model | Prompt not public |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -307,6 +308,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Creator-reported model | Original prompt at source |
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Creator-reported model | Prompt not public |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Creator-reported model | Prompt not public |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-gif-animation"></a>
 
@@ -408,6 +410,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Creator-reported model | Original prompt at source |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Creator-reported model | Prompt not public |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Creator-reported model | Prompt not public |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Creator-reported model | Prompt availability unverified |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Creator-reported model | Prompt availability unverified |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | Creator-reported model | Prompt availability unverified |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Creator-reported model | Prompt availability unverified |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

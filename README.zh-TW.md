@@ -47,14 +47,14 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 26 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 27 | 0 |
 | [海報與文字排版](#category-posters-typography) | 29 | 0 |
 | [資訊圖表](#category-infographics) | 12 | 0 |
 | [室內設計與建築](#category-interiors-architecture) | 7 | 0 |
 | [角色與一致性](#category-characters-consistency) | 29 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 20 | 0 |
-| [SVG 與設計素材](#category-svg-design-assets) | 8 | 0 |
-| [GIF 與動畫](#category-gif-animation) | 94 | 0 |
+| [SVG 與設計素材](#category-svg-design-assets) | 9 | 0 |
+| [GIF 與動畫](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **225** |
+| 附來源連結的案例 | **231** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **188** |
-| 可於來源取得的原始提示詞 | **166** |
+| 創作者自述範例 | **194** |
+| 可於來源取得的原始提示詞 | **167** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **351** |
+| 已於本機封存的媒體檔案 | **357** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -164,6 +164,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -311,6 +312,7 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 創作者自述模型 | 提示詞未公開 |
 
 <a id="category-gif-animation"></a>
 
@@ -412,6 +414,10 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 創作者自述模型 | 提示詞公開狀態待核驗 |
 
 [搜尋紀錄、媒體報告與尚未確認的線索](docs/CASE_GALLERY.md)
 

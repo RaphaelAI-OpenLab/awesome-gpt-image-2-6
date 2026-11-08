@@ -47,14 +47,14 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 26 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 27 | 0 |
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 29 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 12 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 7 | 0 |
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 29 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 20 | 0 |
-| [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 8 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 94 | 0 |
+| [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 9 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 98 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **225** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **231** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **188** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **166** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **194** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **167** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **351** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **357** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -164,6 +164,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-posters-typography"></a>
 
@@ -311,6 +312,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-gif-animation"></a>
 
@@ -412,6 +414,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Chess opening GIF test](cases/community-hn-chess/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
+| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

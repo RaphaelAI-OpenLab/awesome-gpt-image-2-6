@@ -18537,5 +18537,443 @@
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
     }
+  },
+  {
+    "id": "ai-garage-fox-news-vector",
+    "status": "published",
+    "title": {
+      "en": "Purple fox and news-panel SVG",
+      "zh-CN": "紫色狐狸与新闻面板 SVG"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+      "author": "Seiya Yagashiro / ai-garage",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original author describes their own GPT Image 2.6 API tests and introduces the attached logo-like SVG as an output they generated. The report does not identify the variant for this SVG. This is a creator claim, not independent model verification.",
+        "zh-CN": "原作者报告自行进行的 GPT Image 2.6 API 测试，并将所附标志式 SVG 介绍为自行生成的输出；没有说明此 SVG 的具体变体。此为作者自述，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-6.svg",
+        "path": "assets/examples/ai-garage-fox-news-vector/source-01.svg",
+        "kind": "svg",
+        "alt": {
+          "en": "Purple fox and news-panel SVG. Source-attributed SVG test; geometric paths and circles, no embedded raster. Variant and exact prompt unknown. The visible vector is rough and overlapping; no quality claim is inferred.",
+          "zh-CN": "紫色狐狸与新闻面板 SVG。来源归因的 SVG 测试，包含几何路径与圆形，无嵌入位图。变体及完整提示词未知。可见矢量形状粗糙并有重叠，不推断质量结论。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://ai-garage.jp/news/gpt-image-2-6-flare-sunburst-api-test/",
+          "credit": "Seiya Yagashiro / ai-garage",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "role": "output",
+        "sha256": "f436d2bb2628982720826c51c503cb8d9b7498694d7b6e20c6fb270ac70c1be1",
+        "bytes": 2696,
+        "mime_type": "image/svg+xml"
+      }
+    ],
+    "notes": {
+      "en": "Source-attributed SVG test; geometric paths and circles, no embedded raster. Variant and exact prompt unknown. The visible vector is rough and overlapping; no quality claim is inferred. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "来源归因的 SVG 测试，包含几何路径与圆形，无嵌入位图。变体及完整提示词未知。可见矢量形状粗糙并有重叠，不推断质量结论。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-hn-windmill",
+    "status": "published",
+    "title": {
+      "en": "Windmill turning-sails GIF",
+      "zh-CN": "风车叶片旋转 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+      "author": "Mordenstar / vunderba (source attribution)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The retained original Mordenstar gallery is titled Gpt-Image-2.6 Animation Tests and directly describes native animated GIF tests. Original HN comment 50373694 by vunderba claims GPT Image 2.6 runs and links imgpb.com/OzSMKJ; the dated collector record reports its redirect to this gallery. This is creator attribution, not an independently reproduced run or verified variant.",
+        "zh-CN": "保留的Mordenstar原始画廊题为Gpt-Image-2.6 Animation Tests，并明确称测试原生GIF。vunderba的HN原评论50373694称运行GPT Image 2.6并链接imgpb.com/OzSMKJ，当日采集记录记载该链接跳转至本画廊。这是创作者归因，非独立复现，也不证明具体变体。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://mordenstar.com/uploads/albums/be317507-f6ff-4a55-a6a4-f19e9c006bbc/e5f4a579-8242-4ddd-a054-0946ed14492a.gif",
+        "path": "assets/examples/community-hn-windmill/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Windmill turning-sails GIF",
+          "zh-CN": "风车叶片旋转 GIF"
+        },
+        "sha256": "122199f1c760859cec3b75c7fad6cbc1bf47ac2717d7ab7bdee0a00162dc44a1",
+        "bytes": 260714,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+          "credit": "Mordenstar / vunderba (source attribution)",
+          "note": {
+            "en": "Public creator output archived unchanged with source attribution. No independent redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开作者输出原样存档并注明来源。未核实独立转载许可证。署名不构成授权；仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A flat illustration of rotating windmill sails. The creator publishes a descriptive caption; it is not explicitly identified as a complete verbatim generation prompt. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "平面插画中的风车叶片旋转。作者提供描述性图注，但未明确证明其为完整逐字生成提示词。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-hn-eagle",
+    "status": "published",
+    "title": {
+      "en": "Eagle wingbeat GIF",
+      "zh-CN": "鹰振翅 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+      "author": "Mordenstar / vunderba (source attribution)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The retained original Mordenstar gallery is titled Gpt-Image-2.6 Animation Tests and directly describes native animated GIF tests. Original HN comment 50373694 by vunderba claims GPT Image 2.6 runs and links imgpb.com/OzSMKJ; the dated collector record reports its redirect to this gallery. This is creator attribution, not an independently reproduced run or verified variant.",
+        "zh-CN": "保留的Mordenstar原始画廊题为Gpt-Image-2.6 Animation Tests，并明确称测试原生GIF。vunderba的HN原评论50373694称运行GPT Image 2.6并链接imgpb.com/OzSMKJ，当日采集记录记载该链接跳转至本画廊。这是创作者归因，非独立复现，也不证明具体变体。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://mordenstar.com/uploads/albums/be317507-f6ff-4a55-a6a4-f19e9c006bbc/03b4cb0a-af94-4309-a69a-a1787dc9fc17.gif",
+        "path": "assets/examples/community-hn-eagle/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Eagle wingbeat GIF",
+          "zh-CN": "鹰振翅 GIF"
+        },
+        "sha256": "bf54ef738cb6b25927ed4d1d25c81bd44a739a95b06309529ee5fd349af4ae64",
+        "bytes": 83628,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+          "credit": "Mordenstar / vunderba (source attribution)",
+          "note": {
+            "en": "Public creator output archived unchanged with source attribution. No independent redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开作者输出原样存档并注明来源。未核实独立转载许可证。署名不构成授权；仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A bald eagle flaps its wings with binary GIF transparency, also discussed by vunderba in HN comment 50374515. The descriptive caption is not explicitly verified as the full prompt. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "白头鹰振翅，GIF 带二值透明度；vunderba 在 HN 评论 50374515 中也谈到这一点。描述性图注未明确核实为完整提示词。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-hn-chess",
+    "status": "published",
+    "title": {
+      "en": "Chess opening GIF test",
+      "zh-CN": "国际象棋开局 GIF 测试"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+      "author": "Mordenstar / vunderba (source attribution)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The retained original Mordenstar gallery is titled Gpt-Image-2.6 Animation Tests and directly describes native animated GIF tests. Original HN comment 50373694 by vunderba claims GPT Image 2.6 runs and links imgpb.com/OzSMKJ; the dated collector record reports its redirect to this gallery. This is creator attribution, not an independently reproduced run or verified variant.",
+        "zh-CN": "保留的Mordenstar原始画廊题为Gpt-Image-2.6 Animation Tests，并明确称测试原生GIF。vunderba的HN原评论50373694称运行GPT Image 2.6并链接imgpb.com/OzSMKJ，当日采集记录记载该链接跳转至本画廊。这是创作者归因，非独立复现，也不证明具体变体。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://mordenstar.com/uploads/albums/be317507-f6ff-4a55-a6a4-f19e9c006bbc/a6025481-f074-45b5-a29d-7e8db8281e88.gif",
+        "path": "assets/examples/community-hn-chess/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Chess opening GIF test",
+          "zh-CN": "国际象棋开局 GIF 测试"
+        },
+        "sha256": "d8d0d6edd8ca8998416dbd600e18008f3491fe8ea1afaf71b3f51408561f27b1",
+        "bytes": 706200,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+          "credit": "Mordenstar / vunderba (source attribution)",
+          "note": {
+            "en": "Public creator output archived unchanged with source attribution. No independent redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开作者输出原样存档并注明来源。未核实独立转载许可证。署名不构成授权；仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The creator labels the caption as a Sicilian Defense animation. Pawns move, but piece shapes and board labels are visibly imperfect; do not treat this as a validated chess simulation. The full exact prompt is not established. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "作者图注描述西西里防御开局动画。兵有移动，但棋子形状和棋盘标记明显不完善；不可视作经验证的象棋模拟。完整准确提示词未得到确认。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-hn-husky",
+    "status": "published",
+    "title": {
+      "en": "Howling husky snowglobe GIF",
+      "zh-CN": "雪花球内哈士奇嚎叫 GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+      "author": "Mordenstar / vunderba (source attribution)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The retained original Mordenstar gallery is titled Gpt-Image-2.6 Animation Tests and directly describes native animated GIF tests. Original HN comment 50373694 by vunderba claims GPT Image 2.6 runs and links imgpb.com/OzSMKJ; the dated collector record reports its redirect to this gallery. This is creator attribution, not an independently reproduced run or verified variant.",
+        "zh-CN": "保留的Mordenstar原始画廊题为Gpt-Image-2.6 Animation Tests，并明确称测试原生GIF。vunderba的HN原评论50373694称运行GPT Image 2.6并链接imgpb.com/OzSMKJ，当日采集记录记载该链接跳转至本画廊。这是创作者归因，非独立复现，也不证明具体变体。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://mordenstar.com/uploads/albums/be317507-f6ff-4a55-a6a4-f19e9c006bbc/4ab99efe-057c-4233-a9e7-a1bb3106de3f.gif",
+        "path": "assets/examples/community-hn-husky/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Howling husky snowglobe GIF",
+          "zh-CN": "雪花球内哈士奇嚎叫 GIF"
+        },
+        "sha256": "7619b629bb4118df0645caa6731a5e13f3110e5ae11e861d1f98b147b6392042",
+        "bytes": 1896099,
+        "mime_type": "image/gif",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://mordenstar.com/share/gpt-image-26-animation-tests",
+          "credit": "Mordenstar / vunderba (source attribution)",
+          "note": {
+            "en": "Public creator output archived unchanged with source attribution. No independent redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开作者输出原样存档并注明来源。未核实独立转载许可证。署名不构成授权；仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "A husky lifts its head to howl inside a snowglobe as snow moves. The HN creator describes converting an existing picture of their husky to animation. That original input image is not separately supplied, and the full generation prompt is not verified. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "哈士奇在雪花球内抬头嚎叫，雪花移动。HN 作者称将已有的哈士奇图片转为动画；未单独提供输入原图，也未核实完整提示词。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-hn-watchmaker",
+    "status": "published",
+    "title": {
+      "en": "Watchmaker underwater macro test",
+      "zh-CN": "水中修表微距测试"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://news.ycombinator.com/item?id=50373686",
+      "author": "neom (Hacker News)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The original HN comment explicitly labels the linked output 2.6 within the GPT Image 2.6 launch discussion.",
+        "zh-CN": "原始 HN 评论在 GPT Image 2.6 发布讨论中将该输出链接明确标为 2.6。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://news.ycombinator.com/item?id=50373686"
+    },
+    "media": [
+      {
+        "source_url": "https://news.ycombinator.com/item?id=50373686",
+        "path": "assets/examples/community-hn-watchmaker/output.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Watchmaker underwater macro test",
+          "zh-CN": "水中修表微距测试"
+        },
+        "sha256": "679fd9a3e792ce0e3fdf1fa505899f235a45743f49d0d279ce12098d12a1e4ec",
+        "bytes": 4214471,
+        "mime_type": "image/png",
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://news.ycombinator.com/item?id=50373686",
+          "credit": "neom (Hacker News)",
+          "note": {
+            "en": "Public creator output archived unchanged with source attribution. No independent redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
+            "zh-CN": "公开作者输出原样存档并注明来源。未核实独立转载许可证。署名不构成授权；仓库 MIT 许可不覆盖此素材。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "neom shares an exact test prompt and explicitly labels this link 2.6, alongside a separate 2.0 comparison link. Only the 2.6 PNG preview is archived here. The image shows hands, tweezers, a gear and water over a pocket watch; the creator judged it worse than 2.0. No model variant is disclosed. The media source link is the stable original comment, not a direct image URL. The archived file is the source page’s PNG preview; original-upload resolution is not established. Offline recovery review on 2026-11-08 checked original source evidence and unchanged file integrity. This is source attribution, not independent model reproduction.",
+      "zh-CN": "neom 提供准确测试提示词，并将此链接明确标为 2.6，另附 2.0 对比链接。此处只存档 2.6 的 PNG 预览。画面包含双手、镊子、齿轮及水中的怀表；作者评价其不及 2.0。未披露模型具体版本。 素材来源链接为稳定原评论，并非图片直链；存档文件是来源页面提供的 PNG 预览，不声称为上传原图分辨率。 2026-11-08离线恢复审核核对原始来源证据及原文件完整性，仍为来源归因，非独立模型复现。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-05",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.",
+        "zh-CN": "2026-11-08离线复核了2026-11-05保留的原页内容；历史跳转及预览对应来自当日采集记录，未测试当前访问。"
+      },
+      "media_note": {
+        "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
+        "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
+      },
+      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+    }
   }
 ]
