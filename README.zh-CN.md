@@ -50,7 +50,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 22 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 14 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF 与动画](#category-gif-animation) | 15 | 0 |
+| [GIF 与动画](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **108** |
+| 来源案例 | **146** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **71** |
-| 来源公开原始提示词 | **85** |
+| 社区作者自报案例 | **109** |
+| 来源公开原始提示词 | **123** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **177** |
-| 最近来源核对（UTC） | **2026-11-06** |
+| 本地收录素材文件 | **218** |
+| 最近来源核对（UTC） | **2026-11-08** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
 
@@ -117,12 +117,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-06 | [运动鞋改为森林绿麂皮](cases/veevid-sneaker-suede-recolor/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [冬夜集市海报](cases/veevid-holiday-market-poster/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [卡通雪人挥手循环](cases/veevid-snowman-wave/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [法压壶产品照与背景编辑延续](cases/community-gptimagehub-french-press-edit/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [Blue Hour 爵士海报与日期编辑延续](cases/community-gptimagehub-jazz-poster-edit/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [法案成为法律六步信息图对比](cases/community-gptimagehub-law-infographic/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [点赞爱心爆开](cases/ailingqu-like-heart-burst/README.zh-CN.md) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -291,6 +291,44 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Morphed：泡泡糖吹大、破裂并重置的循环动图](cases/morphed-bubblegum-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [KINGY LAB 水瓶摇摆 GIF](cases/kingy-sunburst-bottle-rocking/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [卡通雪人挥手循环](cases/veevid-snowman-wave/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Q 弹果冻熊摇晃](cases/ailingqu-jelly-bear-wobble/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [白兔表情贴纸组](cases/ailingqu-bunny-reaction-set/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [卡通猫挥手打招呼](cases/ailingqu-cat-waving-hello/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [柴犬歪头疑惑](cases/ailingqu-shiba-head-tilt/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [猫猫疯狂打字](cases/ailingqu-cat-typing-laptop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [青蛙吹出爱心](cases/ailingqu-frog-heart-bubble/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [企鹅捂脸](cases/ailingqu-penguin-facepalm/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [投篮命中庆祝](cases/ailingqu-basketball-shot-sticker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [猫厨师颠勺炒饭](cases/ailingqu-cat-chef-fried-rice/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [黑猫出拳](cases/ailingqu-black-cat-punch/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [打工猫上下班表情组](cases/ailingqu-office-cat-workday-set/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [咆哮的小黄鸭](cases/ailingqu-roaring-duck/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [花卉微距快闪](cases/ailingqu-flower-macro-flash/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [猫头 Logo 品牌快闪](cases/ailingqu-cat-brand-reel/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [球鞋配色快闪](cases/ailingqu-sneaker-colorway-flash/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [一棵树的四季](cases/ailingqu-four-seasons-tree/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [杂志拼贴逐格弹出](cases/ailingqu-magazine-panels-pop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [窗边读书·白天到夜晚](cases/ailingqu-window-day-to-night/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [冒热气的咖啡](cases/ailingqu-steaming-coffee/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雨窗与绿植](cases/ailingqu-rain-on-window/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [鱼缸里的金鱼](cases/ailingqu-goldfish-bowl/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [夜晚的灯塔](cases/ailingqu-lighthouse-night/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [壁炉边睡觉的猫](cases/ailingqu-cat-by-fireplace/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [雪林提灯的小猴子](cases/ailingqu-lantern-monkey-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [苔石上打盹的小狐狸](cases/ailingqu-sleepy-fox-rock/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Lo-fi 学习循环](cases/ailingqu-lofi-study-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [街角咖啡馆动态照片](cases/ailingqu-cafe-cinemagraph/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [水墨奔马](cases/ailingqu-ink-wash-horse/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [涂鸦小怪兽活了](cases/ailingqu-doodle-monster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [像素风篝火](cases/ailingqu-pixel-campfire/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [弹跳圆点加载动画](cases/ailingqu-bouncing-dots-loader/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [像素骑士跑步循环](cases/ailingqu-pixel-knight-run/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [点赞爱心爆开](cases/ailingqu-like-heart-burst/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
 

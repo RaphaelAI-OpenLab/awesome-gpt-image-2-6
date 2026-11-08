@@ -54,7 +54,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Personnages et cohérence](#category-characters-consistency) | 22 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 14 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 6 | 0 |
-| [GIF et animation](#category-gif-animation) | 15 | 0 |
+| [GIF et animation](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **108** |
+| Cas avec liens vers les sources | **146** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **71** |
-| Prompts originaux disponibles à la source | **85** |
+| Exemples déclarés par leurs créateurs | **109** |
+| Prompts originaux disponibles à la source | **123** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **177** |
-| Dernière vérification des sources (UTC) | **2026-11-06** |
+| Fichiers multimédias archivés localement | **218** |
+| Dernière vérification des sources (UTC) | **2026-11-08** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
 
@@ -121,12 +121,12 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
@@ -295,6 +295,44 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
 

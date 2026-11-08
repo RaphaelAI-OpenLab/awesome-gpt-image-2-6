@@ -54,7 +54,7 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | [캐릭터 및 일관성](#category-characters-consistency) | 22 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 14 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 6 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 15 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **108** |
+| 출처 링크가 있는 사례 | **146** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **71** |
-| 출처에서 제공하는 원문 프롬프트 | **85** |
+| 제작자가 보고한 예시 | **109** |
+| 출처에서 제공하는 원문 프롬프트 | **123** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **177** |
-| 최근 출처 확인 일시(UTC) | **2026-11-06** |
+| 로컬에 보관된 미디어 파일 | **218** |
+| 최근 출처 확인 일시(UTC) | **2026-11-08** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
 
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -295,6 +295,44 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

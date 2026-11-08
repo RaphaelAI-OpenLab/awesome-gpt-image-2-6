@@ -50,7 +50,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Characters & consistency](#category-characters-consistency) | 22 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 14 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 15 | 0 |
+| [GIF & animation](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **108** |
+| Source-linked cases | **146** |
 | Official examples | **37** |
-| Creator-reported examples | **71** |
-| Original prompts available at source | **85** |
+| Creator-reported examples | **109** |
+| Original prompts available at source | **123** |
 | Full prompts published here | **0** |
-| Locally archived media files | **177** |
-| Last source check (UTC) | **2026-11-06** |
+| Locally archived media files | **218** |
+| Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
 
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Creator-reported model |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Creator-reported model |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -291,6 +291,44 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Creator-reported model | Prompt availability unverified |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Creator-reported model | Original prompt at source |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Creator-reported model | Original prompt at source |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Creator-reported model | Original prompt at source |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Creator-reported model | Original prompt at source |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Creator-reported model | Original prompt at source |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Creator-reported model | Original prompt at source |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Creator-reported model | Original prompt at source |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Creator-reported model | Original prompt at source |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Creator-reported model | Original prompt at source |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Creator-reported model | Original prompt at source |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Creator-reported model | Original prompt at source |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Creator-reported model | Original prompt at source |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Creator-reported model | Original prompt at source |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Creator-reported model | Original prompt at source |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Creator-reported model | Original prompt at source |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Creator-reported model | Original prompt at source |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Creator-reported model | Original prompt at source |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Creator-reported model | Original prompt at source |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Creator-reported model | Original prompt at source |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Creator-reported model | Original prompt at source |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Creator-reported model | Original prompt at source |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Creator-reported model | Original prompt at source |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Creator-reported model | Original prompt at source |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Creator-reported model | Original prompt at source |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Creator-reported model | Original prompt at source |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Creator-reported model | Original prompt at source |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Creator-reported model | Original prompt at source |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Creator-reported model | Original prompt at source |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Creator-reported model | Original prompt at source |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Creator-reported model | Original prompt at source |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Creator-reported model | Original prompt at source |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Creator-reported model | Original prompt at source |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Creator-reported model | Original prompt at source |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Creator-reported model | Original prompt at source |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model | Original prompt at source |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model | Original prompt at source |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

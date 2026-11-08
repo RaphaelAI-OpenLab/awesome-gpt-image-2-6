@@ -9262,5 +9262,2313 @@
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
     }
+  },
+  {
+    "id": "ailingqu-jelly-bear-wobble",
+    "status": "published",
+    "title": {
+      "en": "Jelly bear wobble",
+      "zh-CN": "Q 弹果冻熊摇晃"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are jelly-bear-wobble. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 jelly-bear-wobble。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/jelly-bear-wobble.gif",
+        "path": "assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Jelly bear wobble",
+          "zh-CN": "Q 弹果冻熊摇晃"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 325319,
+        "sha256": "c75ed0890e860b67fa13864d23da1fca179d8398221c7c455d9c608ba3754631",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-bunny-reaction-set",
+    "status": "published",
+    "title": {
+      "en": "White bunny reaction sticker set",
+      "zh-CN": "白兔表情贴纸组"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are bunny-thumbs-up, bunny-laughing, bunny-sleepy. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 bunny-thumbs-up, bunny-laughing, bunny-sleepy。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/bunny-thumbs-up.gif",
+        "path": "assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Bunny thumbs-up",
+          "zh-CN": "兔兔点赞"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 319815,
+        "sha256": "9cde3e87568f64d1a3040c538e87023277987af0d58b8aa839d29fa790ced737",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/bunny-laughing.gif",
+        "path": "assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Bunny laughing to tears",
+          "zh-CN": "兔兔笑出眼泪"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 312191,
+        "sha256": "e303245012400efaccd51974d3467616c4e3efc2b316f77a6bfb1a419da2a91a",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/bunny-sleepy.gif",
+        "path": "assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sleepy bunny",
+          "zh-CN": "兔兔犯困"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 364752,
+        "sha256": "e34c320aa35f691980e8ff141742c22d37c56b1abe84f1116033aa8e2ef909d3",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cat-waving-hello",
+    "status": "published",
+    "title": {
+      "en": "Cartoon cat waving hello",
+      "zh-CN": "卡通猫挥手打招呼"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cat-waving-hello. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cat-waving-hello。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-waving-hello.gif",
+        "path": "assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cartoon cat waving hello",
+          "zh-CN": "卡通猫挥手打招呼"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 414879,
+        "sha256": "81e343e2e20cf06e2b099c0511c735edd3e691f0b0b73d1c363308475483934c",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-shiba-head-tilt",
+    "status": "published",
+    "title": {
+      "en": "Confused shiba head tilt",
+      "zh-CN": "柴犬歪头疑惑"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are shiba-head-tilt. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 shiba-head-tilt。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/shiba-head-tilt.gif",
+        "path": "assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Confused shiba head tilt",
+          "zh-CN": "柴犬歪头疑惑"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 447418,
+        "sha256": "3d11ba283d167f716825da3f6c118ccff1f0678ec1e1d784b3f25f49759abf45",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cat-typing-laptop",
+    "status": "published",
+    "title": {
+      "en": "Cat typing furiously",
+      "zh-CN": "猫猫疯狂打字"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cat-typing-laptop. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cat-typing-laptop。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-typing-laptop.gif",
+        "path": "assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cat typing furiously",
+          "zh-CN": "猫猫疯狂打字"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 586361,
+        "sha256": "7452c1740ade5c459dc266e415b575b57f35b8d88ffc9d139228a59ee1d6a3a8",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-frog-heart-bubble",
+    "status": "published",
+    "title": {
+      "en": "Frog blowing a heart",
+      "zh-CN": "青蛙吹出爱心"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are frog-heart-bubble. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 frog-heart-bubble。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/frog-heart-bubble.gif",
+        "path": "assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Frog blowing a heart",
+          "zh-CN": "青蛙吹出爱心"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 307101,
+        "sha256": "99cc4dfd92cc5bc575b271c89cdef9c4d8f5aa567ce436a4a5879bc1c24fd6b8",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-penguin-facepalm",
+    "status": "published",
+    "title": {
+      "en": "Penguin facepalm",
+      "zh-CN": "企鹅捂脸"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are penguin-facepalm. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 penguin-facepalm。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/penguin-facepalm.gif",
+        "path": "assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Penguin facepalm",
+          "zh-CN": "企鹅捂脸"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 350687,
+        "sha256": "ab04ebd875a72825da49246c2d870e3bba93354e520032f846b57dde5832806d",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-basketball-shot-sticker",
+    "status": "published",
+    "title": {
+      "en": "Basketball shot celebration",
+      "zh-CN": "投篮命中庆祝"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are basketball-shot-sticker. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 basketball-shot-sticker。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/basketball-shot-sticker.gif",
+        "path": "assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Basketball shot celebration",
+          "zh-CN": "投篮命中庆祝"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 501941,
+        "sha256": "5795a8de3bd27581296714a9e624841a37535b88bc62bba5656c5b7add98d95e",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cat-chef-fried-rice",
+    "status": "published",
+    "title": {
+      "en": "Cat chef tossing fried rice",
+      "zh-CN": "猫厨师颠勺炒饭"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cat-chef-fried-rice. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cat-chef-fried-rice。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-chef-fried-rice.gif",
+        "path": "assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cat chef tossing fried rice",
+          "zh-CN": "猫厨师颠勺炒饭"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 756585,
+        "sha256": "3c54f87da09d213e168df539908de750f844287bb6c96c0d2fd09d061eea46b4",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-black-cat-punch",
+    "status": "published",
+    "title": {
+      "en": "Black cat punch",
+      "zh-CN": "黑猫出拳"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are black-cat-punch. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 black-cat-punch。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/black-cat-punch.gif",
+        "path": "assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Black cat punch",
+          "zh-CN": "黑猫出拳"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 300458,
+        "sha256": "95f22e377831a4c2f60fbf6a9f5bc13c16f1360d17346b3430cc31743e52e613",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-office-cat-workday-set",
+    "status": "published",
+    "title": {
+      "en": "Office cat workday reaction set",
+      "zh-CN": "打工猫上下班表情组"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are office-cat-exhausted, office-cat-clock-out. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 office-cat-exhausted, office-cat-clock-out。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/office-cat-exhausted.gif",
+        "path": "assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Office cat: exhausted",
+          "zh-CN": "打工猫：累瘫"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 493942,
+        "sha256": "99474c8f5794c2886b142307148a68062bc2e7b962a29283b09395503cf0c1ad",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/office-cat-clock-out.gif",
+        "path": "assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Office cat: clocking out",
+          "zh-CN": "打工猫：下班啦"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 457263,
+        "sha256": "d3a73779d9f78a5622995ccb52f065bca325b1046d748f165f8a3badf90a6d15",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-roaring-duck",
+    "status": "published",
+    "title": {
+      "en": "Roaring duck",
+      "zh-CN": "咆哮的小黄鸭"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are roaring-duck. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 roaring-duck。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/roaring-duck.gif",
+        "path": "assets/examples/ailingqu-roaring-duck/roaring-duck.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Roaring duck",
+          "zh-CN": "咆哮的小黄鸭"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 346818,
+        "sha256": "1a34817ec28d1ffedc78bc96d707ee7ddaba4af367ed31e3583685fa0d2b3436",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-flower-macro-flash",
+    "status": "published",
+    "title": {
+      "en": "Flower macro flash cut",
+      "zh-CN": "花卉微距快闪"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are flower-macro-flash. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 flower-macro-flash。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/flower-macro-flash.gif",
+        "path": "assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Flower macro flash cut",
+          "zh-CN": "花卉微距快闪"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 424495,
+        "sha256": "f8f6416154b6d062593be9f5f9be39664a221b4f9cb41a3c7ce584711158e6d1",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cat-brand-reel",
+    "status": "published",
+    "title": {
+      "en": "Cat-head logo brand reel",
+      "zh-CN": "猫头 Logo 品牌快闪"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cat-brand-reel. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cat-brand-reel。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-brand-reel.gif",
+        "path": "assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cat-head logo brand reel",
+          "zh-CN": "猫头 Logo 品牌快闪"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 325562,
+        "sha256": "617a74f1a38956690720a10ccd74eaaebadda4edd52d443fae44c95accfcf9ec",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-sneaker-colorway-flash",
+    "status": "published",
+    "title": {
+      "en": "Sneaker colorway flash",
+      "zh-CN": "球鞋配色快闪"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are sneaker-colorway-flash. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 sneaker-colorway-flash。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/sneaker-colorway-flash.gif",
+        "path": "assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sneaker colorway flash",
+          "zh-CN": "球鞋配色快闪"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 128980,
+        "sha256": "3a71c71f4a935f22ad7b1dd5e526fdca50f38ef536309e006fd8b6f90f94bf6c",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-four-seasons-tree",
+    "status": "published",
+    "title": {
+      "en": "One tree, four seasons",
+      "zh-CN": "一棵树的四季"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are four-seasons-tree. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 four-seasons-tree。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/four-seasons-tree.gif",
+        "path": "assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "One tree, four seasons",
+          "zh-CN": "一棵树的四季"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 391533,
+        "sha256": "c3a3da5603f7a84b006130511bc25a7a384b1d550719c0d5c91a90b63d908013",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-magazine-panels-pop",
+    "status": "published",
+    "title": {
+      "en": "Magazine collage panels pop in",
+      "zh-CN": "杂志拼贴逐格弹出"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are magazine-panels-pop. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 magazine-panels-pop。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/magazine-panels-pop.gif",
+        "path": "assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Magazine collage panels pop in",
+          "zh-CN": "杂志拼贴逐格弹出"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 415910,
+        "sha256": "8ef974dbae533856e10d2900fcab5989221ddeb4e84c1a3d5ae9c2346246d163",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-window-day-to-night",
+    "status": "published",
+    "title": {
+      "en": "Reading by the window, day to night",
+      "zh-CN": "窗边读书·白天到夜晚"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are window-day-to-night. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 window-day-to-night。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/window-day-to-night.gif",
+        "path": "assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Reading by the window, day to night",
+          "zh-CN": "窗边读书·白天到夜晚"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 680164,
+        "sha256": "6815286ae0a41b9791a4598838b699222d790b72a007f35ae69f43ae6f5f2d88",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-steaming-coffee",
+    "status": "published",
+    "title": {
+      "en": "Steaming coffee loop",
+      "zh-CN": "冒热气的咖啡"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are steaming-coffee. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 steaming-coffee。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/steaming-coffee.gif",
+        "path": "assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Steaming coffee loop",
+          "zh-CN": "冒热气的咖啡"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 881163,
+        "sha256": "02df72a7a26771c9a4302a135c0e75fed5b0beccd45f90c5d26a1f9b50d76d22",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-rain-on-window",
+    "status": "published",
+    "title": {
+      "en": "Rainy window and plant",
+      "zh-CN": "雨窗与绿植"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are rain-on-window. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 rain-on-window。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/rain-on-window.gif",
+        "path": "assets/examples/ailingqu-rain-on-window/rain-on-window.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Rainy window and plant",
+          "zh-CN": "雨窗与绿植"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 647751,
+        "sha256": "c48e9b8a72d9a2c83d9040629c0111bd911e59914532b8b674ca07952704563d",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-goldfish-bowl",
+    "status": "published",
+    "title": {
+      "en": "Goldfish in a bowl",
+      "zh-CN": "鱼缸里的金鱼"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are goldfish-bowl. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 goldfish-bowl。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/goldfish-bowl.gif",
+        "path": "assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Goldfish in a bowl",
+          "zh-CN": "鱼缸里的金鱼"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 758772,
+        "sha256": "da60e1c01f318d244f01424dc736d0b0d7d0ba61d87cf51e1e9065628d248e7c",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-lighthouse-night",
+    "status": "published",
+    "title": {
+      "en": "Lighthouse at night",
+      "zh-CN": "夜晚的灯塔"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are lighthouse-night. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 lighthouse-night。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/lighthouse-night.gif",
+        "path": "assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Lighthouse at night",
+          "zh-CN": "夜晚的灯塔"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 485301,
+        "sha256": "47c6e1b201cd3a903ce150f06be2e8e49bc5d062e86010544f38fd5345e2b542",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cat-by-fireplace",
+    "status": "published",
+    "title": {
+      "en": "Cat sleeping by the fireplace",
+      "zh-CN": "壁炉边睡觉的猫"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cat-by-fireplace. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cat-by-fireplace。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-by-fireplace.gif",
+        "path": "assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cat sleeping by the fireplace",
+          "zh-CN": "壁炉边睡觉的猫"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 835259,
+        "sha256": "744fe019da30904e217538f1d94c9da21f6855953bc083733aa9fdada2277060",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-lantern-monkey-snow",
+    "status": "published",
+    "title": {
+      "en": "Lantern monkey in the snow",
+      "zh-CN": "雪林提灯的小猴子"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are lantern-monkey-snow. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 lantern-monkey-snow。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/lantern-monkey-snow.gif",
+        "path": "assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Lantern monkey in the snow",
+          "zh-CN": "雪林提灯的小猴子"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 1019333,
+        "sha256": "9dc9f2a2af1d555ac470e6989e88d4ad9ed1e214579a0d84f3542b5f5049ff4d",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-sleepy-fox-rock",
+    "status": "published",
+    "title": {
+      "en": "Sleepy fox on a mossy rock",
+      "zh-CN": "苔石上打盹的小狐狸"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are sleepy-fox-rock. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 sleepy-fox-rock。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/sleepy-fox-rock.gif",
+        "path": "assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sleepy fox on a mossy rock",
+          "zh-CN": "苔石上打盹的小狐狸"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 842803,
+        "sha256": "0a398ed08cff0c49088499c82323e30c64c614cc551cc9746177e981c185072a",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-lofi-study-loop",
+    "status": "published",
+    "title": {
+      "en": "Lo-fi study loop",
+      "zh-CN": "Lo-fi 学习循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are lofi-study-loop. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 lofi-study-loop。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/lofi-study-loop.gif",
+        "path": "assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Lo-fi study loop",
+          "zh-CN": "Lo-fi 学习循环"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 790745,
+        "sha256": "b681cffee739a4e4b456d00de664304575fc96deed5872c2e2ce6ad73a155599",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-cafe-cinemagraph",
+    "status": "published",
+    "title": {
+      "en": "Café cinemagraph",
+      "zh-CN": "街角咖啡馆动态照片"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are cafe-cinemagraph. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 cafe-cinemagraph。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cafe-cinemagraph.gif",
+        "path": "assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Café cinemagraph",
+          "zh-CN": "街角咖啡馆动态照片"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 970740,
+        "sha256": "d9443ba5d03310759d964aa099cad53f1534baa2dbeef7b91b668c3fc766cd76",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-ink-wash-horse",
+    "status": "published",
+    "title": {
+      "en": "Ink-wash galloping horse",
+      "zh-CN": "水墨奔马"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are ink-wash-horse. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 ink-wash-horse。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/ink-wash-horse.gif",
+        "path": "assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Ink-wash galloping horse",
+          "zh-CN": "水墨奔马"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 900856,
+        "sha256": "dbbdd8fa990251f3f309336f3861ec878599661768695be498407e201c3168f7",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-doodle-monster",
+    "status": "published",
+    "title": {
+      "en": "Doodle monster comes alive",
+      "zh-CN": "涂鸦小怪兽活了"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are doodle-monster. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 doodle-monster。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/doodle-monster.gif",
+        "path": "assets/examples/ailingqu-doodle-monster/doodle-monster.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Doodle monster comes alive",
+          "zh-CN": "涂鸦小怪兽活了"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 543774,
+        "sha256": "46c9494ccaef1dcc4d456932f34b318b153f2fc246846c30d5c7eb69ed015dbc",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-pixel-campfire",
+    "status": "published",
+    "title": {
+      "en": "Pixel art campfire",
+      "zh-CN": "像素风篝火"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are pixel-campfire. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 pixel-campfire。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-campfire.gif",
+        "path": "assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Pixel art campfire",
+          "zh-CN": "像素风篝火"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 504252,
+        "sha256": "8eae3569fc8cd247081e00428549dd30a525c128eb201d9b9424e066caff5640",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-bouncing-dots-loader",
+    "status": "published",
+    "title": {
+      "en": "Bouncing dots loader",
+      "zh-CN": "弹跳圆点加载动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are bouncing-dots-loader. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 bouncing-dots-loader。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/bouncing-dots-loader.gif",
+        "path": "assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Bouncing dots loader",
+          "zh-CN": "弹跳圆点加载动画"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 331852,
+        "sha256": "8574cc46b7e9e06f48ece859bf161a158b2aa04c8eb99f3be37cc6e497a845ce",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-pixel-knight-run",
+    "status": "published",
+    "title": {
+      "en": "Pixel knight run cycle",
+      "zh-CN": "像素骑士跑步循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are pixel-knight-run. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 pixel-knight-run。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-knight-run.gif",
+        "path": "assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Pixel knight run cycle",
+          "zh-CN": "像素骑士跑步循环"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 215969,
+        "sha256": "c9f4601f66d9333262e858867cec129a63bd46f7bf36cd0fc9965a53cbfec337",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-like-heart-burst",
+    "status": "published",
+    "title": {
+      "en": "Like button heart burst",
+      "zh-CN": "点赞爱心爆开"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are like-heart-burst. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 like-heart-burst。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/like-heart-burst.gif",
+        "path": "assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Like button heart burst",
+          "zh-CN": "点赞爱心爆开"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 97378,
+        "sha256": "67b43b8b5e14715d6268eb9f023ee4a799741e239d363abdb711d4185d9d3902",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-hourglass-flip",
+    "status": "published",
+    "title": {
+      "en": "Hourglass loading",
+      "zh-CN": "沙漏加载"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are hourglass-flip. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 hourglass-flip。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/hourglass-flip.gif",
+        "path": "assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Hourglass loading",
+          "zh-CN": "沙漏加载"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 308382,
+        "sha256": "fe815826b49cd6d2ea8ac434555ca06487c64e6c1bf962e6d89a3fdb9616d6c0",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-arcade-vs-screen",
+    "status": "published",
+    "title": {
+      "en": "Arcade VS screen",
+      "zh-CN": "街机对战 VS 画面"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are arcade-vs-screen. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 arcade-vs-screen。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/arcade-vs-screen.gif",
+        "path": "assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Arcade VS screen",
+          "zh-CN": "街机对战 VS 画面"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 950129,
+        "sha256": "e848fd4ace9df9e63367d50f8dd42c4a4aa031eeee282a1af5eb13fe94d9f35b",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-pixel-slime-boss",
+    "status": "published",
+    "title": {
+      "en": "8-bit slime boss battle",
+      "zh-CN": "8-bit 史莱姆 Boss 战"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are pixel-slime-boss. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 pixel-slime-boss。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-slime-boss.gif",
+        "path": "assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "8-bit slime boss battle",
+          "zh-CN": "8-bit 史莱姆 Boss 战"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 619060,
+        "sha256": "168ee5159a70213af7a8ac83b46f991ef29b400e0a5f211d829e6c8176e5576b",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-love-burst-skill",
+    "status": "published",
+    "title": {
+      "en": "Love-burst skill animation",
+      "zh-CN": "爱心爆发技能动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are love-burst-skill. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 love-burst-skill。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/love-burst-skill.gif",
+        "path": "assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Love-burst skill animation",
+          "zh-CN": "爱心爆发技能动画"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 631097,
+        "sha256": "78a05fddbe3971f080c7fd285ff4cbb199ebd5cdab172eff4264cc59393cd2a9",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
+  },
+  {
+    "id": "ailingqu-junkyard-robot-walk",
+    "status": "published",
+    "title": {
+      "en": "Junkyard robot walk cycle",
+      "zh-CN": "废品场机器人行走"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md",
+      "author": "ailingqu / awesome-ai-gif-prompts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator states that the repository generated every example GIF, and each matched data/results.json entry identifies gpt-image-2.6. The exact output IDs for this grouped case are junkyard-robot-walk. This is creator-reported family attribution; a specific Flare/Sunburst backend is not established.",
+        "zh-CN": "作者声明仓库自行生成全部示例 GIF，匹配的 data/results.json 逐项记录 gpt-image-2.6。本组输出标识为 junkyard-robot-walk。这是作者自述的模型家族归属，未独立确定 Flare/Sunburst 后端。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+    },
+    "media": [
+      {
+        "source_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/junkyard-robot-walk.gif",
+        "path": "assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Junkyard robot walk cycle",
+          "zh-CN": "废品场机器人行走"
+        },
+        "rights": {
+          "status": "licensed",
+          "evidence_url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/LICENSE",
+          "credit": "ailingqu / awesome-ai-gif-prompts",
+          "note": {
+            "en": "CC BY 4.0, ailingqu / awesome-ai-gif-prompts. Unmodified source GIF; source and licence are linked. Licence and warranty disclaimer: docs/ailingqu-2037/LICENSE.txt; attribution: docs/ailingqu-2037/ATTRIBUTION.md. Collection grouping and metadata added. No endorsement implied. Not covered by the collection MIT licence. Third-party rights are not independently cleared.",
+            "zh-CN": "CC BY 4.0，署名 ailingqu / awesome-ai-gif-prompts。原始 GIF 未修改，保留来源与许可链接。许可及免责声明：docs/ailingqu-2037/LICENSE.txt；署名：docs/ailingqu-2037/ATTRIBUTION.md。补充了合集分组与元数据，不暗示认可，不适用合集 MIT 许可，未独立排除第三方权利。"
+          }
+        },
+        "bytes": 390226,
+        "sha256": "c7e8ca98b6a7e71cdef90331f63ae0384619940acf3436b463d2a3101794b8ca",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Creator-reported example. Exact licensed source prompt bodies and the shared suffix are retained in docs/ailingqu-2037/verified-prompts.json with output IDs. Original GIF bytes are unchanged. Collection grouping and factual notes were added; grouped titles are editorial. All frames decoded, and representative first/middle/last frames inspected. This is not a timed playback, generation-speed, backend or seamless-loop verification.",
+      "zh-CN": "作者自述示例。准确授权原文及共享后缀连同输出标识保存在 docs/ailingqu-2037/verified-prompts.json。GIF 原始字节不变。补充了合集分组与事实说明，分组标题为编辑整理。全部帧解码，并检查首帧、中间帧及末帧；未核验实时播放、生成速度、后端或无缝循环。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false
   }
 ]

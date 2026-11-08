@@ -54,7 +54,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [キャラクターと一貫性](#category-characters-consistency) | 22 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 14 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 6 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 15 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **108** |
+| 出典リンク付き事例 | **146** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **71** |
-| 出典で公開されている原文プロンプト | **85** |
+| 作者が報告した作例 | **109** |
+| 出典で公開されている原文プロンプト | **123** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **177** |
-| 出典の最終確認日時（UTC） | **2026-11-06** |
+| ローカルに保存済みのメディアファイル | **218** |
+| 出典の最終確認日時（UTC） | **2026-11-08** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -295,6 +295,44 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

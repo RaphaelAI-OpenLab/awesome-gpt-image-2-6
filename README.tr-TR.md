@@ -54,7 +54,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 22 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 14 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 15 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 53 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **108** |
+| Kaynak bağlantılı örnekler | **146** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **71** |
-| Kaynakta bulunan özgün istemler | **85** |
+| Üreticilerinin bildirdiği örnekler | **109** |
+| Kaynakta bulunan özgün istemler | **123** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **177** |
-| Son kaynak kontrolü (UTC) | **2026-11-06** |
+| Yerel olarak arşivlenmiş medya dosyaları | **218** |
+| Son kaynak kontrolü (UTC) | **2026-11-08** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
 
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
-| 2026-11-06 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -295,6 +295,44 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 
