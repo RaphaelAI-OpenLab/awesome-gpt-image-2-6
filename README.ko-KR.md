@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 28 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 30 | 0 |
-| [인포그래픽](#category-infographics) | 12 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 31 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 31 | 0 |
+| [인포그래픽](#category-infographics) | 14 | 0 |
 | [인테리어 및 건축](#category-interiors-architecture) | 9 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 30 | 0 |
-| [마크업 및 특정 영역 편집](#category-markup-edits) | 23 | 0 |
-| [SVG 및 디자인 에셋](#category-svg-design-assets) | 9 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 98 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 33 | 0 |
+| [마크업 및 특정 영역 편집](#category-markup-edits) | 29 | 0 |
+| [SVG 및 디자인 에셋](#category-svg-design-assets) | 10 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **239** |
+| 출처 링크가 있는 사례 | **261** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **202** |
-| 출처에서 제공하는 원문 프롬프트 | **173** |
+| 제작자가 보고한 예시 | **224** |
+| 출처에서 제공하는 원문 프롬프트 | **190** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **370** |
+| 로컬에 보관된 미디어 파일 | **401** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -121,12 +121,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -275,6 +281,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +314,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +336,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-gif-animation"></a>
 
@@ -426,6 +442,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

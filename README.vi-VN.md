@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 28 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 30 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 12 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 31 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 31 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 14 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 9 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 30 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 23 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 9 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 98 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 33 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 29 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 10 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **239** |
+| Trường hợp có liên kết nguồn | **261** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **202** |
-| Câu lệnh gốc có sẵn tại nguồn | **173** |
+| Ví dụ do tác giả báo cáo | **224** |
+| Câu lệnh gốc có sẵn tại nguồn | **190** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **370** |
+| Tệp tư liệu được lưu trữ cục bộ | **401** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -275,6 +281,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +314,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +336,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-gif-animation"></a>
 
@@ -426,6 +442,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

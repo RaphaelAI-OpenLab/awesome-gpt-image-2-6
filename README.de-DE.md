@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 28 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 30 | 0 |
-| [Infografiken](#category-infographics) | 12 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 31 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 31 | 0 |
+| [Infografiken](#category-infographics) | 14 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 9 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 30 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 23 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 9 | 0 |
-| [GIF & Animation](#category-gif-animation) | 98 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 33 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 29 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 10 | 0 |
+| [GIF & Animation](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **239** |
+| Beispiele mit Quellenverweisen | **261** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **202** |
-| An der Quelle verfügbare Original-Prompts | **173** |
+| Von Erstellern gemeldete Beispiele | **224** |
+| An der Quelle verfügbare Original-Prompts | **190** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **370** |
+| Lokal archivierte Mediendateien | **401** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -121,12 +121,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Vom Ersteller angegebenes Modell |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -275,6 +281,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +314,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +336,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-gif-animation"></a>
 
@@ -426,6 +442,12 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 
