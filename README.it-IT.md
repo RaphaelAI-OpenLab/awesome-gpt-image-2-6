@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 28 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 30 | 0 |
-| [Infografiche](#category-infographics) | 12 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 31 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 31 | 0 |
+| [Infografiche](#category-infographics) | 14 | 0 |
 | [Interni e architettura](#category-interiors-architecture) | 9 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 30 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 23 | 0 |
-| [SVG e risorse grafiche](#category-svg-design-assets) | 9 | 0 |
-| [GIF e animazione](#category-gif-animation) | 98 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 33 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 29 | 0 |
+| [SVG e risorse grafiche](#category-svg-design-assets) | 10 | 0 |
+| [GIF e animazione](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **239** |
+| Casi con collegamenti alle fonti | **261** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **202** |
-| Prompt originali disponibili alla fonte | **173** |
+| Esempi dichiarati dai creatori | **224** |
+| Prompt originali disponibili alla fonte | **190** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **370** |
+| File multimediali archiviati localmente | **401** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -275,6 +281,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +314,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +336,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-gif-animation"></a>
 
@@ -426,6 +442,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

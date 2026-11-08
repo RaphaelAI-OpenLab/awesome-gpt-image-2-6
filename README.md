@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 28 | 0 |
-| [Posters & typography](#category-posters-typography) | 30 | 0 |
-| [Infographics](#category-infographics) | 12 | 0 |
+| [Brand & product visuals](#category-brand-products) | 31 | 0 |
+| [Posters & typography](#category-posters-typography) | 31 | 0 |
+| [Infographics](#category-infographics) | 14 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 9 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 30 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 23 | 0 |
-| [SVG & design assets](#category-svg-design-assets) | 9 | 0 |
-| [GIF & animation](#category-gif-animation) | 98 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 33 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 29 | 0 |
+| [SVG & design assets](#category-svg-design-assets) | 10 | 0 |
+| [GIF & animation](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **239** |
+| Source-linked cases | **261** |
 | Official examples | **37** |
-| Creator-reported examples | **202** |
-| Original prompts available at source | **173** |
+| Creator-reported examples | **224** |
+| Original prompts available at source | **190** |
 | Full prompts published here | **0** |
-| Locally archived media files | **370** |
+| Locally archived media files | **401** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Creator-reported model |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Creator-reported model |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Creator-reported model |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Creator-reported model |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Creator-reported model |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Creator-reported model |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Creator-reported model |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -162,6 +162,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Creator-reported model | Prompt not public |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Creator-reported model | Original prompt at source |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Creator-reported model | Original prompt at source |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Creator-reported model | Prompt availability unverified |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -199,6 +202,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Creator-reported model | Prompt not public |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Creator-reported model | Original prompt at source |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Creator-reported model | Original prompt at source |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Creator-reported model | Prompt availability unverified |
 
 <a id="category-infographics"></a>
 
@@ -218,6 +222,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Creator-reported model | Original prompt at source |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Creator-reported model | Original prompt at source |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Creator-reported model | Original prompt at source |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Creator-reported model | Original prompt at source |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -271,6 +277,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Creator-reported model | Original prompt at source |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Creator-reported model | Original prompt at source |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Creator-reported model | Original prompt at source |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Creator-reported model | Prompt availability unverified |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Creator-reported model | Original prompt at source |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -301,6 +310,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Creator-reported model | Prompt availability unverified |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Creator-reported model | Original prompt at source |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Creator-reported model | Original prompt at source |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Creator-reported model | Original prompt at source |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Creator-reported model | Original prompt at source |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -317,6 +332,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Creator-reported model | Prompt not public |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Creator-reported model | Prompt not public |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Creator-reported model | Prompt not public |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-gif-animation"></a>
 
@@ -422,6 +438,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Creator-reported model | Prompt availability unverified |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Creator-reported model | Prompt availability unverified |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Creator-reported model | Prompt availability unverified |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Creator-reported model | Prompt not public |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Creator-reported model | Prompt availability unverified |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Creator-reported model | Original prompt at source |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Creator-reported model | Original prompt at source |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

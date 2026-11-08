@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 28 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 30 | 0 |
-| [İnfografikler](#category-infographics) | 12 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 31 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 31 | 0 |
+| [İnfografikler](#category-infographics) | 14 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 9 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 30 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 23 | 0 |
-| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 9 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 98 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 33 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 29 | 0 |
+| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 10 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 104 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **239** |
+| Kaynak bağlantılı örnekler | **261** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **202** |
-| Kaynakta bulunan özgün istemler | **173** |
+| Üreticilerinin bildirdiği örnekler | **224** |
+| Kaynakta bulunan özgün istemler | **190** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **370** |
+| Yerel olarak arşivlenmiş medya dosyaları | **401** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +121,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
-| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -166,6 +166,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -275,6 +281,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-markup-edits"></a>
 
@@ -305,6 +314,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -321,6 +336,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-gif-animation"></a>
 
@@ -426,6 +442,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 
