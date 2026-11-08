@@ -47,10 +47,10 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 22 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 24 | 0 |
 | [Poster & Typografie](#category-posters-typography) | 25 | 0 |
 | [Infografiken](#category-infographics) | 12 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 7 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 26 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 18 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **197** |
+| Beispiele mit Quellenverweisen | **201** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **160** |
-| An der Quelle verfügbare Original-Prompts | **145** |
+| Von Erstellern gemeldete Beispiele | **164** |
+| An der Quelle verfügbare Original-Prompts | **149** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **312** |
-| Letzte Quellenprüfung (UTC) | **2026-11-08** |
+| Lokal archivierte Mediendateien | **319** |
+| Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
 
@@ -160,6 +160,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-characters-consistency"></a>
 

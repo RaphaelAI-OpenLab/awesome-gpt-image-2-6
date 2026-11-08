@@ -47,10 +47,10 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 22 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 24 | 0 |
 | [ポスター・タイポグラフィ](#category-posters-typography) | 25 | 0 |
 | [インフォグラフィック](#category-infographics) | 12 | 0 |
-| [インテリア・建築](#category-interiors-architecture) | 5 | 0 |
+| [インテリア・建築](#category-interiors-architecture) | 7 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 26 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 18 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **197** |
+| 出典リンク付き事例 | **201** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **160** |
-| 出典で公開されている原文プロンプト | **145** |
+| 作者が報告した作例 | **164** |
+| 出典で公開されている原文プロンプト | **149** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **312** |
-| 出典の最終確認日時（UTC） | **2026-11-08** |
+| ローカルに保存済みのメディアファイル | **319** |
+| 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
 
@@ -160,6 +160,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-characters-consistency"></a>
 

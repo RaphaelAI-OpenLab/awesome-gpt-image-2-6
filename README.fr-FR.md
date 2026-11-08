@@ -47,10 +47,10 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 22 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 24 | 0 |
 | [Affiches et typographie](#category-posters-typography) | 25 | 0 |
 | [Infographies](#category-infographics) | 12 | 0 |
-| [Intérieurs et architecture](#category-interiors-architecture) | 5 | 0 |
+| [Intérieurs et architecture](#category-interiors-architecture) | 7 | 0 |
 | [Personnages et cohérence](#category-characters-consistency) | 26 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 18 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **197** |
+| Cas avec liens vers les sources | **201** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **160** |
-| Prompts originaux disponibles à la source | **145** |
+| Exemples déclarés par leurs créateurs | **164** |
+| Prompts originaux disponibles à la source | **149** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **312** |
-| Dernière vérification des sources (UTC) | **2026-11-08** |
+| Fichiers multimédias archivés localement | **319** |
+| Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
 
@@ -160,6 +160,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 
 <a id="category-characters-consistency"></a>
 

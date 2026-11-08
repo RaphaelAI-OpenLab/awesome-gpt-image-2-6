@@ -47,10 +47,10 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 22 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 24 | 0 |
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 25 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 12 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 5 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 7 | 0 |
 | [पात्र और एकरूपता](#category-characters-consistency) | 26 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 18 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **197** |
+| स्रोत से जुड़े उदाहरण | **201** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **160** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **145** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **164** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **149** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **312** |
-| स्रोत की पिछली जाँच (UTC) | **2026-11-08** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **319** |
+| स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
 
@@ -160,6 +160,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-characters-consistency"></a>
 

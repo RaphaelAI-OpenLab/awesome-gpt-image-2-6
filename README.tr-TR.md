@@ -47,10 +47,10 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 22 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 24 | 0 |
 | [Afişler ve tipografi](#category-posters-typography) | 25 | 0 |
 | [İnfografikler](#category-infographics) | 12 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 5 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 7 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 26 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 18 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **197** |
+| Kaynak bağlantılı örnekler | **201** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **160** |
-| Kaynakta bulunan özgün istemler | **145** |
+| Üreticilerinin bildirdiği örnekler | **164** |
+| Kaynakta bulunan özgün istemler | **149** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **312** |
-| Son kaynak kontrolü (UTC) | **2026-11-08** |
+| Yerel olarak arşivlenmiş medya dosyaları | **319** |
+| Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
 
@@ -160,6 +160,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-characters-consistency"></a>
 

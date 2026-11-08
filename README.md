@@ -43,10 +43,10 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 22 | 0 |
+| [Brand & product visuals](#category-brand-products) | 24 | 0 |
 | [Posters & typography](#category-posters-typography) | 25 | 0 |
 | [Infographics](#category-infographics) | 12 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 7 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 26 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 18 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
@@ -82,13 +82,13 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **197** |
+| Source-linked cases | **201** |
 | Official examples | **37** |
-| Creator-reported examples | **160** |
-| Original prompts available at source | **145** |
+| Creator-reported examples | **164** |
+| Original prompts available at source | **149** |
 | Full prompts published here | **0** |
-| Locally archived media files | **312** |
-| Last source check (UTC) | **2026-11-08** |
+| Locally archived media files | **319** |
+| Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
 
@@ -156,6 +156,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Creator-reported model | Original prompt at source |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Creator-reported model | Original prompt at source |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -219,6 +221,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model | Original prompt at source |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Creator-reported model | Original prompt at source |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Creator-reported model | Prompt not public |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Creator-reported model | Original prompt at source |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-characters-consistency"></a>
 

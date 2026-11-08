@@ -47,10 +47,10 @@
 
 | 分類 | 附來源連結的案例 | 完整提示詞 |
 | --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 22 | 0 |
+| [品牌與產品視覺](#category-brand-products) | 24 | 0 |
 | [海報與文字排版](#category-posters-typography) | 25 | 0 |
 | [資訊圖表](#category-infographics) | 12 | 0 |
-| [室內設計與建築](#category-interiors-architecture) | 5 | 0 |
+| [室內設計與建築](#category-interiors-architecture) | 7 | 0 |
 | [角色與一致性](#category-characters-consistency) | 26 | 0 |
 | [標註與局部編輯](#category-markup-edits) | 18 | 0 |
 | [SVG 與設計素材](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **197** |
+| 附來源連結的案例 | **201** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **160** |
-| 可於來源取得的原始提示詞 | **145** |
+| 創作者自述範例 | **164** |
+| 可於來源取得的原始提示詞 | **149** |
 | 於此發布的完整提示詞 | **0** |
-| 已於本機封存的媒體檔案 | **312** |
-| 最近來源檢查時間（UTC） | **2026-11-08** |
+| 已於本機封存的媒體檔案 | **319** |
+| 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
 
@@ -160,6 +160,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | 創作者自述模型 | 提示詞未公開 |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | 創作者自述模型 | 來源中的原始提示詞 |
 
 <a id="category-characters-consistency"></a>
 

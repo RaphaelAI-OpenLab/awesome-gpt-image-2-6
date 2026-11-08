@@ -43,10 +43,10 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 22 | 0 |
+| [品牌与商品](#category-brand-products) | 24 | 0 |
 | [海报与文字排版](#category-posters-typography) | 25 | 0 |
 | [信息图](#category-infographics) | 12 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 5 | 0 |
+| [室内与建筑](#category-interiors-architecture) | 7 | 0 |
 | [角色与一致性](#category-characters-consistency) | 26 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 18 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 8 | 0 |
@@ -82,13 +82,13 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **197** |
+| 来源案例 | **201** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **160** |
-| 来源公开原始提示词 | **145** |
+| 社区作者自报案例 | **164** |
+| 来源公开原始提示词 | **149** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **312** |
-| 最近来源核对（UTC） | **2026-11-08** |
+| 本地收录素材文件 | **319** |
+| 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
 
@@ -156,6 +156,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [扁平狐狸吉祥物徽章](cases/toonderly-fox-badge/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [腕表四轮编辑](cases/yir-watch-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [花瓶四轮编辑](cases/yir-vase-edit-sequence/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [汤品照片与食谱卡](cases/joinoasis-tomato-soup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [外套与长靴参考组合](cases/joinoasis-blazer-boots-composition/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -219,6 +221,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [Made 超广角夜市通道](cases/made-flare-market-aerial/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [蓝调时刻的雪山玻璃温室](cases/analyticsvidhya-snowy-greenhouse/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雾中城市红色电车](cases/kavel-tram/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [四房间门洞布局](cases/joinoasis-four-room-floorplan/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [厨房吊灯替换](cases/joinoasis-kitchen-pendant-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-characters-consistency"></a>
 

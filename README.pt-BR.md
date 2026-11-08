@@ -47,10 +47,10 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 22 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 24 | 0 |
 | [Pôsteres e tipografia](#category-posters-typography) | 25 | 0 |
 | [Infográficos](#category-infographics) | 12 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 5 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 7 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 26 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 18 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 8 | 0 |
@@ -86,13 +86,13 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **197** |
+| Casos com link para a fonte | **201** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **160** |
-| Prompts originais disponíveis na fonte | **145** |
+| Exemplos relatados pelos criadores | **164** |
+| Prompts originais disponíveis na fonte | **149** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **312** |
-| Última verificação das fontes (UTC) | **2026-11-08** |
+| Arquivos de mídia arquivados localmente | **319** |
+| Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
 
@@ -160,6 +160,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -223,6 +225,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-characters-consistency"></a>
 
