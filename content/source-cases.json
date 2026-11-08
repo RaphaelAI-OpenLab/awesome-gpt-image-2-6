@@ -22083,5 +22083,941 @@
       },
       "report_path": "docs/ZHIDX_RECOVERY_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "framemux-sunny-pop-poster",
+    "status": "published",
+    "title": {
+      "en": "SUNNY POP sparkling-water poster",
+      "zh-CN": "SUNNY POP 气泡水海报"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Sparkling water poster” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“气泡水海报”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/gpt-image-2-6-poster.webp",
+        "path": "assets/examples/framemux-sunny-pop-poster/framemux-gpt-image-2-6-poster.webp",
+        "kind": "image",
+        "alt": {
+          "en": "SUNNY POP sparkling-water poster with a bottle, citrus and lettering",
+          "zh-CN": "SUNNY POP 气泡水海报，含瓶身、柑橘与标题文字"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "662e6e99ff1a47fafc8bd3432254becfff899b8eea8fd4b2a54344d4c07a6f5f",
+        "bytes": 83032,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. Depicted SUNNY POP branding and trademark-style marks are part of the source artwork; no brand affiliation or trademark license is asserted.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 图中 SUNNY POP 品牌文字及商标式标记属于来源作品内容，不表示存在品牌合作或商标许可。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-cat-barista",
+    "status": "published",
+    "title": {
+      "en": "Cat barista: sprite sheet and assembled animation",
+      "zh-CN": "猫咪咖啡师：精灵图与拼接动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Mascot sprite sheet / Cat barista” gallery cards each carry the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“吉祥物精灵图 / 猫咪咖啡师”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/gpt-image-2-6-sprite.webp",
+        "path": "assets/examples/framemux-cat-barista/framemux-gpt-image-2-6-sprite.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-panel cat-barista sprite sheet, static WebP",
+          "zh-CN": "六格猫咪咖啡师精灵图，静态 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "00fd9c8904442c09b70c7654956c40a6ec8b689f6369de6595a2f5acbff8fd6a",
+        "bytes": 110508,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://framemux.com/examples/ai-gif-cat-barista.webp",
+        "path": "assets/examples/framemux-cat-barista/framemux-ai-gif-cat-barista.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame assembled cat-barista animation, animated WebP",
+          "zh-CN": "猫咪咖啡师六帧拼接动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "39963aed527340e2ad2f731424886bdf400ec760b091e876de032ee5b6cc6d09",
+        "bytes": 85536,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total). The static sheet and animated example share a subject and are kept as one workflow group; evidence does not establish that this exact animation was cut from the displayed sheet.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。 静态精灵图与动态示例题材相同，作为一个流程组保留；现有证据无法证明该动画直接裁自所展示的那张精灵图。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-dinosaur-wave",
+    "status": "published",
+    "title": {
+      "en": "Waving dinosaur: assembled sprite animation",
+      "zh-CN": "挥手小恐龙：精灵图拼接动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Dinosaur mascot” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“恐龙吉祥物”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/ai-gif-dino-wave.webp",
+        "path": "assets/examples/framemux-dinosaur-wave/framemux-ai-gif-dino-wave.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame waving green-dinosaur animation, animated WebP",
+          "zh-CN": "绿色小恐龙六帧挥手动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "5cf5a5984a1fe298118cd468053abac14a6b16e9102724df8557cc8d8512e813",
+        "bytes": 90068,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total).",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-pixel-knight",
+    "status": "published",
+    "title": {
+      "en": "Pixel knight: assembled sword animation",
+      "zh-CN": "像素骑士：挥剑拼接动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Pixel knight” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“像素骑士”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/ai-gif-pixel-knight.webp",
+        "path": "assets/examples/framemux-pixel-knight/framemux-ai-gif-pixel-knight.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame pixel-knight sword animation, animated WebP",
+          "zh-CN": "像素骑士六帧挥剑动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "8d0d130987225a2a5855ed53e2743c27390e5ffce917bbf562eeaedb05ccd5f6",
+        "bytes": 46634,
+        "mime_type": "image/webp",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total).",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-window-cat",
+    "status": "published",
+    "title": {
+      "en": "Window cat: reference-to-animation workflow",
+      "zh-CN": "窗边猫咪：参考图转动画流程"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Window cat” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“窗边猫咪”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/image-to-gif-window-cat.webp",
+        "path": "assets/examples/framemux-window-cat/framemux-image-to-gif-window-cat.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame window-cat animation, animated WebP",
+          "zh-CN": "窗边猫咪六帧动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "56e52ebe17f4405cbfa839c90d013c1f4497a49827e6dff9e9b24b5280b64786",
+        "bytes": 83048,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://framemux.com/examples/kling-2-6-cat.webp",
+        "path": "assets/references/framemux-window-cat/framemux-kling-2-6-cat.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Window-cat reference input; source filename names Kling, not a GPT Image 2.6 output",
+          "zh-CN": "窗边猫咪参考输入；源文件名提到 Kling，不归为 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "f38ac2074a804061b77017790474e53bb08738e61d249901db801858700117fe",
+        "bytes": 49138,
+        "mime_type": "image/webp",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total). The source marks the companion as “Original”; it is a reference input. Its filename mentions another model family, which is not independent verification of that input’s model. It is not attributed to GPT Image 2.6.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。 来源将配套图片标为“Original”，因此作为参考输入保留。其文件名提到其他模型系列，但这不构成输入模型的独立验证；不将其归为 GPT Image 2.6 输出。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-moon-bounce",
+    "status": "published",
+    "title": {
+      "en": "Moon bounce: reference-to-animation workflow",
+      "zh-CN": "月面跳跃：参考图转动画流程"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Moon bounce” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“月面跳跃”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/image-to-gif-astronaut.webp",
+        "path": "assets/examples/framemux-moon-bounce/framemux-image-to-gif-astronaut.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame astronaut-on-the-moon animation, animated WebP",
+          "zh-CN": "月面宇航员六帧动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "94843fceba5409a1c72fe8657ea7faf4677eb50c009447449b7dccb5e86b3b52",
+        "bytes": 111342,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://framemux.com/examples/grok-video-astronaut.webp",
+        "path": "assets/references/framemux-moon-bounce/framemux-grok-video-astronaut.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Astronaut reference input; source filename names Grok, not a GPT Image 2.6 output",
+          "zh-CN": "宇航员参考输入；源文件名提到 Grok，不归为 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "4f7b0c50b6ae7eac8d4bf870a9473a86cc7de4bca17074fa4c4d723218e54471",
+        "bytes": 65038,
+        "mime_type": "image/webp",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total). The source marks the companion as “Original”; it is a reference input. Its filename mentions another model family, which is not independent verification of that input’s model. It is not attributed to GPT Image 2.6.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。 来源将配套图片标为“Original”，因此作为参考输入保留。其文件名提到其他模型系列，但这不构成输入模型的独立验证；不将其归为 GPT Image 2.6 输出。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "framemux-ramen-steam",
+    "status": "published",
+    "title": {
+      "en": "Steaming ramen: reference-to-animation workflow",
+      "zh-CN": "热气拉面：参考图转动画流程"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://framemux.com/models/gpt-image-2-6",
+      "author": "FrameMux",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The individual “Steaming ramen” gallery card carries the “GPT Image 2.6” model badge. The same page explicitly identifies this FrameMux model as the Flare version. This is a platform claim, not independently verified execution.",
+        "zh-CN": "“热气拉面”对应的每张图库卡片均带有“GPT Image 2.6”模型标签；同一页面明确将该 FrameMux 模型说明为 Flare 版本。这是平台自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://framemux.com/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://framemux.com/examples/image-to-gif-ramen.webp",
+        "path": "assets/examples/framemux-ramen-steam/framemux-image-to-gif-ramen.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Six-frame ramen-and-chopsticks animation, animated WebP",
+          "zh-CN": "拉面与筷子六帧动画，动画 WebP"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "6bdf898ed006e41d2a75a9a745d530dcdc230ac37e63885126442081a904766c",
+        "bytes": 152352,
+        "mime_type": "image/webp",
+        "role": "output"
+      },
+      {
+        "source_url": "https://framemux.com/examples/nano-banana-pro-food.webp",
+        "path": "assets/references/framemux-ramen-steam/framemux-nano-banana-pro-food.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Ramen reference input; source filename names Nano Banana Pro, not a GPT Image 2.6 output",
+          "zh-CN": "拉面参考输入；源文件名提到 Nano Banana Pro，不归为 GPT Image 2.6 输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://framemux.com/models/gpt-image-2-6",
+          "credit": "FrameMux",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "sha256": "d22973c605733018cb0465c7fa9f65593f44b87c808b4944523b866af4df4b40",
+        "bytes": 151360,
+        "mime_type": "image/webp",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "Platform-attributed example; no independent generation was performed. The public original prompt is linked at the source rather than republished here. FrameMux describes a six-frame sprite sheet assembled into a loop by the browser. Archived moving files are animated WebP, not native GIF output from the model. Each animation has six 160 ms frames (960 ms total). The source marks the companion as “Original”; it is a reference input. Its filename mentions another model family, which is not independent verification of that input’s model. It is not attributed to GPT Image 2.6.",
+      "zh-CN": "案例依据平台自身署名，未进行独立生成复现。公开原始提示词仅链接至来源，不在此转载全文。 FrameMux 说明其流程是生成六帧精灵图，再由浏览器拼接循环。存档的动态文件是动画 WebP，不是模型原生输出的 GIF；每段为六帧，每帧 160 毫秒，总时长 960 毫秒。 来源将配套图片标为“Original”，因此作为参考输入保留。其文件名提到其他模型系列，但这不构成输入模型的独立验证；不将其归为 GPT Image 2.6 输出。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "apixo-fox-wave-workflow",
+    "status": "published",
+    "title": {
+      "en": "Fox greeting GIF workflow",
+      "zh-CN": "狐狸挥爪问候动图流程"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://apixo.ai/blog/gpt-image-2-6-gif-tutorial",
+      "author": "Ethan Wang / APIXO",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The tutorial identifies its displayed fox animation as a Flare result generated through APIXO MCP. The launch article separately labels its other fox output Flare. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "APIXO 教程将狐狸挥爪结果标为 Flare，并称通过 APIXO MCP 生成；发布文章另行标注第二只狐狸为 Flare。属于发布方自述，不是独立生成或后端核验。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://apixo.ai/blog/gpt-image-2-6-gif-tutorial"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.sanity.io/images/btnqb8h4/production/3765cc11e287b523065464d81b05850a020f4cb1-336x336.gif?w=336&auto=format&fit=max",
+        "path": "assets/examples/apixo-fox-wave-workflow/apixo-fox-tutorial.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Tutorial fox raising its front paw",
+          "zh-CN": "教程狐狸抬起前爪"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-gif-tutorial",
+          "credit": "Ethan Wang / APIXO",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 338803,
+        "sha256": "694de2d88c3a5e262330b4257f660fd35bb78c9eb519ceff898d2af5445c4c68",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://cdn.sanity.io/images/btnqb8h4/production/bd7ff4cc0eacba0b5f67a794c5b45f2f4c76b4c7-336x336.gif?w=336&auto=format&fit=max",
+        "path": "assets/examples/apixo-fox-wave-workflow/apixo-fox-launch.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Launch-article fox waving and blinking",
+          "zh-CN": "发布文章狐狸挥爪并眨眼"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-gif-tutorial",
+          "credit": "Ethan Wang / APIXO",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 336866,
+        "sha256": "ae20982feaa0c50a32184274454ec28e90b9abfc022518efbcc0dcd7696d9d70",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Two visually distinct fox outputs form one greeting workflow. Both files are GIF, 336 × 336, 9 frames at 200 ms each (1.8 seconds). All 18 frames across the two GIFs were decoded and visually inspected. This is not timed playback or verification of a seamless loop. The tutorial prompt belongs to its own output only; no identical-prompt claim for the launch output.",
+      "zh-CN": "两份外观不同的狐狸输出合并为一个问候工作流。两份均为 336 × 336 GIF，各有 9 帧，每帧 200 毫秒，一轮 1.8 秒。全部 18 帧已解码并目视核验，不宣称进行定时播放或验证无缝循环。教程提示词只归于教程输出，不声称发布文章中的另一份输出使用相同提示词。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "apixo-coffee-cup-svg",
+    "status": "published",
+    "title": {
+      "en": "Coffee-cup SVG icon",
+      "zh-CN": "咖啡杯 SVG 图标"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+      "author": "Ethan Wang / APIXO",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The article maps its coffee-cup artwork to Flare SVG generation. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "APIXO 文章将咖啡杯图标明确归于 Flare 直接 SVG 输出。属于发布方自述；本地 XML 只能确认文件结构，不能独立确认模型生成过程。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://cdn.sanity.io/files/btnqb8h4/production/5034bd0ab3f6d509166754075009e7d7b84a7fbc.txt"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.sanity.io/files/btnqb8h4/production/59ae869f88e31c3d89ebc90ed5dae8112e625d3e.svg",
+        "path": "assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg.svg",
+        "kind": "svg",
+        "role": "output",
+        "alt": {
+          "en": "Orange coffee-cup vector icon",
+          "zh-CN": "橙色咖啡杯矢量图标"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+          "credit": "Ethan Wang / APIXO",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 2183,
+        "sha256": "09045b72176553dfe83a094070eadc3777a42a665e71be4272d7f3f60aa3d6dd",
+        "mime_type": "image/svg+xml"
+      },
+      {
+        "source_url": "https://cdn.sanity.io/images/btnqb8h4/production/c3b7dcf5b721056be86d6188da25b50de9d9c6cc-1024x1024.png?w=1024&auto=format&fit=max",
+        "path": "assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg-preview.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Publisher PNG preview of the same coffee-cup SVG",
+          "zh-CN": "发布方提供的同一咖啡杯 SVG 的 PNG 预览"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+          "credit": "Ethan Wang / APIXO",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 45841,
+        "sha256": "1393b7d418f75e24f06bf171d2e2133500122650482665e3c06275bb9cf4a7d3",
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "The SVG and publisher-provided PNG preview represent one output, not two cases. SVG XML: 1024 × 1024 viewBox, 7 paths, 2 ellipses and 1 rectangle; no embedded images, external references or active content detected. Both the supplied PNG preview and a local raster rendering of the SVG were visually inspected. They differ in shape and proportions, so pixel identity is not claimed; they remain grouped as the publisher-associated vector example. The source-linked full prompt is not reproduced.",
+      "zh-CN": "SVG 与发布方 PNG 预览归为一个矢量示例，不拆为两条。SVG 的 viewBox 为 1024 × 1024，含 7 个 path、2 个 ellipse 和 1 个 rect；未发现内嵌图像、外部引用或活动内容。已目视检查 PNG 预览及 SVG 本地渲染，形状和比例存在差异，不声称逐像素一致。仅链接来源公开的完整提示词，不复制全文。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "apixo-coral-vase-comparison",
+    "status": "published",
+    "title": {
+      "en": "Coral vase markup comparison",
+      "zh-CN": "珊瑚红花瓶标注编辑对比"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+      "author": "Ethan Wang / APIXO",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The source explicitly compares its Flare and Sunburst edits of the same kitchen input. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "APIXO 声称将相同厨房照片、标注图与改色指令分别提交给 Flare 和 Sunburst，并逐项标注比较结果。属于发布方自述，不是独立复现或运行日志验证。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://apixo.ai/blog/gpt-image-2-6-markup-editing"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.sanity.io/images/btnqb8h4/production/00b89a9eadd51fb56a5d0f9b0746b5b9a4e1c74c-1816x450.png",
+        "path": "assets/examples/apixo-coral-vase-comparison/apixo-kitchen-comparison.png",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Comparison: OpenAI source, Flare coral vase, Sunburst coral vase",
+          "zh-CN": "对比：OpenAI 原图、Flare 珊瑚红花瓶、Sunburst 珊瑚红花瓶"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+          "credit": "Ethan Wang / APIXO; OpenAI source photo in left panel",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 1074994,
+        "sha256": "f97212430158c588bfdf67df6af65be6ce2c9ea6ce3c106b517ad68537299ee9",
+        "mime_type": "image/png"
+      }
+    ],
+    "notes": {
+      "en": "One comparison task. The retained PNG is a 1816 × 450 composite: OpenAI source photo, APIXO Flare edit, APIXO Sunburst edit, left to right. The original is reference content, not an additional generated work. Coral-red edits are distinct from the official cobalt-blue examples already indexed. The cited 1184 × 880 sizes describe source-reported individual outputs, not this composite. Do not infer pixel preservation, generation speed or model superiority.",
+      "zh-CN": "一个对比任务。留存 PNG 是 1816 × 450 拼图，左至右为 OpenAI 来源照片、APIXO Flare 编辑、APIXO Sunburst 编辑。原图是参考内容，不另计生成作品。珊瑚红编辑与已收录的官方钴蓝色结果不同。来源所称 1184 × 880 是单独输出的尺寸，不是此拼图的尺寸。不据此推断像素保持、生成速度或模型优劣。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "apixo-daily-pour-poster",
+    "status": "published",
+    "title": {
+      "en": "The Daily Pour coffee poster",
+      "zh-CN": "The Daily Pour 咖啡活动海报"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+      "author": "Ethan Wang / APIXO",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The article labels the displayed coffee-event poster as a Flare output. Publisher-reported attribution, not independent reproduction or backend verification.",
+        "zh-CN": "APIXO 将所展示的虚构咖啡活动海报标为 Flare 输出。属于发布方自述，不是独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.sanity.io/images/btnqb8h4/production/3f1120c0bbd609b9865797d03b7499eb3e54c8f1-1024x1024.webp?w=1024&auto=format&fit=max",
+        "path": "assets/examples/apixo-daily-pour-poster/apixo-coffee-poster.jpg",
+        "kind": "poster",
+        "role": "output",
+        "alt": {
+          "en": "The Daily Pour fictional coffee-event poster",
+          "zh-CN": "The Daily Pour 虚构咖啡活动海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://apixo.ai/blog/gpt-image-2-6-launch",
+          "credit": "Ethan Wang / APIXO",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and repository MIT terms do not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 条款不覆盖此文件。"
+          }
+        },
+        "bytes": 108733,
+        "sha256": "9967b0a6970eb501010c380705bea92d1e13ad261f55bb91727be8a102ea73ed",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "The retained response is a 1024 × 1024 JPEG despite the source URL ending in .webp. The reviewed article does not provide the original poster prompt; availability elsewhere is not established. This is a fictional event poster, not a real event listing.",
+      "zh-CN": "虽然来源 URL 以 .webp 结尾，留存响应实际为 1024 × 1024 JPEG。所查文章未提供海报原始提示词，不推断其他来源的公开情况。这是虚构活动海报，不是实际活动信息。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Revisited the existing original page and verified output labels, exact asset URLs (resolving relative paths), and available prompt links. No new-case search.",
+        "zh-CN": "复核已有原始页面、逐输出标签、准确素材地址（解析相对路径）与可用提示词链接。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Existing local original bytes match recorded SHA-256 and sizes. All image/animation frames were decoded and visually reviewed. The inert SVG was structurally checked and rendered locally for inspection; QA derivatives are not published.",
+        "zh-CN": "本地原始字节与记录的 SHA-256 和大小一致。全部图片及动画帧已解码、目视核验；无活动内容的 SVG 已检查结构并在本地渲染检查，不发布质检派生文件。"
+      },
+      "report_path": "docs/FRAMEMUX_APIXO_BACKLOG_AUDIT_2026-11-08.md"
+    }
   }
 ]

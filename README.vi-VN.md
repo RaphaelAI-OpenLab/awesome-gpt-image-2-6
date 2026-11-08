@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 31 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 31 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 32 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 32 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 14 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 10 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 35 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 31 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 10 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 107 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 32 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 11 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 114 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **269** |
+| Trường hợp có liên kết nguồn | **280** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **232** |
-| Câu lệnh gốc có sẵn tại nguồn | **190** |
+| Ví dụ do tác giả báo cáo | **243** |
+| Câu lệnh gốc có sẵn tại nguồn | **200** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **409** |
+| Tệp tư liệu được lưu trữ cục bộ | **426** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -169,6 +169,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -207,6 +208,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 <a id="category-infographics"></a>
 
@@ -325,6 +327,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -342,6 +345,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-gif-animation"></a>
 
@@ -456,6 +460,13 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
