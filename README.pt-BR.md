@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 28 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 30 | 0 |
-| [Infográficos](#category-infographics) | 12 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 31 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 31 | 0 |
+| [Infográficos](#category-infographics) | 14 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 10 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 32 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 25 | 0 |
-| [SVG e recursos de design](#category-svg-design-assets) | 9 | 0 |
-| [GIF e animação](#category-gif-animation) | 101 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 35 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 31 | 0 |
+| [SVG e recursos de design](#category-svg-design-assets) | 10 | 0 |
+| [GIF e animação](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **247** |
+| Casos com link para a fonte | **269** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **210** |
-| Prompts originais disponíveis na fonte | **173** |
+| Exemplos relatados pelos criadores | **232** |
+| Prompts originais disponíveis na fonte | **190** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **378** |
+| Arquivos de mídia arquivados localmente | **409** |
 | Última verificação das fontes (UTC) | **2026-11-09** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -166,6 +166,9 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -203,6 +206,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 
 <a id="category-infographics"></a>
 
@@ -222,6 +226,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -276,6 +282,9 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modelo informado pelo criador | Prompt não público |
 
@@ -308,6 +317,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modelo informado pelo criador | Prompt não público |
 
@@ -326,6 +341,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-gif-animation"></a>
 
@@ -431,6 +447,12 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Chess opening GIF test](cases/community-hn-chess/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
 | [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Modelo informado pelo criador | Disponibilidade do prompt não verificada |
+| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modelo informado pelo criador | Prompt não público |
 | [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modelo informado pelo criador | Prompt não público |

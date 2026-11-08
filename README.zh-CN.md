@@ -43,14 +43,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 28 | 0 |
-| [海报与文字排版](#category-posters-typography) | 30 | 0 |
-| [信息图](#category-infographics) | 12 | 0 |
+| [品牌与商品](#category-brand-products) | 31 | 0 |
+| [海报与文字排版](#category-posters-typography) | 31 | 0 |
+| [信息图](#category-infographics) | 14 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 10 | 0 |
-| [角色与一致性](#category-characters-consistency) | 32 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 25 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 9 | 0 |
-| [GIF 与动画](#category-gif-animation) | 101 | 0 |
+| [角色与一致性](#category-characters-consistency) | 35 | 0 |
+| [标注与局部编辑](#category-markup-edits) | 31 | 0 |
+| [SVG 与设计素材](#category-svg-design-assets) | 10 | 0 |
+| [GIF 与动画](#category-gif-animation) | 107 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **247** |
+| 来源案例 | **269** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **210** |
-| 来源公开原始提示词 | **173** |
+| 社区作者自报案例 | **232** |
+| 来源公开原始提示词 | **190** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **378** |
+| 本地收录素材文件 | **409** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -162,6 +162,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [鼠尾草绿到陶土橙瓶子编辑](cases/omniakey-bottle-color-edit/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [水中修表微距测试](cases/community-hn-watchmaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [海边湿岩上的香水瓶编辑](cases/chatimage2-seaside-perfume-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [Sunburst Roasters 陶瓷咖啡罐](cases/replicate-sunburst-coffee-canister/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [钛金属咖啡压粉器：Flare 与 Sunburst](cases/csuite-tamper/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [陶瓷杯：2K 背景设置测试](cases/iskragen-mug-2k-background-test/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-posters-typography"></a>
 
@@ -199,6 +202,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [NORTHLIGHT TEA 海报版式对比](cases/sandbase-northlight-tea-posters/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [Port Calder 海报复杂度对比](cases/omniakey-port-calder-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [生日蛋糕与额外标语对比](cases/community-flare-slogan-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [NIGHT SIGNAL 演出海报：Flare 与 Sunburst](cases/csuite-poster/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 
 <a id="category-infographics"></a>
 
@@ -218,6 +222,8 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [帝王蝶生命周期自然图鉴](cases/analyticsvidhya-monarch-life-cycle/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [自动咖啡机流程信息图](cases/zzo-flare-coffee-machine-diagram/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [季度收入图表动画](cases/nowrap-chart-motion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [咖啡制作五步信息图](cases/replicate-flare-coffee-process-infographic/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [带标签的向日葵植物图谱](cases/replicate-sunburst-sunflower-botanical/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-interiors-architecture"></a>
 
@@ -272,6 +278,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [渔夫补网肖像](cases/community-flixly-fisherman-portrait/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雨中的狐狸与獾](cases/community-flixly-rainy-bridge-friends/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [《最后一卷胶片》：Flare 与 Sunburst 场景版本](cases/maxvideo-gpt26-last-reel-generation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [卷发人像：Flare 与 Sunburst](cases/csuite-portrait/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [圣骑士：背景与铠甲连续编辑](cases/overchat-paladin-edits/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [背喷气背包的宇航猫贴纸](cases/replicate-flare-astronaut-cat-sticker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [九宫格办公主题漫画](cases/zhidx-nine-panel-comic/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
@@ -304,6 +313,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [兔子绘本场景日暮编辑](cases/community-flare-day-dusk-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [《最后一卷胶片》：共同输入的服装编辑](cases/maxvideo-gpt26-last-reel-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [GEN202 宇航员猫改狗双版本对照](cases/gen202-astronaut-cat-dog-variant-workflow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [客厅标注编辑：Flare 与 Sunburst 对照](cases/overchat-room-markup/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [美食广场：傍晚场景与雨夜霓虹编辑](cases/iskragen-food-court-weather-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [校园操场：秋日场景与雪景编辑](cases/iskragen-schoolyard-season-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [家庭煎饼场景：原图与阳光编辑](cases/iskragen-pancake-kitchen-light-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [纸艺灯塔从日落改为星空](cases/replicate-flare-lighthouse-sky-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [钟表工作台：夕照到月光编辑](cases/replicate-sunburst-watchmaker-moonlight/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [带虚构标识的模型发布帖编辑](cases/zhidx-fictional-release-post/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [博物馆人物移除对照面板](cases/zhidx-museum-person-removal/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 
@@ -322,6 +337,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [青色琥珀色沙漏图标对比](cases/cellcog-hourglass-icon/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [六组矢量测试对比渲染](cases/cellcog-vector-comparison-renders/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [紫色狐狸与新闻面板 SVG](cases/ai-garage-fox-news-vector/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Ember & Rye 标志：SVG 工作流的栅格预览](cases/overchat-ember-rye-logo/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 
 <a id="category-gif-animation"></a>
 
@@ -427,6 +443,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [鹰振翅 GIF](cases/community-hn-eagle/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [国际象棋开局 GIF 测试](cases/community-hn-chess/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [雪花球内哈士奇嚎叫 GIF](cases/community-hn-husky/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [纸艺夜间灯塔循环动画](cases/replicate-flare-lighthouse-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [飞翔的白熊吉祥物](cases/aruru-flying-polar-bear/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [静止咖啡杯的蒸汽动画](cases/aruru-coffee-steam/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+| [流泪厨师：直接 GIF 与精灵图方法对照](cases/overchat-chef-gif/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [短提示词循环动画：橙色吉祥物与旋转运动鞋](cases/overchat-short-prompt-animation-pair/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [纸飞机：四帧动态 WebP](cases/iskragen-paper-plane-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [黏土机器人浇花动画](cases/zhidx-clay-robot-garden/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [房车场景和解对话动画](cases/zhidx-rv-reconciliation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [旧照片中的检查站动画](cases/zhidx-vintage-checkpoint/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |

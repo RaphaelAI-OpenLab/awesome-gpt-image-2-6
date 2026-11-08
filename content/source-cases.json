@@ -19693,6 +19693,1814 @@
     }
   },
   {
+    "id": "replicate-flare-lighthouse-loop",
+    "status": "published",
+    "title": {
+      "en": "Paper-cut lighthouse at night: animated loop",
+      "zh-CN": "纸艺夜间灯塔循环动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+      "author": "openai (organization account) / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The public examples page embeds completed prediction ahgt8v7m0srmr0d1n7kre9zhww with the exact historical GIF output URL, original prompt, created_by organization openai, ran_on model openai/gpt-image-2.6-flare and matching model log. This is source-reported execution evidence, not an independently rerun API request.",
+        "zh-CN": "公开示例页内嵌已完成预测 ahgt8v7m0srmr0d1n7kre9zhww，记录准确的历史 GIF 输出地址、原始提示词、created_by 组织账号 openai、ran_on 模型 openai/gpt-image-2.6-flare 及匹配日志。这是来源公开的执行证据，并非独立重跑 API 请求。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/o3pLAOaAAc7NOlPmsNnOVAZfwTvEevu7K5fG2jIxKW8ng28uA/tmpz22_l_mk.gif",
+        "path": "assets/examples/replicate-flare-lighthouse-loop/output.gif",
+        "kind": "gif",
+        "role": "output",
+        "mime_type": "image/gif",
+        "bytes": 621016,
+        "sha256": "1e61acb444006e100ab3fa9253f2fd872897a290ecbf3a28a0a808d2d7aa8270",
+        "alt": {
+          "en": "A paper-cut lighthouse casts a moving beam over layered waves beneath a crescent moon and stars.",
+          "zh-CN": "纸艺灯塔在弯月星空下向层叠海浪投射移动光束。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+          "credit": "openai organization account / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Existing historical case, now tied to an exact original prediction and credited to the recorded openai organization account. Original 512 × 512 GIF: nine distinct decoded frames, 200 ms each, 1.8 seconds per loop. All frames were inspected in sequence; no new browser playback or API generation was performed in this review. This is separate from lucataco’s landscape-format lighthouse sky edit.",
+      "zh-CN": "已有历史案例，现与准确原始预测关联，并署名为记录中的 openai 组织账号。原始 GIF 为 512 × 512，共九个不同解码帧，每帧 200 毫秒，每轮 1.8 秒。已按顺序检查全部帧；本次审核未进行新的浏览器播放或 API 生成。它不同于 lucataco 的横向灯塔天空编辑。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-sunburst-coffee-canister",
+    "status": "published",
+    "title": {
+      "en": "Sunburst Roasters ceramic coffee canister",
+      "zh-CN": "Sunburst Roasters 陶瓷咖啡罐"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original public examples page embeds completed prediction mzvqv6an0srmr0d1n658s1mgc0, naming creator lucataco, served model openai/gpt-image-2.6-sunburst, matching model log, original prompt and the exact historical output URL. This is source-reported execution evidence, not an independently rerun API request.",
+        "zh-CN": "原始公开示例页内嵌已完成预测 mzvqv6an0srmr0d1n658s1mgc0，记录创作者 lucataco、所用模型 openai/gpt-image-2.6-sunburst、匹配的模型日志、原始提示词及准确历史输出地址。这是来源公开的执行证据，并非独立重跑 API 请求。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/Ce1jGkRcxOVqHCgjFubtdY1NMBsHmtm2MafjgK4lL9XrwZeuA/tmpvn4bact0.webp",
+        "path": "assets/examples/replicate-sunburst-coffee-canister/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 191472,
+        "sha256": "e44ac39232cc84a84d5801ba2f7549c30f8f22e63ce57420ddc7b99efc3137cd",
+        "alt": {
+          "en": "Sage-green ceramic coffee canister with cork lid and SUNBURST ROASTERS lettering on a wooden counter.",
+          "zh-CN": "木质台面上的鼠尾草绿陶瓷咖啡罐，配软木盖和 SUNBURST ROASTERS 字样。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Existing historical case, now tied to its exact original prediction and recorded creator. The unchanged 1536 × 1152 WebP depicts a sage-green ceramic canister with cork lid and SUNBURST ROASTERS lettering. The source records high quality, medium complexity and no input image. No new generation or media download was performed.",
+      "zh-CN": "已有历史案例，现与准确原始预测及记录中的创作者关联。原样 1536 × 1152 WebP 展示带软木盖及 SUNBURST ROASTERS 字样的鼠尾草绿陶瓷罐。来源记录为 high 质量、medium 复杂度且无输入图像。未进行新的生成或素材下载。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "csuite-tamper",
+    "status": "published",
+    "title": {
+      "en": "Brushed-titanium espresso tamper: Flare and Sunburst",
+      "zh-CN": "钛金属咖啡压粉器：Flare 与 Sunburst"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+      "author": "CSuite / July Labs, LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "CSuite labels the individual sample tiles as generated with GPT Image 2.6 Sunburst and Flare via Replicate and says it retains the first result of the same three catalog prompts. These are publisher claims, not independently verified execution.",
+        "zh-CN": "CSuite 将对应示例卡明确标为通过 Replicate 用 GPT Image 2.6 Sunburst 和 Flare 生成，并称统一三组目录提示词且保留首个结果。这是发布方自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-sunburst/samples/product.w2048.jpg",
+        "path": "assets/examples/csuite-tamper/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Brushed-titanium espresso tamper: Flare and Sunburst — Sunburst",
+          "zh-CN": "钛金属咖啡压粉器：Flare 与 Sunburst：Sunburst"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "49ad9876896bf1900d14b0bf1daa9d287ea06bd00c812de4fc6a54921718d45a",
+        "bytes": 83793,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      },
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-flare/samples/product.w2048.jpg",
+        "path": "assets/examples/csuite-tamper/source-02.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Brushed-titanium espresso tamper: Flare and Sunburst — Flare",
+          "zh-CN": "钛金属咖啡压粉器：Flare 与 Sunburst：Flare"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "46109c23ccbc4e1cf33e0947341ef460ab58c9a9262554bab54766a59e345edc",
+        "bytes": 104970,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The two model variants are one product-still-life workflow. The catalog states that its three prompts are reused, but the exact older-page prompt was not available for this audit; prompt availability remains unverified.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 两种模型版本归为同一商品静物工作流。目录声称使用相同三组提示词，但本次未留存旧页面的准确提示词，故提示词状态待核验。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "csuite-portrait",
+    "status": "published",
+    "title": {
+      "en": "Curly-haired editorial portrait: Flare and Sunburst",
+      "zh-CN": "卷发人像：Flare 与 Sunburst"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+      "author": "CSuite / July Labs, LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "CSuite labels the individual sample tiles as generated with GPT Image 2.6 Sunburst and Flare via Replicate and says it retains the first result of the same three catalog prompts. These are publisher claims, not independently verified execution.",
+        "zh-CN": "CSuite 将对应示例卡明确标为通过 Replicate 用 GPT Image 2.6 Sunburst 和 Flare 生成，并称统一三组目录提示词且保留首个结果。这是发布方自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-sunburst/samples/portrait.w2048.jpg",
+        "path": "assets/examples/csuite-portrait/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Curly-haired editorial portrait: Flare and Sunburst — Sunburst",
+          "zh-CN": "卷发人像：Flare 与 Sunburst：Sunburst"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "2a7fe2f68bd0d963c88ed9c95b464c2347aaeeec66da4ba53b202342f6ab0638",
+        "bytes": 70462,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      },
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-flare/samples/portrait.w2048.jpg",
+        "path": "assets/examples/csuite-portrait/source-02.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "Curly-haired editorial portrait: Flare and Sunburst — Flare",
+          "zh-CN": "卷发人像：Flare 与 Sunburst：Flare"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "ad2571a85784f76dddf2a72992dbcb53eaf14497453c4a92a20f5e1e1c160c7e",
+        "bytes": 80362,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The two model variants are one portrait workflow. A generic shared-catalog statement does not supply the exact prompt text here; the older-page prompt link is not promoted.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 两种模型版本归为同一人像工作流。共享目录提示词的概述不等于准确原文；未将旧页面提示词链接标为已核验。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "csuite-poster",
+    "status": "published",
+    "title": {
+      "en": "NIGHT SIGNAL concert poster: Flare and Sunburst",
+      "zh-CN": "NIGHT SIGNAL 演出海报：Flare 与 Sunburst"
+    },
+    "category": "posters-typography",
+    "source": {
+      "url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+      "author": "CSuite / July Labs, LLC",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "CSuite labels the individual sample tiles as generated with GPT Image 2.6 Sunburst and Flare via Replicate and says it retains the first result of the same three catalog prompts. These are publisher claims, not independently verified execution.",
+        "zh-CN": "CSuite 将对应示例卡明确标为通过 Replicate 用 GPT Image 2.6 Sunburst 和 Flare 生成，并称统一三组目录提示词且保留首个结果。这是发布方自述，并非独立执行验证。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-sunburst/samples/poster.w2048.jpg",
+        "path": "assets/examples/csuite-poster/source-01.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "NIGHT SIGNAL concert poster: Flare and Sunburst — Sunburst",
+          "zh-CN": "NIGHT SIGNAL 演出海报：Flare 与 Sunburst：Sunburst"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "d0074dbb4140d54b4e399c038683bc83b9381bb1f643705444b3b9a2b2d3e193",
+        "bytes": 51075,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      },
+      {
+        "source_url": "https://storage.googleapis.com/csuite-storage/public/models/openai-gpt-image-2-6-flare/samples/poster.w2048.jpg",
+        "path": "assets/examples/csuite-poster/source-02.jpg",
+        "kind": "image",
+        "alt": {
+          "en": "NIGHT SIGNAL concert poster: Flare and Sunburst — Flare",
+          "zh-CN": "NIGHT SIGNAL 演出海报：Flare 与 Sunburst：Flare"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://csuite.so/models/openai-gpt-image-2-6-sunburst",
+          "credit": "CSuite / July Labs, LLC",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "99cdb34ff5f950d0ed1aae49563e7704a1e7917a70d0f724353a027fe67d2338",
+        "bytes": 50003,
+        "mime_type": "image/jpeg",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The two model variants are one poster workflow. Exact older-page prompt text was not retained, so the prompt is unverified rather than assumed from the artwork.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 两种模型版本归为同一海报工作流。未留存旧页面准确提示词，不能从作品推断，故标为待核验。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "aruru-flying-polar-bear",
+    "status": "published",
+    "title": {
+      "en": "Flying Aruru polar-bear mascot",
+      "zh-CN": "飞翔的白熊吉祥物"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://aruru.co.jp/chatgpt-images-gif/",
+      "author": "岩永奈々",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Aruru labels the flying mascot as made with ChatGPT Images 2.6 and describes the coffee-steam result as its second experiment in the same hands-on trial. This is the creator’s attribution; the served model and variant are not independently verified.",
+        "zh-CN": "Aruru 将飞翔吉祥物明确标为用 ChatGPT Images 2.6 制作，并将咖啡蒸汽列为同次体验的第二个实验。这是创作者归因；未独立核验实际调用模型和版本。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://aruru.co.jp/fan/wp-content/uploads/2026/11/chatgpt-images-gif-aruru-fly.gif",
+        "path": "assets/examples/aruru-flying-polar-bear/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Flying Aruru polar-bear mascot",
+          "zh-CN": "飞翔的白熊吉祥物"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aruru.co.jp/chatgpt-images-gif/",
+          "credit": "岩永奈々",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "a7c2ea275f397260dd2d88fd35c0958a8fb36aaca11743c4e02b43c0b691ecc2",
+        "bytes": 384112,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model or variant. The article does not establish the complete exact prompt for this mascot, so it remains not-public. Original public GIF bytes are preserved; source attribution is not a redistribution license.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型与版本的运行日志。文章未提供该吉祥物完整准确的提示词，故仍标为未公开。原样保留公开 GIF；来源署名不等于转载许可。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "aruru-coffee-steam",
+    "status": "published",
+    "title": {
+      "en": "Stationary coffee cup with moving steam",
+      "zh-CN": "静止咖啡杯的蒸汽动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://aruru.co.jp/chatgpt-images-gif/",
+      "author": "岩永奈々",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "Aruru labels the flying mascot as made with ChatGPT Images 2.6 and describes the coffee-steam result as its second experiment in the same hands-on trial. This is the creator’s attribution; the served model and variant are not independently verified.",
+        "zh-CN": "Aruru 将飞翔吉祥物明确标为用 ChatGPT Images 2.6 制作，并将咖啡蒸汽列为同次体验的第二个实验。这是创作者归因；未独立核验实际调用模型和版本。"
+      }
+    },
+    "prompt": {
+      "status": "unverified",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://aruru.co.jp/fan/wp-content/uploads/2026/11/chatgpt-images-gif-coffee-steam.gif",
+        "path": "assets/examples/aruru-coffee-steam/source-01.gif",
+        "kind": "gif",
+        "alt": {
+          "en": "Stationary coffee cup with moving steam",
+          "zh-CN": "静止咖啡杯的蒸汽动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://aruru.co.jp/chatgpt-images-gif/",
+          "credit": "岩永奈々",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "sha256": "390e8dd899cb5b281ba0101bfbf5766c204b43a2fb52d2012a5257bff69bb98b",
+        "bytes": 275322,
+        "mime_type": "image/gif",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. No run log independently verifies the served model. Original public media bytes are preserved; source attribution is not a redistribution license. The article publishes a coffee-steam prompt example and says the later result uses the same subject. This does not establish the entire exact run prompt, so prompt availability remains unverified.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现，也没有独立核验实际调用模型的运行日志。保留公开来源媒体的原始字节；来源署名不等于转载许可。 文章公开咖啡蒸汽示例提示词，并称后面的结果采用相同题材，但未证明整段文字就是本次运行的准确提示词，故保持待核验。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "overchat-room-markup",
+    "status": "published",
+    "title": {
+      "en": "Living-room markup: Flare and Sunburst comparisons",
+      "zh-CN": "客厅标注编辑：Flare 与 Sunburst 对照"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "Ivan Zalesskiy / Overchat AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare",
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Ivan Zalesskiy’s Overchat comparison labels separate GPT Image 2.6 Flare and Sunburst API results beside their 2.5 counterparts.",
+        "zh-CN": "Ivan Zalesskiy 的 Overchat 对照明确标出 GPT Image 2.6 Flare 与 Sunburst API 结果，并列展示各自的 2.5 对照。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/67b459f31ecf92c899354e98/6aecf00e2f91a8a41f4e836a_6aecf0077ee834ad25c1d5f4_gpt-image-2-6-vs-gpt-image-2-5-01-room-flare.webp",
+        "path": "assets/examples/overchat-room-markup/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Living-room markup: Flare and Sunburst comparisons — Marked input + 2.6 Flare + 2.5 Flare",
+          "zh-CN": "客厅标注编辑：Flare 与 Sunburst 对照：标注输入 + 2.6 Flare + 2.5 Flare"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "cd4c6b54463c65834f10820107e112560793508bc42934830a7186d53ea18c09",
+        "bytes": 55942,
+        "mime_type": "image/webp"
+      },
+      {
+        "source_url": "https://cdn.prod.website-files.com/67b459f31ecf92c899354e98/6aecf00e2f91a8a41f4e8370_6aecf008ba37cf1b77947d23_gpt-image-2-6-vs-gpt-image-2-5-02-room-sunburst.webp",
+        "path": "assets/examples/overchat-room-markup/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Living-room markup: Flare and Sunburst comparisons — 2.6 Sunburst + 2.5 Sunburst",
+          "zh-CN": "客厅标注编辑：Flare 与 Sunburst 对照：2.6 Sunburst + 2.5 Sunburst"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "4fd18b6860012ed6139e12b5a6f7b3cea619a00efb2cd2a4d39584e532912413",
+        "bytes": 64664,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. First collage: marked reference, 2.6 Flare, then 2.5 Flare. Second collage: 2.6 Sunburst then 2.5 Sunburst. Only the labeled 2.6 panels are target-model outputs. One room-edit workflow; exact prompt is public.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。首张拼图依次为标注参考图、2.6 Flare、2.5 Flare；第二张为 2.6 Sunburst、2.5 Sunburst。只有明确标注 2.6 的面板属于目标模型结果。一个客厅编辑工作流，准确提示词已公开。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "overchat-paladin-edits",
+    "status": "published",
+    "title": {
+      "en": "Paladin: background and armor edit sequence",
+      "zh-CN": "圣骑士：背景与铠甲连续编辑"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "Ivan Zalesskiy / Overchat AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "Overchat identifies the top-row generation and two edits as GPT Image 2.6 Sunburst, compared with GPT Image 2.5 Sunburst below.",
+        "zh-CN": "Overchat 将上排初始图及两轮编辑明确归为 GPT Image 2.6 Sunburst，下排为 GPT Image 2.5 Sunburst 对照。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/67b459f31ecf92c899354e98/6aecf00e2f91a8a41f4e8373_6aecf0082339c6082a9fe868_gpt-image-2-6-vs-gpt-image-2-5-04-paladin.webp",
+        "path": "assets/examples/overchat-paladin-edits/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Paladin: background and armor edit sequence — Top row: 2.6 Sunburst; bottom: 2.5 Sunburst",
+          "zh-CN": "圣骑士：背景与铠甲连续编辑：上排：2.6 Sunburst；下排：2.5 Sunburst"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "d2c8599c3683bfd91c9b3cb0f34b968038823fd8a065c93d6b2426a701af0658",
+        "bytes": 91944,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The six-panel composite is preserved unchanged. Only its top row is 2.6. Three steps and two model rows remain one workflow; generation and edit prompts are published.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。六格拼图按原样保存，只有上排属于 2.6。三个步骤与两种模型仍为一个工作流；初始及编辑提示词已公开。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "overchat-chef-gif",
+    "status": "published",
+    "title": {
+      "en": "Crying chef: direct GIF versus sprite-sheet method",
+      "zh-CN": "流泪厨师：直接 GIF 与精灵图方法对照"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "Ivan Zalesskiy / Overchat AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Overchat labels the left animation GPT Image 2.6 Flare direct GIF and the right animation a GPT Image 2.5 Flare sprite-sheet result assembled into a loop.",
+        "zh-CN": "Overchat 将左侧动画标为 GPT Image 2.6 Flare 直接 GIF，右侧是 GPT Image 2.5 Flare 精灵图合成的循环动画。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/673728fe79d73c09073776cb/6aecf00a81a2d2a2c5082577_gpt-image-2-6-vs-gpt-image-2-5-05-gif-chef.mp4#t=0.1",
+        "path": "assets/examples/overchat-chef-gif/source-01.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Crying chef: direct GIF versus sprite-sheet method — Left: 2.6 Flare direct-GIF demo; right: 2.5 sprite animation",
+          "zh-CN": "流泪厨师：直接 GIF 与精灵图方法对照：左：2.6 Flare 直接 GIF 演示；右：2.5 精灵图合成动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "03e4d0d02095f0e30e711ca4a7399b728ef0707d006f7cc7b68850200cbb8d01",
+        "bytes": 581452,
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The retained original is an MP4 comparison video, not the original GIF file. Only the left side is attributed to 2.6. The published task prompts are source-linked.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。留存原件是 MP4 对照视频，并非原始 GIF 文件。仅左侧归于 2.6；已链接来源中公开的任务提示词。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "overchat-short-prompt-animation-pair",
+    "status": "published",
+    "title": {
+      "en": "Short-prompt loops: orange mascot and rotating sneakers",
+      "zh-CN": "短提示词循环动画：橙色吉祥物与旋转运动鞋"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "Ivan Zalesskiy / Overchat AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Overchat presents the orange mascot and rotating white sneakers as two GPT Image 2.6 Flare direct-GIF tests in one shared demonstration video.",
+        "zh-CN": "Overchat 将橙色吉祥物与旋转白色运动鞋作为两次 GPT Image 2.6 Flare 直接 GIF 测试，展示于同一个演示视频。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/673728fe79d73c09073776cb/6aecf00a31c89b6e0fb80b99_gpt-image-2-6-vs-gpt-image-2-5-06-gif-short.mp4#t=0.1",
+        "path": "assets/examples/overchat-short-prompt-animation-pair/source-01.mp4",
+        "kind": "video",
+        "alt": {
+          "en": "Short-prompt loops: orange mascot and rotating sneakers — Source output or labeled comparison 1",
+          "zh-CN": "短提示词循环动画：橙色吉祥物与旋转运动鞋：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "c6d1eaa4864285d90b4c4ae6361f000731c51ee6007f8f7254ee6091a7dd71f4",
+        "bytes": 429297,
+        "mime_type": "video/mp4"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The two source prompts and one shared original MP4 form one paired demonstration. The archive preserves the MP4 delivery format, not a reconstructed GIF.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。两个来源提示词与一个共用原始 MP4 合为一个成对演示。存档保留实际 MP4 交付格式，不重建 GIF。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "overchat-ember-rye-logo",
+    "status": "published",
+    "title": {
+      "en": "Ember & Rye logo: raster preview of SVG workflow",
+      "zh-CN": "Ember & Rye 标志：SVG 工作流的栅格预览"
+    },
+    "category": "svg-design-assets",
+    "source": {
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+      "author": "Ivan Zalesskiy / Overchat AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "Overchat reports an Ember & Rye logo request using GPT Image 2.6 Flare in its SVG workflow, which includes a separate vector-authoring stage.",
+        "zh-CN": "Overchat 称 Ember & Rye 标志使用 GPT Image 2.6 Flare 的 SVG 工作流，其中包含单独的矢量编写阶段。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5"
+    },
+    "media": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/67b459f31ecf92c899354e98/6aecf00e2f91a8a41f4e836d_6aecf009c7feda00198817cc_gpt-image-2-6-vs-gpt-image-2-5-07-svg-logo.webp",
+        "path": "assets/examples/overchat-ember-rye-logo/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Ember & Rye logo: raster preview of SVG workflow — Static WebP raster preview, not an SVG file",
+          "zh-CN": "Ember & Rye 标志：SVG 工作流的栅格预览：静态 WebP 栅格预览，不是 SVG 文件"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://overchat.ai/ai-hub/gpt-image-2-6-vs-gpt-image-2-5",
+          "credit": "Ivan Zalesskiy / Overchat AI",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "95a2d92f276d5fe87c6b7d719a0dc9cef43841bf6e4cb716f10546964747fd7c",
+        "bytes": 20258,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The retained file is a static WebP raster preview. No original SVG is archived, and path editability is not verified. The source publishes the exact prompt.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。留存文件是静态 WebP 栅格预览，并未存档原始 SVG，也未验证路径可编辑性。来源公开准确提示词。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "iskragen-food-court-weather-edit",
+    "status": "published",
+    "title": {
+      "en": "Food court: evening scene and rainy neon edit",
+      "zh-CN": "美食广场：傍晚场景与雨夜霓虹编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+      "author": "IskraGen",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "IskraGen’s own test labels this output GPT Image 2.6 Flare.",
+        "zh-CN": "IskraGen 自家测试将该结果标为 GPT Image 2.6 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/flare-t2i.webp",
+        "path": "assets/examples/iskragen-food-court-weather-edit/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Food court: evening scene and rainy neon edit — Source output or labeled comparison 1",
+          "zh-CN": "美食广场：傍晚场景与雨夜霓虹编辑：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "08986f30b8f3eb5a5df9af9930f7892f1326e12a4e5ae48f4fcd895bcd9ddcb9",
+        "bytes": 298392,
+        "mime_type": "image/webp"
+      },
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/flare-i2i.webp",
+        "path": "assets/examples/iskragen-food-court-weather-edit/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Food court: evening scene and rainy neon edit — Source output or labeled comparison 2",
+          "zh-CN": "美食广场：傍晚场景与雨夜霓虹编辑：来源结果或带标注对照 2"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "6871dc61b4d674d0e827da3201e0f621f800cb46ce5cc8afb38e13a68d9a8b4f",
+        "bytes": 420684,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. Full original Russian prompts appear beside the corresponding output. Generation and its subsequent edit are kept together.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。对应结果旁公开完整俄语提示词。初始生图与后续编辑合并记录。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "iskragen-schoolyard-season-edit",
+    "status": "published",
+    "title": {
+      "en": "Schoolyard: autumn scene and snow edit",
+      "zh-CN": "校园操场：秋日场景与雪景编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+      "author": "IskraGen",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "IskraGen’s own test labels this output GPT Image 2.6 Sunburst.",
+        "zh-CN": "IskraGen 自家测试将该结果标为 GPT Image 2.6 Sunburst。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/sunburst-t2i.webp",
+        "path": "assets/examples/iskragen-schoolyard-season-edit/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Schoolyard: autumn scene and snow edit — Source output or labeled comparison 1",
+          "zh-CN": "校园操场：秋日场景与雪景编辑：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "22b46fe19382b63507bb4523b73fb5dc3cfb14124a6d6bb8896ef0fa1804cc95",
+        "bytes": 256030,
+        "mime_type": "image/webp"
+      },
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/sunburst-i2i.webp",
+        "path": "assets/examples/iskragen-schoolyard-season-edit/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Schoolyard: autumn scene and snow edit — Source output or labeled comparison 2",
+          "zh-CN": "校园操场：秋日场景与雪景编辑：来源结果或带标注对照 2"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "6c6ce55132e19cba2f08176ca5058888f6dd7d782f382be244daabdecad4fa21",
+        "bytes": 424348,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. Full original Russian prompts appear beside the corresponding output. Generation and its subsequent edit are kept together.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。对应结果旁公开完整俄语提示词。初始生图与后续编辑合并记录。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "iskragen-pancake-kitchen-light-edit",
+    "status": "published",
+    "title": {
+      "en": "Family pancakes: original and sunny-light edit",
+      "zh-CN": "家庭煎饼场景：原图与阳光编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+      "author": "IskraGen",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "IskraGen’s own test labels this output GPT Image 2.6 Economy. Economy is a provider label; no Flare/Sunburst identity is established.",
+        "zh-CN": "IskraGen 自家测试将该结果标为 GPT Image 2.6 Economy。 Economy 是提供方标签，未确认其对应 Flare 或 Sunburst。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/economy-t2i.webp",
+        "path": "assets/examples/iskragen-pancake-kitchen-light-edit/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Family pancakes: original and sunny-light edit — Source output or labeled comparison 1",
+          "zh-CN": "家庭煎饼场景：原图与阳光编辑：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "ab6b71518634693f885596e29c422d6153b77f30b07b775129ae61647a919b41",
+        "bytes": 240742,
+        "mime_type": "image/webp"
+      },
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/economy-i2i.webp",
+        "path": "assets/examples/iskragen-pancake-kitchen-light-edit/source-02.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Family pancakes: original and sunny-light edit — Source output or labeled comparison 2",
+          "zh-CN": "家庭煎饼场景：原图与阳光编辑：来源结果或带标注对照 2"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "04e6b579ea6f91184e46147640904d1ce9dd57ddf5465537a0718e2a8f5478d0",
+        "bytes": 281020,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. Full original Russian prompts appear beside the corresponding output. Generation and its subsequent edit are kept together.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。对应结果旁公开完整俄语提示词。初始生图与后续编辑合并记录。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "iskragen-paper-plane-animation",
+    "status": "published",
+    "title": {
+      "en": "Paper plane: four-frame animated WebP",
+      "zh-CN": "纸飞机：四帧动态 WebP"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+      "author": "IskraGen",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "IskraGen’s own test labels this output GPT Image 2.6 Economy. Economy is a provider label; no Flare/Sunburst identity is established.",
+        "zh-CN": "IskraGen 自家测试将该结果标为 GPT Image 2.6 Economy。 Economy 是提供方标签，未确认其对应 Flare 或 Sunburst。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/economy-gif.webp",
+        "path": "assets/examples/iskragen-paper-plane-animation/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Paper plane: four-frame animated WebP — Source output or labeled comparison 1",
+          "zh-CN": "纸飞机：四帧动态 WebP：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "01176ba9019608c5e37d3fff4165826d28332bfcb6346895e2ef387fc7ea5bf0",
+        "bytes": 232514,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The archived original is a four-frame animated WebP, 623×623, 180 ms per frame (720 ms total), not a GIF. The source mentions a downloadable studio GIF but it was not archived. Exact prompt is public.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。原件是四帧动态 WebP，623×623，每帧 180 毫秒，总计 720 毫秒，并非 GIF。来源提到工作室可下载 GIF，但未存档该文件。准确提示词已公开。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "iskragen-mug-2k-background-test",
+    "status": "published",
+    "title": {
+      "en": "Ceramic mug: 2K background-setting test",
+      "zh-CN": "陶瓷杯：2K 背景设置测试"
+    },
+    "category": "brand-products",
+    "source": {
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+      "author": "IskraGen",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "IskraGen’s own test labels this output GPT Image 2.6 Flare.",
+        "zh-CN": "IskraGen 自家测试将该结果标为 GPT Image 2.6 Flare。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://iskragen.ru/blog/models/gpt-image-2-6"
+    },
+    "media": [
+      {
+        "source_url": "https://iskragen.ru/blog/models/gpt-image-2-6/assets/flare-2k.webp",
+        "path": "assets/examples/iskragen-mug-2k-background-test/source-01.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Ceramic mug: 2K background-setting test — Source output or labeled comparison 1",
+          "zh-CN": "陶瓷杯：2K 背景设置测试：来源结果或带标注对照 1"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://iskragen.ru/blog/models/gpt-image-2-6",
+          "credit": "IskraGen",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        },
+        "role": "output",
+        "sha256": "32a7b2aa1432aab12156cf1ab0e1d2d6a217ebdf97160905b28aab2d902a3f67",
+        "bytes": 155372,
+        "mime_type": "image/webp"
+      }
+    ],
+    "notes": {
+      "en": "Creator/publisher-reported example, not independently reproduced. The 2048×2048 RGB WebP has an opaque background. IskraGen says its provider did not pass the background parameter for the 2K request, so this is not evidence of a model transparency failure. Exact prompt is public.",
+      "zh-CN": "案例依据创作者或发布方自述，未经独立复现。2048×2048 RGB WebP 背景不透明。IskraGen 称提供方未在 2K 请求中传递背景参数，因此不能当作模型透明背景失败的证据。准确提示词已公开。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-flare-coffee-process-infographic",
+    "status": "published",
+    "title": {
+      "en": "Five-step coffee process infographic",
+      "zh-CN": "咖啡制作五步信息图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The public Replicate examples page embeds completed prediction qk4gyprdq5rmt0d1n5y9nepqf8. Its input, exact output URL, creator account lucataco, ran_on model openai/gpt-image-2.6-flare and matching model log occur in the same record. This establishes source-reported attribution, not independent reproduction.",
+        "zh-CN": "Replicate 公开示例页内嵌已完成预测 qk4gyprdq5rmt0d1n5y9nepqf8；同一记录包含输入、准确输出链接、创作者账号 lucataco、ran_on 模型 openai/gpt-image-2.6-flare 及匹配的模型日志。这支持来源自述归因，不等于独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/nAWJWRiaCQoCAp5bEpDsQpog649afAJZpWFKtAEo9vu4wMvLA/tmptl8dxjw4.webp",
+        "path": "assets/examples/replicate-flare-coffee-process-infographic/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 137574,
+        "sha256": "5e99eef667e814b293a1b4b87836696b23b7e8bdfe73d30e83cab563adeb1951",
+        "alt": {
+          "en": "Cream-and-terracotta vertical infographic with five numbered coffee stages, illustrations and connecting arrows.",
+          "zh-CN": "奶油色与陶土红竖版信息图，以插画和箭头串联五个咖啡制作阶段。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The original 1024 × 1536 WebP visibly labels all five stages. The source reports high quality and high complexity. This is a published completed prediction, not an independently reproduced API call or a validated speed benchmark. The original prompt is linked at source rather than copied.",
+      "zh-CN": "原始 1024 × 1536 WebP 可见五个阶段的文字标签。来源记录为 high 质量与 high 复杂度。这是来源公开的已完成预测，并非独立复现的 API 调用或经验证的速度基准；原始提示词仅链接至来源，不复制全文。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-flare-lighthouse-sky-edit",
+    "status": "published",
+    "title": {
+      "en": "Paper-cut lighthouse sky changed from sunset to stars",
+      "zh-CN": "纸艺灯塔从日落改为星空"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The public Replicate examples page embeds completed prediction 83apwsrdp9rmr0d1n5y90f1p3w. Its input, exact output URL, creator account lucataco, ran_on model openai/gpt-image-2.6-flare and matching model log occur in the same record. This establishes source-reported attribution, not independent reproduction.",
+        "zh-CN": "Replicate 公开示例页内嵌已完成预测 83apwsrdp9rmr0d1n5y90f1p3w；同一记录包含输入、准确输出链接、创作者账号 lucataco、ran_on 模型 openai/gpt-image-2.6-flare 及匹配的模型日志。这支持来源自述归因，不等于独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/o5DJf9L5JSW1dazYm3vIuWAblMq0TyeOeQ9RTsPXXibnDz8uA/tmp0m1lujj0.webp",
+        "path": "assets/examples/replicate-flare-lighthouse-sky-edit/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 335186,
+        "sha256": "6f4dbbef5a6401322faa426851e4ba09ebda6c2f437baeadc8d87b4f344567c1",
+        "alt": {
+          "en": "Paper-cut lighthouse and waves with a night sky, small stars and a crescent moon.",
+          "zh-CN": "纸艺灯塔与海浪，上方是点缀小星星和弯月的夜空。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      },
+      {
+        "source_url": "https://tjzk.replicate.delivery/models_models_cover_image/3e40f4c7-a017-4bf7-b903-a7b1f842098e/tmpcq71379w.webp",
+        "path": "assets/references/replicate-flare-lighthouse-sky-edit/input.webp",
+        "kind": "image",
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 440352,
+        "sha256": "b19a787422502a3f89654819da3a92003083cf80051ad6325d90ef5e925357e5",
+        "alt": {
+          "en": "Input reference: paper-cut lighthouse with a large orange sunset disk, layered waves and a beam of light.",
+          "zh-CN": "输入参考：大橙色落日、层叠海浪及光束中的纸艺灯塔。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+          "credit": "Public input reference in lucataco’s Replicate prediction; original creator not separately established",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Both files are 2048 × 1152 WebP. The sunset composition is the input reference, not another GPT Image 2.6 output; its original model is not established. The edit replaces the large sunset disk with stars and a crescent while retaining the lighthouse composition. The source reports medium quality and low complexity. This still-image edit is distinct from the historical lighthouse GIF. No pixel-identical preservation or independently reproduced API call is claimed.",
+      "zh-CN": "两份文件均为 2048 × 1152 WebP。日落构图是输入参考图，不算另一个 GPT Image 2.6 输出，其原始模型未确定。编辑将大落日改为星星与弯月，并保留灯塔构图。来源记录为 medium 质量与 low 复杂度。此静态编辑不同于历史灯塔 GIF；不声称其他区域逐像素不变，也未独立复现 API 调用。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-flare-astronaut-cat-sticker",
+    "status": "published",
+    "title": {
+      "en": "Astronaut cat sticker with jetpack",
+      "zh-CN": "背喷气背包的宇航猫贴纸"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The public Replicate examples page embeds completed prediction 85bvkc8ds1rmy0d1n5y8kwb4hc. Its input, exact output URL, creator account lucataco, ran_on model openai/gpt-image-2.6-flare and matching model log occur in the same record. This establishes source-reported attribution, not independent reproduction.",
+        "zh-CN": "Replicate 公开示例页内嵌已完成预测 85bvkc8ds1rmy0d1n5y8kwb4hc；同一记录包含输入、准确输出链接、创作者账号 lucataco、ran_on 模型 openai/gpt-image-2.6-flare 及匹配的模型日志。这支持来源自述归因，不等于独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-flare/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/c4C3tbIuQQZzJVAAJ5fuSsJGnnGuAePKsNfA8UkP8w6iDz8uA/tmpougq7_hv.png",
+        "path": "assets/examples/replicate-flare-astronaut-cat-sticker/output.png",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/png",
+        "bytes": 1379883,
+        "sha256": "9a81116094617883e27af592093e3bf657ab51bf67d08c185f4be465a5d9781d",
+        "alt": {
+          "en": "Orange astronaut cat with a jetpack, white sticker border and soft surrounding shadow.",
+          "zh-CN": "橙色宇航猫背着喷气背包，带白色贴纸边缘和柔和阴影。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-flare/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "Original 1024 × 1024 RGBA PNG. Alpha values range from 0 to 254; a transparent request is recorded, but fully opaque foreground pixels are not asserted. The source reports medium quality and complexity. This is a source-reported result, not an independent API run.",
+      "zh-CN": "原始 1024 × 1024 RGBA PNG，alpha 值范围为 0 至 254。来源记录要求透明背景，但不宣称前景像素完全不透明。来源记录为 medium 质量与复杂度。本案例为来源自述结果，并非独立 API 测试。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-sunburst-sunflower-botanical",
+    "status": "published",
+    "title": {
+      "en": "Labeled sunflower botanical plate",
+      "zh-CN": "带标签的向日葵植物图谱"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original public examples page embeds completed prediction 2mc7axamk5rmt0d1n658y685t4, naming creator lucataco, the served model openai/gpt-image-2.6-sunburst, original prompt and exact output mapping. This is source-reported execution evidence, not an independently rerun API request.",
+        "zh-CN": "原始公开示例页内嵌已完成预测 2mc7axamk5rmt0d1n658y685t4，记录创作者 lucataco、所用模型 openai/gpt-image-2.6-sunburst、原始提示词及准确输出对应关系。这是来源公开的执行证据，并非独立重跑 API 请求。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/6YlI1AF6jI4sGVd5B0vLFQdQhYQvE0jPCUsKZKEX2abOcm3F/tmpziyg8tgt.webp",
+        "path": "assets/examples/replicate-sunburst-sunflower-botanical/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 671322,
+        "sha256": "fa41bd83ee66d564acd47d99b3c6eba7e83147b4e2da88d4f14e621b7745202e",
+        "alt": {
+          "en": "Vintage sunflower botanical plate with a whole plant, seed-head section, achene, leaf and six labels.",
+          "zh-CN": "复古向日葵植物图谱，包含整株、种子盘剖面、瘦果、叶片及六处标签。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The original 1152 × 1536 WebP shows a sunflower botanical plate with six leader labels. Botanical accuracy was not independently assessed. The source reports high quality and high complexity. Its public original prompt is linked rather than copied; no generation or speed benchmark was independently reproduced.",
+      "zh-CN": "原始 1152 × 1536 WebP 呈现带六处引线标签的向日葵植物图谱，未独立评估植物学准确性。来源记录为 high 质量与 high 复杂度。公开原始提示词仅链接，不复制全文；未独立复现生成或速度基准。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "replicate-sunburst-watchmaker-moonlight",
+    "status": "published",
+    "title": {
+      "en": "Watchmaker workbench, golden hour to moonlight",
+      "zh-CN": "钟表工作台：夕照到月光编辑"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+      "author": "lucataco / Replicate",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original public examples page embeds completed prediction xc4cmptmzsrmy0d1n658t7tg1w, naming creator lucataco, the served model openai/gpt-image-2.6-sunburst, original prompt and exact output mapping. This is source-reported execution evidence, not an independently rerun API request.",
+        "zh-CN": "原始公开示例页内嵌已完成预测 xc4cmptmzsrmy0d1n658t7tg1w，记录创作者 lucataco、所用模型 openai/gpt-image-2.6-sunburst、原始提示词及准确输出对应关系。这是来源公开的执行证据，并非独立重跑 API 请求。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples"
+    },
+    "media": [
+      {
+        "source_url": "https://replicate.delivery/xezq/0FC7drKkc1KYI9pl3VQsXSGf7tMvjERUj0i4X4wft0uhwZeuA/tmpum9whxzq.webp",
+        "path": "assets/examples/replicate-sunburst-watchmaker-moonlight/output.webp",
+        "kind": "image",
+        "role": "output",
+        "mime_type": "image/webp",
+        "bytes": 540406,
+        "sha256": "970d781b75ebb7cc0b8b3b7dd3274618e32ae18b8ce357ae252fc955197f03e9",
+        "alt": {
+          "en": "Watchmaker workbench with open pocket-watch parts, tools and jewels under cool blue moonlight.",
+          "zh-CN": "冷蓝月光下的钟表工作台，摆放打开的怀表零件、工具及宝石。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+          "credit": "lucataco / Replicate public example",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      },
+      {
+        "source_url": "https://replicate.delivery/xezq/65w4za2HxRbPNZLu0reX9xFTnMfTQp9kusfNQ30hapm9fm5dB/tmpp03bwtik.webp",
+        "path": "assets/references/replicate-sunburst-watchmaker-moonlight/input.webp",
+        "kind": "image",
+        "role": "reference",
+        "mime_type": "image/webp",
+        "bytes": 695816,
+        "sha256": "0ab5f18026af1e3fd702b51b3845a791bf80da5fc548a492397c616f67ad8f10",
+        "alt": {
+          "en": "Input reference: watchmaker workbench with pocket-watch components in warm sunlight.",
+          "zh-CN": "输入参考：暖色阳光下摆放怀表零件的钟表工作台。"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://replicate.com/openai/gpt-image-2.6-sunburst/examples",
+          "credit": "Public input reference in lucataco’s Replicate prediction; original creator not separately established",
+          "note": {
+            "en": "Original public-source media retained unchanged with attribution. No independent redistribution license has been verified. Attribution is not permission, and the repository MIT license does not cover this file.",
+            "zh-CN": "公开来源素材原样保留并署名。未核实独立转载许可证；署名不构成授权，仓库 MIT 许可不覆盖此文件。"
+          }
+        }
+      }
+    ],
+    "notes": {
+      "en": "The two 2048 × 1152 WebP files show a workbench changing from warm golden-hour light to blue moonlight. Gears, springs and tools retain their broad arrangement, but small dial details differ, so exact pixel or object preservation is not claimed. The warm image is an input reference whose original model is unknown, not another 2.6 output. Source settings are medium quality and low complexity.",
+      "zh-CN": "两份 2048 × 1152 WebP 展示工作台从暖色夕照变为蓝色月光。齿轮、发条及工具的大体排列保留，但表盘细节有所变化，因此不宣称逐像素或物体细节完全一致。暖色图片是原始模型未知的输入参考，不是另一份 2.6 输出。来源设置为 medium 质量与 low 复杂度。"
+    },
+    "added_at": "2026-11-06",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Directly revisited the known original public page and matched each archived media URL to the current HTML or embedded prediction record. No new-case search was performed.",
+        "zh-CN": "直接复核已知原始公开页面，将每个存档素材地址与当前 HTML 或内嵌预测记录对应。未搜索新案例。"
+      },
+      "media_note": {
+        "en": "Retained original bytes were checked against recorded SHA-256 and size, fully decoded and visually inspected, including every animation/video frame. No new generation or media download was performed.",
+        "zh-CN": "留存原件已核对 SHA-256 与大小、完整解码并视觉检查，包含全部动画和视频帧。未重新生成或下载媒体。"
+      },
+      "report_path": "docs/FIVE_SOURCES_BACKLOG_AUDIT_2026-11-08.md"
+    }
+  },
+  {
     "id": "zhidx-clay-robot-garden",
     "status": "published",
     "title": {
