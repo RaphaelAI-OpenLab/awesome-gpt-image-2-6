@@ -47,12 +47,12 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 
 | श्रेणी | स्रोत से जुड़े उदाहरण | पूर्ण प्रॉम्प्ट |
 | --- | ---: | ---: |
-| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 27 | 0 |
-| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 29 | 0 |
+| [ब्रांड और उत्पाद के दृश्य](#category-brand-products) | 28 | 0 |
+| [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 30 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 12 | 0 |
-| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 7 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 29 | 0 |
-| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 20 | 0 |
+| [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 9 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 30 | 0 |
+| [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 23 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 9 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 98 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **231** |
+| स्रोत से जुड़े उदाहरण | **239** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **194** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **167** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **202** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **173** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **357** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **370** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
+| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल |
+| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-posters-typography"></a>
 
@@ -201,6 +202,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-infographics"></a>
 
@@ -234,6 +236,8 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-characters-consistency"></a>
 
@@ -270,6 +274,7 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-markup-edits"></a>
 
@@ -297,6 +302,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
+| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 
 <a id="category-svg-design-assets"></a>
 

@@ -47,12 +47,12 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 27 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 29 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 28 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 30 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 12 | 0 |
-| [Nội thất và kiến trúc](#category-interiors-architecture) | 7 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 29 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 20 | 0 |
+| [Nội thất và kiến trúc](#category-interiors-architecture) | 9 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 30 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 23 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 9 | 0 |
 | [GIF và hoạt ảnh](#category-gif-animation) | 98 | 0 |
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **231** |
+| Trường hợp có liên kết nguồn | **239** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **194** |
-| Câu lệnh gốc có sẵn tại nguồn | **167** |
+| Ví dụ do tác giả báo cáo | **202** |
+| Câu lệnh gốc có sẵn tại nguồn | **173** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **357** |
+| Tệp tư liệu được lưu trữ cục bộ | **370** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -165,6 +165,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -201,6 +202,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -234,6 +236,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Red tram in a foggy city](cases/kavel-tram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-characters-consistency"></a>
 
@@ -270,6 +274,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-markup-edits"></a>
 
@@ -297,6 +302,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
