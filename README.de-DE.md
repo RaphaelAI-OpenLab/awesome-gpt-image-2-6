@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 65 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 41 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 67 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 42 | 0 |
 | [Infografiken](#category-infographics) | 16 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 11 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 55 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 36 | 0 |
-| [SVG & Designressourcen](#category-svg-design-assets) | 12 | 0 |
-| [GIF & Animation](#category-gif-animation) | 123 | 0 |
+| [SVG & Designressourcen](#category-svg-design-assets) | 13 | 0 |
+| [GIF & Animation](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **359** |
+| Beispiele mit Quellenverweisen | **366** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **322** |
-| An der Quelle verfügbare Original-Prompts | **226** |
+| Von Erstellern gemeldete Beispiele | **329** |
+| An der Quelle verfügbare Original-Prompts | **233** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **526** |
+| Lokal archivierte Mediendateien | **536** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -203,6 +203,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 65 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 41 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 67 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 42 | 0 |
 | [Đồ họa thông tin](#category-infographics) | 16 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 11 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 55 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 36 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 12 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 123 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 13 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **359** |
+| Trường hợp có liên kết nguồn | **366** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **322** |
-| Câu lệnh gốc có sẵn tại nguồn | **226** |
+| Ví dụ do tác giả báo cáo | **329** |
+| Câu lệnh gốc có sẵn tại nguồn | **233** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **526** |
+| Tệp tư liệu được lưu trữ cục bộ | **536** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -203,6 +203,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

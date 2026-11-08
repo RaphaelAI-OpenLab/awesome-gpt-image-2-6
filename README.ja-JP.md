@@ -47,14 +47,14 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 
 | カテゴリー | 出典リンク付き事例 | 完全なプロンプト |
 | --- | ---: | ---: |
-| [ブランド・製品ビジュアル](#category-brand-products) | 65 | 0 |
-| [ポスター・タイポグラフィ](#category-posters-typography) | 41 | 0 |
+| [ブランド・製品ビジュアル](#category-brand-products) | 67 | 0 |
+| [ポスター・タイポグラフィ](#category-posters-typography) | 42 | 0 |
 | [インフォグラフィック](#category-infographics) | 16 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 11 | 0 |
 | [キャラクターと一貫性](#category-characters-consistency) | 55 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 36 | 0 |
-| [SVG・デザイン素材](#category-svg-design-assets) | 12 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 123 | 0 |
+| [SVG・デザイン素材](#category-svg-design-assets) | 13 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 126 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **359** |
+| 出典リンク付き事例 | **366** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **322** |
-| 出典で公開されている原文プロンプト | **226** |
+| 作者が報告した作例 | **329** |
+| 出典で公開されている原文プロンプト | **233** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **526** |
+| ローカルに保存済みのメディアファイル | **536** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -203,6 +203,8 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-posters-typography"></a>
 
@@ -251,6 +253,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-infographics"></a>
 
@@ -416,6 +419,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 <a id="category-gif-animation"></a>
 
@@ -546,6 +550,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 
