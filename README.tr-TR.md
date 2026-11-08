@@ -47,14 +47,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 17 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 20 | 0 |
-| [İnfografikler](#category-infographics) | 10 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 18 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 21 | 0 |
+| [İnfografikler](#category-infographics) | 11 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 4 | 0 |
 | [Karakterler ve tutarlılık](#category-characters-consistency) | 22 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 14 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 15 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 6 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 15 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **108** |
+| Kaynak bağlantılı örnekler | **129** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **71** |
-| Kaynakta bulunan özgün istemler | **85** |
+| Üreticilerinin bildirdiği örnekler | **92** |
+| Kaynakta bulunan özgün istemler | **96** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **177** |
-| Son kaynak kontrolü (UTC) | **2026-11-06** |
+| Yerel olarak arşivlenmiş medya dosyaları | **204** |
+| Son kaynak kontrolü (UTC) | **2026-11-08** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
 
@@ -155,6 +155,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +183,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +201,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -260,6 +263,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -295,6 +299,23 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 [Arama günlüğü, medya raporu ve sonuçlandırılmamış araştırma ipuçları](docs/CASE_GALLERY.md)
 

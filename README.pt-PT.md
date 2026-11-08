@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Ligação de coleção ou campanha relacionada: a adicio
 
 | Categoria | Casos com ligação para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 17 | 0 |
-| [Cartazes e tipografia](#category-posters-typography) | 20 | 0 |
-| [Infografias](#category-infographics) | 10 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 18 | 0 |
+| [Cartazes e tipografia](#category-posters-typography) | 21 | 0 |
+| [Infografias](#category-infographics) | 11 | 0 |
 | [Interiores e arquitetura](#category-interiors-architecture) | 4 | 0 |
 | [Personagens e consistência](#category-characters-consistency) | 22 | 0 |
-| [Anotações e edições pontuais](#category-markup-edits) | 14 | 0 |
+| [Anotações e edições pontuais](#category-markup-edits) | 15 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 6 | 0 |
-| [GIF e animação](#category-gif-animation) | 15 | 0 |
+| [GIF e animação](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ A OpenAI apresentou Images 2.6 a 4 de novembro de 2026. Esta coleção abrange a
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com ligação para a fonte | **108** |
+| Casos com ligação para a fonte | **129** |
 | Exemplos oficiais | **37** |
-| Exemplos comunicados pelos criadores | **71** |
-| Prompts originais disponíveis na fonte | **85** |
+| Exemplos comunicados pelos criadores | **92** |
+| Prompts originais disponíveis na fonte | **96** |
 | Prompts completos publicados aqui | **0** |
-| Ficheiros multimédia arquivados localmente | **177** |
-| Última verificação das fontes (UTC) | **2026-11-06** |
+| Ficheiros multimédia arquivados localmente | **204** |
+| Última verificação das fontes (UTC) | **2026-11-08** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
 
@@ -155,6 +155,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +183,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +201,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -260,6 +263,7 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -295,6 +299,23 @@ Os cartões provisórios não são resultados gerados. Todos os ficheiros multim
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Modelo indicado pelo criador | Disponibilidade do prompt não verificada |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Modelo indicado pelo criador | Prompt original na fonte |
 
 [Registo de pesquisas, relatório de conteúdos multimédia e pistas por resolver](docs/CASE_GALLERY.md)
 

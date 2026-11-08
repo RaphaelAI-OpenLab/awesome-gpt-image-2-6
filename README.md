@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 17 | 0 |
-| [Posters & typography](#category-posters-typography) | 20 | 0 |
-| [Infographics](#category-infographics) | 10 | 0 |
+| [Brand & product visuals](#category-brand-products) | 18 | 0 |
+| [Posters & typography](#category-posters-typography) | 21 | 0 |
+| [Infographics](#category-infographics) | 11 | 0 |
 | [Interiors & architecture](#category-interiors-architecture) | 4 | 0 |
 | [Characters & consistency](#category-characters-consistency) | 22 | 0 |
-| [Markup & targeted edits](#category-markup-edits) | 14 | 0 |
+| [Markup & targeted edits](#category-markup-edits) | 15 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 6 | 0 |
-| [GIF & animation](#category-gif-animation) | 15 | 0 |
+| [GIF & animation](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -82,13 +82,13 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **108** |
+| Source-linked cases | **129** |
 | Official examples | **37** |
-| Creator-reported examples | **71** |
-| Original prompts available at source | **85** |
+| Creator-reported examples | **92** |
+| Original prompts available at source | **96** |
 | Full prompts published here | **0** |
-| Locally archived media files | **177** |
-| Last source check (UTC) | **2026-11-06** |
+| Locally archived media files | **204** |
+| Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
 
@@ -151,6 +151,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Creator-reported model | Original prompt at source |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Creator-reported model | Original prompt at source |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Creator-reported model | Original prompt at source |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-posters-typography"></a>
 
@@ -178,6 +179,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Creator-reported model | Original prompt at source |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Creator-reported model | Original prompt at source |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Creator-reported model | Original prompt at source |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-infographics"></a>
 
@@ -195,6 +197,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Creator-reported model | Original prompt at source |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Creator-reported model | Original prompt at source |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Creator-reported model | Original prompt at source |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-interiors-architecture"></a>
 
@@ -256,6 +259,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Creator-reported model | Original prompt at source |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Creator-reported model | Original prompt at source |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Creator-reported model | Original prompt at source |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-svg-design-assets"></a>
 
@@ -291,6 +295,23 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Creator-reported model | Prompt availability unverified |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Creator-reported model | Original prompt at source |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Creator-reported model | Original prompt at source |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Creator-reported model | Original prompt at source |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Creator-reported model | Original prompt at source |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Creator-reported model | Original prompt at source |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Creator-reported model | Original prompt at source |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Creator-reported model | Prompt availability unverified |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Creator-reported model | Prompt availability unverified |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Creator-reported model | Prompt availability unverified |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Creator-reported model | Prompt availability unverified |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Creator-reported model | Prompt availability unverified |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Creator-reported model | Prompt availability unverified |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Creator-reported model | Prompt availability unverified |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Creator-reported model | Prompt availability unverified |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Creator-reported model | Prompt availability unverified |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Creator-reported model | Prompt availability unverified |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

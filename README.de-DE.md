@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 17 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 20 | 0 |
-| [Infografiken](#category-infographics) | 10 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 18 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 21 | 0 |
+| [Infografiken](#category-infographics) | 11 | 0 |
 | [Innenräume & Architektur](#category-interiors-architecture) | 4 | 0 |
 | [Figuren & Konsistenz](#category-characters-consistency) | 22 | 0 |
-| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 14 | 0 |
+| [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 15 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 6 | 0 |
-| [GIF & Animation](#category-gif-animation) | 15 | 0 |
+| [GIF & Animation](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **108** |
+| Beispiele mit Quellenverweisen | **129** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **71** |
-| An der Quelle verfügbare Original-Prompts | **85** |
+| Von Erstellern gemeldete Beispiele | **92** |
+| An der Quelle verfügbare Original-Prompts | **96** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **177** |
-| Letzte Quellenprüfung (UTC) | **2026-11-06** |
+| Lokal archivierte Mediendateien | **204** |
+| Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
 
@@ -155,6 +155,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +183,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +201,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-interiors-architecture"></a>
 
@@ -260,6 +263,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-svg-design-assets"></a>
 
@@ -295,6 +299,23 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Vom Ersteller angegebenes Modell | Verfügbarkeit des Prompts ungeprüft |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 17 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 20 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 10 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 18 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 21 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 11 | 0 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 4 | 0 |
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 14 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 15 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 6 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 15 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 32 | 0 |
 
 <a id="contents"></a>
 
@@ -86,13 +86,13 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **108** |
+| Trường hợp có liên kết nguồn | **129** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **71** |
-| Câu lệnh gốc có sẵn tại nguồn | **85** |
+| Ví dụ do tác giả báo cáo | **92** |
+| Câu lệnh gốc có sẵn tại nguồn | **96** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **177** |
-| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-06** |
+| Tệp tư liệu được lưu trữ cục bộ | **204** |
+| Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-08** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
 
@@ -155,6 +155,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-posters-typography"></a>
 
@@ -182,6 +183,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-infographics"></a>
 
@@ -199,6 +201,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -260,6 +263,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -295,6 +299,23 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
+| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 
