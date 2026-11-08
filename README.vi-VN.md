@@ -54,7 +54,7 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 | [Nhân vật và tính nhất quán](#category-characters-consistency) | 29 | 0 |
 | [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 20 | 0 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 8 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 90 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **221** |
+| Trường hợp có liên kết nguồn | **225** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **184** |
-| Câu lệnh gốc có sẵn tại nguồn | **164** |
+| Ví dụ do tác giả báo cáo | **188** |
+| Câu lệnh gốc có sẵn tại nguồn | **166** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **346** |
+| Tệp tư liệu được lưu trữ cục bộ | **351** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +121,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Mô hình do tác giả báo cáo |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -408,6 +408,10 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
 [Nhật ký tìm kiếm, báo cáo tư liệu và các đầu mối chưa được giải quyết](docs/CASE_GALLERY.md)
 

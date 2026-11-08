@@ -54,7 +54,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [キャラクターと一貫性](#category-characters-consistency) | 29 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 20 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 8 | 0 |
-| [GIF・アニメーション](#category-gif-animation) | 90 | 0 |
+| [GIF・アニメーション](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **221** |
+| 出典リンク付き事例 | **225** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **184** |
-| 出典で公開されている原文プロンプト | **164** |
+| 作者が報告した作例 | **188** |
+| 出典で公開されている原文プロンプト | **166** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **346** |
+| ローカルに保存済みのメディアファイル | **351** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -121,12 +121,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 追加日 | 事例 | 根拠 |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 作者申告のモデル |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 作者申告のモデル |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 作者申告のモデル |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 作者申告のモデル |
 
 <a id="all-cases"></a>
 
@@ -408,6 +408,10 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | 作者申告のモデル | プロンプト非公開 |
 
 [検索ログ、メディアレポート、未確認の調査候補](docs/CASE_GALLERY.md)
 

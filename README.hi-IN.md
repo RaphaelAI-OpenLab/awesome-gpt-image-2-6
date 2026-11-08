@@ -54,7 +54,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पात्र और एकरूपता](#category-characters-consistency) | 29 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 20 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 8 | 0 |
-| [GIF और ऐनिमेशन](#category-gif-animation) | 90 | 0 |
+| [GIF और ऐनिमेशन](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **221** |
+| स्रोत से जुड़े उदाहरण | **225** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **184** |
-| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **164** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **188** |
+| स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **166** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **346** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **351** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -121,12 +121,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | जोड़े जाने की तारीख | उदाहरण | साक्ष्य |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | रचनाकार द्वारा बताया गया मॉडल |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | रचनाकार द्वारा बताया गया मॉडल |
 
 <a id="all-cases"></a>
 
@@ -408,6 +408,10 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 
 [खोज लॉग, मीडिया रिपोर्ट और अनसुलझे शोध संकेत](docs/CASE_GALLERY.md)
 

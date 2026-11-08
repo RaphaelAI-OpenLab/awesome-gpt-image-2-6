@@ -50,7 +50,7 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | [Characters & consistency](#category-characters-consistency) | 29 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 20 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
-| [GIF & animation](#category-gif-animation) | 90 | 0 |
+| [GIF & animation](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **221** |
+| Source-linked cases | **225** |
 | Official examples | **37** |
-| Creator-reported examples | **184** |
-| Original prompts available at source | **164** |
+| Creator-reported examples | **188** |
+| Original prompts available at source | **166** |
 | Full prompts published here | **0** |
-| Locally archived media files | **346** |
+| Locally archived media files | **351** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -117,12 +117,12 @@ Placeholder cards are not generated results. All displayed media files live in t
 
 | Added | Case | Evidence |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Creator-reported model |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Creator-reported model |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Creator-reported model |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Creator-reported model |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Creator-reported model |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -404,6 +404,10 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Creator-reported model | Original prompt at source |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Creator-reported model | Prompt not public |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Creator-reported model | Original prompt at source |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Creator-reported model | Original prompt at source |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Creator-reported model | Original prompt at source |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Creator-reported model | Prompt not public |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Creator-reported model | Prompt not public |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 

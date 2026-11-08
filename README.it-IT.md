@@ -54,7 +54,7 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 | [Personaggi e coerenza](#category-characters-consistency) | 29 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 20 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animazione](#category-gif-animation) | 90 | 0 |
+| [GIF e animazione](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **221** |
+| Casi con collegamenti alle fonti | **225** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **184** |
-| Prompt originali disponibili alla fonte | **164** |
+| Esempi dichiarati dai creatori | **188** |
+| Prompt originali disponibili alla fonte | **166** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **346** |
+| File multimediali archiviati localmente | **351** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -121,12 +121,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modello dichiarato dal creatore |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -408,6 +408,10 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

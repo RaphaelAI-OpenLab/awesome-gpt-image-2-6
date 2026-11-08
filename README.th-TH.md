@@ -54,7 +54,7 @@
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 29 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 20 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 8 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 90 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 94 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **221** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **225** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **184** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **164** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **188** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **166** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **346** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **351** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -121,12 +121,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | วันที่เพิ่ม | กรณีตัวอย่าง | หลักฐาน |
 | --- | --- | --- |
+| 2026-11-06 | [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -408,6 +408,10 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 
