@@ -51,7 +51,7 @@ GPT Image 2.6 के प्रॉम्प्ट, दृश्य उदाह�
 | [पोस्टर और टाइपोग्राफ़ी](#category-posters-typography) | 40 | 0 |
 | [इन्फ़ोग्राफ़िक्स](#category-infographics) | 16 | 0 |
 | [आंतरिक सज्जा और वास्तुकला](#category-interiors-architecture) | 10 | 0 |
-| [पात्र और एकरूपता](#category-characters-consistency) | 52 | 0 |
+| [पात्र और एकरूपता](#category-characters-consistency) | 55 | 0 |
 | [चिह्नांकन और लक्षित संपादन](#category-markup-edits) | 36 | 0 |
 | [SVG और डिज़ाइन संसाधन](#category-svg-design-assets) | 12 | 0 |
 | [GIF और ऐनिमेशन](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 
 | मापदंड | संख्या / तारीख |
 | --- | ---: |
-| स्रोत से जुड़े उदाहरण | **346** |
+| स्रोत से जुड़े उदाहरण | **349** |
 | आधिकारिक उदाहरण | **37** |
-| रचनाकारों द्वारा बताए गए उदाहरण | **309** |
+| रचनाकारों द्वारा बताए गए उदाहरण | **312** |
 | स्रोत पर उपलब्ध मूल प्रॉम्प्ट | **216** |
 | यहाँ प्रकाशित पूर्ण प्रॉम्प्ट | **0** |
-| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **507** |
+| स्थानीय रूप से संग्रहित मीडिया फ़ाइलें | **511** |
 | स्रोत की पिछली जाँच (UTC) | **2026-11-09** |
 
 स्रोतों की संख्या परिणाम दोहराने का दावा नहीं करती। लंबित शोध संकेत शामिल नहीं हैं; एक वर्कफ़्लो के अलग-अलग आउटपुट को एक ही उदाहरण गिना जाता है।
@@ -333,6 +333,9 @@ OpenAI ने 4 नवंबर 2026 को Images 2.6 पेश किया।
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | रचनाकार द्वारा बताया गया मॉडल | स्रोत पर मूल प्रॉम्प्ट |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट सार्वजनिक नहीं है |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | रचनाकार द्वारा बताया गया मॉडल | प्रॉम्प्ट की उपलब्धता सत्यापित नहीं |

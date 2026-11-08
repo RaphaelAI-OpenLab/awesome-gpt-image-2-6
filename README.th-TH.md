@@ -51,7 +51,7 @@
 | [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 40 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 16 | 0 |
 | [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 10 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 52 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 55 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 36 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 12 | 0 |
 | [GIF และแอนิเมชัน](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **346** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **349** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **309** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **312** |
 | พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **216** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **507** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **511** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -333,6 +333,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | โมเดลที่ผู้สร้างระบุ | ยังไม่ได้ตรวจสอบการเผยแพร่พรอมป์ต์ |

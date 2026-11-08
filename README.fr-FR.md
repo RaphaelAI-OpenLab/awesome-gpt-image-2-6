@@ -51,7 +51,7 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 | [Affiches et typographie](#category-posters-typography) | 40 | 0 |
 | [Infographies](#category-infographics) | 16 | 0 |
 | [Intérieurs et architecture](#category-interiors-architecture) | 10 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 52 | 0 |
+| [Personnages et cohérence](#category-characters-consistency) | 55 | 0 |
 | [Annotations et retouches ciblées](#category-markup-edits) | 36 | 0 |
 | [SVG et ressources graphiques](#category-svg-design-assets) | 12 | 0 |
 | [GIF et animation](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 
 | Indicateur | Nombre / date |
 | --- | ---: |
-| Cas avec liens vers les sources | **346** |
+| Cas avec liens vers les sources | **349** |
 | Exemples officiels | **37** |
-| Exemples déclarés par leurs créateurs | **309** |
+| Exemples déclarés par leurs créateurs | **312** |
 | Prompts originaux disponibles à la source | **216** |
 | Prompts complets publiés ici | **0** |
-| Fichiers multimédias archivés localement | **507** |
+| Fichiers multimédias archivés localement | **511** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
 Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente sont exclues ; différentes sorties d’un même workflow comptent pour un seul cas.
@@ -333,6 +333,9 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modèle déclaré par le créateur | Prompt non public |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |

@@ -51,7 +51,7 @@ GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコ
 | [ポスター・タイポグラフィ](#category-posters-typography) | 40 | 0 |
 | [インフォグラフィック](#category-infographics) | 16 | 0 |
 | [インテリア・建築](#category-interiors-architecture) | 10 | 0 |
-| [キャラクターと一貫性](#category-characters-consistency) | 52 | 0 |
+| [キャラクターと一貫性](#category-characters-consistency) | 55 | 0 |
 | [マークアップ・部分編集](#category-markup-edits) | 36 | 0 |
 | [SVG・デザイン素材](#category-svg-design-assets) | 12 | 0 |
 | [GIF・アニメーション](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 
 | 指標 | 件数 / 日付 |
 | --- | ---: |
-| 出典リンク付き事例 | **346** |
+| 出典リンク付き事例 | **349** |
 | 公式の作例 | **37** |
-| 作者が報告した作例 | **309** |
+| 作者が報告した作例 | **312** |
 | 出典で公開されている原文プロンプト | **216** |
 | ここで公開している完全なプロンプト | **0** |
-| ローカルに保存済みのメディアファイル | **507** |
+| ローカルに保存済みのメディアファイル | **511** |
 | 出典の最終確認日時（UTC） | **2026-11-09** |
 
 出典の件数は再現を主張するものではありません。未確認の調査候補は除外し、同じワークフロー内の異なる出力は 1 件の事例として数えています。
@@ -333,6 +333,9 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | 作者申告のモデル | 出典にある原文プロンプト |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | 作者申告のモデル | プロンプト非公開 |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | 作者申告のモデル | プロンプト非公開 |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | 作者申告のモデル | プロンプトの公開状況は未確認 |

@@ -47,7 +47,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [海报与文字排版](#category-posters-typography) | 40 | 0 |
 | [信息图](#category-infographics) | 16 | 0 |
 | [室内与建筑](#category-interiors-architecture) | 10 | 0 |
-| [角色与一致性](#category-characters-consistency) | 52 | 0 |
+| [角色与一致性](#category-characters-consistency) | 55 | 0 |
 | [标注与局部编辑](#category-markup-edits) | 36 | 0 |
 | [SVG 与设计素材](#category-svg-design-assets) | 12 | 0 |
 | [GIF 与动画](#category-gif-animation) | 116 | 0 |
@@ -82,12 +82,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **346** |
+| 来源案例 | **349** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **309** |
+| 社区作者自报案例 | **312** |
 | 来源公开原始提示词 | **216** |
 | 仓库内完整提示词 | **0** |
-| 本地收录素材文件 | **507** |
+| 本地收录素材文件 | **511** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -329,6 +329,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | [篮球比赛合成照片](cases/zhidx-basketball-photo/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [蓝色摄影棚里的橙色 Y2K 时装](cases/302-y2k-orange-fashion/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
 | [雪地群狼黑白墨线插画](cases/302-ink-wolves-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+| [参考图引导的庭院摄影组图](cases/community-marco-reference-photo-board/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [Sunburst 庭院对比](cases/community-marco-sunburst-courtyard-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+| [蘑菇光影时装人像](cases/community-marco-mushroom-fashion-portrait/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
 | [空心人台服装转街拍模特](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [虚拟试衣](cases/yepshot-compose-virtual-try-on/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
 | [面料升级为丝绸](cases/yepshot-apparel-silk-texture-upgrade/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |

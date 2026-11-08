@@ -51,7 +51,7 @@ MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendient
 | [Carteles y tipografía](#category-posters-typography) | 40 | 0 |
 | [Infografías](#category-infographics) | 16 | 0 |
 | [Interiores y arquitectura](#category-interiors-architecture) | 10 | 0 |
-| [Personajes y coherencia](#category-characters-consistency) | 52 | 0 |
+| [Personajes y coherencia](#category-characters-consistency) | 55 | 0 |
 | [Anotaciones y ediciones específicas](#category-markup-edits) | 36 | 0 |
 | [SVG y recursos de diseño](#category-svg-design-assets) | 12 | 0 |
 | [GIF y animación](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI presentó Images 2.6 el 4 de noviembre de 2026. Esta colección abarca la
 
 | Métrica | Recuento / fecha |
 | --- | ---: |
-| Casos con enlace a la fuente | **346** |
+| Casos con enlace a la fuente | **349** |
 | Ejemplos oficiales | **37** |
-| Ejemplos según sus creadores | **309** |
+| Ejemplos según sus creadores | **312** |
 | Prompts originales disponibles en la fuente | **216** |
 | Prompts completos publicados aquí | **0** |
-| Archivos multimedia archivados localmente | **507** |
+| Archivos multimedia archivados localmente | **511** |
 | Última comprobación de fuentes (UTC) | **2026-11-09** |
 
 Los recuentos de fuentes no implican una reproducción de los resultados. Se excluyen las pistas pendientes; los distintos resultados de un mismo flujo de trabajo cuentan como un solo caso.
@@ -333,6 +333,9 @@ Las tarjetas provisionales no son resultados generados. Todos los archivos multi
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modelo indicado por el creador | Prompt original en la fuente |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modelo indicado por el creador | Prompt no público |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modelo indicado por el creador | Prompt no público |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Modelo indicado por el creador | Disponibilidad del prompt sin verificar |

@@ -24430,6 +24430,247 @@
     }
   },
   {
+    "id": "community-marco-reference-photo-board",
+    "status": "published",
+    "title": {
+      "en": "Reference-led courtyard photo board",
+      "zh-CN": "参考图引导的庭院摄影组图"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/ai_artworkgen/status/2118235673727500369",
+      "author": "Marco (@ai_artworkgen)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator captions this board as GPT 2.6 with a reference image made in Runway Frames. The top-left cell is explicitly marked REF IMAGE; it is not attributed to GPT Image 2.6.",
+        "zh-CN": "作者说明该组图使用 GPT 2.6 和 Runway Frames 制作的参考图。左上角明确标有 REF IMAGE，不将该格归于 GPT Image 2.6。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWV2PSAWYAAElyU?format=webp&name=large",
+        "path": "assets/examples/community-marco-reference-photo-board/reference-output-board.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Creator composite: labelled Runway reference at upper left and GPT 2.6 courtyard views",
+          "zh-CN": "作者拼图：左上为标注的 Runway 参考图，其余为 GPT 2.6 庭院视角"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ai_artworkgen/status/2118235673727500369",
+          "credit": "Marco (@ai_artworkgen)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/webp",
+        "bytes": 71142,
+        "sha256": "15f63eec05e63bbdad312eb0a6101b90ba01ae2749352b4ac7fdfd26d654deb9",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "A four-panel board pairs a color reference with monochrome courtyard views. The reference and outputs remain together in the unmodified source composite. No public prompt or variant was established.",
+      "zh-CN": "四格组图将彩色参考图与黑白庭院视角并列。参考与输出保留在未经修改的原始拼图中。未确认公开提示词或具体版本。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "blocked",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The current direct original-post request returned HTTP 403. No retry or alternate access route was used. Verification uses the retained 5 November original browser article capture, including author, caption, post URL and exact attachment URLs; this is not a live-access success.",
+        "zh-CN": "本次直接访问原帖返回 HTTP 403，未重试或换路。核验依据为11月5日留存的原始浏览器文章记录，含作者、帖文、准确原帖和附件地址，不宣称当前可访问。"
+      },
+      "media_note": {
+        "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
+        "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
+      },
+      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-marco-sunburst-courtyard-comparison",
+    "status": "published",
+    "title": {
+      "en": "Sunburst courtyard comparison",
+      "zh-CN": "Sunburst 庭院对比"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/ai_artworkgen/status/2118235678328893803",
+      "author": "Marco (@ai_artworkgen)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The original caption identifies GPT 2.6 above GPT 2.5. The image itself labels the upper panel GPT 2.6 SUNBURST and the lower panel GPT 2.5 SUNBURST. Only the upper panel is the collected 2.6 result. This is source attribution, not independent model verification.",
+        "zh-CN": "原帖说明上方为 GPT 2.6、下方为 GPT 2.5。图片本身分别标有 GPT 2.6 SUNBURST 与 GPT 2.5 SUNBURST，仅上方属于收集的 2.6 结果。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWV2bTXX0AAjMAs?format=webp&name=large",
+        "path": "assets/examples/community-marco-sunburst-courtyard-comparison/comparison.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Top: GPT 2.6 Sunburst courtyard portrait; bottom: GPT 2.5 Sunburst baseline",
+          "zh-CN": "上：GPT 2.6 Sunburst 庭院人像；下：GPT 2.5 Sunburst 基线"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ai_artworkgen/status/2118235678328893803",
+          "credit": "Marco (@ai_artworkgen)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/webp",
+        "bytes": 120410,
+        "sha256": "fec8c028c86576bda90768a86ef9ed3ead32619a8d3443c232dcc71c1ca3e37a",
+        "role": "output"
+      }
+    ],
+    "notes": {
+      "en": "Two courtyard portraits compare the same styled subject and location. The original comparison is preserved intact; the lower image is a 2.5 baseline, not another 2.6 output. No original prompt was found in this post.",
+      "zh-CN": "两张庭院人像对比同类造型主体与场景。原始对比图保持完整；下图是 2.5 基线，不是另一张 2.6 输出。该帖未见原始提示词。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "blocked",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The current direct original-post request returned HTTP 403. No retry or alternate access route was used. Verification uses the retained 5 November original browser article capture, including author, caption, post URL and exact attachment URLs; this is not a live-access success.",
+        "zh-CN": "本次直接访问原帖返回 HTTP 403，未重试或换路。核验依据为11月5日留存的原始浏览器文章记录，含作者、帖文、准确原帖和附件地址，不宣称当前可访问。"
+      },
+      "media_note": {
+        "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
+        "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
+      },
+      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
+    "id": "community-marco-mushroom-fashion-portrait",
+    "status": "published",
+    "title": {
+      "en": "Mushroom-lit fashion portrait",
+      "zh-CN": "蘑菇光影时装人像"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/ai_artworkgen/status/2118235684217692275",
+      "author": "Marco (@ai_artworkgen)",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "sunburst"
+      ],
+      "evidence": {
+        "en": "The author calls the pair Settings for GPT 2.6 + Output Example. The settings screenshot visibly selects GPT Image 2.6 Sunburst and shows four outputs matching the separately attached portrait. This is source attribution, not independent model verification.",
+        "zh-CN": "作者将这组附件标为 GPT 2.6 设置与输出示例。设置截图明确选中 GPT Image 2.6 Sunburst，并展示与独立人像附件相符的四张输出。 这是来源归因，并非独立模型验证。"
+      }
+    },
+    "prompt": {
+      "status": "not-public",
+      "url": null
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWV3tJUWUAAa6Xs?format=webp&name=large",
+        "path": "assets/examples/community-marco-mushroom-fashion-portrait/portrait.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Fashion portrait with metallic clothing and large mushrooms",
+          "zh-CN": "金属装饰服装与巨大蘑菇背景的时装人像"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ai_artworkgen/status/2118235684217692275",
+          "credit": "Marco (@ai_artworkgen)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/webp",
+        "bytes": 60036,
+        "sha256": "fcd03240a4eb25584f58e30ea7ed2857124b46005f592acfad3ac5b3928f3ddb",
+        "role": "output"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWV3wlMXcAAVSwe?format=webp&name=large",
+        "path": "assets/references/community-marco-mushroom-fashion-portrait/model-settings.webp",
+        "kind": "image",
+        "alt": {
+          "en": "Publisher model-settings screenshot, used as evidence; not a generation input or an additional output",
+          "zh-CN": "发布方模型设置截图，用作证据，不是生成输入或额外输出"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/ai_artworkgen/status/2118235684217692275",
+          "credit": "Marco (@ai_artworkgen)",
+          "note": {
+            "en": "Unmodified source media with creator credit. No explicit redistribution license was verified; attribution is not permission, and the repository MIT license does not cover this media.",
+            "zh-CN": "未经修改的来源素材，保留创作者署名。未核实明确转载许可；署名不等于授权，仓库 MIT 许可不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/webp",
+        "bytes": 78662,
+        "sha256": "6f814d0b520f0d5f25f9ef424cbb1c3897ac9597e68b6feb167fba179e9f1e24",
+        "role": "reference"
+      }
+    ],
+    "notes": {
+      "en": "An ornate fashion portrait places clasped hands and metallic clothing against oversized mushrooms with green and magenta light. The paired settings view documents the selected model; no original prompt was publicly shown. The settings screenshot is included only as supporting evidence, not a generation input or four extra cases. The displayed duration and selected settings are publisher evidence, not a validated runtime benchmark.",
+      "zh-CN": "华丽时装人像以合拢双手和金属装饰服装为主体，背景为绿紫光下的巨大蘑菇。配套设置截图记录所选模型，未公开原始提示词。 设置截图仅作为辅助证据，不是生成输入，也不增加四个案例。截图时长和选项属于发布方证据，并非已验证的运行基准。"
+    },
+    "added_at": "2026-11-05",
+    "verified_at": "2026-11-08",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-08",
+      "page_status": "blocked",
+      "media_status": "archived",
+      "page_note": {
+        "en": "The current direct original-post request returned HTTP 403. No retry or alternate access route was used. Verification uses the retained 5 November original browser article capture, including author, caption, post URL and exact attachment URLs; this is not a live-access success.",
+        "zh-CN": "本次直接访问原帖返回 HTTP 403，未重试或换路。核验依据为11月5日留存的原始浏览器文章记录，含作者、帖文、准确原帖和附件地址，不宣称当前可访问。"
+      },
+      "media_note": {
+        "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
+        "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
+      },
+      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+    }
+  },
+  {
     "id": "aivideos-flare-headline-edit",
     "status": "published",
     "title": {

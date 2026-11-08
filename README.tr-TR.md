@@ -51,7 +51,7 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 | [Afişler ve tipografi](#category-posters-typography) | 40 | 0 |
 | [İnfografikler](#category-infographics) | 16 | 0 |
 | [İç mekân ve mimari](#category-interiors-architecture) | 10 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 52 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 55 | 0 |
 | [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 36 | 0 |
 | [SVG ve tasarım varlıkları](#category-svg-design-assets) | 12 | 0 |
 | [GIF ve animasyon](#category-gif-animation) | 116 | 0 |
@@ -86,12 +86,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **346** |
+| Kaynak bağlantılı örnekler | **349** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **309** |
+| Üreticilerinin bildirdiği örnekler | **312** |
 | Kaynakta bulunan özgün istemler | **216** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **507** |
+| Yerel olarak arşivlenmiş medya dosyaları | **511** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -333,6 +333,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
+| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
+| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
