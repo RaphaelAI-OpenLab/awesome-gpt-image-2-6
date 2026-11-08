@@ -47,14 +47,14 @@
 
 | หมวดหมู่ | กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | พรอมป์ต์ฉบับเต็ม |
 | --- | ---: | ---: |
-| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 20 | 0 |
-| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 24 | 0 |
+| [ภาพสำหรับแบรนด์และผลิตภัณฑ์](#category-brand-products) | 22 | 0 |
+| [โปสเตอร์และการจัดวางตัวอักษร](#category-posters-typography) | 25 | 0 |
 | [อินโฟกราฟิก](#category-infographics) | 12 | 0 |
-| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 4 | 0 |
-| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 24 | 0 |
+| [การตกแต่งภายในและสถาปัตยกรรม](#category-interiors-architecture) | 5 | 0 |
+| [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 26 | 0 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 18 | 0 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 8 | 0 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 40 | 0 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **150** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **159** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **113** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **105** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **122** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **107** |
 | พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **0** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **251** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **271** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-08** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -158,6 +158,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +191,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-infographics"></a>
 
@@ -219,6 +222,7 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Living-room markup edit](cases/launch-fal/README.md) | เดโมเปิดตัวอย่างเป็นทางการ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 
 <a id="category-characters-consistency"></a>
 
@@ -250,6 +254,8 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 <a id="category-markup-edits"></a>
 
@@ -337,6 +343,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ไม่ได้เผยแพร่ต่อสาธารณะ |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | โมเดลที่ผู้สร้างระบุ | พรอมป์ต์ต้นฉบับที่แหล่งที่มา |
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
 

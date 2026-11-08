@@ -47,14 +47,14 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 
 | 카테고리 | 출처 링크가 있는 사례 | 전체 프롬프트 |
 | --- | ---: | ---: |
-| [브랜드 및 제품 비주얼](#category-brand-products) | 20 | 0 |
-| [포스터 및 타이포그래피](#category-posters-typography) | 24 | 0 |
+| [브랜드 및 제품 비주얼](#category-brand-products) | 22 | 0 |
+| [포스터 및 타이포그래피](#category-posters-typography) | 25 | 0 |
 | [인포그래픽](#category-infographics) | 12 | 0 |
-| [인테리어 및 건축](#category-interiors-architecture) | 4 | 0 |
-| [캐릭터 및 일관성](#category-characters-consistency) | 24 | 0 |
+| [인테리어 및 건축](#category-interiors-architecture) | 5 | 0 |
+| [캐릭터 및 일관성](#category-characters-consistency) | 26 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 18 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 8 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 40 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **150** |
+| 출처 링크가 있는 사례 | **159** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **113** |
-| 출처에서 제공하는 원문 프롬프트 | **105** |
+| 제작자가 보고한 예시 | **122** |
+| 출처에서 제공하는 원문 프롬프트 | **107** |
 | 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **251** |
+| 로컬에 보관된 미디어 파일 | **271** |
 | 최근 출처 확인 일시(UTC) | **2026-11-08** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -158,6 +158,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +191,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-infographics"></a>
 
@@ -219,6 +222,7 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Living-room markup edit](cases/launch-fal/README.md) | 공식 출시 데모 | 출처의 원문 프롬프트 |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 
 <a id="category-characters-consistency"></a>
 
@@ -250,6 +254,8 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 <a id="category-markup-edits"></a>
 
@@ -337,6 +343,9 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | 제작자가 밝힌 모델 | 프롬프트 비공개 |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 

@@ -47,14 +47,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 20 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 24 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 22 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 25 | 0 |
 | [Infografiche](#category-infographics) | 12 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 4 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 24 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 5 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 26 | 0 |
 | [Annotazioni e modifiche mirate](#category-markup-edits) | 18 | 0 |
 | [SVG e risorse grafiche](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animazione](#category-gif-animation) | 40 | 0 |
+| [GIF e animazione](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **150** |
+| Casi con collegamenti alle fonti | **159** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **113** |
-| Prompt originali disponibili alla fonte | **105** |
+| Esempi dichiarati dai creatori | **122** |
+| Prompt originali disponibili alla fonte | **107** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **251** |
+| File multimediali archiviati localmente | **271** |
 | Ultima verifica delle fonti (UTC) | **2026-11-08** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -158,6 +158,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +191,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-infographics"></a>
 
@@ -219,6 +222,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
 <a id="category-characters-consistency"></a>
 
@@ -250,6 +254,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -337,6 +343,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 [Registro delle ricerche, rapporto sui contenuti multimediali e piste non risolte](docs/CASE_GALLERY.md)
 

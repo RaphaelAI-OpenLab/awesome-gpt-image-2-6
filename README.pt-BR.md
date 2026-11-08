@@ -47,14 +47,14 @@ MARCADOR PROVISÓRIO · Link de coleção ou campanha relacionada: a adicionar.
 
 | Categoria | Casos com link para a fonte | Prompts completos |
 | --- | ---: | ---: |
-| [Imagens de marcas e produtos](#category-brand-products) | 20 | 0 |
-| [Pôsteres e tipografia](#category-posters-typography) | 24 | 0 |
+| [Imagens de marcas e produtos](#category-brand-products) | 22 | 0 |
+| [Pôsteres e tipografia](#category-posters-typography) | 25 | 0 |
 | [Infográficos](#category-infographics) | 12 | 0 |
-| [Interiores e arquitetura](#category-interiors-architecture) | 4 | 0 |
-| [Personagens e consistência](#category-characters-consistency) | 24 | 0 |
+| [Interiores e arquitetura](#category-interiors-architecture) | 5 | 0 |
+| [Personagens e consistência](#category-characters-consistency) | 26 | 0 |
 | [Anotações e edições pontuais](#category-markup-edits) | 18 | 0 |
 | [SVG e recursos de design](#category-svg-design-assets) | 8 | 0 |
-| [GIF e animação](#category-gif-animation) | 40 | 0 |
+| [GIF e animação](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ A OpenAI apresentou Images 2.6 em 4 de novembro de 2026. Esta coleção abrange 
 
 | Métrica | Contagem / data |
 | --- | ---: |
-| Casos com link para a fonte | **150** |
+| Casos com link para a fonte | **159** |
 | Exemplos oficiais | **37** |
-| Exemplos relatados pelos criadores | **113** |
-| Prompts originais disponíveis na fonte | **105** |
+| Exemplos relatados pelos criadores | **122** |
+| Prompts originais disponíveis na fonte | **107** |
 | Prompts completos publicados aqui | **0** |
-| Arquivos de mídia arquivados localmente | **251** |
+| Arquivos de mídia arquivados localmente | **271** |
 | Última verificação das fontes (UTC) | **2026-11-08** |
 
 As contagens de fontes não implicam reprodução dos resultados. As pistas pendentes são excluídas; resultados diferentes de um mesmo fluxo de trabalho contam como um único caso.
@@ -158,6 +158,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +191,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modelo informado pelo criador | Prompt não público |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-infographics"></a>
 
@@ -219,6 +222,7 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Living-room markup edit](cases/launch-fal/README.md) | Demonstração oficial de lançamento | Prompt original na fonte |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Modelo informado pelo criador | Prompt não público |
 
 <a id="category-characters-consistency"></a>
 
@@ -250,6 +254,8 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modelo informado pelo criador | Prompt não público |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 <a id="category-markup-edits"></a>
 
@@ -337,6 +343,9 @@ Os cartões provisórios não são resultados gerados. Todos os arquivos de míd
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Modelo informado pelo criador | Prompt não público |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Modelo informado pelo criador | Prompt original na fonte |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modelo informado pelo criador | Prompt não público |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Modelo informado pelo criador | Prompt original na fonte |
 
 [Registro de pesquisas, relatório de mídia e pistas não resolvidas](docs/CASE_GALLERY.md)
 

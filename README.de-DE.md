@@ -47,14 +47,14 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 
 | Kategorie | Beispiele mit Quellenverweisen | Vollständige Prompts |
 | --- | ---: | ---: |
-| [Marken- & Produktvisualisierungen](#category-brand-products) | 20 | 0 |
-| [Poster & Typografie](#category-posters-typography) | 24 | 0 |
+| [Marken- & Produktvisualisierungen](#category-brand-products) | 22 | 0 |
+| [Poster & Typografie](#category-posters-typography) | 25 | 0 |
 | [Infografiken](#category-infographics) | 12 | 0 |
-| [Innenräume & Architektur](#category-interiors-architecture) | 4 | 0 |
-| [Figuren & Konsistenz](#category-characters-consistency) | 24 | 0 |
+| [Innenräume & Architektur](#category-interiors-architecture) | 5 | 0 |
+| [Figuren & Konsistenz](#category-characters-consistency) | 26 | 0 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 18 | 0 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 8 | 0 |
-| [GIF & Animation](#category-gif-animation) | 40 | 0 |
+| [GIF & Animation](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +86,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **150** |
+| Beispiele mit Quellenverweisen | **159** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **113** |
-| An der Quelle verfügbare Original-Prompts | **105** |
+| Von Erstellern gemeldete Beispiele | **122** |
+| An der Quelle verfügbare Original-Prompts | **107** |
 | Hier veröffentlichte vollständige Prompts | **0** |
-| Lokal archivierte Mediendateien | **251** |
+| Lokal archivierte Mediendateien | **271** |
 | Letzte Quellenprüfung (UTC) | **2026-11-08** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -158,6 +158,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-posters-typography"></a>
 
@@ -189,6 +191,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-infographics"></a>
 
@@ -219,6 +222,7 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Living-room markup edit](cases/launch-fal/README.md) | Offizielle Demo zur Einführung | Original-Prompt an der Quelle |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 
 <a id="category-characters-consistency"></a>
 
@@ -250,6 +254,8 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 <a id="category-markup-edits"></a>
 
@@ -337,6 +343,9 @@ Platzhalterkarten sind keine generierten Ergebnisse. Alle angezeigten Mediendate
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Vom Ersteller angegebenes Modell | Prompt nicht öffentlich |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Vom Ersteller angegebenes Modell | Original-Prompt an der Quelle |
 
 [Suchprotokoll, Medienbericht und ungeklärte Recherchehinweise](docs/CASE_GALLERY.md)
 

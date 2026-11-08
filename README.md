@@ -43,14 +43,14 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 
 | Category | Source-linked cases | Full prompts |
 | --- | ---: | ---: |
-| [Brand & product visuals](#category-brand-products) | 20 | 0 |
-| [Posters & typography](#category-posters-typography) | 24 | 0 |
+| [Brand & product visuals](#category-brand-products) | 22 | 0 |
+| [Posters & typography](#category-posters-typography) | 25 | 0 |
 | [Infographics](#category-infographics) | 12 | 0 |
-| [Interiors & architecture](#category-interiors-architecture) | 4 | 0 |
-| [Characters & consistency](#category-characters-consistency) | 24 | 0 |
+| [Interiors & architecture](#category-interiors-architecture) | 5 | 0 |
+| [Characters & consistency](#category-characters-consistency) | 26 | 0 |
 | [Markup & targeted edits](#category-markup-edits) | 18 | 0 |
 | [SVG & design assets](#category-svg-design-assets) | 8 | 0 |
-| [GIF & animation](#category-gif-animation) | 40 | 0 |
+| [GIF & animation](#category-gif-animation) | 43 | 0 |
 
 <a id="contents"></a>
 
@@ -82,12 +82,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **150** |
+| Source-linked cases | **159** |
 | Official examples | **37** |
-| Creator-reported examples | **113** |
-| Original prompts available at source | **105** |
+| Creator-reported examples | **122** |
+| Original prompts available at source | **107** |
 | Full prompts published here | **0** |
-| Locally archived media files | **251** |
+| Locally archived media files | **271** |
 | Last source check (UTC) | **2026-11-08** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -154,6 +154,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Creator-reported model | Original prompt at source |
 | [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Creator-reported model | Original prompt at source |
 | [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Creator-reported model | Original prompt at source |
+| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-posters-typography"></a>
 
@@ -185,6 +187,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Creator-reported model | Prompt not public |
 | [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Creator-reported model | Original prompt at source |
 | [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Creator-reported model | Prompt not public |
+| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-infographics"></a>
 
@@ -215,6 +218,7 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Living-room markup edit](cases/launch-fal/README.md) | Official launch demo | Original prompt at source |
 | [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Creator-reported model | Original prompt at source |
 | [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Creator-reported model | Original prompt at source |
+| [Red tram in a foggy city](cases/kavel-tram/README.md) | Creator-reported model | Prompt not public |
 
 <a id="category-characters-consistency"></a>
 
@@ -246,6 +250,8 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Creator-reported model | Original prompt at source |
 | [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Creator-reported model | Original prompt at source |
 | [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Creator-reported model | Prompt not public |
+| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Creator-reported model | Prompt not public |
+| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Creator-reported model | Original prompt at source |
 
 <a id="category-markup-edits"></a>
 
@@ -333,6 +339,9 @@ Placeholder cards are not generated results. All displayed media files live in t
 | [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Creator-reported model | Original prompt at source |
 | [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Creator-reported model | Prompt not public |
 | [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Creator-reported model | Original prompt at source |
+| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Creator-reported model | Prompt not public |
+| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Creator-reported model | Prompt not public |
+| [Flat character stretch routine](cases/kavel-stretch/README.md) | Creator-reported model | Original prompt at source |
 
 [Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
 
