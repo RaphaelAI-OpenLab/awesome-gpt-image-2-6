@@ -1,0 +1,24 @@
+{
+  "source_url": "https://x.com/iamsofiaijaz/status/2118561513879507399",
+  "author": "iamsofiaijaz",
+  "published_at": "2026-11-06T04:30:00+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "Image created with the new \"Gpt image 2.6\". @SocialSight ",
+  "prompt_source_url": "https://x.com/iamsofiaijaz/status/2118561558511132918",
+  "prompt_path": "cases/social-cyan-poetry-wet-portrait/prompt.txt",
+  "prompt_sha256": "f9ef5ac7a225352b5153f9ac740e7cdfd17fe1aef2a267a7dbf944311345c397",
+  "source_html_sha256": "5ac8b3225190d600ba6641257f62a866e0128abb4838327de0cc090faea37266",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWakdpmasAEfFV-.jpg",
+      "sha256": "32e4a03f4bf1570bf26108a06e85a0f1f9381dbe75605541a7a5c991173e7610",
+      "bytes": 203798,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

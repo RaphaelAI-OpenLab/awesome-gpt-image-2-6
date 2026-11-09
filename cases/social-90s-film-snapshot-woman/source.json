@@ -1,0 +1,24 @@
+{
+  "source_url": "https://x.com/AIwithSarah_/status/2118202866448077182",
+  "author": "AIwithSarah_",
+  "published_at": "2026-11-05T04:44:52+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT Image 2.6 Prompt:",
+  "prompt_source_url": "https://x.com/AIwithSarah_/status/2118202866448077182",
+  "prompt_path": "cases/social-90s-film-snapshot-woman/prompt.txt",
+  "prompt_sha256": "7d43c24723a5143aad62fcf9994e48ecd5ea53744f0cc01dadf9e5d8769df97d",
+  "source_html_sha256": "5542e8abe710527864d7840ac1e87f2069c55c1441c4a0c27ed348018494db30",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-90s-film-snapshot-woman/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVeRm-bgAAJaRM.jpg",
+      "sha256": "3c98266e53978167d7fc4f229e7705b7eb9fb2d95001f3a9c7dc56ac5c3fac39",
+      "bytes": 165872,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}
