@@ -1,0 +1,51 @@
+{
+  "source_url": "https://x.com/DeepBlueX0/status/2118527529208455403",
+  "author": "DeepBlueX0",
+  "published_at": "2026-11-06T02:14:57+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "☀️ GPT image 2.6 Prompt:",
+  "prompt_source_url": "https://x.com/DeepBlueX0/status/2118527529208455403",
+  "prompt_path": "cases/social-perfume-dancer-light-trails/prompt.txt",
+  "prompt_sha256": "3e2fcbad5fed2e1a7c45b42f6f58aec02d973d4e309efba0974efc34cc81a5d9",
+  "source_html_sha256": "8c3842a34daf72d2e138dc97339c260eea408840716cec5b49900f8f19706e6d",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-perfume-dancer-light-trails/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaFjcQbsAA38Xo.jpg",
+      "sha256": "4e4505583e4209ea8100c6db72d5f1f612ffebe65ac6ce0bec4490fbfe9e0ddf",
+      "bytes": 212157,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-perfume-dancer-light-trails/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaFjcNbwAAob_8.jpg",
+      "sha256": "5ce0510332f422570f7bb10414cc123bd9d7c4fa5c497472163f174408e4fd04",
+      "bytes": 145787,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-perfume-dancer-light-trails/source-03.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaFjcNbkAAaLP6.jpg",
+      "sha256": "9d872e2f4a3876784bdea0a5357f0fecf75e324a3a39fa22f21d02bb50614fe6",
+      "bytes": 129498,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-perfume-dancer-light-trails/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaFjcbbMAAkZtj.jpg",
+      "sha256": "f31a5e7ba51f3874be0fb6b1c5b0a0a18e218487417fb0f7ff2ac63818f597fc",
+      "bytes": 129216,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

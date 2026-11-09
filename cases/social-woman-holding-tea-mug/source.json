@@ -1,0 +1,24 @@
+{
+  "source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+  "author": "v3rt0x_",
+  "published_at": "2026-11-05T01:05:15+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "Gpt image 2.6 (Left) vs 2.5 (Right) ",
+  "prompt_source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+  "prompt_path": "cases/social-woman-holding-tea-mug/prompt.txt",
+  "prompt_sha256": "8f12859384392361262d6055e18ddc79329e1663dfe794d4a5fa23f43b222071",
+  "source_html_sha256": "9c322175f7b455b57dab0499de138af2a4bbf74640c27915ef9a1277f63176f4",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-woman-holding-tea-mug/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWUrkFiXMAAmGRv.jpg",
+      "sha256": "1493a3e7dc1337d9fc2ffa1aea99013d08ee84b2f0de89e1a1170d220930658a",
+      "bytes": 978076,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}
