@@ -3,6 +3,7 @@
   "messages": {
     "**: ": "**: ",
     ", and we will remove it immediately.": ". 즉시 삭제하겠습니다.",
+    "A curated collection of creative prompts and visual examples for GPT Image 2.6.": "GPT Image 2.6의 창의적인 프롬프트와 시각적 예시를 엄선한 모음입니다.",
     "Accessible": "접근 가능",
     "Acknowledgements": "감사의 말",
     "Add an example": "예시 추가",
@@ -12,7 +13,6 @@
     "Added | Case | Evidence": "추가일 | 사례 | 근거",
     "All cases": "모든 사례",
     "An open collection for GPT Image 2.6 prompts, visual examples, and original sources.": "GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 모음집입니다.",
-    "An open collection of prompts, visual examples and original sources for GPT Image 2.6.": "GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 모음집입니다.",
     "Archived locally": "로컬 보관 완료",
     "Attribution and verification": "출처 표시 및 검증",
     "Attribution does not grant a media license. Repository MIT terms do not cover third-party outputs. Local files record provenance and reuse status; source-attributed does not mean open-licensed.": "출처를 표시했다고 해서 미디어 이용 허가를 받은 것은 아닙니다. 저장소의 MIT 약관은 제3자의 결과물에 적용되지 않습니다. 로컬 파일에는 출처와 재사용 상태를 기록하며, source-attributed는 오픈 라이선스를 의미하지 않습니다.",

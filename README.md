@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=en)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-An open collection of prompts, visual examples and original sources for GPT Image 2.6.
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Star on GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Code & original docs: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![Validation CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Contributions welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-en.svg" alt="CODE · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-en.svg" alt="SOURCE · TERMS" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-en.svg" alt="PRs · WELCOME" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-en.svg" alt="CI · VIEW RUNS" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-en.svg" alt="GITHUB · STAR" height="34" /></a>
+> 🎨 A curated collection of creative prompts and visual examples for GPT Image 2.6.
 
-⚠️ **Copyright notice**: The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new), and we will remove it immediately.
+> ⚠️ **Copyright notice**: The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), and we will remove it immediately.
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en-current.svg" alt="Current language: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="View translation: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW.svg" alt="View translation: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP.svg" alt="View translation: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR.svg" alt="View translation: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="View translation: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN.svg" alt="View translation: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="View translation: हिन्दी" height="34" /></a><br />

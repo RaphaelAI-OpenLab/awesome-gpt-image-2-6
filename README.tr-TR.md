@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=tr-TR)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-GPT Image 2.6 için istemler, görsel örnekler ve özgün kaynaklardan oluşan açık bir koleksiyon.
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub'da yıldız verin](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Kod ve özgün belgeler: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![Doğrulama CI'ı](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Katkılarınızı bekliyoruz](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-tr-TR.svg" alt="KOD · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-tr-TR.svg" alt="KAYNAK · KOŞULLAR" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-tr-TR.svg" alt="PR · KATKILARI BEKLİYORUZ" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-tr-TR.svg" alt="CI · ÇALIŞTIRMALARI GÖR" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-tr-TR.svg" alt="GITHUB · YILDIZ VER" height="34" /></a>
+> 🎨 GPT Image 2.6 için özenle seçilmiş yaratıcı istemler ve görsel örneklerden oluşan bir koleksiyon.
 
-⚠️ **Telif hakkı bildirimi**: Bu koleksiyondaki istemler ve medya yalnızca eğitim amacıyla kamuya açık kaynaklardan derlenmiştir. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız lütfen [bir sorun kaydı açın](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new), içeriği de hemen kaldıracağız.
+> ⚠️ **Telif hakkı bildirimi**: Bu koleksiyondaki istemler ve medya yalnızca eğitim amacıyla kamuya açık kaynaklardan derlenmiştir. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız lütfen [bir sorun kaydı açın](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), içeriği de hemen kaldıracağız.
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en.svg" alt="Çeviriyi görüntüleyin: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="Çeviriyi görüntüleyin: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW.svg" alt="Çeviriyi görüntüleyin: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP.svg" alt="Çeviriyi görüntüleyin: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR.svg" alt="Çeviriyi görüntüleyin: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="Çeviriyi görüntüleyin: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN.svg" alt="Çeviriyi görüntüleyin: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="Çeviriyi görüntüleyin: हिन्दी" height="34" /></a><br />

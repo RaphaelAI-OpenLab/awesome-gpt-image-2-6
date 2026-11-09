@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=zh-TW)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-開放收錄 GPT Image 2.6 提示詞、視覺範例與原始來源的合集。
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![在 GitHub 加星號](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![程式碼與原創文件: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![驗證 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![歡迎貢獻](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-zh-TW.svg" alt="程式碼 · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-zh-TW.svg" alt="來源 · 條款" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-zh-TW.svg" alt="歡迎提交 PR" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-zh-TW.svg" alt="CI · 查看執行紀錄" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-zh-TW.svg" alt="GITHUB · 加星號" height="34" /></a>
+> 🎨 GPT Image 2.6 創意提示詞與案例精選合集。
 
-⚠️ **著作權聲明**: 本合集的提示詞與媒體蒐集自公開來源，僅供教育用途。若您認為任何內容侵害您的權利，請 [提出 Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new)，我們將立即移除。
+> ⚠️ **著作權聲明**: 本合集的提示詞與媒體蒐集自公開來源，僅供教育用途。若您認為任何內容侵害您的權利，請 [提出 Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)，我們將立即移除。
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en.svg" alt="查看翻譯: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="查看翻譯: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW-current.svg" alt="目前語言: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP.svg" alt="查看翻譯: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR.svg" alt="查看翻譯: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="查看翻譯: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN.svg" alt="查看翻譯: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="查看翻譯: हिन्दी" height="34" /></a><br />
