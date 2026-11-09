@@ -1,0 +1,103 @@
+{
+  "source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+  "author": "rei_aitech",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6 が登場しました🩵",
+  "prompt_source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+  "prompts": [
+    {
+      "path": "cases/social-falling-apple-frame-comparison/prompt-01.txt",
+      "sha256": "a2f3dbd3f5ab2bb0390788dc3c440a0c09c968f746ce47b97029b2da577aa419"
+    },
+    {
+      "path": "cases/social-falling-apple-frame-comparison/prompt-02.txt",
+      "sha256": "bd274b8bdc3b5c54bed1d91fab8aa7546dcdffbcbbc06e45850b1dbb2938a148"
+    },
+    {
+      "path": "cases/social-falling-apple-frame-comparison/prompt-03.txt",
+      "sha256": "7d6c4bee2747a83de40b7cc94af62276a85350665c2ed3c177fa43107aecebfc"
+    }
+  ],
+  "source_html_sha256": "ac9f3c119d1793ab1ed3f98d8b719eb9eea56bf4e9376dbfff714bd0e3ca192d",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "同一苹果动画实验的64/32/8帧输出合并为一例；第二与第三段为作者公开的参数改动，沿用首段场景。作者对实现机制的推测不作为已验证事实。",
+  "media": [
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSWbsAEwvwQ.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWWErSWbsAEwvwQ.mp4",
+      "sha256": "ffd6f7b354e512ecb91d0dc66f8e573be062357421b2943a28c9ad9cceb9efa2",
+      "bytes": 38470,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/source-02.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSWaQAAO2KF.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWWErSWaQAAO2KF.mp4",
+      "sha256": "f464b1f8e4705833d1b66b0d2c2e55485b3b28e16099ffd0be71cc25be091cde",
+      "bytes": 63491,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/source-03.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSpbgAAtKyV.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWWErSpbgAAtKyV.mp4",
+      "sha256": "76391c5691d272964d106708914e87be9db4a160a5a3a72c0aa938f8ff1affa3",
+      "bytes": 74887,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSWbsAEwvwQ.mp4",
+      "sha256": "ac4fa3a8fc6c4e3c2a279c3cafd9ed1652f22a512d400d1e52bb586a594a1054",
+      "bytes": 286620,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-falling-apple-frame-comparison/source-01.mp4"
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/preview-02.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSWaQAAO2KF.mp4",
+      "sha256": "ca8cda2e0ee17ca89bcda5d53c4e315894d33c0e12aafe6dfa2494432d8fe4f4",
+      "bytes": 596068,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-falling-apple-frame-comparison/source-02.mp4"
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/preview-03.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWWErSpbgAAtKyV.mp4",
+      "sha256": "f84d646b85c14af9a1446389ff39e6cacd46d5747d86b97b5a0450808856de2e",
+      "bytes": 766934,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-falling-apple-frame-comparison/source-03.mp4"
+    },
+    {
+      "path": "assets/examples/social-falling-apple-frame-comparison/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWErSobsAAdu5M.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWWErSobsAAdu5M?format=jpg&name=large",
+      "sha256": "5b3f8b88c685ff3a7e32be4471a4a19419ff804d6a9839c0073e08b05608da16",
+      "bytes": 305021,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

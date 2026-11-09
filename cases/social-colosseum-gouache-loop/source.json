@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+  "author": "devteamdrew",
+  "model": "GPT Image 2.6",
+  "model_evidence": "A few scenic GIFs made using ChatGPT Images 2.6",
+  "prompt_source_url": "https://x.com/devteamdrew/status/2118538745175503130",
+  "prompts": [
+    {
+      "path": "cases/social-colosseum-gouache-loop/prompt.txt",
+      "sha256": "1e8f2cf98a36ac9e0fe757df51a57c0ec87352540e9c80df4b48c1dff6717a15"
+    }
+  ],
+  "source_html_sha256": "561da1ebac61d625a1b56932385fe60fbfb2f49af2f3a290b3cfae26e88e7e07",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-colosseum-gouache-loop/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWW9tudXoAAnmUr.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWW9tudXoAAnmUr.mp4",
+      "sha256": "b21bcfb06ba17162204b807a1a5d258d119f5c2ac156a0358b7ec5723ea38216",
+      "bytes": 174653,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-colosseum-gouache-loop/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWW9tudXoAAnmUr.mp4",
+      "sha256": "d9eee0452582ad9d4671ba157f8cbfd2e0b361d3b9cd1cc91a85bad673ef47c2",
+      "bytes": 1779356,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-colosseum-gouache-loop/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

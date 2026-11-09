@@ -11214,5 +11214,4181 @@
       },
       "report_path": "cases/social-sunset-beach-look-back/source.json"
     }
+  },
+  {
+    "id": "social-streetwear-cap-headphones-portrait",
+    "status": "published",
+    "title": {
+      "en": "Sunlit streetwear portrait with cap and headphones",
+      "zh-CN": "棒球帽与耳机女子的阳光街拍"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/johnAGI168/status/2118581030781382805",
+      "author": "johnAGI168",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.6 📷 prompt 👇 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.6 📷 prompt 👇。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/johnAGI168/status/2118581030781382805",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "A cinematic 35mm street-snap photograph captured at eye level — a three-quarter medium portrait of a cool, stylish young East Asian woman on a sunlit urban sidewalk, turning in profile toward camera-left.\n\nShe possesses top-tier model beauty with sharp facial features, defined cheekbones, amber-tinted eyes, and dark hair falling from beneath a clean white baseball cap as her right hand lifts the brim. She wears retro green metallic over-ear wired headphones, a silver dog-tag necklace, and a fitted white cropped tank top displaying athletic toned abs. An oversized light-wash blue denim trucker jacket drapes loosely off her shoulders, paired with low-rise baggy jeans and a black belt, her left hand casually tucked into her pocket.\n\nThe setting is a vibrant metropolitan avenue in bright daylight. Natural afternoon sun creates soft rim lighting along her hair strands and denim fabric, with the bustling street and modern architecture softly blurred into natural depth of field behind her.\n\nShot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organic film grain in an M1 street narrative register. Real human skin with visible fine pores, subtle natural warmth, and authentic heavy cotton denim weave — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.",
+          "url": "https://x.com/johnAGI168/status/2118581030781382805",
+          "path": "cases/social-streetwear-cap-headphones-portrait/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWa2JEPXYAIB82A?format=jpg&name=large",
+        "path": "assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Sunlit streetwear portrait with cap and headphones",
+          "zh-CN": "棒球帽与耳机女子的阳光街拍"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/johnAGI168/status/2118581030781382805",
+          "credit": "johnAGI168",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 294665,
+        "sha256": "f0f21cba6269ac651bc8e25c962c96e2b97362609f9091b1491c2e991b0a5cc1"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-streetwear-cap-headphones-portrait/source.json"
+    }
+  },
+  {
+    "id": "social-kimono-door-peephole-portrait",
+    "status": "published",
+    "title": {
+      "en": "Kimono portrait through a door peephole",
+      "zh-CN": "门镜中的和服女子"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/kabumira862571/status/2118220107487051883",
+      "author": "kabumira862571",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT-Image 2.6\n#PromptShare\n遊んでね😸 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT-Image 2.6\n#PromptShare\n遊んでね😸。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/kabumira862571/status/2118220107487051883",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "玄関先でこちらを見るキャラ。\n[＊＊＊]\nキャラは、アップロード画像を参照。\n顔・髪型・服装まで忠実に再現。\n晴れた住宅街、自然光。\nアスペクト比縦4:5。",
+          "url": "https://x.com/kabumira862571/status/2118220107487051883",
+          "path": "cases/social-kimono-door-peephole-portrait/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. The source offers two placeholder choices; inputs are not independently reconstructed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原帖提供“ドアスコープ”或“インターホン室内モニター”两个占位选项；保留原文占位符。两张附件为同一工作流的不同观察视角；未提供单独参考输入。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVt81KawAAbvYm?format=jpg&name=large",
+        "path": "assets/examples/social-kimono-door-peephole-portrait/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Kimono portrait through a door peephole",
+          "zh-CN": "门镜中的和服女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/kabumira862571/status/2118220107487051883",
+          "credit": "kabumira862571",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 345731,
+        "sha256": "c553dd04c5346bf0dd3cc8a3f028ec36205550ee1b32a35ea200cac3ab0df3e1"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVt9U_bsAAvXBm?format=jpg&name=large",
+        "path": "assets/examples/social-kimono-door-peephole-portrait/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Kimono portrait through a door peephole",
+          "zh-CN": "门镜中的和服女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/kabumira862571/status/2118220107487051883",
+          "credit": "kabumira862571",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 317398,
+        "sha256": "a43b8005a206aa3be31d53e00079c497f7b42e7a3c8d031cc8d47705d3b86e8f"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. The source offers two placeholder choices; inputs are not independently reconstructed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原帖提供“ドアスコープ”或“インターホン室内モニター”两个占位选项；保留原文占位符。两张附件为同一工作流的不同观察视角；未提供单独参考输入。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-kimono-door-peephole-portrait/source.json"
+    }
+  },
+  {
+    "id": "social-snowy-yard-wood-chopping",
+    "status": "published",
+    "title": {
+      "en": "Elderly man chopping wood in a snowy yard",
+      "zh-CN": "雪中庭院里老人劈柴"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/koe_ai414/status/2118153765094351279",
+      "author": "koe_ai414",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image2.6が登場しましたね！\nGIFにも対応したということで早速試してみましたが、簡単に作れて面白い✨ Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image2.6が登場しましたね！\nGIFにも対応したということで早速試してみましたが、簡単に作れて面白い✨。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/koe_ai414/status/2118153765094351279",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "冬の寒い中、家の庭で薪割りをするおじいさんのGIF",
+          "url": "https://x.com/koe_ai414/status/2118153765094351279",
+          "path": "cases/social-snowy-yard-wood-chopping/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原帖左侧为劈柴动画，右侧女子转身动画未计入本案例。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUvPTTaoAAAOfw.mp4",
+        "path": "assets/examples/social-snowy-yard-wood-chopping/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Elderly man chopping wood in a snowy yard",
+          "zh-CN": "雪中庭院里老人劈柴"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/koe_ai414/status/2118153765094351279",
+          "credit": "koe_ai414",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 60001,
+        "sha256": "4e07ce783048e685f1a3f635d57b7fe5ece4519f838e7525a1241afa57b03eb6"
+      },
+      {
+        "source_url": "https://x.com/koe_ai414/status/2118153765094351279",
+        "path": "assets/examples/social-snowy-yard-wood-chopping/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Elderly man chopping wood in a snowy yard — derived GIF viewing copy",
+          "zh-CN": "雪中庭院里老人劈柴——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/koe_ai414/status/2118153765094351279",
+          "credit": "koe_ai414",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 997085,
+        "sha256": "fffe95341a975bd07c968e21c2a7dd4fd71d28424952a3c1bcded71550489382"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原帖左侧为劈柴动画，右侧女子转身动画未计入本案例。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-snowy-yard-wood-chopping/source.json"
+    }
+  },
+  {
+    "id": "social-pixel-purple-lightning-bolts",
+    "status": "published",
+    "title": {
+      "en": "Pixel character scattering bolts with purple lightning",
+      "zh-CN": "紫色闪电击飞螺母与螺栓的像素角色"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+      "author": "YaReYaRu30Life",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPTimage2.6 GIF作成パート2\nキャラシートとプロンプトで自由に作成してみる Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPTimage2.6 GIF作成パート2\nキャラシートとプロンプトで自由に作成してみる。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成",
+          "url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+          "path": "cases/social-pixel-purple-lightning-bolts/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原帖说明使用角色三视图；未找到该参考图的单独附件，不重建或冒充参考图。引用帖的勇者动画单独对应清单第27项。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWU9z9HbkAATet_.mp4",
+        "path": "assets/examples/social-pixel-purple-lightning-bolts/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Pixel character scattering bolts with purple lightning",
+          "zh-CN": "紫色闪电击飞螺母与螺栓的像素角色"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+          "credit": "YaReYaRu30Life",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 88680,
+        "sha256": "97350a9ca93d633bd6d3a2c0e4f2afa9b9cd01ab0fd97c7b9df763710728155a"
+      },
+      {
+        "source_url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+        "path": "assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Pixel character scattering bolts with purple lightning — derived GIF viewing copy",
+          "zh-CN": "紫色闪电击飞螺母与螺栓的像素角色——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+          "credit": "YaReYaRu30Life",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1044034,
+        "sha256": "e6609ed463d334553cac1770728fa148408a152782b19920ff3cc9687a26fae9"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原帖说明使用角色三视图；未找到该参考图的单独附件，不重建或冒充参考图。引用帖的勇者动画单独对应清单第27项。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-pixel-purple-lightning-bolts/source.json"
+    }
+  },
+  {
+    "id": "social-robot-pouring-coffee",
+    "status": "published",
+    "title": {
+      "en": "Robot pouring coffee",
+      "zh-CN": "可爱机器人倒咖啡"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/sousoccer6/status/2118210705585537226",
+      "author": "sousoccer6",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: 【検証】GPT Image 2.6でGIFを作ってみた☕🤖 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：【検証】GPT Image 2.6でGIFを作ってみた☕🤖。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/sousoccer6/status/2118210705585537226",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "コーヒーを淹れるロボット",
+          "url": "https://x.com/sousoccer6/status/2118210705585537226",
+          "path": "cases/social-robot-pouring-coffee/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVlZsvbkAAdPHQ.mp4",
+        "path": "assets/examples/social-robot-pouring-coffee/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Robot pouring coffee",
+          "zh-CN": "可爱机器人倒咖啡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sousoccer6/status/2118210705585537226",
+          "credit": "sousoccer6",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 101216,
+        "sha256": "3d1c2582222fc033bd0c90301383db1ff5a46ec135755ab1653cf0e7543eea18"
+      },
+      {
+        "source_url": "https://x.com/sousoccer6/status/2118210705585537226",
+        "path": "assets/examples/social-robot-pouring-coffee/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Robot pouring coffee — derived GIF viewing copy",
+          "zh-CN": "可爱机器人倒咖啡——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sousoccer6/status/2118210705585537226",
+          "credit": "sousoccer6",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1927319,
+        "sha256": "78ae1b053eaf21ef90e4a99446b73505399ba614d5432df9bef99ea9df2e68e5"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-robot-pouring-coffee/source.json"
+    }
+  },
+  {
+    "id": "social-red-character-music-video-gif",
+    "status": "published",
+    "title": {
+      "en": "Red character in a music-video-style animation",
+      "zh-CN": "红衣角色的MV风格动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+      "author": "Ayu_AI_0912",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.6でGIFアニメ！\nうおおお！\n1分くらいでできちゃったぞ。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.6でGIFアニメ！\nうおおお！\n1分くらいでできちゃったぞ。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "添付した画像を使ってかっこいいMV風のGIFアニメにして",
+          "url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+          "path": "cases/social-red-character-music-video-gif/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "作者说明以附件图为输入；原帖未提供独立输入图，只保存该帖公开动画。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUi_tIbEAAZiHm.mp4",
+        "path": "assets/examples/social-red-character-music-video-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Red character in a music-video-style animation",
+          "zh-CN": "红衣角色的MV风格动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+          "credit": "Ayu_AI_0912",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 309907,
+        "sha256": "b8ee1e1afe83b133bef4c54d6f511f33c1559ecbbafe1f3ae156d4371ef25cf2"
+      },
+      {
+        "source_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+        "path": "assets/examples/social-red-character-music-video-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Red character in a music-video-style animation — derived GIF viewing copy",
+          "zh-CN": "红衣角色的MV风格动画——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+          "credit": "Ayu_AI_0912",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 3063308,
+        "sha256": "1899d6f466bad38b988c2cd363d93b4cc5b80e5c070386dce1d6d35e6ef1d474"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "作者说明以附件图为输入；原帖未提供独立输入图，只保存该帖公开动画。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-red-character-music-video-gif/source.json"
+    }
+  },
+  {
+    "id": "social-sunglasses-cat-dance",
+    "status": "published",
+    "title": {
+      "en": "Sunglasses cat dancing in a purple room",
+      "zh-CN": "紫光房间里戴墨镜跳舞的猫"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+      "author": "SSSS_CRYPTOMAN",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: 【速報】GPT Image 2.6が登場！\n新たにGIFに対応したの激アツ🔥 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：【速報】GPT Image 2.6が登場！\n新たにGIFに対応したの激アツ🔥。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF",
+          "url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+          "path": "cases/social-sunglasses-cat-dance/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUpH_BawAAEfdJ.mp4",
+        "path": "assets/examples/social-sunglasses-cat-dance/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Sunglasses cat dancing in a purple room",
+          "zh-CN": "紫光房间里戴墨镜跳舞的猫"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+          "credit": "SSSS_CRYPTOMAN",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 50113,
+        "sha256": "78ce7de5e6cc51050938235b739b1c12f8bc04dae1f904840ab02b00c3547b09"
+      },
+      {
+        "source_url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+        "path": "assets/examples/social-sunglasses-cat-dance/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Sunglasses cat dancing in a purple room — derived GIF viewing copy",
+          "zh-CN": "紫光房间里戴墨镜跳舞的猫——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+          "credit": "SSSS_CRYPTOMAN",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 764802,
+        "sha256": "e88cf5fa2715f3fcc8cc2bac2ec49f69305168c77626bca251f6c9d6ad62e381"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-sunglasses-cat-dance/source.json"
+    }
+  },
+  {
+    "id": "social-pelican-riding-bicycle",
+    "status": "published",
+    "title": {
+      "en": "Pelican riding a bicycle",
+      "zh-CN": "戴头盔的鹈鹕骑自行车"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/SSHCodes/status/2118127375481504100",
+      "author": "SSHCodes",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: gpt image 2.6 generate a gif of a pelican riding a bicycle Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：gpt image 2.6 generate a gif of a pelican riding a bicycle。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/SSHCodes/status/2118127375481504100",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "generate a gif of a pelican riding a bicycle",
+          "url": "https://x.com/SSHCodes/status/2118127375481504100",
+          "path": "cases/social-pelican-riding-bicycle/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUZnibWEAAN_rN.mp4",
+        "path": "assets/examples/social-pelican-riding-bicycle/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Pelican riding a bicycle",
+          "zh-CN": "戴头盔的鹈鹕骑自行车"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/SSHCodes/status/2118127375481504100",
+          "credit": "SSHCodes",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 34563,
+        "sha256": "29f58774d1d194908255d2a0554eb447d9f76c681b8a282057abb80e1ac079ef"
+      },
+      {
+        "source_url": "https://x.com/SSHCodes/status/2118127375481504100",
+        "path": "assets/examples/social-pelican-riding-bicycle/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Pelican riding a bicycle — derived GIF viewing copy",
+          "zh-CN": "戴头盔的鹈鹕骑自行车——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/SSHCodes/status/2118127375481504100",
+          "credit": "SSHCodes",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 676068,
+        "sha256": "00a057a845f696654d7cccbdd01088acce8919c9a8c9ab5fc09de6108b537099"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-pelican-riding-bicycle/source.json"
+    }
+  },
+  {
+    "id": "social-paper-boat-water-loop",
+    "status": "published",
+    "title": {
+      "en": "Paper boat bobbing on water",
+      "zh-CN": "蓝色水面上摇晃的白色纸船"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/thinkszyg/status/2118166234495947044",
+      "author": "thinkszyg",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT 上了 Images 2.6，出图快了 50%，还能直接做 GIF。可界面里不会告诉你用的是哪个模型，看了一遍官方文档，找到一个最省事的验证办法：让它做一个 GIF。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT 上了 Images 2.6，出图快了 50%，还能直接做 GIF。可界面里不会告诉你用的是哪个模型，看了一遍官方文档，找到一个最省事的验证办法：让它做一个 GIF。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/thinkszyg/status/2118166234495947044",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "Make a looping GIF of a paper boat bobbing on the water.",
+          "url": "https://x.com/thinkszyg/status/2118166234495947044",
+          "path": "cases/social-paper-boat-water-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "仅保留作者公开的纸船指令及对应动画。原帖关于版本识别、性能、价格或模型能力的论断不作为本仓库核验结论。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWU88jtaEAAQpmr.mp4",
+        "path": "assets/examples/social-paper-boat-water-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Paper boat bobbing on water",
+          "zh-CN": "蓝色水面上摇晃的白色纸船"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/thinkszyg/status/2118166234495947044",
+          "credit": "thinkszyg",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 40724,
+        "sha256": "b91a8683388afc1b2e2a6a55474a1397d3d45a828212f4b6d132c55248428d6d"
+      },
+      {
+        "source_url": "https://x.com/thinkszyg/status/2118166234495947044",
+        "path": "assets/examples/social-paper-boat-water-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Paper boat bobbing on water — derived GIF viewing copy",
+          "zh-CN": "蓝色水面上摇晃的白色纸船——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/thinkszyg/status/2118166234495947044",
+          "credit": "thinkszyg",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 694059,
+        "sha256": "fbe40f320aabe07dba7736d3c840a9ada9b722a612806ff4c4868c84ee6f054f"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "仅保留作者公开的纸船指令及对应动画。原帖关于版本识别、性能、价格或模型能力的论断不作为本仓库核验结论。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-paper-boat-water-loop/source.json"
+    }
+  },
+  {
+    "id": "social-osaka-castle-construction",
+    "status": "published",
+    "title": {
+      "en": "Osaka Castle construction loop",
+      "zh-CN": "大阪城逐层建成天守阁"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/jammaru_lab/status/2118153279821787623",
+      "author": "jammaru_lab",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.6、GIF対応はアツすぎ。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.6、GIF対応はアツすぎ。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/jammaru_lab/status/2118153279821787623",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "大阪城を建築する流れをGIFにして",
+          "url": "https://x.com/jammaru_lab/status/2118153279821787623",
+          "path": "cases/social-osaka-castle-construction/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUxLNUa8AAEVcL.mp4",
+        "path": "assets/examples/social-osaka-castle-construction/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Osaka Castle construction loop",
+          "zh-CN": "大阪城逐层建成天守阁"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+          "credit": "jammaru_lab",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 76984,
+        "sha256": "4d653ca9cfdb15004a50372e9f46d72f41f5b521e558b3db8a59f759332d891b"
+      },
+      {
+        "source_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+        "path": "assets/examples/social-osaka-castle-construction/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Osaka Castle construction loop — derived GIF viewing copy",
+          "zh-CN": "大阪城逐层建成天守阁——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+          "credit": "jammaru_lab",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 778456,
+        "sha256": "b7f8d5ee04c438dc4c04ad0f9ed108cac9eb92c73b92c9fd9cafdd7186070c71"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-osaka-castle-construction/source.json"
+    }
+  },
+  {
+    "id": "social-character-wave-laugh",
+    "status": "published",
+    "title": {
+      "en": "Character waving and laughing",
+      "zh-CN": "卡通角色挥手大笑"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/okan_aitool/status/2118201578406772887",
+      "author": "okan_aitool",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ＼ChatGPTのImage 2.6アプデ！！／ Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：＼ChatGPTのImage 2.6アプデ！！／。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/okan_aitool/status/2118201578406772887",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "このキャラをGIFで動かして。手を振って笑う",
+          "url": "https://x.com/okan_aitool/status/2118201578406772887",
+          "path": "cases/social-character-wave-laugh/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原帖另附两张更新功能图解，不把功能图解计为模型输出或独立案例。未公开独立的角色输入图。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVdGeda4AAyrwo.mp4",
+        "path": "assets/examples/social-character-wave-laugh/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Character waving and laughing",
+          "zh-CN": "卡通角色挥手大笑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/okan_aitool/status/2118201578406772887",
+          "credit": "okan_aitool",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 30788,
+        "sha256": "65fd8746c93320713334de8dbd20e25dc7e8efafbbeafaf6738251a82f1651c7"
+      },
+      {
+        "source_url": "https://x.com/okan_aitool/status/2118201578406772887",
+        "path": "assets/examples/social-character-wave-laugh/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Character waving and laughing — derived GIF viewing copy",
+          "zh-CN": "卡通角色挥手大笑——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/okan_aitool/status/2118201578406772887",
+          "credit": "okan_aitool",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 377840,
+        "sha256": "6f2e000c141da271a20d564f6b4ba36c99af627fa4fb69dbdb8cff561e7638af"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原帖另附两张更新功能图解，不把功能图解计为模型输出或独立案例。未公开独立的角色输入图。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-character-wave-laugh/source.json"
+    }
+  },
+  {
+    "id": "social-pixel-hero-glowing-sword",
+    "status": "published",
+    "title": {
+      "en": "Pixel hero swinging a glowing sword",
+      "zh-CN": "像素勇者挥舞发光剑"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+      "author": "YaReYaRu30Life",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPTimage2.6アプデ記念\nGIFを作成してみる Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPTimage2.6アプデ記念\nGIFを作成してみる。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "GIFを作成。ドット絵の勇者。\n剣にエフェクトをつけて振り回す",
+          "url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+          "path": "cases/social-pixel-hero-glowing-sword/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWU9NFGbgAAxOww.mp4",
+        "path": "assets/examples/social-pixel-hero-glowing-sword/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Pixel hero swinging a glowing sword",
+          "zh-CN": "像素勇者挥舞发光剑"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+          "credit": "YaReYaRu30Life",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 47632,
+        "sha256": "ce15c1e621aa2aca0e4418ea2432cabd611318eab598064d9b5304d43ff3f59c"
+      },
+      {
+        "source_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+        "path": "assets/examples/social-pixel-hero-glowing-sword/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Pixel hero swinging a glowing sword — derived GIF viewing copy",
+          "zh-CN": "像素勇者挥舞发光剑——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+          "credit": "YaReYaRu30Life",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 247801,
+        "sha256": "2f17f1e1be38cd0aaf1c10d8e6b80e21a3fae5ae11fba5be4063b62d31ba9918"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-pixel-hero-glowing-sword/source.json"
+    }
+  },
+  {
+    "id": "social-falling-apple-frame-comparison",
+    "status": "published",
+    "title": {
+      "en": "Falling apple GIF frame-count comparison",
+      "zh-CN": "苹果落下的GIF帧数对照"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/rei_aitech/status/2118245102409908571",
+      "author": "rei_aitech",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.6 が登場しました🩵 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.6 が登場しました🩵。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/rei_aitech/status/2118245102409908571",
+      "entries": [
+        {
+          "title": {
+            "en": "64-frame original instruction",
+            "zh-CN": "64 帧原始指令"
+          },
+          "text": "3:4.\nGIF生成\nframe_count = 64\nframe_duration_ms = 30\n3:4で木からりんごが落ちる差分",
+          "url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "path": "cases/social-falling-apple-frame-comparison/prompt-01.txt"
+        },
+        {
+          "title": {
+            "en": "32-frame parameter change",
+            "zh-CN": "32 帧参数改动"
+          },
+          "text": "frame_count = 32\nframe_duration_ms = 60",
+          "url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "path": "cases/social-falling-apple-frame-comparison/prompt-02.txt"
+        },
+        {
+          "title": {
+            "en": "8-frame parameter change",
+            "zh-CN": "8 帧参数改动"
+          },
+          "text": "frame_count = 8\nframe_duration_ms = 120",
+          "url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "path": "cases/social-falling-apple-frame-comparison/prompt-03.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "同一苹果动画实验的64/32/8帧输出合并为一例；第二与第三段为作者公开的参数改动，沿用首段场景。作者对实现机制的推测不作为已验证事实。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWErSWbsAEwvwQ.mp4",
+        "path": "assets/examples/social-falling-apple-frame-comparison/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison",
+          "zh-CN": "苹果落下的GIF帧数对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 38470,
+        "sha256": "ffd6f7b354e512ecb91d0dc66f8e573be062357421b2943a28c9ad9cceb9efa2"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWErSWaQAAO2KF.mp4",
+        "path": "assets/examples/social-falling-apple-frame-comparison/source-02.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison",
+          "zh-CN": "苹果落下的GIF帧数对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 63491,
+        "sha256": "f464b1f8e4705833d1b66b0d2c2e55485b3b28e16099ffd0be71cc25be091cde"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWErSpbgAAtKyV.mp4",
+        "path": "assets/examples/social-falling-apple-frame-comparison/source-03.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison",
+          "zh-CN": "苹果落下的GIF帧数对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 74887,
+        "sha256": "76391c5691d272964d106708914e87be9db4a160a5a3a72c0aa938f8ff1affa3"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWErSobsAAdu5M?format=jpg&name=large",
+        "path": "assets/examples/social-falling-apple-frame-comparison/source-04.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison",
+          "zh-CN": "苹果落下的GIF帧数对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 305021,
+        "sha256": "5b3f8b88c685ff3a7e32be4471a4a19419ff804d6a9839c0073e08b05608da16"
+      },
+      {
+        "source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+        "path": "assets/examples/social-falling-apple-frame-comparison/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison — derived GIF viewing copy",
+          "zh-CN": "苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 286620,
+        "sha256": "ac4fa3a8fc6c4e3c2a279c3cafd9ed1652f22a512d400d1e52bb586a594a1054"
+      },
+      {
+        "source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+        "path": "assets/examples/social-falling-apple-frame-comparison/preview-02.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison — derived GIF viewing copy",
+          "zh-CN": "苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 596068,
+        "sha256": "ca8cda2e0ee17ca89bcda5d53c4e315894d33c0e12aafe6dfa2494432d8fe4f4"
+      },
+      {
+        "source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+        "path": "assets/examples/social-falling-apple-frame-comparison/preview-03.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Falling apple GIF frame-count comparison — derived GIF viewing copy",
+          "zh-CN": "苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rei_aitech/status/2118245102409908571",
+          "credit": "rei_aitech",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 766934,
+        "sha256": "f84d646b85c14af9a1446389ff39e6cacd46d5747d86b97b5a0450808856de2e"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "同一苹果动画实验的64/32/8帧输出合并为一例；第二与第三段为作者公开的参数改动，沿用首段场景。作者对实现机制的推测不作为已验证事实。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-falling-apple-frame-comparison/source.json"
+    }
+  },
+  {
+    "id": "social-keor-elevator-mirror-portrait",
+    "status": "published",
+    "title": {
+      "en": "Keor outfit portrait in a mirrored elevator",
+      "zh-CN": "镜面电梯中的Keor刺绣服装女子"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/tadasgedgaudas/status/2118284291381875124",
+      "author": "tadasgedgaudas",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.5 (left) vs ChatGPT Images 2.6 (right) Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.5 (left) vs ChatGPT Images 2.6 (right)。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/tadasgedgaudas/status/2118284291381875124",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "{\"subject\": {\"description\": \"A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure.\", \"pose\": \"Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror.\", \"clothing\": {\"main\": \"Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace.\", \"modifications\": \"Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible.\"}}, \"setting\": {\"environment\": \"Modern elevator interior with mirrored walls, metal panels, and a digital display.\", \"lighting\": \"Bright indoor elevator lighting creating reflections on the metal and mirrors.\"}, \"style\": {\"photography\": \"Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections.\", \"mood\": \"Edgy, confident, and stylish.\", \"composition\": \"Medium full-body shot capturing the subject and her mirror reflection.\"}, \"full_prompt\": \"Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures.\"}",
+          "url": "https://x.com/tadasgedgaudas/status/2118284291381875124",
+          "path": "cases/social-keor-elevator-mirror-portrait/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原帖明确左图2.5、右图2.6；仅保存右侧2.6结果。保留作者JSON指令中高跟鞋与靴子用词不一致的原文，不代改。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWoRJfacAA-lsG?format=jpg&name=large",
+        "path": "assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Keor outfit portrait in a mirrored elevator",
+          "zh-CN": "镜面电梯中的Keor刺绣服装女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/tadasgedgaudas/status/2118284291381875124",
+          "credit": "tadasgedgaudas",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 209158,
+        "sha256": "b7ab37d94b686d3b5c2c31e1f7ac4edeecc808387947f962da0c4804c262bb18"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原帖明确左图2.5、右图2.6；仅保存右侧2.6结果。保留作者JSON指令中高跟鞋与靴子用词不一致的原文，不代改。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-keor-elevator-mirror-portrait/source.json"
+    }
+  },
+  {
+    "id": "social-line-dog-heart-loop",
+    "status": "published",
+    "title": {
+      "en": "Line-art dog with a floating heart",
+      "zh-CN": "头顶飘爱心的白色线条小狗"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/CalosLaw/status/2118199125707547102",
+      "author": "CalosLaw",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: 突发！ChatGPT 刚更新的 Images 2.6 能直接出 GIF 了。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：突发！ChatGPT 刚更新的 Images 2.6 能直接出 GIF 了。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/CalosLaw/status/2118199125707547102",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。",
+          "url": "https://x.com/CalosLaw/status/2118199125707547102",
+          "path": "cases/social-line-dog-heart-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVTBQPbIAAcLJb.mp4",
+        "path": "assets/examples/social-line-dog-heart-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Line-art dog with a floating heart",
+          "zh-CN": "头顶飘爱心的白色线条小狗"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/CalosLaw/status/2118199125707547102",
+          "credit": "CalosLaw",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 25930,
+        "sha256": "101d15df672becf332c7dc28eac9ad04ffe38c9a8e901be4ad07771243a3788f"
+      },
+      {
+        "source_url": "https://x.com/CalosLaw/status/2118199125707547102",
+        "path": "assets/examples/social-line-dog-heart-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Line-art dog with a floating heart — derived GIF viewing copy",
+          "zh-CN": "头顶飘爱心的白色线条小狗——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/CalosLaw/status/2118199125707547102",
+          "credit": "CalosLaw",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 327501,
+        "sha256": "a74a7d233fce762049b38f4167f5a628b7c81bee72f2e22c5068d7dc5aab2ce1"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-line-dog-heart-loop/source.json"
+    }
+  },
+  {
+    "id": "social-standing-backflip-complexity",
+    "status": "published",
+    "title": {
+      "en": "Standing backflip at three complexity levels",
+      "zh-CN": "站立后空翻的三种复杂度对比"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/gabrielchua/status/2118135343354720648",
+      "author": "gabrielchua",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "flare"
+      ],
+      "evidence": {
+        "en": "The author states that this experiment used the GPT Image 2.6 API and Flare; low/medium/high are complexity labels, not quality labels.",
+        "zh-CN": "作者明确说明实验使用GPT Image 2.6 API的Flare；low/medium/high对应complexity，不改称quality。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/gabrielchua/status/2118135343354720648",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "create a GIF of a man doing a standing backflip",
+          "url": "https://x.com/gabrielchua/status/2118135343354720648",
+          "path": "cases/social-standing-backflip-complexity/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. Only the task phrase is public; no full API request is claimed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "原文明确作者用Flare并比较low/medium/high complexity。公开的是任务短句，未公开完整API请求；不把complexity改称quality，也不把对比三栏计为三个案例。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2118130005637308416/vid/avc1/1200x520/J1p8CYk5Stg-sK5U.mp4?tag=29",
+        "path": "assets/examples/social-standing-backflip-complexity/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Standing backflip at three complexity levels",
+          "zh-CN": "站立后空翻的三种复杂度对比"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/gabrielchua/status/2118135343354720648",
+          "credit": "gabrielchua",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 315071,
+        "sha256": "5ec6f698f1e334c205fbbfb02e0ff2a7494d409458c59286e1304da591c8dd64"
+      },
+      {
+        "source_url": "https://x.com/gabrielchua/status/2118135343354720648",
+        "path": "assets/examples/social-standing-backflip-complexity/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Standing backflip at three complexity levels — derived GIF viewing copy",
+          "zh-CN": "站立后空翻的三种复杂度对比——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/gabrielchua/status/2118135343354720648",
+          "credit": "gabrielchua",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1617028,
+        "sha256": "6f90543d01adda9621973f3b1363deb934ea1ceff4688bf61752532ba4c0016f"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. Only the task phrase is public; no full API request is claimed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "原文明确作者用Flare并比较low/medium/high complexity。公开的是任务短句，未公开完整API请求；不把complexity改称quality，也不把对比三栏计为三个案例。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-standing-backflip-complexity/source.json"
+    }
+  },
+  {
+    "id": "social-anime-floating-orb-control",
+    "status": "published",
+    "title": {
+      "en": "Anime character controlling a floating orb",
+      "zh-CN": "动漫角色操控悬浮球体"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+      "author": "MiraMusic_AI",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT image2.6検証2 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT image2.6検証2。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "添付画像を開始フレームとして球体をコントロールするキャラクター。\n画像生成で6秒尺。100枚で構成。\nケレン味がありアニメーション12原則を意識した動き。",
+          "url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+          "path": "cases/social-anime-floating-orb-control/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "作者要求6秒、100张是原提示词内容，不表示仓库已验证实际输出参数。第二附件为公开参考输入。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2118513573299404800/vid/avc1/1280x720/slbK0NNzdmrgVwqG.mp4?tag=29",
+        "path": "assets/examples/social-anime-floating-orb-control/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Anime character controlling a floating orb",
+          "zh-CN": "动漫角色操控悬浮球体"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+          "credit": "MiraMusic_AI",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 803282,
+        "sha256": "63e7443fd212a766ffe46f0798c942c8aa7474cbb7645c45481e13d501dcb06d"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWZ43tjbkAAJYlh?format=jpg&name=large",
+        "path": "assets/references/social-anime-floating-orb-control/source-02.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Anime character controlling a floating orb",
+          "zh-CN": "动漫角色操控悬浮球体"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+          "credit": "MiraMusic_AI",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 100271,
+        "sha256": "5fbab4a8a326f50cb18b3d526ed9d2dd655cb26790af4c26bbfce6ad7a0a7f13"
+      },
+      {
+        "source_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+        "path": "assets/examples/social-anime-floating-orb-control/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Anime character controlling a floating orb — derived GIF viewing copy",
+          "zh-CN": "动漫角色操控悬浮球体——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+          "credit": "MiraMusic_AI",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 3595070,
+        "sha256": "2334c90f1d1fdde7584f58e95f794afa3d041a935b91182a30ee2249c225485d"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "作者要求6秒、100张是原提示词内容，不表示仓库已验证实际输出参数。第二附件为公开参考输入。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-anime-floating-orb-control/source.json"
+    }
+  },
+  {
+    "id": "social-japanese-office-short-prompts",
+    "status": "published",
+    "title": {
+      "en": "Japanese office snapshots with short prompts",
+      "zh-CN": "日本办公室随拍的简短提示词对照"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/buusk4/status/2118543259257712714",
+      "author": "buusk4",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: なんかGPT image2.6のtipsみたいなのが流行ってたけど、もはや細かい指示とか要らないんだよね🙄 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：なんかGPT image2.6のtipsみたいなのが流行ってたけど、もはや細かい指示とか要らないんだよね🙄。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/buusk4/status/2118543259257712714",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "1,2枚目:縦長9:16の超写実的な実写写真。\n成人日本人女性。日本の一般的なオフィス。\n\n3,4枚目:縦長9:16の超写実的な実写写真スマホ画質のスナップショット。\n成人日本人女性。日本の一般的なオフィス。",
+          "url": "https://x.com/buusk4/status/2118543259257712714",
+          "path": "cases/social-japanese-office-short-prompts/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "两组简短指令对应原帖第1/2张与第3/4张；四张输出属于同一提示词对照实验，合并一例。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWaT17cbUAADHCj?format=jpg&name=large",
+        "path": "assets/examples/social-japanese-office-short-prompts/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Japanese office snapshots with short prompts",
+          "zh-CN": "日本办公室随拍的简短提示词对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/buusk4/status/2118543259257712714",
+          "credit": "buusk4",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 291928,
+        "sha256": "943c310298c0145c3f77db09b37ec4833a62ad1c0b7a6b9745a5c180b0add333"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWaT2XqbIAAOT_N?format=jpg&name=large",
+        "path": "assets/examples/social-japanese-office-short-prompts/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Japanese office snapshots with short prompts",
+          "zh-CN": "日本办公室随拍的简短提示词对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/buusk4/status/2118543259257712714",
+          "credit": "buusk4",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 234838,
+        "sha256": "65781370189c236a7560773a3f72472ca96ef73d4a9be880f47fff1d59940a8b"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWaT2wha8AAk7st?format=jpg&name=large",
+        "path": "assets/examples/social-japanese-office-short-prompts/source-03.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Japanese office snapshots with short prompts",
+          "zh-CN": "日本办公室随拍的简短提示词对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/buusk4/status/2118543259257712714",
+          "credit": "buusk4",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 266525,
+        "sha256": "2f806739e28008bb08219c5f1d0af4ee2442ed8f8b17f35cf1f0858dbcf95581"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWaT3Nca0AEcwmP?format=jpg&name=large",
+        "path": "assets/examples/social-japanese-office-short-prompts/source-04.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Japanese office snapshots with short prompts",
+          "zh-CN": "日本办公室随拍的简短提示词对照"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/buusk4/status/2118543259257712714",
+          "credit": "buusk4",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 239253,
+        "sha256": "59f65c95d4e0910896abaafd3b5620d16f575464e1126784f84a8a82f9699405"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "两组简短指令对应原帖第1/2张与第3/4张；四张输出属于同一提示词对照实验，合并一例。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-japanese-office-short-prompts/source.json"
+    }
+  },
+  {
+    "id": "social-golden-gate-gouache-loop",
+    "status": "published",
+    "title": {
+      "en": "Golden Gate gouache travel-poster loop",
+      "zh-CN": "金门大桥水粉旅行海报循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/devteamdrew/status/2118308538564989025",
+      "author": "devteamdrew",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: A few scenic GIFs made using ChatGPT Images 2.6 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：A few scenic GIFs made using ChatGPT Images 2.6。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/devteamdrew/status/2118538745175503130",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "A living mid-century gouache travel-poster painting of the Golden Gate Bridge seen from a beach, static locked-off camera, seamless looping animation. The bridge is rust-orange with two tall towers, fine suspension cables and vertical hangers, spanning to a hazy grey-blue headland on the left and a tan-grey rocky cliff on the right. In the foreground deep cobalt and teal surf rolls in with white foam lines onto a sweeping beach of sandy beige scratchy dry-brush strokes, with dark rocks, a driftwood log and tiny figures in coral, navy and mustard. Warm cream sky with fine paper grain fills the upper half. Matte opaque gouache, ragged flaking edges, visible bristle streaks, speckled worn texture. Gentle motion only: waves wash and recede, foam shimmers, seagulls glide across the sky, tiny people wander. Soft hazy daylight, vertical 3:4, perfect loop.",
+          "url": "https://x.com/devteamdrew/status/2118538745175503130",
+          "path": "cases/social-golden-gate-gouache-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWW9tuiWsAArMUF.mp4",
+        "path": "assets/examples/social-golden-gate-gouache-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Golden Gate gouache travel-poster loop",
+          "zh-CN": "金门大桥水粉旅行海报循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 162803,
+        "sha256": "3515f0e070b9c322b10ebec13d862f6cdb51de0323fc336c0b2d5992ea851758"
+      },
+      {
+        "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "path": "assets/examples/social-golden-gate-gouache-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Golden Gate gouache travel-poster loop — derived GIF viewing copy",
+          "zh-CN": "金门大桥水粉旅行海报循环——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1609003,
+        "sha256": "19c9cd1ee20efe8b70e1a68208ed0b2f290aedf89a5c5628b6dfb14c54d77f51"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-golden-gate-gouache-loop/source.json"
+    }
+  },
+  {
+    "id": "social-colosseum-gouache-loop",
+    "status": "published",
+    "title": {
+      "en": "Colosseum gouache travel-poster loop",
+      "zh-CN": "罗马斗兽场水粉旅行海报循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/devteamdrew/status/2118308538564989025",
+      "author": "devteamdrew",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: A few scenic GIFs made using ChatGPT Images 2.6 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：A few scenic GIFs made using ChatGPT Images 2.6。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/devteamdrew/status/2118538745175503130",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.",
+          "url": "https://x.com/devteamdrew/status/2118538745175503130",
+          "path": "cases/social-colosseum-gouache-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWW9tudXoAAnmUr.mp4",
+        "path": "assets/examples/social-colosseum-gouache-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Colosseum gouache travel-poster loop",
+          "zh-CN": "罗马斗兽场水粉旅行海报循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 174653,
+        "sha256": "b21bcfb06ba17162204b807a1a5d258d119f5c2ac156a0358b7ec5723ea38216"
+      },
+      {
+        "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "path": "assets/examples/social-colosseum-gouache-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Colosseum gouache travel-poster loop — derived GIF viewing copy",
+          "zh-CN": "罗马斗兽场水粉旅行海报循环——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1779356,
+        "sha256": "d9eee0452582ad9d4671ba157f8cbfd2e0b361d3b9cd1cc91a85bad673ef47c2"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-colosseum-gouache-loop/source.json"
+    }
+  },
+  {
+    "id": "social-fuji-gouache-loop",
+    "status": "published",
+    "title": {
+      "en": "Mount Fuji gouache travel-poster loop",
+      "zh-CN": "富士山水粉旅行海报循环"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/devteamdrew/status/2118308538564989025",
+      "author": "devteamdrew",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: A few scenic GIFs made using ChatGPT Images 2.6 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：A few scenic GIFs made using ChatGPT Images 2.6。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/devteamdrew/status/2118538745175503130",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.",
+          "url": "https://x.com/devteamdrew/status/2118538745175503130",
+          "path": "cases/social-fuji-gouache-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWW9tuiXoAATLhp.mp4",
+        "path": "assets/examples/social-fuji-gouache-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Mount Fuji gouache travel-poster loop",
+          "zh-CN": "富士山水粉旅行海报循环"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 138219,
+        "sha256": "62dfc9bc144e029b29c6184b3b38975afcb66ad3902ef66454a817c819846e3e"
+      },
+      {
+        "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+        "path": "assets/examples/social-fuji-gouache-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Mount Fuji gouache travel-poster loop — derived GIF viewing copy",
+          "zh-CN": "富士山水粉旅行海报循环——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/devteamdrew/status/2118308538564989025",
+          "credit": "devteamdrew",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1786739,
+        "sha256": "b53e00d530cf72904d40cc03d59f0c2192be7ac68b50910f1771571e2a41cd14"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-fuji-gouache-loop/source.json"
+    }
+  },
+  {
+    "id": "social-dwarf-360-turntable",
+    "status": "published",
+    "title": {
+      "en": "Dwarf game model rotating 360 degrees",
+      "zh-CN": "持巨斧矮人360度旋转"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/xikhar/status/2118407355859878352",
+      "author": "xikhar",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image 2.6 is pretty cool.  Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image 2.6 is pretty cool. 。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/xikhar/status/2118409026044403849",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "create a gif of a \"3d dwarf game model carrying a huge axe on his shoulders\" spinning full 360 degrees",
+          "url": "https://x.com/xikhar/status/2118409026044403849",
+          "path": "cases/social-dwarf-360-turntable/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWYWl_RaIAA6hH9.mp4",
+        "path": "assets/examples/social-dwarf-360-turntable/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Dwarf game model rotating 360 degrees",
+          "zh-CN": "持巨斧矮人360度旋转"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 48510,
+        "sha256": "48cf72b89ebe242b6c69c4ea70bf25489fb6afb30ef28707293bc8de2089310d"
+      },
+      {
+        "source_url": "https://x.com/xikhar/status/2118407355859878352",
+        "path": "assets/examples/social-dwarf-360-turntable/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Dwarf game model rotating 360 degrees — derived GIF viewing copy",
+          "zh-CN": "持巨斧矮人360度旋转——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 493394,
+        "sha256": "edbc2fe6b62ccd29e6c99350f2fb16df96a0bdc4430da3e035bd7a45f01f2c21"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-dwarf-360-turntable/source.json"
+    }
+  },
+  {
+    "id": "social-sword-360-turntable",
+    "status": "published",
+    "title": {
+      "en": "Legendary sword game asset rotating 360 degrees",
+      "zh-CN": "传奇宝剑360度旋转"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/xikhar/status/2118407355859878352",
+      "author": "xikhar",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image 2.6 is pretty cool.  Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image 2.6 is pretty cool. 。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/xikhar/status/2118409026044403849",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "create a gif of a \"3d legendary sword in a stone game asset\" spinning full 360 degrees",
+          "url": "https://x.com/xikhar/status/2118409026044403849",
+          "path": "cases/social-sword-360-turntable/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWYWn7JbsAA_KhQ.mp4",
+        "path": "assets/examples/social-sword-360-turntable/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Legendary sword game asset rotating 360 degrees",
+          "zh-CN": "传奇宝剑360度旋转"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 54395,
+        "sha256": "96aff3988295c014eb6c79dc8e675ac5e703b16a566d1e4fb23f8e166da95db3"
+      },
+      {
+        "source_url": "https://x.com/xikhar/status/2118407355859878352",
+        "path": "assets/examples/social-sword-360-turntable/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Legendary sword game asset rotating 360 degrees — derived GIF viewing copy",
+          "zh-CN": "传奇宝剑360度旋转——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 397292,
+        "sha256": "f39ad6e153907dee103dc4ecd9b0b115001545cde4ae2b53238b54104a7aad07"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-sword-360-turntable/source.json"
+    }
+  },
+  {
+    "id": "social-motorbike-360-turntable",
+    "status": "published",
+    "title": {
+      "en": "Futuristic motorbike rotating 360 degrees",
+      "zh-CN": "未来摩托车360度旋转"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/xikhar/status/2118407355859878352",
+      "author": "xikhar",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image 2.6 is pretty cool.  Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image 2.6 is pretty cool. 。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/xikhar/status/2118409026044403849",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "create a gif of a \"AAA 3d futuristic motorbike game asset\" spinning full 360 degrees",
+          "url": "https://x.com/xikhar/status/2118409026044403849",
+          "path": "cases/social-motorbike-360-turntable/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWYWouobcAEDjC1.mp4",
+        "path": "assets/examples/social-motorbike-360-turntable/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Futuristic motorbike rotating 360 degrees",
+          "zh-CN": "未来摩托车360度旋转"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 57404,
+        "sha256": "31119fa2f3dfb70166deb0e3267bc0665deb1c5eda3157cfd5f5aaf8466518a2"
+      },
+      {
+        "source_url": "https://x.com/xikhar/status/2118407355859878352",
+        "path": "assets/examples/social-motorbike-360-turntable/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Futuristic motorbike rotating 360 degrees — derived GIF viewing copy",
+          "zh-CN": "未来摩托车360度旋转——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 539240,
+        "sha256": "d4cdcd6c4040de720aa12fd549b59ab8c17e031411c9034a36399edbd0df5fed"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-motorbike-360-turntable/source.json"
+    }
+  },
+  {
+    "id": "social-cat-spinning-gif",
+    "status": "published",
+    "title": {
+      "en": "Spinning cat GIF",
+      "zh-CN": "旋转的猫"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/xikhar/status/2118407355859878352",
+      "author": "xikhar",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image 2.6 is pretty cool.  Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image 2.6 is pretty cool. 。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/xikhar/status/2118409026044403849",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "create a gif of a cat spinning",
+          "url": "https://x.com/xikhar/status/2118409026044403849",
+          "path": "cases/social-cat-spinning-gif/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. ",
+        "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWYWqLLaMAAbku9.mp4",
+        "path": "assets/examples/social-cat-spinning-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Spinning cat GIF",
+          "zh-CN": "旋转的猫"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 40704,
+        "sha256": "b2d41234b8f63f40e7296c7257192bc11e37b40701d8f3c0f23b34ef07b7fa86"
+      },
+      {
+        "source_url": "https://x.com/xikhar/status/2118407355859878352",
+        "path": "assets/examples/social-cat-spinning-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Spinning cat GIF — derived GIF viewing copy",
+          "zh-CN": "旋转的猫——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/xikhar/status/2118407355859878352",
+          "credit": "xikhar",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 689055,
+        "sha256": "91c24532ce6b8c70f5dbcee5b5bfe895e78b95f0815250fa19af9b2b315a859c"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. ",
+      "zh-CN": "提示词按原文保存；同一工作流的多张结果与展示副本合并计数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-cat-spinning-gif/source.json"
+    }
+  },
+  {
+    "id": "social-gray-blender-hallway-draft",
+    "status": "published",
+    "title": {
+      "en": "Gray Blender hallway camera draft",
+      "zh-CN": "灰色Blender走廊镜头动画草稿"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+      "author": "cocktailpeanut",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: The GPT-Image 2.6 is a game changer for AI video generation, when combined with Minimax H3. I made a full 15 sec video by: Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：The GPT-Image 2.6 is a game changer for AI video generation, when combined with Minimax H3. I made a full 15 sec video by:。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/cocktailpeanut/status/2118408801812643957",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames. Make it look like a crude gray Blender viewport animation, not cinematic footage. A single continuous shot inside a rectangular hallway with a tiled floor and simple gray walls. The camera slowly advances toward a doorway. A black humanoid mannequin with unusually long arms emerges from behind the doorway. The camera suddenly whips right, falls onto its side, and stops. The mannequin slowly walks toward and past the fallen camera. Maintain consistent 3D geometry, character proportions, doorway placement, and spatial relationships. No cuts, no teleportation, no scene changes, no added props. Focus on exact camera movement, depth, and timing. The animation should play once as a complete sequence, not return to its starting pose.",
+          "url": "https://x.com/cocktailpeanut/status/2118408801812643957",
+          "path": "cases/social-gray-blender-hallway-draft/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved. Only the GPT Image 2.6 gray animation draft is included; the downstream H3 result is excluded. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "仅收录作者Step 1的GPT Image 2.6灰模动画原件。后续延长与H3生成的最终视频属于其他阶段，不作为本案例的2.6输出。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/356x358/NsjEP_nz4euG0NqP.mp4?tag=29",
+        "path": "assets/examples/social-gray-blender-hallway-draft/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Gray Blender hallway camera draft",
+          "zh-CN": "灰色Blender走廊镜头动画草稿"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+          "credit": "cocktailpeanut",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 40283,
+        "sha256": "b32a8727786ffc056a83f233edd286c275ecdb4f52ae79ecaa3c9ea09c35c23e"
+      },
+      {
+        "source_url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+        "path": "assets/examples/social-gray-blender-hallway-draft/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Gray Blender hallway camera draft — derived GIF viewing copy",
+          "zh-CN": "灰色Blender走廊镜头动画草稿——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+          "credit": "cocktailpeanut",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 681198,
+        "sha256": "2a2b00afda0c4ddb76c30a5e55920abcfc3b573564e43805a7b34fa7e2b2bf65"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved. Only the GPT Image 2.6 gray animation draft is included; the downstream H3 result is excluded. See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "仅收录作者Step 1的GPT Image 2.6灰模动画原件。后续延长与H3生成的最终视频属于其他阶段，不作为本案例的2.6输出。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-gray-blender-hallway-draft/source.json"
+    }
+  },
+  {
+    "id": "social-summer-garden-water-gun",
+    "status": "published",
+    "title": {
+      "en": "Summer garden water-gun animation",
+      "zh-CN": "夏日花园水枪动态场景"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/nima2qisi2/status/2118150226330734787",
+      "author": "nima2qisi2",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: 卧槽，Chat GPT Image2.6 这波更新有点强啊！\n别以为只能做表情包这么简单，详细指令评论区👇 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：卧槽，Chat GPT Image2.6 这波更新有点强啊！\n别以为只能做表情包这么简单，详细指令评论区👇。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/nima2qisi2/status/2118150229811920912",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "请以这个内容创建一个 GIF，内容是： # JAPANESE SUMMER｜夏日元气少女\n**10秒日系青春活力MV视频提示词**\n\n**画面规格：** 9:16 竖屏，10秒，30fps，写实摄影质感。\n\n**人物设定：**\n22岁成年东亚女性，清透冷白皮肤，短款深棕色波波头，轻薄空气刘海，五官甜美可爱，身材匀称。穿着参考图中的蓝色泳装、黄色镂空针织罩衫及牛仔短裤。人物保持统一，性格活泼俏皮，笑容自然，有青春少女的灵动感。\n\n**整体风格：**\nJapanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。\n\n明亮通透的夏日阳光，翠绿花园，蓝色天空，橙色充气泳圈，水花飞溅。采用日本青春电影式混剪，快速切换全景、中景、近景和人物特写。画面具有轻微胶片颗粒、柔和高光、自然镜头运动。\n\n### 01｜10秒分镜设计\n\n**0—1.2秒｜开场钩子**\n低机位快速推进，女主坐在橙色充气泳圈上，双手拿着水枪，突然发现镜头，露出惊喜的笑容，水流突然朝镜头喷来。\n\n**1.2—2.4秒｜俏皮特写**\n快速硬切面部近景，女主被水花溅到，轻轻眯眼，随后露出调皮笑容，发丝随着动作轻轻晃动。阳光在脸颊形成漂亮的光斑。\n\n**2.4—3.6秒｜青春动态**\n侧面低机位，女主赤脚轻轻踢起草坪上的水花，镜头快速横向跟拍，橙色泳圈在前景掠过，形成自然遮挡转场。\n\n**3.6—4.8秒｜视觉节奏**\n俯拍镜头，女主拿着水枪在草坪上转身，水流划出弧线。镜头快速向下俯冲，再跟随水花向上抬起。\n\n**4.8—6.0秒｜少女感特写**\n正面近景，女主双手举起水枪，突然向镜头喷水，水珠在阳光下形成晶莹的高光，女主笑着躲避镜头。\n\n**6.0—7.3秒｜活力爆发**\n快速硬切至侧后方，女主从泳圈上轻巧起身，转身甩动头发，黄色针织罩衫随动作自然摆动，镜头进行半圈快速环绕。\n\n**7.3—8.7秒｜夏日氛围**\n广角镜头，女主在草坪上轻快地转圈，双手张开，阳光穿过树叶洒落，水花从前景飞过，画面充满夏日青春气息。\n\n**8.7—10秒｜记忆点结尾**\n突然切换正面近景，女主向镜头靠近，俏皮地歪头眨眼，随后拿起水枪再次喷水，水花覆盖整个镜头，最后定格在明亮的白色水花中。\n\n### 02｜音乐与剪辑\n\n原创日系青春J-POP配乐：\n- 轻快的电吉他、明亮合成器、活泼贝斯与清脆鼓点。\n- 约155—165 BPM，具有夏日偶像MV的轻盈节奏。\n- 开场直接进入音乐，不要冗长铺垫。\n- 每次鼓点配合一次硬切或动作变化。\n- 中间加入少量0.3—0.5秒高速慢动作水花特写，再迅速恢复正常速度。\n- 结尾音乐与水花覆盖镜头同步收束。\n\n### 03｜摄影与画面约束\n\n1. 混剪必须具有明显的景别变化，避免全程一个机位。\n2. 人物始终是画面视觉中心，保持同一张脸、发型和服装。\n3. 人物动作自然轻快，表情丰富，笑容甜美但不过度表演。\n4. 保留真实皮肤纹理、自然阳光与水珠物理效果。\n5. 镜头切换干净利落，利用水花、泳圈和人物动作完成匹配剪辑。\n6. 不要广告片质感，不要商业产品展示，不要字幕、文字、Logo、水印。\n7. 避免人物变脸、服装改变、手指畸形、肢体错位及水枪结构变形。\n\n**最终效果：像一支10秒的日本夏日青春偶像MV，轻松、明亮、活泼、俏皮，让人感受到夏天的快乐。**",
+          "url": "https://x.com/nima2qisi2/status/2118150229811920912",
+          "path": "cases/social-summer-garden-water-gun/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "保存原帖参考照片与两段GIF托管MP4，合并为一个工作流。提示词中的10秒、30fps与音乐要求为作者原文，不表示图片模型实际输出音轨或满足全部视频参数。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=large",
+        "path": "assets/references/social-summer-garden-water-gun/source-01.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Summer garden water-gun animation",
+          "zh-CN": "夏日花园水枪动态场景"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+          "credit": "nima2qisi2",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 350688,
+        "sha256": "27b978d7fd38113114c92682c273236faf978c68c19c85faa5234849e2638764"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUtOnfbQAABlR8.mp4",
+        "path": "assets/examples/social-summer-garden-water-gun/source-02.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Summer garden water-gun animation",
+          "zh-CN": "夏日花园水枪动态场景"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+          "credit": "nima2qisi2",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 197359,
+        "sha256": "586220c20af8914704490554f3219f081f372829f48ad35b3821dda20d0ac46b"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUtOnlboAAGF-X.mp4",
+        "path": "assets/examples/social-summer-garden-water-gun/source-03.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Summer garden water-gun animation",
+          "zh-CN": "夏日花园水枪动态场景"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+          "credit": "nima2qisi2",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 175504,
+        "sha256": "714c47d7a27bbdfcd71829846a087b75d090a4266e97188a7bcb006ef2903962"
+      },
+      {
+        "source_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+        "path": "assets/examples/social-summer-garden-water-gun/preview-02.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Summer garden water-gun animation — derived GIF viewing copy",
+          "zh-CN": "夏日花园水枪动态场景——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+          "credit": "nima2qisi2",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1901301,
+        "sha256": "14eaa433fb176701054f66bcbff54b379ee2f565b594f1848e40450c62375a94"
+      },
+      {
+        "source_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+        "path": "assets/examples/social-summer-garden-water-gun/preview-03.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Summer garden water-gun animation — derived GIF viewing copy",
+          "zh-CN": "夏日花园水枪动态场景——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+          "credit": "nima2qisi2",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1956977,
+        "sha256": "17ebf02d9ca516d9ebc663245f3518ca93d4376ef2d72a3e8ccd8b5972784f8a"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "保存原帖参考照片与两段GIF托管MP4，合并为一个工作流。提示词中的10秒、30fps与音乐要求为作者原文，不表示图片模型实际输出音轨或满足全部视频参数。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-summer-garden-water-gun/source.json"
+    }
+  },
+  {
+    "id": "social-circle-markup-santa-gift-edit",
+    "status": "published",
+    "title": {
+      "en": "Circle markup edit adding Santa hat and gift",
+      "zh-CN": "红蓝圈标注编辑圣诞帽与礼物盒"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://x.com/IHayato/status/2118151619212890291",
+      "author": "IHayato",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: GPT Image 2.6が出たので、さっそく試してみました。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：GPT Image 2.6が出たので、さっそく試してみました。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/IHayato/status/2118151619212890291",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "赤丸にサンタ帽、青丸の本はプレゼントに",
+          "url": "https://x.com/IHayato/status/2118151619212890291",
+          "path": "cases/social-circle-markup-santa-gift-edit/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "保存原帖标注编辑对照图；同帖另一段眨眼动画和成本图解不属于本例输出。原提示词为作者公开的局部编辑短句。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWUvnunaQAA2gbE?format=jpg&name=large",
+        "path": "assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Circle markup edit adding Santa hat and gift",
+          "zh-CN": "红蓝圈标注编辑圣诞帽与礼物盒"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/IHayato/status/2118151619212890291",
+          "credit": "IHayato",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 195642,
+        "sha256": "ad35173bd07bbc3d8364ca75201bd3bd62f0c246ccf5e25f72fe8ff6e29cbe1e"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "保存原帖标注编辑对照图；同帖另一段眨眼动画和成本图解不属于本例输出。原提示词为作者公开的局部编辑短句。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-circle-markup-santa-gift-edit/source.json"
+    }
+  },
+  {
+    "id": "social-basketball-storyboard-to-gif",
+    "status": "published",
+    "title": {
+      "en": "Basketball storyboard-to-GIF workflow",
+      "zh-CN": "动作分镜参考转投篮GIF"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/crayon1267/status/2118186300339892472",
+      "author": "crayon1267",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: 使用GPT image2.6生成一个超酷炫的gif投篮表情包。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：使用GPT image2.6生成一个超酷炫的gif投篮表情包。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/crayon1267/status/2118186300339892472",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "创建一个gif，按照附图的动作顺序生成。",
+          "url": "https://x.com/crayon1267/status/2118186300339892472",
+          "path": "cases/social-basketball-storyboard-to-gif/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "作者先生成动作顺序图，再作为参考生成GIF；保存公开动作分镜作为输入，不伪造第一阶段未公开指令。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVOyYGacAA2RLP.mp4",
+        "path": "assets/examples/social-basketball-storyboard-to-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Basketball storyboard-to-GIF workflow",
+          "zh-CN": "动作分镜参考转投篮GIF"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/crayon1267/status/2118186300339892472",
+          "credit": "crayon1267",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 67474,
+        "sha256": "b8b800667ba9a1afd3b88f1b717405cd1d82e5eb89119df2383d516bd2ea3807"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVOyYDbAAAhzXK?format=jpg&name=large",
+        "path": "assets/references/social-basketball-storyboard-to-gif/source-02.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Basketball storyboard-to-GIF workflow",
+          "zh-CN": "动作分镜参考转投篮GIF"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/crayon1267/status/2118186300339892472",
+          "credit": "crayon1267",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 254904,
+        "sha256": "aaeec1d2057953c53cc69a88755cfa5382a76cda21647188d0c8c1fc88cf1f51"
+      },
+      {
+        "source_url": "https://x.com/crayon1267/status/2118186300339892472",
+        "path": "assets/examples/social-basketball-storyboard-to-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Basketball storyboard-to-GIF workflow — derived GIF viewing copy",
+          "zh-CN": "动作分镜参考转投篮GIF——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/crayon1267/status/2118186300339892472",
+          "credit": "crayon1267",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 517310,
+        "sha256": "7bcd8b37b057c5b580d673ed62d97aa7f0b9aaea8599395c897849ba9541d370"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "作者先生成动作顺序图，再作为参考生成GIF；保存公开动作分镜作为输入，不伪造第一阶段未公开指令。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-basketball-storyboard-to-gif/source.json"
+    }
+  },
+  {
+    "id": "social-orange-office-cat-expression-grid",
+    "status": "published",
+    "title": {
+      "en": "Orange office-cat expression grid",
+      "zh-CN": "橘猫打工人十二款表情网格"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/karanwithai/status/2118156092865994837",
+      "author": "karanwithai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 for this work. Source excerpt: ChatGPT Images 2.6 居然能直接出 GIF 表情包了。 Creator-reported only; not independently reproduced.",
+        "zh-CN": "作者在原帖明确说明本作品使用GPT Image 2.6。原文摘录：ChatGPT Images 2.6 居然能直接出 GIF 表情包了。。依据为作者自报；本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/karanwithai/status/2118156317034693026",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "画一套12款橘猫打工人表情包，圆脸胖橘戴蓝领带，粗黑蜡笔线条、橙蓝配色、米白底，表情夸张搞笑，角色保持一致。按3列×4行排列，分别配字：开心、气成河豚、委屈巴巴、笑不活了、收到、啊？、累瘫了、我裂开了、先装死、蹲个后续、没眼看、下班！",
+          "url": "https://x.com/karanwithai/status/2118156317034693026",
+          "path": "cases/social-orange-office-cat-expression-grid/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "保存一张12格静态表情网格与原帖公开的三段动态附件；未声称12段独立动画全部公开，同一角色集合合并为一例。 公开文字指令对应12格静图；三段动态的逐条追加指令未公开，不补造动画提示词。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWUzoi4WYAAHCTr?format=jpg&name=large",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid",
+          "zh-CN": "橘猫打工人十二款表情网格"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "JPEG provided by the original post image viewer, saved through the normal browser download flow. Direct HTTP retrieval returned 403. Creator credit retained; no redistribution licence asserted; MIT excludes this media.",
+            "zh-CN": "通过原帖图片查看器的正常浏览器下载保存JPEG大图；单独记录HTTP直链返回403。保留作者署名，不声明已取得转载许可；MIT不覆盖此素材。"
+          }
+        },
+        "mime_type": "image/jpeg",
+        "bytes": 425291,
+        "sha256": "4a72abc06b8e7e44b9b72dbe32936260a8865be3da0d838682145d00a445455e"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUzpqJWMAAq-Ll.mp4",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/source-02.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid",
+          "zh-CN": "橘猫打工人十二款表情网格"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 18170,
+        "sha256": "3197d5d654f053420ea9d90e33002e49abcfe9ccd91875b8267940b625ed4035"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUzrCOXcAADdJI.mp4",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/source-03.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid",
+          "zh-CN": "橘猫打工人十二款表情网格"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 14544,
+        "sha256": "ceefb8cafb304446aa922f754d95b6a126ba6aa6ac958e7e1e80ad1f4960055b"
+      },
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUzsLIWkAA7sb8.mp4",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/source-04.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid",
+          "zh-CN": "橘猫打工人十二款表情网格"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 19707,
+        "sha256": "ceb2f2b7378d1c9022e4608188b1baed5760a8ba1a9d780af204d8b89176061e"
+      },
+      {
+        "source_url": "https://x.com/karanwithai/status/2118156092865994837",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/preview-02.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid — derived GIF viewing copy",
+          "zh-CN": "橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 215159,
+        "sha256": "13e7e1085491251c906200bcb66e3b0554601a68ce82e7311197ef4f17a867e9"
+      },
+      {
+        "source_url": "https://x.com/karanwithai/status/2118156092865994837",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/preview-03.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid — derived GIF viewing copy",
+          "zh-CN": "橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 233041,
+        "sha256": "257a6eb5ed9021c3482101569bc83b25ea4fda0424e29a7e87ebc9aa34298cdb"
+      },
+      {
+        "source_url": "https://x.com/karanwithai/status/2118156092865994837",
+        "path": "assets/examples/social-orange-office-cat-expression-grid/preview-04.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Orange office-cat expression grid — derived GIF viewing copy",
+          "zh-CN": "橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/karanwithai/status/2118156092865994837",
+          "credit": "karanwithai",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 224615,
+        "sha256": "24a4e9289bb7fd31eb2f0215920fbbe08c8579eab68ac413c8357932cc11a10f"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "保存一张12格静态表情网格与原帖公开的三段动态附件；未声称12段独立动画全部公开，同一角色集合合并为一例。 公开文字指令对应12格静图；三段动态的逐条追加指令未公开，不补造动画提示词。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-orange-office-cat-expression-grid/source.json"
+    }
+  },
+  {
+    "id": "social-revenue-chart-loop",
+    "status": "published",
+    "title": {
+      "en": "Quarterly revenue chart animation",
+      "zh-CN": "季度营收动态图"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "author": "aiwarts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator introduces this article as their GPT Image 2.6 experiment and pairs each selected workflow with a public instruction and attached demonstration. Creator-reported only; no independent reproduction.",
+        "zh-CN": "作者明确将长文描述为自己的GPT Image 2.6实验，并逐段提供本次收录工作流的指令与对应演示。原文：前两天 GPT-Image-2.6 悄悄上线了。 仅核对作者自报，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "文生 GIF 动图，16:9，用于业绩汇报。清爽的二维扁平矢量信息图风格：暖白色背景、轻微纸张质感、大量留白，深海军蓝细线与明亮蓝色为主，珊瑚橙只用于强调增长。画面中央是一张大幅上升折线图，展示季度营收：Q1 120 万、Q2 168 万、Q3 215 万、Q4 306 万。\n动画开始时，浅灰色网格和坐标轴轻轻浮现；蓝色折线从 Q1 向 Q4 快速但顺滑地绘制，线下方出现半透明蓝色渐变填充。每到一个数据节点，圆点弹跳一下，对应的数值卡片弹出；线条经过时留下一小段发光轨迹。到达 Q4 时，终点出现珊瑚橙色上升箭头和“增长 155%”卡片，周围有少量星形闪光与圆环扩散。随后高亮、卡片和填充平滑收回，回到初始画面，形成首尾一致的 4 秒无缝循环 GIF。图表位置始终固定，动效有节奏感但不杂乱。不要人物、实拍质感、3D 效果、镜头运动或声音。",
+          "url": "https://x.com/aiwarts/status/2119435411667980473",
+          "path": "cases/social-revenue-chart-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2119050946911326208/vid/avc1/960x540/GtbmPPP9_Y9vgmff.mp4?tag=29",
+        "path": "assets/examples/social-revenue-chart-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Quarterly revenue chart animation",
+          "zh-CN": "季度营收动态图"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 73672,
+        "sha256": "6773bffc992b77ead979da0f0423679608755a4606a53855f94f54c0ede892f9"
+      },
+      {
+        "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+        "path": "assets/examples/social-revenue-chart-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Quarterly revenue chart animation — derived GIF viewing copy",
+          "zh-CN": "季度营收动态图——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 156542,
+        "sha256": "080c36d604af0a2a4c1b99215d501ce892de30c63dbf0c5366ec10107e562fc4"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-revenue-chart-loop/source.json"
+    }
+  },
+  {
+    "id": "social-web-summary-interaction-loop",
+    "status": "published",
+    "title": {
+      "en": "Web summary interaction animation",
+      "zh-CN": "网页生成摘要交互动画"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "author": "aiwarts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator introduces this article as their GPT Image 2.6 experiment and pairs each selected workflow with a public instruction and attached demonstration. Creator-reported only; no independent reproduction.",
+        "zh-CN": "作者明确将长文描述为自己的GPT Image 2.6实验，并逐段提供本次收录工作流的指令与对应演示。原文：前两天 GPT-Image-2.6 悄悄上线了。 仅核对作者自报，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "制作一段 3 秒、可无缝循环的网页产品演示动图。鼠标点击文章右上角的“生成摘要”按钮，按钮短暂显示加载状态，右侧随即展开简洁的摘要卡片。镜头固定，保留真实界面布局，让点击和结果清晰可见；动画轻快、克制，不添加其他操作或虚构文案。",
+          "url": "https://x.com/aiwarts/status/2119435411667980473",
+          "path": "cases/social-web-summary-interaction-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2119050872328200192/vid/avc1/1100x640/-Mpw5iEuop7lXcpN.mp4?tag=29",
+        "path": "assets/examples/social-web-summary-interaction-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Web summary interaction animation",
+          "zh-CN": "网页生成摘要交互动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 31992,
+        "sha256": "8866f94fd658ddaa861d87b3cea5ed0f4e028e629d0f665942d3df4d91202c08"
+      },
+      {
+        "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+        "path": "assets/examples/social-web-summary-interaction-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Web summary interaction animation — derived GIF viewing copy",
+          "zh-CN": "网页生成摘要交互动画——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 82291,
+        "sha256": "887f5150b781f03a7aebb200c36813ea2fce20b74a4e91b1372ea7bcf001b122"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-web-summary-interaction-loop/source.json"
+    }
+  },
+  {
+    "id": "social-camera-exploded-loop",
+    "status": "published",
+    "title": {
+      "en": "Camera exploded-view animation",
+      "zh-CN": "相机爆炸拆解动画"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "author": "aiwarts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator introduces this article as their GPT Image 2.6 experiment and pairs each selected workflow with a public instruction and attached demonstration. Creator-reported only; no independent reproduction.",
+        "zh-CN": "作者明确将长文描述为自己的GPT Image 2.6实验，并逐段提供本次收录工作流的指令与对应演示。原文：前两天 GPT-Image-2.6 悄悄上线了。 仅核对作者自报，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "等轴测 2.5D 爆炸拆解视图，一台经典的单反相机。拆成金属机身外壳、镜头零件、等等拆件的爆炸镜头，生成从完整相机到拆件的无缝循环 GIF 动图。",
+          "url": "https://x.com/aiwarts/status/2119435411667980473",
+          "path": "cases/social-camera-exploded-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。 原作者展示视频包含相机与键盘并排拆解；公开指令针对相机，本仓库保留完整来源视频，不裁成虚构的独立原件。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2119050793072680960/vid/avc1/1288x640/JRdW_Z0JaDLGIlB-.mp4?tag=29",
+        "path": "assets/examples/social-camera-exploded-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Camera exploded-view animation",
+          "zh-CN": "相机爆炸拆解动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 375146,
+        "sha256": "35738a87fe78d3b21bc818f7d3f2efba8c35e245afb28024a5185d7d8c6df7a5"
+      },
+      {
+        "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+        "path": "assets/examples/social-camera-exploded-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Camera exploded-view animation — derived GIF viewing copy",
+          "zh-CN": "相机爆炸拆解动画——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 823265,
+        "sha256": "64a5eeee8d7eafc2e3b22988165d15968aa90799ccf303eeb06b2c9e3a29570f"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。 原作者展示视频包含相机与键盘并排拆解；公开指令针对相机，本仓库保留完整来源视频，不裁成虚构的独立原件。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-camera-exploded-loop/source.json"
+    }
+  },
+  {
+    "id": "social-ink-history-timeline-loop",
+    "status": "published",
+    "title": {
+      "en": "Ink-wash history timeline",
+      "zh-CN": "水墨历史长卷动态时间轴"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "author": "aiwarts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator introduces this article as their GPT Image 2.6 experiment and pairs each selected workflow with a public instruction and attached demonstration. Creator-reported only; no independent reproduction.",
+        "zh-CN": "作者明确将长文描述为自己的GPT Image 2.6实验，并逐段提供本次收录工作流的指令与对应演示。原文：前两天 GPT-Image-2.6 悄悄上线了。 仅核对作者自报，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "历史科普长卷动态时间轴，动态 GIF，泛黄水墨宣纸质感底纹，手绘水墨写意风格，一支饱蘸浓墨的毛笔自左向右极速扫过划出一条起伏有力的墨迹时间线，墨迹划过之处依次如盖章般晕染浮现出四个朝代关键节点的微缩手绘插画：商周青铜司母戊鼎、秦代陶俑战车、盛唐飞天壁画阁楼与大明宝船，节点带有毛笔小楷年代标注，墨韵流动，首尾相接无缝循环",
+          "url": "https://x.com/aiwarts/status/2119435411667980473",
+          "path": "cases/social-ink-history-timeline-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2119050760508125184/vid/avc1/1200x676/a8l4Lb8hmzzgUW_Q.mp4?tag=29",
+        "path": "assets/examples/social-ink-history-timeline-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Ink-wash history timeline",
+          "zh-CN": "水墨历史长卷动态时间轴"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 503919,
+        "sha256": "d2c3502a8be926124bd2cd6c52509cb01e8a5693f30269f746bc8144e690e1b7"
+      },
+      {
+        "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+        "path": "assets/examples/social-ink-history-timeline-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Ink-wash history timeline — derived GIF viewing copy",
+          "zh-CN": "水墨历史长卷动态时间轴——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 1256675,
+        "sha256": "9914a893de08fd0c8db89964a7589bdb2455e1f5acdc09b51128541a789bbc23"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-ink-history-timeline-loop/source.json"
+    }
+  },
+  {
+    "id": "social-treasure-map-route-loop",
+    "status": "published",
+    "title": {
+      "en": "Treasure-map route animation",
+      "zh-CN": "寻宝地图路线动画"
+    },
+    "category": "infographics",
+    "source": {
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "author": "aiwarts",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator introduces this article as their GPT Image 2.6 experiment and pairs each selected workflow with a public instruction and attached demonstration. Creator-reported only; no independent reproduction.",
+        "zh-CN": "作者明确将长文描述为自己的GPT Image 2.6实验，并逐段提供本次收录工作流的指令与对应演示。原文：前两天 GPT-Image-2.6 悄悄上线了。 仅核对作者自报，未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/aiwarts/status/2119435411667980473",
+      "entries": [
+        {
+          "title": {
+            "en": "Source-shared instruction",
+            "zh-CN": "原帖公开指令"
+          },
+          "text": "复古探险寻宝手绘路线图，动态 GIF，泛黄古老牛皮纸羊皮纸地图质感，手绘等高线与山川河流，一条红色的虚线轨迹从左下角出发像活蛇般沿着山谷快速向前蜿蜒穿梭，轨迹前端是一辆可爱的复古小越野车在颠簸狂奔，每到达一个补给站地标，一枚立体红色图钉便伴随微小冲击波咚地一声精准扎在地图上，最终在右上角的大红叉宝藏点画圈点亮，冒险故事感",
+          "url": "https://x.com/aiwarts/status/2119435411667980473",
+          "path": "cases/social-treasure-map-route-loop/prompt.txt"
+        }
+      ],
+      "note": {
+        "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+        "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+      }
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/amplify_video/2119050722574766080/vid/avc1/480x320/tE9VN7kDpPzrpzGN.mp4?tag=29",
+        "path": "assets/examples/social-treasure-map-route-loop/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Treasure-map route animation",
+          "zh-CN": "寻宝地图路线动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Public source attachment with creator credit; no redistribution licence was located. Repository MIT terms do not cover this media.",
+            "zh-CN": "公开来源附件，保留作者署名，未找到转载许可证；仓库MIT协议不覆盖此素材。"
+          }
+        },
+        "mime_type": "video/mp4",
+        "bytes": 252064,
+        "sha256": "84179007ba5c7503b5a8d1b502977387827e11838ada8b659ed8e4960d7012fa"
+      },
+      {
+        "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+        "path": "assets/examples/social-treasure-map-route-loop/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Treasure-map route animation — derived GIF viewing copy",
+          "zh-CN": "寻宝地图路线动画——由原MP4转码的GIF展示副本"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/aiwarts/status/2119435411667980473",
+          "credit": "aiwarts",
+          "note": {
+            "en": "Derived GIF viewing copy made from the archived source MP4. Not an original GIF attachment; source MP4 remains unchanged.",
+            "zh-CN": "由已存档原MP4转码的GIF展示副本，不冒充原始GIF附件；原MP4保持不变。"
+          }
+        },
+        "mime_type": "image/gif",
+        "bytes": 2479476,
+        "sha256": "7ec78b04fc228f937bf5769781c63563359f05a14a79293ee0dff1b13aefe6cc"
+      }
+    ],
+    "notes": {
+      "en": "Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.",
+      "zh-CN": "来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original post and source-shared instructions; attribution remains creator-reported.",
+        "zh-CN": "已读取原帖及公开指令；模型归因为作者自报。"
+      },
+      "media_note": {
+        "en": "All selected public source attachments are archived. Original MP4s and separately labelled derived GIF viewing copies are stored with hashes. Viewer JPEGs use their actual download URLs.",
+        "zh-CN": "本例选定的公开附件均已存档；原MP4与明确标注的GIF转码副本分别保存并记录哈希，查看器JPEG使用实际下载地址。"
+      },
+      "report_path": "cases/social-treasure-map-route-loop/source.json"
+    }
   }
 ]

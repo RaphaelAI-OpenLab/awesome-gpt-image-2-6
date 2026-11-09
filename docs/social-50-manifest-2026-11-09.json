@@ -1,0 +1,723 @@
+[
+  {
+    "index": 1,
+    "source_list_row": 1,
+    "id": "social-blue-hair-chibi-eating-rice-gif",
+    "source_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+    "prompt_paths": [
+      "cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4",
+      "assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif",
+      "assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg"
+    ],
+    "evidence_path": "cases/social-blue-hair-chibi-eating-rice-gif/source.json"
+  },
+  {
+    "index": 2,
+    "source_list_row": 2,
+    "id": "social-chibi-cheongsam-girl-gif",
+    "source_url": "https://x.com/shinshin86/status/2118225428976705908",
+    "prompt_paths": [
+      "cases/social-chibi-cheongsam-girl-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4",
+      "assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif",
+      "assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg"
+    ],
+    "evidence_path": "cases/social-chibi-cheongsam-girl-gif/source.json"
+  },
+  {
+    "index": 3,
+    "source_list_row": 3,
+    "id": "social-dancing-frog-top-hat",
+    "source_url": "https://x.com/princess414141/status/2118144125354877152",
+    "prompt_paths": [
+      "cases/social-dancing-frog-top-hat/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-dancing-frog-top-hat/source-01.mp4",
+      "assets/examples/social-dancing-frog-top-hat/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-dancing-frog-top-hat/source.json"
+  },
+  {
+    "index": 4,
+    "source_list_row": 4,
+    "id": "social-heisei-flip-phone-decomail-gif",
+    "source_url": "https://x.com/rem_rev/status/2118252486360498485",
+    "prompt_paths": [
+      "cases/social-heisei-flip-phone-decomail-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4",
+      "assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-heisei-flip-phone-decomail-gif/source.json"
+  },
+  {
+    "index": 5,
+    "source_list_row": 5,
+    "id": "social-diligent-bee-daily-checkin-gif",
+    "source_url": "https://x.com/MrGafish/status/2118217749680025722",
+    "prompt_paths": [
+      "cases/social-diligent-bee-daily-checkin-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4",
+      "assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-diligent-bee-daily-checkin-gif/source.json"
+  },
+  {
+    "index": 6,
+    "source_list_row": 6,
+    "id": "social-woman-holding-tea-mug",
+    "source_url": "https://x.com/v3rt0x_/status/2118147596891901957",
+    "prompt_paths": [
+      "cases/social-woman-holding-tea-mug/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-woman-holding-tea-mug/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-woman-holding-tea-mug/source.json"
+  },
+  {
+    "index": 7,
+    "source_list_row": 7,
+    "id": "social-90s-film-snapshot-woman",
+    "source_url": "https://x.com/AIwithSarah_/status/2118202866448077182",
+    "prompt_paths": [
+      "cases/social-90s-film-snapshot-woman/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-90s-film-snapshot-woman/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-90s-film-snapshot-woman/source.json"
+  },
+  {
+    "index": 8,
+    "source_list_row": 8,
+    "id": "social-cyan-poetry-wet-portrait",
+    "source_url": "https://x.com/iamsofiaijaz/status/2118561513879507399",
+    "prompt_paths": [
+      "cases/social-cyan-poetry-wet-portrait/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-cyan-poetry-wet-portrait/source.json"
+  },
+  {
+    "index": 9,
+    "source_list_row": 9,
+    "id": "social-perfume-dancer-light-trails",
+    "source_url": "https://x.com/DeepBlueX0/status/2118527529208455403",
+    "prompt_paths": [
+      "cases/social-perfume-dancer-light-trails/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-perfume-dancer-light-trails/source-01.jpg",
+      "assets/examples/social-perfume-dancer-light-trails/source-02.jpg",
+      "assets/examples/social-perfume-dancer-light-trails/source-03.jpg",
+      "assets/examples/social-perfume-dancer-light-trails/source-04.jpg"
+    ],
+    "evidence_path": "cases/social-perfume-dancer-light-trails/source.json"
+  },
+  {
+    "index": 10,
+    "source_list_row": 10,
+    "id": "social-tifa-lockhart-peeling-poster",
+    "source_url": "https://x.com/DeepBlueX0/status/2118602386172465509",
+    "prompt_paths": [
+      "cases/social-tifa-lockhart-peeling-poster/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-tifa-lockhart-peeling-poster/source-01.jpg",
+      "assets/examples/social-tifa-lockhart-peeling-poster/source-02.jpg",
+      "assets/examples/social-tifa-lockhart-peeling-poster/source-03.jpg",
+      "assets/examples/social-tifa-lockhart-peeling-poster/source-04.jpg"
+    ],
+    "evidence_path": "cases/social-tifa-lockhart-peeling-poster/source.json"
+  },
+  {
+    "index": 11,
+    "source_list_row": 11,
+    "id": "social-sleepy-star-eyed-emoji-fusion",
+    "source_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+    "prompt_paths": [
+      "cases/social-sleepy-star-eyed-emoji-fusion/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg",
+      "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg",
+      "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg",
+      "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg"
+    ],
+    "evidence_path": "cases/social-sleepy-star-eyed-emoji-fusion/source.json"
+  },
+  {
+    "index": 12,
+    "source_list_row": 12,
+    "id": "social-portugal-folk-christmas-card",
+    "source_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+    "prompt_paths": [
+      "cases/social-portugal-folk-christmas-card/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-portugal-folk-christmas-card/source-01.jpg",
+      "assets/examples/social-portugal-folk-christmas-card/source-02.jpg"
+    ],
+    "evidence_path": "cases/social-portugal-folk-christmas-card/source.json"
+  },
+  {
+    "index": 13,
+    "source_list_row": 13,
+    "id": "social-moonlit-lake-hanfu-portrait",
+    "source_url": "https://x.com/sandmrk/status/2118269430014599535",
+    "prompt_paths": [
+      "cases/social-moonlit-lake-hanfu-portrait/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-moonlit-lake-hanfu-portrait/source.json"
+  },
+  {
+    "index": 14,
+    "source_list_row": 14,
+    "id": "social-seated-hanfu-woman-lotus-pond",
+    "source_url": "https://x.com/fengnian_ai/status/2118386725676552194",
+    "prompt_paths": [
+      "cases/social-seated-hanfu-woman-lotus-pond/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-seated-hanfu-woman-lotus-pond/source.json"
+  },
+  {
+    "index": 15,
+    "source_list_row": 15,
+    "id": "social-sunset-beach-look-back",
+    "source_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+    "prompt_paths": [
+      "cases/social-sunset-beach-look-back/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-sunset-beach-look-back/source-01.jpg",
+      "assets/examples/social-sunset-beach-look-back/source-02.jpg",
+      "assets/examples/social-sunset-beach-look-back/source-03.jpg",
+      "assets/examples/social-sunset-beach-look-back/source-04.jpg"
+    ],
+    "evidence_path": "cases/social-sunset-beach-look-back/source.json"
+  },
+  {
+    "index": 16,
+    "source_list_row": 16,
+    "id": "social-streetwear-cap-headphones-portrait",
+    "source_url": "https://x.com/johnAGI168/status/2118581030781382805",
+    "prompt_paths": [
+      "cases/social-streetwear-cap-headphones-portrait/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-streetwear-cap-headphones-portrait/source.json"
+  },
+  {
+    "index": 17,
+    "source_list_row": 17,
+    "id": "social-kimono-door-peephole-portrait",
+    "source_url": "https://x.com/kabumira862571/status/2118220107487051883",
+    "prompt_paths": [
+      "cases/social-kimono-door-peephole-portrait/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-kimono-door-peephole-portrait/source-01.jpg",
+      "assets/examples/social-kimono-door-peephole-portrait/source-02.jpg"
+    ],
+    "evidence_path": "cases/social-kimono-door-peephole-portrait/source.json"
+  },
+  {
+    "index": 18,
+    "source_list_row": 18,
+    "id": "social-snowy-yard-wood-chopping",
+    "source_url": "https://x.com/koe_ai414/status/2118153765094351279",
+    "prompt_paths": [
+      "cases/social-snowy-yard-wood-chopping/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-snowy-yard-wood-chopping/source-01.mp4",
+      "assets/examples/social-snowy-yard-wood-chopping/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-snowy-yard-wood-chopping/source.json"
+  },
+  {
+    "index": 19,
+    "source_list_row": 19,
+    "id": "social-pixel-purple-lightning-bolts",
+    "source_url": "https://x.com/YaReYaRu30Life/status/2118167174053597233",
+    "prompt_paths": [
+      "cases/social-pixel-purple-lightning-bolts/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-pixel-purple-lightning-bolts/source-01.mp4",
+      "assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-pixel-purple-lightning-bolts/source.json"
+  },
+  {
+    "index": 20,
+    "source_list_row": 20,
+    "id": "social-robot-pouring-coffee",
+    "source_url": "https://x.com/sousoccer6/status/2118210705585537226",
+    "prompt_paths": [
+      "cases/social-robot-pouring-coffee/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-robot-pouring-coffee/source-01.mp4",
+      "assets/examples/social-robot-pouring-coffee/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-robot-pouring-coffee/source.json"
+  },
+  {
+    "index": 21,
+    "source_list_row": 21,
+    "id": "social-red-character-music-video-gif",
+    "source_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+    "prompt_paths": [
+      "cases/social-red-character-music-video-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-red-character-music-video-gif/source-01.mp4",
+      "assets/examples/social-red-character-music-video-gif/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-red-character-music-video-gif/source.json"
+  },
+  {
+    "index": 22,
+    "source_list_row": 22,
+    "id": "social-sunglasses-cat-dance",
+    "source_url": "https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108",
+    "prompt_paths": [
+      "cases/social-sunglasses-cat-dance/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-sunglasses-cat-dance/source-01.mp4",
+      "assets/examples/social-sunglasses-cat-dance/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-sunglasses-cat-dance/source.json"
+  },
+  {
+    "index": 23,
+    "source_list_row": 23,
+    "id": "social-pelican-riding-bicycle",
+    "source_url": "https://x.com/SSHCodes/status/2118127375481504100",
+    "prompt_paths": [
+      "cases/social-pelican-riding-bicycle/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-pelican-riding-bicycle/source-01.mp4",
+      "assets/examples/social-pelican-riding-bicycle/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-pelican-riding-bicycle/source.json"
+  },
+  {
+    "index": 24,
+    "source_list_row": 24,
+    "id": "social-paper-boat-water-loop",
+    "source_url": "https://x.com/thinkszyg/status/2118166234495947044",
+    "prompt_paths": [
+      "cases/social-paper-boat-water-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-paper-boat-water-loop/source-01.mp4",
+      "assets/examples/social-paper-boat-water-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-paper-boat-water-loop/source.json"
+  },
+  {
+    "index": 25,
+    "source_list_row": 25,
+    "id": "social-osaka-castle-construction",
+    "source_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+    "prompt_paths": [
+      "cases/social-osaka-castle-construction/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-osaka-castle-construction/source-01.mp4",
+      "assets/examples/social-osaka-castle-construction/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-osaka-castle-construction/source.json"
+  },
+  {
+    "index": 26,
+    "source_list_row": 26,
+    "id": "social-character-wave-laugh",
+    "source_url": "https://x.com/okan_aitool/status/2118201578406772887",
+    "prompt_paths": [
+      "cases/social-character-wave-laugh/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-character-wave-laugh/source-01.mp4",
+      "assets/examples/social-character-wave-laugh/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-character-wave-laugh/source.json"
+  },
+  {
+    "index": 27,
+    "source_list_row": 27,
+    "id": "social-pixel-hero-glowing-sword",
+    "source_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+    "prompt_paths": [
+      "cases/social-pixel-hero-glowing-sword/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-pixel-hero-glowing-sword/source-01.mp4",
+      "assets/examples/social-pixel-hero-glowing-sword/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-pixel-hero-glowing-sword/source.json"
+  },
+  {
+    "index": 28,
+    "source_list_row": 28,
+    "id": "social-falling-apple-frame-comparison",
+    "source_url": "https://x.com/rei_aitech/status/2118245102409908571",
+    "prompt_paths": [
+      "cases/social-falling-apple-frame-comparison/prompt-01.txt",
+      "cases/social-falling-apple-frame-comparison/prompt-02.txt",
+      "cases/social-falling-apple-frame-comparison/prompt-03.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-falling-apple-frame-comparison/source-01.mp4",
+      "assets/examples/social-falling-apple-frame-comparison/source-02.mp4",
+      "assets/examples/social-falling-apple-frame-comparison/source-03.mp4",
+      "assets/examples/social-falling-apple-frame-comparison/source-04.jpg",
+      "assets/examples/social-falling-apple-frame-comparison/preview-01.gif",
+      "assets/examples/social-falling-apple-frame-comparison/preview-02.gif",
+      "assets/examples/social-falling-apple-frame-comparison/preview-03.gif"
+    ],
+    "evidence_path": "cases/social-falling-apple-frame-comparison/source.json"
+  },
+  {
+    "index": 29,
+    "source_list_row": 29,
+    "id": "social-keor-elevator-mirror-portrait",
+    "source_url": "https://x.com/tadasgedgaudas/status/2118284291381875124",
+    "prompt_paths": [
+      "cases/social-keor-elevator-mirror-portrait/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-keor-elevator-mirror-portrait/source.json"
+  },
+  {
+    "index": 30,
+    "source_list_row": 30,
+    "id": "social-line-dog-heart-loop",
+    "source_url": "https://x.com/CalosLaw/status/2118199125707547102",
+    "prompt_paths": [
+      "cases/social-line-dog-heart-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-line-dog-heart-loop/source-01.mp4",
+      "assets/examples/social-line-dog-heart-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-line-dog-heart-loop/source.json"
+  },
+  {
+    "index": 31,
+    "source_list_row": 31,
+    "id": "social-standing-backflip-complexity",
+    "source_url": "https://x.com/gabrielchua/status/2118135343354720648",
+    "prompt_paths": [
+      "cases/social-standing-backflip-complexity/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-standing-backflip-complexity/source-01.mp4",
+      "assets/examples/social-standing-backflip-complexity/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-standing-backflip-complexity/source.json"
+  },
+  {
+    "index": 32,
+    "source_list_row": 32,
+    "id": "social-anime-floating-orb-control",
+    "source_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+    "prompt_paths": [
+      "cases/social-anime-floating-orb-control/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-anime-floating-orb-control/source-01.mp4",
+      "assets/references/social-anime-floating-orb-control/source-02.jpg",
+      "assets/examples/social-anime-floating-orb-control/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-anime-floating-orb-control/source.json"
+  },
+  {
+    "index": 33,
+    "source_list_row": 33,
+    "id": "social-japanese-office-short-prompts",
+    "source_url": "https://x.com/buusk4/status/2118543259257712714",
+    "prompt_paths": [
+      "cases/social-japanese-office-short-prompts/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-japanese-office-short-prompts/source-01.jpg",
+      "assets/examples/social-japanese-office-short-prompts/source-02.jpg",
+      "assets/examples/social-japanese-office-short-prompts/source-03.jpg",
+      "assets/examples/social-japanese-office-short-prompts/source-04.jpg"
+    ],
+    "evidence_path": "cases/social-japanese-office-short-prompts/source.json"
+  },
+  {
+    "index": 34,
+    "source_list_row": 34,
+    "id": "social-golden-gate-gouache-loop",
+    "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+    "prompt_paths": [
+      "cases/social-golden-gate-gouache-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-golden-gate-gouache-loop/source-01.mp4",
+      "assets/examples/social-golden-gate-gouache-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-golden-gate-gouache-loop/source.json"
+  },
+  {
+    "index": 35,
+    "source_list_row": 34,
+    "id": "social-colosseum-gouache-loop",
+    "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+    "prompt_paths": [
+      "cases/social-colosseum-gouache-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-colosseum-gouache-loop/source-01.mp4",
+      "assets/examples/social-colosseum-gouache-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-colosseum-gouache-loop/source.json"
+  },
+  {
+    "index": 36,
+    "source_list_row": 34,
+    "id": "social-fuji-gouache-loop",
+    "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+    "prompt_paths": [
+      "cases/social-fuji-gouache-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-fuji-gouache-loop/source-01.mp4",
+      "assets/examples/social-fuji-gouache-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-fuji-gouache-loop/source.json"
+  },
+  {
+    "index": 37,
+    "source_list_row": 35,
+    "id": "social-dwarf-360-turntable",
+    "source_url": "https://x.com/xikhar/status/2118407355859878352",
+    "prompt_paths": [
+      "cases/social-dwarf-360-turntable/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-dwarf-360-turntable/source-01.mp4",
+      "assets/examples/social-dwarf-360-turntable/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-dwarf-360-turntable/source.json"
+  },
+  {
+    "index": 38,
+    "source_list_row": 35,
+    "id": "social-sword-360-turntable",
+    "source_url": "https://x.com/xikhar/status/2118407355859878352",
+    "prompt_paths": [
+      "cases/social-sword-360-turntable/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-sword-360-turntable/source-01.mp4",
+      "assets/examples/social-sword-360-turntable/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-sword-360-turntable/source.json"
+  },
+  {
+    "index": 39,
+    "source_list_row": 35,
+    "id": "social-motorbike-360-turntable",
+    "source_url": "https://x.com/xikhar/status/2118407355859878352",
+    "prompt_paths": [
+      "cases/social-motorbike-360-turntable/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-motorbike-360-turntable/source-01.mp4",
+      "assets/examples/social-motorbike-360-turntable/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-motorbike-360-turntable/source.json"
+  },
+  {
+    "index": 40,
+    "source_list_row": 35,
+    "id": "social-cat-spinning-gif",
+    "source_url": "https://x.com/xikhar/status/2118407355859878352",
+    "prompt_paths": [
+      "cases/social-cat-spinning-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-cat-spinning-gif/source-01.mp4",
+      "assets/examples/social-cat-spinning-gif/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-cat-spinning-gif/source.json"
+  },
+  {
+    "index": 41,
+    "source_list_row": 36,
+    "id": "social-gray-blender-hallway-draft",
+    "source_url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+    "prompt_paths": [
+      "cases/social-gray-blender-hallway-draft/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-gray-blender-hallway-draft/source-01.mp4",
+      "assets/examples/social-gray-blender-hallway-draft/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-gray-blender-hallway-draft/source.json"
+  },
+  {
+    "index": 42,
+    "source_list_row": 37,
+    "id": "social-summer-garden-water-gun",
+    "source_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+    "prompt_paths": [
+      "cases/social-summer-garden-water-gun/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/references/social-summer-garden-water-gun/source-01.jpg",
+      "assets/examples/social-summer-garden-water-gun/source-02.mp4",
+      "assets/examples/social-summer-garden-water-gun/source-03.mp4",
+      "assets/examples/social-summer-garden-water-gun/preview-02.gif",
+      "assets/examples/social-summer-garden-water-gun/preview-03.gif"
+    ],
+    "evidence_path": "cases/social-summer-garden-water-gun/source.json"
+  },
+  {
+    "index": 43,
+    "source_list_row": 38,
+    "id": "social-circle-markup-santa-gift-edit",
+    "source_url": "https://x.com/IHayato/status/2118151619212890291",
+    "prompt_paths": [
+      "cases/social-circle-markup-santa-gift-edit/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg"
+    ],
+    "evidence_path": "cases/social-circle-markup-santa-gift-edit/source.json"
+  },
+  {
+    "index": 44,
+    "source_list_row": 39,
+    "id": "social-basketball-storyboard-to-gif",
+    "source_url": "https://x.com/crayon1267/status/2118186300339892472",
+    "prompt_paths": [
+      "cases/social-basketball-storyboard-to-gif/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-basketball-storyboard-to-gif/source-01.mp4",
+      "assets/references/social-basketball-storyboard-to-gif/source-02.jpg",
+      "assets/examples/social-basketball-storyboard-to-gif/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-basketball-storyboard-to-gif/source.json"
+  },
+  {
+    "index": 45,
+    "source_list_row": 40,
+    "id": "social-orange-office-cat-expression-grid",
+    "source_url": "https://x.com/karanwithai/status/2118156092865994837",
+    "prompt_paths": [
+      "cases/social-orange-office-cat-expression-grid/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-orange-office-cat-expression-grid/source-01.jpg",
+      "assets/examples/social-orange-office-cat-expression-grid/source-02.mp4",
+      "assets/examples/social-orange-office-cat-expression-grid/source-03.mp4",
+      "assets/examples/social-orange-office-cat-expression-grid/source-04.mp4",
+      "assets/examples/social-orange-office-cat-expression-grid/preview-02.gif",
+      "assets/examples/social-orange-office-cat-expression-grid/preview-03.gif",
+      "assets/examples/social-orange-office-cat-expression-grid/preview-04.gif"
+    ],
+    "evidence_path": "cases/social-orange-office-cat-expression-grid/source.json"
+  },
+  {
+    "index": 46,
+    "source_list_row": 41,
+    "id": "social-revenue-chart-loop",
+    "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+    "prompt_paths": [
+      "cases/social-revenue-chart-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-revenue-chart-loop/source-01.mp4",
+      "assets/examples/social-revenue-chart-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-revenue-chart-loop/source.json"
+  },
+  {
+    "index": 47,
+    "source_list_row": 41,
+    "id": "social-web-summary-interaction-loop",
+    "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+    "prompt_paths": [
+      "cases/social-web-summary-interaction-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-web-summary-interaction-loop/source-01.mp4",
+      "assets/examples/social-web-summary-interaction-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-web-summary-interaction-loop/source.json"
+  },
+  {
+    "index": 48,
+    "source_list_row": 41,
+    "id": "social-camera-exploded-loop",
+    "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+    "prompt_paths": [
+      "cases/social-camera-exploded-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-camera-exploded-loop/source-01.mp4",
+      "assets/examples/social-camera-exploded-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-camera-exploded-loop/source.json"
+  },
+  {
+    "index": 49,
+    "source_list_row": 41,
+    "id": "social-ink-history-timeline-loop",
+    "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+    "prompt_paths": [
+      "cases/social-ink-history-timeline-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-ink-history-timeline-loop/source-01.mp4",
+      "assets/examples/social-ink-history-timeline-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-ink-history-timeline-loop/source.json"
+  },
+  {
+    "index": 50,
+    "source_list_row": 41,
+    "id": "social-treasure-map-route-loop",
+    "source_url": "https://x.com/aiwarts/status/2119435411667980473",
+    "prompt_paths": [
+      "cases/social-treasure-map-route-loop/prompt.txt"
+    ],
+    "media_paths": [
+      "assets/examples/social-treasure-map-route-loop/source-01.mp4",
+      "assets/examples/social-treasure-map-route-loop/preview-01.gif"
+    ],
+    "evidence_path": "cases/social-treasure-map-route-loop/source.json"
+  }
+]

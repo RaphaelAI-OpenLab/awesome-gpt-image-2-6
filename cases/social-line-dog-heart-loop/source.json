@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/CalosLaw/status/2118199125707547102",
+  "author": "CalosLaw",
+  "model": "GPT Image 2.6",
+  "model_evidence": "突发！ChatGPT 刚更新的 Images 2.6 能直接出 GIF 了。",
+  "prompt_source_url": "https://x.com/CalosLaw/status/2118199125707547102",
+  "prompts": [
+    {
+      "path": "cases/social-line-dog-heart-loop/prompt.txt",
+      "sha256": "d0c7cdb993d2f7334d8becc1c488d6353ccfa4faaccd2c8901bfe2afe29f9206"
+    }
+  ],
+  "source_html_sha256": "8c35698d23100cff275bd7662438fb3d67042fd64b84f4c05d4d964749f5d259",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-line-dog-heart-loop/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWVTBQPbIAAcLJb.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWVTBQPbIAAcLJb.mp4",
+      "sha256": "101d15df672becf332c7dc28eac9ad04ffe38c9a8e901be4ad07771243a3788f",
+      "bytes": 25930,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-line-dog-heart-loop/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWVTBQPbIAAcLJb.mp4",
+      "sha256": "a74a7d233fce762049b38f4167f5a628b7c81bee72f2e22c5068d7dc5aab2ce1",
+      "bytes": 327501,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-line-dog-heart-loop/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

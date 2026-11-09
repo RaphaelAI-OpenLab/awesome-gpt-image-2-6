@@ -53,12 +53,12 @@ PLACEHOLDER · Related collection / campaign link: to be added.
 | --- | ---: | ---: |
 | [Brand & product visuals](#category-brand-products) | 8 | 7 |
 | [Posters & typography](#category-posters-typography) | 9 | 7 |
-| [Infographics](#category-infographics) | 3 | 3 |
+| [Infographics](#category-infographics) | 8 | 8 |
 | [Interiors & architecture](#category-interiors-architecture) | 3 | 2 |
-| [Characters & consistency](#category-characters-consistency) | 22 | 19 |
-| [Markup & targeted edits](#category-markup-edits) | 10 | 9 |
+| [Characters & consistency](#category-characters-consistency) | 26 | 23 |
+| [Markup & targeted edits](#category-markup-edits) | 11 | 10 |
 | [SVG & design assets](#category-svg-design-assets) | 4 | 3 |
-| [GIF & animation](#category-gif-animation) | 64 | 54 |
+| [GIF & animation](#category-gif-animation) | 89 | 81 |
 
 <a id="contents"></a>
 
@@ -90,12 +90,12 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | Metric | Count / date |
 | --- | ---: |
-| Source-linked cases | **123** |
+| Source-linked cases | **158** |
 | Official examples | **37** |
-| Creator-reported examples | **86** |
-| Original prompts available at source | **97** |
-| Full prompts published here | **104** |
-| Locally archived media files | **211** |
+| Creator-reported examples | **121** |
+| Original prompts available at source | **132** |
+| Full prompts published here | **141** |
+| Locally archived media files | **295** |
 | Last source check (UTC) | **2026-11-09** |
 
 Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.
@@ -125,12 +125,12 @@ Video previews are still frames; open the linked file for motion. Reference imag
 
 | Added | Case | Evidence |
 | --- | --- | --- |
-| 2026-11-09 | [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back) | Creator-reported model |
-| 2026-11-09 | [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond) | Creator-reported model |
-| 2026-11-09 | [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait) | Creator-reported model |
-| 2026-11-09 | [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card) | Creator-reported model |
-| 2026-11-09 | [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion) | Creator-reported model |
-| 2026-11-09 | [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster) | Creator-reported model |
+| 2026-11-09 | [Treasure-map route animation](#source-case-social-treasure-map-route-loop) | Creator-reported model |
+| 2026-11-09 | [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop) | Creator-reported model |
+| 2026-11-09 | [Camera exploded-view animation](#source-case-social-camera-exploded-loop) | Creator-reported model |
+| 2026-11-09 | [Web summary interaction animation](#source-case-social-web-summary-interaction-loop) | Creator-reported model |
+| 2026-11-09 | [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop) | Creator-reported model |
+| 2026-11-09 | [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid) | Creator-reported model |
 
 <a id="all-cases"></a>
 
@@ -799,13 +799,159 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 ---
 
+<a id="source-case-social-revenue-chart-loop"></a>
+
+#### 21. Quarterly revenue chart animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-revenue-chart-loop/source-01.mp4"><img src="assets/readme-previews/social-revenue-chart-loop/source-01.jpg" alt="Quarterly revenue chart animation" width="360" /><br />Video preview · open video</a><br /><sub>Quarterly revenue chart animation</sub></td>
+<td align="center"><a href="assets/examples/social-revenue-chart-loop/preview-01.gif"><img src="assets/examples/social-revenue-chart-loop/preview-01.gif" alt="Quarterly revenue chart animation — derived GIF viewing copy" width="360" /></a><br /><sub>Quarterly revenue chart animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+文生 GIF 动图，16:9，用于业绩汇报。清爽的二维扁平矢量信息图风格：暖白色背景、轻微纸张质感、大量留白，深海军蓝细线与明亮蓝色为主，珊瑚橙只用于强调增长。画面中央是一张大幅上升折线图，展示季度营收：Q1 120 万、Q2 168 万、Q3 215 万、Q4 306 万。
+动画开始时，浅灰色网格和坐标轴轻轻浮现；蓝色折线从 Q1 向 Q4 快速但顺滑地绘制，线下方出现半透明蓝色渐变填充。每到一个数据节点，圆点弹跳一下，对应的数值卡片弹出；线条经过时留下一小段发光轨迹。到达 Q4 时，终点出现珊瑚橙色上升箭头和“增长 155%”卡片，周围有少量星形闪光与圆环扩散。随后高亮、卡片和填充平滑收回，回到初始画面，形成首尾一致的 4 秒无缝循环 GIF。图表位置始终固定，动效有节奏感但不杂乱。不要人物、实拍质感、3D 效果、镜头运动或声音。
+```
+
+[Original prompt (.txt)](cases/social-revenue-chart-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/aiwarts/status/2119435411667980473)
+
+**Author**: [aiwarts](https://x.com/aiwarts)
+
+**Original source**: [Creator-reported model](https://x.com/aiwarts/status/2119435411667980473) · [Source details](cases/social-revenue-chart-loop/README.md)
+
+---
+
+<a id="source-case-social-web-summary-interaction-loop"></a>
+
+#### 22. Web summary interaction animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-web-summary-interaction-loop/source-01.mp4"><img src="assets/readme-previews/social-web-summary-interaction-loop/source-01.jpg" alt="Web summary interaction animation" width="360" /><br />Video preview · open video</a><br /><sub>Web summary interaction animation</sub></td>
+<td align="center"><a href="assets/examples/social-web-summary-interaction-loop/preview-01.gif"><img src="assets/examples/social-web-summary-interaction-loop/preview-01.gif" alt="Web summary interaction animation — derived GIF viewing copy" width="360" /></a><br /><sub>Web summary interaction animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+制作一段 3 秒、可无缝循环的网页产品演示动图。鼠标点击文章右上角的“生成摘要”按钮，按钮短暂显示加载状态，右侧随即展开简洁的摘要卡片。镜头固定，保留真实界面布局，让点击和结果清晰可见；动画轻快、克制，不添加其他操作或虚构文案。
+```
+
+[Original prompt (.txt)](cases/social-web-summary-interaction-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/aiwarts/status/2119435411667980473)
+
+**Author**: [aiwarts](https://x.com/aiwarts)
+
+**Original source**: [Creator-reported model](https://x.com/aiwarts/status/2119435411667980473) · [Source details](cases/social-web-summary-interaction-loop/README.md)
+
+---
+
+<a id="source-case-social-camera-exploded-loop"></a>
+
+#### 23. Camera exploded-view animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-camera-exploded-loop/source-01.mp4"><img src="assets/readme-previews/social-camera-exploded-loop/source-01.jpg" alt="Camera exploded-view animation" width="360" /><br />Video preview · open video</a><br /><sub>Camera exploded-view animation</sub></td>
+<td align="center"><a href="assets/examples/social-camera-exploded-loop/preview-01.gif"><img src="assets/examples/social-camera-exploded-loop/preview-01.gif" alt="Camera exploded-view animation — derived GIF viewing copy" width="360" /></a><br /><sub>Camera exploded-view animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+等轴测 2.5D 爆炸拆解视图，一台经典的单反相机。拆成金属机身外壳、镜头零件、等等拆件的爆炸镜头，生成从完整相机到拆件的无缝循环 GIF 动图。
+```
+
+[Original prompt (.txt)](cases/social-camera-exploded-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/aiwarts/status/2119435411667980473)
+
+**Author**: [aiwarts](https://x.com/aiwarts)
+
+**Original source**: [Creator-reported model](https://x.com/aiwarts/status/2119435411667980473) · [Source details](cases/social-camera-exploded-loop/README.md)
+
+---
+
+<a id="source-case-social-ink-history-timeline-loop"></a>
+
+#### 24. Ink-wash history timeline
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-ink-history-timeline-loop/source-01.mp4"><img src="assets/readme-previews/social-ink-history-timeline-loop/source-01.jpg" alt="Ink-wash history timeline" width="360" /><br />Video preview · open video</a><br /><sub>Ink-wash history timeline</sub></td>
+<td align="center"><a href="assets/examples/social-ink-history-timeline-loop/preview-01.gif"><img src="assets/examples/social-ink-history-timeline-loop/preview-01.gif" alt="Ink-wash history timeline — derived GIF viewing copy" width="360" /></a><br /><sub>Ink-wash history timeline — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+历史科普长卷动态时间轴，动态 GIF，泛黄水墨宣纸质感底纹，手绘水墨写意风格，一支饱蘸浓墨的毛笔自左向右极速扫过划出一条起伏有力的墨迹时间线，墨迹划过之处依次如盖章般晕染浮现出四个朝代关键节点的微缩手绘插画：商周青铜司母戊鼎、秦代陶俑战车、盛唐飞天壁画阁楼与大明宝船，节点带有毛笔小楷年代标注，墨韵流动，首尾相接无缝循环
+```
+
+[Original prompt (.txt)](cases/social-ink-history-timeline-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/aiwarts/status/2119435411667980473)
+
+**Author**: [aiwarts](https://x.com/aiwarts)
+
+**Original source**: [Creator-reported model](https://x.com/aiwarts/status/2119435411667980473) · [Source details](cases/social-ink-history-timeline-loop/README.md)
+
+---
+
+<a id="source-case-social-treasure-map-route-loop"></a>
+
+#### 25. Treasure-map route animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-treasure-map-route-loop/source-01.mp4"><img src="assets/readme-previews/social-treasure-map-route-loop/source-01.jpg" alt="Treasure-map route animation" width="360" /><br />Video preview · open video</a><br /><sub>Treasure-map route animation</sub></td>
+<td align="center"><a href="assets/examples/social-treasure-map-route-loop/preview-01.gif"><img src="assets/examples/social-treasure-map-route-loop/preview-01.gif" alt="Treasure-map route animation — derived GIF viewing copy" width="360" /></a><br /><sub>Treasure-map route animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+复古探险寻宝手绘路线图，动态 GIF，泛黄古老牛皮纸羊皮纸地图质感，手绘等高线与山川河流，一条红色的虚线轨迹从左下角出发像活蛇般沿着山谷快速向前蜿蜒穿梭，轨迹前端是一辆可爱的复古小越野车在颠簸狂奔，每到达一个补给站地标，一枚立体红色图钉便伴随微小冲击波咚地一声精准扎在地图上，最终在右上角的大红叉宝藏点画圈点亮，冒险故事感
+```
+
+[Original prompt (.txt)](cases/social-treasure-map-route-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/aiwarts/status/2119435411667980473)
+
+**Author**: [aiwarts](https://x.com/aiwarts)
+
+**Original source**: [Creator-reported model](https://x.com/aiwarts/status/2119435411667980473) · [Source details](cases/social-treasure-map-route-loop/README.md)
+
+---
+
 <a id="category-interiors-architecture"></a>
 
 ### Interiors & architecture
 
 <a id="source-case-docs-room-chairs"></a>
 
-#### 21. Replace chairs in an interior
+#### 26. Replace chairs in an interior
 
 <table>
 <tr>
@@ -842,7 +988,7 @@ Photorealistic contact shadows and fabric texture.
 
 <a id="source-case-launch-fal"></a>
 
-#### 22. Living-room markup edit
+#### 27. Living-room markup edit
 
 <table>
 <tr>
@@ -875,7 +1021,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-community-sunburst-dust-detail"></a>
 
-#### 23. Dusty warehouse prompt-detail comparison
+#### 28. Dusty warehouse prompt-detail comparison
 
 <table>
 <tr>
@@ -899,7 +1045,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-docs-complexity"></a>
 
-#### 24. Paper-cut championship scene: complexity comparison
+#### 29. Paper-cut championship scene: complexity comparison
 
 <table>
 <tr>
@@ -927,7 +1073,7 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 <a id="source-case-docs-sailor"></a>
 
-#### 25. Realistic fishing-boat sailor portrait
+#### 30. Realistic fishing-boat sailor portrait
 
 <table>
 <tr>
@@ -956,7 +1102,7 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 <a id="source-case-docs-historical-crowd"></a>
 
-#### 26. 1969 historical crowd scene
+#### 31. 1969 historical crowd scene
 
 <table>
 <tr>
@@ -982,7 +1128,7 @@ Photorealistic, period-accurate clothing, staging, and environment.
 
 <a id="source-case-docs-pet-comic"></a>
 
-#### 27. Four-panel pet comic
+#### 32. Four-panel pet comic
 
 <table>
 <tr>
@@ -1011,7 +1157,7 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 
 <a id="source-case-docs-outfit"></a>
 
-#### 28. Change clothing while preserving identity
+#### 33. Change clothing while preserving identity
 
 <table>
 <tr>
@@ -1048,7 +1194,7 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 <a id="source-case-docs-person-scene"></a>
 
-#### 29. Place a person into a camping escape scene
+#### 34. Place a person into a camping escape scene
 
 <table>
 <tr>
@@ -1075,7 +1221,7 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 
 <a id="source-case-docs-character-start"></a>
 
-#### 30. Establish a storybook character
+#### 35. Establish a storybook character
 
 <table>
 <tr>
@@ -1120,7 +1266,7 @@ Constraints:
 
 <a id="source-case-docs-character-story"></a>
 
-#### 31. Continue the same character’s story
+#### 36. Continue the same character’s story
 
 <table>
 <tr>
@@ -1165,7 +1311,7 @@ Constraints:
 
 <a id="source-case-launch-picsart"></a>
 
-#### 32. Stained-glass whale
+#### 37. Stained-glass whale
 
 <table>
 <tr>
@@ -1185,7 +1331,7 @@ Constraints:
 
 <a id="source-case-launch-higgsfield"></a>
 
-#### 33. Knight scene and clothing edit sequence
+#### 38. Knight scene and clothing edit sequence
 
 <table>
 <tr>
@@ -1235,7 +1381,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-reference-photo-board"></a>
 
-#### 34. Reference-led courtyard photo board
+#### 39. Reference-led courtyard photo board
 
 <table>
 <tr>
@@ -1255,7 +1401,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
 
-#### 35. Sunburst courtyard comparison
+#### 40. Sunburst courtyard comparison
 
 <table>
 <tr>
@@ -1275,7 +1421,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-mushroom-fashion-portrait"></a>
 
-#### 36. Mushroom-lit fashion portrait
+#### 41. Mushroom-lit fashion portrait
 
 <table>
 <tr>
@@ -1304,7 +1450,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
 
-#### 37. Sunburst six-style sample gallery
+#### 42. Sunburst six-style sample gallery
 
 <table>
 <tr>
@@ -1324,7 +1470,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
 
-#### 38. Sunburst calico cat by a window
+#### 43. Sunburst calico cat by a window
 
 <table>
 <tr>
@@ -1344,7 +1490,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-social-woman-holding-tea-mug"></a>
 
-#### 39. Woman holding floral tea mug indoors
+#### 44. Woman holding floral tea mug indoors
 
 <table>
 <tr>
@@ -1370,7 +1516,7 @@ a realistic photo of a woman holding a cup of tea inside her home
 
 <a id="source-case-social-90s-film-snapshot-woman"></a>
 
-#### 40. Woman in light blue sweatshirt before polaroid wall
+#### 45. Woman in light blue sweatshirt before polaroid wall
 
 <table>
 <tr>
@@ -1396,7 +1542,7 @@ A young woman with the same unchanged face and soft natural complexion, captured
 
 <a id="source-case-social-cyan-poetry-wet-portrait"></a>
 
-#### 41. Glowing cyan poetry and equations on wet skin
+#### 46. Glowing cyan poetry and equations on wet skin
 
 <table>
 <tr>
@@ -1422,7 +1568,7 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 
 <a id="source-case-social-sleepy-star-eyed-emoji-fusion"></a>
 
-#### 42. Emoji and kaomoji fusion posters
+#### 47. Emoji and kaomoji fusion posters
 
 <table>
 <tr>
@@ -1479,7 +1625,7 @@ iOS 系統Emoji × 顏文字× 全新表情設計
 
 <a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
 
-#### 43. Woman seated in moonlit lake water
+#### 48. Woman seated in moonlit lake water
 
 <table>
 <tr>
@@ -1527,7 +1673,7 @@ Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montse
 
 <a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
 
-#### 44. Seated hanfu woman by lotus pond at sunset
+#### 49. Seated hanfu woman by lotus pond at sunset
 
 <table>
 <tr>
@@ -1553,7 +1699,7 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 <a id="source-case-social-sunset-beach-look-back"></a>
 
-#### 45. Woman turning back on sunset beach
+#### 50. Woman turning back on sunset beach
 
 <table>
 <tr>
@@ -1589,13 +1735,146 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 ---
 
+<a id="source-case-social-streetwear-cap-headphones-portrait"></a>
+
+#### 51. Sunlit streetwear portrait with cap and headphones
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg"><img src="assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg" alt="Sunlit streetwear portrait with cap and headphones" width="700" /></a><br /><sub>Sunlit streetwear portrait with cap and headphones</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+A cinematic 35mm street-snap photograph captured at eye level — a three-quarter medium portrait of a cool, stylish young East Asian woman on a sunlit urban sidewalk, turning in profile toward camera-left.
+
+She possesses top-tier model beauty with sharp facial features, defined cheekbones, amber-tinted eyes, and dark hair falling from beneath a clean white baseball cap as her right hand lifts the brim. She wears retro green metallic over-ear wired headphones, a silver dog-tag necklace, and a fitted white cropped tank top displaying athletic toned abs. An oversized light-wash blue denim trucker jacket drapes loosely off her shoulders, paired with low-rise baggy jeans and a black belt, her left hand casually tucked into her pocket.
+
+The setting is a vibrant metropolitan avenue in bright daylight. Natural afternoon sun creates soft rim lighting along her hair strands and denim fabric, with the bustling street and modern architecture softly blurred into natural depth of field behind her.
+
+Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organic film grain in an M1 street narrative register. Real human skin with visible fine pores, subtle natural warmth, and authentic heavy cotton denim weave — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
+```
+
+[Original prompt (.txt)](cases/social-streetwear-cap-headphones-portrait/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/johnAGI168/status/2118581030781382805)
+
+**Author**: [johnAGI168](https://x.com/johnAGI168)
+
+**Original source**: [Creator-reported model](https://x.com/johnAGI168/status/2118581030781382805) · [Source details](cases/social-streetwear-cap-headphones-portrait/README.md)
+
+---
+
+<a id="source-case-social-kimono-door-peephole-portrait"></a>
+
+#### 52. Kimono portrait through a door peephole
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-kimono-door-peephole-portrait/source-01.jpg"><img src="assets/examples/social-kimono-door-peephole-portrait/source-01.jpg" alt="Kimono portrait through a door peephole" width="360" /></a><br /><sub>Kimono portrait through a door peephole</sub></td>
+<td align="center"><a href="assets/examples/social-kimono-door-peephole-portrait/source-02.jpg"><img src="assets/examples/social-kimono-door-peephole-portrait/source-02.jpg" alt="Kimono portrait through a door peephole" width="360" /></a><br /><sub>Kimono portrait through a door peephole</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+玄関先でこちらを見るキャラ。
+[＊＊＊]
+キャラは、アップロード画像を参照。
+顔・髪型・服装まで忠実に再現。
+晴れた住宅街、自然光。
+アスペクト比縦4:5。
+```
+
+[Original prompt (.txt)](cases/social-kimono-door-peephole-portrait/prompt.txt)
+
+Original prompt wording is preserved. The source offers two placeholder choices; inputs are not independently reconstructed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/kabumira862571/status/2118220107487051883)
+
+**Author**: [kabumira862571](https://x.com/kabumira862571)
+
+**Original source**: [Creator-reported model](https://x.com/kabumira862571/status/2118220107487051883) · [Source details](cases/social-kimono-door-peephole-portrait/README.md)
+
+---
+
+<a id="source-case-social-keor-elevator-mirror-portrait"></a>
+
+#### 53. Keor outfit portrait in a mirrored elevator
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg"><img src="assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg" alt="Keor outfit portrait in a mirrored elevator" width="700" /></a><br /><sub>Keor outfit portrait in a mirrored elevator</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+{"subject": {"description": "A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure.", "pose": "Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror.", "clothing": {"main": "Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace.", "modifications": "Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible."}}, "setting": {"environment": "Modern elevator interior with mirrored walls, metal panels, and a digital display.", "lighting": "Bright indoor elevator lighting creating reflections on the metal and mirrors."}, "style": {"photography": "Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections.", "mood": "Edgy, confident, and stylish.", "composition": "Medium full-body shot capturing the subject and her mirror reflection."}, "full_prompt": "Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures."}
+```
+
+[Original prompt (.txt)](cases/social-keor-elevator-mirror-portrait/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/tadasgedgaudas/status/2118284291381875124)
+
+**Author**: [tadasgedgaudas](https://x.com/tadasgedgaudas)
+
+**Original source**: [Creator-reported model](https://x.com/tadasgedgaudas/status/2118284291381875124) · [Source details](cases/social-keor-elevator-mirror-portrait/README.md)
+
+---
+
+<a id="source-case-social-japanese-office-short-prompts"></a>
+
+#### 54. Japanese office snapshots with short prompts
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-01.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-01.jpg" alt="Japanese office snapshots with short prompts" width="360" /></a><br /><sub>Japanese office snapshots with short prompts</sub></td>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-02.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-02.jpg" alt="Japanese office snapshots with short prompts" width="360" /></a><br /><sub>Japanese office snapshots with short prompts</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-03.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-03.jpg" alt="Japanese office snapshots with short prompts" width="360" /></a><br /><sub>Japanese office snapshots with short prompts</sub></td>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-04.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-04.jpg" alt="Japanese office snapshots with short prompts" width="360" /></a><br /><sub>Japanese office snapshots with short prompts</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+1,2枚目:縦長9:16の超写実的な実写写真。
+成人日本人女性。日本の一般的なオフィス。
+
+3,4枚目:縦長9:16の超写実的な実写写真スマホ画質のスナップショット。
+成人日本人女性。日本の一般的なオフィス。
+```
+
+[Original prompt (.txt)](cases/social-japanese-office-short-prompts/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/buusk4/status/2118543259257712714)
+
+**Author**: [buusk4](https://x.com/buusk4)
+
+**Original source**: [Creator-reported model](https://x.com/buusk4/status/2118543259257712714) · [Source details](cases/social-japanese-office-short-prompts/README.md)
+
+---
+
 <a id="category-markup-edits"></a>
 
 ### Markup & targeted edits
 
 <a id="source-case-docs-vase-markup"></a>
 
-#### 46. Recolor a marked vase
+#### 55. Recolor a marked vase
 
 <table>
 <tr>
@@ -1629,7 +1908,7 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="source-case-docs-spanish-edit"></a>
 
-#### 47. Translate an infographic into Spanish
+#### 56. Translate an infographic into Spanish
 
 <table>
 <tr>
@@ -1654,7 +1933,7 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 
 <a id="source-case-docs-pixel-style"></a>
 
-#### 48. Transfer a pixel-art style
+#### 57. Transfer a pixel-art style
 
 <table>
 <tr>
@@ -1688,7 +1967,7 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 <a id="source-case-docs-dog-composite"></a>
 
-#### 49. Combine pets across images
+#### 58. Combine pets across images
 
 <table>
 <tr>
@@ -1723,7 +2002,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="source-case-docs-sketch-render"></a>
 
-#### 50. Turn a sketch into a realistic scene
+#### 59. Turn a sketch into a realistic scene
 
 <table>
 <tr>
@@ -1760,7 +2039,7 @@ Do not add new elements or text.
 
 <a id="source-case-docs-remove-flower"></a>
 
-#### 51. Remove a held flower
+#### 60. Remove a held flower
 
 <table>
 <tr>
@@ -1794,7 +2073,7 @@ Remove the flower from man's hand. Do not change anything else.
 
 <a id="source-case-docs-snow-edit"></a>
 
-#### 52. Change the billboard scene to a snowy night
+#### 61. Change the billboard scene to a snowy night
 
 <table>
 <tr>
@@ -1819,7 +2098,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
 
-#### 53. Rabbit storybook day-to-dusk edit
+#### 62. Rabbit storybook day-to-dusk edit
 
 <table>
 <tr>
@@ -1839,7 +2118,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-nyle-webinar-date-edit"></a>
 
-#### 54. Webinar date replacement comparison
+#### 63. Webinar date replacement comparison
 
 <table>
 <tr>
@@ -1865,7 +2144,7 @@ Transcribed from the instruction printed in the archived source comparison image
 
 <a id="source-case-social-portugal-folk-christmas-card"></a>
 
-#### 55. Photo-to-folk-art Christmas greeting cards
+#### 64. Photo-to-folk-art Christmas greeting cards
 
 <table>
 <tr>
@@ -1924,13 +2203,41 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 ---
 
+<a id="source-case-social-circle-markup-santa-gift-edit"></a>
+
+#### 65. Circle markup edit adding Santa hat and gift
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg"><img src="assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg" alt="Circle markup edit adding Santa hat and gift" width="700" /></a><br /><sub>Circle markup edit adding Santa hat and gift</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+赤丸にサンタ帽、青丸の本はプレゼントに
+```
+
+[Original prompt (.txt)](cases/social-circle-markup-santa-gift-edit/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/IHayato/status/2118151619212890291)
+
+**Author**: [IHayato](https://x.com/IHayato)
+
+**Original source**: [Creator-reported model](https://x.com/IHayato/status/2118151619212890291) · [Source details](cases/social-circle-markup-santa-gift-edit/README.md)
+
+---
+
 <a id="category-svg-design-assets"></a>
 
 ### SVG & design assets
 
 <a id="source-case-docs-bakery-svg"></a>
 
-#### 56. Bakery SVG logo
+#### 66. Bakery SVG logo
 
 <table>
 <tr>
@@ -1958,7 +2265,7 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 <a id="source-case-docs-market-ui"></a>
 
-#### 57. Farmers market mobile interface
+#### 67. Farmers market mobile interface
 
 <table>
 <tr>
@@ -1987,7 +2294,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-bear-svg-comparison"></a>
 
-#### 58. Bear mascot: SVG versus PNG previews
+#### 68. Bear mascot: SVG versus PNG previews
 
 <table>
 <tr>
@@ -2008,7 +2315,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-struggle-code-lightning-svg"></a>
 
-#### 59. Code Lightning vector logo
+#### 69. Code Lightning vector logo
 
 <table>
 <tr>
@@ -2036,7 +2343,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-docs-lantern-gif"></a>
 
-#### 60. Lantern-carrying monkey loop
+#### 70. Lantern-carrying monkey loop
 
 <table>
 <tr>
@@ -2060,7 +2367,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 <a id="source-case-launch-openart-down"></a>
 
-#### 61. Office character: falling stock GIF
+#### 71. Office character: falling stock GIF
 
 <table>
 <tr>
@@ -2086,7 +2393,7 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 <a id="source-case-launch-openart-up"></a>
 
-#### 62. Office character: rising stock GIF
+#### 72. Office character: rising stock GIF
 
 <table>
 <tr>
@@ -2112,7 +2419,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-owl"></a>
 
-#### 63. Owl sketch to animation
+#### 73. Owl sketch to animation
 
 <table>
 <tr>
@@ -2141,7 +2448,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-launch-town"></a>
 
-#### 64. Monty typing indicator animation
+#### 74. Monty typing indicator animation
 
 <table>
 <tr>
@@ -2161,7 +2468,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-malfoid"></a>
 
-#### 65. Summer character illustration animation
+#### 75. Summer character illustration animation
 
 **Images not yet archived** · [View the work at its original source](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
 
@@ -2177,7 +2484,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-gifts"></a>
 
-#### 66. Images 2.6 brings GIF(T)S :D
+#### 76. Images 2.6 brings GIF(T)S :D
 
 **Images not yet archived** · [View the work at its original source](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
@@ -2193,7 +2500,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-boxing-tiger"></a>
 
-#### 67. Boxing tiger animation
+#### 77. Boxing tiger animation
 
 <table>
 <tr>
@@ -2214,7 +2521,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-hummingbird-variants"></a>
 
-#### 68. Hummingbird and kingfisher animation variants
+#### 78. Hummingbird and kingfisher animation variants
 
 <table>
 <tr>
@@ -2242,7 +2549,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-rosebud-animation"></a>
 
-#### 69. Rosebud animation
+#### 79. Rosebud animation
 
 <table>
 <tr>
@@ -2263,7 +2570,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-ailingqu-jelly-bear-wobble"></a>
 
-#### 70. Jelly bear wobble
+#### 80. Jelly bear wobble
 
 <table>
 <tr>
@@ -2291,7 +2598,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-bunny-reaction-set"></a>
 
-#### 71. White bunny reaction sticker set
+#### 81. White bunny reaction sticker set
 
 <table>
 <tr>
@@ -2341,7 +2648,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
 
-#### 72. Cartoon cat waving hello
+#### 82. Cartoon cat waving hello
 
 <table>
 <tr>
@@ -2369,7 +2676,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-shiba-head-tilt"></a>
 
-#### 73. Confused shiba head tilt
+#### 83. Confused shiba head tilt
 
 <table>
 <tr>
@@ -2397,7 +2704,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
 
-#### 74. Cat typing furiously
+#### 84. Cat typing furiously
 
 <table>
 <tr>
@@ -2425,7 +2732,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-frog-heart-bubble"></a>
 
-#### 75. Frog blowing a heart
+#### 85. Frog blowing a heart
 
 <table>
 <tr>
@@ -2453,7 +2760,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
 
-#### 76. Penguin facepalm
+#### 86. Penguin facepalm
 
 <table>
 <tr>
@@ -2481,7 +2788,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-basketball-shot-sticker"></a>
 
-#### 77. Basketball shot celebration
+#### 87. Basketball shot celebration
 
 <table>
 <tr>
@@ -2509,7 +2816,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
 
-#### 78. Cat chef tossing fried rice
+#### 88. Cat chef tossing fried rice
 
 <table>
 <tr>
@@ -2537,7 +2844,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
 
-#### 79. Black cat punch
+#### 89. Black cat punch
 
 <table>
 <tr>
@@ -2565,7 +2872,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-office-cat-workday-set"></a>
 
-#### 80. Office cat workday reaction set
+#### 90. Office cat workday reaction set
 
 <table>
 <tr>
@@ -2604,7 +2911,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-roaring-duck"></a>
 
-#### 81. Roaring duck
+#### 91. Roaring duck
 
 <table>
 <tr>
@@ -2632,7 +2939,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-flower-macro-flash"></a>
 
-#### 82. Flower macro flash cut
+#### 92. Flower macro flash cut
 
 <table>
 <tr>
@@ -2660,7 +2967,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
 
-#### 83. Cat-head logo brand reel
+#### 93. Cat-head logo brand reel
 
 <table>
 <tr>
@@ -2688,7 +2995,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-sneaker-colorway-flash"></a>
 
-#### 84. Sneaker colorway flash
+#### 94. Sneaker colorway flash
 
 <table>
 <tr>
@@ -2716,7 +3023,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
 
-#### 85. One tree, four seasons
+#### 95. One tree, four seasons
 
 <table>
 <tr>
@@ -2744,7 +3051,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-magazine-panels-pop"></a>
 
-#### 86. Magazine collage panels pop in
+#### 96. Magazine collage panels pop in
 
 <table>
 <tr>
@@ -2772,7 +3079,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
 
-#### 87. Reading by the window, day to night
+#### 97. Reading by the window, day to night
 
 <table>
 <tr>
@@ -2800,7 +3107,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-steaming-coffee"></a>
 
-#### 88. Steaming coffee loop
+#### 98. Steaming coffee loop
 
 <table>
 <tr>
@@ -2828,7 +3135,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-rain-on-window"></a>
 
-#### 89. Rainy window and plant
+#### 99. Rainy window and plant
 
 <table>
 <tr>
@@ -2856,7 +3163,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-goldfish-bowl"></a>
 
-#### 90. Goldfish in a bowl
+#### 100. Goldfish in a bowl
 
 <table>
 <tr>
@@ -2884,7 +3191,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
 
-#### 91. Lighthouse at night
+#### 101. Lighthouse at night
 
 <table>
 <tr>
@@ -2912,7 +3219,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-by-fireplace"></a>
 
-#### 92. Cat sleeping by the fireplace
+#### 102. Cat sleeping by the fireplace
 
 <table>
 <tr>
@@ -2940,7 +3247,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
 
-#### 93. Lantern monkey in the snow
+#### 103. Lantern monkey in the snow
 
 <table>
 <tr>
@@ -2968,7 +3275,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-sleepy-fox-rock"></a>
 
-#### 94. Sleepy fox on a mossy rock
+#### 104. Sleepy fox on a mossy rock
 
 <table>
 <tr>
@@ -2996,7 +3303,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
 
-#### 95. Lo-fi study loop
+#### 105. Lo-fi study loop
 
 <table>
 <tr>
@@ -3024,7 +3331,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cafe-cinemagraph"></a>
 
-#### 96. Café cinemagraph
+#### 106. Café cinemagraph
 
 <table>
 <tr>
@@ -3052,7 +3359,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
 
-#### 97. Ink-wash galloping horse
+#### 107. Ink-wash galloping horse
 
 <table>
 <tr>
@@ -3080,7 +3387,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-doodle-monster"></a>
 
-#### 98. Doodle monster comes alive
+#### 108. Doodle monster comes alive
 
 <table>
 <tr>
@@ -3108,7 +3415,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
 
-#### 99. Pixel art campfire
+#### 109. Pixel art campfire
 
 <table>
 <tr>
@@ -3136,7 +3443,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-bouncing-dots-loader"></a>
 
-#### 100. Bouncing dots loader
+#### 110. Bouncing dots loader
 
 <table>
 <tr>
@@ -3164,7 +3471,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
 
-#### 101. Pixel knight run cycle
+#### 111. Pixel knight run cycle
 
 <table>
 <tr>
@@ -3192,7 +3499,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-like-heart-burst"></a>
 
-#### 102. Like button heart burst
+#### 112. Like button heart burst
 
 <table>
 <tr>
@@ -3220,7 +3527,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
 
-#### 103. Hourglass loading
+#### 113. Hourglass loading
 
 <table>
 <tr>
@@ -3248,7 +3555,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-arcade-vs-screen"></a>
 
-#### 104. Arcade VS screen
+#### 114. Arcade VS screen
 
 <table>
 <tr>
@@ -3276,7 +3583,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
 
-#### 105. 8-bit slime boss battle
+#### 115. 8-bit slime boss battle
 
 <table>
 <tr>
@@ -3304,7 +3611,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-love-burst-skill"></a>
 
-#### 106. Love-burst skill animation
+#### 116. Love-burst skill animation
 
 <table>
 <tr>
@@ -3332,7 +3639,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
 
-#### 107. Junkyard robot walk cycle
+#### 117. Junkyard robot walk cycle
 
 <table>
 <tr>
@@ -3360,7 +3667,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
 
-#### 108. Robin cat wink and falling name hat
+#### 118. Robin cat wink and falling name hat
 
 <table>
 <tr>
@@ -3385,7 +3692,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
 
-#### 109. Blue-haired maid dialogue prototype
+#### 119. Blue-haired maid dialogue prototype
 
 <table>
 <tr>
@@ -3405,7 +3712,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
 
-#### 110. Ram Altman memory-stick parody
+#### 120. Ram Altman memory-stick parody
 
 <table>
 <tr>
@@ -3425,7 +3732,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-sailor-dance"></a>
 
-#### 111. Moonlit magical-girl dance
+#### 121. Moonlit magical-girl dance
 
 <table>
 <tr>
@@ -3449,7 +3756,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-cat-programmer"></a>
 
-#### 112. Clay orange cat typing
+#### 122. Clay orange cat typing
 
 <table>
 <tr>
@@ -3473,7 +3780,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-desk-animation"></a>
 
-#### 113. Desk photograph cleanup and animation
+#### 123. Desk photograph cleanup and animation
 
 <table>
 <tr>
@@ -3506,7 +3813,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-zunbeho-parody-ad-gifs"></a>
 
-#### 114. Ten parody web-ad GIFs: a Japanese creator test
+#### 124. Ten parody web-ad GIFs: a Japanese creator test
 
 <table>
 <tr>
@@ -3542,7 +3849,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
 
-#### 115. Pixel♡Love: swimming-character animation contact sheet
+#### 125. Pixel♡Love: swimming-character animation contact sheet
 
 <table>
 <tr>
@@ -3562,7 +3869,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
 
-#### 116. Tanjiro pixel-art water-slash loop
+#### 126. Tanjiro pixel-art water-slash loop
 
 <table>
 <tr>
@@ -3613,7 +3920,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
 
-#### 117. Heartbeat dance modes: source poster
+#### 127. Heartbeat dance modes: source poster
 
 <table>
 <tr>
@@ -3633,7 +3940,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-malfoid-mood-stickers"></a>
 
-#### 118. Six Miss Malfoid mood sticker loops
+#### 128. Six Miss Malfoid mood sticker loops
 
 <table>
 <tr>
@@ -3662,7 +3969,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
 
-#### 119. Chibi character eating rice with chopsticks
+#### 129. Chibi character eating rice with chopsticks
 
 <table>
 <tr>
@@ -3698,7 +4005,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
 
-#### 120. Chibi cheongsam girl performs a cute jump sequence
+#### 130. Chibi cheongsam girl performs a cute jump sequence
 
 <table>
 <tr>
@@ -3734,7 +4041,7 @@ Reference/input image, not a generated output.
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
 
-#### 121. Dancing cartoon frog in a top hat
+#### 131. Dancing cartoon frog in a top hat
 
 <table>
 <tr>
@@ -3761,7 +4068,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
 
-#### 122. Flip phone shows Heisei decomail animation in Tokyo street
+#### 132. Flip phone shows Heisei decomail animation in Tokyo street
 
 <table>
 <tr>
@@ -3788,7 +4095,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
 
-#### 123. Cartoon bee posts to X for daily check-in
+#### 133. Cartoon bee posts to X for daily check-in
 
 <table>
 <tr>
@@ -3810,6 +4117,870 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **Author**: [MrGafish](https://x.com/MrGafish)
 
 **Original source**: [Creator-reported model](https://x.com/MrGafish/status/2118217749680025722) · [Source details](cases/social-diligent-bee-daily-checkin-gif/README.md)
+
+---
+
+<a id="source-case-social-snowy-yard-wood-chopping"></a>
+
+#### 134. Elderly man chopping wood in a snowy yard
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-snowy-yard-wood-chopping/source-01.mp4"><img src="assets/readme-previews/social-snowy-yard-wood-chopping/source-01.jpg" alt="Elderly man chopping wood in a snowy yard" width="360" /><br />Video preview · open video</a><br /><sub>Elderly man chopping wood in a snowy yard</sub></td>
+<td align="center"><a href="assets/examples/social-snowy-yard-wood-chopping/preview-01.gif"><img src="assets/examples/social-snowy-yard-wood-chopping/preview-01.gif" alt="Elderly man chopping wood in a snowy yard — derived GIF viewing copy" width="360" /></a><br /><sub>Elderly man chopping wood in a snowy yard — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+[Original prompt (.txt)](cases/social-snowy-yard-wood-chopping/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/koe_ai414/status/2118153765094351279)
+
+**Author**: [koe_ai414](https://x.com/koe_ai414)
+
+**Original source**: [Creator-reported model](https://x.com/koe_ai414/status/2118153765094351279) · [Source details](cases/social-snowy-yard-wood-chopping/README.md)
+
+---
+
+<a id="source-case-social-pixel-purple-lightning-bolts"></a>
+
+#### 135. Pixel character scattering bolts with purple lightning
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pixel-purple-lightning-bolts/source-01.mp4"><img src="assets/readme-previews/social-pixel-purple-lightning-bolts/source-01.jpg" alt="Pixel character scattering bolts with purple lightning" width="360" /><br />Video preview · open video</a><br /><sub>Pixel character scattering bolts with purple lightning</sub></td>
+<td align="center"><a href="assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif"><img src="assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif" alt="Pixel character scattering bolts with purple lightning — derived GIF viewing copy" width="360" /></a><br /><sub>Pixel character scattering bolts with purple lightning — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
+```
+
+[Original prompt (.txt)](cases/social-pixel-purple-lightning-bolts/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/YaReYaRu30Life/status/2118167174053597233)
+
+**Author**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
+
+**Original source**: [Creator-reported model](https://x.com/YaReYaRu30Life/status/2118167174053597233) · [Source details](cases/social-pixel-purple-lightning-bolts/README.md)
+
+---
+
+<a id="source-case-social-robot-pouring-coffee"></a>
+
+#### 136. Robot pouring coffee
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-robot-pouring-coffee/source-01.mp4"><img src="assets/readme-previews/social-robot-pouring-coffee/source-01.jpg" alt="Robot pouring coffee" width="360" /><br />Video preview · open video</a><br /><sub>Robot pouring coffee</sub></td>
+<td align="center"><a href="assets/examples/social-robot-pouring-coffee/preview-01.gif"><img src="assets/examples/social-robot-pouring-coffee/preview-01.gif" alt="Robot pouring coffee — derived GIF viewing copy" width="360" /></a><br /><sub>Robot pouring coffee — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+コーヒーを淹れるロボット
+```
+
+[Original prompt (.txt)](cases/social-robot-pouring-coffee/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/sousoccer6/status/2118210705585537226)
+
+**Author**: [sousoccer6](https://x.com/sousoccer6)
+
+**Original source**: [Creator-reported model](https://x.com/sousoccer6/status/2118210705585537226) · [Source details](cases/social-robot-pouring-coffee/README.md)
+
+---
+
+<a id="source-case-social-red-character-music-video-gif"></a>
+
+#### 137. Red character in a music-video-style animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-red-character-music-video-gif/source-01.mp4"><img src="assets/readme-previews/social-red-character-music-video-gif/source-01.jpg" alt="Red character in a music-video-style animation" width="360" /><br />Video preview · open video</a><br /><sub>Red character in a music-video-style animation</sub></td>
+<td align="center"><a href="assets/examples/social-red-character-music-video-gif/preview-01.gif"><img src="assets/examples/social-red-character-music-video-gif/preview-01.gif" alt="Red character in a music-video-style animation — derived GIF viewing copy" width="360" /></a><br /><sub>Red character in a music-video-style animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+[Original prompt (.txt)](cases/social-red-character-music-video-gif/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/Ayu_AI_0912/status/2118138025024839939)
+
+**Author**: [Ayu_AI_0912](https://x.com/Ayu_AI_0912)
+
+**Original source**: [Creator-reported model](https://x.com/Ayu_AI_0912/status/2118138025024839939) · [Source details](cases/social-red-character-music-video-gif/README.md)
+
+---
+
+<a id="source-case-social-sunglasses-cat-dance"></a>
+
+#### 138. Sunglasses cat dancing in a purple room
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sunglasses-cat-dance/source-01.mp4"><img src="assets/readme-previews/social-sunglasses-cat-dance/source-01.jpg" alt="Sunglasses cat dancing in a purple room" width="360" /><br />Video preview · open video</a><br /><sub>Sunglasses cat dancing in a purple room</sub></td>
+<td align="center"><a href="assets/examples/social-sunglasses-cat-dance/preview-01.gif"><img src="assets/examples/social-sunglasses-cat-dance/preview-01.gif" alt="Sunglasses cat dancing in a purple room — derived GIF viewing copy" width="360" /></a><br /><sub>Sunglasses cat dancing in a purple room — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
+```
+
+[Original prompt (.txt)](cases/social-sunglasses-cat-dance/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108)
+
+**Author**: [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+
+**Original source**: [Creator-reported model](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · [Source details](cases/social-sunglasses-cat-dance/README.md)
+
+---
+
+<a id="source-case-social-pelican-riding-bicycle"></a>
+
+#### 139. Pelican riding a bicycle
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pelican-riding-bicycle/source-01.mp4"><img src="assets/readme-previews/social-pelican-riding-bicycle/source-01.jpg" alt="Pelican riding a bicycle" width="360" /><br />Video preview · open video</a><br /><sub>Pelican riding a bicycle</sub></td>
+<td align="center"><a href="assets/examples/social-pelican-riding-bicycle/preview-01.gif"><img src="assets/examples/social-pelican-riding-bicycle/preview-01.gif" alt="Pelican riding a bicycle — derived GIF viewing copy" width="360" /></a><br /><sub>Pelican riding a bicycle — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+generate a gif of a pelican riding a bicycle
+```
+
+[Original prompt (.txt)](cases/social-pelican-riding-bicycle/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/SSHCodes/status/2118127375481504100)
+
+**Author**: [SSHCodes](https://x.com/SSHCodes)
+
+**Original source**: [Creator-reported model](https://x.com/SSHCodes/status/2118127375481504100) · [Source details](cases/social-pelican-riding-bicycle/README.md)
+
+---
+
+<a id="source-case-social-paper-boat-water-loop"></a>
+
+#### 140. Paper boat bobbing on water
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-paper-boat-water-loop/source-01.mp4"><img src="assets/readme-previews/social-paper-boat-water-loop/source-01.jpg" alt="Paper boat bobbing on water" width="360" /><br />Video preview · open video</a><br /><sub>Paper boat bobbing on water</sub></td>
+<td align="center"><a href="assets/examples/social-paper-boat-water-loop/preview-01.gif"><img src="assets/examples/social-paper-boat-water-loop/preview-01.gif" alt="Paper boat bobbing on water — derived GIF viewing copy" width="360" /></a><br /><sub>Paper boat bobbing on water — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+Make a looping GIF of a paper boat bobbing on the water.
+```
+
+[Original prompt (.txt)](cases/social-paper-boat-water-loop/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/thinkszyg/status/2118166234495947044)
+
+**Author**: [thinkszyg](https://x.com/thinkszyg)
+
+**Original source**: [Creator-reported model](https://x.com/thinkszyg/status/2118166234495947044) · [Source details](cases/social-paper-boat-water-loop/README.md)
+
+---
+
+<a id="source-case-social-osaka-castle-construction"></a>
+
+#### 141. Osaka Castle construction loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-osaka-castle-construction/source-01.mp4"><img src="assets/readme-previews/social-osaka-castle-construction/source-01.jpg" alt="Osaka Castle construction loop" width="360" /><br />Video preview · open video</a><br /><sub>Osaka Castle construction loop</sub></td>
+<td align="center"><a href="assets/examples/social-osaka-castle-construction/preview-01.gif"><img src="assets/examples/social-osaka-castle-construction/preview-01.gif" alt="Osaka Castle construction loop — derived GIF viewing copy" width="360" /></a><br /><sub>Osaka Castle construction loop — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+大阪城を建築する流れをGIFにして
+```
+
+[Original prompt (.txt)](cases/social-osaka-castle-construction/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/jammaru_lab/status/2118153279821787623)
+
+**Author**: [jammaru_lab](https://x.com/jammaru_lab)
+
+**Original source**: [Creator-reported model](https://x.com/jammaru_lab/status/2118153279821787623) · [Source details](cases/social-osaka-castle-construction/README.md)
+
+---
+
+<a id="source-case-social-character-wave-laugh"></a>
+
+#### 142. Character waving and laughing
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-character-wave-laugh/source-01.mp4"><img src="assets/readme-previews/social-character-wave-laugh/source-01.jpg" alt="Character waving and laughing" width="360" /><br />Video preview · open video</a><br /><sub>Character waving and laughing</sub></td>
+<td align="center"><a href="assets/examples/social-character-wave-laugh/preview-01.gif"><img src="assets/examples/social-character-wave-laugh/preview-01.gif" alt="Character waving and laughing — derived GIF viewing copy" width="360" /></a><br /><sub>Character waving and laughing — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+このキャラをGIFで動かして。手を振って笑う
+```
+
+[Original prompt (.txt)](cases/social-character-wave-laugh/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/okan_aitool/status/2118201578406772887)
+
+**Author**: [okan_aitool](https://x.com/okan_aitool)
+
+**Original source**: [Creator-reported model](https://x.com/okan_aitool/status/2118201578406772887) · [Source details](cases/social-character-wave-laugh/README.md)
+
+---
+
+<a id="source-case-social-pixel-hero-glowing-sword"></a>
+
+#### 143. Pixel hero swinging a glowing sword
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pixel-hero-glowing-sword/source-01.mp4"><img src="assets/readme-previews/social-pixel-hero-glowing-sword/source-01.jpg" alt="Pixel hero swinging a glowing sword" width="360" /><br />Video preview · open video</a><br /><sub>Pixel hero swinging a glowing sword</sub></td>
+<td align="center"><a href="assets/examples/social-pixel-hero-glowing-sword/preview-01.gif"><img src="assets/examples/social-pixel-hero-glowing-sword/preview-01.gif" alt="Pixel hero swinging a glowing sword — derived GIF viewing copy" width="360" /></a><br /><sub>Pixel hero swinging a glowing sword — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+[Original prompt (.txt)](cases/social-pixel-hero-glowing-sword/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/YaReYaRu30Life/status/2118166505603153922)
+
+**Author**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
+
+**Original source**: [Creator-reported model](https://x.com/YaReYaRu30Life/status/2118166505603153922) · [Source details](cases/social-pixel-hero-glowing-sword/README.md)
+
+---
+
+<a id="source-case-social-falling-apple-frame-comparison"></a>
+
+#### 144. Falling apple GIF frame-count comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-01.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-01.jpg" alt="Falling apple GIF frame-count comparison" width="360" /><br />Video preview · open video</a><br /><sub>Falling apple GIF frame-count comparison</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-02.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-02.jpg" alt="Falling apple GIF frame-count comparison" width="360" /><br />Video preview · open video</a><br /><sub>Falling apple GIF frame-count comparison</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-03.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-03.jpg" alt="Falling apple GIF frame-count comparison" width="360" /><br />Video preview · open video</a><br /><sub>Falling apple GIF frame-count comparison</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-04.jpg"><img src="assets/examples/social-falling-apple-frame-comparison/source-04.jpg" alt="Falling apple GIF frame-count comparison" width="360" /></a><br /><sub>Falling apple GIF frame-count comparison</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-01.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-01.gif" alt="Falling apple GIF frame-count comparison — derived GIF viewing copy" width="360" /></a><br /><sub>Falling apple GIF frame-count comparison — derived GIF viewing copy</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-02.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-02.gif" alt="Falling apple GIF frame-count comparison — derived GIF viewing copy" width="360" /></a><br /><sub>Falling apple GIF frame-count comparison — derived GIF viewing copy</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-03.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-03.gif" alt="Falling apple GIF frame-count comparison — derived GIF viewing copy" width="360" /></a><br /><sub>Falling apple GIF frame-count comparison — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+**64-frame original instruction**
+
+```text
+3:4.
+GIF生成
+frame_count = 64
+frame_duration_ms = 30
+3:4で木からりんごが落ちる差分
+```
+
+[Original prompt (.txt)](cases/social-falling-apple-frame-comparison/prompt-01.txt)
+
+**32-frame parameter change**
+
+```text
+frame_count = 32
+frame_duration_ms = 60
+```
+
+[Original prompt (.txt)](cases/social-falling-apple-frame-comparison/prompt-02.txt)
+
+**8-frame parameter change**
+
+```text
+frame_count = 8
+frame_duration_ms = 120
+```
+
+[Original prompt (.txt)](cases/social-falling-apple-frame-comparison/prompt-03.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/rei_aitech/status/2118245102409908571)
+
+**Author**: [rei_aitech](https://x.com/rei_aitech)
+
+**Original source**: [Creator-reported model](https://x.com/rei_aitech/status/2118245102409908571) · [Source details](cases/social-falling-apple-frame-comparison/README.md)
+
+---
+
+<a id="source-case-social-line-dog-heart-loop"></a>
+
+#### 145. Line-art dog with a floating heart
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-line-dog-heart-loop/source-01.mp4"><img src="assets/readme-previews/social-line-dog-heart-loop/source-01.jpg" alt="Line-art dog with a floating heart" width="360" /><br />Video preview · open video</a><br /><sub>Line-art dog with a floating heart</sub></td>
+<td align="center"><a href="assets/examples/social-line-dog-heart-loop/preview-01.gif"><img src="assets/examples/social-line-dog-heart-loop/preview-01.gif" alt="Line-art dog with a floating heart — derived GIF viewing copy" width="360" /></a><br /><sub>Line-art dog with a floating heart — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。
+```
+
+[Original prompt (.txt)](cases/social-line-dog-heart-loop/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/CalosLaw/status/2118199125707547102)
+
+**Author**: [CalosLaw](https://x.com/CalosLaw)
+
+**Original source**: [Creator-reported model](https://x.com/CalosLaw/status/2118199125707547102) · [Source details](cases/social-line-dog-heart-loop/README.md)
+
+---
+
+<a id="source-case-social-standing-backflip-complexity"></a>
+
+#### 146. Standing backflip at three complexity levels
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-standing-backflip-complexity/source-01.mp4"><img src="assets/readme-previews/social-standing-backflip-complexity/source-01.jpg" alt="Standing backflip at three complexity levels" width="360" /><br />Video preview · open video</a><br /><sub>Standing backflip at three complexity levels</sub></td>
+<td align="center"><a href="assets/examples/social-standing-backflip-complexity/preview-01.gif"><img src="assets/examples/social-standing-backflip-complexity/preview-01.gif" alt="Standing backflip at three complexity levels — derived GIF viewing copy" width="360" /></a><br /><sub>Standing backflip at three complexity levels — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+create a GIF of a man doing a standing backflip
+```
+
+[Original prompt (.txt)](cases/social-standing-backflip-complexity/prompt.txt)
+
+Original prompt wording is preserved. Only the task phrase is public; no full API request is claimed. See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/gabrielchua/status/2118135343354720648)
+
+**Author**: [gabrielchua](https://x.com/gabrielchua)
+
+**Original source**: [Creator-reported model](https://x.com/gabrielchua/status/2118135343354720648) · [Source details](cases/social-standing-backflip-complexity/README.md)
+
+---
+
+<a id="source-case-social-anime-floating-orb-control"></a>
+
+#### 147. Anime character controlling a floating orb
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-anime-floating-orb-control/source-01.mp4"><img src="assets/readme-previews/social-anime-floating-orb-control/source-01.jpg" alt="Anime character controlling a floating orb" width="360" /><br />Video preview · open video</a><br /><sub>Anime character controlling a floating orb</sub></td>
+<td align="center"><a href="assets/examples/social-anime-floating-orb-control/preview-01.gif"><img src="assets/examples/social-anime-floating-orb-control/preview-01.gif" alt="Anime character controlling a floating orb — derived GIF viewing copy" width="360" /></a><br /><sub>Anime character controlling a floating orb — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Reference images</summary>
+
+Reference/input image, not a generated output.
+
+- [Anime character controlling a floating orb](assets/references/social-anime-floating-orb-control/source-02.jpg)
+
+</details>
+
+**Original prompt**
+
+```text
+添付画像を開始フレームとして球体をコントロールするキャラクター。
+画像生成で6秒尺。100枚で構成。
+ケレン味がありアニメーション12原則を意識した動き。
+```
+
+[Original prompt (.txt)](cases/social-anime-floating-orb-control/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/MiraMusic_AI/status/2118513591490163168)
+
+**Author**: [MiraMusic_AI](https://x.com/MiraMusic_AI)
+
+**Original source**: [Creator-reported model](https://x.com/MiraMusic_AI/status/2118513591490163168) · [Source details](cases/social-anime-floating-orb-control/README.md)
+
+---
+
+<a id="source-case-social-golden-gate-gouache-loop"></a>
+
+#### 148. Golden Gate gouache travel-poster loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-golden-gate-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-golden-gate-gouache-loop/source-01.jpg" alt="Golden Gate gouache travel-poster loop" width="360" /><br />Video preview · open video</a><br /><sub>Golden Gate gouache travel-poster loop</sub></td>
+<td align="center"><a href="assets/examples/social-golden-gate-gouache-loop/preview-01.gif"><img src="assets/examples/social-golden-gate-gouache-loop/preview-01.gif" alt="Golden Gate gouache travel-poster loop — derived GIF viewing copy" width="360" /></a><br /><sub>Golden Gate gouache travel-poster loop — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+A living mid-century gouache travel-poster painting of the Golden Gate Bridge seen from a beach, static locked-off camera, seamless looping animation. The bridge is rust-orange with two tall towers, fine suspension cables and vertical hangers, spanning to a hazy grey-blue headland on the left and a tan-grey rocky cliff on the right. In the foreground deep cobalt and teal surf rolls in with white foam lines onto a sweeping beach of sandy beige scratchy dry-brush strokes, with dark rocks, a driftwood log and tiny figures in coral, navy and mustard. Warm cream sky with fine paper grain fills the upper half. Matte opaque gouache, ragged flaking edges, visible bristle streaks, speckled worn texture. Gentle motion only: waves wash and recede, foam shimmers, seagulls glide across the sky, tiny people wander. Soft hazy daylight, vertical 3:4, perfect loop.
+```
+
+[Original prompt (.txt)](cases/social-golden-gate-gouache-loop/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/devteamdrew/status/2118538745175503130)
+
+**Author**: [devteamdrew](https://x.com/devteamdrew)
+
+**Original source**: [Creator-reported model](https://x.com/devteamdrew/status/2118308538564989025) · [Source details](cases/social-golden-gate-gouache-loop/README.md)
+
+---
+
+<a id="source-case-social-colosseum-gouache-loop"></a>
+
+#### 149. Colosseum gouache travel-poster loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-colosseum-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-colosseum-gouache-loop/source-01.jpg" alt="Colosseum gouache travel-poster loop" width="360" /><br />Video preview · open video</a><br /><sub>Colosseum gouache travel-poster loop</sub></td>
+<td align="center"><a href="assets/examples/social-colosseum-gouache-loop/preview-01.gif"><img src="assets/examples/social-colosseum-gouache-loop/preview-01.gif" alt="Colosseum gouache travel-poster loop — derived GIF viewing copy" width="360" /></a><br /><sub>Colosseum gouache travel-poster loop — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.
+```
+
+[Original prompt (.txt)](cases/social-colosseum-gouache-loop/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/devteamdrew/status/2118538745175503130)
+
+**Author**: [devteamdrew](https://x.com/devteamdrew)
+
+**Original source**: [Creator-reported model](https://x.com/devteamdrew/status/2118308538564989025) · [Source details](cases/social-colosseum-gouache-loop/README.md)
+
+---
+
+<a id="source-case-social-fuji-gouache-loop"></a>
+
+#### 150. Mount Fuji gouache travel-poster loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-fuji-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-fuji-gouache-loop/source-01.jpg" alt="Mount Fuji gouache travel-poster loop" width="360" /><br />Video preview · open video</a><br /><sub>Mount Fuji gouache travel-poster loop</sub></td>
+<td align="center"><a href="assets/examples/social-fuji-gouache-loop/preview-01.gif"><img src="assets/examples/social-fuji-gouache-loop/preview-01.gif" alt="Mount Fuji gouache travel-poster loop — derived GIF viewing copy" width="360" /></a><br /><sub>Mount Fuji gouache travel-poster loop — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.
+```
+
+[Original prompt (.txt)](cases/social-fuji-gouache-loop/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/devteamdrew/status/2118538745175503130)
+
+**Author**: [devteamdrew](https://x.com/devteamdrew)
+
+**Original source**: [Creator-reported model](https://x.com/devteamdrew/status/2118308538564989025) · [Source details](cases/social-fuji-gouache-loop/README.md)
+
+---
+
+<a id="source-case-social-dwarf-360-turntable"></a>
+
+#### 151. Dwarf game model rotating 360 degrees
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dwarf-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-dwarf-360-turntable/source-01.jpg" alt="Dwarf game model rotating 360 degrees" width="360" /><br />Video preview · open video</a><br /><sub>Dwarf game model rotating 360 degrees</sub></td>
+<td align="center"><a href="assets/examples/social-dwarf-360-turntable/preview-01.gif"><img src="assets/examples/social-dwarf-360-turntable/preview-01.gif" alt="Dwarf game model rotating 360 degrees — derived GIF viewing copy" width="360" /></a><br /><sub>Dwarf game model rotating 360 degrees — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spinning full 360 degrees
+```
+
+[Original prompt (.txt)](cases/social-dwarf-360-turntable/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/xikhar/status/2118409026044403849)
+
+**Author**: [xikhar](https://x.com/xikhar)
+
+**Original source**: [Creator-reported model](https://x.com/xikhar/status/2118407355859878352) · [Source details](cases/social-dwarf-360-turntable/README.md)
+
+---
+
+<a id="source-case-social-sword-360-turntable"></a>
+
+#### 152. Legendary sword game asset rotating 360 degrees
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sword-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-sword-360-turntable/source-01.jpg" alt="Legendary sword game asset rotating 360 degrees" width="360" /><br />Video preview · open video</a><br /><sub>Legendary sword game asset rotating 360 degrees</sub></td>
+<td align="center"><a href="assets/examples/social-sword-360-turntable/preview-01.gif"><img src="assets/examples/social-sword-360-turntable/preview-01.gif" alt="Legendary sword game asset rotating 360 degrees — derived GIF viewing copy" width="360" /></a><br /><sub>Legendary sword game asset rotating 360 degrees — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+create a gif of a "3d legendary sword in a stone game asset" spinning full 360 degrees
+```
+
+[Original prompt (.txt)](cases/social-sword-360-turntable/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/xikhar/status/2118409026044403849)
+
+**Author**: [xikhar](https://x.com/xikhar)
+
+**Original source**: [Creator-reported model](https://x.com/xikhar/status/2118407355859878352) · [Source details](cases/social-sword-360-turntable/README.md)
+
+---
+
+<a id="source-case-social-motorbike-360-turntable"></a>
+
+#### 153. Futuristic motorbike rotating 360 degrees
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-motorbike-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-motorbike-360-turntable/source-01.jpg" alt="Futuristic motorbike rotating 360 degrees" width="360" /><br />Video preview · open video</a><br /><sub>Futuristic motorbike rotating 360 degrees</sub></td>
+<td align="center"><a href="assets/examples/social-motorbike-360-turntable/preview-01.gif"><img src="assets/examples/social-motorbike-360-turntable/preview-01.gif" alt="Futuristic motorbike rotating 360 degrees — derived GIF viewing copy" width="360" /></a><br /><sub>Futuristic motorbike rotating 360 degrees — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 degrees
+```
+
+[Original prompt (.txt)](cases/social-motorbike-360-turntable/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/xikhar/status/2118409026044403849)
+
+**Author**: [xikhar](https://x.com/xikhar)
+
+**Original source**: [Creator-reported model](https://x.com/xikhar/status/2118407355859878352) · [Source details](cases/social-motorbike-360-turntable/README.md)
+
+---
+
+<a id="source-case-social-cat-spinning-gif"></a>
+
+#### 154. Spinning cat GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-cat-spinning-gif/source-01.mp4"><img src="assets/readme-previews/social-cat-spinning-gif/source-01.jpg" alt="Spinning cat GIF" width="360" /><br />Video preview · open video</a><br /><sub>Spinning cat GIF</sub></td>
+<td align="center"><a href="assets/examples/social-cat-spinning-gif/preview-01.gif"><img src="assets/examples/social-cat-spinning-gif/preview-01.gif" alt="Spinning cat GIF — derived GIF viewing copy" width="360" /></a><br /><sub>Spinning cat GIF — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+create a gif of a cat spinning
+```
+
+[Original prompt (.txt)](cases/social-cat-spinning-gif/prompt.txt)
+
+Original prompt wording is preserved.
+
+[Original prompt at source](https://x.com/xikhar/status/2118409026044403849)
+
+**Author**: [xikhar](https://x.com/xikhar)
+
+**Original source**: [Creator-reported model](https://x.com/xikhar/status/2118407355859878352) · [Source details](cases/social-cat-spinning-gif/README.md)
+
+---
+
+<a id="source-case-social-gray-blender-hallway-draft"></a>
+
+#### 155. Gray Blender hallway camera draft
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-gray-blender-hallway-draft/source-01.mp4"><img src="assets/readme-previews/social-gray-blender-hallway-draft/source-01.jpg" alt="Gray Blender hallway camera draft" width="360" /><br />Video preview · open video</a><br /><sub>Gray Blender hallway camera draft</sub></td>
+<td align="center"><a href="assets/examples/social-gray-blender-hallway-draft/preview-01.gif"><img src="assets/examples/social-gray-blender-hallway-draft/preview-01.gif" alt="Gray Blender hallway camera draft — derived GIF viewing copy" width="360" /></a><br /><sub>Gray Blender hallway camera draft — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames. Make it look like a crude gray Blender viewport animation, not cinematic footage. A single continuous shot inside a rectangular hallway with a tiled floor and simple gray walls. The camera slowly advances toward a doorway. A black humanoid mannequin with unusually long arms emerges from behind the doorway. The camera suddenly whips right, falls onto its side, and stops. The mannequin slowly walks toward and past the fallen camera. Maintain consistent 3D geometry, character proportions, doorway placement, and spatial relationships. No cuts, no teleportation, no scene changes, no added props. Focus on exact camera movement, depth, and timing. The animation should play once as a complete sequence, not return to its starting pose.
+```
+
+[Original prompt (.txt)](cases/social-gray-blender-hallway-draft/prompt.txt)
+
+Original prompt wording is preserved. Only the GPT Image 2.6 gray animation draft is included; the downstream H3 result is excluded. See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/cocktailpeanut/status/2118408801812643957)
+
+**Author**: [cocktailpeanut](https://x.com/cocktailpeanut)
+
+**Original source**: [Creator-reported model](https://x.com/cocktailpeanut/status/2118408795026043260) · [Source details](cases/social-gray-blender-hallway-draft/README.md)
+
+---
+
+<a id="source-case-social-summer-garden-water-gun"></a>
+
+#### 156. Summer garden water-gun animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/source-02.mp4"><img src="assets/readme-previews/social-summer-garden-water-gun/source-02.jpg" alt="Summer garden water-gun animation" width="360" /><br />Video preview · open video</a><br /><sub>Summer garden water-gun animation</sub></td>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/source-03.mp4"><img src="assets/readme-previews/social-summer-garden-water-gun/source-03.jpg" alt="Summer garden water-gun animation" width="360" /><br />Video preview · open video</a><br /><sub>Summer garden water-gun animation</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/preview-02.gif"><img src="assets/examples/social-summer-garden-water-gun/preview-02.gif" alt="Summer garden water-gun animation — derived GIF viewing copy" width="360" /></a><br /><sub>Summer garden water-gun animation — derived GIF viewing copy</sub></td>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/preview-03.gif"><img src="assets/examples/social-summer-garden-water-gun/preview-03.gif" alt="Summer garden water-gun animation — derived GIF viewing copy" width="360" /></a><br /><sub>Summer garden water-gun animation — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Reference images</summary>
+
+Reference/input image, not a generated output.
+
+- [Summer garden water-gun animation](assets/references/social-summer-garden-water-gun/source-01.jpg)
+
+</details>
+
+**Original prompt**
+
+```text
+请以这个内容创建一个 GIF，内容是： # JAPANESE SUMMER｜夏日元气少女
+**10秒日系青春活力MV视频提示词**
+
+**画面规格：** 9:16 竖屏，10秒，30fps，写实摄影质感。
+
+**人物设定：**
+22岁成年东亚女性，清透冷白皮肤，短款深棕色波波头，轻薄空气刘海，五官甜美可爱，身材匀称。穿着参考图中的蓝色泳装、黄色镂空针织罩衫及牛仔短裤。人物保持统一，性格活泼俏皮，笑容自然，有青春少女的灵动感。
+
+**整体风格：**
+Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
+
+明亮通透的夏日阳光，翠绿花园，蓝色天空，橙色充气泳圈，水花飞溅。采用日本青春电影式混剪，快速切换全景、中景、近景和人物特写。画面具有轻微胶片颗粒、柔和高光、自然镜头运动。
+
+### 01｜10秒分镜设计
+
+**0—1.2秒｜开场钩子**
+低机位快速推进，女主坐在橙色充气泳圈上，双手拿着水枪，突然发现镜头，露出惊喜的笑容，水流突然朝镜头喷来。
+
+**1.2—2.4秒｜俏皮特写**
+快速硬切面部近景，女主被水花溅到，轻轻眯眼，随后露出调皮笑容，发丝随着动作轻轻晃动。阳光在脸颊形成漂亮的光斑。
+
+**2.4—3.6秒｜青春动态**
+侧面低机位，女主赤脚轻轻踢起草坪上的水花，镜头快速横向跟拍，橙色泳圈在前景掠过，形成自然遮挡转场。
+
+**3.6—4.8秒｜视觉节奏**
+俯拍镜头，女主拿着水枪在草坪上转身，水流划出弧线。镜头快速向下俯冲，再跟随水花向上抬起。
+
+**4.8—6.0秒｜少女感特写**
+正面近景，女主双手举起水枪，突然向镜头喷水，水珠在阳光下形成晶莹的高光，女主笑着躲避镜头。
+
+**6.0—7.3秒｜活力爆发**
+快速硬切至侧后方，女主从泳圈上轻巧起身，转身甩动头发，黄色针织罩衫随动作自然摆动，镜头进行半圈快速环绕。
+
+**7.3—8.7秒｜夏日氛围**
+广角镜头，女主在草坪上轻快地转圈，双手张开，阳光穿过树叶洒落，水花从前景飞过，画面充满夏日青春气息。
+
+**8.7—10秒｜记忆点结尾**
+突然切换正面近景，女主向镜头靠近，俏皮地歪头眨眼，随后拿起水枪再次喷水，水花覆盖整个镜头，最后定格在明亮的白色水花中。
+
+### 02｜音乐与剪辑
+
+原创日系青春J-POP配乐：
+- 轻快的电吉他、明亮合成器、活泼贝斯与清脆鼓点。
+- 约155—165 BPM，具有夏日偶像MV的轻盈节奏。
+- 开场直接进入音乐，不要冗长铺垫。
+- 每次鼓点配合一次硬切或动作变化。
+- 中间加入少量0.3—0.5秒高速慢动作水花特写，再迅速恢复正常速度。
+- 结尾音乐与水花覆盖镜头同步收束。
+
+### 03｜摄影与画面约束
+
+1. 混剪必须具有明显的景别变化，避免全程一个机位。
+2. 人物始终是画面视觉中心，保持同一张脸、发型和服装。
+3. 人物动作自然轻快，表情丰富，笑容甜美但不过度表演。
+4. 保留真实皮肤纹理、自然阳光与水珠物理效果。
+5. 镜头切换干净利落，利用水花、泳圈和人物动作完成匹配剪辑。
+6. 不要广告片质感，不要商业产品展示，不要字幕、文字、Logo、水印。
+7. 避免人物变脸、服装改变、手指畸形、肢体错位及水枪结构变形。
+
+**最终效果：像一支10秒的日本夏日青春偶像MV，轻松、明亮、活泼、俏皮，让人感受到夏天的快乐。**
+```
+
+[Original prompt (.txt)](cases/social-summer-garden-water-gun/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/nima2qisi2/status/2118150229811920912)
+
+**Author**: [nima2qisi2](https://x.com/nima2qisi2)
+
+**Original source**: [Creator-reported model](https://x.com/nima2qisi2/status/2118150226330734787) · [Source details](cases/social-summer-garden-water-gun/README.md)
+
+---
+
+<a id="source-case-social-basketball-storyboard-to-gif"></a>
+
+#### 157. Basketball storyboard-to-GIF workflow
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-basketball-storyboard-to-gif/source-01.mp4"><img src="assets/readme-previews/social-basketball-storyboard-to-gif/source-01.jpg" alt="Basketball storyboard-to-GIF workflow" width="360" /><br />Video preview · open video</a><br /><sub>Basketball storyboard-to-GIF workflow</sub></td>
+<td align="center"><a href="assets/examples/social-basketball-storyboard-to-gif/preview-01.gif"><img src="assets/examples/social-basketball-storyboard-to-gif/preview-01.gif" alt="Basketball storyboard-to-GIF workflow — derived GIF viewing copy" width="360" /></a><br /><sub>Basketball storyboard-to-GIF workflow — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Reference images</summary>
+
+Reference/input image, not a generated output.
+
+- [Basketball storyboard-to-GIF workflow](assets/references/social-basketball-storyboard-to-gif/source-02.jpg)
+
+</details>
+
+**Original prompt**
+
+```text
+创建一个gif，按照附图的动作顺序生成。
+```
+
+[Original prompt (.txt)](cases/social-basketball-storyboard-to-gif/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/crayon1267/status/2118186300339892472)
+
+**Author**: [crayon1267](https://x.com/crayon1267)
+
+**Original source**: [Creator-reported model](https://x.com/crayon1267/status/2118186300339892472) · [Source details](cases/social-basketball-storyboard-to-gif/README.md)
+
+---
+
+<a id="source-case-social-orange-office-cat-expression-grid"></a>
+
+#### 158. Orange office-cat expression grid
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-01.jpg"><img src="assets/examples/social-orange-office-cat-expression-grid/source-01.jpg" alt="Orange office-cat expression grid" width="360" /></a><br /><sub>Orange office-cat expression grid</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-02.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-02.jpg" alt="Orange office-cat expression grid" width="360" /><br />Video preview · open video</a><br /><sub>Orange office-cat expression grid</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-03.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-03.jpg" alt="Orange office-cat expression grid" width="360" /><br />Video preview · open video</a><br /><sub>Orange office-cat expression grid</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-04.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-04.jpg" alt="Orange office-cat expression grid" width="360" /><br />Video preview · open video</a><br /><sub>Orange office-cat expression grid</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-02.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-02.gif" alt="Orange office-cat expression grid — derived GIF viewing copy" width="360" /></a><br /><sub>Orange office-cat expression grid — derived GIF viewing copy</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-03.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-03.gif" alt="Orange office-cat expression grid — derived GIF viewing copy" width="360" /></a><br /><sub>Orange office-cat expression grid — derived GIF viewing copy</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-04.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-04.gif" alt="Orange office-cat expression grid — derived GIF viewing copy" width="360" /></a><br /><sub>Orange office-cat expression grid — derived GIF viewing copy</sub></td>
+</tr>
+</table>
+
+**Original prompt**
+
+```text
+画一套12款橘猫打工人表情包，圆脸胖橘戴蓝领带，粗黑蜡笔线条、橙蓝配色、米白底，表情夸张搞笑，角色保持一致。按3列×4行排列，分别配字：开心、气成河豚、委屈巴巴、笑不活了、收到、啊？、累瘫了、我裂开了、先装死、蹲个后续、没眼看、下班！
+```
+
+[Original prompt (.txt)](cases/social-orange-office-cat-expression-grid/prompt.txt)
+
+Original prompt wording is preserved.  See the precise source and item-level media notes; requested parameters are not independently verified output properties.
+
+[Original prompt at source](https://x.com/karanwithai/status/2118156317034693026)
+
+**Author**: [karanwithai](https://x.com/karanwithai)
+
+**Original source**: [Creator-reported model](https://x.com/karanwithai/status/2118156092865994837) · [Source details](cases/social-orange-office-cat-expression-grid/README.md)
 
 ---
 

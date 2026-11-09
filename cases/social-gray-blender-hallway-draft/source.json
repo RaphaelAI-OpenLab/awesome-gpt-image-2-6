@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/cocktailpeanut/status/2118408795026043260",
+  "author": "cocktailpeanut",
+  "model": "GPT Image 2.6",
+  "model_evidence": "The GPT-Image 2.6 is a game changer for AI video generation, when combined with Minimax H3. I made a full 15 sec video by:",
+  "prompt_source_url": "https://x.com/cocktailpeanut/status/2118408801812643957",
+  "prompts": [
+    {
+      "path": "cases/social-gray-blender-hallway-draft/prompt.txt",
+      "sha256": "7fb5ddcd149bc9f49919c4cc5222937e1057b1d4e87758dfd334f96e45daa2c7"
+    }
+  ],
+  "source_html_sha256": "8f77a92c7c7afafb3387401d7ae094515c1ba1cdfa1890e71f4de485cced6419",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "仅收录作者Step 1的GPT Image 2.6灰模动画原件。后续延长与H3生成的最终视频属于其他阶段，不作为本案例的2.6输出。",
+  "media": [
+    {
+      "path": "assets/examples/social-gray-blender-hallway-draft/source-01.mp4",
+      "original_url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/356x358/NsjEP_nz4euG0NqP.mp4?tag=29",
+      "download_url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/356x358/NsjEP_nz4euG0NqP.mp4?tag=29",
+      "sha256": "b32a8727786ffc056a83f233edd286c275ecdb4f52ae79ecaa3c9ea09c35c23e",
+      "bytes": 40283,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-gray-blender-hallway-draft/preview-01.gif",
+      "original_url": "https://video.twimg.com/amplify_video/2118407099247968256/vid/avc1/356x358/NsjEP_nz4euG0NqP.mp4?tag=29",
+      "sha256": "2a2b00afda0c4ddb76c30a5e55920abcfc3b573564e43805a7b34fa7e2b2bf65",
+      "bytes": 681198,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-gray-blender-hallway-draft/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

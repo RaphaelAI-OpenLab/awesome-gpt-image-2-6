@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/thinkszyg/status/2118166234495947044",
+  "author": "thinkszyg",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT 上了 Images 2.6，出图快了 50%，还能直接做 GIF。可界面里不会告诉你用的是哪个模型，看了一遍官方文档，找到一个最省事的验证办法：让它做一个 GIF。",
+  "prompt_source_url": "https://x.com/thinkszyg/status/2118166234495947044",
+  "prompts": [
+    {
+      "path": "cases/social-paper-boat-water-loop/prompt.txt",
+      "sha256": "9246fbddf3e87d1939982d0986ddb23f204f1d8946a5e34364e6ca749e491fda"
+    }
+  ],
+  "source_html_sha256": "85c56aef940dd89967b7e3a185b50713e516ca48385ce14290fac4e3bf31ab6b",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "仅保留作者公开的纸船指令及对应动画。原帖关于版本识别、性能、价格或模型能力的论断不作为本仓库核验结论。",
+  "media": [
+    {
+      "path": "assets/examples/social-paper-boat-water-loop/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWU88jtaEAAQpmr.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWU88jtaEAAQpmr.mp4",
+      "sha256": "b91a8683388afc1b2e2a6a55474a1397d3d45a828212f4b6d132c55248428d6d",
+      "bytes": 40724,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-paper-boat-water-loop/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWU88jtaEAAQpmr.mp4",
+      "sha256": "fbe40f320aabe07dba7736d3c840a9ada9b722a612806ff4c4868c84ee6f054f",
+      "bytes": 694059,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-paper-boat-water-loop/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

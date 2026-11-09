@@ -1,0 +1,32 @@
+{
+  "source_url": "https://x.com/IHayato/status/2118151619212890291",
+  "author": "IHayato",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT Image 2.6が出たので、さっそく試してみました。",
+  "prompt_source_url": "https://x.com/IHayato/status/2118151619212890291",
+  "prompts": [
+    {
+      "path": "cases/social-circle-markup-santa-gift-edit/prompt.txt",
+      "sha256": "942fc16f0fdbd7956e08c7536dd45dddc1037c64b9b201311b083a84a55819c6"
+    }
+  ],
+  "source_html_sha256": "f57f8de32adf91f7e1a7f661acfa309cf7637e96a2a3fd256b85b8d1659df586",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "保存原帖标注编辑对照图；同帖另一段眨眼动画和成本图解不属于本例输出。原提示词为作者公开的局部编辑短句。",
+  "media": [
+    {
+      "path": "assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWUvnunaQAA2gbE.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWUvnunaQAA2gbE?format=jpg&name=large",
+      "sha256": "ad35173bd07bbc3d8364ca75201bd3bd62f0c246ccf5e25f72fe8ff6e29cbe1e",
+      "bytes": 195642,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

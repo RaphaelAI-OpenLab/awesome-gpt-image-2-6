@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/koe_ai414/status/2118153765094351279",
+  "author": "koe_ai414",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT Image2.6が登場しましたね！\nGIFにも対応したということで早速試してみましたが、簡単に作れて面白い✨",
+  "prompt_source_url": "https://x.com/koe_ai414/status/2118153765094351279",
+  "prompts": [
+    {
+      "path": "cases/social-snowy-yard-wood-chopping/prompt.txt",
+      "sha256": "8ce594ceb16c57a2a26a186364caa79f4892a1392ea2d6711ab247fcd988bfe4"
+    }
+  ],
+  "source_html_sha256": "787f130fd32e2607f72e581e08d10ac45d2e707c4ca4b6a91353cb7619497b23",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "原帖左侧为劈柴动画，右侧女子转身动画未计入本案例。",
+  "media": [
+    {
+      "path": "assets/examples/social-snowy-yard-wood-chopping/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUvPTTaoAAAOfw.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUvPTTaoAAAOfw.mp4",
+      "sha256": "4e07ce783048e685f1a3f635d57b7fe5ece4519f838e7525a1241afa57b03eb6",
+      "bytes": 60001,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-snowy-yard-wood-chopping/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUvPTTaoAAAOfw.mp4",
+      "sha256": "fffe95341a975bd07c968e21c2a7dd4fd71d28424952a3c1bcded71550489382",
+      "bytes": 997085,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-snowy-yard-wood-chopping/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

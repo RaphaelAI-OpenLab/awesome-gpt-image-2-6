@@ -1,0 +1,44 @@
+{
+  "source_url": "https://x.com/kabumira862571/status/2118220107487051883",
+  "author": "kabumira862571",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT-Image 2.6\n#PromptShare\n遊んでね😸",
+  "prompt_source_url": "https://x.com/kabumira862571/status/2118220107487051883",
+  "prompts": [
+    {
+      "path": "cases/social-kimono-door-peephole-portrait/prompt.txt",
+      "sha256": "2879980d625a8bef38999e312f3452c39994c15ac938ef068a648114d9c46e43"
+    }
+  ],
+  "source_html_sha256": "8b070ced23bdbc23f5243e56b3be152991eb5042fd26bcdda064ddcec878aeeb",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "原帖提供“ドアスコープ”或“インターホン室内モニター”两个占位选项；保留原文占位符。两张附件为同一工作流的不同观察视角；未提供单独参考输入。",
+  "media": [
+    {
+      "path": "assets/examples/social-kimono-door-peephole-portrait/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVt81KawAAbvYm.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWVt81KawAAbvYm?format=jpg&name=large",
+      "sha256": "c553dd04c5346bf0dd3cc8a3f028ec36205550ee1b32a35ea200cac3ab0df3e1",
+      "bytes": 345731,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    },
+    {
+      "path": "assets/examples/social-kimono-door-peephole-portrait/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVt9U_bsAAvXBm.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWVt9U_bsAAvXBm?format=jpg&name=large",
+      "sha256": "a43b8005a206aa3be31d53e00079c497f7b42e7a3c8d031cc8d47705d3b86e8f",
+      "bytes": 317398,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+  "author": "jammaru_lab",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6、GIF対応はアツすぎ。",
+  "prompt_source_url": "https://x.com/jammaru_lab/status/2118153279821787623",
+  "prompts": [
+    {
+      "path": "cases/social-osaka-castle-construction/prompt.txt",
+      "sha256": "2251350a2d13c7dc12a5ef3d13af234c0d186ad50c0256091c5ffce78bfcfb4a"
+    }
+  ],
+  "source_html_sha256": "30cdccc7a9744d48b8ede66b1e936a698c3dd56c6594e03a1aefe8b3754b6ab1",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-osaka-castle-construction/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUxLNUa8AAEVcL.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUxLNUa8AAEVcL.mp4",
+      "sha256": "4d653ca9cfdb15004a50372e9f46d72f41f5b521e558b3db8a59f759332d891b",
+      "bytes": 76984,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-osaka-castle-construction/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUxLNUa8AAEVcL.mp4",
+      "sha256": "b7f8d5ee04c438dc4c04ad0f9ed108cac9eb92c73b92c9fd9cafdd7186070c71",
+      "bytes": 778456,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-osaka-castle-construction/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

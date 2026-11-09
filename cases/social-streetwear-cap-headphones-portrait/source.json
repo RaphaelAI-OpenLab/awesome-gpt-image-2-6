@@ -1,0 +1,31 @@
+{
+  "source_url": "https://x.com/johnAGI168/status/2118581030781382805",
+  "author": "johnAGI168",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6 📷 prompt 👇",
+  "prompt_source_url": "https://x.com/johnAGI168/status/2118581030781382805",
+  "prompts": [
+    {
+      "path": "cases/social-streetwear-cap-headphones-portrait/prompt.txt",
+      "sha256": "1388dcc870dfa80f82bcf9a39699b4561b017bcfc2a413e10f5c29bd7a230887"
+    }
+  ],
+  "source_html_sha256": "79ca3963f0f6bb3cc6e17a87876adf70bc9fcb37e52eb65335b9417d460a6910",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWa2JEPXYAIB82A.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWa2JEPXYAIB82A?format=jpg&name=large",
+      "sha256": "f0f21cba6269ac651bc8e25c962c96e2b97362609f9091b1491c2e991b0a5cc1",
+      "bytes": 294665,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "note": "浏览器原帖查看器提供的JPEG大图，原样保存；HTTP直链失败与浏览器保存成功分别记录。"
+    }
+  ],
+  "unarchived": []
+}

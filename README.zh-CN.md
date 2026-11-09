@@ -53,12 +53,12 @@
 | --- | ---: | ---: |
 | [品牌与商品](#category-brand-products) | 8 | 7 |
 | [海报与文字排版](#category-posters-typography) | 9 | 7 |
-| [信息图](#category-infographics) | 3 | 3 |
+| [信息图](#category-infographics) | 8 | 8 |
 | [室内与建筑](#category-interiors-architecture) | 3 | 2 |
-| [角色与一致性](#category-characters-consistency) | 22 | 19 |
-| [标注与局部编辑](#category-markup-edits) | 10 | 9 |
+| [角色与一致性](#category-characters-consistency) | 26 | 23 |
+| [标注与局部编辑](#category-markup-edits) | 11 | 10 |
 | [SVG 与设计素材](#category-svg-design-assets) | 4 | 3 |
-| [GIF 与动画](#category-gif-animation) | 64 | 54 |
+| [GIF 与动画](#category-gif-animation) | 89 | 81 |
 
 <a id="contents"></a>
 
@@ -90,12 +90,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **123** |
+| 来源案例 | **158** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **86** |
-| 来源公开原始提示词 | **97** |
-| 仓库内完整提示词 | **104** |
-| 本地收录素材文件 | **211** |
+| 社区作者自报案例 | **121** |
+| 来源公开原始提示词 | **132** |
+| 仓库内完整提示词 | **141** |
+| 本地收录素材文件 | **295** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -125,12 +125,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-09 | [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back) | 作者自报模型 |
-| 2026-11-09 | [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond) | 作者自报模型 |
-| 2026-11-09 | [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait) | 作者自报模型 |
-| 2026-11-09 | [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card) | 作者自报模型 |
-| 2026-11-09 | [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion) | 作者自报模型 |
-| 2026-11-09 | [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster) | 作者自报模型 |
+| 2026-11-09 | [寻宝地图路线动画](#source-case-social-treasure-map-route-loop) | 作者自报模型 |
+| 2026-11-09 | [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop) | 作者自报模型 |
+| 2026-11-09 | [相机爆炸拆解动画](#source-case-social-camera-exploded-loop) | 作者自报模型 |
+| 2026-11-09 | [网页生成摘要交互动画](#source-case-social-web-summary-interaction-loop) | 作者自报模型 |
+| 2026-11-09 | [季度营收动态图](#source-case-social-revenue-chart-loop) | 作者自报模型 |
+| 2026-11-09 | [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -799,13 +799,159 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 ---
 
+<a id="source-case-social-revenue-chart-loop"></a>
+
+#### 21. 季度营收动态图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-revenue-chart-loop/source-01.mp4"><img src="assets/readme-previews/social-revenue-chart-loop/source-01.jpg" alt="季度营收动态图" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>季度营收动态图</sub></td>
+<td align="center"><a href="assets/examples/social-revenue-chart-loop/preview-01.gif"><img src="assets/examples/social-revenue-chart-loop/preview-01.gif" alt="季度营收动态图——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>季度营收动态图——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+文生 GIF 动图，16:9，用于业绩汇报。清爽的二维扁平矢量信息图风格：暖白色背景、轻微纸张质感、大量留白，深海军蓝细线与明亮蓝色为主，珊瑚橙只用于强调增长。画面中央是一张大幅上升折线图，展示季度营收：Q1 120 万、Q2 168 万、Q3 215 万、Q4 306 万。
+动画开始时，浅灰色网格和坐标轴轻轻浮现；蓝色折线从 Q1 向 Q4 快速但顺滑地绘制，线下方出现半透明蓝色渐变填充。每到一个数据节点，圆点弹跳一下，对应的数值卡片弹出；线条经过时留下一小段发光轨迹。到达 Q4 时，终点出现珊瑚橙色上升箭头和“增长 155%”卡片，周围有少量星形闪光与圆环扩散。随后高亮、卡片和填充平滑收回，回到初始画面，形成首尾一致的 4 秒无缝循环 GIF。图表位置始终固定，动效有节奏感但不杂乱。不要人物、实拍质感、3D 效果、镜头运动或声音。
+```
+
+[原始提示词 (.txt)](cases/social-revenue-chart-loop/prompt.txt)
+
+来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。
+
+[原提示词见来源](https://x.com/aiwarts/status/2119435411667980473)
+
+**作者**: [aiwarts](https://x.com/aiwarts)
+
+**原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-revenue-chart-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-web-summary-interaction-loop"></a>
+
+#### 22. 网页生成摘要交互动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-web-summary-interaction-loop/source-01.mp4"><img src="assets/readme-previews/social-web-summary-interaction-loop/source-01.jpg" alt="网页生成摘要交互动画" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>网页生成摘要交互动画</sub></td>
+<td align="center"><a href="assets/examples/social-web-summary-interaction-loop/preview-01.gif"><img src="assets/examples/social-web-summary-interaction-loop/preview-01.gif" alt="网页生成摘要交互动画——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>网页生成摘要交互动画——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+制作一段 3 秒、可无缝循环的网页产品演示动图。鼠标点击文章右上角的“生成摘要”按钮，按钮短暂显示加载状态，右侧随即展开简洁的摘要卡片。镜头固定，保留真实界面布局，让点击和结果清晰可见；动画轻快、克制，不添加其他操作或虚构文案。
+```
+
+[原始提示词 (.txt)](cases/social-web-summary-interaction-loop/prompt.txt)
+
+来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。
+
+[原提示词见来源](https://x.com/aiwarts/status/2119435411667980473)
+
+**作者**: [aiwarts](https://x.com/aiwarts)
+
+**原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-web-summary-interaction-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-camera-exploded-loop"></a>
+
+#### 23. 相机爆炸拆解动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-camera-exploded-loop/source-01.mp4"><img src="assets/readme-previews/social-camera-exploded-loop/source-01.jpg" alt="相机爆炸拆解动画" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>相机爆炸拆解动画</sub></td>
+<td align="center"><a href="assets/examples/social-camera-exploded-loop/preview-01.gif"><img src="assets/examples/social-camera-exploded-loop/preview-01.gif" alt="相机爆炸拆解动画——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>相机爆炸拆解动画——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+等轴测 2.5D 爆炸拆解视图，一台经典的单反相机。拆成金属机身外壳、镜头零件、等等拆件的爆炸镜头，生成从完整相机到拆件的无缝循环 GIF 动图。
+```
+
+[原始提示词 (.txt)](cases/social-camera-exploded-loop/prompt.txt)
+
+来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。 原作者展示视频包含相机与键盘并排拆解；公开指令针对相机，本仓库保留完整来源视频，不裁成虚构的独立原件。
+
+[原提示词见来源](https://x.com/aiwarts/status/2119435411667980473)
+
+**作者**: [aiwarts](https://x.com/aiwarts)
+
+**原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-camera-exploded-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-ink-history-timeline-loop"></a>
+
+#### 24. 水墨历史长卷动态时间轴
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-ink-history-timeline-loop/source-01.mp4"><img src="assets/readme-previews/social-ink-history-timeline-loop/source-01.jpg" alt="水墨历史长卷动态时间轴" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>水墨历史长卷动态时间轴</sub></td>
+<td align="center"><a href="assets/examples/social-ink-history-timeline-loop/preview-01.gif"><img src="assets/examples/social-ink-history-timeline-loop/preview-01.gif" alt="水墨历史长卷动态时间轴——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>水墨历史长卷动态时间轴——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+历史科普长卷动态时间轴，动态 GIF，泛黄水墨宣纸质感底纹，手绘水墨写意风格，一支饱蘸浓墨的毛笔自左向右极速扫过划出一条起伏有力的墨迹时间线，墨迹划过之处依次如盖章般晕染浮现出四个朝代关键节点的微缩手绘插画：商周青铜司母戊鼎、秦代陶俑战车、盛唐飞天壁画阁楼与大明宝船，节点带有毛笔小楷年代标注，墨韵流动，首尾相接无缝循环
+```
+
+[原始提示词 (.txt)](cases/social-ink-history-timeline-loop/prompt.txt)
+
+来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。
+
+[原提示词见来源](https://x.com/aiwarts/status/2119435411667980473)
+
+**作者**: [aiwarts](https://x.com/aiwarts)
+
+**原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-ink-history-timeline-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-treasure-map-route-loop"></a>
+
+#### 25. 寻宝地图路线动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-treasure-map-route-loop/source-01.mp4"><img src="assets/readme-previews/social-treasure-map-route-loop/source-01.jpg" alt="寻宝地图路线动画" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>寻宝地图路线动画</sub></td>
+<td align="center"><a href="assets/examples/social-treasure-map-route-loop/preview-01.gif"><img src="assets/examples/social-treasure-map-route-loop/preview-01.gif" alt="寻宝地图路线动画——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>寻宝地图路线动画——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+复古探险寻宝手绘路线图，动态 GIF，泛黄古老牛皮纸羊皮纸地图质感，手绘等高线与山川河流，一条红色的虚线轨迹从左下角出发像活蛇般沿着山谷快速向前蜿蜒穿梭，轨迹前端是一辆可爱的复古小越野车在颠簸狂奔，每到达一个补给站地标，一枚立体红色图钉便伴随微小冲击波咚地一声精准扎在地图上，最终在右上角的大红叉宝藏点画圈点亮，冒险故事感
+```
+
+[原始提示词 (.txt)](cases/social-treasure-map-route-loop/prompt.txt)
+
+来源为作者在X发布的长文，按该段独立指令与紧接其后的媒体对应收录。作者的价格、模型能力、历史准确性等论断未独立验证。
+
+[原提示词见来源](https://x.com/aiwarts/status/2119435411667980473)
+
+**作者**: [aiwarts](https://x.com/aiwarts)
+
+**原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-treasure-map-route-loop/README.zh-CN.md)
+
+---
+
 <a id="category-interiors-architecture"></a>
 
 ### 室内与建筑
 
 <a id="source-case-docs-room-chairs"></a>
 
-#### 21. 室内更换椅子
+#### 26. 室内更换椅子
 
 <table>
 <tr>
@@ -842,7 +988,7 @@ Photorealistic contact shadows and fabric texture.
 
 <a id="source-case-launch-fal"></a>
 
-#### 22. 客厅标注编辑
+#### 27. 客厅标注编辑
 
 <table>
 <tr>
@@ -875,7 +1021,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-community-sunburst-dust-detail"></a>
 
-#### 23. 尘埃仓库提示细节对比
+#### 28. 尘埃仓库提示细节对比
 
 <table>
 <tr>
@@ -899,7 +1045,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-docs-complexity"></a>
 
-#### 24. 纸艺夺冠场景：复杂度比较
+#### 29. 纸艺夺冠场景：复杂度比较
 
 <table>
 <tr>
@@ -927,7 +1073,7 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 <a id="source-case-docs-sailor"></a>
 
-#### 25. 渔船水手写实人像
+#### 30. 渔船水手写实人像
 
 <table>
 <tr>
@@ -956,7 +1102,7 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 <a id="source-case-docs-historical-crowd"></a>
 
-#### 26. 1969 年历史人群场景
+#### 31. 1969 年历史人群场景
 
 <table>
 <tr>
@@ -982,7 +1128,7 @@ Photorealistic, period-accurate clothing, staging, and environment.
 
 <a id="source-case-docs-pet-comic"></a>
 
-#### 27. 宠物四格漫画
+#### 32. 宠物四格漫画
 
 <table>
 <tr>
@@ -1011,7 +1157,7 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 
 <a id="source-case-docs-outfit"></a>
 
-#### 28. 保留人物身份换装
+#### 33. 保留人物身份换装
 
 <table>
 <tr>
@@ -1048,7 +1194,7 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 <a id="source-case-docs-person-scene"></a>
 
-#### 29. 人物放入露营逃跑场景
+#### 34. 人物放入露营逃跑场景
 
 <table>
 <tr>
@@ -1075,7 +1221,7 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 
 <a id="source-case-docs-character-start"></a>
 
-#### 30. 建立童书角色
+#### 35. 建立童书角色
 
 <table>
 <tr>
@@ -1120,7 +1266,7 @@ Constraints:
 
 <a id="source-case-docs-character-story"></a>
 
-#### 31. 同一角色续写故事
+#### 36. 同一角色续写故事
 
 <table>
 <tr>
@@ -1165,7 +1311,7 @@ Constraints:
 
 <a id="source-case-launch-picsart"></a>
 
-#### 32. 彩色玻璃鲸鱼
+#### 37. 彩色玻璃鲸鱼
 
 <table>
 <tr>
@@ -1185,7 +1331,7 @@ Constraints:
 
 <a id="source-case-launch-higgsfield"></a>
 
-#### 33. 骑士连续换景换装
+#### 38. 骑士连续换景换装
 
 <table>
 <tr>
@@ -1235,7 +1381,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-community-marco-reference-photo-board"></a>
 
-#### 34. 参考图引导的庭院摄影组图
+#### 39. 参考图引导的庭院摄影组图
 
 <table>
 <tr>
@@ -1255,7 +1401,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
 
-#### 35. Sunburst 庭院对比
+#### 40. Sunburst 庭院对比
 
 <table>
 <tr>
@@ -1275,7 +1421,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-community-marco-mushroom-fashion-portrait"></a>
 
-#### 36. 蘑菇光影时装人像
+#### 41. 蘑菇光影时装人像
 
 <table>
 <tr>
@@ -1304,7 +1450,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
 
-#### 37. Sunburst 六种风格样例集
+#### 42. Sunburst 六种风格样例集
 
 <table>
 <tr>
@@ -1324,7 +1470,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
 
-#### 38. Sunburst 窗边三花猫
+#### 43. Sunburst 窗边三花猫
 
 <table>
 <tr>
@@ -1344,7 +1490,7 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 <a id="source-case-social-woman-holding-tea-mug"></a>
 
-#### 39. 女子在家中手持花纹茶杯
+#### 44. 女子在家中手持花纹茶杯
 
 <table>
 <tr>
@@ -1370,7 +1516,7 @@ a realistic photo of a woman holding a cup of tea inside her home
 
 <a id="source-case-social-90s-film-snapshot-woman"></a>
 
-#### 40. 浅蓝色卫衣女孩站在拍立得照片墙前
+#### 45. 浅蓝色卫衣女孩站在拍立得照片墙前
 
 <table>
 <tr>
@@ -1396,7 +1542,7 @@ A young woman with the same unchanged face and soft natural complexion, captured
 
 <a id="source-case-social-cyan-poetry-wet-portrait"></a>
 
-#### 41. 湿润皮肤上的发光青色诗句与公式
+#### 46. 湿润皮肤上的发光青色诗句与公式
 
 <table>
 <tr>
@@ -1422,7 +1568,7 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 
 <a id="source-case-social-sleepy-star-eyed-emoji-fusion"></a>
 
-#### 42. Emoji 与颜文字融合表情海报
+#### 47. Emoji 与颜文字融合表情海报
 
 <table>
 <tr>
@@ -1479,7 +1625,7 @@ iOS 系統Emoji × 顏文字× 全新表情設計
 
 <a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
 
-#### 43. 月夜湖畔水中端坐的古风女子
+#### 48. 月夜湖畔水中端坐的古风女子
 
 <table>
 <tr>
@@ -1527,7 +1673,7 @@ Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montse
 
 <a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
 
-#### 44. 夕阳下荷塘边坐着的汉服女子
+#### 49. 夕阳下荷塘边坐着的汉服女子
 
 <table>
 <tr>
@@ -1553,7 +1699,7 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 <a id="source-case-social-sunset-beach-look-back"></a>
 
-#### 45. 夕阳海边回头的女子
+#### 50. 夕阳海边回头的女子
 
 <table>
 <tr>
@@ -1589,13 +1735,146 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 ---
 
+<a id="source-case-social-streetwear-cap-headphones-portrait"></a>
+
+#### 51. 棒球帽与耳机女子的阳光街拍
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg"><img src="assets/examples/social-streetwear-cap-headphones-portrait/source-01.jpg" alt="棒球帽与耳机女子的阳光街拍" width="700" /></a><br /><sub>棒球帽与耳机女子的阳光街拍</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A cinematic 35mm street-snap photograph captured at eye level — a three-quarter medium portrait of a cool, stylish young East Asian woman on a sunlit urban sidewalk, turning in profile toward camera-left.
+
+She possesses top-tier model beauty with sharp facial features, defined cheekbones, amber-tinted eyes, and dark hair falling from beneath a clean white baseball cap as her right hand lifts the brim. She wears retro green metallic over-ear wired headphones, a silver dog-tag necklace, and a fitted white cropped tank top displaying athletic toned abs. An oversized light-wash blue denim trucker jacket drapes loosely off her shoulders, paired with low-rise baggy jeans and a black belt, her left hand casually tucked into her pocket.
+
+The setting is a vibrant metropolitan avenue in bright daylight. Natural afternoon sun creates soft rim lighting along her hair strands and denim fabric, with the bustling street and modern architecture softly blurred into natural depth of field behind her.
+
+Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organic film grain in an M1 street narrative register. Real human skin with visible fine pores, subtle natural warmth, and authentic heavy cotton denim weave — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
+```
+
+[原始提示词 (.txt)](cases/social-streetwear-cap-headphones-portrait/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/johnAGI168/status/2118581030781382805)
+
+**作者**: [johnAGI168](https://x.com/johnAGI168)
+
+**原始来源**: [作者自报模型](https://x.com/johnAGI168/status/2118581030781382805) · [来源详情](cases/social-streetwear-cap-headphones-portrait/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-kimono-door-peephole-portrait"></a>
+
+#### 52. 门镜中的和服女子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-kimono-door-peephole-portrait/source-01.jpg"><img src="assets/examples/social-kimono-door-peephole-portrait/source-01.jpg" alt="门镜中的和服女子" width="360" /></a><br /><sub>门镜中的和服女子</sub></td>
+<td align="center"><a href="assets/examples/social-kimono-door-peephole-portrait/source-02.jpg"><img src="assets/examples/social-kimono-door-peephole-portrait/source-02.jpg" alt="门镜中的和服女子" width="360" /></a><br /><sub>门镜中的和服女子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+玄関先でこちらを見るキャラ。
+[＊＊＊]
+キャラは、アップロード画像を参照。
+顔・髪型・服装まで忠実に再現。
+晴れた住宅街、自然光。
+アスペクト比縦4:5。
+```
+
+[原始提示词 (.txt)](cases/social-kimono-door-peephole-portrait/prompt.txt)
+
+原帖提供“ドアスコープ”或“インターホン室内モニター”两个占位选项；保留原文占位符。两张附件为同一工作流的不同观察视角；未提供单独参考输入。
+
+[原提示词见来源](https://x.com/kabumira862571/status/2118220107487051883)
+
+**作者**: [kabumira862571](https://x.com/kabumira862571)
+
+**原始来源**: [作者自报模型](https://x.com/kabumira862571/status/2118220107487051883) · [来源详情](cases/social-kimono-door-peephole-portrait/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-keor-elevator-mirror-portrait"></a>
+
+#### 53. 镜面电梯中的Keor刺绣服装女子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg"><img src="assets/examples/social-keor-elevator-mirror-portrait/source-01.jpg" alt="镜面电梯中的Keor刺绣服装女子" width="700" /></a><br /><sub>镜面电梯中的Keor刺绣服装女子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+{"subject": {"description": "A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure.", "pose": "Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror.", "clothing": {"main": "Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace.", "modifications": "Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible."}}, "setting": {"environment": "Modern elevator interior with mirrored walls, metal panels, and a digital display.", "lighting": "Bright indoor elevator lighting creating reflections on the metal and mirrors."}, "style": {"photography": "Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections.", "mood": "Edgy, confident, and stylish.", "composition": "Medium full-body shot capturing the subject and her mirror reflection."}, "full_prompt": "Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures."}
+```
+
+[原始提示词 (.txt)](cases/social-keor-elevator-mirror-portrait/prompt.txt)
+
+原帖明确左图2.5、右图2.6；仅保存右侧2.6结果。保留作者JSON指令中高跟鞋与靴子用词不一致的原文，不代改。
+
+[原提示词见来源](https://x.com/tadasgedgaudas/status/2118284291381875124)
+
+**作者**: [tadasgedgaudas](https://x.com/tadasgedgaudas)
+
+**原始来源**: [作者自报模型](https://x.com/tadasgedgaudas/status/2118284291381875124) · [来源详情](cases/social-keor-elevator-mirror-portrait/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-japanese-office-short-prompts"></a>
+
+#### 54. 日本办公室随拍的简短提示词对照
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-01.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-01.jpg" alt="日本办公室随拍的简短提示词对照" width="360" /></a><br /><sub>日本办公室随拍的简短提示词对照</sub></td>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-02.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-02.jpg" alt="日本办公室随拍的简短提示词对照" width="360" /></a><br /><sub>日本办公室随拍的简短提示词对照</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-03.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-03.jpg" alt="日本办公室随拍的简短提示词对照" width="360" /></a><br /><sub>日本办公室随拍的简短提示词对照</sub></td>
+<td align="center"><a href="assets/examples/social-japanese-office-short-prompts/source-04.jpg"><img src="assets/examples/social-japanese-office-short-prompts/source-04.jpg" alt="日本办公室随拍的简短提示词对照" width="360" /></a><br /><sub>日本办公室随拍的简短提示词对照</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+1,2枚目:縦長9:16の超写実的な実写写真。
+成人日本人女性。日本の一般的なオフィス。
+
+3,4枚目:縦長9:16の超写実的な実写写真スマホ画質のスナップショット。
+成人日本人女性。日本の一般的なオフィス。
+```
+
+[原始提示词 (.txt)](cases/social-japanese-office-short-prompts/prompt.txt)
+
+两组简短指令对应原帖第1/2张与第3/4张；四张输出属于同一提示词对照实验，合并一例。
+
+[原提示词见来源](https://x.com/buusk4/status/2118543259257712714)
+
+**作者**: [buusk4](https://x.com/buusk4)
+
+**原始来源**: [作者自报模型](https://x.com/buusk4/status/2118543259257712714) · [来源详情](cases/social-japanese-office-short-prompts/README.zh-CN.md)
+
+---
+
 <a id="category-markup-edits"></a>
 
 ### 标注与局部编辑
 
 <a id="source-case-docs-vase-markup"></a>
 
-#### 46. 标注花瓶后局部换色
+#### 55. 标注花瓶后局部换色
 
 <table>
 <tr>
@@ -1629,7 +1908,7 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="source-case-docs-spanish-edit"></a>
 
-#### 47. 信息图改为西班牙语
+#### 56. 信息图改为西班牙语
 
 <table>
 <tr>
@@ -1654,7 +1933,7 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 
 <a id="source-case-docs-pixel-style"></a>
 
-#### 48. 像素风格迁移
+#### 57. 像素风格迁移
 
 <table>
 <tr>
@@ -1688,7 +1967,7 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 <a id="source-case-docs-dog-composite"></a>
 
-#### 49. 跨图合成宠物
+#### 58. 跨图合成宠物
 
 <table>
 <tr>
@@ -1723,7 +2002,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="source-case-docs-sketch-render"></a>
 
-#### 50. 线稿转写实场景
+#### 59. 线稿转写实场景
 
 <table>
 <tr>
@@ -1760,7 +2039,7 @@ Do not add new elements or text.
 
 <a id="source-case-docs-remove-flower"></a>
 
-#### 51. 移除手持花朵
+#### 60. 移除手持花朵
 
 <table>
 <tr>
@@ -1794,7 +2073,7 @@ Remove the flower from man's hand. Do not change anything else.
 
 <a id="source-case-docs-snow-edit"></a>
 
-#### 52. 广告牌场景改为雪夜
+#### 61. 广告牌场景改为雪夜
 
 <table>
 <tr>
@@ -1819,7 +2098,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
 
-#### 53. 兔子绘本场景日暮编辑
+#### 62. 兔子绘本场景日暮编辑
 
 <table>
 <tr>
@@ -1839,7 +2118,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-nyle-webinar-date-edit"></a>
 
-#### 54. 网络研讨会日期替换对比
+#### 63. 网络研讨会日期替换对比
 
 <table>
 <tr>
@@ -1865,7 +2144,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-social-portugal-folk-christmas-card"></a>
 
-#### 55. 照片转民间艺术风圣诞贺卡
+#### 64. 照片转民间艺术风圣诞贺卡
 
 <table>
 <tr>
@@ -1924,13 +2203,41 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 ---
 
+<a id="source-case-social-circle-markup-santa-gift-edit"></a>
+
+#### 65. 红蓝圈标注编辑圣诞帽与礼物盒
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg"><img src="assets/examples/social-circle-markup-santa-gift-edit/source-01.jpg" alt="红蓝圈标注编辑圣诞帽与礼物盒" width="700" /></a><br /><sub>红蓝圈标注编辑圣诞帽与礼物盒</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+赤丸にサンタ帽、青丸の本はプレゼントに
+```
+
+[原始提示词 (.txt)](cases/social-circle-markup-santa-gift-edit/prompt.txt)
+
+保存原帖标注编辑对照图；同帖另一段眨眼动画和成本图解不属于本例输出。原提示词为作者公开的局部编辑短句。
+
+[原提示词见来源](https://x.com/IHayato/status/2118151619212890291)
+
+**作者**: [IHayato](https://x.com/IHayato)
+
+**原始来源**: [作者自报模型](https://x.com/IHayato/status/2118151619212890291) · [来源详情](cases/social-circle-markup-santa-gift-edit/README.zh-CN.md)
+
+---
+
 <a id="category-svg-design-assets"></a>
 
 ### SVG 与设计素材
 
 <a id="source-case-docs-bakery-svg"></a>
 
-#### 56. 面包店 SVG 标志
+#### 66. 面包店 SVG 标志
 
 <table>
 <tr>
@@ -1958,7 +2265,7 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 <a id="source-case-docs-market-ui"></a>
 
-#### 57. 农夫市场手机界面
+#### 67. 农夫市场手机界面
 
 <table>
 <tr>
@@ -1987,7 +2294,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-bear-svg-comparison"></a>
 
-#### 58. 熊吉祥物：SVG 与 PNG 输出预览对比
+#### 68. 熊吉祥物：SVG 与 PNG 输出预览对比
 
 <table>
 <tr>
@@ -2008,7 +2315,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-struggle-code-lightning-svg"></a>
 
-#### 59. 代码闪电矢量标志
+#### 69. 代码闪电矢量标志
 
 <table>
 <tr>
@@ -2036,7 +2343,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-docs-lantern-gif"></a>
 
-#### 60. 提灯猴循环 GIF
+#### 70. 提灯猴循环 GIF
 
 <table>
 <tr>
@@ -2060,7 +2367,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 <a id="source-case-launch-openart-down"></a>
 
-#### 61. 股价下跌的办公角色 GIF
+#### 71. 股价下跌的办公角色 GIF
 
 <table>
 <tr>
@@ -2086,7 +2393,7 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 <a id="source-case-launch-openart-up"></a>
 
-#### 62. 股价上涨的办公角色 GIF
+#### 72. 股价上涨的办公角色 GIF
 
 <table>
 <tr>
@@ -2112,7 +2419,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-owl"></a>
 
-#### 63. 猫头鹰草图变动画
+#### 73. 猫头鹰草图变动画
 
 <table>
 <tr>
@@ -2141,7 +2448,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-town"></a>
 
-#### 64. Monty 打字状态动画
+#### 74. Monty 打字状态动画
 
 <table>
 <tr>
@@ -2161,7 +2468,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-malfoid"></a>
 
-#### 65. 夏日角色插画动画
+#### 75. 夏日角色插画动画
 
 **图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
 
@@ -2177,7 +2484,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-gifts"></a>
 
-#### 66. Images 2.6 brings GIF(T)S :D
+#### 76. Images 2.6 brings GIF(T)S :D
 
 **图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
@@ -2193,7 +2500,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-boxing-tiger"></a>
 
-#### 67. 拳击老虎动画
+#### 77. 拳击老虎动画
 
 <table>
 <tr>
@@ -2214,7 +2521,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-hummingbird-variants"></a>
 
-#### 68. 蜂鸟与翠鸟动画多版本
+#### 78. 蜂鸟与翠鸟动画多版本
 
 <table>
 <tr>
@@ -2242,7 +2549,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-rosebud-animation"></a>
 
-#### 69. 玫瑰花蕾动画
+#### 79. 玫瑰花蕾动画
 
 <table>
 <tr>
@@ -2263,7 +2570,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-ailingqu-jelly-bear-wobble"></a>
 
-#### 70. Q 弹果冻熊摇晃
+#### 80. Q 弹果冻熊摇晃
 
 <table>
 <tr>
@@ -2291,7 +2598,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-bunny-reaction-set"></a>
 
-#### 71. 白兔表情贴纸组
+#### 81. 白兔表情贴纸组
 
 <table>
 <tr>
@@ -2341,7 +2648,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
 
-#### 72. 卡通猫挥手打招呼
+#### 82. 卡通猫挥手打招呼
 
 <table>
 <tr>
@@ -2369,7 +2676,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-shiba-head-tilt"></a>
 
-#### 73. 柴犬歪头疑惑
+#### 83. 柴犬歪头疑惑
 
 <table>
 <tr>
@@ -2397,7 +2704,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
 
-#### 74. 猫猫疯狂打字
+#### 84. 猫猫疯狂打字
 
 <table>
 <tr>
@@ -2425,7 +2732,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-frog-heart-bubble"></a>
 
-#### 75. 青蛙吹出爱心
+#### 85. 青蛙吹出爱心
 
 <table>
 <tr>
@@ -2453,7 +2760,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
 
-#### 76. 企鹅捂脸
+#### 86. 企鹅捂脸
 
 <table>
 <tr>
@@ -2481,7 +2788,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-basketball-shot-sticker"></a>
 
-#### 77. 投篮命中庆祝
+#### 87. 投篮命中庆祝
 
 <table>
 <tr>
@@ -2509,7 +2816,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
 
-#### 78. 猫厨师颠勺炒饭
+#### 88. 猫厨师颠勺炒饭
 
 <table>
 <tr>
@@ -2537,7 +2844,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
 
-#### 79. 黑猫出拳
+#### 89. 黑猫出拳
 
 <table>
 <tr>
@@ -2565,7 +2872,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-office-cat-workday-set"></a>
 
-#### 80. 打工猫上下班表情组
+#### 90. 打工猫上下班表情组
 
 <table>
 <tr>
@@ -2604,7 +2911,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-roaring-duck"></a>
 
-#### 81. 咆哮的小黄鸭
+#### 91. 咆哮的小黄鸭
 
 <table>
 <tr>
@@ -2632,7 +2939,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-flower-macro-flash"></a>
 
-#### 82. 花卉微距快闪
+#### 92. 花卉微距快闪
 
 <table>
 <tr>
@@ -2660,7 +2967,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
 
-#### 83. 猫头 Logo 品牌快闪
+#### 93. 猫头 Logo 品牌快闪
 
 <table>
 <tr>
@@ -2688,7 +2995,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-sneaker-colorway-flash"></a>
 
-#### 84. 球鞋配色快闪
+#### 94. 球鞋配色快闪
 
 <table>
 <tr>
@@ -2716,7 +3023,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
 
-#### 85. 一棵树的四季
+#### 95. 一棵树的四季
 
 <table>
 <tr>
@@ -2744,7 +3051,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-magazine-panels-pop"></a>
 
-#### 86. 杂志拼贴逐格弹出
+#### 96. 杂志拼贴逐格弹出
 
 <table>
 <tr>
@@ -2772,7 +3079,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
 
-#### 87. 窗边读书·白天到夜晚
+#### 97. 窗边读书·白天到夜晚
 
 <table>
 <tr>
@@ -2800,7 +3107,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-steaming-coffee"></a>
 
-#### 88. 冒热气的咖啡
+#### 98. 冒热气的咖啡
 
 <table>
 <tr>
@@ -2828,7 +3135,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-rain-on-window"></a>
 
-#### 89. 雨窗与绿植
+#### 99. 雨窗与绿植
 
 <table>
 <tr>
@@ -2856,7 +3163,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-goldfish-bowl"></a>
 
-#### 90. 鱼缸里的金鱼
+#### 100. 鱼缸里的金鱼
 
 <table>
 <tr>
@@ -2884,7 +3191,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
 
-#### 91. 夜晚的灯塔
+#### 101. 夜晚的灯塔
 
 <table>
 <tr>
@@ -2912,7 +3219,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-by-fireplace"></a>
 
-#### 92. 壁炉边睡觉的猫
+#### 102. 壁炉边睡觉的猫
 
 <table>
 <tr>
@@ -2940,7 +3247,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
 
-#### 93. 雪林提灯的小猴子
+#### 103. 雪林提灯的小猴子
 
 <table>
 <tr>
@@ -2968,7 +3275,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-sleepy-fox-rock"></a>
 
-#### 94. 苔石上打盹的小狐狸
+#### 104. 苔石上打盹的小狐狸
 
 <table>
 <tr>
@@ -2996,7 +3303,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
 
-#### 95. Lo-fi 学习循环
+#### 105. Lo-fi 学习循环
 
 <table>
 <tr>
@@ -3024,7 +3331,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cafe-cinemagraph"></a>
 
-#### 96. 街角咖啡馆动态照片
+#### 106. 街角咖啡馆动态照片
 
 <table>
 <tr>
@@ -3052,7 +3359,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
 
-#### 97. 水墨奔马
+#### 107. 水墨奔马
 
 <table>
 <tr>
@@ -3080,7 +3387,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-doodle-monster"></a>
 
-#### 98. 涂鸦小怪兽活了
+#### 108. 涂鸦小怪兽活了
 
 <table>
 <tr>
@@ -3108,7 +3415,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
 
-#### 99. 像素风篝火
+#### 109. 像素风篝火
 
 <table>
 <tr>
@@ -3136,7 +3443,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-bouncing-dots-loader"></a>
 
-#### 100. 弹跳圆点加载动画
+#### 110. 弹跳圆点加载动画
 
 <table>
 <tr>
@@ -3164,7 +3471,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
 
-#### 101. 像素骑士跑步循环
+#### 111. 像素骑士跑步循环
 
 <table>
 <tr>
@@ -3192,7 +3499,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-like-heart-burst"></a>
 
-#### 102. 点赞爱心爆开
+#### 112. 点赞爱心爆开
 
 <table>
 <tr>
@@ -3220,7 +3527,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
 
-#### 103. 沙漏加载
+#### 113. 沙漏加载
 
 <table>
 <tr>
@@ -3248,7 +3555,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-arcade-vs-screen"></a>
 
-#### 104. 街机对战 VS 画面
+#### 114. 街机对战 VS 画面
 
 <table>
 <tr>
@@ -3276,7 +3583,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
 
-#### 105. 8-bit 史莱姆 Boss 战
+#### 115. 8-bit 史莱姆 Boss 战
 
 <table>
 <tr>
@@ -3304,7 +3611,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-love-burst-skill"></a>
 
-#### 106. 爱心爆发技能动画
+#### 116. 爱心爆发技能动画
 
 <table>
 <tr>
@@ -3332,7 +3639,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
 
-#### 107. 废品场机器人行走
+#### 117. 废品场机器人行走
 
 <table>
 <tr>
@@ -3360,7 +3667,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
 
-#### 108. Robin 猫眨眼与落下的姓名帽
+#### 118. Robin 猫眨眼与落下的姓名帽
 
 <table>
 <tr>
@@ -3385,7 +3692,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
 
-#### 109. 蓝发女仆对话动画原型
+#### 119. 蓝发女仆对话动画原型
 
 <table>
 <tr>
@@ -3405,7 +3712,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
 
-#### 110. Ram Altman 内存条恶搞动画
+#### 120. Ram Altman 内存条恶搞动画
 
 <table>
 <tr>
@@ -3425,7 +3732,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-sailor-dance"></a>
 
-#### 111. 月下美少女战士舞蹈
+#### 121. 月下美少女战士舞蹈
 
 <table>
 <tr>
@@ -3449,7 +3756,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-cat-programmer"></a>
 
-#### 112. 黏土橘猫敲键盘
+#### 122. 黏土橘猫敲键盘
 
 <table>
 <tr>
@@ -3473,7 +3780,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-desk-animation"></a>
 
-#### 113. 桌面照片清理并转动图
+#### 123. 桌面照片清理并转动图
 
 <table>
 <tr>
@@ -3506,7 +3813,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-zunbeho-parody-ad-gifs"></a>
 
-#### 114. 十款戏仿网页广告 GIF：日本创作者测试
+#### 124. 十款戏仿网页广告 GIF：日本创作者测试
 
 <table>
 <tr>
@@ -3542,7 +3849,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
 
-#### 115. Pixel♡Love：游泳角色动画帧表
+#### 125. Pixel♡Love：游泳角色动画帧表
 
 <table>
 <tr>
@@ -3562,7 +3869,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
 
-#### 116. 炭治郎像素风水刃循环动画
+#### 126. 炭治郎像素风水刃循环动画
 
 <table>
 <tr>
@@ -3613,7 +3920,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
 
-#### 117. 心跳舞模式对比：来源封面
+#### 127. 心跳舞模式对比：来源封面
 
 <table>
 <tr>
@@ -3633,7 +3940,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-malfoid-mood-stickers"></a>
 
-#### 118. 六段 Miss Malfoid 情绪贴纸循环动画
+#### 128. 六段 Miss Malfoid 情绪贴纸循环动画
 
 <table>
 <tr>
@@ -3662,7 +3969,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
 
-#### 119. Q版角色用筷子吃白米饭
+#### 129. Q版角色用筷子吃白米饭
 
 <table>
 <tr>
@@ -3698,7 +4005,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
 
-#### 120. 穿旗袍的Q版少女做可爱跳跃动作
+#### 130. 穿旗袍的Q版少女做可爱跳跃动作
 
 <table>
 <tr>
@@ -3734,7 +4041,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
 
-#### 121. 戴礼帽跳舞的卡通青蛙
+#### 131. 戴礼帽跳舞的卡通青蛙
 
 <table>
 <tr>
@@ -3761,7 +4068,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
 
-#### 122. 东京街头折叠手机屏幕播放平成风格动画
+#### 132. 东京街头折叠手机屏幕播放平成风格动画
 
 <table>
 <tr>
@@ -3788,7 +4095,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
 
-#### 123. 卡通小蜜蜂在手机上发帖打卡
+#### 133. 卡通小蜜蜂在手机上发帖打卡
 
 <table>
 <tr>
@@ -3810,6 +4117,870 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [MrGafish](https://x.com/MrGafish)
 
 **原始来源**: [作者自报模型](https://x.com/MrGafish/status/2118217749680025722) · [来源详情](cases/social-diligent-bee-daily-checkin-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-snowy-yard-wood-chopping"></a>
+
+#### 134. 雪中庭院里老人劈柴
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-snowy-yard-wood-chopping/source-01.mp4"><img src="assets/readme-previews/social-snowy-yard-wood-chopping/source-01.jpg" alt="雪中庭院里老人劈柴" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>雪中庭院里老人劈柴</sub></td>
+<td align="center"><a href="assets/examples/social-snowy-yard-wood-chopping/preview-01.gif"><img src="assets/examples/social-snowy-yard-wood-chopping/preview-01.gif" alt="雪中庭院里老人劈柴——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>雪中庭院里老人劈柴——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+[原始提示词 (.txt)](cases/social-snowy-yard-wood-chopping/prompt.txt)
+
+原帖左侧为劈柴动画，右侧女子转身动画未计入本案例。
+
+[原提示词见来源](https://x.com/koe_ai414/status/2118153765094351279)
+
+**作者**: [koe_ai414](https://x.com/koe_ai414)
+
+**原始来源**: [作者自报模型](https://x.com/koe_ai414/status/2118153765094351279) · [来源详情](cases/social-snowy-yard-wood-chopping/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-pixel-purple-lightning-bolts"></a>
+
+#### 135. 紫色闪电击飞螺母与螺栓的像素角色
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pixel-purple-lightning-bolts/source-01.mp4"><img src="assets/readme-previews/social-pixel-purple-lightning-bolts/source-01.jpg" alt="紫色闪电击飞螺母与螺栓的像素角色" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>紫色闪电击飞螺母与螺栓的像素角色</sub></td>
+<td align="center"><a href="assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif"><img src="assets/examples/social-pixel-purple-lightning-bolts/preview-01.gif" alt="紫色闪电击飞螺母与螺栓的像素角色——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>紫色闪电击飞螺母与螺栓的像素角色——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
+```
+
+[原始提示词 (.txt)](cases/social-pixel-purple-lightning-bolts/prompt.txt)
+
+原帖说明使用角色三视图；未找到该参考图的单独附件，不重建或冒充参考图。引用帖的勇者动画单独对应清单第27项。
+
+[原提示词见来源](https://x.com/YaReYaRu30Life/status/2118167174053597233)
+
+**作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
+
+**原始来源**: [作者自报模型](https://x.com/YaReYaRu30Life/status/2118167174053597233) · [来源详情](cases/social-pixel-purple-lightning-bolts/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-robot-pouring-coffee"></a>
+
+#### 136. 可爱机器人倒咖啡
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-robot-pouring-coffee/source-01.mp4"><img src="assets/readme-previews/social-robot-pouring-coffee/source-01.jpg" alt="可爱机器人倒咖啡" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>可爱机器人倒咖啡</sub></td>
+<td align="center"><a href="assets/examples/social-robot-pouring-coffee/preview-01.gif"><img src="assets/examples/social-robot-pouring-coffee/preview-01.gif" alt="可爱机器人倒咖啡——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>可爱机器人倒咖啡——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+コーヒーを淹れるロボット
+```
+
+[原始提示词 (.txt)](cases/social-robot-pouring-coffee/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/sousoccer6/status/2118210705585537226)
+
+**作者**: [sousoccer6](https://x.com/sousoccer6)
+
+**原始来源**: [作者自报模型](https://x.com/sousoccer6/status/2118210705585537226) · [来源详情](cases/social-robot-pouring-coffee/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-red-character-music-video-gif"></a>
+
+#### 137. 红衣角色的MV风格动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-red-character-music-video-gif/source-01.mp4"><img src="assets/readme-previews/social-red-character-music-video-gif/source-01.jpg" alt="红衣角色的MV风格动画" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>红衣角色的MV风格动画</sub></td>
+<td align="center"><a href="assets/examples/social-red-character-music-video-gif/preview-01.gif"><img src="assets/examples/social-red-character-music-video-gif/preview-01.gif" alt="红衣角色的MV风格动画——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>红衣角色的MV风格动画——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+[原始提示词 (.txt)](cases/social-red-character-music-video-gif/prompt.txt)
+
+作者说明以附件图为输入；原帖未提供独立输入图，只保存该帖公开动画。
+
+[原提示词见来源](https://x.com/Ayu_AI_0912/status/2118138025024839939)
+
+**作者**: [Ayu_AI_0912](https://x.com/Ayu_AI_0912)
+
+**原始来源**: [作者自报模型](https://x.com/Ayu_AI_0912/status/2118138025024839939) · [来源详情](cases/social-red-character-music-video-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-sunglasses-cat-dance"></a>
+
+#### 138. 紫光房间里戴墨镜跳舞的猫
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sunglasses-cat-dance/source-01.mp4"><img src="assets/readme-previews/social-sunglasses-cat-dance/source-01.jpg" alt="紫光房间里戴墨镜跳舞的猫" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>紫光房间里戴墨镜跳舞的猫</sub></td>
+<td align="center"><a href="assets/examples/social-sunglasses-cat-dance/preview-01.gif"><img src="assets/examples/social-sunglasses-cat-dance/preview-01.gif" alt="紫光房间里戴墨镜跳舞的猫——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>紫光房间里戴墨镜跳舞的猫——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
+```
+
+[原始提示词 (.txt)](cases/social-sunglasses-cat-dance/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108)
+
+**作者**: [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+
+**原始来源**: [作者自报模型](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · [来源详情](cases/social-sunglasses-cat-dance/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-pelican-riding-bicycle"></a>
+
+#### 139. 戴头盔的鹈鹕骑自行车
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pelican-riding-bicycle/source-01.mp4"><img src="assets/readme-previews/social-pelican-riding-bicycle/source-01.jpg" alt="戴头盔的鹈鹕骑自行车" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>戴头盔的鹈鹕骑自行车</sub></td>
+<td align="center"><a href="assets/examples/social-pelican-riding-bicycle/preview-01.gif"><img src="assets/examples/social-pelican-riding-bicycle/preview-01.gif" alt="戴头盔的鹈鹕骑自行车——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>戴头盔的鹈鹕骑自行车——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+generate a gif of a pelican riding a bicycle
+```
+
+[原始提示词 (.txt)](cases/social-pelican-riding-bicycle/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/SSHCodes/status/2118127375481504100)
+
+**作者**: [SSHCodes](https://x.com/SSHCodes)
+
+**原始来源**: [作者自报模型](https://x.com/SSHCodes/status/2118127375481504100) · [来源详情](cases/social-pelican-riding-bicycle/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-paper-boat-water-loop"></a>
+
+#### 140. 蓝色水面上摇晃的白色纸船
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-paper-boat-water-loop/source-01.mp4"><img src="assets/readme-previews/social-paper-boat-water-loop/source-01.jpg" alt="蓝色水面上摇晃的白色纸船" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>蓝色水面上摇晃的白色纸船</sub></td>
+<td align="center"><a href="assets/examples/social-paper-boat-water-loop/preview-01.gif"><img src="assets/examples/social-paper-boat-water-loop/preview-01.gif" alt="蓝色水面上摇晃的白色纸船——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>蓝色水面上摇晃的白色纸船——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Make a looping GIF of a paper boat bobbing on the water.
+```
+
+[原始提示词 (.txt)](cases/social-paper-boat-water-loop/prompt.txt)
+
+仅保留作者公开的纸船指令及对应动画。原帖关于版本识别、性能、价格或模型能力的论断不作为本仓库核验结论。
+
+[原提示词见来源](https://x.com/thinkszyg/status/2118166234495947044)
+
+**作者**: [thinkszyg](https://x.com/thinkszyg)
+
+**原始来源**: [作者自报模型](https://x.com/thinkszyg/status/2118166234495947044) · [来源详情](cases/social-paper-boat-water-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-osaka-castle-construction"></a>
+
+#### 141. 大阪城逐层建成天守阁
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-osaka-castle-construction/source-01.mp4"><img src="assets/readme-previews/social-osaka-castle-construction/source-01.jpg" alt="大阪城逐层建成天守阁" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>大阪城逐层建成天守阁</sub></td>
+<td align="center"><a href="assets/examples/social-osaka-castle-construction/preview-01.gif"><img src="assets/examples/social-osaka-castle-construction/preview-01.gif" alt="大阪城逐层建成天守阁——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>大阪城逐层建成天守阁——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+大阪城を建築する流れをGIFにして
+```
+
+[原始提示词 (.txt)](cases/social-osaka-castle-construction/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/jammaru_lab/status/2118153279821787623)
+
+**作者**: [jammaru_lab](https://x.com/jammaru_lab)
+
+**原始来源**: [作者自报模型](https://x.com/jammaru_lab/status/2118153279821787623) · [来源详情](cases/social-osaka-castle-construction/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-character-wave-laugh"></a>
+
+#### 142. 卡通角色挥手大笑
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-character-wave-laugh/source-01.mp4"><img src="assets/readme-previews/social-character-wave-laugh/source-01.jpg" alt="卡通角色挥手大笑" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>卡通角色挥手大笑</sub></td>
+<td align="center"><a href="assets/examples/social-character-wave-laugh/preview-01.gif"><img src="assets/examples/social-character-wave-laugh/preview-01.gif" alt="卡通角色挥手大笑——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>卡通角色挥手大笑——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+このキャラをGIFで動かして。手を振って笑う
+```
+
+[原始提示词 (.txt)](cases/social-character-wave-laugh/prompt.txt)
+
+原帖另附两张更新功能图解，不把功能图解计为模型输出或独立案例。未公开独立的角色输入图。
+
+[原提示词见来源](https://x.com/okan_aitool/status/2118201578406772887)
+
+**作者**: [okan_aitool](https://x.com/okan_aitool)
+
+**原始来源**: [作者自报模型](https://x.com/okan_aitool/status/2118201578406772887) · [来源详情](cases/social-character-wave-laugh/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-pixel-hero-glowing-sword"></a>
+
+#### 143. 像素勇者挥舞发光剑
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-pixel-hero-glowing-sword/source-01.mp4"><img src="assets/readme-previews/social-pixel-hero-glowing-sword/source-01.jpg" alt="像素勇者挥舞发光剑" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>像素勇者挥舞发光剑</sub></td>
+<td align="center"><a href="assets/examples/social-pixel-hero-glowing-sword/preview-01.gif"><img src="assets/examples/social-pixel-hero-glowing-sword/preview-01.gif" alt="像素勇者挥舞发光剑——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>像素勇者挥舞发光剑——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+[原始提示词 (.txt)](cases/social-pixel-hero-glowing-sword/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/YaReYaRu30Life/status/2118166505603153922)
+
+**作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
+
+**原始来源**: [作者自报模型](https://x.com/YaReYaRu30Life/status/2118166505603153922) · [来源详情](cases/social-pixel-hero-glowing-sword/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-falling-apple-frame-comparison"></a>
+
+#### 144. 苹果落下的GIF帧数对照
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-01.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-01.jpg" alt="苹果落下的GIF帧数对照" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>苹果落下的GIF帧数对照</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-02.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-02.jpg" alt="苹果落下的GIF帧数对照" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>苹果落下的GIF帧数对照</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-03.mp4"><img src="assets/readme-previews/social-falling-apple-frame-comparison/source-03.jpg" alt="苹果落下的GIF帧数对照" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>苹果落下的GIF帧数对照</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/source-04.jpg"><img src="assets/examples/social-falling-apple-frame-comparison/source-04.jpg" alt="苹果落下的GIF帧数对照" width="360" /></a><br /><sub>苹果落下的GIF帧数对照</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-01.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-01.gif" alt="苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本</sub></td>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-02.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-02.gif" alt="苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-falling-apple-frame-comparison/preview-03.gif"><img src="assets/examples/social-falling-apple-frame-comparison/preview-03.gif" alt="苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>苹果落下的GIF帧数对照——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**64 帧原始指令**
+
+```text
+3:4.
+GIF生成
+frame_count = 64
+frame_duration_ms = 30
+3:4で木からりんごが落ちる差分
+```
+
+[原始提示词 (.txt)](cases/social-falling-apple-frame-comparison/prompt-01.txt)
+
+**32 帧参数改动**
+
+```text
+frame_count = 32
+frame_duration_ms = 60
+```
+
+[原始提示词 (.txt)](cases/social-falling-apple-frame-comparison/prompt-02.txt)
+
+**8 帧参数改动**
+
+```text
+frame_count = 8
+frame_duration_ms = 120
+```
+
+[原始提示词 (.txt)](cases/social-falling-apple-frame-comparison/prompt-03.txt)
+
+同一苹果动画实验的64/32/8帧输出合并为一例；第二与第三段为作者公开的参数改动，沿用首段场景。作者对实现机制的推测不作为已验证事实。
+
+[原提示词见来源](https://x.com/rei_aitech/status/2118245102409908571)
+
+**作者**: [rei_aitech](https://x.com/rei_aitech)
+
+**原始来源**: [作者自报模型](https://x.com/rei_aitech/status/2118245102409908571) · [来源详情](cases/social-falling-apple-frame-comparison/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-line-dog-heart-loop"></a>
+
+#### 145. 头顶飘爱心的白色线条小狗
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-line-dog-heart-loop/source-01.mp4"><img src="assets/readme-previews/social-line-dog-heart-loop/source-01.jpg" alt="头顶飘爱心的白色线条小狗" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>头顶飘爱心的白色线条小狗</sub></td>
+<td align="center"><a href="assets/examples/social-line-dog-heart-loop/preview-01.gif"><img src="assets/examples/social-line-dog-heart-loop/preview-01.gif" alt="头顶飘爱心的白色线条小狗——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>头顶飘爱心的白色线条小狗——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。
+```
+
+[原始提示词 (.txt)](cases/social-line-dog-heart-loop/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/CalosLaw/status/2118199125707547102)
+
+**作者**: [CalosLaw](https://x.com/CalosLaw)
+
+**原始来源**: [作者自报模型](https://x.com/CalosLaw/status/2118199125707547102) · [来源详情](cases/social-line-dog-heart-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-standing-backflip-complexity"></a>
+
+#### 146. 站立后空翻的三种复杂度对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-standing-backflip-complexity/source-01.mp4"><img src="assets/readme-previews/social-standing-backflip-complexity/source-01.jpg" alt="站立后空翻的三种复杂度对比" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>站立后空翻的三种复杂度对比</sub></td>
+<td align="center"><a href="assets/examples/social-standing-backflip-complexity/preview-01.gif"><img src="assets/examples/social-standing-backflip-complexity/preview-01.gif" alt="站立后空翻的三种复杂度对比——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>站立后空翻的三种复杂度对比——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+create a GIF of a man doing a standing backflip
+```
+
+[原始提示词 (.txt)](cases/social-standing-backflip-complexity/prompt.txt)
+
+原文明确作者用Flare并比较low/medium/high complexity。公开的是任务短句，未公开完整API请求；不把complexity改称quality，也不把对比三栏计为三个案例。
+
+[原提示词见来源](https://x.com/gabrielchua/status/2118135343354720648)
+
+**作者**: [gabrielchua](https://x.com/gabrielchua)
+
+**原始来源**: [作者自报模型](https://x.com/gabrielchua/status/2118135343354720648) · [来源详情](cases/social-standing-backflip-complexity/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-anime-floating-orb-control"></a>
+
+#### 147. 动漫角色操控悬浮球体
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-anime-floating-orb-control/source-01.mp4"><img src="assets/readme-previews/social-anime-floating-orb-control/source-01.jpg" alt="动漫角色操控悬浮球体" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>动漫角色操控悬浮球体</sub></td>
+<td align="center"><a href="assets/examples/social-anime-floating-orb-control/preview-01.gif"><img src="assets/examples/social-anime-floating-orb-control/preview-01.gif" alt="动漫角色操控悬浮球体——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>动漫角色操控悬浮球体——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [动漫角色操控悬浮球体](assets/references/social-anime-floating-orb-control/source-02.jpg)
+
+</details>
+
+**原始提示词**
+
+```text
+添付画像を開始フレームとして球体をコントロールするキャラクター。
+画像生成で6秒尺。100枚で構成。
+ケレン味がありアニメーション12原則を意識した動き。
+```
+
+[原始提示词 (.txt)](cases/social-anime-floating-orb-control/prompt.txt)
+
+作者要求6秒、100张是原提示词内容，不表示仓库已验证实际输出参数。第二附件为公开参考输入。
+
+[原提示词见来源](https://x.com/MiraMusic_AI/status/2118513591490163168)
+
+**作者**: [MiraMusic_AI](https://x.com/MiraMusic_AI)
+
+**原始来源**: [作者自报模型](https://x.com/MiraMusic_AI/status/2118513591490163168) · [来源详情](cases/social-anime-floating-orb-control/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-golden-gate-gouache-loop"></a>
+
+#### 148. 金门大桥水粉旅行海报循环
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-golden-gate-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-golden-gate-gouache-loop/source-01.jpg" alt="金门大桥水粉旅行海报循环" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>金门大桥水粉旅行海报循环</sub></td>
+<td align="center"><a href="assets/examples/social-golden-gate-gouache-loop/preview-01.gif"><img src="assets/examples/social-golden-gate-gouache-loop/preview-01.gif" alt="金门大桥水粉旅行海报循环——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>金门大桥水粉旅行海报循环——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A living mid-century gouache travel-poster painting of the Golden Gate Bridge seen from a beach, static locked-off camera, seamless looping animation. The bridge is rust-orange with two tall towers, fine suspension cables and vertical hangers, spanning to a hazy grey-blue headland on the left and a tan-grey rocky cliff on the right. In the foreground deep cobalt and teal surf rolls in with white foam lines onto a sweeping beach of sandy beige scratchy dry-brush strokes, with dark rocks, a driftwood log and tiny figures in coral, navy and mustard. Warm cream sky with fine paper grain fills the upper half. Matte opaque gouache, ragged flaking edges, visible bristle streaks, speckled worn texture. Gentle motion only: waves wash and recede, foam shimmers, seagulls glide across the sky, tiny people wander. Soft hazy daylight, vertical 3:4, perfect loop.
+```
+
+[原始提示词 (.txt)](cases/social-golden-gate-gouache-loop/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/devteamdrew/status/2118538745175503130)
+
+**作者**: [devteamdrew](https://x.com/devteamdrew)
+
+**原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-golden-gate-gouache-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-colosseum-gouache-loop"></a>
+
+#### 149. 罗马斗兽场水粉旅行海报循环
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-colosseum-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-colosseum-gouache-loop/source-01.jpg" alt="罗马斗兽场水粉旅行海报循环" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>罗马斗兽场水粉旅行海报循环</sub></td>
+<td align="center"><a href="assets/examples/social-colosseum-gouache-loop/preview-01.gif"><img src="assets/examples/social-colosseum-gouache-loop/preview-01.gif" alt="罗马斗兽场水粉旅行海报循环——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>罗马斗兽场水粉旅行海报循环——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A living mid-century gouache travel-poster painting of the Roman Colosseum, locked-off static camera, a seamless looping animation. The ruined amphitheater sits low in the frame in sun-bleached ochre, sand and travertine with dusty rose and pale blue-grey arches, painted in dry-brush gouache with flaky, speckled edges and worn-away patches. A tall Italian stone pine in dark green and bottle-green leans in from the right, a vintage teal street lamp on the left, rose-coral flowering shrubs at the base. Open warm cream paper-textured sky fills the upper two thirds with fine paper grain. Gentle motion only: a few tiny birds drift across the sky, a cyclist rides slowly along the piazza, a small scooter, a couple in coral and mustard strolling, pine foliage barely sways. Soft warm afternoon light, long pale shadows, flat matte shapes, vertical 3:4, perfect loop.
+```
+
+[原始提示词 (.txt)](cases/social-colosseum-gouache-loop/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/devteamdrew/status/2118538745175503130)
+
+**作者**: [devteamdrew](https://x.com/devteamdrew)
+
+**原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-colosseum-gouache-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-fuji-gouache-loop"></a>
+
+#### 150. 富士山水粉旅行海报循环
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-fuji-gouache-loop/source-01.mp4"><img src="assets/readme-previews/social-fuji-gouache-loop/source-01.jpg" alt="富士山水粉旅行海报循环" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>富士山水粉旅行海报循环</sub></td>
+<td align="center"><a href="assets/examples/social-fuji-gouache-loop/preview-01.gif"><img src="assets/examples/social-fuji-gouache-loop/preview-01.gif" alt="富士山水粉旅行海报循环——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>富士山水粉旅行海报循环——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A living mid-century gouache travel-poster painting of Mount Fuji behind a five-storey Japanese pagoda, static locked-off camera, seamless looping animation. The pagoda is vermilion-orange with deep teal-slate tiled roofs, a slender spire, and a dark evergreen tree beside it. Fuji sits small and distant in dusty blue-grey with a snow-white cap and ragged dry-brush ridges, over a pale mist field. Foreground cherry trees in soft coral-pink blossom with dark trunks frame the bottom, and tiny figures stand on pale speckled ground. Warm cream paper-grain sky fills the upper half. Matte flat gouache with ragged, flaking edges, visible bristle marks and speckled holes. Subtle motion only: blossom petals drift down, branches sway faintly, tiny figures shift, a bell-like gentle shimmer on the light. Soft spring morning light, vertical 3:4, perfect loop.
+```
+
+[原始提示词 (.txt)](cases/social-fuji-gouache-loop/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/devteamdrew/status/2118538745175503130)
+
+**作者**: [devteamdrew](https://x.com/devteamdrew)
+
+**原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-fuji-gouache-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-dwarf-360-turntable"></a>
+
+#### 151. 持巨斧矮人360度旋转
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dwarf-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-dwarf-360-turntable/source-01.jpg" alt="持巨斧矮人360度旋转" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>持巨斧矮人360度旋转</sub></td>
+<td align="center"><a href="assets/examples/social-dwarf-360-turntable/preview-01.gif"><img src="assets/examples/social-dwarf-360-turntable/preview-01.gif" alt="持巨斧矮人360度旋转——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>持巨斧矮人360度旋转——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spinning full 360 degrees
+```
+
+[原始提示词 (.txt)](cases/social-dwarf-360-turntable/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/xikhar/status/2118409026044403849)
+
+**作者**: [xikhar](https://x.com/xikhar)
+
+**原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-dwarf-360-turntable/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-sword-360-turntable"></a>
+
+#### 152. 传奇宝剑360度旋转
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sword-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-sword-360-turntable/source-01.jpg" alt="传奇宝剑360度旋转" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>传奇宝剑360度旋转</sub></td>
+<td align="center"><a href="assets/examples/social-sword-360-turntable/preview-01.gif"><img src="assets/examples/social-sword-360-turntable/preview-01.gif" alt="传奇宝剑360度旋转——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>传奇宝剑360度旋转——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+create a gif of a "3d legendary sword in a stone game asset" spinning full 360 degrees
+```
+
+[原始提示词 (.txt)](cases/social-sword-360-turntable/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/xikhar/status/2118409026044403849)
+
+**作者**: [xikhar](https://x.com/xikhar)
+
+**原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-sword-360-turntable/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-motorbike-360-turntable"></a>
+
+#### 153. 未来摩托车360度旋转
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-motorbike-360-turntable/source-01.mp4"><img src="assets/readme-previews/social-motorbike-360-turntable/source-01.jpg" alt="未来摩托车360度旋转" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>未来摩托车360度旋转</sub></td>
+<td align="center"><a href="assets/examples/social-motorbike-360-turntable/preview-01.gif"><img src="assets/examples/social-motorbike-360-turntable/preview-01.gif" alt="未来摩托车360度旋转——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>未来摩托车360度旋转——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 degrees
+```
+
+[原始提示词 (.txt)](cases/social-motorbike-360-turntable/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/xikhar/status/2118409026044403849)
+
+**作者**: [xikhar](https://x.com/xikhar)
+
+**原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-motorbike-360-turntable/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-cat-spinning-gif"></a>
+
+#### 154. 旋转的猫
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-cat-spinning-gif/source-01.mp4"><img src="assets/readme-previews/social-cat-spinning-gif/source-01.jpg" alt="旋转的猫" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>旋转的猫</sub></td>
+<td align="center"><a href="assets/examples/social-cat-spinning-gif/preview-01.gif"><img src="assets/examples/social-cat-spinning-gif/preview-01.gif" alt="旋转的猫——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>旋转的猫——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+create a gif of a cat spinning
+```
+
+[原始提示词 (.txt)](cases/social-cat-spinning-gif/prompt.txt)
+
+提示词按原文保存；同一工作流的多张结果与展示副本合并计数。
+
+[原提示词见来源](https://x.com/xikhar/status/2118409026044403849)
+
+**作者**: [xikhar](https://x.com/xikhar)
+
+**原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-cat-spinning-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-gray-blender-hallway-draft"></a>
+
+#### 155. 灰色Blender走廊镜头动画草稿
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-gray-blender-hallway-draft/source-01.mp4"><img src="assets/readme-previews/social-gray-blender-hallway-draft/source-01.jpg" alt="灰色Blender走廊镜头动画草稿" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>灰色Blender走廊镜头动画草稿</sub></td>
+<td align="center"><a href="assets/examples/social-gray-blender-hallway-draft/preview-01.gif"><img src="assets/examples/social-gray-blender-hallway-draft/preview-01.gif" alt="灰色Blender走廊镜头动画草稿——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>灰色Blender走廊镜头动画草稿——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames. Make it look like a crude gray Blender viewport animation, not cinematic footage. A single continuous shot inside a rectangular hallway with a tiled floor and simple gray walls. The camera slowly advances toward a doorway. A black humanoid mannequin with unusually long arms emerges from behind the doorway. The camera suddenly whips right, falls onto its side, and stops. The mannequin slowly walks toward and past the fallen camera. Maintain consistent 3D geometry, character proportions, doorway placement, and spatial relationships. No cuts, no teleportation, no scene changes, no added props. Focus on exact camera movement, depth, and timing. The animation should play once as a complete sequence, not return to its starting pose.
+```
+
+[原始提示词 (.txt)](cases/social-gray-blender-hallway-draft/prompt.txt)
+
+仅收录作者Step 1的GPT Image 2.6灰模动画原件。后续延长与H3生成的最终视频属于其他阶段，不作为本案例的2.6输出。
+
+[原提示词见来源](https://x.com/cocktailpeanut/status/2118408801812643957)
+
+**作者**: [cocktailpeanut](https://x.com/cocktailpeanut)
+
+**原始来源**: [作者自报模型](https://x.com/cocktailpeanut/status/2118408795026043260) · [来源详情](cases/social-gray-blender-hallway-draft/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-summer-garden-water-gun"></a>
+
+#### 156. 夏日花园水枪动态场景
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/source-02.mp4"><img src="assets/readme-previews/social-summer-garden-water-gun/source-02.jpg" alt="夏日花园水枪动态场景" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>夏日花园水枪动态场景</sub></td>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/source-03.mp4"><img src="assets/readme-previews/social-summer-garden-water-gun/source-03.jpg" alt="夏日花园水枪动态场景" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>夏日花园水枪动态场景</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/preview-02.gif"><img src="assets/examples/social-summer-garden-water-gun/preview-02.gif" alt="夏日花园水枪动态场景——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>夏日花园水枪动态场景——由原MP4转码的GIF展示副本</sub></td>
+<td align="center"><a href="assets/examples/social-summer-garden-water-gun/preview-03.gif"><img src="assets/examples/social-summer-garden-water-gun/preview-03.gif" alt="夏日花园水枪动态场景——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>夏日花园水枪动态场景——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [夏日花园水枪动态场景](assets/references/social-summer-garden-water-gun/source-01.jpg)
+
+</details>
+
+**原始提示词**
+
+```text
+请以这个内容创建一个 GIF，内容是： # JAPANESE SUMMER｜夏日元气少女
+**10秒日系青春活力MV视频提示词**
+
+**画面规格：** 9:16 竖屏，10秒，30fps，写实摄影质感。
+
+**人物设定：**
+22岁成年东亚女性，清透冷白皮肤，短款深棕色波波头，轻薄空气刘海，五官甜美可爱，身材匀称。穿着参考图中的蓝色泳装、黄色镂空针织罩衫及牛仔短裤。人物保持统一，性格活泼俏皮，笑容自然，有青春少女的灵动感。
+
+**整体风格：**
+Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
+
+明亮通透的夏日阳光，翠绿花园，蓝色天空，橙色充气泳圈，水花飞溅。采用日本青春电影式混剪，快速切换全景、中景、近景和人物特写。画面具有轻微胶片颗粒、柔和高光、自然镜头运动。
+
+### 01｜10秒分镜设计
+
+**0—1.2秒｜开场钩子**
+低机位快速推进，女主坐在橙色充气泳圈上，双手拿着水枪，突然发现镜头，露出惊喜的笑容，水流突然朝镜头喷来。
+
+**1.2—2.4秒｜俏皮特写**
+快速硬切面部近景，女主被水花溅到，轻轻眯眼，随后露出调皮笑容，发丝随着动作轻轻晃动。阳光在脸颊形成漂亮的光斑。
+
+**2.4—3.6秒｜青春动态**
+侧面低机位，女主赤脚轻轻踢起草坪上的水花，镜头快速横向跟拍，橙色泳圈在前景掠过，形成自然遮挡转场。
+
+**3.6—4.8秒｜视觉节奏**
+俯拍镜头，女主拿着水枪在草坪上转身，水流划出弧线。镜头快速向下俯冲，再跟随水花向上抬起。
+
+**4.8—6.0秒｜少女感特写**
+正面近景，女主双手举起水枪，突然向镜头喷水，水珠在阳光下形成晶莹的高光，女主笑着躲避镜头。
+
+**6.0—7.3秒｜活力爆发**
+快速硬切至侧后方，女主从泳圈上轻巧起身，转身甩动头发，黄色针织罩衫随动作自然摆动，镜头进行半圈快速环绕。
+
+**7.3—8.7秒｜夏日氛围**
+广角镜头，女主在草坪上轻快地转圈，双手张开，阳光穿过树叶洒落，水花从前景飞过，画面充满夏日青春气息。
+
+**8.7—10秒｜记忆点结尾**
+突然切换正面近景，女主向镜头靠近，俏皮地歪头眨眼，随后拿起水枪再次喷水，水花覆盖整个镜头，最后定格在明亮的白色水花中。
+
+### 02｜音乐与剪辑
+
+原创日系青春J-POP配乐：
+- 轻快的电吉他、明亮合成器、活泼贝斯与清脆鼓点。
+- 约155—165 BPM，具有夏日偶像MV的轻盈节奏。
+- 开场直接进入音乐，不要冗长铺垫。
+- 每次鼓点配合一次硬切或动作变化。
+- 中间加入少量0.3—0.5秒高速慢动作水花特写，再迅速恢复正常速度。
+- 结尾音乐与水花覆盖镜头同步收束。
+
+### 03｜摄影与画面约束
+
+1. 混剪必须具有明显的景别变化，避免全程一个机位。
+2. 人物始终是画面视觉中心，保持同一张脸、发型和服装。
+3. 人物动作自然轻快，表情丰富，笑容甜美但不过度表演。
+4. 保留真实皮肤纹理、自然阳光与水珠物理效果。
+5. 镜头切换干净利落，利用水花、泳圈和人物动作完成匹配剪辑。
+6. 不要广告片质感，不要商业产品展示，不要字幕、文字、Logo、水印。
+7. 避免人物变脸、服装改变、手指畸形、肢体错位及水枪结构变形。
+
+**最终效果：像一支10秒的日本夏日青春偶像MV，轻松、明亮、活泼、俏皮，让人感受到夏天的快乐。**
+```
+
+[原始提示词 (.txt)](cases/social-summer-garden-water-gun/prompt.txt)
+
+保存原帖参考照片与两段GIF托管MP4，合并为一个工作流。提示词中的10秒、30fps与音乐要求为作者原文，不表示图片模型实际输出音轨或满足全部视频参数。
+
+[原提示词见来源](https://x.com/nima2qisi2/status/2118150229811920912)
+
+**作者**: [nima2qisi2](https://x.com/nima2qisi2)
+
+**原始来源**: [作者自报模型](https://x.com/nima2qisi2/status/2118150226330734787) · [来源详情](cases/social-summer-garden-water-gun/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-basketball-storyboard-to-gif"></a>
+
+#### 157. 动作分镜参考转投篮GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-basketball-storyboard-to-gif/source-01.mp4"><img src="assets/readme-previews/social-basketball-storyboard-to-gif/source-01.jpg" alt="动作分镜参考转投篮GIF" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>动作分镜参考转投篮GIF</sub></td>
+<td align="center"><a href="assets/examples/social-basketball-storyboard-to-gif/preview-01.gif"><img src="assets/examples/social-basketball-storyboard-to-gif/preview-01.gif" alt="动作分镜参考转投篮GIF——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>动作分镜参考转投篮GIF——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [动作分镜参考转投篮GIF](assets/references/social-basketball-storyboard-to-gif/source-02.jpg)
+
+</details>
+
+**原始提示词**
+
+```text
+创建一个gif，按照附图的动作顺序生成。
+```
+
+[原始提示词 (.txt)](cases/social-basketball-storyboard-to-gif/prompt.txt)
+
+作者先生成动作顺序图，再作为参考生成GIF；保存公开动作分镜作为输入，不伪造第一阶段未公开指令。
+
+[原提示词见来源](https://x.com/crayon1267/status/2118186300339892472)
+
+**作者**: [crayon1267](https://x.com/crayon1267)
+
+**原始来源**: [作者自报模型](https://x.com/crayon1267/status/2118186300339892472) · [来源详情](cases/social-basketball-storyboard-to-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-orange-office-cat-expression-grid"></a>
+
+#### 158. 橘猫打工人十二款表情网格
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-01.jpg"><img src="assets/examples/social-orange-office-cat-expression-grid/source-01.jpg" alt="橘猫打工人十二款表情网格" width="360" /></a><br /><sub>橘猫打工人十二款表情网格</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-02.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-02.jpg" alt="橘猫打工人十二款表情网格" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>橘猫打工人十二款表情网格</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-03.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-03.jpg" alt="橘猫打工人十二款表情网格" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>橘猫打工人十二款表情网格</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/source-04.mp4"><img src="assets/readme-previews/social-orange-office-cat-expression-grid/source-04.jpg" alt="橘猫打工人十二款表情网格" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>橘猫打工人十二款表情网格</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-02.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-02.gif" alt="橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本</sub></td>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-03.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-03.gif" alt="橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-orange-office-cat-expression-grid/preview-04.gif"><img src="assets/examples/social-orange-office-cat-expression-grid/preview-04.gif" alt="橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本" width="360" /></a><br /><sub>橘猫打工人十二款表情网格——由原MP4转码的GIF展示副本</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+画一套12款橘猫打工人表情包，圆脸胖橘戴蓝领带，粗黑蜡笔线条、橙蓝配色、米白底，表情夸张搞笑，角色保持一致。按3列×4行排列，分别配字：开心、气成河豚、委屈巴巴、笑不活了、收到、啊？、累瘫了、我裂开了、先装死、蹲个后续、没眼看、下班！
+```
+
+[原始提示词 (.txt)](cases/social-orange-office-cat-expression-grid/prompt.txt)
+
+保存一张12格静态表情网格与原帖公开的三段动态附件；未声称12段独立动画全部公开，同一角色集合合并为一例。 公开文字指令对应12格静图；三段动态的逐条追加指令未公开，不补造动画提示词。
+
+[原提示词见来源](https://x.com/karanwithai/status/2118156317034693026)
+
+**作者**: [karanwithai](https://x.com/karanwithai)
+
+**原始来源**: [作者自报模型](https://x.com/karanwithai/status/2118156092865994837) · [来源详情](cases/social-orange-office-cat-expression-grid/README.zh-CN.md)
 
 ---
 

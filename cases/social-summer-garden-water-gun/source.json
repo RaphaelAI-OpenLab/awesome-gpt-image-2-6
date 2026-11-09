@@ -1,0 +1,74 @@
+{
+  "source_url": "https://x.com/nima2qisi2/status/2118150226330734787",
+  "author": "nima2qisi2",
+  "model": "GPT Image 2.6",
+  "model_evidence": "卧槽，Chat GPT Image2.6 这波更新有点强啊！\n别以为只能做表情包这么简单，详细指令评论区👇",
+  "prompt_source_url": "https://x.com/nima2qisi2/status/2118150229811920912",
+  "prompts": [
+    {
+      "path": "cases/social-summer-garden-water-gun/prompt.txt",
+      "sha256": "745a263222b47bd3d0b9159daf0955d0c6c2a005b1e42bbdf35a428e54f9c23a"
+    }
+  ],
+  "source_html_sha256": "f3bf7b4852be5b1305974c6387b5f33d4cae298f1db34042c7023b0173d41376",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "保存原帖参考照片与两段GIF托管MP4，合并为一个工作流。提示词中的10秒、30fps与音乐要求为作者原文，不表示图片模型实际输出音轨或满足全部视频参数。",
+  "media": [
+    {
+      "path": "assets/examples/social-summer-garden-water-gun/source-02.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUtOnfbQAABlR8.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUtOnfbQAABlR8.mp4",
+      "sha256": "586220c20af8914704490554f3219f081f372829f48ad35b3821dda20d0ac46b",
+      "bytes": 197359,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-summer-garden-water-gun/source-03.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUtOnlboAAGF-X.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUtOnlboAAGF-X.mp4",
+      "sha256": "714c47d7a27bbdfcd71829846a087b75d090a4266e97188a7bcb006ef2903962",
+      "bytes": 175504,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-summer-garden-water-gun/preview-02.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUtOnfbQAABlR8.mp4",
+      "sha256": "14eaa433fb176701054f66bcbff54b379ee2f565b594f1848e40450c62375a94",
+      "bytes": 1901301,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-summer-garden-water-gun/source-02.mp4"
+    },
+    {
+      "path": "assets/examples/social-summer-garden-water-gun/preview-03.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUtOnlboAAGF-X.mp4",
+      "sha256": "17ebf02d9ca516d9ebc663245f3518ca93d4376ef2d72a3e8ccd8b5972784f8a",
+      "bytes": 1956977,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-summer-garden-water-gun/source-03.mp4"
+    },
+    {
+      "path": "assets/references/social-summer-garden-water-gun/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWUs6utbwAAgLxv.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWUs6utbwAAgLxv?format=jpg&name=large",
+      "sha256": "27b978d7fd38113114c92682c273236faf978c68c19c85faa5234849e2638764",
+      "bytes": 350688,
+      "mime_type": "image/jpeg",
+      "role": "reference",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

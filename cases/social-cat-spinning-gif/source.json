@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/xikhar/status/2118407355859878352",
+  "author": "xikhar",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT Image 2.6 is pretty cool. ",
+  "prompt_source_url": "https://x.com/xikhar/status/2118409026044403849",
+  "prompts": [
+    {
+      "path": "cases/social-cat-spinning-gif/prompt.txt",
+      "sha256": "5080ca9e6ba2c040f55f1cc2a9fe37e9abaae9e3cd1e975a8a01e22c7c619d02"
+    }
+  ],
+  "source_html_sha256": "4242e55c9f819f7d7a51343b127eb96f544a7b91ac67025e21657109f60afa21",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-cat-spinning-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWYWqLLaMAAbku9.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWYWqLLaMAAbku9.mp4",
+      "sha256": "b2d41234b8f63f40e7296c7257192bc11e37b40701d8f3c0f23b34ef07b7fa86",
+      "bytes": 40704,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-cat-spinning-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWYWqLLaMAAbku9.mp4",
+      "sha256": "91c24532ce6b8c70f5dbcee5b5bfe895e78b95f0815250fa19af9b2b315a859c",
+      "bytes": 689055,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-cat-spinning-gif/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}
