@@ -2,7 +2,9 @@
 import copy
 import sys
 import unittest
+import tempfile
 from pathlib import Path
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from common import ROOT, code_block, load_data, read_json
@@ -69,6 +71,30 @@ class InlineGalleryTests(unittest.TestCase):
             errors = []
             validate_source_cases(self.config, [item], [], errors)
             self.assertTrue(any('.prompt.entries' in error for error in errors), mutation)
+
+    def test_prompt_text_file_matches_original_and_has_safe_local_links(self):
+        item = copy.deepcopy(self.cases[0])
+        item['media'] = []
+        item.pop('access', None)
+        entry = {'title': {'en': 'Original prompt', 'zh-CN': '原始提示词'},
+                 'text': 'Make this cat wave.\nKeep the camera still.',
+                 'url': item['source']['url'], 'path': f"cases/{item['id']}/prompt.txt"}
+        item['prompt'] = {'status': 'source-only', 'url': item['source']['url'], 'entries': [entry]}
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            target = root / entry['path']
+            target.parent.mkdir(parents=True)
+            target.write_text(entry['text'] + '\n', encoding='utf-8')
+            with patch('validate.ROOT', root):
+                errors = []
+                validate_source_cases(self.config, [item], [], errors)
+                self.assertEqual(errors, [])
+                target.write_text('Rewritten prompt\n', encoding='utf-8')
+                validate_source_cases(self.config, [item], [], errors)
+                self.assertTrue(any('exactly match' in error for error in errors))
+            for language in ('en', 'zh-CN'):
+                self.assertIn('](' + entry['path'] + ')', render_original_prompt(item, language))
+                self.assertIn('](../../' + entry['path'] + ')', render_original_prompt(item, language, prefix='../../'))
 
 
 if __name__ == '__main__':

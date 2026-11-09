@@ -56,7 +56,7 @@
 | [ตัวละครและความสม่ำเสมอ](#category-characters-consistency) | 15 | 12 |
 | [การทำเครื่องหมายและการแก้ไขเฉพาะจุด](#category-markup-edits) | 9 | 8 |
 | [SVG และทรัพยากรงานออกแบบ](#category-svg-design-assets) | 4 | 3 |
-| [GIF และแอนิเมชัน](#category-gif-animation) | 59 | 49 |
+| [GIF และแอนิเมชัน](#category-gif-animation) | 64 | 54 |
 
 <a id="contents"></a>
 
@@ -88,12 +88,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | ตัวชี้วัด | จำนวน / วันที่ |
 | --- | ---: |
-| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **108** |
+| กรณีตัวอย่างที่มีลิงก์แหล่งที่มา | **113** |
 | ตัวอย่างอย่างเป็นทางการ | **37** |
-| ตัวอย่างที่ผู้สร้างรายงาน | **71** |
-| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **82** |
-| พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **89** |
-| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **176** |
+| ตัวอย่างที่ผู้สร้างรายงาน | **76** |
+| พรอมป์ต์ต้นฉบับที่เข้าถึงได้จากแหล่งที่มา | **87** |
+| พรอมป์ต์ฉบับเต็มที่เผยแพร่ที่นี่ | **94** |
+| ไฟล์สื่อที่เก็บสำเนาไว้ในเครื่อง | **188** |
 | ตรวจสอบแหล่งที่มาครั้งล่าสุด (UTC) | **2026-11-09** |
 
 จำนวนแหล่งที่มาไม่ได้อ้างว่าได้ทดลองทำซ้ำแล้ว โดยไม่รวมเบาะแสที่รอตรวจสอบ และนับผลลัพธ์ต่าง ๆ ภายในเวิร์กโฟลว์เดียวกันเป็นหนึ่งกรณีตัวอย่าง
@@ -123,12 +123,12 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | วันที่เพิ่ม | กรณีตัวอย่าง | หลักฐาน |
 | --- | --- | --- |
+| 2026-11-09 | [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-09 | [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-09 | [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-09 | [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif) | โมเดลที่ผู้สร้างระบุ |
+| 2026-11-09 | [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif) | โมเดลที่ผู้สร้างระบุ |
 | 2026-11-06 | [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Love-burst skill animation](#source-case-ailingqu-love-burst-skill) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Hourglass loading](#source-case-ailingqu-hourglass-flip) | โมเดลที่ผู้สร้างระบุ |
-| 2026-11-06 | [Like button heart burst](#source-case-ailingqu-like-heart-burst) | โมเดลที่ผู้สร้างระบุ |
 
 <a id="all-cases"></a>
 
@@ -3238,6 +3238,159 @@ Deliver an actual multi-frame GIF file I can download.
 **ผู้สร้าง**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/Mayz1169/status/2118355858208010412) · [รายละเอียดแหล่งที่มา](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+---
+
+<a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
+
+#### 109. Chibi character eating rice with chopsticks
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4"><img src="assets/readme-previews/social-blue-hair-chibi-eating-rice-gif/source-01.jpg" alt="Chibi character eating rice with chopsticks" width="360" /><br />ตัวอย่างเฟรมแรก · เปิดวิดีโอ</a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Chibi character eating rice with chopsticks" width="360" /></a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>ภาพอ้างอิง</summary>
+
+ภาพอ้างอิง / ภาพนำเข้า ไม่ใช่ผลลัพธ์ที่สร้างด้วยโมเดล
+
+- [Reference input: Chibi character eating rice with chopsticks](assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg)
+
+</details>
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+[พรอมป์ต์ต้นฉบับ (.txt)](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
+
+[พรอมป์ต์ต้นฉบับที่แหล่งที่มา](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+**ผู้สร้าง**: [Gorden_Sun](https://x.com/Gorden_Sun)
+
+**แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/Gorden_Sun/status/2118166046175908016) · [รายละเอียดแหล่งที่มา](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+---
+
+<a id="source-case-social-chibi-cheongsam-girl-gif"></a>
+
+#### 110. Chibi cheongsam girl performs a cute jump sequence
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4"><img src="assets/readme-previews/social-chibi-cheongsam-girl-gif/source-01.jpg" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /><br />ตัวอย่างเฟรมแรก · เปิดวิดีโอ</a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /></a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>ภาพอ้างอิง</summary>
+
+ภาพอ้างอิง / ภาพนำเข้า ไม่ใช่ผลลัพธ์ที่สร้างด้วยโมเดล
+
+- [Reference input: Chibi cheongsam girl performs a cute jump sequence](assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg)
+
+</details>
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+[พรอมป์ต์ต้นฉบับ (.txt)](cases/social-chibi-cheongsam-girl-gif/prompt.txt)
+
+[พรอมป์ต์ต้นฉบับที่แหล่งที่มา](https://x.com/shinshin86/status/2118225428976705908)
+
+**ผู้สร้าง**: [shinshin86](https://x.com/shinshin86)
+
+**แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/shinshin86/status/2118225428976705908) · [รายละเอียดแหล่งที่มา](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+---
+
+<a id="source-case-social-dancing-frog-top-hat"></a>
+
+#### 111. Dancing cartoon frog in a top hat
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/source-01.mp4"><img src="assets/readme-previews/social-dancing-frog-top-hat/source-01.jpg" alt="Dancing cartoon frog in a top hat" width="360" /><br />ตัวอย่างเฟรมแรก · เปิดวิดีโอ</a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/preview-01.gif"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="Dancing cartoon frog in a top hat" width="360" /></a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+</tr>
+</table>
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+[พรอมป์ต์ต้นฉบับ (.txt)](cases/social-dancing-frog-top-hat/prompt.txt)
+
+[พรอมป์ต์ต้นฉบับที่แหล่งที่มา](https://x.com/princess414141/status/2118144125354877152)
+
+**ผู้สร้าง**: [princess414141](https://x.com/princess414141)
+
+**แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/princess414141/status/2118144125354877152) · [รายละเอียดแหล่งที่มา](cases/social-dancing-frog-top-hat/README.md)
+
+---
+
+<a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
+
+#### 112. Flip phone shows Heisei decomail animation in Tokyo street
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4"><img src="assets/readme-previews/social-heisei-flip-phone-decomail-gif/source-01.jpg" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /><br />ตัวอย่างเฟรมแรก · เปิดวิดีโอ</a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /></a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+</tr>
+</table>
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+[พรอมป์ต์ต้นฉบับ (.txt)](cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
+
+[พรอมป์ต์ต้นฉบับที่แหล่งที่มา](https://x.com/rem_rev/status/2118252486360498485)
+
+**ผู้สร้าง**: [rem_rev](https://x.com/rem_rev)
+
+**แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/rem_rev/status/2118252486360498485) · [รายละเอียดแหล่งที่มา](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+---
+
+<a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
+
+#### 113. Cartoon bee posts to X for daily check-in
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4"><img src="assets/readme-previews/social-diligent-bee-daily-checkin-gif/source-01.jpg" alt="Cartoon bee posts to X for daily check-in" width="360" /><br />ตัวอย่างเฟรมแรก · เปิดวิดีโอ</a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="Cartoon bee posts to X for daily check-in" width="360" /></a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+</tr>
+</table>
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+[พรอมป์ต์ต้นฉบับ (.txt)](cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
+
+[พรอมป์ต์ต้นฉบับที่แหล่งที่มา](https://x.com/MrGafish/status/2118217749680025722)
+
+**ผู้สร้าง**: [MrGafish](https://x.com/MrGafish)
+
+**แหล่งที่มาต้นฉบับ**: [โมเดลที่ผู้สร้างระบุ](https://x.com/MrGafish/status/2118217749680025722) · [รายละเอียดแหล่งที่มา](cases/social-diligent-bee-daily-checkin-gif/README.md)
 
 ---
 

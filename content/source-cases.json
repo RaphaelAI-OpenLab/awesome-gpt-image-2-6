@@ -9514,5 +9514,579 @@
       },
       "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
     }
+  },
+  {
+    "id": "social-blue-hair-chibi-eating-rice-gif",
+    "status": "published",
+    "title": {
+      "en": "Chibi character eating rice with chopsticks",
+      "zh-CN": "Q版角色用筷子吃白米饭"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+      "author": "Gorden_Sun",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: GPT新出的GPT Image 2.6，可以一句话生成表情包动图了，表情包自由了。 Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：GPT新出的GPT Image 2.6，可以一句话生成表情包动图了，表情包自由了。 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！",
+          "url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+          "path": "cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWU8ujEbsAEYOxw.mp4",
+        "path": "assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Chibi character eating rice with chopsticks",
+          "zh-CN": "Q版角色用筷子吃白米饭"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+          "credit": "Gorden_Sun",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 89025,
+        "sha256": "c87f489a8fb98e9f2418c813bf816d09b8963e7541deff1de88210867d6f5350",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+        "path": "assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Chibi character eating rice with chopsticks",
+          "zh-CN": "Q版角色用筷子吃白米饭"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+          "credit": "Gorden_Sun",
+          "note": {
+            "en": "GIF viewing copy converted from the original X MP4 retained at assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4. This is a format conversion, not a newly generated result.",
+            "zh-CN": "从原帖 MP4 转码的 GIF 展示副本；原文件保存在 assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4。仅转换格式，未重新生成内容。"
+          }
+        },
+        "bytes": 1085654,
+        "sha256": "06156d15ac06db478fb168beb5d277ef4a2cc865099dbba22e96595e97545f92",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS.jpg?name=orig",
+        "path": "assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Chibi character eating rice with chopsticks",
+          "zh-CN": "参考输入：Q版角色用筷子吃白米饭"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+          "credit": "Gorden_Sun",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 310465,
+        "sha256": "da45973b558e25d0e1b0c761f8d8d50f4486f2f9bb82887cb53c5969380e87cd",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by Gorden_Sun on Thu Nov 05 02:18:33 +0000 2026. The original prompt is reproduced without rewriting. X serves animated GIF posts as MP4. Both the original animation and a GIF viewing copy are included. 1 original reference input(s) are included. ",
+      "zh-CN": "作者 Gorden_Sun 发布于 Thu Nov 05 02:18:33 +0000 2026。提示词按原文收录，未改写。X 将动图以 MP4 提供，仓库同时保留原动画文件和 GIF 展示副本。已附上 1 张原帖参考输入图。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-blue-hair-chibi-eating-rice-gif/source.json"
+    }
+  },
+  {
+    "id": "social-chibi-cheongsam-girl-gif",
+    "status": "published",
+    "title": {
+      "en": "Chibi cheongsam girl performs a cute jump sequence",
+      "zh-CN": "穿旗袍的Q版少女做可爱跳跃动作"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/shinshin86/status/2118225428976705908",
+      "author": "shinshin86",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: ChatGPT Images 2.6を試してみたけど、サクッとカワイイGIFが作れた！ Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：ChatGPT Images 2.6を試してみたけど、サクッとカワイイGIFが作れた！ 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/shinshin86/status/2118225428976705908",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。",
+          "url": "https://x.com/shinshin86/status/2118225428976705908",
+          "path": "cases/social-chibi-cheongsam-girl-gif/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVxx9TbkAAqtms.mp4",
+        "path": "assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Chibi cheongsam girl performs a cute jump sequence",
+          "zh-CN": "穿旗袍的Q版少女做可爱跳跃动作"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/shinshin86/status/2118225428976705908",
+          "credit": "shinshin86",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 46448,
+        "sha256": "391e05d2017418c0863f66bf67a48ded12c6dab1f01b1fa44253072755112043",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://x.com/shinshin86/status/2118225428976705908",
+        "path": "assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Chibi cheongsam girl performs a cute jump sequence",
+          "zh-CN": "穿旗袍的Q版少女做可爱跳跃动作"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/shinshin86/status/2118225428976705908",
+          "credit": "shinshin86",
+          "note": {
+            "en": "GIF viewing copy converted from the original X MP4 retained at assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4. This is a format conversion, not a newly generated result.",
+            "zh-CN": "从原帖 MP4 转码的 GIF 展示副本；原文件保存在 assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4。仅转换格式，未重新生成内容。"
+          }
+        },
+        "bytes": 441507,
+        "sha256": "1603a08ffb3d86bb144f306d8c35ae1dba552e3e5f4ffc218a61f9848c96a888",
+        "mime_type": "image/gif"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVyU-YbIAAli3u.jpg?name=orig",
+        "path": "assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg",
+        "kind": "image",
+        "role": "reference",
+        "alt": {
+          "en": "Reference input: Chibi cheongsam girl performs a cute jump sequence",
+          "zh-CN": "参考输入：穿旗袍的Q版少女做可爱跳跃动作"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/shinshin86/status/2118225428976705908",
+          "credit": "shinshin86",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 102340,
+        "sha256": "6ddad59d796447bf957f56340289f77b32ecd955462df9550adbff878d7ebeaf",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by shinshin86 on Thu Nov 05 06:14:31 +0000 2026. The original prompt is reproduced without rewriting. X serves animated GIF posts as MP4. Both the original animation and a GIF viewing copy are included. 1 original reference input(s) are included. ",
+      "zh-CN": "作者 shinshin86 发布于 Thu Nov 05 06:14:31 +0000 2026。提示词按原文收录，未改写。X 将动图以 MP4 提供，仓库同时保留原动画文件和 GIF 展示副本。已附上 1 张原帖参考输入图。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-chibi-cheongsam-girl-gif/source.json"
+    }
+  },
+  {
+    "id": "social-dancing-frog-top-hat",
+    "status": "published",
+    "title": {
+      "en": "Dancing cartoon frog in a top hat",
+      "zh-CN": "戴礼帽跳舞的卡通青蛙"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/princess414141/status/2118144125354877152",
+      "author": "princess414141",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: ChatGPT images 2.6 GIF maker is pretty good.  Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：ChatGPT images 2.6 GIF maker is pretty good.  依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/princess414141/status/2118144125354877152",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "dancing frog with a top hat on, with ego be gone! written at the top",
+          "url": "https://x.com/princess414141/status/2118144125354877152",
+          "path": "cases/social-dancing-frog-top-hat/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWUnNk1XsAAL65p.mp4",
+        "path": "assets/examples/social-dancing-frog-top-hat/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Dancing cartoon frog in a top hat",
+          "zh-CN": "戴礼帽跳舞的卡通青蛙"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/princess414141/status/2118144125354877152",
+          "credit": "princess414141",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 69642,
+        "sha256": "bb9a77a01e462f0dc9b6c012bbbbf8e16b443c4147b2523dc86a7b6265720c52",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://x.com/princess414141/status/2118144125354877152",
+        "path": "assets/examples/social-dancing-frog-top-hat/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Dancing cartoon frog in a top hat",
+          "zh-CN": "戴礼帽跳舞的卡通青蛙"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/princess414141/status/2118144125354877152",
+          "credit": "princess414141",
+          "note": {
+            "en": "GIF viewing copy converted from the original X MP4 retained at assets/examples/social-dancing-frog-top-hat/source-01.mp4. This is a format conversion, not a newly generated result.",
+            "zh-CN": "从原帖 MP4 转码的 GIF 展示副本；原文件保存在 assets/examples/social-dancing-frog-top-hat/source-01.mp4。仅转换格式，未重新生成内容。"
+          }
+        },
+        "bytes": 1211654,
+        "sha256": "c406054e91515e135baf43d65051fad45b2c5e477f14ab5d480fb2f31ef639eb",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Published by princess414141 on Thu Nov 05 00:51:27 +0000 2026. The original prompt is reproduced without rewriting. X serves animated GIF posts as MP4. Both the original animation and a GIF viewing copy are included. ",
+      "zh-CN": "作者 princess414141 发布于 Thu Nov 05 00:51:27 +0000 2026。提示词按原文收录，未改写。X 将动图以 MP4 提供，仓库同时保留原动画文件和 GIF 展示副本。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-dancing-frog-top-hat/source.json"
+    }
+  },
+  {
+    "id": "social-heisei-flip-phone-decomail-gif",
+    "status": "published",
+    "title": {
+      "en": "Flip phone shows Heisei decomail animation in Tokyo street",
+      "zh-CN": "东京街头折叠手机屏幕播放平成风格动画"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/rem_rev/status/2118252486360498485",
+      "author": "rem_rev",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: ChatGPT Images 2.6の画像生成でGIF画像ができるように Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：ChatGPT Images 2.6の画像生成でGIF画像ができるように 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/rem_rev/status/2118252486360498485",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "平成を象徴する何か。SNS向けのGIF画像を生成して下さい。",
+          "url": "https://x.com/rem_rev/status/2118252486360498485",
+          "path": "cases/social-heisei-flip-phone-decomail-gif/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWWLY-LaYAAnUth.mp4",
+        "path": "assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Flip phone shows Heisei decomail animation in Tokyo street",
+          "zh-CN": "东京街头折叠手机屏幕播放平成风格动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rem_rev/status/2118252486360498485",
+          "credit": "rem_rev",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 68101,
+        "sha256": "dbce57e9058d11134d01e56d4b5952745131e07017fd067f6c58ade1112e4e5f",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://x.com/rem_rev/status/2118252486360498485",
+        "path": "assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Flip phone shows Heisei decomail animation in Tokyo street",
+          "zh-CN": "东京街头折叠手机屏幕播放平成风格动画"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/rem_rev/status/2118252486360498485",
+          "credit": "rem_rev",
+          "note": {
+            "en": "GIF viewing copy converted from the original X MP4 retained at assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4. This is a format conversion, not a newly generated result.",
+            "zh-CN": "从原帖 MP4 转码的 GIF 展示副本；原文件保存在 assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4。仅转换格式，未重新生成内容。"
+          }
+        },
+        "bytes": 1007424,
+        "sha256": "3b1cdfb435bca3f5f7cd6776ea39f1c34da6ef12c365ab59ca57272b9a64831a",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Published by rem_rev on Thu Nov 05 08:02:02 +0000 2026. The original prompt is reproduced without rewriting. X serves animated GIF posts as MP4. Both the original animation and a GIF viewing copy are included. ",
+      "zh-CN": "作者 rem_rev 发布于 Thu Nov 05 08:02:02 +0000 2026。提示词按原文收录，未改写。X 将动图以 MP4 提供，仓库同时保留原动画文件和 GIF 展示副本。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-heisei-flip-phone-decomail-gif/source.json"
+    }
+  },
+  {
+    "id": "social-diligent-bee-daily-checkin-gif",
+    "status": "published",
+    "title": {
+      "en": "Cartoon bee posts to X for daily check-in",
+      "zh-CN": "卡通小蜜蜂在手机上发帖打卡"
+    },
+    "category": "gif-animation",
+    "source": {
+      "url": "https://x.com/MrGafish/status/2118217749680025722",
+      "author": "MrGafish",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: GPT Image 2.6 生成GIF还是非常好玩的 Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：GPT Image 2.6 生成GIF还是非常好玩的 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/MrGafish/status/2118217749680025722",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂",
+          "url": "https://x.com/MrGafish/status/2118217749680025722",
+          "path": "cases/social-diligent-bee-daily-checkin-gif/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://video.twimg.com/tweet_video/HWVrsHVbUAAZH4q.mp4",
+        "path": "assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4",
+        "kind": "video",
+        "role": "output",
+        "alt": {
+          "en": "Cartoon bee posts to X for daily check-in",
+          "zh-CN": "卡通小蜜蜂在手机上发帖打卡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/MrGafish/status/2118217749680025722",
+          "credit": "MrGafish",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 49334,
+        "sha256": "2de14a9261f6f3c829c50e83bd538383e8763e53b08d635623b1edcddecc0c93",
+        "mime_type": "video/mp4"
+      },
+      {
+        "source_url": "https://x.com/MrGafish/status/2118217749680025722",
+        "path": "assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif",
+        "kind": "gif",
+        "role": "output",
+        "alt": {
+          "en": "Cartoon bee posts to X for daily check-in",
+          "zh-CN": "卡通小蜜蜂在手机上发帖打卡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/MrGafish/status/2118217749680025722",
+          "credit": "MrGafish",
+          "note": {
+            "en": "GIF viewing copy converted from the original X MP4 retained at assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4. This is a format conversion, not a newly generated result.",
+            "zh-CN": "从原帖 MP4 转码的 GIF 展示副本；原文件保存在 assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4。仅转换格式，未重新生成内容。"
+          }
+        },
+        "bytes": 791753,
+        "sha256": "bdca23e1ce152edc702da58e7fe93e5468916baffc0b094d5e89c8423ad3c6ec",
+        "mime_type": "image/gif"
+      }
+    ],
+    "notes": {
+      "en": "Published by MrGafish on Thu Nov 05 05:44:00 +0000 2026. The original prompt is reproduced without rewriting. X serves animated GIF posts as MP4. Both the original animation and a GIF viewing copy are included. ",
+      "zh-CN": "作者 MrGafish 发布于 Thu Nov 05 05:44:00 +0000 2026。提示词按原文收录，未改写。X 将动图以 MP4 提供，仓库同时保留原动画文件和 GIF 展示副本。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-diligent-bee-daily-checkin-gif/source.json"
+    }
   }
 ]

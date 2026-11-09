@@ -10,6 +10,8 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 主合集 README 直接展示图片、提示词和底部署名。已核实的来源原文填写在 `prompt.entries`，每段保留双语标题、原始文本和准确链接；多轮编辑分段保存，不合并成单次指令。不公开或待核验的提示词只标状态。MP4 的首帧预览通过 `python3 scripts/build_video_previews.py` 生成，随后重新生成 README；具体字段与命令见维护指南。
 
+原提示词也可保存为 `cases/<id>/prompt.txt`，并在对应的 `prompt.entries` 条目填写 `path`。文本文件须与 `text` 字段完全一致，末尾增加一个换行；README 和详情页会展示下载链接。X 动图的原始 MP4 与转码 GIF 展示副本分别保存并注明，不把转码副本计为新的案例。
+
 已核实所查来源未提供公开原始提示词，或提示词公开状态尚未检查、无法确认的作品也可收录，但必须独立核对模型证据与来源，并如实区分提示词状态，不伪造原始提示词。
 
 ## Suggest a source case / 推荐来源案例

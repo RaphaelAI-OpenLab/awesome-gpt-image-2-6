@@ -56,7 +56,7 @@
 | [角色與一致性](#category-characters-consistency) | 15 | 12 |
 | [標註與局部編輯](#category-markup-edits) | 9 | 8 |
 | [SVG 與設計素材](#category-svg-design-assets) | 4 | 3 |
-| [GIF 與動畫](#category-gif-animation) | 59 | 49 |
+| [GIF 與動畫](#category-gif-animation) | 64 | 54 |
 
 <a id="contents"></a>
 
@@ -88,12 +88,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 指標 | 數量 / 日期 |
 | --- | ---: |
-| 附來源連結的案例 | **108** |
+| 附來源連結的案例 | **113** |
 | 官方範例 | **37** |
-| 創作者自述範例 | **71** |
-| 可於來源取得的原始提示詞 | **82** |
-| 於此發布的完整提示詞 | **89** |
-| 已於本機封存的媒體檔案 | **176** |
+| 創作者自述範例 | **76** |
+| 可於來源取得的原始提示詞 | **87** |
+| 於此發布的完整提示詞 | **94** |
+| 已於本機封存的媒體檔案 | **188** |
 | 最近來源檢查時間（UTC） | **2026-11-09** |
 
 來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
@@ -123,12 +123,12 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 | 新增日期 | 案例 | 證據 |
 | --- | --- | --- |
+| 2026-11-09 | [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif) | 創作者自述模型 |
+| 2026-11-09 | [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif) | 創作者自述模型 |
+| 2026-11-09 | [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat) | 創作者自述模型 |
+| 2026-11-09 | [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif) | 創作者自述模型 |
+| 2026-11-09 | [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif) | 創作者自述模型 |
 | 2026-11-06 | [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk) | 創作者自述模型 |
-| 2026-11-06 | [Love-burst skill animation](#source-case-ailingqu-love-burst-skill) | 創作者自述模型 |
-| 2026-11-06 | [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss) | 創作者自述模型 |
-| 2026-11-06 | [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen) | 創作者自述模型 |
-| 2026-11-06 | [Hourglass loading](#source-case-ailingqu-hourglass-flip) | 創作者自述模型 |
-| 2026-11-06 | [Like button heart burst](#source-case-ailingqu-like-heart-burst) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
@@ -3238,6 +3238,159 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原始來源**: [創作者自述模型](https://x.com/Mayz1169/status/2118355858208010412) · [來源詳情](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+---
+
+<a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
+
+#### 109. Chibi character eating rice with chopsticks
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4"><img src="assets/readme-previews/social-blue-hair-chibi-eating-rice-gif/source-01.jpg" alt="Chibi character eating rice with chopsticks" width="360" /><br />影片首幀預覽 · 開啟動畫</a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Chibi character eating rice with chopsticks" width="360" /></a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>參考圖片</summary>
+
+參考 / 輸入圖片，並非生成結果。
+
+- [Reference input: Chibi character eating rice with chopsticks](assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg)
+
+</details>
+
+**原始提示詞**
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+[原始提示詞 (.txt)](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+**作者**: [Gorden_Sun](https://x.com/Gorden_Sun)
+
+**原始來源**: [創作者自述模型](https://x.com/Gorden_Sun/status/2118166046175908016) · [來源詳情](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+---
+
+<a id="source-case-social-chibi-cheongsam-girl-gif"></a>
+
+#### 110. Chibi cheongsam girl performs a cute jump sequence
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4"><img src="assets/readme-previews/social-chibi-cheongsam-girl-gif/source-01.jpg" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /><br />影片首幀預覽 · 開啟動畫</a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /></a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>參考圖片</summary>
+
+參考 / 輸入圖片，並非生成結果。
+
+- [Reference input: Chibi cheongsam girl performs a cute jump sequence](assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg)
+
+</details>
+
+**原始提示詞**
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+[原始提示詞 (.txt)](cases/social-chibi-cheongsam-girl-gif/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/shinshin86/status/2118225428976705908)
+
+**作者**: [shinshin86](https://x.com/shinshin86)
+
+**原始來源**: [創作者自述模型](https://x.com/shinshin86/status/2118225428976705908) · [來源詳情](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+---
+
+<a id="source-case-social-dancing-frog-top-hat"></a>
+
+#### 111. Dancing cartoon frog in a top hat
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/source-01.mp4"><img src="assets/readme-previews/social-dancing-frog-top-hat/source-01.jpg" alt="Dancing cartoon frog in a top hat" width="360" /><br />影片首幀預覽 · 開啟動畫</a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/preview-01.gif"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="Dancing cartoon frog in a top hat" width="360" /></a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+</tr>
+</table>
+
+**原始提示詞**
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+[原始提示詞 (.txt)](cases/social-dancing-frog-top-hat/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/princess414141/status/2118144125354877152)
+
+**作者**: [princess414141](https://x.com/princess414141)
+
+**原始來源**: [創作者自述模型](https://x.com/princess414141/status/2118144125354877152) · [來源詳情](cases/social-dancing-frog-top-hat/README.md)
+
+---
+
+<a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
+
+#### 112. Flip phone shows Heisei decomail animation in Tokyo street
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4"><img src="assets/readme-previews/social-heisei-flip-phone-decomail-gif/source-01.jpg" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /><br />影片首幀預覽 · 開啟動畫</a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /></a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+</tr>
+</table>
+
+**原始提示詞**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+[原始提示詞 (.txt)](cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/rem_rev/status/2118252486360498485)
+
+**作者**: [rem_rev](https://x.com/rem_rev)
+
+**原始來源**: [創作者自述模型](https://x.com/rem_rev/status/2118252486360498485) · [來源詳情](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+---
+
+<a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
+
+#### 113. Cartoon bee posts to X for daily check-in
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4"><img src="assets/readme-previews/social-diligent-bee-daily-checkin-gif/source-01.jpg" alt="Cartoon bee posts to X for daily check-in" width="360" /><br />影片首幀預覽 · 開啟動畫</a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="Cartoon bee posts to X for daily check-in" width="360" /></a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+</tr>
+</table>
+
+**原始提示詞**
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+[原始提示詞 (.txt)](cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/MrGafish/status/2118217749680025722)
+
+**作者**: [MrGafish](https://x.com/MrGafish)
+
+**原始來源**: [創作者自述模型](https://x.com/MrGafish/status/2118217749680025722) · [來源詳情](cases/social-diligent-bee-daily-checkin-gif/README.md)
 
 ---
 

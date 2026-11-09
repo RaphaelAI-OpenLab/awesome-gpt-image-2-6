@@ -307,6 +307,16 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
                     errors.append(f'{name}.prompt.entries[{pindex}]: original text and HTTPS source are required')
                 if not all(entry['title'][lang].strip() for lang in ('en', 'zh-CN')):
                     errors.append(f'{name}.prompt.entries[{pindex}].title: bilingual title required')
+                if 'path' in entry:
+                    expected_folder = f"{asset_prefix}cases/{item['id']}/"
+                    path = entry['path']
+                    if not path.startswith(expected_folder) or '..' in Path(path).parts or not path.endswith('.txt'):
+                        errors.append(f'{name}.prompt.entries[{pindex}].path: expected a text file under {expected_folder}')
+                    else:
+                        check_asset(path, f'{name}.prompt.entries[{pindex}].path', errors, allow_remote=False)
+                        prompt_file = ROOT / path
+                        if prompt_file.is_file() and prompt_file.read_text(encoding='utf-8') != entry['text'] + '\n':
+                            errors.append(f'{name}.prompt.entries[{pindex}].path: text file must exactly match the original prompt plus a final newline')
         if 'note' in item['prompt'] and not all(item['prompt']['note'][lang].strip() for lang in ('en', 'zh-CN')):
             errors.append(f'{name}.prompt.note: bilingual note required')
         access = item.get('access')

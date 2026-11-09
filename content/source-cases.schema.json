@@ -171,6 +171,9 @@
                 "text": {
                   "type": "string"
                 },
+                "path": {
+                  "type": "string"
+                },
                 "url": {
                   "type": "string"
                 }

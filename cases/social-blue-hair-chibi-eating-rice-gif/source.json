@@ -1,0 +1,43 @@
+{
+  "source_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+  "author": "Gorden_Sun",
+  "published_at": "Thu Nov 05 02:18:33 +0000 2026",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT新出的GPT Image 2.6，可以一句话生成表情包动图了，表情包自由了。",
+  "prompt_source_url": "https://x.com/Gorden_Sun/status/2118166046175908016",
+  "prompt_path": "cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt",
+  "prompt_sha256": "9e06445d743978585a4e4ccb28a81ae8360b3ea8b749c1b46ec8a81029dfa659",
+  "source_html_sha256": "5f27575c9b609db5dfd8a2388a754e7e648e97cccc03d3e2178978ef17a35e23",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWU8ujEbsAEYOxw.mp4",
+      "sha256": "c87f489a8fb98e9f2418c813bf816d09b8963e7541deff1de88210867d6f5350",
+      "bytes": 89025,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWU8ujEbsAEYOxw.mp4",
+      "derived_from": "assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4",
+      "sha256": "06156d15ac06db478fb168beb5d277ef4a2cc865099dbba22e96595e97545f92",
+      "bytes": 1085654,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "MP4 to GIF viewing copy; original retained"
+    },
+    {
+      "path": "assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWU8w0Wa8AAb9LS.jpg?name=orig",
+      "sha256": "da45973b558e25d0e1b0c761f8d8d50f4486f2f9bb82887cb53c5969380e87cd",
+      "bytes": 310465,
+      "mime_type": "image/jpeg",
+      "role": "reference",
+      "transformation": "none"
+    }
+  ]
+}

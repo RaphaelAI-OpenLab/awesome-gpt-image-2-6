@@ -56,7 +56,7 @@ PLATZHALTER · Link zu verwandter Sammlung / Kampagne: noch hinzuzufügen.
 | [Figuren & Konsistenz](#category-characters-consistency) | 15 | 12 |
 | [Markierungen & gezielte Bearbeitungen](#category-markup-edits) | 9 | 8 |
 | [SVG & Designressourcen](#category-svg-design-assets) | 4 | 3 |
-| [GIF & Animation](#category-gif-animation) | 59 | 49 |
+| [GIF & Animation](#category-gif-animation) | 64 | 54 |
 
 <a id="contents"></a>
 
@@ -88,12 +88,12 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 
 | Kennzahl | Anzahl / Datum |
 | --- | ---: |
-| Beispiele mit Quellenverweisen | **108** |
+| Beispiele mit Quellenverweisen | **113** |
 | Offizielle Beispiele | **37** |
-| Von Erstellern gemeldete Beispiele | **71** |
-| An der Quelle verfügbare Original-Prompts | **82** |
-| Hier veröffentlichte vollständige Prompts | **89** |
-| Lokal archivierte Mediendateien | **176** |
+| Von Erstellern gemeldete Beispiele | **76** |
+| An der Quelle verfügbare Original-Prompts | **87** |
+| Hier veröffentlichte vollständige Prompts | **94** |
+| Lokal archivierte Mediendateien | **188** |
 | Letzte Quellenprüfung (UTC) | **2026-11-09** |
 
 Quellenzahlen sind keine Aussagen über eine Reproduktion. Noch ungeprüfte Hinweise sind ausgeschlossen; unterschiedliche Ausgaben innerhalb eines Workflows zählen als ein Beispiel.
@@ -123,12 +123,12 @@ Videovorschauen zeigen das erste Standbild; öffne die verlinkte Datei für die 
 
 | Hinzugefügt | Beispiel | Nachweis |
 | --- | --- | --- |
+| 2026-11-09 | [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif) | Vom Ersteller angegebenes Modell |
+| 2026-11-09 | [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif) | Vom Ersteller angegebenes Modell |
+| 2026-11-09 | [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat) | Vom Ersteller angegebenes Modell |
+| 2026-11-09 | [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif) | Vom Ersteller angegebenes Modell |
+| 2026-11-09 | [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif) | Vom Ersteller angegebenes Modell |
 | 2026-11-06 | [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Love-burst skill animation](#source-case-ailingqu-love-burst-skill) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Hourglass loading](#source-case-ailingqu-hourglass-flip) | Vom Ersteller angegebenes Modell |
-| 2026-11-06 | [Like button heart burst](#source-case-ailingqu-like-heart-burst) | Vom Ersteller angegebenes Modell |
 
 <a id="all-cases"></a>
 
@@ -3238,6 +3238,159 @@ Deliver an actual multi-frame GIF file I can download.
 **Autor**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Mayz1169/status/2118355858208010412) · [Quellendetails](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+---
+
+<a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
+
+#### 109. Chibi character eating rice with chopsticks
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4"><img src="assets/readme-previews/social-blue-hair-chibi-eating-rice-gif/source-01.jpg" alt="Chibi character eating rice with chopsticks" width="360" /><br />Erstes Videobild · Video öffnen</a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Chibi character eating rice with chopsticks" width="360" /></a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Referenzbilder</summary>
+
+Referenz- bzw. Eingabebild, keine generierte Ausgabe.
+
+- [Reference input: Chibi character eating rice with chopsticks](assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg)
+
+</details>
+
+**Original-Prompt**
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+[Original-Prompt (.txt)](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
+
+[Original-Prompt an der Quelle](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+**Autor**: [Gorden_Sun](https://x.com/Gorden_Sun)
+
+**Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Gorden_Sun/status/2118166046175908016) · [Quellendetails](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+---
+
+<a id="source-case-social-chibi-cheongsam-girl-gif"></a>
+
+#### 110. Chibi cheongsam girl performs a cute jump sequence
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4"><img src="assets/readme-previews/social-chibi-cheongsam-girl-gif/source-01.jpg" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /><br />Erstes Videobild · Video öffnen</a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /></a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Referenzbilder</summary>
+
+Referenz- bzw. Eingabebild, keine generierte Ausgabe.
+
+- [Reference input: Chibi cheongsam girl performs a cute jump sequence](assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg)
+
+</details>
+
+**Original-Prompt**
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+[Original-Prompt (.txt)](cases/social-chibi-cheongsam-girl-gif/prompt.txt)
+
+[Original-Prompt an der Quelle](https://x.com/shinshin86/status/2118225428976705908)
+
+**Autor**: [shinshin86](https://x.com/shinshin86)
+
+**Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/shinshin86/status/2118225428976705908) · [Quellendetails](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+---
+
+<a id="source-case-social-dancing-frog-top-hat"></a>
+
+#### 111. Dancing cartoon frog in a top hat
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/source-01.mp4"><img src="assets/readme-previews/social-dancing-frog-top-hat/source-01.jpg" alt="Dancing cartoon frog in a top hat" width="360" /><br />Erstes Videobild · Video öffnen</a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/preview-01.gif"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="Dancing cartoon frog in a top hat" width="360" /></a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+</tr>
+</table>
+
+**Original-Prompt**
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+[Original-Prompt (.txt)](cases/social-dancing-frog-top-hat/prompt.txt)
+
+[Original-Prompt an der Quelle](https://x.com/princess414141/status/2118144125354877152)
+
+**Autor**: [princess414141](https://x.com/princess414141)
+
+**Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/princess414141/status/2118144125354877152) · [Quellendetails](cases/social-dancing-frog-top-hat/README.md)
+
+---
+
+<a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
+
+#### 112. Flip phone shows Heisei decomail animation in Tokyo street
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4"><img src="assets/readme-previews/social-heisei-flip-phone-decomail-gif/source-01.jpg" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /><br />Erstes Videobild · Video öffnen</a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /></a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+</tr>
+</table>
+
+**Original-Prompt**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+[Original-Prompt (.txt)](cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
+
+[Original-Prompt an der Quelle](https://x.com/rem_rev/status/2118252486360498485)
+
+**Autor**: [rem_rev](https://x.com/rem_rev)
+
+**Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/rem_rev/status/2118252486360498485) · [Quellendetails](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+---
+
+<a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
+
+#### 113. Cartoon bee posts to X for daily check-in
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4"><img src="assets/readme-previews/social-diligent-bee-daily-checkin-gif/source-01.jpg" alt="Cartoon bee posts to X for daily check-in" width="360" /><br />Erstes Videobild · Video öffnen</a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="Cartoon bee posts to X for daily check-in" width="360" /></a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+</tr>
+</table>
+
+**Original-Prompt**
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+[Original-Prompt (.txt)](cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
+
+[Original-Prompt an der Quelle](https://x.com/MrGafish/status/2118217749680025722)
+
+**Autor**: [MrGafish](https://x.com/MrGafish)
+
+**Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/MrGafish/status/2118217749680025722) · [Quellendetails](cases/social-diligent-bee-daily-checkin-gif/README.md)
 
 ---
 

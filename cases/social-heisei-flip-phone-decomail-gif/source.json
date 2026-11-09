@@ -1,0 +1,34 @@
+{
+  "source_url": "https://x.com/rem_rev/status/2118252486360498485",
+  "author": "rem_rev",
+  "published_at": "Thu Nov 05 08:02:02 +0000 2026",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6の画像生成でGIF画像ができるように",
+  "prompt_source_url": "https://x.com/rem_rev/status/2118252486360498485",
+  "prompt_path": "cases/social-heisei-flip-phone-decomail-gif/prompt.txt",
+  "prompt_sha256": "bb29df390897336981b4501861b2668d37b3abacc5f9d898057ca20d39672269",
+  "source_html_sha256": "d1b2e3caf14311aa9d0588f6f002ecb86fa9177fcf097e6f449d52044860b2de",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWWLY-LaYAAnUth.mp4",
+      "sha256": "dbce57e9058d11134d01e56d4b5952745131e07017fd067f6c58ade1112e4e5f",
+      "bytes": 68101,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWWLY-LaYAAnUth.mp4",
+      "derived_from": "assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4",
+      "sha256": "3b1cdfb435bca3f5f7cd6776ea39f1c34da6ef12c365ab59ca57272b9a64831a",
+      "bytes": 1007424,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "MP4 to GIF viewing copy; original retained"
+    }
+  ]
+}

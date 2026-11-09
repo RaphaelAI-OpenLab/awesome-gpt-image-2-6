@@ -52,7 +52,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [角色与一致性](#category-characters-consistency) | 15 | 12 |
 | [标注与局部编辑](#category-markup-edits) | 9 | 8 |
 | [SVG 与设计素材](#category-svg-design-assets) | 4 | 3 |
-| [GIF 与动画](#category-gif-animation) | 59 | 49 |
+| [GIF 与动画](#category-gif-animation) | 64 | 54 |
 
 <a id="contents"></a>
 
@@ -84,12 +84,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **108** |
+| 来源案例 | **113** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **71** |
-| 来源公开原始提示词 | **82** |
-| 仓库内完整提示词 | **89** |
-| 本地收录素材文件 | **176** |
+| 社区作者自报案例 | **76** |
+| 来源公开原始提示词 | **87** |
+| 仓库内完整提示词 | **94** |
+| 本地收录素材文件 | **188** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,12 +119,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-09 | [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif) | 作者自报模型 |
+| 2026-11-09 | [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif) | 作者自报模型 |
+| 2026-11-09 | [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat) | 作者自报模型 |
+| 2026-11-09 | [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif) | 作者自报模型 |
+| 2026-11-09 | [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif) | 作者自报模型 |
 | 2026-11-06 | [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk) | 作者自报模型 |
-| 2026-11-06 | [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill) | 作者自报模型 |
-| 2026-11-06 | [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss) | 作者自报模型 |
-| 2026-11-06 | [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen) | 作者自报模型 |
-| 2026-11-06 | [沙漏加载](#source-case-ailingqu-hourglass-flip) | 作者自报模型 |
-| 2026-11-06 | [点赞爱心爆开](#source-case-ailingqu-like-heart-burst) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -3234,6 +3234,159 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118355858208010412) · [来源详情](cases/community-kiki-malfoid-mood-stickers/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
+
+#### 109. Q版角色用筷子吃白米饭
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4"><img src="assets/readme-previews/social-blue-hair-chibi-eating-rice-gif/source-01.jpg" alt="Q版角色用筷子吃白米饭" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>Q版角色用筷子吃白米饭</sub></td>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Q版角色用筷子吃白米饭" width="360" /></a><br /><sub>Q版角色用筷子吃白米饭</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入：Q版角色用筷子吃白米饭](assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg)
+
+</details>
+
+**原始提示词**
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+[原始提示词 (.txt)](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
+
+[原提示词见来源](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+**作者**: [Gorden_Sun](https://x.com/Gorden_Sun)
+
+**原始来源**: [作者自报模型](https://x.com/Gorden_Sun/status/2118166046175908016) · [来源详情](cases/social-blue-hair-chibi-eating-rice-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-chibi-cheongsam-girl-gif"></a>
+
+#### 110. 穿旗袍的Q版少女做可爱跳跃动作
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4"><img src="assets/readme-previews/social-chibi-cheongsam-girl-gif/source-01.jpg" alt="穿旗袍的Q版少女做可爱跳跃动作" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>穿旗袍的Q版少女做可爱跳跃动作</sub></td>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="穿旗袍的Q版少女做可爱跳跃动作" width="360" /></a><br /><sub>穿旗袍的Q版少女做可爱跳跃动作</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入：穿旗袍的Q版少女做可爱跳跃动作](assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg)
+
+</details>
+
+**原始提示词**
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+[原始提示词 (.txt)](cases/social-chibi-cheongsam-girl-gif/prompt.txt)
+
+[原提示词见来源](https://x.com/shinshin86/status/2118225428976705908)
+
+**作者**: [shinshin86](https://x.com/shinshin86)
+
+**原始来源**: [作者自报模型](https://x.com/shinshin86/status/2118225428976705908) · [来源详情](cases/social-chibi-cheongsam-girl-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-dancing-frog-top-hat"></a>
+
+#### 111. 戴礼帽跳舞的卡通青蛙
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/source-01.mp4"><img src="assets/readme-previews/social-dancing-frog-top-hat/source-01.jpg" alt="戴礼帽跳舞的卡通青蛙" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>戴礼帽跳舞的卡通青蛙</sub></td>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/preview-01.gif"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="戴礼帽跳舞的卡通青蛙" width="360" /></a><br /><sub>戴礼帽跳舞的卡通青蛙</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+[原始提示词 (.txt)](cases/social-dancing-frog-top-hat/prompt.txt)
+
+[原提示词见来源](https://x.com/princess414141/status/2118144125354877152)
+
+**作者**: [princess414141](https://x.com/princess414141)
+
+**原始来源**: [作者自报模型](https://x.com/princess414141/status/2118144125354877152) · [来源详情](cases/social-dancing-frog-top-hat/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
+
+#### 112. 东京街头折叠手机屏幕播放平成风格动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4"><img src="assets/readme-previews/social-heisei-flip-phone-decomail-gif/source-01.jpg" alt="东京街头折叠手机屏幕播放平成风格动画" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>东京街头折叠手机屏幕播放平成风格动画</sub></td>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="东京街头折叠手机屏幕播放平成风格动画" width="360" /></a><br /><sub>东京街头折叠手机屏幕播放平成风格动画</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+[原始提示词 (.txt)](cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
+
+[原提示词见来源](https://x.com/rem_rev/status/2118252486360498485)
+
+**作者**: [rem_rev](https://x.com/rem_rev)
+
+**原始来源**: [作者自报模型](https://x.com/rem_rev/status/2118252486360498485) · [来源详情](cases/social-heisei-flip-phone-decomail-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
+
+#### 113. 卡通小蜜蜂在手机上发帖打卡
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4"><img src="assets/readme-previews/social-diligent-bee-daily-checkin-gif/source-01.jpg" alt="卡通小蜜蜂在手机上发帖打卡" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>卡通小蜜蜂在手机上发帖打卡</sub></td>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="卡通小蜜蜂在手机上发帖打卡" width="360" /></a><br /><sub>卡通小蜜蜂在手机上发帖打卡</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+[原始提示词 (.txt)](cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
+
+[原提示词见来源](https://x.com/MrGafish/status/2118217749680025722)
+
+**作者**: [MrGafish](https://x.com/MrGafish)
+
+**原始来源**: [作者自报模型](https://x.com/MrGafish/status/2118217749680025722) · [来源详情](cases/social-diligent-bee-daily-checkin-gif/README.zh-CN.md)
 
 ---
 

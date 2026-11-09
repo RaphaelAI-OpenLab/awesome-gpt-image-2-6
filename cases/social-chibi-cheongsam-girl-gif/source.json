@@ -1,0 +1,43 @@
+{
+  "source_url": "https://x.com/shinshin86/status/2118225428976705908",
+  "author": "shinshin86",
+  "published_at": "Thu Nov 05 06:14:31 +0000 2026",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6を試してみたけど、サクッとカワイイGIFが作れた！",
+  "prompt_source_url": "https://x.com/shinshin86/status/2118225428976705908",
+  "prompt_path": "cases/social-chibi-cheongsam-girl-gif/prompt.txt",
+  "prompt_sha256": "fb26411ae5a78c275a210839aa0ab832a0304ea7834d0799db38c09c5396ea30",
+  "source_html_sha256": "47117fba3be391ea535618d16535e15535d8efe4315914b323272a55c05849e9",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWVxx9TbkAAqtms.mp4",
+      "sha256": "391e05d2017418c0863f66bf67a48ded12c6dab1f01b1fa44253072755112043",
+      "bytes": 46448,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWVxx9TbkAAqtms.mp4",
+      "derived_from": "assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4",
+      "sha256": "1603a08ffb3d86bb144f306d8c35ae1dba552e3e5f4ffc218a61f9848c96a888",
+      "bytes": 441507,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "MP4 to GIF viewing copy; original retained"
+    },
+    {
+      "path": "assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVyU-YbIAAli3u.jpg?name=orig",
+      "sha256": "6ddad59d796447bf957f56340289f77b32ecd955462df9550adbff878d7ebeaf",
+      "bytes": 102340,
+      "mime_type": "image/jpeg",
+      "role": "reference",
+      "transformation": "none"
+    }
+  ]
+}
