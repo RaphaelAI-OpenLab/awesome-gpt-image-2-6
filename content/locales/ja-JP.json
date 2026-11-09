@@ -3,6 +3,7 @@
   "messages": {
     "**: ": "**: ",
     ", and we will remove it immediately.": "。直ちに削除いたします。",
+    "A curated collection of creative prompts and visual examples for GPT Image 2.6.": "GPT Image 2.6 のクリエイティブなプロンプトと作例を厳選したコレクション。",
     "Accessible": "アクセス可能",
     "Acknowledgements": "謝辞",
     "Add an example": "作例を追加",
@@ -12,7 +13,6 @@
     "Added | Case | Evidence": "追加日 | 事例 | 根拠",
     "All cases": "すべての事例",
     "An open collection for GPT Image 2.6 prompts, visual examples, and original sources.": "GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコレクションです。",
-    "An open collection of prompts, visual examples and original sources for GPT Image 2.6.": "GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコレクションです。",
     "Archived locally": "ローカルに保存済み",
     "Attribution and verification": "出典表記と検証",
     "Attribution does not grant a media license. Repository MIT terms do not cover third-party outputs. Local files record provenance and reuse status; source-attributed does not mean open-licensed.": "出典を表記しても、メディアの利用許諾が得られるわけではありません。リポジトリの MIT ライセンスは第三者の生成物には適用されません。ローカルファイルには出典と再利用条件を記録しています。source-attributed はオープンライセンスを意味しません。",

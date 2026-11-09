@@ -17,3 +17,5 @@ Each generated case page names its original creator and source. Item-level right
 The 2026-11-05 presentation update also adapts the language-badge/current-language navigation pattern and repository shortcuts. No YouMind brand images, product claims, example data or live counters were copied. The generated SVG navigation artwork is original to this project.
 
 2026-11-05 的呈现更新另参考了语言徽章 / 当前语言导航和仓库快捷入口；未复制 YouMind 品牌图、产品陈述、案例数据或实时计数。生成的 SVG 导航图形为本项目原创。
+
+2026-11-09 的首页身份区进一步参考同一 YouMind README：采用标题、五枚紧凑徽章、引用式简介、引用式版权声明和分隔线的排列。模型名称、文案、MIT 许可证、Star 数据源、校验工作流与问题表单均使用本项目的信息；没有复制对方的品牌图或状态数据。

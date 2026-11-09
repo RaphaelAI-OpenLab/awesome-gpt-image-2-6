@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ko-KR)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 모음집입니다.
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub에서 스타 누르기](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![코드 및 자체 작성 문서: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![검증 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![기여를 환영합니다](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-ko-KR.svg" alt="코드 · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-ko-KR.svg" alt="출처 · 약관" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-ko-KR.svg" alt="PR 환영" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-ko-KR.svg" alt="CI · 실행 내역 보기" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-ko-KR.svg" alt="GITHUB · 스타" height="34" /></a>
+> 🎨 GPT Image 2.6의 창의적인 프롬프트와 시각적 예시를 엄선한 모음입니다.
 
-⚠️ **저작권 안내**: 이 모음집의 프롬프트와 미디어는 교육 목적으로만 공개 출처에서 수집했습니다. 권리를 침해하는 콘텐츠가 있다고 생각하시면 [이슈를 등록해 주세요](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new). 즉시 삭제하겠습니다.
+> ⚠️ **저작권 안내**: 이 모음집의 프롬프트와 미디어는 교육 목적으로만 공개 출처에서 수집했습니다. 권리를 침해하는 콘텐츠가 있다고 생각하시면 [이슈를 등록해 주세요](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml). 즉시 삭제하겠습니다.
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en.svg" alt="번역 보기: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="번역 보기: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW.svg" alt="번역 보기: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP.svg" alt="번역 보기: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR-current.svg" alt="현재 언어: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="번역 보기: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN.svg" alt="번역 보기: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="번역 보기: हिन्दी" height="34" /></a><br />

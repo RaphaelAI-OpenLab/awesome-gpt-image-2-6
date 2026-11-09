@@ -1,7 +1,8 @@
-"""Original local SVG navigation: no hotlinked badges or stale remote counters."""
+"""Live repository badges alongside original local language/navigation SVGs."""
 import html
 import unicodedata
 from pathlib import Path
+from urllib.parse import quote, urlencode
 from i18n import LANGUAGES, DETAIL_LANGUAGES, LANGUAGE_NAMES, filename, ui
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -47,14 +48,18 @@ def language_nav(language, *, prefix='', detail=False):
 
 def repo_badges(config, language):
     project = config['project']
-    repo = f"https://github.com/{project['repository_owner']}/{project['repository_slug']}"
-    destinations = {'ci': repo + '/actions/workflows/validate.yml', 'star': repo}
-    links = []
-    for key, (text, _, destination) in BADGES.items():
-        target = destination or destinations[key]
-        alt = ui(text, language=language)
-        links.append(f'<a href="{html.escape(target, quote=True)}"><img src="assets/badges/{key}-{language}.svg" alt="{html.escape(alt, quote=True)}" height="34" /></a>')
-    return ' '.join(links)
+    slug = f"{project['repository_owner']}/{project['repository_slug']}"
+    repo = f'https://github.com/{slug}'
+    workflow = repo + '/actions/workflows/validate.yml'
+    branch_query = urlencode({'branch': project['default_branch']})
+    badges = [
+        ('Awesome', 'https://awesome.re/badge.svg', 'https://github.com/sindresorhus/awesome'),
+        (ui('Star on GitHub', language=language), f'https://img.shields.io/github/stars/{quote(slug, safe="/")}?style=social', repo),
+        (ui('Code & original docs', language=language) + ': MIT', 'https://img.shields.io/badge/License-MIT-lightgrey.svg', 'LICENSE'),
+        (ui('Validation CI', language=language), workflow + '/badge.svg?' + branch_query, workflow),
+        (ui('Contributions welcome', language=language), 'https://img.shields.io/badge/PRs-welcome-brightgreen.svg', 'CONTRIBUTING.md'),
+    ]
+    return '\n'.join(f'[![{label}]({image})]({target})' for label, image, target in badges)
 
 
 def placeholder(language):

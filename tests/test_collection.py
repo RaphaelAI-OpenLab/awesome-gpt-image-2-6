@@ -65,11 +65,21 @@ class CollectionTests(unittest.TestCase):
                 self.assertIn(ROOT / route, generated)
                 self.assertIn(case['source']['url'], generated[ROOT / route])
 
-    def test_displayed_images_are_local(self):
+    def test_displayed_images_are_local_except_approved_identity_badges(self):
+        approved_badges = {
+            'https://awesome.re/badge.svg',
+            'https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social',
+            'https://img.shields.io/badge/License-MIT-lightgrey.svg',
+            repo_url(self.config) + '/actions/workflows/validate.yml/badge.svg?branch=main',
+            'https://img.shields.io/badge/PRs-welcome-brightgreen.svg',
+        }
         for path, text in outputs(self.config, self.prompts).items():
             sources = re.findall(r'<img[^>]+src="([^"]+)"', text)
             sources += re.findall(r'!\[[^]]*\]\(([^)]+)\)', text)
             for source in sources:
+                if path.parent == ROOT and source in approved_badges:
+                    self.assertIn(source, text.split('\n---', 1)[0])
+                    continue
                 self.assertNotRegex(source, r'^(?:https?:|//)')
                 self.assertTrue((path.parent / source).is_file(), source)
 
