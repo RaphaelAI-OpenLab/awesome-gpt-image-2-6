@@ -1,0 +1,51 @@
+{
+  "source_url": "https://x.com/DeepBlueX0/status/2118602386172465509",
+  "author": "DeepBlueX0",
+  "published_at": "2026-11-06T07:12:25+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT image 2.6 Prompt:",
+  "prompt_source_url": "https://x.com/DeepBlueX0/status/2118602386172465509",
+  "prompt_path": "cases/social-tifa-lockhart-peeling-poster/prompt.txt",
+  "prompt_sha256": "6b74f9c0d81fe439a3f5ede97ffafaab7ac4d82b81eeeabf4d9bf624fd08ee51",
+  "source_html_sha256": "d956f0fd2bba1ede68c68d538a5584e02775639e013428451cc77a93b3dc29ed",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-tifa-lockhart-peeling-poster/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWbJol-bsAA4MX5.jpg",
+      "sha256": "1eaf5d9aaf26723f5f22d65f4ffcbbf058951885d621a410056922cbf9a38380",
+      "bytes": 267586,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-tifa-lockhart-peeling-poster/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWbJol7bgAAQ78r.jpg",
+      "sha256": "03d635a80e6293f9c4cc61c54e5abd81b654bad1b22b78f221b7546e088639e8",
+      "bytes": 293265,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-tifa-lockhart-peeling-poster/source-03.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWbJorzbwAAMLST.jpg",
+      "sha256": "408fd5fef7fd2ab4faca61cb68cb3f30fccea72a252728f7cb65acde02ab0fcd",
+      "bytes": 274880,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-tifa-lockhart-peeling-poster/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWbJol_acAAXcLr.jpg",
+      "sha256": "7a9dcfebe9ed3be0d52b414f4b7ef338927c2f628a8258d296c0f9d2e7787f0d",
+      "bytes": 288424,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

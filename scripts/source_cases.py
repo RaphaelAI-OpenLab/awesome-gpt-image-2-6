@@ -56,7 +56,7 @@ def video_preview_path(media):
     return str(PurePosixPath('assets/readme-previews') / path.parent.name / (path.stem + '.jpg'))
 
 
-def render_original_prompt(item, language):
+def render_original_prompt(item, language, *, prefix=''):
     """首页与详情复用原文，缺失状态不生成提示词。"""
     c = lambda en, cn: ui(en, cn, language)
     prompt = item['prompt']
@@ -67,6 +67,8 @@ def render_original_prompt(item, language):
             if len(entries) > 1:
                 lines += ['**' + md_text(localized(entry['title'], language)) + '**', '']
             lines += [code_block(entry['text']), '']
+            if entry.get('path'):
+                lines += [md_link(c('Original prompt', '原始提示词') + ' (.txt)', image_path(entry['path'], prefix)), '']
         if prompt.get('note'):
             lines += [md_text(localized(prompt['note'], language)), '']
         lines += [md_link(c('Original prompt at source', '原提示词见来源'), prompt['url'])]
@@ -169,7 +171,7 @@ def render_detail(item, language, *, external=False):
                   '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), root_prefix + access['report_path'])]
     lines += ['', '## ' + choose('Original prompt', '原始提示词'), '']
     if item['prompt'].get('entries'):
-        lines += [render_original_prompt(item, language)]
+        lines += [render_original_prompt(item, language, prefix=root_prefix)]
     elif item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',
                   choose('The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.', '来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。')]

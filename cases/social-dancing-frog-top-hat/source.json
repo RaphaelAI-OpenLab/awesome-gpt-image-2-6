@@ -1,0 +1,34 @@
+{
+  "source_url": "https://x.com/princess414141/status/2118144125354877152",
+  "author": "princess414141",
+  "published_at": "Thu Nov 05 00:51:27 +0000 2026",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT images 2.6 GIF maker is pretty good. ",
+  "prompt_source_url": "https://x.com/princess414141/status/2118144125354877152",
+  "prompt_path": "cases/social-dancing-frog-top-hat/prompt.txt",
+  "prompt_sha256": "66d1d90df6b63563035a4a3da20ff3722d4fa2477e470777da0c1dec69630d42",
+  "source_html_sha256": "18c3da272070ebd346b1bbce645767516e194f8f00ecebaaeb4f2ee04263cd1f",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-dancing-frog-top-hat/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUnNk1XsAAL65p.mp4",
+      "sha256": "bb9a77a01e462f0dc9b6c012bbbbf8e16b443c4147b2523dc86a7b6265720c52",
+      "bytes": 69642,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-dancing-frog-top-hat/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUnNk1XsAAL65p.mp4",
+      "derived_from": "assets/examples/social-dancing-frog-top-hat/source-01.mp4",
+      "sha256": "c406054e91515e135baf43d65051fad45b2c5e477f14ab5d480fb2f31ef639eb",
+      "bytes": 1211654,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "MP4 to GIF viewing copy; original retained"
+    }
+  ]
+}

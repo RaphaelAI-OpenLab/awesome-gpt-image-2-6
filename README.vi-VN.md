@@ -55,14 +55,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 7 | 6 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 8 | 6 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 8 | 7 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 9 | 7 |
 | [Đồ họa thông tin](#category-infographics) | 3 | 3 |
 | [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 2 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 15 | 12 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 9 | 8 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 22 | 19 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 10 | 9 |
 | [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 4 | 3 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 59 | 49 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 64 | 54 |
 
 <a id="contents"></a>
 
@@ -94,12 +94,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **108** |
+| Trường hợp có liên kết nguồn | **123** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **71** |
-| Câu lệnh gốc có sẵn tại nguồn | **82** |
-| Câu lệnh đầy đủ được công bố tại đây | **89** |
-| Tệp tư liệu được lưu trữ cục bộ | **176** |
+| Ví dụ do tác giả báo cáo | **86** |
+| Câu lệnh gốc có sẵn tại nguồn | **97** |
+| Câu lệnh đầy đủ được công bố tại đây | **104** |
+| Tệp tư liệu được lưu trữ cục bộ | **211** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -129,12 +129,12 @@ Số lượng nguồn không khẳng định việc tái tạo. Các đầu mố
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Love-burst skill animation](#source-case-ailingqu-love-burst-skill) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Hourglass loading](#source-case-ailingqu-hourglass-flip) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Like button heart burst](#source-case-ailingqu-like-heart-burst) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion) | Mô hình do tác giả báo cáo |
+| 2026-11-09 | [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -355,13 +355,60 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 
 ---
 
+<a id="source-case-social-perfume-dancer-light-trails"></a>
+
+#### 8. Everyday objects transformed by coronal light trails
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-perfume-dancer-light-trails/source-01.jpg"><img src="assets/examples/social-perfume-dancer-light-trails/source-01.jpg" alt="Everyday objects transformed by coronal light trails" width="360" /></a><br /><sub>Everyday objects transformed by coronal light trails</sub></td>
+<td align="center"><a href="assets/examples/social-perfume-dancer-light-trails/source-02.jpg"><img src="assets/examples/social-perfume-dancer-light-trails/source-02.jpg" alt="Everyday objects transformed by coronal light trails" width="360" /></a><br /><sub>Everyday objects transformed by coronal light trails</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-perfume-dancer-light-trails/source-03.jpg"><img src="assets/examples/social-perfume-dancer-light-trails/source-03.jpg" alt="Everyday objects transformed by coronal light trails" width="360" /></a><br /><sub>Everyday objects transformed by coronal light trails</sub></td>
+<td align="center"><a href="assets/examples/social-perfume-dancer-light-trails/source-04.jpg"><img src="assets/examples/social-perfume-dancer-light-trails/source-04.jpg" alt="Everyday objects transformed by coronal light trails" width="360" /></a><br /><sub>Everyday objects transformed by coronal light trails</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+日常物件 × 隱藏形象 × 日冕弧線 × 超現實靜物攝影
+
+每張獨立選擇一件不同的日常物件，根據它的用途、形態或情緒聯想，設計一個有趣且容易辨認的隱藏形象。
+
+保留物件真實的材質、結構與使用痕跡。讓成束的發光絲線從物件局部延伸、彎曲、交疊，共同暗示隱藏形象的主要輪廓。絲線可以升起、向側面舒展，或環繞物件展開，與物件保持清楚的連接。
+
+借鑒太陽日冕環的視覺形態，用疏密、跨度和亮度各異的弧線塑造形象。概括五官和內部細節，讓部分輪廓自然淡入周圍空間，保留絲線的輕盈與層次。
+
+根據物件、隱藏形象與畫面情緒，自由選擇一種或多種協調的發光顏色。色彩沿絲線自然變化，發光結構在附近物體表面留下相應的細微映光。
+
+根據物件與隱藏形象設計真實的生活場景。自由變化視角、物件位置、形象方向和畫面構圖，讓兩者的關係清楚可見。
+
+竪版 9:16。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+
+n=10
+```
+
+[Câu lệnh gốc (.txt)](cases/social-perfume-dancer-light-trails/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/DeepBlueX0/status/2118527529208455403)
+
+**Tác giả**: [DeepBlueX0](https://x.com/DeepBlueX0)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/DeepBlueX0/status/2118527529208455403) · [Chi tiết nguồn](cases/social-perfume-dancer-light-trails/README.md)
+
+---
+
 <a id="category-posters-typography"></a>
 
 ### Áp phích và nghệ thuật chữ
 
 <a id="source-case-docs-streetwear"></a>
 
-#### 8. Streetwear advertisement typography
+#### 9. Streetwear advertisement typography
 
 <table>
 <tr>
@@ -391,7 +438,7 @@ No extra text, no watermarks, no unrelated logos.
 
 <a id="source-case-docs-billboard"></a>
 
-#### 9. Roadside shampoo billboard
+#### 10. Roadside shampoo billboard
 
 <table>
 <tr>
@@ -430,7 +477,7 @@ No watermarks, no logos.
 
 <a id="source-case-docs-holiday-card"></a>
 
-#### 10. Nostalgic holiday card
+#### 11. Nostalgic holiday card
 
 <table>
 <tr>
@@ -475,7 +522,7 @@ Include ONLY this card text (verbatim):
 
 <a id="source-case-community-flare-slogan-comparison"></a>
 
-#### 11. Birthday cake without extra slogan cards
+#### 12. Birthday cake without extra slogan cards
 
 <table>
 <tr>
@@ -501,7 +548,7 @@ Transcribed from the instruction printed in the archived source comparison image
 
 <a id="source-case-community-struggle-poster-edit"></a>
 
-#### 12. AI evolution poster revised to Image 2.6
+#### 13. AI evolution poster revised to Image 2.6
 
 <table>
 <tr>
@@ -533,7 +580,7 @@ Transcribed from the instruction printed in the archived source comparison image
 
 <a id="source-case-nyle-health-fair"></a>
 
-#### 13. Spring Health Fair 2027 flyer comparison
+#### 14. Spring Health Fair 2027 flyer comparison
 
 <table>
 <tr>
@@ -553,7 +600,7 @@ Transcribed from the instruction printed in the archived source comparison image
 
 <a id="source-case-nyle-skincare-ad"></a>
 
-#### 14. Sensitive-skin lotion advertisement comparison
+#### 15. Sensitive-skin lotion advertisement comparison
 
 <table>
 <tr>
@@ -573,7 +620,7 @@ Transcribed from the instruction printed in the archived source comparison image
 
 <a id="source-case-nyle-kanji-cover"></a>
 
-#### 15. Dense Japanese business cover comparison
+#### 16. Dense Japanese business cover comparison
 
 <table>
 <tr>
@@ -591,13 +638,75 @@ Transcribed from the instruction printed in the archived source comparison image
 
 ---
 
+<a id="source-case-social-tifa-lockhart-peeling-poster"></a>
+
+#### 17. Weathered millennium-era anime and game posters
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-tifa-lockhart-peeling-poster/source-01.jpg"><img src="assets/examples/social-tifa-lockhart-peeling-poster/source-01.jpg" alt="Weathered millennium-era anime and game posters" width="360" /></a><br /><sub>Weathered millennium-era anime and game posters</sub></td>
+<td align="center"><a href="assets/examples/social-tifa-lockhart-peeling-poster/source-02.jpg"><img src="assets/examples/social-tifa-lockhart-peeling-poster/source-02.jpg" alt="Weathered millennium-era anime and game posters" width="360" /></a><br /><sub>Weathered millennium-era anime and game posters</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-tifa-lockhart-peeling-poster/source-03.jpg"><img src="assets/examples/social-tifa-lockhart-peeling-poster/source-03.jpg" alt="Weathered millennium-era anime and game posters" width="360" /></a><br /><sub>Weathered millennium-era anime and game posters</sub></td>
+<td align="center"><a href="assets/examples/social-tifa-lockhart-peeling-poster/source-04.jpg"><img src="assets/examples/social-tifa-lockhart-peeling-poster/source-04.jpg" alt="Weathered millennium-era anime and game posters" width="360" /></a><br /><sub>Weathered millennium-era anime and game posters</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+經典動漫遊戲女性角色 × 城市自然剝蝕拼貼 × 千禧年廣告海報
+
+一面真實城市街頭的舊牆壁，
+表面覆蓋著多個年代的動漫、遊戲和商業廣告海報。
+
+最上層是一張具有千禧年日本動漫遊戲雜誌風格的
+成年女性角色宣傳海報。
+
+海報經過自然風化，
+出現真實的撕裂、捲曲、褪色和局部剝落。
+
+破損區域露出下方不同年代的舊海報，
+包括殘缺的角色肖像、日文字體、
+復古廣告圖案和大面積印刷色塊。
+
+所有紙張具有真實厚度，
+破損邊緣露出纖維斷面，
+局部可見膠水殘留和細小陰影。
+
+圖像之間的關係由真實紙層覆蓋決定，
+形成意外而有趣的抽象構圖。
+
+畫面具有自然形成的街頭視覺檔案感，
+避免刻意設計的規則拼貼。
+
+真實iPhone街頭攝影質感，
+自然光，細膩紙張紋理，低AI感。
+
+n=6，9:16竪版。
+
+左下簽名：深藍色實心圓點在前，
+白色手寫體 DeepBlue 在後。
+```
+
+[Câu lệnh gốc (.txt)](cases/social-tifa-lockhart-peeling-poster/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/DeepBlueX0/status/2118602386172465509)
+
+**Tác giả**: [DeepBlueX0](https://x.com/DeepBlueX0)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/DeepBlueX0/status/2118602386172465509) · [Chi tiết nguồn](cases/social-tifa-lockhart-peeling-poster/README.md)
+
+---
+
 <a id="category-infographics"></a>
 
 ### Đồ họa thông tin
 
 <a id="source-case-docs-coffee-diagram"></a>
 
-#### 16. Coffee-machine process diagram
+#### 18. Coffee-machine process diagram
 
 <table>
 <tr>
@@ -624,7 +733,7 @@ I'd like to understand technically and visually the flow.
 
 <a id="source-case-docs-cell-respiration"></a>
 
-#### 17. Cellular respiration teaching visual
+#### 19. Cellular respiration teaching visual
 
 <table>
 <tr>
@@ -655,7 +764,7 @@ Avoid tiny text, extra decoration, or anything that makes the diagram hard to un
 
 <a id="source-case-docs-pitch-slide"></a>
 
-#### 18. Market-size presentation slide
+#### 20. Market-size presentation slide
 
 <table>
 <tr>
@@ -700,7 +809,7 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 <a id="source-case-docs-room-chairs"></a>
 
-#### 19. Replace chairs in an interior
+#### 21. Replace chairs in an interior
 
 <table>
 <tr>
@@ -737,7 +846,7 @@ Photorealistic contact shadows and fabric texture.
 
 <a id="source-case-launch-fal"></a>
 
-#### 20. Living-room markup edit
+#### 22. Living-room markup edit
 
 <table>
 <tr>
@@ -770,7 +879,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-community-sunburst-dust-detail"></a>
 
-#### 21. Dusty warehouse prompt-detail comparison
+#### 23. Dusty warehouse prompt-detail comparison
 
 <table>
 <tr>
@@ -794,7 +903,7 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 <a id="source-case-docs-complexity"></a>
 
-#### 22. Paper-cut championship scene: complexity comparison
+#### 24. Paper-cut championship scene: complexity comparison
 
 <table>
 <tr>
@@ -822,7 +931,7 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 <a id="source-case-docs-sailor"></a>
 
-#### 23. Realistic fishing-boat sailor portrait
+#### 25. Realistic fishing-boat sailor portrait
 
 <table>
 <tr>
@@ -851,7 +960,7 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 <a id="source-case-docs-historical-crowd"></a>
 
-#### 24. 1969 historical crowd scene
+#### 26. 1969 historical crowd scene
 
 <table>
 <tr>
@@ -877,7 +986,7 @@ Photorealistic, period-accurate clothing, staging, and environment.
 
 <a id="source-case-docs-pet-comic"></a>
 
-#### 25. Four-panel pet comic
+#### 27. Four-panel pet comic
 
 <table>
 <tr>
@@ -906,7 +1015,7 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 
 <a id="source-case-docs-outfit"></a>
 
-#### 26. Change clothing while preserving identity
+#### 28. Change clothing while preserving identity
 
 <table>
 <tr>
@@ -943,7 +1052,7 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 <a id="source-case-docs-person-scene"></a>
 
-#### 27. Place a person into a camping escape scene
+#### 29. Place a person into a camping escape scene
 
 <table>
 <tr>
@@ -970,7 +1079,7 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 
 <a id="source-case-docs-character-start"></a>
 
-#### 28. Establish a storybook character
+#### 30. Establish a storybook character
 
 <table>
 <tr>
@@ -1015,7 +1124,7 @@ Constraints:
 
 <a id="source-case-docs-character-story"></a>
 
-#### 29. Continue the same character’s story
+#### 31. Continue the same character’s story
 
 <table>
 <tr>
@@ -1060,7 +1169,7 @@ Constraints:
 
 <a id="source-case-launch-picsart"></a>
 
-#### 30. Stained-glass whale
+#### 32. Stained-glass whale
 
 <table>
 <tr>
@@ -1080,7 +1189,7 @@ Constraints:
 
 <a id="source-case-launch-higgsfield"></a>
 
-#### 31. Knight scene and clothing edit sequence
+#### 33. Knight scene and clothing edit sequence
 
 <table>
 <tr>
@@ -1130,7 +1239,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-reference-photo-board"></a>
 
-#### 32. Reference-led courtyard photo board
+#### 34. Reference-led courtyard photo board
 
 <table>
 <tr>
@@ -1150,7 +1259,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
 
-#### 33. Sunburst courtyard comparison
+#### 35. Sunburst courtyard comparison
 
 <table>
 <tr>
@@ -1170,7 +1279,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-marco-mushroom-fashion-portrait"></a>
 
-#### 34. Mushroom-lit fashion portrait
+#### 36. Mushroom-lit fashion portrait
 
 <table>
 <tr>
@@ -1199,7 +1308,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
 
-#### 35. Sunburst six-style sample gallery
+#### 37. Sunburst six-style sample gallery
 
 <table>
 <tr>
@@ -1219,7 +1328,7 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
 
-#### 36. Sunburst calico cat by a window
+#### 38. Sunburst calico cat by a window
 
 <table>
 <tr>
@@ -1237,13 +1346,260 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 ---
 
+<a id="source-case-social-woman-holding-tea-mug"></a>
+
+#### 39. Woman holding floral tea mug indoors
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-woman-holding-tea-mug/source-01.jpg"><img src="assets/examples/social-woman-holding-tea-mug/source-01.jpg" alt="Woman holding floral tea mug indoors" width="700" /></a><br /><sub>Woman holding floral tea mug indoors</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+a realistic photo of a woman holding a cup of tea inside her home
+```
+
+[Câu lệnh gốc (.txt)](cases/social-woman-holding-tea-mug/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/v3rt0x_/status/2118147596891901957)
+
+**Tác giả**: [v3rt0x_](https://x.com/v3rt0x_)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/v3rt0x_/status/2118147596891901957) · [Chi tiết nguồn](cases/social-woman-holding-tea-mug/README.md)
+
+---
+
+<a id="source-case-social-90s-film-snapshot-woman"></a>
+
+#### 40. Woman in light blue sweatshirt before polaroid wall
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-90s-film-snapshot-woman/source-01.jpg"><img src="assets/examples/social-90s-film-snapshot-woman/source-01.jpg" alt="Woman in light blue sweatshirt before polaroid wall" width="700" /></a><br /><sub>Woman in light blue sweatshirt before polaroid wall</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+A young woman with the same unchanged face and soft natural complexion, captured in a spontaneous 90s film snapshot. Her loose black hair falls over the shoulders of a baby-blue cropped zip-up sweatshirt worn over a white ribbed tank top. She looks directly into the camera with a relaxed expression and a faint smile. The dim beige wall behind her is covered with colorful polaroids, tiny stickers, music flyers, and handwritten messages. Bright on-camera flash, slightly cool color temperature, natural skin texture, subtle motion blur, authentic disposable-camera grain, imperfect vintage composition, nostalgic bedroom photography.
+```
+
+[Câu lệnh gốc (.txt)](cases/social-90s-film-snapshot-woman/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/AIwithSarah_/status/2118202866448077182)
+
+**Tác giả**: [AIwithSarah_](https://x.com/AIwithSarah_)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/AIwithSarah_/status/2118202866448077182) · [Chi tiết nguồn](cases/social-90s-film-snapshot-woman/README.md)
+
+---
+
+<a id="source-case-social-cyan-poetry-wet-portrait"></a>
+
+#### 41. Glowing cyan poetry and equations on wet skin
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg"><img src="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg" alt="Glowing cyan poetry and equations on wet skin" width="700" /></a><br /><sub>Glowing cyan poetry and equations on wet skin</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousled dark hair and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing cyan handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic. Dark,moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.
+```
+
+[Câu lệnh gốc (.txt)](cases/social-cyan-poetry-wet-portrait/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/iamsofiaijaz/status/2118561558511132918)
+
+**Tác giả**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/iamsofiaijaz/status/2118561513879507399) · [Chi tiết nguồn](cases/social-cyan-poetry-wet-portrait/README.md)
+
+---
+
+<a id="source-case-social-sleepy-star-eyed-emoji-fusion"></a>
+
+#### 42. Emoji and kaomoji fusion posters
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg" alt="Emoji and kaomoji fusion posters" width="360" /></a><br /><sub>Emoji and kaomoji fusion posters</sub></td>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg" alt="Emoji and kaomoji fusion posters" width="360" /></a><br /><sub>Emoji and kaomoji fusion posters</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg" alt="Emoji and kaomoji fusion posters" width="360" /></a><br /><sub>Emoji and kaomoji fusion posters</sub></td>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg" alt="Emoji and kaomoji fusion posters" width="360" /></a><br /><sub>Emoji and kaomoji fusion posters</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+iOS 系統Emoji × 顏文字× 全新表情設計
+
+每張獨立選擇兩個或多個不同的 Emoji 或顏文字進行融合，開放探索人物、動物、食物、物件、自然元素與各種情緒。
+
+整組變化來源類別與組合方式，探索 Emoji 與 Emoji、Emoji 與顏文字、多個顏文字等不同搭配，讓顏文字多次參與融合。每張選擇不同組合與心情，減少主體和表達重復。
+
+先確定本張的融合配方，提取各來源最有辨識度的五官、神態、輪廓、動作或字符特徵，將它們融合成一個完整的新表情，表達一種有趣的情緒或狀態。
+
+根據來源自身形態設計結果：臉部表情重點融合五官與神態；帶手勢或全身形態的表情保留有助於識別的身體結構；動物、物件和自然元素保留關鍵外形；顏文字的眼睛、嘴巴、符號或字符排列自然融入新表情。身體、四肢與動作由組合和表達需要決定。
+
+融合結果保持簡潔的表情圖標感，以主體輪廓和關鍵特徵傳達心情，細節適度，縮小後仍清晰可辨。
+
+畫面從上到下展示融合公式：上方用「×」連接所選來源，中間將「＝」旋轉90°，呈現為兩條並排的細竪線，下方展示融合後的新表情。新表情明顯大於來源，是畫面的視覺重點。
+
+公式中的 Emoji 參照 iOS 系統對應表情的外觀，保留容易辨認的造型、顏色、神態與動作。公式中的顏文字以清晰字符原樣呈現，保持所選字符及排列完整。
+
+融合後的新表情採用與 iOS Emoji 協調的視覺風格：造型簡潔圓潤，表情鮮明，色彩飽滿，具有柔和漸變、細膩高光與輕微立體感。人物、動物與物件保留各自適合的形態，整體如同同一套系統表情。
+
+根據新表情的情緒與主體配色，自由選擇協調的低飽和漸變背景，在新表情後方加入柔和的主題色光暈。光暈與主體保持適當的明度或色相差異，讓表情輪廓清楚可辨。
+
+在新表情附近寫一句簡短自然的中文心情短句，準確表達融合後的意思。字體形態與筆畫氣質呼應情緒，文字完整清晰，與表情和公式保持適當間距。
+
+公式符號、顏文字與背景保持足夠對比。畫面疏密協調，留白自然。
+
+竪版 9:16，n=10。每張為獨立單圖，逐張生成，不拼圖。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+```
+
+[Câu lệnh gốc (.txt)](cases/social-sleepy-star-eyed-emoji-fusion/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/DeepBlueX0/status/2118276577322750086)
+
+**Tác giả**: [DeepBlueX0](https://x.com/DeepBlueX0)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/DeepBlueX0/status/2118276577322750086) · [Chi tiết nguồn](cases/social-sleepy-star-eyed-emoji-fusion/README.md)
+
+---
+
+<a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
+
+#### 43. Woman seated in moonlit lake water
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg"><img src="assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg" alt="Woman seated in moonlit lake water" width="700" /></a><br /><sub>Woman seated in moonlit lake water</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+9:16竖版，超写实人像摄影，月夜湖畔清冷氛围。成年东亚女性侧坐于湖边湿润岩石上，双腿垂入浅水，身形高挑纤细，胸部饱满，腰身收束流畅。身穿月白色纱质褙子，内衬淡青色抹胸，纱质披帛垂入水中。月光从右上方照射，形成冷银色轮廓光。
+
+【人物】
+成年东亚女性，清冷孤傲气质。瓜子脸（下巴尖，额头宽，清冷孤傲），丹凤眼（细长上挑，眼尾飞扬，妩媚冷艳），剑眉（粗直上扬，英气飒爽），薄唇（纤薄精致，清冷克制），尖鼻（鼻尖尖锐，冷艳凌厉）。五官严格匀称，透视关系正确：双眼大小一致对称，两眼间距等于单眼宽度，鼻翼宽度等于眼距，嘴唇宽度等于瞳孔间距，面部中线左右对称。眉心一颗小痣（增加辨识度）。乌黑低髻，简单银簪，素雅淡妆。
+
+【姿势】
+侧坐于湖边湿润岩石上，身体微微后仰，双手撑在身后岩石上。双腿向前伸展，垂入浅水中，水面泛起微微涟漪。头部微微抬起，丹凤眼直视镜头，眼神清冷孤傲。
+
+【服装】
+月白色纱质褙子，半透明，绣有淡墨色水纹和云纹。内衬淡青色抹胸，贴合承托。纱质披帛从肩部垂落，末端垂入水中，被水浸湿。整体修长含蓄，简洁内敛。
+
+【环境】
+月夜湖畔：深蓝色夜空，明月高悬，月光洒在湖面上形成银色光路。湖边有湿润的黑色岩石，水面平静如镜，倒映着月亮和人物。远处有模糊的柳树剪影。薄雾弥漫在湖面上，营造空灵氛围。
+
+【光影】
+月光从右上方照射，形成冷银色轮廓光，照亮发丝和纱质服装边缘。面部使用柔和的月光补光，保持清冷色调。水面反射月光，形成银色光路。整体色调：深蓝+银白+月白+淡青。
+
+【构图】
+中景构图，人物占据画面中央，双腿垂入水中形成纵向线条。月亮位于画面上方1/4处。水面倒影和薄雾营造层次。
+
+Negative: anime, CGI, plastic skin, over-smoothing, hard shadows, revealing clothing, wrong anatomy, extra fingers, text, watermark, logo, modern elements, Western fantasy, oversaturated, thick legs, chubby body, overweight, flat chest, asymmetric eyes, uneven facial features, distorted proportions, deformed face, warm lighting, golden hour, sunny day.
+
+Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montserrat Regular, pure white, slightly expanded letter spacing (+1.5px), medium-small size (2% of image height), maximum 25% image width, positioned 10% above the bottom edge. Crisp, elegant, consistent typography. No shadow, outline, glow or background.
+```
+
+[Câu lệnh gốc (.txt)](cases/social-moonlit-lake-hanfu-portrait/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/sandmrk/status/2118269433626124798)
+
+**Tác giả**: [sandmrk](https://x.com/sandmrk)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/sandmrk/status/2118269430014599535) · [Chi tiết nguồn](cases/social-moonlit-lake-hanfu-portrait/README.md)
+
+---
+
+<a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
+
+#### 44. Seated hanfu woman by lotus pond at sunset
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg"><img src="assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg" alt="Seated hanfu woman by lotus pond at sunset" width="700" /></a><br /><sub>Seated hanfu woman by lotus pond at sunset</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+An original cinematic semi-realistic fantasy portrait of a clearly adult East Asian woman, age 28, seated on a lakeside stone beneath trailing willow branches at golden hour. Long black hair with delicate pale lotus ornaments, elegant silver-blue embroidered silk hanfu with opaque bodice and modest neckline, airy outer sleeves, long skirt naturally draped over her legs. Three-quarter seated composition, vertical 9:16 framing. Warm golden backlight through leaves, soft mist, distant mountain silhouettes, a tranquil reflective pond and small pink lotus blossoms. Natural skin texture, individual hair strands, intricate silver embroidery, believable hands and anatomy, soft atmospheric depth. No text, no watermark, no logos.
+```
+
+[Câu lệnh gốc (.txt)](cases/social-seated-hanfu-woman-lotus-pond/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/fengnian_ai/status/2118386725676552194)
+
+**Tác giả**: [fengnian_ai](https://x.com/fengnian_ai)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/fengnian_ai/status/2118386725676552194) · [Chi tiết nguồn](cases/social-seated-hanfu-woman-lotus-pond/README.md)
+
+---
+
+<a id="source-case-social-sunset-beach-look-back"></a>
+
+#### 45. Woman turning back on sunset beach
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-01.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-01.jpg" alt="Woman turning back on sunset beach" width="360" /></a><br /><sub>Woman turning back on sunset beach</sub></td>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-02.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-02.jpg" alt="Woman turning back on sunset beach" width="360" /></a><br /><sub>Woman turning back on sunset beach</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-03.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-03.jpg" alt="Woman turning back on sunset beach" width="360" /></a><br /><sub>Woman turning back on sunset beach</sub></td>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-04.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-04.jpg" alt="Woman turning back on sunset beach" width="360" /></a><br /><sub>Woman turning back on sunset beach</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+【首图】
+生成一张4:5竖版写实人像照片。一位25岁的成年东亚美女，黑色长发，五官精致，身材修长匀称，穿黑色连体泳衣，外搭敞开的白色亚麻衬衫。傍晚赤脚走在海边浅水中，被身后的人叫住，回头看向镜头，露出刚开始笑的自然表情，一只手轻轻按住被海风吹起的头发。拍到大腿，人物占画面主体，前景有细碎浪花，夕阳从侧后方照亮发丝。像旅行时偶然拍到的漂亮瞬间，保留真实皮肤纹理、衣料褶皱和轻微抓拍感，色彩自然，无文字、水印。
+
+【续图方法】
+上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加：
+①近景：胸口以上，拨头发，轻轻微笑。
+②全身：赤脚走在浅水里，低头看浪花。
+③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。
+```
+
+[Câu lệnh gốc (.txt)](cases/social-sunset-beach-look-back/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/sonny_eacc/status/2118216507025187281)
+
+**Tác giả**: [sonny_eacc](https://x.com/sonny_eacc)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/sonny_eacc/status/2118216234445791408) · [Chi tiết nguồn](cases/social-sunset-beach-look-back/README.md)
+
+---
+
 <a id="category-markup-edits"></a>
 
 ### Đánh dấu và chỉnh sửa có mục tiêu
 
 <a id="source-case-docs-vase-markup"></a>
 
-#### 37. Recolor a marked vase
+#### 46. Recolor a marked vase
 
 <table>
 <tr>
@@ -1277,7 +1633,7 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="source-case-docs-spanish-edit"></a>
 
-#### 38. Translate an infographic into Spanish
+#### 47. Translate an infographic into Spanish
 
 <table>
 <tr>
@@ -1302,7 +1658,7 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 
 <a id="source-case-docs-pixel-style"></a>
 
-#### 39. Transfer a pixel-art style
+#### 48. Transfer a pixel-art style
 
 <table>
 <tr>
@@ -1336,7 +1692,7 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 <a id="source-case-docs-dog-composite"></a>
 
-#### 40. Combine pets across images
+#### 49. Combine pets across images
 
 <table>
 <tr>
@@ -1371,7 +1727,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="source-case-docs-sketch-render"></a>
 
-#### 41. Turn a sketch into a realistic scene
+#### 50. Turn a sketch into a realistic scene
 
 <table>
 <tr>
@@ -1408,7 +1764,7 @@ Do not add new elements or text.
 
 <a id="source-case-docs-remove-flower"></a>
 
-#### 42. Remove a held flower
+#### 51. Remove a held flower
 
 <table>
 <tr>
@@ -1442,7 +1798,7 @@ Remove the flower from man's hand. Do not change anything else.
 
 <a id="source-case-docs-snow-edit"></a>
 
-#### 43. Change the billboard scene to a snowy night
+#### 52. Change the billboard scene to a snowy night
 
 <table>
 <tr>
@@ -1467,7 +1823,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
 
-#### 44. Rabbit storybook day-to-dusk edit
+#### 53. Rabbit storybook day-to-dusk edit
 
 <table>
 <tr>
@@ -1487,7 +1843,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-nyle-webinar-date-edit"></a>
 
-#### 45. Webinar date replacement comparison
+#### 54. Webinar date replacement comparison
 
 <table>
 <tr>
@@ -1511,13 +1867,74 @@ Transcribed from the instruction printed in the archived source comparison image
 
 ---
 
+<a id="source-case-social-portugal-folk-christmas-card"></a>
+
+#### 55. Photo-to-folk-art Christmas greeting cards
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-portugal-folk-christmas-card/source-01.jpg"><img src="assets/examples/social-portugal-folk-christmas-card/source-01.jpg" alt="Photo-to-folk-art Christmas greeting cards" width="360" /></a><br /><sub>Photo-to-folk-art Christmas greeting cards</sub></td>
+<td align="center"><a href="assets/examples/social-portugal-folk-christmas-card/source-02.jpg"><img src="assets/examples/social-portugal-folk-christmas-card/source-02.jpg" alt="Photo-to-folk-art Christmas greeting cards" width="360" /></a><br /><sub>Photo-to-folk-art Christmas greeting cards</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.
+
+ART STYLE:
+
+- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.
+- Slightly exaggerated, whimsical proportions.
+- Imperfect, irregular outlines and organic hand-drawn contours.
+- Simplified shapes with carefully selected decorative details.
+- Flat, bold, contrasting colours with a warm Christmas palette.
+- Subtle vintage paper texture with a refined printed-card finish.
+- Delicate hand-drawn decorative marks, patterns and festive accents.
+- Minimalist yet visually rich composition.
+
+COLOUR PALETTE:
+Use traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.
+
+PRESERVE THE ORIGINAL PHOTOGRAPH:
+Retain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.
+
+DESIGN & COMPOSITION:
+Create an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.
+
+STRICT VISUAL RULES:
+
+- No photorealism.
+- No 3D rendering.
+- No realistic lighting or shadows.
+- No gradients.
+- No glossy or metallic effects.
+- No artificial digital painting appearance.
+- No excessive detail or visual clutter.
+
+The final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.
+
+FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
+```
+
+[Câu lệnh gốc (.txt)](cases/social-portugal-folk-christmas-card/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/Goodmanprotocol/status/2118562099987398753)
+
+**Tác giả**: [Goodmanprotocol](https://x.com/Goodmanprotocol)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/Goodmanprotocol/status/2118562099987398753) · [Chi tiết nguồn](cases/social-portugal-folk-christmas-card/README.md)
+
+---
+
 <a id="category-svg-design-assets"></a>
 
 ### SVG và tài nguyên thiết kế
 
 <a id="source-case-docs-bakery-svg"></a>
 
-#### 46. Bakery SVG logo
+#### 56. Bakery SVG logo
 
 <table>
 <tr>
@@ -1545,7 +1962,7 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 <a id="source-case-docs-market-ui"></a>
 
-#### 47. Farmers market mobile interface
+#### 57. Farmers market mobile interface
 
 <table>
 <tr>
@@ -1574,7 +1991,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-bear-svg-comparison"></a>
 
-#### 48. Bear mascot: SVG versus PNG previews
+#### 58. Bear mascot: SVG versus PNG previews
 
 <table>
 <tr>
@@ -1595,7 +2012,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-struggle-code-lightning-svg"></a>
 
-#### 49. Code Lightning vector logo
+#### 59. Code Lightning vector logo
 
 <table>
 <tr>
@@ -1623,7 +2040,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-docs-lantern-gif"></a>
 
-#### 50. Lantern-carrying monkey loop
+#### 60. Lantern-carrying monkey loop
 
 <table>
 <tr>
@@ -1647,7 +2064,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 <a id="source-case-launch-openart-down"></a>
 
-#### 51. Office character: falling stock GIF
+#### 61. Office character: falling stock GIF
 
 <table>
 <tr>
@@ -1673,7 +2090,7 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 <a id="source-case-launch-openart-up"></a>
 
-#### 52. Office character: rising stock GIF
+#### 62. Office character: rising stock GIF
 
 <table>
 <tr>
@@ -1699,7 +2116,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-owl"></a>
 
-#### 53. Owl sketch to animation
+#### 63. Owl sketch to animation
 
 <table>
 <tr>
@@ -1728,7 +2145,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-town"></a>
 
-#### 54. Monty typing indicator animation
+#### 64. Monty typing indicator animation
 
 <table>
 <tr>
@@ -1748,7 +2165,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-malfoid"></a>
 
-#### 55. Summer character illustration animation
+#### 65. Summer character illustration animation
 
 **Hình ảnh chưa được lưu trữ** · [Xem tác phẩm tại nguồn gốc](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
 
@@ -1764,7 +2181,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-gifts"></a>
 
-#### 56. Images 2.6 brings GIF(T)S :D
+#### 66. Images 2.6 brings GIF(T)S :D
 
 **Hình ảnh chưa được lưu trữ** · [Xem tác phẩm tại nguồn gốc](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
@@ -1780,7 +2197,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-boxing-tiger"></a>
 
-#### 57. Boxing tiger animation
+#### 67. Boxing tiger animation
 
 <table>
 <tr>
@@ -1801,7 +2218,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-hummingbird-variants"></a>
 
-#### 58. Hummingbird and kingfisher animation variants
+#### 68. Hummingbird and kingfisher animation variants
 
 <table>
 <tr>
@@ -1829,7 +2246,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-rosebud-animation"></a>
 
-#### 59. Rosebud animation
+#### 69. Rosebud animation
 
 <table>
 <tr>
@@ -1850,7 +2267,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-ailingqu-jelly-bear-wobble"></a>
 
-#### 60. Jelly bear wobble
+#### 70. Jelly bear wobble
 
 <table>
 <tr>
@@ -1878,7 +2295,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-bunny-reaction-set"></a>
 
-#### 61. White bunny reaction sticker set
+#### 71. White bunny reaction sticker set
 
 <table>
 <tr>
@@ -1928,7 +2345,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
 
-#### 62. Cartoon cat waving hello
+#### 72. Cartoon cat waving hello
 
 <table>
 <tr>
@@ -1956,7 +2373,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-shiba-head-tilt"></a>
 
-#### 63. Confused shiba head tilt
+#### 73. Confused shiba head tilt
 
 <table>
 <tr>
@@ -1984,7 +2401,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
 
-#### 64. Cat typing furiously
+#### 74. Cat typing furiously
 
 <table>
 <tr>
@@ -2012,7 +2429,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-frog-heart-bubble"></a>
 
-#### 65. Frog blowing a heart
+#### 75. Frog blowing a heart
 
 <table>
 <tr>
@@ -2040,7 +2457,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
 
-#### 66. Penguin facepalm
+#### 76. Penguin facepalm
 
 <table>
 <tr>
@@ -2068,7 +2485,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-basketball-shot-sticker"></a>
 
-#### 67. Basketball shot celebration
+#### 77. Basketball shot celebration
 
 <table>
 <tr>
@@ -2096,7 +2513,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
 
-#### 68. Cat chef tossing fried rice
+#### 78. Cat chef tossing fried rice
 
 <table>
 <tr>
@@ -2124,7 +2541,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
 
-#### 69. Black cat punch
+#### 79. Black cat punch
 
 <table>
 <tr>
@@ -2152,7 +2569,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-office-cat-workday-set"></a>
 
-#### 70. Office cat workday reaction set
+#### 80. Office cat workday reaction set
 
 <table>
 <tr>
@@ -2191,7 +2608,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-roaring-duck"></a>
 
-#### 71. Roaring duck
+#### 81. Roaring duck
 
 <table>
 <tr>
@@ -2219,7 +2636,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-flower-macro-flash"></a>
 
-#### 72. Flower macro flash cut
+#### 82. Flower macro flash cut
 
 <table>
 <tr>
@@ -2247,7 +2664,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
 
-#### 73. Cat-head logo brand reel
+#### 83. Cat-head logo brand reel
 
 <table>
 <tr>
@@ -2275,7 +2692,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-sneaker-colorway-flash"></a>
 
-#### 74. Sneaker colorway flash
+#### 84. Sneaker colorway flash
 
 <table>
 <tr>
@@ -2303,7 +2720,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
 
-#### 75. One tree, four seasons
+#### 85. One tree, four seasons
 
 <table>
 <tr>
@@ -2331,7 +2748,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-magazine-panels-pop"></a>
 
-#### 76. Magazine collage panels pop in
+#### 86. Magazine collage panels pop in
 
 <table>
 <tr>
@@ -2359,7 +2776,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
 
-#### 77. Reading by the window, day to night
+#### 87. Reading by the window, day to night
 
 <table>
 <tr>
@@ -2387,7 +2804,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-steaming-coffee"></a>
 
-#### 78. Steaming coffee loop
+#### 88. Steaming coffee loop
 
 <table>
 <tr>
@@ -2415,7 +2832,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-rain-on-window"></a>
 
-#### 79. Rainy window and plant
+#### 89. Rainy window and plant
 
 <table>
 <tr>
@@ -2443,7 +2860,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-goldfish-bowl"></a>
 
-#### 80. Goldfish in a bowl
+#### 90. Goldfish in a bowl
 
 <table>
 <tr>
@@ -2471,7 +2888,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
 
-#### 81. Lighthouse at night
+#### 91. Lighthouse at night
 
 <table>
 <tr>
@@ -2499,7 +2916,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cat-by-fireplace"></a>
 
-#### 82. Cat sleeping by the fireplace
+#### 92. Cat sleeping by the fireplace
 
 <table>
 <tr>
@@ -2527,7 +2944,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
 
-#### 83. Lantern monkey in the snow
+#### 93. Lantern monkey in the snow
 
 <table>
 <tr>
@@ -2555,7 +2972,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-sleepy-fox-rock"></a>
 
-#### 84. Sleepy fox on a mossy rock
+#### 94. Sleepy fox on a mossy rock
 
 <table>
 <tr>
@@ -2583,7 +3000,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
 
-#### 85. Lo-fi study loop
+#### 95. Lo-fi study loop
 
 <table>
 <tr>
@@ -2611,7 +3028,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-cafe-cinemagraph"></a>
 
-#### 86. Café cinemagraph
+#### 96. Café cinemagraph
 
 <table>
 <tr>
@@ -2639,7 +3056,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
 
-#### 87. Ink-wash galloping horse
+#### 97. Ink-wash galloping horse
 
 <table>
 <tr>
@@ -2667,7 +3084,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-doodle-monster"></a>
 
-#### 88. Doodle monster comes alive
+#### 98. Doodle monster comes alive
 
 <table>
 <tr>
@@ -2695,7 +3112,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
 
-#### 89. Pixel art campfire
+#### 99. Pixel art campfire
 
 <table>
 <tr>
@@ -2723,7 +3140,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-bouncing-dots-loader"></a>
 
-#### 90. Bouncing dots loader
+#### 100. Bouncing dots loader
 
 <table>
 <tr>
@@ -2751,7 +3168,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
 
-#### 91. Pixel knight run cycle
+#### 101. Pixel knight run cycle
 
 <table>
 <tr>
@@ -2779,7 +3196,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-like-heart-burst"></a>
 
-#### 92. Like button heart burst
+#### 102. Like button heart burst
 
 <table>
 <tr>
@@ -2807,7 +3224,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
 
-#### 93. Hourglass loading
+#### 103. Hourglass loading
 
 <table>
 <tr>
@@ -2835,7 +3252,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-arcade-vs-screen"></a>
 
-#### 94. Arcade VS screen
+#### 104. Arcade VS screen
 
 <table>
 <tr>
@@ -2863,7 +3280,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
 
-#### 95. 8-bit slime boss battle
+#### 105. 8-bit slime boss battle
 
 <table>
 <tr>
@@ -2891,7 +3308,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-love-burst-skill"></a>
 
-#### 96. Love-burst skill animation
+#### 106. Love-burst skill animation
 
 <table>
 <tr>
@@ -2919,7 +3336,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
 
-#### 97. Junkyard robot walk cycle
+#### 107. Junkyard robot walk cycle
 
 <table>
 <tr>
@@ -2947,7 +3364,7 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
 
-#### 98. Robin cat wink and falling name hat
+#### 108. Robin cat wink and falling name hat
 
 <table>
 <tr>
@@ -2972,7 +3389,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
 
-#### 99. Blue-haired maid dialogue prototype
+#### 109. Blue-haired maid dialogue prototype
 
 <table>
 <tr>
@@ -2992,7 +3409,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
 
-#### 100. Ram Altman memory-stick parody
+#### 110. Ram Altman memory-stick parody
 
 <table>
 <tr>
@@ -3012,7 +3429,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-sailor-dance"></a>
 
-#### 101. Moonlit magical-girl dance
+#### 111. Moonlit magical-girl dance
 
 <table>
 <tr>
@@ -3036,7 +3453,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-cat-programmer"></a>
 
-#### 102. Clay orange cat typing
+#### 112. Clay orange cat typing
 
 <table>
 <tr>
@@ -3060,7 +3477,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-desk-animation"></a>
 
-#### 103. Desk photograph cleanup and animation
+#### 113. Desk photograph cleanup and animation
 
 <table>
 <tr>
@@ -3093,7 +3510,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-zunbeho-parody-ad-gifs"></a>
 
-#### 104. Ten parody web-ad GIFs: a Japanese creator test
+#### 114. Ten parody web-ad GIFs: a Japanese creator test
 
 <table>
 <tr>
@@ -3129,7 +3546,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
 
-#### 105. Pixel♡Love: swimming-character animation contact sheet
+#### 115. Pixel♡Love: swimming-character animation contact sheet
 
 <table>
 <tr>
@@ -3149,7 +3566,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
 
-#### 106. Tanjiro pixel-art water-slash loop
+#### 116. Tanjiro pixel-art water-slash loop
 
 <table>
 <tr>
@@ -3200,7 +3617,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
 
-#### 107. Heartbeat dance modes: source poster
+#### 117. Heartbeat dance modes: source poster
 
 <table>
 <tr>
@@ -3220,7 +3637,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-malfoid-mood-stickers"></a>
 
-#### 108. Six Miss Malfoid mood sticker loops
+#### 118. Six Miss Malfoid mood sticker loops
 
 <table>
 <tr>
@@ -3244,6 +3661,159 @@ Deliver an actual multi-frame GIF file I can download.
 **Tác giả**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/Mayz1169/status/2118355858208010412) · [Chi tiết nguồn](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+---
+
+<a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
+
+#### 119. Chibi character eating rice with chopsticks
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4"><img src="assets/readme-previews/social-blue-hair-chibi-eating-rice-gif/source-01.jpg" alt="Chibi character eating rice with chopsticks" width="360" /><br />Khung hình đầu tiên · Mở video</a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+<td align="center"><a href="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Chibi character eating rice with chopsticks" width="360" /></a><br /><sub>Chibi character eating rice with chopsticks</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Ảnh tham chiếu</summary>
+
+Ảnh tham chiếu / đầu vào, không phải đầu ra được tạo.
+
+- [Reference input: Chibi character eating rice with chopsticks](assets/references/social-blue-hair-chibi-eating-rice-gif/source-02.jpg)
+
+</details>
+
+**Câu lệnh gốc**
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+[Câu lệnh gốc (.txt)](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+**Tác giả**: [Gorden_Sun](https://x.com/Gorden_Sun)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/Gorden_Sun/status/2118166046175908016) · [Chi tiết nguồn](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+---
+
+<a id="source-case-social-chibi-cheongsam-girl-gif"></a>
+
+#### 120. Chibi cheongsam girl performs a cute jump sequence
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4"><img src="assets/readme-previews/social-chibi-cheongsam-girl-gif/source-01.jpg" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /><br />Khung hình đầu tiên · Mở video</a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+<td align="center"><a href="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="Chibi cheongsam girl performs a cute jump sequence" width="360" /></a><br /><sub>Chibi cheongsam girl performs a cute jump sequence</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Ảnh tham chiếu</summary>
+
+Ảnh tham chiếu / đầu vào, không phải đầu ra được tạo.
+
+- [Reference input: Chibi cheongsam girl performs a cute jump sequence](assets/references/social-chibi-cheongsam-girl-gif/source-02.jpg)
+
+</details>
+
+**Câu lệnh gốc**
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+[Câu lệnh gốc (.txt)](cases/social-chibi-cheongsam-girl-gif/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/shinshin86/status/2118225428976705908)
+
+**Tác giả**: [shinshin86](https://x.com/shinshin86)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/shinshin86/status/2118225428976705908) · [Chi tiết nguồn](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+---
+
+<a id="source-case-social-dancing-frog-top-hat"></a>
+
+#### 121. Dancing cartoon frog in a top hat
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/source-01.mp4"><img src="assets/readme-previews/social-dancing-frog-top-hat/source-01.jpg" alt="Dancing cartoon frog in a top hat" width="360" /><br />Khung hình đầu tiên · Mở video</a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+<td align="center"><a href="assets/examples/social-dancing-frog-top-hat/preview-01.gif"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="Dancing cartoon frog in a top hat" width="360" /></a><br /><sub>Dancing cartoon frog in a top hat</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+[Câu lệnh gốc (.txt)](cases/social-dancing-frog-top-hat/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/princess414141/status/2118144125354877152)
+
+**Tác giả**: [princess414141](https://x.com/princess414141)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/princess414141/status/2118144125354877152) · [Chi tiết nguồn](cases/social-dancing-frog-top-hat/README.md)
+
+---
+
+<a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
+
+#### 122. Flip phone shows Heisei decomail animation in Tokyo street
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4"><img src="assets/readme-previews/social-heisei-flip-phone-decomail-gif/source-01.jpg" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /><br />Khung hình đầu tiên · Mở video</a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+<td align="center"><a href="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="360" /></a><br /><sub>Flip phone shows Heisei decomail animation in Tokyo street</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+[Câu lệnh gốc (.txt)](cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/rem_rev/status/2118252486360498485)
+
+**Tác giả**: [rem_rev](https://x.com/rem_rev)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/rem_rev/status/2118252486360498485) · [Chi tiết nguồn](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+---
+
+<a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
+
+#### 123. Cartoon bee posts to X for daily check-in
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4"><img src="assets/readme-previews/social-diligent-bee-daily-checkin-gif/source-01.jpg" alt="Cartoon bee posts to X for daily check-in" width="360" /><br />Khung hình đầu tiên · Mở video</a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+<td align="center"><a href="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="Cartoon bee posts to X for daily check-in" width="360" /></a><br /><sub>Cartoon bee posts to X for daily check-in</sub></td>
+</tr>
+</table>
+
+**Câu lệnh gốc**
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+[Câu lệnh gốc (.txt)](cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
+
+[Câu lệnh gốc tại nguồn](https://x.com/MrGafish/status/2118217749680025722)
+
+**Tác giả**: [MrGafish](https://x.com/MrGafish)
+
+**Nguồn gốc**: [Mô hình do tác giả báo cáo](https://x.com/MrGafish/status/2118217749680025722) · [Chi tiết nguồn](cases/social-diligent-bee-daily-checkin-gif/README.md)
 
 ---
 
