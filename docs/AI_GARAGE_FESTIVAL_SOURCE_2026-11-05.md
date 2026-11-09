@@ -20,7 +20,7 @@ This is the creator's model attribution, not an independently reproduced generat
 
 - Original-page check: November 5, 2026. The public page and model attribution were readable without login.
 - Recorded original-image request: HTTP 200, `image/webp`, 210,864 bytes.
-- Archived file: [`source-01.webp`](../assets/examples/ai-garage-festival-background/source-01.webp), unchanged original bytes, 1876 × 469 pixels, one static frame.
+- Archived file: [`source-01.webp`](../external-sites/assets/examples/ai-garage-festival-background/source-01.webp), unchanged original bytes, 1876 × 469 pixels, one static frame.
 - SHA-256: `7063e40eb7b3fd683d9ff0b8e2f2b24c4e913f2775e96d12cb017d990a6bbc28`.
 - Local review: November 6, 2026. File size, SHA-256, WebP decoding, dimensions and visible panel labels checked against the retained original source. No EXIF or XMP metadata was found. No new source request or model generation was made for this review; current remote availability was not rechecked.
 

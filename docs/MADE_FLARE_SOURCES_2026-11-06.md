@@ -24,7 +24,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Vendor portrait”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/vendor-flash.jpg
-- Repository asset: `assets/examples/made-flare-vendor-flash/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-vendor-flash/source-01.jpg`
 - Bytes: 184022; SHA-256: `9038e45261a8775a96c5ccfab5a9eecc5b397c93e07427027d4d4e5c498b36a5`
 
 ### Made Lightbox menu
@@ -33,7 +33,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Lightbox menu”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/noodle-menu.jpg
-- Repository asset: `assets/examples/made-flare-noodle-menu/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-noodle-menu/source-01.jpg`
 - Bytes: 163272; SHA-256: `50b1702959b06f3c95a339dde85aacc22a7e4444971ee52423cb090d16a15f04`
 
 ### Made Takeaway box
@@ -42,7 +42,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Takeaway box”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/dumpling-box.jpg
-- Repository asset: `assets/examples/made-flare-dumpling-box/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-dumpling-box/source-01.jpg`
 - Bytes: 177325; SHA-256: `e74cbe606939d1965a6335c2efde031ab8bb4d8b96e078268058a97e40cdfab6`
 
 ### Made Ultra-wide aisle
@@ -51,7 +51,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Ultra-wide aisle”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/market-aerial.jpg
-- Repository asset: `assets/examples/made-flare-market-aerial/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-market-aerial/source-01.jpg`
 - Bytes: 199399; SHA-256: `37859be2c986ebb7b701e350a860b3dcbc419374abe95c97d419191247854b9d`
 
 ### Made Illustrated map
@@ -60,7 +60,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Illustrated map”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/market-map.jpg
-- Repository asset: `assets/examples/made-flare-market-map/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-market-map/source-01.jpg`
 - Bytes: 248679; SHA-256: `7a2a319872b37adeca4577695971b09454d71c9f73a461cc56ed15522b0110d4`
 
 ### Made Rainy night
@@ -69,7 +69,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Flare: Rainy night”
 - Source: https://www.made.app/models/gpt-image-2-6-flare#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-flare/rain-stall.jpg
-- Repository asset: `assets/examples/made-flare-rain-stall/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-flare-rain-stall/source-01.jpg`
 - Bytes: 207446; SHA-256: `bcf6fbeaac430e2b4f58e5eba634607e9b8cd955bca1ab205b6f1e63c8e4fd7c`
 
 ## 中文说明

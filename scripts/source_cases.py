@@ -25,6 +25,10 @@ def read_cases():
     return read_json('content/source-cases.json')
 
 
+def read_external_cases():
+    return read_json('external-sites/source-cases.json')
+
+
 def visible(cases):
     return [item for item in cases if item['status'] == 'published']
 
@@ -33,37 +37,40 @@ def label(key, language):
     return localized(LABELS.get(key, {'en': key}), language)
 
 
-def page_path(item, language):
+def page_path(item, language, *, external=False):
     name = filename(detail_language(language))
-    return f"cases/{item['id']}/{name}"
+    prefix = 'external-sites/' if external else ''
+    return f"{prefix}cases/{item['id']}/{name}"
 
 
 def preview(item):
     return next((m for m in item['media'] if m['path'] and m['kind'] != 'video' and m.get('role', 'output') != 'reference'), None)
 
 
-def render_detail(item, language):
+def render_detail(item, language, *, external=False):
     if language not in DETAIL_LANGUAGES:
         raise ValueError('Untranslated case details must route to an existing English page')
     zh = language == 'zh-CN'
     choose = lambda en, cn: cn if zh else en
     media_heading = choose('Images / animation files', '图片 / 动画文件') if any(m['kind'] == 'video' for m in item['media']) else choose('Images / GIFs', '图片 / GIF')
-    home = '../../README.zh-CN.md' if zh else '../../README.md'
+    root_prefix = '../../../' if external else '../../'
+    home = '../../README.md' if external else ('../../README.zh-CN.md' if zh else '../../README.md')
+    back_label = choose('← Back to external website archive', '← 返回外站素材目录') if external else choose('← Back to all cases', '← 返回全部案例')
     lines = [GENERATED_MARKER, '', '# ' + md_text(localized(item['title'], language)), '',
-             md_link(choose('← Back to all cases', '← 返回全部案例'), home + '#all-cases'), '']
-    lines += [language_nav(language, prefix='../../', detail=True), '',
+             md_link(back_label, home + '#all-cases'), '']
+    lines += [language_nav(language, prefix=root_prefix, detail=True), '',
               '**' + label(item['source']['type'], language) + ' · ' + choose('Source-only; not independently reproduced', '仅核对来源；未独立复现') + '**', '',
               md_text(localized(item['notes'], language)), '',
               '## ' + media_heading, '']
     local_media = [m for m in item['media'] if m['path']]
     if not local_media:
-        placeholder = f'../../assets/media-placeholder-{language}.svg'
+        placeholder = f'{root_prefix}assets/media-placeholder-{language}.svg'
         lines += [f"![{choose('Placeholder, not model output', '占位图，不是模型输出')}]({placeholder})", '',
                   '**' + choose('PLACEHOLDER: media not archived. See the source links and item-level availability notes below.', '占位：素材暂未入库，请查看下方来源链接及逐项获取状态。') + '**', '',
                   md_link(choose('View the work at its original source', '到原始来源查看作品'), item['source']['url']), '']
     for media in item['media']:
         if media['path']:
-            local_path = '../../' + media['path']
+            local_path = root_prefix + media['path']
             if media['kind'] == 'video':
                 lines += [md_link(choose('Open local video file', '打开仓库内视频文件'), local_path), '']
             else:
@@ -74,14 +81,14 @@ def render_detail(item, language):
                   '  - ' + choose('Credit: ', '署名：') + md_text(media['rights']['credit']),
                   '  - ' + choose('Reuse: ', '使用条件：') + media['rights']['status'] + '. ' + md_text(localized(media['rights']['note'], language))]
         if media['rights']['evidence_url']:
-            lines.append('  - ' + md_link(choose('Provenance / rights evidence', '来源 / 权利依据'), image_path(media['rights']['evidence_url'], '../../')))
+            lines.append('  - ' + md_link(choose('Provenance / rights evidence', '来源 / 权利依据'), image_path(media['rights']['evidence_url'], root_prefix)))
     if item.get('access'):
         access = item['access']
         lines += ['', '## ' + choose('Source-page and media access', '原帖与素材获取状态'), '',
                   '- ' + choose('Checked: ', '核对日期：') + access['checked_at'] + ' (UTC)',
                   '- ' + choose('Original page: ', '原帖：') + label(access['page_status'], language) + '. ' + md_text(localized(access['page_note'], language)),
                   '- ' + choose('Media: ', '素材：') + label(access['media_status'], language) + '. ' + md_text(localized(access['media_note'], language)),
-                  '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), '../../' + access['report_path'])]
+                  '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), root_prefix + access['report_path'])]
     lines += ['', '## ' + choose('Original prompt', '原始提示词'), '']
     if item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',

@@ -6,7 +6,7 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 ## Source-linked case or complete prompt? / 来源案例还是完整提示词？
 
-Use [the source-case guide](docs/SOURCE_CASES.md) for works with original prompts linked at the source, confirmed not publicly provided in the reviewed source, or whose public availability was not checked or could not be established. Edit `content/source-cases.json`; all published records appear in both README files and internal detail pages. The instructions below apply to complete prompt records in `content/prompts.json`.
+来源案例按[维护指南](docs/SOURCE_CASES.md)登记。官方、社媒与论坛、内容发布社区及 GitHub 示例写入 `content/source-cases.json`；其他独立网站写入 `external-sites/source-cases.json`，素材和详情页集中存入[外站素材目录](external-sites/README.md)，不加入主 README 分类和统计。下方完整提示词流程仍使用 `content/prompts.json`。
 
 已核实所查来源未提供公开原始提示词，或提示词公开状态尚未检查、无法确认的作品也可收录，但必须独立核对模型证据与来源，并如实区分提示词状态，不伪造原始提示词。
 

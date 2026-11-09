@@ -26,14 +26,14 @@ This is the original author’s model attribution, not an independently reproduc
 ### gpt-image-2-6-4k-high.webp
 
 - [Original source file / 来源文件](https://aivideos.eu/blog/inline/gpt-image-2-6-4k-high.webp).
-- [Unchanged local archive / 原样本地存档](../assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-high.webp).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-high.webp).
 - WEBP, 1920 × 1080, 1 frame(s), 457,884 bytes.
 - SHA-256: `6eb0730120be7a11cf179d022acef7b1ca1b0d8c5574da73dcb3c36eefcbaeec`.
 
 ### gpt-image-2-6-4k-max.webp
 
 - [Original source file / 来源文件](https://aivideos.eu/blog/inline/gpt-image-2-6-4k-max.webp).
-- [Unchanged local archive / 原样本地存档](../assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-max.webp).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/aivideos-flare-4k-comparison/gpt-image-2-6-4k-max.webp).
 - WEBP, 1920 × 1080, 1 frame(s), 445,900 bytes.
 - SHA-256: `9b784846b27cac38def4be6b12bfe8bc0f7819cd14655d9c52c8b3590291e1a7`.
 

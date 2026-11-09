@@ -28,6 +28,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += heading('gallery', '🌐 Browse the collection', '🌐 浏览案例图库')
     lines += ['**' + md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases') + '**', '',
               c('Every case below opens an internal detail page with model evidence, source credits and prompt availability.', '下方每条案例都链接到仓库内部详情页，包含模型依据、来源署名与提示词状态。'), '']
+    lines += [md_link(c('External website archive (excluded from categories and statistics)', '外站素材目录（不计入本页分类与统计）'), 'external-sites/README.md'), '']
     if brand.get('gallery_url'):
         lines += [md_link(c('Open the web gallery', '打开网页图库'), tracked_url(brand['gallery_url'], 'top_cta', language, config)), '']
     else:
@@ -95,7 +96,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += heading('using','📚 How to use','📚 如何使用')
     lines += ['1. '+c('Open a case from a category or featured card.','从分类或精选卡片进入案例。'),'2. '+c('Read its model evidence, required inputs, source and reuse limits.','查看模型依据、必需输入、原始来源与素材使用限制。'),'3. '+c('Follow the original prompt link when available. A missing prompt stays missing; do not infer it from an image.','有原始提示词时前往来源阅读。没有公开提示词时保持缺失，不根据图片臆造。'),'']
     lines += heading('contribute','🤝 How to contribute','🤝 如何贡献')
-    lines += [c('Add source-linked cases to content/source-cases.json. Add complete, reusable prompts to content/prompts.json. The generator creates both languages and internal pages from these datasets.', '来源案例写入 content/source-cases.json；取得可收录的完整提示词后写入 content/prompts.json。生成器统一构建双语 README 与仓库内部详情页。'),'',
+    lines += [c('Add main collection cases to content/source-cases.json and external website cases to external-sites/source-cases.json. Add complete prompts to content/prompts.json. The generator builds separate indexes and bilingual detail pages.', '主合集案例写入 content/source-cases.json，外站案例写入 external-sites/source-cases.json；完整提示词写入 content/prompts.json。生成器分别维护两个合集的索引与双语详情页。'),'',
               md_link(c('Contribution guide','贡献指南'),'CONTRIBUTING.md')+' · '+md_link(c('Source case and media guide','案例与素材维护指南'),'docs/SOURCE_CASES.md')+' · '+md_link(c('Maintainer guide (Chinese)','维护者填充指南'),'docs/FILLING_GUIDE.zh-CN.md'),'']
     lines += heading('license','📄 License','📄 许可证')
     lines += [c('Code, original documentation and decorative SVG placeholders use MIT. Third-party prompts and media retain their own terms and have item-level provenance and reuse status. The adapted README layout is credited separately below.', '代码、原创说明与装饰性 SVG 占位图采用 MIT。第三方提示词及素材保留各自条款，逐项记录来源与使用状态。改编的 README 结构另见下方署名。'),'',md_link(c('Repository license','仓库许可证'),'LICENSE'),'']

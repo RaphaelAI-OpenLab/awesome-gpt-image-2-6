@@ -24,7 +24,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Crate digger”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/crate-digger.jpg
-- Repository asset: `assets/examples/made-sunburst-crate-digger/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-crate-digger/source-01.jpg`
 - Bytes: 161029; SHA-256: `c0ac30250f079db93de7ac05ddf00ef496a0359dd4673c6da661495473cf2f52`
 
 ### Made Sleeve typography
@@ -33,7 +33,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Sleeve typography”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/record-sleeve.jpg
-- Repository asset: `assets/examples/made-sunburst-record-sleeve/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-record-sleeve/source-01.jpg`
 - Bytes: 137823; SHA-256: `10b05c59a14250a926863fb27a4056a0f3ce10b652459c0615b28bc3f04e6bf7`
 
 ### Made Stylus macro
@@ -42,7 +42,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Stylus macro”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/stylus-macro.jpg
-- Repository asset: `assets/examples/made-sunburst-stylus-macro/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-stylus-macro/source-01.jpg`
 - Bytes: 113760; SHA-256: `ba62b97e19beb290ae44ee5dd1aa7ad393c3fa6df267fcb082aadf127826d6fe`
 
 ### Made Exploded diagram
@@ -51,7 +51,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Exploded diagram”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/turntable-diagram.jpg
-- Repository asset: `assets/examples/made-sunburst-turntable-diagram/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-turntable-diagram/source-01.jpg`
 - Bytes: 147837; SHA-256: `c5fae845e940d63326adc449f7c500216b8629e8fb09ef6e6a627d3b8e055bfb`
 
 ### Made Listening booth
@@ -60,7 +60,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Listening booth”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/listening-booth.jpg
-- Repository asset: `assets/examples/made-sunburst-listening-booth/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-listening-booth/source-01.jpg`
 - Bytes: 172523; SHA-256: `e5333d8cbe82c6a401434b8d3bfa4d68cc99a127db197ae0978cc00d98b9ceee`
 
 ### Made Window lettering
@@ -69,7 +69,7 @@ The files remain `source-attributed`. No explicit redistribution license was fou
 - Source label: “GPT Image 2.6 Sunburst: Window lettering”
 - Source: https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading
 - Original media: https://www.made.app/images/models/gpt-image-2-6-sunburst/shop-window.jpg
-- Repository asset: `assets/examples/made-sunburst-shop-window/source-01.jpg`
+- Repository asset: `external-sites/assets/examples/made-sunburst-shop-window/source-01.jpg`
 - Bytes: 154901; SHA-256: `16376b242418eac1202937747d9c58a5ad02654fc77b89a6041679ea94d45ee0`
 
 ## 中文说明

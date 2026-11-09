@@ -266,11 +266,11 @@ def media_mime(data: bytes) -> str | None:
     return None
 
 
-def validate_source_cases(config, cases, prompts, errors):
+def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
     ids = {item['id'] for item in prompts if item.get('id')}
     categories = {item['id'] for item in config['categories']}
     for index, item in enumerate(cases):
-        name = f'source-cases[{index}]'
+        name = f'{asset_prefix}source-cases[{index}]'
         if item['id'] in ids:
             errors.append(f'{name}.id: duplicate across source cases or prompts')
         ids.add(item['id'])
@@ -332,7 +332,7 @@ def validate_source_cases(config, cases, prompts, errors):
                 continue
             check_asset(path, f'{mname}.path', errors, allow_remote=False)
             folder = 'references' if media.get('role') == 'reference' else 'examples'
-            expected = f"assets/{folder}/{item['id']}/"
+            expected = f"{asset_prefix}assets/{folder}/{item['id']}/"
             if not path.startswith(expected) or '..' in Path(path).parts:
                 errors.append(f'{mname}.path: expected {expected} with no traversal')
             allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.mp4'}
@@ -367,7 +367,10 @@ def validate_source_cases(config, cases, prompts, errors):
 
 def markdown_link_errors() -> list[str]:
     errors = []
-    paths = list(ROOT.glob("*.md")) + list((ROOT / "docs").glob("*.md")) + list((ROOT / "cases").glob("*/README*.md"))
+    paths = (list(ROOT.glob("*.md")) + list((ROOT / "docs").glob("*.md"))
+             + list((ROOT / "cases").glob("*/README*.md"))
+             + list((ROOT / "external-sites").glob("*.md"))
+             + list((ROOT / "external-sites/cases").glob("*/README*.md")))
     for path in paths:
         text = path.read_text(encoding="utf-8")
         # Ignore code samples so draft JSON and intentionally shown placeholders are not treated as live links.
@@ -432,6 +435,7 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         schema = read_json("content/schema.json")
         template = read_json("templates/prompt.json")
         cases = read_json("content/source-cases.json")
+        external_cases = read_json("external-sites/source-cases.json")
         case_schema = read_json("content/source-cases.schema.json")
         case_template = read_json("templates/source-case.json")
     except (OSError, json.JSONDecodeError) as error:
@@ -441,10 +445,19 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
     errors.extend(schema_errors(prompts, schema, "prompts", schema))
     errors.extend(schema_errors([template], schema, "template", schema))
     errors.extend(schema_errors(cases, case_schema, "source-cases", case_schema))
+    errors.extend(schema_errors(external_cases, case_schema, "external-sites/source-cases", case_schema))
     errors.extend(schema_errors([case_template], case_schema, "source-case-template", case_schema))
     if errors:
         return errors, warnings
     validate_source_cases(config, cases, prompts, errors)
+    validate_source_cases(config, external_cases, prompts + cases, errors, asset_prefix='external-sites/')
+    from external_sites import is_external_site
+    for item in cases:
+        if is_external_site(item):
+            errors.append(f"{item['id']}: 外站来源应写入 external-sites/source-cases.json")
+    for item in external_cases:
+        if not is_external_site(item):
+            errors.append(f"{item['id']}: 官方、社媒、内容社区及 GitHub 来源应留在主合集")
     validate_prompts(config, prompts, errors, warnings, release=release)
     for asset in ("assets/header.svg", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)

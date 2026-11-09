@@ -33,6 +33,8 @@ Tiêu đề, mô tả và trang chi tiết của các trường hợp sẽ hiể
 
 Mỗi trường hợp bên dưới mở một trang chi tiết nội bộ với bằng chứng về mô hình, ghi công nguồn và thông tin về khả năng truy cập câu lệnh.
 
+[Kho tư liệu từ trang web bên ngoài (không tính vào danh mục và thống kê)](external-sites/README.md)
+
 **GIỮ CHỖ · URL thư viện ảnh bên ngoài: chưa cấu hình.**
 
 **GIỮ CHỖ · Liên kết tạo ảnh một nhấp: chưa xác minh.**
@@ -47,14 +49,14 @@ GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ đ�
 
 | Danh mục | Trường hợp có liên kết nguồn | Câu lệnh đầy đủ |
 | --- | ---: | ---: |
-| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 68 | 0 |
-| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 47 | 0 |
-| [Đồ họa thông tin](#category-infographics) | 16 | 0 |
-| [Nội thất và kiến trúc](#category-interiors-architecture) | 11 | 0 |
-| [Nhân vật và tính nhất quán](#category-characters-consistency) | 57 | 0 |
-| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 39 | 0 |
-| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 13 | 0 |
-| [GIF và hoạt ảnh](#category-gif-animation) | 132 | 0 |
+| [Hình ảnh thương hiệu và sản phẩm](#category-brand-products) | 7 | 0 |
+| [Áp phích và nghệ thuật chữ](#category-posters-typography) | 8 | 0 |
+| [Đồ họa thông tin](#category-infographics) | 3 | 0 |
+| [Nội thất và kiến trúc](#category-interiors-architecture) | 3 | 0 |
+| [Nhân vật và tính nhất quán](#category-characters-consistency) | 15 | 0 |
+| [Đánh dấu và chỉnh sửa có mục tiêu](#category-markup-edits) | 9 | 0 |
+| [SVG và tài nguyên thiết kế](#category-svg-design-assets) | 4 | 0 |
+| [GIF và hoạt ảnh](#category-gif-animation) | 59 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +88,12 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 
 | Chỉ số | Số lượng / ngày |
 | --- | ---: |
-| Trường hợp có liên kết nguồn | **383** |
+| Trường hợp có liên kết nguồn | **108** |
 | Ví dụ chính thức | **37** |
-| Ví dụ do tác giả báo cáo | **346** |
-| Câu lệnh gốc có sẵn tại nguồn | **237** |
+| Ví dụ do tác giả báo cáo | **71** |
+| Câu lệnh gốc có sẵn tại nguồn | **82** |
 | Câu lệnh đầy đủ được công bố tại đây | **0** |
-| Tệp tư liệu được lưu trữ cục bộ | **560** |
+| Tệp tư liệu được lưu trữ cục bộ | **176** |
 | Lần kiểm tra nguồn gần nhất (UTC) | **2026-11-09** |
 
 Số lượng nguồn không khẳng định việc tái tạo. Các đầu mối đang chờ xử lý không được tính; các đầu ra khác nhau trong cùng một quy trình được tính là một trường hợp.
@@ -121,12 +123,12 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 
 | Ngày thêm | Trường hợp | Bằng chứng |
 | --- | --- | --- |
-| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Mô hình do tác giả báo cáo |
-| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Mô hình do tác giả báo cáo |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Mô hình do tác giả báo cáo |
 
 <a id="all-cases"></a>
 
@@ -143,69 +145,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Miniature brand product world](cases/launch-sable/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh chưa công khai |
-| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 <a id="category-posters-typography"></a>
 
@@ -216,50 +157,11 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Streetwear advertisement typography](cases/docs-streetwear/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Roadside shampoo billboard](cases/docs-billboard/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Nostalgic holiday card](cases/docs-holiday-card/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
-| [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 
 <a id="category-infographics"></a>
 
@@ -270,19 +172,6 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
-| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Illustrated map](cases/made-flare-market-map/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-interiors-architecture"></a>
 
@@ -292,15 +181,7 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Living-room markup edit](cases/launch-fal/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
-| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Red tram in a foggy city](cases/kavel-tram/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-characters-consistency"></a>
 
@@ -318,51 +199,9 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh chưa công khai |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Bản trình diễn ra mắt chính thức | Câu lệnh gốc tại nguồn |
-| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Night market noodle stall](cases/yir-noodle-stall/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 
@@ -379,38 +218,8 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Turn a sketch into a realistic scene](cases/docs-sketch-render/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Remove a held flower](cases/docs-remove-flower/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
-| [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-svg-design-assets"></a>
 
@@ -421,15 +230,6 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Tài liệu chính thức | Câu lệnh gốc tại nguồn |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 
 <a id="category-gif-animation"></a>
@@ -448,39 +248,6 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Flat character stretch routine](cases/kavel-stretch/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
@@ -519,54 +286,14 @@ Thẻ giữ chỗ không phải là kết quả được tạo. Tất cả tệp
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Chess opening GIF test](cases/community-hn-chess/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
-| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
-| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Mô hình do tác giả báo cáo | Câu lệnh chưa công khai |
-| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Mô hình do tác giả báo cáo | Câu lệnh gốc tại nguồn |
 | [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
 | [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Mô hình do tác giả báo cáo | Chưa xác minh tình trạng công khai của câu lệnh |
@@ -591,7 +318,7 @@ Chưa có câu lệnh đầy đủ nào được đăng lại tại đây. Các 
 
 ## 🤝 Cách đóng góp
 
-Thêm các trường hợp có liên kết nguồn vào content/source-cases.json. Thêm các câu lệnh đầy đủ, có thể tái sử dụng vào content/prompts.json. Trình tạo sẽ tạo cả hai ngôn ngữ và các trang nội bộ từ những tập dữ liệu này.
+Thêm ví dụ của bộ sưu tập chính vào content/source-cases.json và ví dụ từ trang web bên ngoài vào external-sites/source-cases.json. Thêm câu lệnh đầy đủ vào content/prompts.json. Trình tạo xây dựng mục lục và trang chi tiết tiếng Anh, tiếng Trung riêng cho từng bộ sưu tập.
 
 [Hướng dẫn đóng góp](CONTRIBUTING.md) · [Hướng dẫn về trường hợp từ nguồn và tư liệu](docs/SOURCE_CASES.md) · [Hướng dẫn cho người bảo trì (tiếng Trung)](docs/FILLING_GUIDE.zh-CN.md)
 

@@ -33,6 +33,8 @@ Bu dil sürümü deponun arayüzünü çevirir. Tam örnek ayrıntıları şu an
 
 Aşağıdaki her örnek, model kanıtlarını, kaynak atıflarını ve istemin mevcut olup olmadığını gösteren bir iç ayrıntı sayfası açar.
 
+[Harici web sitesi materyalleri arşivi (kategori ve istatistiklere dahil değildir)](external-sites/README.md)
+
 **YER TUTUCU · Harici web galerisi URL'si: yapılandırılmadı.**
 
 **YER TUTUCU · Tek tıkla üretim bağlantısı: doğrulanmadı.**
@@ -47,14 +49,14 @@ YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
 
 | Kategori | Kaynak bağlantılı örnekler | Tam istemler |
 | --- | ---: | ---: |
-| [Marka ve ürün görselleri](#category-brand-products) | 68 | 0 |
-| [Afişler ve tipografi](#category-posters-typography) | 47 | 0 |
-| [İnfografikler](#category-infographics) | 16 | 0 |
-| [İç mekân ve mimari](#category-interiors-architecture) | 11 | 0 |
-| [Karakterler ve tutarlılık](#category-characters-consistency) | 57 | 0 |
-| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 39 | 0 |
-| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 13 | 0 |
-| [GIF ve animasyon](#category-gif-animation) | 132 | 0 |
+| [Marka ve ürün görselleri](#category-brand-products) | 7 | 0 |
+| [Afişler ve tipografi](#category-posters-typography) | 8 | 0 |
+| [İnfografikler](#category-infographics) | 3 | 0 |
+| [İç mekân ve mimari](#category-interiors-architecture) | 3 | 0 |
+| [Karakterler ve tutarlılık](#category-characters-consistency) | 15 | 0 |
+| [İşaretleme ve hedefli düzenlemeler](#category-markup-edits) | 9 | 0 |
+| [SVG ve tasarım varlıkları](#category-svg-design-assets) | 4 | 0 |
+| [GIF ve animasyon](#category-gif-animation) | 59 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +88,12 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 
 | Ölçüt | Sayı / tarih |
 | --- | ---: |
-| Kaynak bağlantılı örnekler | **383** |
+| Kaynak bağlantılı örnekler | **108** |
 | Resmî örnekler | **37** |
-| Üreticilerinin bildirdiği örnekler | **346** |
-| Kaynakta bulunan özgün istemler | **237** |
+| Üreticilerinin bildirdiği örnekler | **71** |
+| Kaynakta bulunan özgün istemler | **82** |
 | Burada yayımlanan tam istemler | **0** |
-| Yerel olarak arşivlenmiş medya dosyaları | **560** |
+| Yerel olarak arşivlenmiş medya dosyaları | **176** |
 | Son kaynak kontrolü (UTC) | **2026-11-09** |
 
 Kaynak sayıları yeniden üretim iddiası taşımaz. Bekleyen araştırma ipuçları dahil edilmez; aynı iş akışındaki farklı çıktılar tek bir örnek sayılır.
@@ -121,12 +123,12 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 
 | Eklenme tarihi | Örnek | Kanıt |
 | --- | --- | --- |
-| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model |
-| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Üreticinin bildirdiği model |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Üreticinin bildirdiği model |
 
 <a id="all-cases"></a>
 
@@ -143,69 +145,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Miniature brand product world](cases/launch-sable/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Resmî lansman demosu | İstem herkese açık değil |
-| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 <a id="category-posters-typography"></a>
 
@@ -216,50 +157,11 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Streetwear advertisement typography](cases/docs-streetwear/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Roadside shampoo billboard](cases/docs-billboard/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Nostalgic holiday card](cases/docs-holiday-card/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
-| [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 
 <a id="category-infographics"></a>
 
@@ -270,19 +172,6 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
-| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Illustrated map](cases/made-flare-market-map/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-interiors-architecture"></a>
 
@@ -292,15 +181,7 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Living-room markup edit](cases/launch-fal/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
-| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Red tram in a foggy city](cases/kavel-tram/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-characters-consistency"></a>
 
@@ -318,51 +199,9 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Resmî lansman demosu | İstem herkese açık değil |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Resmî lansman demosu | Kaynaktaki özgün istem |
-| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Night market noodle stall](cases/yir-noodle-stall/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 
@@ -379,38 +218,8 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Turn a sketch into a realistic scene](cases/docs-sketch-render/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Remove a held flower](cases/docs-remove-flower/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
-| [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-svg-design-assets"></a>
 
@@ -421,15 +230,6 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Resmî belgeler | Kaynaktaki özgün istem |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 
 <a id="category-gif-animation"></a>
@@ -448,39 +248,6 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Flat character stretch routine](cases/kavel-stretch/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
@@ -519,54 +286,14 @@ Yer tutucu kartlar üretilmiş sonuçlar değildir. Gösterilen tüm medya dosya
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Chess opening GIF test](cases/community-hn-chess/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
-| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
-| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Üreticinin bildirdiği model | İstem herkese açık değil |
-| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Üreticinin bildirdiği model | Kaynaktaki özgün istem |
 | [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
 | [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Üreticinin bildirdiği model | İstemin herkese açık olup olmadığı doğrulanmadı |
@@ -591,7 +318,7 @@ Burada henüz tam istem metni yeniden yayımlanmamıştır. Örnek sayfaları, k
 
 ## 🤝 Nasıl katkıda bulunulur?
 
-Kaynak bağlantılı örnekleri content/source-cases.json dosyasına ekleyin. Eksiksiz, yeniden kullanılabilir istemleri content/prompts.json dosyasına ekleyin. Üretici, her iki dili ve iç sayfaları bu veri kümelerinden oluşturur.
+Ana koleksiyon örneklerini content/source-cases.json dosyasına, harici web sitesi örneklerini external-sites/source-cases.json dosyasına ekleyin. Tam istemleri content/prompts.json dosyasına ekleyin. Oluşturucu, ayrı dizinler ve İngilizce ile Çince ayrıntı sayfaları oluşturur.
 
 [Katkı rehberi](CONTRIBUTING.md) · [Kaynak örnekleri ve medya rehberi](docs/SOURCE_CASES.md) · [Bakım rehberi (Çince)](docs/FILLING_GUIDE.zh-CN.md)
 

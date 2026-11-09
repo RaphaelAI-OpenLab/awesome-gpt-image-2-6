@@ -31,23 +31,23 @@ The unchanged generator, validator and 44-test suite are run before submission. 
 
 | Workflow | File | Format / frames | Bytes |
 | --- | --- | --- | --- |
-| `framemux-sunny-pop-poster` | `assets/examples/framemux-sunny-pop-poster/framemux-gpt-image-2-6-poster.webp` | WEBP / 1 | 83032 |
-| `framemux-cat-barista` | `assets/examples/framemux-cat-barista/framemux-gpt-image-2-6-sprite.webp` | WEBP / 1 | 110508 |
-| `framemux-cat-barista` | `assets/examples/framemux-cat-barista/framemux-ai-gif-cat-barista.webp` | WEBP / 6 | 85536 |
-| `framemux-dinosaur-wave` | `assets/examples/framemux-dinosaur-wave/framemux-ai-gif-dino-wave.webp` | WEBP / 6 | 90068 |
-| `framemux-pixel-knight` | `assets/examples/framemux-pixel-knight/framemux-ai-gif-pixel-knight.webp` | WEBP / 6 | 46634 |
-| `framemux-window-cat` | `assets/examples/framemux-window-cat/framemux-image-to-gif-window-cat.webp` | WEBP / 6 | 83048 |
-| `framemux-window-cat` | `assets/references/framemux-window-cat/framemux-kling-2-6-cat.webp` | WEBP / 1 | 49138 |
-| `framemux-moon-bounce` | `assets/examples/framemux-moon-bounce/framemux-image-to-gif-astronaut.webp` | WEBP / 6 | 111342 |
-| `framemux-moon-bounce` | `assets/references/framemux-moon-bounce/framemux-grok-video-astronaut.webp` | WEBP / 1 | 65038 |
-| `framemux-ramen-steam` | `assets/examples/framemux-ramen-steam/framemux-image-to-gif-ramen.webp` | WEBP / 6 | 152352 |
-| `framemux-ramen-steam` | `assets/references/framemux-ramen-steam/framemux-nano-banana-pro-food.webp` | WEBP / 1 | 151360 |
-| `apixo-fox-wave-workflow` | `assets/examples/apixo-fox-wave-workflow/apixo-fox-tutorial.gif` | GIF / 9 | 338803 |
-| `apixo-fox-wave-workflow` | `assets/examples/apixo-fox-wave-workflow/apixo-fox-launch.gif` | GIF / 9 | 336866 |
-| `apixo-coffee-cup-svg` | `assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg.svg` | SVG / 1 | 2183 |
-| `apixo-coffee-cup-svg` | `assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg-preview.png` | PNG / 1 | 45841 |
-| `apixo-coral-vase-comparison` | `assets/examples/apixo-coral-vase-comparison/apixo-kitchen-comparison.png` | PNG / 1 | 1074994 |
-| `apixo-daily-pour-poster` | `assets/examples/apixo-daily-pour-poster/apixo-coffee-poster.jpg` | JPEG / 1 | 108733 |
+| `framemux-sunny-pop-poster` | `external-sites/assets/examples/framemux-sunny-pop-poster/framemux-gpt-image-2-6-poster.webp` | WEBP / 1 | 83032 |
+| `framemux-cat-barista` | `external-sites/assets/examples/framemux-cat-barista/framemux-gpt-image-2-6-sprite.webp` | WEBP / 1 | 110508 |
+| `framemux-cat-barista` | `external-sites/assets/examples/framemux-cat-barista/framemux-ai-gif-cat-barista.webp` | WEBP / 6 | 85536 |
+| `framemux-dinosaur-wave` | `external-sites/assets/examples/framemux-dinosaur-wave/framemux-ai-gif-dino-wave.webp` | WEBP / 6 | 90068 |
+| `framemux-pixel-knight` | `external-sites/assets/examples/framemux-pixel-knight/framemux-ai-gif-pixel-knight.webp` | WEBP / 6 | 46634 |
+| `framemux-window-cat` | `external-sites/assets/examples/framemux-window-cat/framemux-image-to-gif-window-cat.webp` | WEBP / 6 | 83048 |
+| `framemux-window-cat` | `external-sites/assets/references/framemux-window-cat/framemux-kling-2-6-cat.webp` | WEBP / 1 | 49138 |
+| `framemux-moon-bounce` | `external-sites/assets/examples/framemux-moon-bounce/framemux-image-to-gif-astronaut.webp` | WEBP / 6 | 111342 |
+| `framemux-moon-bounce` | `external-sites/assets/references/framemux-moon-bounce/framemux-grok-video-astronaut.webp` | WEBP / 1 | 65038 |
+| `framemux-ramen-steam` | `external-sites/assets/examples/framemux-ramen-steam/framemux-image-to-gif-ramen.webp` | WEBP / 6 | 152352 |
+| `framemux-ramen-steam` | `external-sites/assets/references/framemux-ramen-steam/framemux-nano-banana-pro-food.webp` | WEBP / 1 | 151360 |
+| `apixo-fox-wave-workflow` | `external-sites/assets/examples/apixo-fox-wave-workflow/apixo-fox-tutorial.gif` | GIF / 9 | 338803 |
+| `apixo-fox-wave-workflow` | `external-sites/assets/examples/apixo-fox-wave-workflow/apixo-fox-launch.gif` | GIF / 9 | 336866 |
+| `apixo-coffee-cup-svg` | `external-sites/assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg.svg` | SVG / 1 | 2183 |
+| `apixo-coffee-cup-svg` | `external-sites/assets/examples/apixo-coffee-cup-svg/apixo-coffee-svg-preview.png` | PNG / 1 | 45841 |
+| `apixo-coral-vase-comparison` | `external-sites/assets/examples/apixo-coral-vase-comparison/apixo-kitchen-comparison.png` | PNG / 1 | 1074994 |
+| `apixo-daily-pour-poster` | `external-sites/assets/examples/apixo-daily-pour-poster/apixo-coffee-poster.jpg` | JPEG / 1 | 108733 |
 
 ## 中文摘要
 

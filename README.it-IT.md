@@ -33,6 +33,8 @@ I titoli, le descrizioni e le pagine di dettaglio dei casi vengono mostrati in i
 
 Ogni caso qui sotto apre una pagina di dettaglio interna con riscontri sul modello, attribuzione delle fonti e disponibilità del prompt.
 
+[Archivio di materiali da siti esterni (escluso da categorie e statistiche)](external-sites/README.md)
+
 **SEGNAPOSTO · URL della galleria web esterna: non configurato.**
 
 **SEGNAPOSTO · Collegamento alla generazione con un clic: non verificato.**
@@ -47,14 +49,14 @@ SEGNAPOSTO · Collegamento a raccolta / campagna correlata: da aggiungere.
 
 | Categoria | Casi con collegamenti alle fonti | Prompt completi |
 | --- | ---: | ---: |
-| [Immagini per marchi e prodotti](#category-brand-products) | 68 | 0 |
-| [Poster e tipografia](#category-posters-typography) | 47 | 0 |
-| [Infografiche](#category-infographics) | 16 | 0 |
-| [Interni e architettura](#category-interiors-architecture) | 11 | 0 |
-| [Personaggi e coerenza](#category-characters-consistency) | 57 | 0 |
-| [Annotazioni e modifiche mirate](#category-markup-edits) | 39 | 0 |
-| [SVG e risorse grafiche](#category-svg-design-assets) | 13 | 0 |
-| [GIF e animazione](#category-gif-animation) | 132 | 0 |
+| [Immagini per marchi e prodotti](#category-brand-products) | 7 | 0 |
+| [Poster e tipografia](#category-posters-typography) | 8 | 0 |
+| [Infografiche](#category-infographics) | 3 | 0 |
+| [Interni e architettura](#category-interiors-architecture) | 3 | 0 |
+| [Personaggi e coerenza](#category-characters-consistency) | 15 | 0 |
+| [Annotazioni e modifiche mirate](#category-markup-edits) | 9 | 0 |
+| [SVG e risorse grafiche](#category-svg-design-assets) | 4 | 0 |
+| [GIF e animazione](#category-gif-animation) | 59 | 0 |
 
 <a id="contents"></a>
 
@@ -86,12 +88,12 @@ OpenAI ha presentato Images 2.6 il 4 novembre 2026. Questa raccolta comprende le
 
 | Metrica | Conteggio / data |
 | --- | ---: |
-| Casi con collegamenti alle fonti | **383** |
+| Casi con collegamenti alle fonti | **108** |
 | Esempi ufficiali | **37** |
-| Esempi dichiarati dai creatori | **346** |
-| Prompt originali disponibili alla fonte | **237** |
+| Esempi dichiarati dai creatori | **71** |
+| Prompt originali disponibili alla fonte | **82** |
 | Prompt completi pubblicati qui | **0** |
-| File multimediali archiviati localmente | **560** |
+| File multimediali archiviati localmente | **176** |
 | Ultima verifica delle fonti (UTC) | **2026-11-09** |
 
 I conteggi delle fonti non attestano una riproduzione. Le piste in sospeso sono escluse; output diversi all’interno di un singolo workflow contano come un solo caso.
@@ -121,12 +123,12 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 
 | Aggiunto il | Caso | Riscontri |
 | --- | --- | --- |
-| 2026-11-06 | [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modello dichiarato dal creatore |
-| 2026-11-06 | [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modello dichiarato dal creatore |
+| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modello dichiarato dal creatore |
 
 <a id="all-cases"></a>
 
@@ -143,69 +145,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Toy airplane packaging](cases/docs-toy-package/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Miniature brand product world](cases/launch-sable/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
 | [Travel visual generation speed comparison](cases/launch-travel/README.md) | Demo ufficiale di lancio | Prompt non pubblico |
-| [Laptop GIF-creation workspace illustration](cases/techrepublic-gif-workspace-illustration/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Tovalin serum scene comparison](cases/productai-tovalin-serum-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Quillhaven coffee scenes and precise edits](cases/productai-quillhaven-coffee-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Running-shoe scenes and precise edits](cases/productai-running-shoe-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Cable-knit cardigan on a model](cases/productai-cable-knit-cardigan-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Oaken Mile Coffee label: Flare and Sunburst](cases/community-moss-coffee-label/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Cafe latte: Flare and Sunburst](cases/community-lightlyn-latte-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Earbud product-ad comparison](cases/community-lightlyn-earbuds-ad-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Takeaway box](cases/made-flare-dumpling-box/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Stylus macro](cases/made-sunburst-stylus-macro/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Three-flavor soda lineup](cases/yir-flavor-lineup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [French press product photos and background-edit continuation](cases/community-gptimagehub-french-press-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [SUMMIT ROAST coffee-bag product shot](cases/zzo-flare-summit-roast-bag/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Nowrap logo motion comparison](cases/nowrap-logo-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Flat fox mascot badge](cases/toonderly-fox-badge/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Watch four-round editing](cases/yir-watch-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Vase four-round editing](cases/yir-vase-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Soup photograph with recipe card](cases/joinoasis-tomato-soup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Blazer and boots reference composition](cases/joinoasis-blazer-boots-composition/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Rainbow cups and cat](cases/community-flixly-rainbow-teacups/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Sage-green to terracotta bottle edit](cases/omniakey-bottle-color-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Perfume bottle on wet coastal rock](cases/chatimage2-seaside-perfume-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Sunburst Roasters ceramic coffee canister](cases/replicate-sunburst-coffee-canister/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Brushed-titanium espresso tamper: Flare and Sunburst](cases/csuite-tamper/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Ceramic mug: 2K background-setting test](cases/iskragen-mug-2k-background-test/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [SUNNY POP sparkling-water poster](cases/framemux-sunny-pop-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Sage-green speaker on travertine](cases/gptimagehub-sage-speaker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [LUMIÈRE jewelry portrait at a car window](cases/302-lumiere-jewelry-portrait/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [VHS-style night racing scene](cases/302-vhs-drift-race/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Pure White Marketplace Packshot](cases/yepshot-studio-pure-white-amazon/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Black Acrylic Mirror Reflection](cases/yepshot-studio-acrylic-reflection/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Floating Hero Shot](cases/yepshot-studio-floating-ambient-shadow/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Overhead Flat Lay on Light Gray](cases/yepshot-studio-overhead-flat-lay/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Three-Quarter Catalog Angle](cases/yepshot-studio-three-quarter-angle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Material Close-Up for Detail Images](cases/yepshot-studio-material-detail-closeup/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Preview Colorways Side by Side](cases/yepshot-studio-colorway-lineup/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Travertine Block in Morning Light](cases/yepshot-lifestyle-travertine-stone/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Marble Vanity with Water Droplets](cases/yepshot-lifestyle-marble-bathroom-dew/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Oak Table with Kitchen Props](cases/yepshot-lifestyle-scandinavian-wood-kitchen/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Concrete Podium, Tech Style](cases/yepshot-lifestyle-industrial-concrete-podium/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Bright Modern Living Room](cases/yepshot-lifestyle-bright-living-room/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Sunny Picnic Blanket](cases/yepshot-lifestyle-outdoor-picnic/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Neon Gaming Desk](cases/yepshot-lifestyle-neon-gaming-desk/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Remove Glare on Shiny Surfaces](cases/yepshot-cleanup-remove-glare-reflections/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Erase Barcode and Price Sticker](cases/yepshot-cleanup-erase-barcode-watermark/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Remove Dust and Fingerprints](cases/yepshot-cleanup-dust-fingerprints/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Place a Product into Your Scene](cases/yepshot-compose-product-into-scene/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Bundle Two Products into One Shot](cases/yepshot-compose-bundle-group-shot/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Match Your Existing Catalog Look](cases/yepshot-compose-match-catalog-style/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Smooth Out Fabric Wrinkles](cases/yepshot-cleanup-smooth-fabric-wrinkles/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Christmas Pine and Warm Bokeh](cases/yepshot-seasonal-christmas-pine-bokeh/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Summer Pool Water and Caustics](cases/yepshot-seasonal-summer-pool-water-ripples/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Black Friday Black-and-Gold Pedestal](cases/yepshot-seasonal-black-friday-gold-geometry/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Lunar New Year Red and Gold](cases/yepshot-seasonal-lunar-new-year/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Turn Your Pet into a Collectible Figure](cases/yepshot-creative-collectible-figure/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Photo to Watercolor Illustration](cases/yepshot-creative-watercolor-illustration/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Sketch to Product Render](cases/yepshot-creative-sketch-to-render/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Borrow the Style of a Reference Image](cases/yepshot-compose-style-transfer/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [CubistAI espresso-cup still life](cases/community-cubistai-espresso-cup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Saved mug reference across three scenes](cases/weel-saved-mug-scenes/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Orange KINGY LAB product graphic](cases/kingy-sunburst-orange-bottle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-posters-typography"></a>
 
@@ -216,50 +157,11 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Streetwear advertisement typography](cases/docs-streetwear/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Roadside shampoo billboard](cases/docs-billboard/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Nostalgic holiday card](cases/docs-holiday-card/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
-| [Shiba ramen shop: two quality comparison runs](cases/ai-garage-ramen-quality-series/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Autumn café menu announcement comparison](cases/ai-garage-autumn-cafe/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Flare 4K test, published previews](cases/aivideos-flare-4k-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Flare quality and planning comparison](cases/aivideos-flare-quality-planning/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Retro diner menu board](cases/dreamega-retro-diner/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Lantern Row Night Market flyer: Flare and Sunburst](cases/community-moss-night-market-flyer/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Café breakfast menu: Flare and Sunburst](cases/community-moss-breakfast-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Pottery event banner layout: Flare and Sunburst](cases/community-moss-pottery-banner-layout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Night market poster comparison](cases/community-lightlyn-night-market-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Lightbox menu](cases/made-flare-noodle-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Sleeve typography](cases/made-sunburst-record-sleeve/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Window lettering](cases/made-sunburst-shop-window/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Hot-sauce launch and speed-test posters](cases/yir-hot-sauce-posters/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [End-of-season bicycle sale ad](cases/yir-bicycle-sale-ad/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Blue Hour jazz posters and date-edit continuation](cases/community-gptimagehub-jazz-poster-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Winter Night Market poster](cases/veevid-holiday-market-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [English–Hindi evening menu from a document brief](cases/analyticsvidhya-bilingual-evening-menu/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [NIGHT TIDE wave concert poster](cases/zzo-flare-night-tide-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [NIGHT MARKET typography comparison](cases/cellcog-night-market-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Café neon text comparison](cases/nowrap-cafe-sign-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [BOUNCE balloon-letter poster](cases/toonderly-bounce-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [OPEN LATE neon storefront](cases/kavel-open-late/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Lemon cake recipe card](cases/community-flixly-lemon-recipe/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [FIELD & FLOUR bakery poster](cases/sogni-flare-bakery-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [NORTHLIGHT TEA poster layout comparison](cases/sandbase-northlight-tea-posters/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Port Calder poster complexity comparison](cases/omniakey-port-calder-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [NIGHT SIGNAL concert poster: Flare and Sunburst](cases/csuite-poster/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [The Daily Pour coffee poster](cases/apixo-daily-pour-poster/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Coffee poster: vague prompt versus structured brief](cases/gptimagehub-structured-coffee-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [AMALFI travel poster](cases/gptimagehub-amalfi-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Block-world comparison cover redesign](cases/302-block-world-cover/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Five-view concept-car poster collage](cases/302-flying-car-collage/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Change the Name on a Product Label](cases/yepshot-text-label-name-swap/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Translate the Text on Packaging](cases/yepshot-text-translate-packaging/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Turn a Product Photo into a Sale Poster](cases/yepshot-campaign-sale-poster-text/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Update the Discount on a Promo Graphic](cases/yepshot-text-promo-discount-update/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [CubistAI Botanical Forms poster](cases/community-cubistai-botanical-poster/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [KINGY LAB bottle-and-type thumbnail](cases/kingy-sunburst-bottle-thumbnail/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Sunburst bakery quality comparison](cases/quantslant-sunburst-bakery-quality-ladder/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 
 <a id="category-infographics"></a>
 
@@ -270,19 +172,6 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
-| [Northfield Design Summit agenda: Flare and Sunburst](cases/community-moss-design-summit-agenda/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Honeybee scientific scale layouts](cases/community-lightlyn-bee-scale-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Illustrated map](cases/made-flare-market-map/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Exploded diagram](cases/made-sunburst-turntable-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Lisbon weather screen: matched Flare and Sunburst test](cases/community-gptimagehub-weather-ui/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Six-step bill-to-law infographic comparison](cases/community-gptimagehub-law-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Monarch butterfly life-cycle field-guide plate](cases/analyticsvidhya-monarch-life-cycle/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Automatic coffee-machine flow infographic](cases/zzo-flare-coffee-machine-diagram/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Quarterly revenue chart animation](cases/nowrap-chart-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Five-step coffee process infographic](cases/replicate-flare-coffee-process-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Labeled sunflower botanical plate](cases/replicate-sunburst-sunflower-botanical/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [The Life of a Coffee Bean infographic](cases/gptimagehub-coffee-bean-infographic/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [The Ember Isles fantasy map](cases/gptimagehub-ember-isles-map/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-interiors-architecture"></a>
 
@@ -292,15 +181,7 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | --- | --- | --- |
 | [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Living-room markup edit](cases/launch-fal/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
-| [Made Ultra-wide aisle](cases/made-flare-market-aerial/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Snowy mountain greenhouse at blue hour](cases/analyticsvidhya-snowy-greenhouse/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Red tram in a foggy city](cases/kavel-tram/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Four-room doorway layout](cases/joinoasis-four-room-floorplan/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Kitchen hanging-light replacement](cases/joinoasis-kitchen-pendant-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Rainy-window reading nook](cases/chatimage2-rainy-reading-nook/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Waterfall landscape with a red-jacket hiker](cases/zhidx-waterfall-landscape/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [CubistAI paper-cut forest cabin](cases/community-cubistai-paper-cut-cabin/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-characters-consistency"></a>
 
@@ -318,51 +199,9 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Continue the same character’s story](cases/docs-character-story/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Stained-glass whale](cases/launch-picsart/README.md) | Demo ufficiale di lancio | Prompt non pubblico |
 | [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Demo ufficiale di lancio | Prompt originale alla fonte |
-| [Ophanim-inspired still: The Coastal Lookout](cases/community-ophanim-coastal-lookout/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ophanim-inspired still: The Mountain Reservoir](cases/community-ophanim-mountain-reservoir/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ophanim-inspired still: The Village in the Rain](cases/community-ophanim-village-rain/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ophanim-inspired still: The Subway Entrance](cases/community-ophanim-subway-entrance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Fisherman at dawn: Flare and Sunburst](cases/community-moss-fisherman-dawn/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Vendor portrait](cases/made-flare-vendor-flash/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Rainy night](cases/made-flare-rain-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Crate digger](cases/made-sunburst-crate-digger/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Made Listening booth](cases/made-sunburst-listening-booth/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ferry at blue hour](cases/yir-ferry-blue-hour/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Night market noodle stall](cases/yir-noodle-stall/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Raincoat animation storyboard](cases/yir-raincoat-storyboard/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Fox raincoat consistency test](cases/nowrap-fox-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Robot learning to fly storyboard](cases/toonderly-robot-storyboard/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Portrait four-round editing](cases/yir-portrait-edit-sequence/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [1990s-style flash portrait](cases/kavel-90s-snapshot/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Mira lighthouse keyframes](cases/community-flixly-mira-keyframes/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Fisherman repairing a net](cases/community-flixly-fisherman-portrait/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Fox and badger in rain](cases/community-flixly-rainy-bridge-friends/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [The Last Reel: Flare and Sunburst scene variants](cases/maxvideo-gpt26-last-reel-generation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Curly-haired editorial portrait: Flare and Sunburst](cases/csuite-portrait/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Paladin: background and armor edit sequence](cases/overchat-paladin-edits/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Astronaut cat sticker with jetpack](cases/replicate-flare-astronaut-cat-sticker/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Nine-panel workplace AI comic](cases/zhidx-nine-panel-comic/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Photoreal basketball game image](cases/zhidx-basketball-photo/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Orange Y2K fashion in a blue studio](cases/302-y2k-orange-fashion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ink illustration of wolves in snow](cases/302-ink-wolves-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Ghost Mannequin to Street Model](cases/yepshot-apparel-ghost-mannequin-to-street-model/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Virtual Try-On](cases/yepshot-compose-virtual-try-on/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Upgrade Fabric to Silk](cases/yepshot-apparel-silk-texture-upgrade/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Recolor a Garment](cases/yepshot-fashion-garment-recolor/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Clean Studio Backdrop for Model Shots](cases/yepshot-fashion-model-studio-backdrop/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Change Hair to Platinum Blonde](cases/yepshot-portrait-platinum-blonde-hair/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Natural Skin Retouch](cases/yepshot-portrait-skin-texture-refinement/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Casual Photo to Business Headshot](cases/yepshot-portrait-business-headshot/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [ID Photo with White Background](cases/yepshot-portrait-id-photo/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Remove People from the Background](cases/yepshot-portrait-remove-photobomber/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Restore a Faded Old Photo](cases/yepshot-restore-vintage-photo-reconstruction/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Colorize a Black-and-White Photo](cases/yepshot-restore-colorize-bw/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Fix Blur and Noise](cases/yepshot-restore-deblur-sharpen/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Brighten an Underexposed Photo](cases/yepshot-restore-low-light-fix/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Photo to 3D Clay Character](cases/yepshot-creative-3d-clay/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 
@@ -379,38 +218,8 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Turn a sketch into a realistic scene](cases/docs-sketch-render/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Remove a held flower](cases/docs-remove-flower/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
-| [Shiba chef festival background edit](cases/ai-garage-festival-background/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Red chef hat despite conflicting markup](cases/ai-garage-red-chef-hat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Mirror reflection costume edit](cases/dreamega-mirror-reflection/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Miniature city inside a piano](cases/dreamega-piano-city/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Recolor a sofa in a living room](cases/community-lightlyn-sofa-edit-variants/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Sneaker recolored to forest green suede](cases/veevid-sneaker-suede-recolor/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Markup-guided forest-green armchair edit](cases/analyticsvidhya-markup-green-armchair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [LUMA 02 bottle on a forest river stone](cases/zzo-flare-luma-forest-stone/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Owl doodle watercolor edit](cases/toonderly-owl-watercolor/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Sparrow added to a ramen shop](cases/toonderly-ramen-sparrow-edit/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Golden retriever photo to cartoon](cases/toonderly-dog-photo-cartoon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Sunny mansion transformation](cases/community-flixly-sunny-mansion-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [NORTHLIGHT TEA color and date edits](cases/sandbase-northlight-tea-edits/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [The Last Reel: shared-input wardrobe edits](cases/maxvideo-gpt26-last-reel-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [GEN202 astronaut cat-to-dog edit comparison](cases/gen202-astronaut-cat-dog-variant-workflow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Living-room markup: Flare and Sunburst comparisons](cases/overchat-room-markup/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Food court: evening scene and rainy neon edit](cases/iskragen-food-court-weather-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Schoolyard: autumn scene and snow edit](cases/iskragen-schoolyard-season-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Family pancakes: original and sunny-light edit](cases/iskragen-pancake-kitchen-light-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Paper-cut lighthouse sky changed from sunset to stars](cases/replicate-flare-lighthouse-sky-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Watchmaker workbench, golden hour to moonlight](cases/replicate-sunburst-watchmaker-moonlight/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Clearly labeled fictional GPT-6.2 announcement edit](cases/zhidx-fictional-release-post/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Museum photograph: marked-person removal comparison](cases/zhidx-museum-person-removal/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Coral vase markup comparison](cases/apixo-coral-vase-comparison/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ramen shop: rain-to-snow reference edit](cases/gptimagehub-ramen-rain-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [MOONLEAF tea tin: jasmine-to-rose label edit](cases/gptimagehub-moonleaf-tea-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [AI-edited group-photo environment transfer](cases/302-group-photo-environment-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Flare STUDIO NIGHTS headline edit](cases/aivideos-flare-headline-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [KINGY LAB bottle recolor and price edit](cases/kingy-sunburst-turquoise-edit/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Ofox three-mug markup targeting test](cases/ofox-three-mug-markup-target-test/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-svg-design-assets"></a>
 
@@ -421,15 +230,6 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Farmers market mobile interface](cases/docs-market-ui/README.md) | Documentazione ufficiale | Prompt originale alla fonte |
 | [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Harbor Roast vector logo](cases/community-lightlyn-coffee-logo-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Six weather icons as SVG](cases/community-lightlyn-weather-icons-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Turn a cafe photo into vector art](cases/community-lightlyn-latte-vector-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Teal and amber hourglass pictogram comparison](cases/cellcog-hourglass-icon/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Six vector-test comparison renders](cases/cellcog-vector-comparison-renders/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Purple fox and news-panel SVG](cases/ai-garage-fox-news-vector/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Ember & Rye logo: raster preview of SVG workflow](cases/overchat-ember-rye-logo/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Coffee-cup SVG icon](cases/apixo-coffee-cup-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Clapperboard play-button SVG](cases/aivideos-clapperboard-svg/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 
 <a id="category-gif-animation"></a>
@@ -448,39 +248,6 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Rosebud animation](cases/community-rosebud-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Shiba chef waving loop](cases/ai-garage-shiba-wave/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Stock-market kitten meme: three GIF iterations](cases/community-greta-stock-kitten-iterations/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Morphed: bubblegum pop and reset loop](cases/morphed-bubblegum-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Rocking KINGY LAB bottle GIF](cases/kingy-sunburst-bottle-rocking/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Cartoon snowman waving loop](cases/veevid-snowman-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Selfie to sunglasses reaction loop](cases/yepshot-sunglasses-reaction/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Puppy head-tilt loop](cases/yepshot-pet-head-tilt/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Photo to waving chibi sticker loop](cases/yepshot-chibi-sticker-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Owl sketch comes alive](cases/yepshot-drawing-comes-alive/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [OPEN neon animation preview](cases/zzo-neon-open-sign/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Good-night sticker animation preview](cases/zzo-goodnight-girl-from-reference/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Thank-you shiba animation preview](cases/zzo-thank-you-shiba/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [LOL bean animation preview](cases/zzo-lol-bean/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Oops reaction animation preview](cases/zzo-oops-facepalm/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Got-it robot animation preview](cases/zzo-got-it-robot/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Morning coffee animation preview](cases/zzo-good-morning-coffee/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Birthday cake animation preview](cases/zzo-birthday-cake/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Thanksgiving turkey animation preview](cases/zzo-thanksgiving-turkey/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Black Friday animation preview](cases/zzo-black-friday-sale/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Christmas tree animation preview](cases/zzo-christmas-tree/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [New Year 2027 animation preview](cases/zzo-new-year-2027/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Snowy-window cat animation preview](cases/zzo-window-cat-snow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Glasses-wearing fox mascot wave](cases/cellcog-mascot-wave/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [SCOUT ANALYSE PATCH animation](cases/cellcog-labelled-workflow/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Office worker surprise reaction](cases/cellcog-office-reaction/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Bouncing ball frame-control comparison](cases/nowrap-ball-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Paper boat seamless-loop test](cases/nowrap-boat-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Night-market crowd animation](cases/nowrap-night-market-motion/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Bouncing fox pup loop](cases/toonderly-fox-bounce/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Penguin chef pancake-flip loop](cases/toonderly-penguin-pancake/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [LUCKY neon sign flicker](cases/kavel-neon-lucky/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Corgi chasing its tail](cases/kavel-corgi/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Flat character stretch routine](cases/kavel-stretch/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
@@ -519,54 +286,14 @@ Le schede segnaposto non sono risultati generati. Tutti i file multimediali visu
 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Orange fox mascot waving](cases/veevid-fox-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Heart-latte steam loop](cases/veevid-coffee-steam/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Potted cactus mascot waving](cases/veevid-cactus-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Holiday retriever tail-wag loop](cases/veevid-dog-tail-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Ink robot sketch waving](cases/veevid-robot-sketch-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Perfume bottle light sweep](cases/veevid-perfume-light-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Sunburst monkey lantern loop](cases/sogni-sunburst-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Flare monkey lantern loop](cases/sogni-flare-lantern-loop/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Paper-cut fox waving loop](cases/omniakey-paper-fox-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Copper teapot with heart-shaped steam loop](cases/analyticsvidhya-copper-teapot-heart-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
 | [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Windmill turning-sails GIF](cases/community-hn-windmill/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Eagle wingbeat GIF](cases/community-hn-eagle/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Chess opening GIF test](cases/community-hn-chess/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Howling husky snowglobe GIF](cases/community-hn-husky/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Paper-cut lighthouse at night: animated loop](cases/replicate-flare-lighthouse-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Flying Aruru polar-bear mascot](cases/aruru-flying-polar-bear/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Stationary coffee cup with moving steam](cases/aruru-coffee-steam/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
-| [Crying chef: direct GIF versus sprite-sheet method](cases/overchat-chef-gif/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Short-prompt loops: orange mascot and rotating sneakers](cases/overchat-short-prompt-animation-pair/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Paper plane: four-frame animated WebP](cases/iskragen-paper-plane-animation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Clay robot waters and observes a plant](cases/zhidx-clay-robot-garden/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [TV-scene reconciliation dialogue GIF](cases/zhidx-rv-reconciliation/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Vintage street checkpoint photo animation](cases/zhidx-vintage-checkpoint/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Cat barista: sprite sheet and assembled animation](cases/framemux-cat-barista/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Waving dinosaur: assembled sprite animation](cases/framemux-dinosaur-wave/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Pixel knight: assembled sword animation](cases/framemux-pixel-knight/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Window cat: reference-to-animation workflow](cases/framemux-window-cat/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Moon bounce: reference-to-animation workflow](cases/framemux-moon-bounce/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Steaming ramen: reference-to-animation workflow](cases/framemux-ramen-steam/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Fox greeting GIF workflow](cases/apixo-fox-wave-workflow/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Halftone cat meow animation pair](cases/302-halftone-meow-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Neon film-reel GIF comparison](cases/aivideos-neon-reel-gif-comparison/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Chibi greeting sticker wave](cases/opusly-hi-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [TGIF top-hat cat dance](cases/opusly-cat-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Party-hat corgi dance](cases/opusly-corgi-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Anime portrait blink loop](cases/opusly-anime-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Red-cape knight walk cycle](cases/opusly-knight-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Rainy-window coffee steam loop](cases/opusly-coffee-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
-| [Flixly: six GIF generation and editing tests](cases/flixly-six-gif-tests/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modello dichiarato dal creatore | Prompt non pubblico |
-| [Orange bird native GIF loop](cases/ofox-native-bird/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Modello dichiarato dal creatore | Prompt originale alla fonte |
 | [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
 | [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Modello dichiarato dal creatore | Disponibilità del prompt non verificata |
@@ -591,7 +318,7 @@ Qui non sono ancora stati ripubblicati prompt completi. Le pagine dei casi riman
 
 ## 🤝 Come contribuire
 
-Aggiungi casi con collegamenti alle fonti a content/source-cases.json. Aggiungi prompt completi e riutilizzabili a content/prompts.json. Il generatore crea entrambe le versioni linguistiche e le pagine interne a partire da questi set di dati.
+Aggiungi i casi della raccolta principale a content/source-cases.json e quelli dei siti esterni a external-sites/source-cases.json. Aggiungi i prompt completi a content/prompts.json. Il generatore crea indici separati e pagine di dettaglio in inglese e cinese.
 
 [Guida ai contributi](CONTRIBUTING.md) · [Guida ai casi documentati e ai contenuti multimediali](docs/SOURCE_CASES.md) · [Guida per i manutentori (cinese)](docs/FILLING_GUIDE.zh-CN.md)
 

@@ -26,14 +26,14 @@ This is the original author’s model attribution, not an independently reproduc
 ### source-01.webp
 
 - [Original source file / 来源文件](https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-7.webp).
-- [Unchanged local archive / 原样本地存档](../assets/examples/ai-garage-ramen-quality-series/source-01.webp).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/ai-garage-ramen-quality-series/source-01.webp).
 - WEBP, 1216 × 1328, 1 frame(s), 313,364 bytes.
 - SHA-256: `9e0075944a3a04adeec50ac8ca2ea010b05c9ab59d61607779b55f793b52d180`.
 
 ### source-02.webp
 
 - [Original source file / 来源文件](https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-1.webp).
-- [Unchanged local archive / 原样本地存档](../assets/examples/ai-garage-ramen-quality-series/source-02.webp).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/ai-garage-ramen-quality-series/source-02.webp).
 - WEBP, 1528 × 1132, 1 frame(s), 267,924 bytes.
 - SHA-256: `62660c37bb3d141bac618d4b38a5f7057d6b28b41832111590ec68c78ba39076`.
 
