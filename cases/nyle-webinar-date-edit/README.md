@@ -28,9 +28,13 @@ Original labelled composite retained without cropping. From top: input, 2.5 Sunb
 
 ## Original prompt
 
-[Original prompt at source](https://note.com/content_studio/n/ndd9ab49a6dea)
+```text
+実施日時を「2027年1月21日（木）」に差し替える。ほかは変えない。
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Transcribed from the instruction printed in the archived source comparison image.
+
+[Original prompt at source](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 ## Attribution and verification
 

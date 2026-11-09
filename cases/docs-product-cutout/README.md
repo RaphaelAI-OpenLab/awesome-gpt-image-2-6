@@ -35,9 +35,15 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
 ## Attribution and verification
 

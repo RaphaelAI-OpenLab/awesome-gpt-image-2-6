@@ -38,9 +38,9 @@ Published by princess414141 on Thu Nov 05 00:51:27 +0000 2026. The original prom
 dancing frog with a top hat on, with ego be gone! written at the top
 ```
 
-[Download original prompt text](../../cases/social-dancing-frog-top-hat/prompt.txt) · [Original prompt post](https://x.com/princess414141/status/2118144125354877152)
+[Original prompt (.txt)](../../cases/social-dancing-frog-top-hat/prompt.txt)
 
-The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.
+[Original prompt at source](https://x.com/princess414141/status/2118144125354877152)
 
 ## Attribution and verification
 

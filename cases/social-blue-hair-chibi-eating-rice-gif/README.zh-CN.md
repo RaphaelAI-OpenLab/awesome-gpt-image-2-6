@@ -46,9 +46,9 @@
 使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
 ```
 
-[下载原始提示词文本](../../cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt) · [提示词原帖](https://x.com/Gorden_Sun/status/2118166046175908016)
+[原始提示词 (.txt)](../../cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
 
-提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。
+[原提示词见来源](https://x.com/Gorden_Sun/status/2118166046175908016)
 
 ## 来源与核对信息
 

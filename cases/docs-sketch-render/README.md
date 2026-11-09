@@ -35,9 +35,14 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
 
 ## Attribution and verification
 

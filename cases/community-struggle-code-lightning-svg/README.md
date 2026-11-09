@@ -28,9 +28,11 @@ The exact source SVG was fetched and matches the retained original. It is a stat
 
 ## Original prompt
 
-[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+```text
+设计一个极简扁平化风格的个人技术博客 Logo 图标：结合“代码括号 </>”与“闪电”元素，蓝白配色，线条干净利落，并直接导出为可编辑的 SVG 矢量文件给我。
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 ## Attribution and verification
 

@@ -27,9 +27,31 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+```text
+Create a children’s book illustration introducing a main character.
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
 
 ## Attribution and verification
 

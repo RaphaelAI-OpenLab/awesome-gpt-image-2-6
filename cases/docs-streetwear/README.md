@@ -27,9 +27,16 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 
 ## Attribution and verification
 

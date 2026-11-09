@@ -27,9 +27,31 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+```text
+Create a Christmas holiday card illustration.
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
 
 ## 来源与核对信息
 

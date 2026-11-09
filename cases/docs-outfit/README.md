@@ -59,9 +59,11 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
 ## Attribution and verification
 

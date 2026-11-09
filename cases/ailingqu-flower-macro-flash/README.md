@@ -21,9 +21,15 @@ Creator-reported example. Exact licensed source prompt bodies and the shared suf
 
 ## Original prompt
 
-[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+```text
+A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
 ## Attribution and verification
 

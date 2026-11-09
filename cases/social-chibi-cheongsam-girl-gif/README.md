@@ -46,9 +46,9 @@ Published by shinshin86 on Thu Nov 05 06:14:31 +0000 2026. The original prompt i
 このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
 ```
 
-[Download original prompt text](../../cases/social-chibi-cheongsam-girl-gif/prompt.txt) · [Original prompt post](https://x.com/shinshin86/status/2118225428976705908)
+[Original prompt (.txt)](../../cases/social-chibi-cheongsam-girl-gif/prompt.txt)
 
-The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.
+[Original prompt at source](https://x.com/shinshin86/status/2118225428976705908)
 
 ## Attribution and verification
 

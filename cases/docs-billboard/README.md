@@ -35,9 +35,16 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
 
 ## Attribution and verification
 

@@ -27,9 +27,15 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
 
 ## 来源与核对信息
 

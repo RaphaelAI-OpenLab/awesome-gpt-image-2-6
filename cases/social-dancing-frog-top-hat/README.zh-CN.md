@@ -38,9 +38,9 @@
 dancing frog with a top hat on, with ego be gone! written at the top
 ```
 
-[下载原始提示词文本](../../cases/social-dancing-frog-top-hat/prompt.txt) · [提示词原帖](https://x.com/princess414141/status/2118144125354877152)
+[原始提示词 (.txt)](../../cases/social-dancing-frog-top-hat/prompt.txt)
 
-提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。
+[原提示词见来源](https://x.com/princess414141/status/2118144125354877152)
 
 ## 来源与核对信息
 

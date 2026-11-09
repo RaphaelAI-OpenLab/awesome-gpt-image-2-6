@@ -38,9 +38,9 @@ Published by MrGafish on Thu Nov 05 05:44:00 +0000 2026. The original prompt is 
 生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
 ```
 
-[Download original prompt text](../../cases/social-diligent-bee-daily-checkin-gif/prompt.txt) · [Original prompt post](https://x.com/MrGafish/status/2118217749680025722)
+[Original prompt (.txt)](../../cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
 
-The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.
+[Original prompt at source](https://x.com/MrGafish/status/2118217749680025722)
 
 ## Attribution and verification
 

@@ -27,9 +27,31 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
+```text
+Continue the children’s book story using the same character.
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
 
 ## Attribution and verification
 

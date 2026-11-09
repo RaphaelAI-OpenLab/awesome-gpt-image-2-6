@@ -298,18 +298,27 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
                 errors.append(f'{name}.prompt.url: required for public source prompt')
         elif item['prompt']['url'] is not None:
             errors.append(f"{name}.prompt.url: {item['prompt']['status']} prompts must not have a prompt URL")
-        prompt = item['prompt']
-        if 'text' in prompt or 'path' in prompt:
-            if prompt['status'] != 'source-only' or not prompt.get('text', '').strip():
-                errors.append(f'{name}.prompt.text: archived text requires a nonempty public original prompt')
-            expected_prompt_path = f"{asset_prefix}cases/{item['id']}/prompt.txt"
-            if prompt.get('path') != expected_prompt_path:
-                errors.append(f'{name}.prompt.path: expected {expected_prompt_path}')
-            else:
-                check_asset(prompt['path'], f'{name}.prompt.path', errors, allow_remote=False)
-                prompt_file = ROOT / prompt['path']
-                if prompt_file.is_file() and prompt_file.read_text(encoding='utf-8') != prompt.get('text', '') + '\n':
-                    errors.append(f'{name}.prompt.path: text file must exactly match the original prompt plus a final newline')
+        entries = item['prompt'].get('entries')
+        if entries is not None:
+            if item['prompt']['status'] != 'source-only' or not entries:
+                errors.append(f'{name}.prompt.entries: original text requires a public source prompt and at least one entry')
+            for pindex, entry in enumerate(entries):
+                if not entry['text'].strip() or not is_https_url(entry['url']):
+                    errors.append(f'{name}.prompt.entries[{pindex}]: original text and HTTPS source are required')
+                if not all(entry['title'][lang].strip() for lang in ('en', 'zh-CN')):
+                    errors.append(f'{name}.prompt.entries[{pindex}].title: bilingual title required')
+                if 'path' in entry:
+                    expected_folder = f"{asset_prefix}cases/{item['id']}/"
+                    path = entry['path']
+                    if not path.startswith(expected_folder) or '..' in Path(path).parts or not path.endswith('.txt'):
+                        errors.append(f'{name}.prompt.entries[{pindex}].path: expected a text file under {expected_folder}')
+                    else:
+                        check_asset(path, f'{name}.prompt.entries[{pindex}].path', errors, allow_remote=False)
+                        prompt_file = ROOT / path
+                        if prompt_file.is_file() and prompt_file.read_text(encoding='utf-8') != entry['text'] + '\n':
+                            errors.append(f'{name}.prompt.entries[{pindex}].path: text file must exactly match the original prompt plus a final newline')
+        if 'note' in item['prompt'] and not all(item['prompt']['note'][lang].strip() for lang in ('en', 'zh-CN')):
+            errors.append(f'{name}.prompt.note: bilingual note required')
         access = item.get('access')
         if access:
             if not is_date(access['checked_at']):

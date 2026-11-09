@@ -27,9 +27,15 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
 
 ## 来源与核对信息
 

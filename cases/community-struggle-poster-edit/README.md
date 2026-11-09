@@ -32,9 +32,19 @@ Two stages of one editing workflow: rocket/AI evolution title, then gear/Image 2
 
 ## Original prompt
 
-[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+**Step 1 · Create the poster**
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+```text
+设计一张科技博客封面海报：深邃蓝紫渐变背景，中间是一个发光的透明玻璃立方体，里面悬浮着一只小火箭，海报上方用干净的白色粗体字写着“AI 进化论”。16:9 比例。
+```
+
+**Step 2 · Edit the poster**
+
+```text
+保持玻璃立方体、小火箭的角度和背景光影完全不变，只做两处修改：1. 把里面的小火箭换成一枚金色齿轮；2. 把文字“AI 进化论”改成“Image 2.6 实测”。
+```
+
+[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 ## Attribution and verification
 

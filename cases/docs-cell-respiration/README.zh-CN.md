@@ -27,9 +27,17 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
 
 ## 来源与核对信息
 

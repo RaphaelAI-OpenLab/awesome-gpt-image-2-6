@@ -21,9 +21,15 @@ Creator-reported example. Exact licensed source prompt bodies and the shared suf
 
 ## Original prompt
 
-[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+```text
+A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
 ## Attribution and verification
 

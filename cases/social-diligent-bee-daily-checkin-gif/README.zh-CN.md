@@ -38,9 +38,9 @@
 生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
 ```
 
-[下载原始提示词文本](../../cases/social-diligent-bee-daily-checkin-gif/prompt.txt) · [提示词原帖](https://x.com/MrGafish/status/2118217749680025722)
+[原始提示词 (.txt)](../../cases/social-diligent-bee-daily-checkin-gif/prompt.txt)
 
-提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。
+[原提示词见来源](https://x.com/MrGafish/status/2118217749680025722)
 
 ## 来源与核对信息
 

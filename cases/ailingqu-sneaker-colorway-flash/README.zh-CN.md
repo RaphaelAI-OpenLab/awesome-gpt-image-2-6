@@ -21,9 +21,15 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+```text
+A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
 ## 来源与核对信息
 

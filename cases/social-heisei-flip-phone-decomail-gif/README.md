@@ -38,9 +38,9 @@ Published by rem_rev on Thu Nov 05 08:02:02 +0000 2026. The original prompt is r
 平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
 ```
 
-[Download original prompt text](../../cases/social-heisei-flip-phone-decomail-gif/prompt.txt) · [Original prompt post](https://x.com/rem_rev/status/2118252486360498485)
+[Original prompt (.txt)](../../cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
 
-The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.
+[Original prompt at source](https://x.com/rem_rev/status/2118252486360498485)
 
 ## Attribution and verification
 

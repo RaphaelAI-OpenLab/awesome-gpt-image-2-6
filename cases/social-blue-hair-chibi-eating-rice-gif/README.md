@@ -46,9 +46,9 @@ Published by Gorden_Sun on Thu Nov 05 02:18:33 +0000 2026. The original prompt i
 使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
 ```
 
-[Download original prompt text](../../cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt) · [Original prompt post](https://x.com/Gorden_Sun/status/2118166046175908016)
+[Original prompt (.txt)](../../cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt)
 
-The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.
+[Original prompt at source](https://x.com/Gorden_Sun/status/2118166046175908016)
 
 ## Attribution and verification
 

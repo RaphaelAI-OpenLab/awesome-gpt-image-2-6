@@ -38,9 +38,9 @@
 平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
 ```
 
-[下载原始提示词文本](../../cases/social-heisei-flip-phone-decomail-gif/prompt.txt) · [提示词原帖](https://x.com/rem_rev/status/2118252486360498485)
+[原始提示词 (.txt)](../../cases/social-heisei-flip-phone-decomail-gif/prompt.txt)
 
-提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。
+[原提示词见来源](https://x.com/rem_rev/status/2118252486360498485)
 
 ## 来源与核对信息
 

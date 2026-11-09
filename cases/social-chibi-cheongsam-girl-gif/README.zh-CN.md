@@ -46,9 +46,9 @@
 このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
 ```
 
-[下载原始提示词文本](../../cases/social-chibi-cheongsam-girl-gif/prompt.txt) · [提示词原帖](https://x.com/shinshin86/status/2118225428976705908)
+[原始提示词 (.txt)](../../cases/social-chibi-cheongsam-girl-gif/prompt.txt)
 
-提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。
+[原提示词见来源](https://x.com/shinshin86/status/2118225428976705908)
 
 ## 来源与核对信息
 
