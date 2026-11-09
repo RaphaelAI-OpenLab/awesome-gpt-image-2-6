@@ -28,9 +28,12 @@ neom 提供准确测试提示词，并将此链接明确标为 2.6，另附 2.0 
 
 ## 原始提示词
 
-[原提示词见来源](https://news.ycombinator.com/item?id=50373686)
+```text
+A macro close-up photograph of an old watchmaker's hands carefully replacing a tiny gear inside a vintage pocket watch. The watch mechanism is partially submerged in a shallow dish of clear water, causing visible refraction and light caustics across the brass gears. A single drop of water is falling from a pair of steel tweezers, captured mid-splash on the water's surface.
+Reflect the watchmaker's face, slightly distorted, in the curved glass of the watch face. Sharp focus throughout, natural window lighting from the left, shot on 100mm macro lens.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://news.ycombinator.com/item?id=50373686)
 
 ## 来源与核对信息
 

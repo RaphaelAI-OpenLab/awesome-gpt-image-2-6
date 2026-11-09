@@ -17,9 +17,27 @@
 - `docs/PENDING_REMAINING_LEADS_2026-11-09.md`: [66 additional leads on hold / 另66条存量暂缓线索](PENDING_REMAINING_LEADS_2026-11-09.md). Historical evidence and access/reuse holds only; not confirmed cases and excluded from published counts. 仅登记已有证据及访问／使用限制，不新增正式案例。
 - 不直接编辑自动生成的 README 或案例详情页。主合集已发布案例展示在主 README 分类中，外站案例仅在独立目录按来源网站展示；两者均保留中英文详情页。
 
+### README 图片与提示词展示
+
+主 README 的 16 个语言版本按用途逐条展开主合集案例，顺序为结果图片、原始提示词、作者和来源。分类、精选和最近收录可直接跳到页内案例，来源详情链接保留完整模型依据和素材使用条件。参考输入单独折叠展示，不混入结果图片；未入库的图片保留原始链接和缺失说明。
+
+已核对的来源提示词写入案例的 `prompt.entries`，每段包含双语 `title`、保留原文的 `text` 和准确的 `url`；多轮编辑按执行顺序分段，成组 GIF 按输出分别记录。可选的双语 `prompt.note` 用于说明拼接规则、输入缺失或从源图摘录的情况。只有 `source-only` 状态允许携带原文，不把图像描述或推测补写为原始提示词。`content/prompts.json` 继续用于带完整复现元数据的独立配方，摘录原文不等于已独立复现。
+
+分类和统计中的“完整提示词”按实际展示的原文段数计数，“来源公开原始提示词”按有公开原文的案例数计数；同一案例可包含多段原文。来源素材文件数不包含为 README 派生的视频首帧。
+
+MP4 在 README 中使用独立的首帧 JPEG 作为可点击预览，明确标注为静态首帧，点击打开来源视频。首帧存放在 `assets/readme-previews/<案例 ID>/`，不覆盖原件，也不冒充来源原始 GIF。新增或替换主合集 MP4 后运行：
+
+```bash
+python3 scripts/build_video_previews.py
+python3 scripts/build_readme.py
+python3 scripts/validate.py
+```
+
+`build_video_previews.py` 需要本机安装 `ffmpeg`。现有首帧随仓库保存；常规 README 生成与 CI 校验无需调用 `ffmpeg`。
+
 Prompt availability is independent of model evidence, attribution and media reuse eligibility:
 
-- `source-only`: the public original prompt has been verified; `prompt.url` links to it.
+- `source-only`: the public original prompt has been verified; `prompt.url` links to it. Verified original text can be stored in `prompt.entries` for inline display.
 - `not-public`: the original prompt is confirmed not publicly provided in the reviewed source; `prompt.url` is `null`. Directly observed absence is sufficient; an explicit creator declaration is not required. This describes the reviewed source, not the creator's intent or availability elsewhere.
 - `unverified`: public availability of the original prompt was not checked or could not be established; `prompt.url` is `null`. Keep the exact original post in `source.url`, not in `prompt.url`. This status makes no claim about public availability and does not count toward original prompts available at source.
 

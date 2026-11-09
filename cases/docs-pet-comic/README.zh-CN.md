@@ -27,9 +27,15 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
 
 ## 来源与核对信息
 

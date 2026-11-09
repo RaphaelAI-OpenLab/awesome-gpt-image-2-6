@@ -27,9 +27,13 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
 
 ## Attribution and verification
 

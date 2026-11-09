@@ -298,6 +298,17 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
                 errors.append(f'{name}.prompt.url: required for public source prompt')
         elif item['prompt']['url'] is not None:
             errors.append(f"{name}.prompt.url: {item['prompt']['status']} prompts must not have a prompt URL")
+        entries = item['prompt'].get('entries')
+        if entries is not None:
+            if item['prompt']['status'] != 'source-only' or not entries:
+                errors.append(f'{name}.prompt.entries: original text requires a public source prompt and at least one entry')
+            for pindex, entry in enumerate(entries):
+                if not entry['text'].strip() or not is_https_url(entry['url']):
+                    errors.append(f'{name}.prompt.entries[{pindex}]: original text and HTTPS source are required')
+                if not all(entry['title'][lang].strip() for lang in ('en', 'zh-CN')):
+                    errors.append(f'{name}.prompt.entries[{pindex}].title: bilingual title required')
+        if 'note' in item['prompt'] and not all(item['prompt']['note'][lang].strip() for lang in ('en', 'zh-CN')):
+            errors.append(f'{name}.prompt.note: bilingual note required')
         access = item.get('access')
         if access:
             if not is_date(access['checked_at']):

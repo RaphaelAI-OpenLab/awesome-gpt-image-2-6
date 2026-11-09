@@ -27,9 +27,15 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
 
 ## Attribution and verification
 

@@ -28,9 +28,13 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://x.com/DesignArena/status/2118124381155303918)
+```text
+Generate a beautiful birthday cake
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+摘录自已入库来源对比图中印出的指令。
+
+[原提示词见来源](https://x.com/DesignArena/status/2118124381155303918)
 
 ## 来源与核对信息
 

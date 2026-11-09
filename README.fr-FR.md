@@ -31,7 +31,7 @@ Les titres, descriptions et pages détaillées des cas sont affichés en anglais
 
 **[Parcourir tous les cas de ce dépôt →](#all-cases)**
 
-Chaque cas ci-dessous ouvre une page détaillée interne indiquant les preuves relatives au modèle, les crédits des sources et la disponibilité du prompt.
+Consultez les images et copiez les prompts originaux ci-dessous. Chaque exemple indique son auteur et sa source en bas.
 
 [Archives des contenus de sites externes (hors catégories et statistiques)](external-sites/README.md)
 
@@ -49,14 +49,14 @@ ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
 
 | Catégorie | Cas avec liens vers les sources | Prompts complets |
 | --- | ---: | ---: |
-| [Visuels de marque et de produit](#category-brand-products) | 7 | 0 |
-| [Affiches et typographie](#category-posters-typography) | 8 | 0 |
-| [Infographies](#category-infographics) | 3 | 0 |
-| [Intérieurs et architecture](#category-interiors-architecture) | 3 | 0 |
-| [Personnages et cohérence](#category-characters-consistency) | 15 | 0 |
-| [Annotations et retouches ciblées](#category-markup-edits) | 9 | 0 |
-| [SVG et ressources graphiques](#category-svg-design-assets) | 4 | 0 |
-| [GIF et animation](#category-gif-animation) | 59 | 0 |
+| [Visuels de marque et de produit](#category-brand-products) | 7 | 6 |
+| [Affiches et typographie](#category-posters-typography) | 8 | 6 |
+| [Infographies](#category-infographics) | 3 | 3 |
+| [Intérieurs et architecture](#category-interiors-architecture) | 3 | 2 |
+| [Personnages et cohérence](#category-characters-consistency) | 15 | 12 |
+| [Annotations et retouches ciblées](#category-markup-edits) | 9 | 8 |
+| [SVG et ressources graphiques](#category-svg-design-assets) | 4 | 3 |
+| [GIF et animation](#category-gif-animation) | 59 | 49 |
 
 <a id="contents"></a>
 
@@ -92,7 +92,7 @@ OpenAI a présenté Images 2.6 le 4 novembre 2026. Cette collection couvre les v
 | Exemples officiels | **37** |
 | Exemples déclarés par leurs créateurs | **71** |
 | Prompts originaux disponibles à la source | **82** |
-| Prompts complets publiés ici | **0** |
+| Prompts complets publiés ici | **89** |
 | Fichiers multimédias archivés localement | **176** |
 | Dernière vérification des sources (UTC) | **2026-11-09** |
 
@@ -104,18 +104,18 @@ Le nombre de sources n’atteste pas d’une reproduction. Les pistes en attente
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="cases/docs-bakery-svg/README.md"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="280" /><br /><strong>Bakery SVG logo</strong></a><br />Documentation officielle</td>
-<td width="33%" align="center"><a href="cases/docs-lantern-gif/README.md"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="Original monkey GIF" width="280" /><br /><strong>Lantern-carrying monkey loop</strong></a><br />Documentation officielle</td>
-<td width="33%" align="center"><a href="cases/launch-fal/README.md"><img src="assets/examples/launch-fal/source-02.png" alt="Source image 2" width="280" /><br /><strong>Living-room markup edit</strong></a><br />Démonstration officielle de lancement</td>
+<td width="33%" align="center"><a href="#source-case-docs-bakery-svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="280" /><br /><strong>Bakery SVG logo</strong></a><br />Documentation officielle</td>
+<td width="33%" align="center"><a href="#source-case-docs-lantern-gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="Original monkey GIF" width="280" /><br /><strong>Lantern-carrying monkey loop</strong></a><br />Documentation officielle</td>
+<td width="33%" align="center"><a href="#source-case-launch-fal"><img src="assets/examples/launch-fal/source-02.png" alt="Source image 2" width="280" /><br /><strong>Living-room markup edit</strong></a><br />Démonstration officielle de lancement</td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="cases/launch-sable/README.md"><img src="assets/examples/launch-sable/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Miniature brand product world</strong></a><br />Démonstration officielle de lancement</td>
-<td width="33%" align="center"><a href="cases/launch-higgsfield/README.md"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Knight scene and clothing edit sequence</strong></a><br />Démonstration officielle de lancement</td>
-<td width="33%" align="center"><a href="cases/community-malfoid/README.md"><img src="assets/media-placeholder-fr-FR.svg" alt="Élément de remplacement, pas une sortie du modèle" width="280" /><br /><strong>Summer character illustration animation</strong></a><br />Modèle déclaré par le créateur</td>
+<td width="33%" align="center"><a href="#source-case-launch-sable"><img src="assets/examples/launch-sable/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Miniature brand product world</strong></a><br />Démonstration officielle de lancement</td>
+<td width="33%" align="center"><a href="#source-case-launch-higgsfield"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Knight scene and clothing edit sequence</strong></a><br />Démonstration officielle de lancement</td>
+<td width="33%" align="center"><a href="#source-case-docs-complexity"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them." width="280" /><br /><strong>Paper-cut championship scene: complexity comparison</strong></a><br />Documentation officielle</td>
 </tr>
 </table>
 
-Les fiches de remplacement ne sont pas des résultats générés. Tous les fichiers multimédias affichés se trouvent dans ce dépôt ; les médias non encore archivés restent accessibles par des liens sur les pages détaillées.
+Les aperçus vidéo sont la première image fixe ; ouvrez le fichier lié pour voir le mouvement. Les références et affiches originales sont identifiées séparément.
 
 <a id="latest"></a>
 
@@ -123,188 +123,3125 @@ Les fiches de remplacement ne sont pas des résultats générés. Tous les fichi
 
 | Ajouté le | Cas | Preuves |
 | --- | --- | --- |
-| 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modèle déclaré par le créateur |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Love-burst skill animation](#source-case-ailingqu-love-burst-skill) | Modèle déclaré par le créateur |
+| 2026-11-06 | [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Hourglass loading](#source-case-ailingqu-hourglass-flip) | Modèle déclaré par le créateur |
+| 2026-11-06 | [Like button heart burst](#source-case-ailingqu-like-heart-burst) | Modèle déclaré par le créateur |
 
 <a id="all-cases"></a>
 
 ## 📋 Tous les cas
 
+<a id="collection"></a>
+
+Les prompts conservent leur langue d’origine. Les prompts absents ou non vérifiés sont signalés ; aucun n’est déduit des images.
+
 <a id="category-brand-products"></a>
 
 ### Visuels de marque et de produit
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Transparent bakery raster logo](cases/docs-bakery-raster/README.md) | Documentation officielle | Prompt original à la source |
-| [Transparent product cutout](cases/docs-product-cutout/README.md) | Documentation officielle | Prompt original à la source |
-| [Toy airplane packaging](cases/docs-toy-package/README.md) | Documentation officielle | Prompt original à la source |
-| [Miniature brand product world](cases/launch-sable/README.md) | Démonstration officielle de lancement | Prompt original à la source |
-| [Travel visual generation speed comparison](cases/launch-travel/README.md) | Démonstration officielle de lancement | Prompt non public |
-| [Watchmaker underwater macro test](cases/community-hn-watchmaker/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [AURORA orange perfume product image](cases/community-struggle-aurora-perfume/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+<a id="source-case-docs-bakery-raster"></a>
+
+#### 1. Transparent bakery raster logo
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp" alt="GPT Image 2.6 Flare output: Flare raster logo with a loaf above curved field rows and the stacked Field &amp; Flour wordmark." width="360" /></a><br /><sub>GPT Image 2.6 Flare output: Flare raster logo with a loaf above curved field rows and the stacked Field &amp; Flour wordmark.</sub></td>
+<td align="center"><a href="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Sunburst raster logo with golden wheat flanking a loaf above the Field &amp; Flour wordmark." width="360" /></a><br /><sub>GPT Image 2.6 Sunburst output: Sunburst raster logo with golden wheat flanking a loaf above the Field &amp; Flour wordmark.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [Détails de la source](cases/docs-bakery-raster/README.md)
+
+---
+
+<a id="source-case-docs-product-cutout"></a>
+
+#### 2. Transparent product cutout
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-flare.webp" alt="Isolated shampoo bottle on a transparent background — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Isolated shampoo bottle on a transparent background — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-sunburst.webp" alt="Isolated shampoo bottle on a transparent background — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Isolated shampoo bottle on a transparent background — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Original shampoo product photograph](assets/references/docs-product-cutout/shampoo.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout) · [Détails de la source](cases/docs-product-cutout/README.md)
+
+---
+
+<a id="source-case-docs-toy-package"></a>
+
+#### 3. Toy airplane packaging
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp" alt="Collectible toy airplane in holiday packaging — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Collectible toy airplane in holiday packaging — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp" alt="Collectible toy airplane in holiday packaging — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Collectible toy airplane in holiday packaging — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [Détails de la source](cases/docs-toy-package/README.md)
+
+---
+
+<a id="source-case-launch-sable"></a>
+
+#### 4. Miniature brand product world
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-sable/source-01.webp"><img src="assets/examples/launch-sable/source-01.webp" alt="Source image 1" width="700" /></a><br /><sub>Source image 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create one exceptional finished presentation slide for Sable, not a layout template. The slide must have one powerful visual idea, the craft of a premium brand campaign and restrained, beautifully readable typography. Image 1 is a reference for the genuine Sable logo, colour palette, and light type ONLY: do not imitate its specimen-sheet layout. Image 2 is the identity reference for Aidan: a white rounded, softly textured head, subtle round spectacles, mustard knit sweater. Preserve his recognizable design when creating a new pose or scene. Aidan is a friendly AI product expert who sees, clicks and explains. The artwork should make this product idea understandable through visual storytelling. Use NB International-style Light/Regular typography, no bold or heavy fonts. Brand colours: #FFDB4D yellow, #F9F9F9 ground, #1B1D1F ink, warm neutral greys. A full black or full yellow brand pop slide is allowed when explicitly requested below. Flat, clean surrounding canvas; no grain, decorative gradients or interface drop shadows. Natural lighting and physical occlusion inside photographic artwork are allowed. Do not create a three-column feature layout, cards, bullet lists, dashboards, stock icon diagrams, a contact sheet or a fake browser screenshot. No generic floating glass panels. No invented metrics, claims, dates or brands. Use only the exact supplied copy and a small authentic Sable logo, with ample safe margins. All text must be legible. Produce the actual full-bleed slide, no external mockup frame.
+
+Art direction: a spectacular, warm, photographically convincing miniature architectural world, shown as one continuous cutaway diorama on a flat #F9F9F9 canvas. A single generous capsule-shaped floor plate curves through three interconnected spaces: a place to explore a product, a hands-on product workshop, and a quiet learning space. The spaces have distinct heights, arches, staircases and tiny abstract product objects that make the scene reward a closer look. They form ONE inhabitable world, not three disconnected models. Aidan is a miniature physical character guiding a single visitor along a clearly continuous route through this world; include just one Aidan and one visitor, with believable scale. A giant yellow disc stands behind the entire architectural silhouette like a sun, while a capsule and circular openings are built into the architecture. Let this rich composition occupy roughly two-thirds of the slide. Beautiful daylight, tactile craftsmanship and elegant restraint, not a busy toy town or a tech isometric icon. Integrate the title in the remaining generous blank space, not on top of intricate architecture. Exact headline on two light-weight lines: "A whole product world" / "One guide". Optional tiny wayfinding inside the three spaces, exactly once each: "Explore", "Try", "Learn". No additional text.
+```
+
+The prompt requires two source reference images for the Sable brand and Aidan identity. These inputs are not archived in this case; the output alone is not a complete reproduction kit.
+
+[Prompt original à la source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Auteur**: [Sable](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Détails de la source](cases/launch-sable/README.md)
+
+---
+
+<a id="source-case-launch-travel"></a>
+
+#### 5. Travel visual generation speed comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-travel/source-01.webp"><img src="assets/examples/launch-travel/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/) · [Détails de la source](cases/launch-travel/README.md)
+
+---
+
+<a id="source-case-community-hn-watchmaker"></a>
+
+#### 6. Watchmaker underwater macro test
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-hn-watchmaker/output.png"><img src="assets/examples/community-hn-watchmaker/output.png" alt="Watchmaker underwater macro test" width="700" /></a><br /><sub>Watchmaker underwater macro test</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A macro close-up photograph of an old watchmaker's hands carefully replacing a tiny gear inside a vintage pocket watch. The watch mechanism is partially submerged in a shallow dish of clear water, causing visible refraction and light caustics across the brass gears. A single drop of water is falling from a pair of steel tweezers, captured mid-splash on the water's surface.
+Reflect the watchmaker's face, slightly distorted, in the curved glass of the watch face. Sharp focus throughout, natural window lighting from the left, shot on 100mm macro lens.
+```
+
+[Prompt original à la source](https://news.ycombinator.com/item?id=50373686)
+
+**Auteur**: [neom (Hacker News)](https://news.ycombinator.com/item?id=50373686)
+
+**Source originale**: [Modèle déclaré par le créateur](https://news.ycombinator.com/item?id=50373686) · [Détails de la source](cases/community-hn-watchmaker/README.md)
+
+---
+
+<a id="source-case-community-struggle-aurora-perfume"></a>
+
+#### 7. AURORA orange perfume product image
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-aurora-perfume/95c77557e2dc3b1d95975cfe16cf3138.png"><img src="assets/examples/community-struggle-aurora-perfume/95c77557e2dc3b1d95975cfe16cf3138.png" alt="Orange AURORA perfume bottle with mint" width="700" /></a><br /><sub>Orange AURORA perfume bottle with mint</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+设计一张高端电商产品主图：一个极简主义的哑光橙色玻璃香水瓶，放置在大理石台面上，周围有几片新鲜薄荷叶点缀，自然柔和侧逆光，瓶身正中心用优雅的无衬线英文字体印着‘AURORA’。
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-aurora-perfume/README.md)
+
+---
 
 <a id="category-posters-typography"></a>
 
 ### Affiches et typographie
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Streetwear advertisement typography](cases/docs-streetwear/README.md) | Documentation officielle | Prompt original à la source |
-| [Roadside shampoo billboard](cases/docs-billboard/README.md) | Documentation officielle | Prompt original à la source |
-| [Nostalgic holiday card](cases/docs-holiday-card/README.md) | Documentation officielle | Prompt original à la source |
-| [Birthday cake without extra slogan cards](cases/community-flare-slogan-comparison/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [AI evolution poster revised to Image 2.6](cases/community-struggle-poster-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Spring Health Fair 2027 flyer comparison](cases/nyle-health-fair/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Sensitive-skin lotion advertisement comparison](cases/nyle-skincare-ad/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Dense Japanese business cover comparison](cases/nyle-kanji-cover/README.md) | Modèle déclaré par le créateur | Prompt non public |
+<a id="source-case-docs-streetwear"></a>
+
+#### 8. Streetwear advertisement typography
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-flare.webp" alt="Thread streetwear campaign with the requested tagline — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Thread streetwear campaign with the requested tagline — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-sunburst.webp" alt="Thread streetwear campaign with the requested tagline — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Thread streetwear campaign with the requested tagline — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text) · [Détails de la source](cases/docs-streetwear/README.md)
+
+---
+
+<a id="source-case-docs-billboard"></a>
+
+#### 9. Roadside shampoo billboard
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-billboard/billboard-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-billboard/billboard-gpt-image-2-6-flare.webp" alt="Shampoo billboard at sunset — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Shampoo billboard at sunset — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-billboard/billboard-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-billboard/billboard-gpt-image-2-6-sunburst.webp" alt="Shampoo billboard at sunset — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Shampoo billboard at sunset — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Original shampoo product photograph](assets/references/docs-billboard/shampoo.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image) · [Détails de la source](cases/docs-billboard/README.md)
+
+---
+
+<a id="source-case-docs-holiday-card"></a>
+
+#### 10. Nostalgic holiday card
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp" alt="Holiday card showing a teddy bear by a window — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Holiday card showing a teddy bear by a window — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp" alt="Holiday card showing a teddy bear by a window — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Holiday card showing a teddy bear by a window — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [Détails de la source](cases/docs-holiday-card/README.md)
+
+---
+
+<a id="source-case-community-flare-slogan-comparison"></a>
+
+#### 11. Birthday cake without extra slogan cards
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-flare-slogan-comparison/source-01.webp"><img src="assets/examples/community-flare-slogan-comparison/source-01.webp" alt="Original birthday-cake comparison composite: GPT Image 2.6 Flare (High) on the left; GPT Image 2.5 Sunburst with extra slogan cards on the right." width="700" /></a><br /><sub>Original birthday-cake comparison composite: GPT Image 2.6 Flare (High) on the left; GPT Image 2.5 Sunburst with extra slogan cards on the right.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Generate a beautiful birthday cake
+```
+
+Transcribed from the instruction printed in the archived source comparison image.
+
+[Prompt original à la source](https://x.com/DesignArena/status/2118124381155303918)
+
+**Auteur**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/DesignArena/status/2118124381155303918) · [Détails de la source](cases/community-flare-slogan-comparison/README.md)
+
+---
+
+<a id="source-case-community-struggle-poster-edit"></a>
+
+#### 12. AI evolution poster revised to Image 2.6
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-poster-edit/b1a93a6ee9e5febed5811e8e7c27ed32.png"><img src="assets/examples/community-struggle-poster-edit/b1a93a6ee9e5febed5811e8e7c27ed32.png" alt="Rocket in glass cube, AI evolution title" width="700" /></a><br /><sub>Rocket in glass cube, AI evolution title</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Step 1 · Create the poster**
+
+```text
+设计一张科技博客封面海报：深邃蓝紫渐变背景，中间是一个发光的透明玻璃立方体，里面悬浮着一只小火箭，海报上方用干净的白色粗体字写着“AI 进化论”。16:9 比例。
+```
+
+**Step 2 · Edit the poster**
+
+```text
+保持玻璃立方体、小火箭的角度和背景光影完全不变，只做两处修改：1. 把里面的小火箭换成一枚金色齿轮；2. 把文字“AI 进化论”改成“Image 2.6 实测”。
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-poster-edit/README.md)
+
+---
+
+<a id="source-case-nyle-health-fair"></a>
+
+#### 13. Spring Health Fair 2027 flyer comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-health-fair/source-01.png"><img src="assets/examples/nyle-health-fair/source-01.png" alt="Spring Health Fair 2027 flyer comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown." width="700" /></a><br /><sub>Spring Health Fair 2027 flyer comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/content_studio/n/ndd9ab49a6dea) · [Détails de la source](cases/nyle-health-fair/README.md)
+
+---
+
+<a id="source-case-nyle-skincare-ad"></a>
+
+#### 14. Sensitive-skin lotion advertisement comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-skincare-ad/source-01.png"><img src="assets/examples/nyle-skincare-ad/source-01.png" alt="Sensitive-skin lotion advertisement comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown." width="700" /></a><br /><sub>Sensitive-skin lotion advertisement comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/content_studio/n/ndd9ab49a6dea) · [Détails de la source](cases/nyle-skincare-ad/README.md)
+
+---
+
+<a id="source-case-nyle-kanji-cover"></a>
+
+#### 15. Dense Japanese business cover comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-kanji-cover/source-01.png"><img src="assets/examples/nyle-kanji-cover/source-01.png" alt="Dense Japanese business cover comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown." width="700" /></a><br /><sub>Dense Japanese business cover comparison. Original labelled composite retained without cropping. Panel order is 2.5 Sunburst, 2.6 Sunburst, 2.6 Flare (left to right or top to bottom). Exact full prompt is not shown.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/content_studio/n/ndd9ab49a6dea) · [Détails de la source](cases/nyle-kanji-cover/README.md)
+
+---
 
 <a id="category-infographics"></a>
 
 ### Infographies
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Coffee-machine process diagram](cases/docs-coffee-diagram/README.md) | Documentation officielle | Prompt original à la source |
-| [Cellular respiration teaching visual](cases/docs-cell-respiration/README.md) | Documentation officielle | Prompt original à la source |
-| [Market-size presentation slide](cases/docs-pitch-slide/README.md) | Documentation officielle | Prompt original à la source |
+<a id="source-case-docs-coffee-diagram"></a>
+
+#### 16. Coffee-machine process diagram
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-flare.webp" alt="Diagram explaining an automatic coffee machine — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Diagram explaining an automatic coffee machine — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-sunburst.webp" alt="Diagram explaining an automatic coffee machine — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Diagram explaining an automatic coffee machine — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually) · [Détails de la source](cases/docs-coffee-diagram/README.md)
+
+---
+
+<a id="source-case-docs-cell-respiration"></a>
+
+#### 17. Cellular respiration teaching visual
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp" alt="Classroom diagram of cellular respiration — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Classroom diagram of cellular respiration — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp" alt="Classroom diagram of cellular respiration — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Classroom diagram of cellular respiration — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [Détails de la source](cases/docs-cell-respiration/README.md)
+
+---
+
+<a id="source-case-docs-pitch-slide"></a>
+
+#### 18. Market-size presentation slide
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-flare.webp" alt="Market opportunity slide with sample market sizing figures — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Market opportunity slide with sample market sizing figures — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-sunburst.webp" alt="Market opportunity slide with sample market sizing figures — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Market opportunity slide with sample market sizing figures — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [Détails de la source](cases/docs-pitch-slide/README.md)
+
+---
 
 <a id="category-interiors-architecture"></a>
 
 ### Intérieurs et architecture
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Replace chairs in an interior](cases/docs-room-chairs/README.md) | Documentation officielle | Prompt original à la source |
-| [Living-room markup edit](cases/launch-fal/README.md) | Démonstration officielle de lancement | Prompt original à la source |
-| [Dusty warehouse prompt-detail comparison](cases/community-sunburst-dust-detail/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+<a id="source-case-docs-room-chairs"></a>
+
+#### 19. Replace chairs in an interior
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp" alt="Kitchen with replacement wooden chairs — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Kitchen with replacement wooden chairs — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp" alt="Kitchen with replacement wooden chairs — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Kitchen with replacement wooden chairs — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Original kitchen with white chairs](assets/references/docs-room-chairs/kitchen.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room) · [Détails de la source](cases/docs-room-chairs/README.md)
+
+---
+
+<a id="source-case-launch-fal"></a>
+
+#### 20. Living-room markup edit
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-fal/source-02.png"><img src="assets/examples/launch-fal/source-02.png" alt="Source image 2" width="700" /></a><br /><sub>Source image 2</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Source image 1](assets/references/launch-fal/source-01.png)
+
+</details>
+
+**Prompt original**
+
+```text
+Follow the red markup on this photo. Each number marks a spot and the legend box explains what to do there. Apply every instruction, then remove all of the markup, including the numbers and the legend box, so the result is a clean photo.
+```
+
+[Prompt original à la source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Auteur**: [fal](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Détails de la source](cases/launch-fal/README.md)
+
+---
+
+<a id="source-case-community-sunburst-dust-detail"></a>
+
+#### 21. Dusty warehouse prompt-detail comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-sunburst-dust-detail/source-01.webp"><img src="assets/examples/community-sunburst-dust-detail/source-01.webp" alt="Original dusty-warehouse comparison composite: GPT Image 2.6 Sunburst (quality auto, complexity high) on the left; MAI-Image-2.6 Flash on the right." width="700" /></a><br /><sub>Original dusty-warehouse comparison composite: GPT Image 2.6 Sunburst (quality auto, complexity high) on the left; MAI-Image-2.6 Flash on the right.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Disponibilité du prompt non vérifiée**
+
+**Auteur**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/DesignArena/status/2118124393843106154) · [Détails de la source](cases/community-sunburst-dust-detail/README.md)
+
+---
 
 <a id="category-characters-consistency"></a>
 
 ### Personnages et cohérence
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Paper-cut championship scene: complexity comparison](cases/docs-complexity/README.md) | Documentation officielle | Prompt original à la source |
-| [Realistic fishing-boat sailor portrait](cases/docs-sailor/README.md) | Documentation officielle | Prompt original à la source |
-| [1969 historical crowd scene](cases/docs-historical-crowd/README.md) | Documentation officielle | Prompt original à la source |
-| [Four-panel pet comic](cases/docs-pet-comic/README.md) | Documentation officielle | Prompt original à la source |
-| [Change clothing while preserving identity](cases/docs-outfit/README.md) | Documentation officielle | Prompt original à la source |
-| [Place a person into a camping escape scene](cases/docs-person-scene/README.md) | Documentation officielle | Prompt original à la source |
-| [Establish a storybook character](cases/docs-character-start/README.md) | Documentation officielle | Prompt original à la source |
-| [Continue the same character’s story](cases/docs-character-story/README.md) | Documentation officielle | Prompt original à la source |
-| [Stained-glass whale](cases/launch-picsart/README.md) | Démonstration officielle de lancement | Prompt non public |
-| [Knight scene and clothing edit sequence](cases/launch-higgsfield/README.md) | Démonstration officielle de lancement | Prompt original à la source |
-| [Reference-led courtyard photo board](cases/community-marco-reference-photo-board/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Sunburst courtyard comparison](cases/community-marco-sunburst-courtyard-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Mushroom-lit fashion portrait](cases/community-marco-mushroom-fashion-portrait/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Sunburst six-style sample gallery](cases/nyle-sunburst-style-gallery/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Sunburst calico cat by a window](cases/community-kokone-sunburst-calico/README.md) | Modèle déclaré par le créateur | Prompt non public |
+<a id="source-case-docs-complexity"></a>
+
+#### 22. Paper-cut championship scene: complexity comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them." width="360" /></a><br /><sub>GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them.</sub></td>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Players in red lift a trophy topped with a crown. A CHAMPIONS banner spans the foreground." width="360" /></a><br /><sub>GPT Image 2.6 Sunburst output: Players in red lift a trophy topped with a crown. A CHAMPIONS banner spans the foreground.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Players in red shirts with team crests lift a trophy decorated with a laurel wreath above a CHAMPIONS banner." width="360" /></a><br /><sub>GPT Image 2.6 Sunburst output: Players in red shirts with team crests lift a trophy decorated with a laurel wreath above a CHAMPIONS banner.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity) · [Détails de la source](cases/docs-complexity/README.md)
+
+---
+
+<a id="source-case-docs-sailor"></a>
+
+#### 23. Realistic fishing-boat sailor portrait
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-sailor/photorealism-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-sailor/photorealism-gpt-image-2-6-flare.webp" alt="Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-sailor/photorealism-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-sailor/photorealism-gpt-image-2-6-sunburst.webp" alt="Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Photorealistic portrait of a sailor repairing a net — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting) · [Détails de la source](cases/docs-sailor/README.md)
+
+---
+
+<a id="source-case-docs-historical-crowd"></a>
+
+#### 24. 1969 historical crowd scene
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-flare.webp" alt="Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-sunburst.webp" alt="Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Crowd scene in Bethel, New York, in August 1969 — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context) · [Détails de la source](cases/docs-historical-crowd/README.md)
+
+---
+
+<a id="source-case-docs-pet-comic"></a>
+
+#### 25. Four-panel pet comic
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp" alt="Four-panel comic about a pet at home — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Four-panel comic about a pet at home — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp" alt="Four-panel comic about a pet at home — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Four-panel comic about a pet at home — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip) · [Détails de la source](cases/docs-pet-comic/README.md)
+
+---
+
+<a id="source-case-docs-outfit"></a>
+
+#### 26. Change clothing while preserving identity
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp" alt="Woman wearing the supplied clothing items — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Woman wearing the supplied clothing items — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp" alt="Woman wearing the supplied clothing items — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Woman wearing the supplied clothing items — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Gray boots used as a clothing reference](assets/references/docs-outfit/boots.webp)
+- [Reference input: Beige jacket used as a clothing reference](assets/references/docs-outfit/jacket.webp)
+- [Reference input: White tank top used as a clothing reference](assets/references/docs-outfit/tank-top.webp)
+- [Reference input: Woman in a museum used as the identity reference](assets/references/docs-outfit/woman-in-museum.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing) · [Détails de la source](cases/docs-outfit/README.md)
+
+---
+
+<a id="source-case-docs-person-scene"></a>
+
+#### 27. Place a person into a camping escape scene
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-person-scene/scene-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-person-scene/scene-gpt-image-2-6-flare.webp" alt="Woman running from a bear in a campsite scene — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Woman running from a bear in a campsite scene — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-person-scene/scene-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-person-scene/scene-gpt-image-2-6-sunburst.webp" alt="Woman running from a bear in a campsite scene — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Woman running from a bear in a campsite scene — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene) · [Détails de la source](cases/docs-person-scene/README.md)
+
+---
+
+<a id="source-case-docs-character-start"></a>
+
+#### 28. Establish a storybook character
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-flare.webp" alt="Forest hero introducing a children&#x27;s book character — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Forest hero introducing a children&#x27;s book character — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp" alt="Forest hero introducing a children&#x27;s book character — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Forest hero introducing a children&#x27;s book character — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character) · [Détails de la source](cases/docs-character-start/README.md)
+
+---
+
+<a id="source-case-docs-character-story"></a>
+
+#### 29. Continue the same character’s story
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-flare.webp" alt="Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp" alt="Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Same forest hero helping a squirrel in a winter scene — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story) · [Détails de la source](cases/docs-character-story/README.md)
+
+---
+
+<a id="source-case-launch-picsart"></a>
+
+#### 30. Stained-glass whale
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="Source image 1" width="700" /></a><br /><sub>Source image 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Détails de la source](cases/launch-picsart/README.md)
+
+---
+
+<a id="source-case-launch-higgsfield"></a>
+
+#### 31. Knight scene and clothing edit sequence
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-01.webp"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="360" /></a><br /><sub>Source image 1</sub></td>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-02.webp"><img src="assets/examples/launch-higgsfield/source-02.webp" alt="Source image 2" width="360" /></a><br /><sub>Source image 2</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-03.webp"><img src="assets/examples/launch-higgsfield/source-03.webp" alt="Source image 3" width="360" /></a><br /><sub>Source image 3</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Starting image · Character and scene**
+
+```text
+Epic high fantasy anime key visual, mature seinen style like a modern high-budget anime film. A young woman sorceress-knight in her twenties with long crimson hair and sharp golden eyes stands on the edge of a cliff in ornate silver and emerald armor with a flowing royal blue cape, a glowing runic sword planted in front of her, magic sparks around her hands. Behind her a vast fantasy kingdom: floating islands with waterfalls pouring into the clouds, a white castle with spires, a huge ancient dragon flying in the distance, giant blooming sakura and golden autumn forests in the valley below. Sunset sky with vivid orange, magenta, turquoise and violet clouds, god rays, glowing magic particles in the air. Extremely vibrant saturated colors, dramatic rim lighting, cel shading with detailed painted backgrounds, crisp clean line art, depth and atmosphere, dynamic low camera angle, wide cinematic composition. Adult, elegant, serious heroic mood, not childish, no chibi, no sci-fi, no neon, no text, no watermark.
+```
+
+**Edit 1 · Sunset valley**
+
+```text
+Replace the moonlit landscape with a golden sunset over a misty mountain valley, winding river, waterfalls and ancient ruins. Keep the background softly blurred and the knight, armor, sword, rock and composition unchanged.
+```
+
+**Edit 2 · Floating castle**
+
+```text
+Replace the background with a majestic floating castle, smaller floating islands, cascading waterfalls and a dragon flying overhead. Preserve the warm sunset, atmospheric haze and shallow depth of field. Keep the knight and foreground unchanged.
+```
+
+**Edit 3 · Recolor armor**
+
+```text
+Recolor the armor to ivory white with rich gold trim, replace emerald gemstones with rubies, and change green fabric panels to deep crimson. Preserve the armor design, blue cape, red hair, golden sword glow, pose and background.
+```
+
+Use the edits in order, passing the previous output into the next edit. The official page includes the starting-image prompt alongside Edit 1; the three archived images show the edited results.
+
+[Prompt original à la source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Auteur**: [Higgsfield](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Détails de la source](cases/launch-higgsfield/README.md)
+
+---
+
+<a id="source-case-community-marco-reference-photo-board"></a>
+
+#### 32. Reference-led courtyard photo board
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-reference-photo-board/reference-output-board.webp"><img src="assets/examples/community-marco-reference-photo-board/reference-output-board.webp" alt="Creator composite: labelled Runway reference at upper left and GPT 2.6 courtyard views" width="700" /></a><br /><sub>Creator composite: labelled Runway reference at upper left and GPT 2.6 courtyard views</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/ai_artworkgen/status/2118235673727500369) · [Détails de la source](cases/community-marco-reference-photo-board/README.md)
+
+---
+
+<a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
+
+#### 33. Sunburst courtyard comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-sunburst-courtyard-comparison/comparison.webp"><img src="assets/examples/community-marco-sunburst-courtyard-comparison/comparison.webp" alt="Top: GPT 2.6 Sunburst courtyard portrait; bottom: GPT 2.5 Sunburst baseline" width="700" /></a><br /><sub>Top: GPT 2.6 Sunburst courtyard portrait; bottom: GPT 2.5 Sunburst baseline</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/ai_artworkgen/status/2118235678328893803) · [Détails de la source](cases/community-marco-sunburst-courtyard-comparison/README.md)
+
+---
+
+<a id="source-case-community-marco-mushroom-fashion-portrait"></a>
+
+#### 34. Mushroom-lit fashion portrait
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-mushroom-fashion-portrait/portrait.webp"><img src="assets/examples/community-marco-mushroom-fashion-portrait/portrait.webp" alt="Fashion portrait with metallic clothing and large mushrooms" width="700" /></a><br /><sub>Fashion portrait with metallic clothing and large mushrooms</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Publisher model-settings screenshot, used as evidence; not a generation input or an additional output](assets/references/community-marco-mushroom-fashion-portrait/model-settings.webp)
+
+</details>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/ai_artworkgen/status/2118235684217692275) · [Détails de la source](cases/community-marco-mushroom-fashion-portrait/README.md)
+
+---
+
+<a id="source-case-nyle-sunburst-style-gallery"></a>
+
+#### 35. Sunburst six-style sample gallery
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-sunburst-style-gallery/source-01.png"><img src="assets/examples/nyle-sunburst-style-gallery/source-01.png" alt="Sunburst six-style sample gallery. One six-panel style series: business portrait, food photo, watercolor street, 3D illustration, bar chart and pixel-art street. This all-2.6 collage is a single series; clearly labelled comparisons are separate cases, while benchmark score charts are excluded. Exact prompts are not shown." width="700" /></a><br /><sub>Sunburst six-style sample gallery. One six-panel style series: business portrait, food photo, watercolor street, 3D illustration, bar chart and pixel-art street. This all-2.6 collage is a single series; clearly labelled comparisons are separate cases, while benchmark score charts are excluded. Exact prompts are not shown.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/content_studio/n/ndd9ab49a6dea) · [Détails de la source](cases/nyle-sunburst-style-gallery/README.md)
+
+---
+
+<a id="source-case-community-kokone-sunburst-calico"></a>
+
+#### 36. Sunburst calico cat by a window
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kokone-sunburst-calico/calico-window.png"><img src="assets/examples/community-kokone-sunburst-calico/calico-window.png" alt="Calico cat resting on a sunlit wooden windowsill" width="700" /></a><br /><sub>Calico cat resting on a sunlit wooden windowsill</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [ここね｜AI学習中](https://note.com/kokone_ailab/n/n58ea583f8d45)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/kokone_ailab/n/n58ea583f8d45) · [Détails de la source](cases/community-kokone-sunburst-calico/README.md)
+
+---
 
 <a id="category-markup-edits"></a>
 
 ### Annotations et retouches ciblées
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Recolor a marked vase](cases/docs-vase-markup/README.md) | Documentation officielle | Prompt original à la source |
-| [Translate an infographic into Spanish](cases/docs-spanish-edit/README.md) | Documentation officielle | Prompt original à la source |
-| [Transfer a pixel-art style](cases/docs-pixel-style/README.md) | Documentation officielle | Prompt original à la source |
-| [Combine pets across images](cases/docs-dog-composite/README.md) | Documentation officielle | Prompt original à la source |
-| [Turn a sketch into a realistic scene](cases/docs-sketch-render/README.md) | Documentation officielle | Prompt original à la source |
-| [Remove a held flower](cases/docs-remove-flower/README.md) | Documentation officielle | Prompt original à la source |
-| [Change the billboard scene to a snowy night](cases/docs-snow-edit/README.md) | Documentation officielle | Prompt original à la source |
-| [Rabbit storybook day-to-dusk edit](cases/community-flare-day-dusk-edit/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
-| [Webinar date replacement comparison](cases/nyle-webinar-date-edit/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+<a id="source-case-docs-vase-markup"></a>
+
+#### 37. Recolor a marked vase
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp" alt="GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table" width="360" /></a><br /><sub>GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table</sub></td>
+<td align="center"><a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed" width="360" /></a><br /><sub>GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Kitchen photo with a red circle around the striped vase on the dining table](assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [Détails de la source](cases/docs-vase-markup/README.md)
+
+---
+
+<a id="source-case-docs-spanish-edit"></a>
+
+#### 38. Translate an infographic into Spanish
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp" alt="Coffee machine diagram translated into Spanish — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Coffee machine diagram translated into Spanish — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp" alt="Coffee machine diagram translated into Spanish — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Coffee machine diagram translated into Spanish — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout) · [Détails de la source](cases/docs-spanish-edit/README.md)
+
+---
+
+<a id="source-case-docs-pixel-style"></a>
+
+#### 39. Transfer a pixel-art style
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp" alt="Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp" alt="Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Pixel-art game screen used as a style reference](assets/references/docs-pixel-style/pixels.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [Détails de la source](cases/docs-pixel-style/README.md)
+
+---
+
+<a id="source-case-docs-dog-composite"></a>
+
+#### 40. Combine pets across images
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp" alt="Dog placed beside the woman in the street scene — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Dog placed beside the woman in the street scene — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp" alt="Dog placed beside the woman in the street scene — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Dog placed beside the woman in the street scene — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Woman with a dog, the second compositing input](assets/references/docs-dog-composite/test-woman-2.webp)
+- [Reference input: Woman in a street scene, the first compositing input](assets/references/docs-dog-composite/test-woman.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#combine-references) · [Détails de la source](cases/docs-dog-composite/README.md)
+
+---
+
+<a id="source-case-docs-sketch-render"></a>
+
+#### 41. Turn a sketch into a realistic scene
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-flare.webp" alt="Photorealistic river valley rendered from the drawing — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Photorealistic river valley rendered from the drawing — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-sunburst.webp" alt="Photorealistic river valley rendered from the drawing — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Photorealistic river valley rendered from the drawing — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Line drawing of a river valley](assets/references/docs-sketch-render/drawings.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image) · [Détails de la source](cases/docs-sketch-render/README.md)
+
+---
+
+<a id="source-case-docs-remove-flower"></a>
+
+#### 42. Remove a held flower
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp" alt="Same man after the flower has been removed — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Same man after the flower has been removed — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp" alt="Same man after the flower has been removed — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Same man after the flower has been removed — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Reference input: Man holding a flower and wearing a blue cap](assets/references/docs-remove-flower/man-with-blue-hat.webp)
+
+</details>
+
+**Prompt original**
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object) · [Détails de la source](cases/docs-remove-flower/README.md)
+
+---
+
+<a id="source-case-docs-snow-edit"></a>
+
+#### 43. Change the billboard scene to a snowy night
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-flare.webp" alt="Shampoo billboard in a snowy evening scene — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Shampoo billboard in a snowy evening scene — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-sunburst.webp" alt="Shampoo billboard in a snowy evening scene — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Shampoo billboard in a snowy evening scene — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition) · [Détails de la source](cases/docs-snow-edit/README.md)
+
+---
+
+<a id="source-case-community-flare-day-dusk-edit"></a>
+
+#### 44. Rabbit storybook day-to-dusk edit
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-flare-day-dusk-edit/source-01.webp"><img src="assets/examples/community-flare-day-dusk-edit/source-01.webp" alt="Original rabbit-scene editing comparison composite with an input thumbnail: GPT Image 2.6 Flare (High) on the left; FLUX.2 Klein 4B Distilled Edit on the right." width="700" /></a><br /><sub>Original rabbit-scene editing comparison composite with an input thumbnail: GPT Image 2.6 Flare (High) on the left; FLUX.2 Klein 4B Distilled Edit on the right.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Disponibilité du prompt non vérifiée**
+
+**Auteur**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/DesignArena/status/2118124387639693686) · [Détails de la source](cases/community-flare-day-dusk-edit/README.md)
+
+---
+
+<a id="source-case-nyle-webinar-date-edit"></a>
+
+#### 45. Webinar date replacement comparison
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-webinar-date-edit/source-01.png"><img src="assets/examples/nyle-webinar-date-edit/source-01.png" alt="Webinar date replacement comparison. Original labelled composite retained without cropping. From top: input, 2.5 Sunburst comparison, 2.6 Sunburst result, 2.6 Flare result with an erroneous date. The small printed edit instruction is public in the source image." width="700" /></a><br /><sub>Webinar date replacement comparison. Original labelled composite retained without cropping. From top: input, 2.5 Sunburst comparison, 2.6 Sunburst result, 2.6 Flare result with an erroneous date. The small printed edit instruction is public in the source image.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+実施日時を「2027年1月21日（木）」に差し替える。ほかは変えない。
+```
+
+Transcribed from the instruction printed in the archived source comparison image.
+
+[Prompt original à la source](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Auteur**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/content_studio/n/ndd9ab49a6dea) · [Détails de la source](cases/nyle-webinar-date-edit/README.md)
+
+---
 
 <a id="category-svg-design-assets"></a>
 
 ### SVG et ressources graphiques
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Bakery SVG logo](cases/docs-bakery-svg/README.md) | Documentation officielle | Prompt original à la source |
-| [Farmers market mobile interface](cases/docs-market-ui/README.md) | Documentation officielle | Prompt original à la source |
-| [Bear mascot: SVG versus PNG previews](cases/community-bear-svg-comparison/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Code Lightning vector logo](cases/community-struggle-code-lightning-svg/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
+<a id="source-case-docs-bakery-svg"></a>
+
+#### 46. Bakery SVG logo
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="360" /></a><br /><sub>Flare SVG logo</sub></td>
+<td align="center"><a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg" alt="Sunburst SVG logo" width="360" /></a><br /><sub>Sunburst SVG logo</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [Détails de la source](cases/docs-bakery-svg/README.md)
+
+---
+
+<a id="source-case-docs-market-ui"></a>
+
+#### 47. Farmers market mobile interface
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp" alt="Farmers market mobile app mockup — GPT Image 2.6 Flare (official model output)" width="360" /></a><br /><sub>Farmers market mobile app mockup — GPT Image 2.6 Flare (official model output)</sub></td>
+<td align="center"><a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp" alt="Farmers market mobile app mockup — GPT Image 2.6 Sunburst (official model output)" width="360" /></a><br /><sub>Farmers market mobile app mockup — GPT Image 2.6 Sunburst (official model output)</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [Détails de la source](cases/docs-market-ui/README.md)
+
+---
+
+<a id="source-case-community-bear-svg-comparison"></a>
+
+#### 48. Bear mascot: SVG versus PNG previews
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-bear-svg-comparison/source-01.webp"><img src="assets/examples/community-bear-svg-comparison/source-01.webp" alt="Raster preview of the claimed SVG bear result" width="360" /></a><br /><sub>Raster preview of the claimed SVG bear result</sub></td>
+<td align="center"><a href="assets/examples/community-bear-svg-comparison/source-02.webp"><img src="assets/examples/community-bear-svg-comparison/source-02.webp" alt="Raster preview of the claimed PNG bear result" width="360" /></a><br /><sub>Raster preview of the claimed PNG bear result</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [pixexid (@pixexid)](https://x.com/pixexid)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/pixexid/status/2118153375464505689) · [Détails de la source](cases/community-bear-svg-comparison/README.md)
+
+---
+
+<a id="source-case-community-struggle-code-lightning-svg"></a>
+
+#### 49. Code Lightning vector logo
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-code-lightning-svg/62de72dff63229a2552216ee58ec142b.svg"><img src="assets/examples/community-struggle-code-lightning-svg/62de72dff63229a2552216ee58ec142b.svg" alt="White brackets and lightning on blue square" width="700" /></a><br /><sub>White brackets and lightning on blue square</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+设计一个极简扁平化风格的个人技术博客 Logo 图标：结合“代码括号 </>”与“闪电”元素，蓝白配色，线条干净利落，并直接导出为可编辑的 SVG 矢量文件给我。
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-code-lightning-svg/README.md)
+
+---
 
 <a id="category-gif-animation"></a>
 
 ### GIF et animation
 
-| Cas · page détaillée interne | Source | Prompt |
-| --- | --- | --- |
-| [Lantern-carrying monkey loop](cases/docs-lantern-gif/README.md) | Documentation officielle | Prompt original à la source |
-| [Office character: falling stock GIF](cases/launch-openart-down/README.md) | Démonstration officielle de lancement | Prompt original à la source |
-| [Office character: rising stock GIF](cases/launch-openart-up/README.md) | Démonstration officielle de lancement | Prompt original à la source |
-| [Owl sketch to animation](cases/launch-owl/README.md) | Démonstration officielle de lancement | Prompt non public |
-| [Monty typing indicator animation](cases/launch-town/README.md) | Démonstration officielle de lancement | Prompt non public |
-| [Summer character illustration animation](cases/community-malfoid/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Boxing tiger animation](cases/community-boxing-tiger/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Hummingbird and kingfisher animation variants](cases/community-hummingbird-variants/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Rosebud animation](cases/community-rosebud-animation/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [White bunny reaction sticker set](cases/ailingqu-bunny-reaction-set/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Cat typing furiously](cases/ailingqu-cat-typing-laptop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Frog blowing a heart](cases/ailingqu-frog-heart-bubble/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Penguin facepalm](cases/ailingqu-penguin-facepalm/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Black cat punch](cases/ailingqu-black-cat-punch/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Office cat workday reaction set](cases/ailingqu-office-cat-workday-set/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Roaring duck](cases/ailingqu-roaring-duck/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Flower macro flash cut](cases/ailingqu-flower-macro-flash/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [One tree, four seasons](cases/ailingqu-four-seasons-tree/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Reading by the window, day to night](cases/ailingqu-window-day-to-night/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Steaming coffee loop](cases/ailingqu-steaming-coffee/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Rainy window and plant](cases/ailingqu-rain-on-window/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Goldfish in a bowl](cases/ailingqu-goldfish-bowl/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Lighthouse at night](cases/ailingqu-lighthouse-night/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Lo-fi study loop](cases/ailingqu-lofi-study-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Café cinemagraph](cases/ailingqu-cafe-cinemagraph/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Doodle monster comes alive](cases/ailingqu-doodle-monster/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Pixel art campfire](cases/ailingqu-pixel-campfire/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Pixel knight run cycle](cases/ailingqu-pixel-knight-run/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Robin cat wink and falling name hat](cases/community-ozan-robin-wink-hat/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Blue-haired maid dialogue prototype](cases/community-mirochill-anime-dialogue-prototype/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Ram Altman memory-stick parody](cases/community-mirochill-ram-altman-animation/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Moonlit magical-girl dance](cases/community-struggle-sailor-dance/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Clay orange cat typing](cases/community-struggle-cat-programmer/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Desk photograph cleanup and animation](cases/community-struggle-desk-animation/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Ten parody web-ad GIFs: a Japanese creator test](cases/community-zunbeho-parody-ad-gifs/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
-| [Pixel♡Love: swimming-character animation contact sheet](cases/community-temae-pixel-love-swimming-sheet/README.md) | Modèle déclaré par le créateur | Prompt non public |
-| [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | Modèle déclaré par le créateur | Prompt original à la source |
-| [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
-| [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | Modèle déclaré par le créateur | Disponibilité du prompt non vérifiée |
+<a id="source-case-docs-lantern-gif"></a>
+
+#### 50. Lantern-carrying monkey loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="Original monkey GIF" width="700" /></a><br /><sub>Original monkey GIF</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+[Prompt original à la source](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+**Auteur**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+**Source originale**: [Documentation officielle](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif) · [Détails de la source](cases/docs-lantern-gif/README.md)
+
+---
+
+<a id="source-case-launch-openart-down"></a>
+
+#### 51. Office character: falling stock GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-openart-down/source-01.webp"><img src="assets/examples/launch-openart-down/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart.
+Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first.
+Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+[Prompt original à la source](https://openai.com/index/introducing-images-2-6/)
+
+**Auteur**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/) · [Détails de la source](cases/launch-openart-down/README.md)
+
+---
+
+<a id="source-case-launch-openart-up"></a>
+
+#### 52. Office character: rising stock GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-openart-up/source-01.webp"><img src="assets/examples/launch-openart-up/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing.
+Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first.
+Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+[Prompt original à la source](https://openai.com/index/introducing-images-2-6/)
+
+**Auteur**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/) · [Détails de la source](cases/launch-openart-up/README.md)
+
+---
+
+<a id="source-case-launch-owl"></a>
+
+#### 53. Owl sketch to animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-owl/source-02.webp"><img src="assets/examples/launch-owl/source-02.webp" alt="Static poster 2" width="700" /></a><br /><sub>Static poster 2</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Source image 1](assets/references/launch-owl/source-01.webp)
+
+</details>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/) · [Détails de la source](cases/launch-owl/README.md)
+
+---
+
+<a id="source-case-launch-town"></a>
+
+#### 54. Monty typing indicator animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Town](https://openai.com/index/introducing-images-2-6/)
+
+**Source originale**: [Démonstration officielle de lancement](https://openai.com/index/introducing-images-2-6/) · [Détails de la source](cases/launch-town/README.md)
+
+---
+
+<a id="source-case-community-malfoid"></a>
+
+#### 55. Summer character illustration animation
+
+**Images non encore archivées** · [Voir l’œuvre à sa source originale](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [u/Junior-Grade-2965](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
+
+**Source originale**: [Modèle déclaré par le créateur](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/) · [Détails de la source](cases/community-malfoid/README.md)
+
+---
+
+<a id="source-case-community-gifts"></a>
+
+#### 56. Images 2.6 brings GIF(T)S :D
+
+**Images non encore archivées** · [Voir l’œuvre à sa source originale](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [u/Algoartist](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
+
+**Source originale**: [Modèle déclaré par le créateur](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/) · [Détails de la source](cases/community-gifts/README.md)
+
+---
+
+<a id="source-case-community-boxing-tiger"></a>
+
+#### 57. Boxing tiger animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-boxing-tiger/source-01.mp4"><img src="assets/readme-previews/community-boxing-tiger/source-01.jpg" alt="X-served MP4 of the boxing tiger animation" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>X-served MP4 of the boxing tiger animation</sub></td>
+<td align="center"><a href="assets/examples/community-boxing-tiger/source-02.webp"><img src="assets/examples/community-boxing-tiger/source-02.webp" alt="Static boxing tiger preview, not a GIF" width="360" /></a><br /><sub>Static boxing tiger preview, not a GIF</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Archiefff (@baiji57165)](https://x.com/baiji57165)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/baiji57165/status/2118176730079007145) · [Détails de la source](cases/community-boxing-tiger/README.md)
+
+---
+
+<a id="source-case-community-hummingbird-variants"></a>
+
+#### 58. Hummingbird and kingfisher animation variants
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-01.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-01.jpg" alt="Hummingbird animation variant 1, X-served MP4" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Hummingbird animation variant 1, X-served MP4</sub></td>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-02.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-02.jpg" alt="Hummingbird animation variant 2, X-served MP4" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Hummingbird animation variant 2, X-served MP4</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-03.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-03.jpg" alt="Kingfisher animation variant 3, X-served MP4" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Kingfisher animation variant 3, X-served MP4</sub></td>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-04.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-04.jpg" alt="Kingfisher animation variant 4, X-served MP4" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Kingfisher animation variant 4, X-served MP4</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-05.webp"><img src="assets/examples/community-hummingbird-variants/source-05.webp" alt="Static hummingbird and hibiscus preview, not a GIF" width="360" /></a><br /><sub>Static hummingbird and hibiscus preview, not a GIF</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Dheepan Ratnam (@Dheepanratnam)](https://x.com/Dheepanratnam)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/Dheepanratnam/status/2118138765487100027) · [Détails de la source](cases/community-hummingbird-variants/README.md)
+
+---
+
+<a id="source-case-community-rosebud-animation"></a>
+
+#### 59. Rosebud animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-rosebud-animation/source-01.mp4"><img src="assets/readme-previews/community-rosebud-animation/source-01.jpg" alt="X-served MP4 of the rosebud animation" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>X-served MP4 of the rosebud animation</sub></td>
+<td align="center"><a href="assets/examples/community-rosebud-animation/source-02.webp"><img src="assets/examples/community-rosebud-animation/source-02.webp" alt="Static rosebud preview, not a GIF" width="360" /></a><br /><sub>Static rosebud preview, not a GIF</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Michael Guo (@Michaelzsguo)](https://x.com/Michaelzsguo)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/Michaelzsguo/status/2118134837357744435) · [Détails de la source](cases/community-rosebud-animation/README.md)
+
+---
+
+<a id="source-case-ailingqu-jelly-bear-wobble"></a>
+
+#### 60. Jelly bear wobble
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif"><img src="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif" alt="Jelly bear wobble" width="700" /></a><br /><sub>Jelly bear wobble</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A chubby round cartoon bear with a soft jelly-like body and stubby arms, squishing down and springing back up while wobbling side to side, cheeks jiggling on every bounce. Thick clean outlines, flat pastel colors, centered on a plain solid mint-green background that contrasts strongly with the bear.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-jelly-bear-wobble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-bunny-reaction-set"></a>
+
+#### 61. White bunny reaction sticker set
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif" alt="Bunny thumbs-up" width="360" /></a><br /><sub>Bunny thumbs-up</sub></td>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif" alt="Bunny laughing to tears" width="360" /></a><br /><sub>Bunny laughing to tears</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif" alt="Sleepy bunny" width="360" /></a><br /><sub>Sleepy bunny</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Bunny thumbs-up**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**Bunny laughing to tears**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**Sleepy bunny**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-bunny-reaction-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-waving-hello"></a>
+
+#### 62. Cartoon cat waving hello
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif"><img src="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif" alt="Cartoon cat waving hello" width="700" /></a><br /><sub>Cartoon cat waving hello</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A cheerful cartoon cat waving hello.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cat-waving-hello/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-shiba-head-tilt"></a>
+
+#### 63. Confused shiba head tilt
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif"><img src="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif" alt="Confused shiba head tilt" width="700" /></a><br /><sub>Confused shiba head tilt</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-shiba-head-tilt/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-typing-laptop"></a>
+
+#### 64. Cat typing furiously
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif"><img src="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif" alt="Cat typing furiously" width="700" /></a><br /><sub>Cat typing furiously</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cat-typing-laptop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-frog-heart-bubble"></a>
+
+#### 65. Frog blowing a heart
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif"><img src="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif" alt="Frog blowing a heart" width="700" /></a><br /><sub>Frog blowing a heart</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-frog-heart-bubble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-penguin-facepalm"></a>
+
+#### 66. Penguin facepalm
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif"><img src="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif" alt="Penguin facepalm" width="700" /></a><br /><sub>Penguin facepalm</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-penguin-facepalm/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-basketball-shot-sticker"></a>
+
+#### 67. Basketball shot celebration
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif"><img src="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif" alt="Basketball shot celebration" width="700" /></a><br /><sub>Basketball shot celebration</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-basketball-shot-sticker/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-chef-fried-rice"></a>
+
+#### 68. Cat chef tossing fried rice
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif"><img src="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif" alt="Cat chef tossing fried rice" width="700" /></a><br /><sub>Cat chef tossing fried rice</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cat-chef-fried-rice/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-black-cat-punch"></a>
+
+#### 69. Black cat punch
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif"><img src="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif" alt="Black cat punch" width="700" /></a><br /><sub>Black cat punch</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-black-cat-punch/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-office-cat-workday-set"></a>
+
+#### 70. Office cat workday reaction set
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif" alt="Office cat: exhausted" width="360" /></a><br /><sub>Office cat: exhausted</sub></td>
+<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif" alt="Office cat: clocking out" width="360" /></a><br /><sub>Office cat: clocking out</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Office cat: exhausted**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**Office cat: clocking out**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-office-cat-workday-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-roaring-duck"></a>
+
+#### 71. Roaring duck
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-roaring-duck/roaring-duck.gif"><img src="assets/examples/ailingqu-roaring-duck/roaring-duck.gif" alt="Roaring duck" width="700" /></a><br /><sub>Roaring duck</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-roaring-duck/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-flower-macro-flash"></a>
+
+#### 72. Flower macro flash cut
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif"><img src="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif" alt="Flower macro flash cut" width="700" /></a><br /><sub>Flower macro flash cut</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-flower-macro-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-brand-reel"></a>
+
+#### 73. Cat-head logo brand reel
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif"><img src="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif" alt="Cat-head logo brand reel" width="700" /></a><br /><sub>Cat-head logo brand reel</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cat-brand-reel/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-sneaker-colorway-flash"></a>
+
+#### 74. Sneaker colorway flash
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif"><img src="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif" alt="Sneaker colorway flash" width="700" /></a><br /><sub>Sneaker colorway flash</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-sneaker-colorway-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-four-seasons-tree"></a>
+
+#### 75. One tree, four seasons
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="One tree, four seasons" width="700" /></a><br /><sub>One tree, four seasons</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-magazine-panels-pop"></a>
+
+#### 76. Magazine collage panels pop in
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif"><img src="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif" alt="Magazine collage panels pop in" width="700" /></a><br /><sub>Magazine collage panels pop in</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading "WEEKEND" slides in. Clean editorial design, cream background, coral and navy accents.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-magazine-panels-pop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-window-day-to-night"></a>
+
+#### 77. Reading by the window, day to night
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="Reading by the window, day to night" width="700" /></a><br /><sub>Reading by the window, day to night</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-steaming-coffee"></a>
+
+#### 78. Steaming coffee loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif"><img src="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif" alt="Steaming coffee loop" width="700" /></a><br /><sub>Steaming coffee loop</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A steaming cup of coffee on a small wooden table, steam curling and drifting upward, a tiny spoon wobbling on the saucer. Cozy flat illustration with warm colors.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-steaming-coffee/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-rain-on-window"></a>
+
+#### 79. Rainy window and plant
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-rain-on-window/rain-on-window.gif"><img src="assets/examples/ailingqu-rain-on-window/rain-on-window.gif" alt="Rainy window and plant" width="700" /></a><br /><sub>Rainy window and plant</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A rainy window at dusk with a small potted plant on the sill, raindrops sliding down the glass and blurry city lights twinkling outside. Soft muted blue palette, lo-fi illustration style.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-rain-on-window/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-goldfish-bowl"></a>
+
+#### 80. Goldfish in a bowl
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="Goldfish in a bowl" width="700" /></a><br /><sub>Goldfish in a bowl</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lighthouse-night"></a>
+
+#### 81. Lighthouse at night
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif"><img src="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif" alt="Lighthouse at night" width="700" /></a><br /><sub>Lighthouse at night</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-lighthouse-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-by-fireplace"></a>
+
+#### 82. Cat sleeping by the fireplace
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif"><img src="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif" alt="Cat sleeping by the fireplace" width="700" /></a><br /><sub>Cat sleeping by the fireplace</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cat-by-fireplace/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lantern-monkey-snow"></a>
+
+#### 83. Lantern monkey in the snow
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif"><img src="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif" alt="Lantern monkey in the snow" width="700" /></a><br /><sub>Lantern monkey in the snow</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-lantern-monkey-snow/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-sleepy-fox-rock"></a>
+
+#### 84. Sleepy fox on a mossy rock
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif"><img src="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif" alt="Sleepy fox on a mossy rock" width="700" /></a><br /><sub>Sleepy fox on a mossy rock</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-sleepy-fox-rock/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lofi-study-loop"></a>
+
+#### 85. Lo-fi study loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif"><img src="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif" alt="Lo-fi study loop" width="700" /></a><br /><sub>Lo-fi study loop</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-lofi-study-loop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cafe-cinemagraph"></a>
+
+#### 86. Café cinemagraph
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif"><img src="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif" alt="Café cinemagraph" width="700" /></a><br /><sub>Café cinemagraph</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-cafe-cinemagraph/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-ink-wash-horse"></a>
+
+#### 87. Ink-wash galloping horse
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif"><img src="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif" alt="Ink-wash galloping horse" width="700" /></a><br /><sub>Ink-wash galloping horse</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-ink-wash-horse/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-doodle-monster"></a>
+
+#### 88. Doodle monster comes alive
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="Doodle monster comes alive" width="700" /></a><br /><sub>Doodle monster comes alive</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-campfire"></a>
+
+#### 89. Pixel art campfire
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="Pixel art campfire" width="700" /></a><br /><sub>Pixel art campfire</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-bouncing-dots-loader"></a>
+
+#### 90. Bouncing dots loader
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif"><img src="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif" alt="Bouncing dots loader" width="700" /></a><br /><sub>Bouncing dots loader</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A minimal loading animation: three rounded dots in coral, violet and teal bouncing up and down one after another in a wave, with soft squash on landing. Flat vector style on a plain off-white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-bouncing-dots-loader/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-knight-run"></a>
+
+#### 91. Pixel knight run cycle
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif"><img src="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif" alt="Pixel knight run cycle" width="700" /></a><br /><sub>Pixel knight run cycle</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-pixel-knight-run/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-like-heart-burst"></a>
+
+#### 92. Like button heart burst
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif"><img src="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif" alt="Like button heart burst" width="700" /></a><br /><sub>Like button heart burst</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-like-heart-burst/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-hourglass-flip"></a>
+
+#### 93. Hourglass loading
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif"><img src="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif" alt="Hourglass loading" width="700" /></a><br /><sub>Hourglass loading</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-hourglass-flip/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-arcade-vs-screen"></a>
+
+#### 94. Arcade VS screen
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif"><img src="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif" alt="Arcade VS screen" width="700" /></a><br /><sub>Arcade VS screen</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge "VS" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-arcade-vs-screen/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-slime-boss"></a>
+
+#### 95. 8-bit slime boss battle
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif"><img src="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif" alt="8-bit slime boss battle" width="700" /></a><br /><sub>8-bit slime boss battle</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-pixel-slime-boss/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-love-burst-skill"></a>
+
+#### 96. Love-burst skill animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif"><img src="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif" alt="Love-burst skill animation" width="700" /></a><br /><sub>Love-burst skill animation</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A chibi magical girl with a pink bob raises her wand and casts a "love burst" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-love-burst-skill/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-junkyard-robot-walk"></a>
+
+#### 97. Junkyard robot walk cycle
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif"><img src="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif" alt="Junkyard robot walk cycle" width="700" /></a><br /><sub>Junkyard robot walk cycle</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Prompt original à la source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**Auteur**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**Source originale**: [Modèle déclaré par le créateur](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Détails de la source](cases/ailingqu-junkyard-robot-walk/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-community-ozan-robin-wink-hat"></a>
+
+#### 98. Robin cat wink and falling name hat
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-ozan-robin-wink-hat/animation.mp4"><img src="assets/readme-previews/community-ozan-robin-wink-hat/animation.jpg" alt="Gray cat winking and receiving a Robin cap" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Gray cat winking and receiving a Robin cap</sub></td>
+<td align="center"><a href="assets/examples/community-ozan-robin-wink-hat/poster.webp"><img src="assets/examples/community-ozan-robin-wink-hat/poster.webp" alt="Static source poster for Robin cat wink and falling name hat" width="360" /></a><br /><sub>Static source poster for Robin cat wink and falling name hat</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırpsın ve kafasına Robin yazan bir şapka düşsün.
+```
+
+[Prompt original à la source](https://x.com/ozansihay/status/2118238946412953985)
+
+**Auteur**: [Ozan Sihay (@ozansihay)](https://x.com/ozansihay)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/ozansihay/status/2118238946412953985) · [Détails de la source](cases/community-ozan-robin-wink-hat/README.md)
+
+---
+
+<a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
+
+#### 99. Blue-haired maid dialogue prototype
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-mirochill-anime-dialogue-prototype/animation.mp4"><img src="assets/readme-previews/community-mirochill-anime-dialogue-prototype/animation.jpg" alt="Blue-haired anime maid changing expression with English dialogue subtitles" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Blue-haired anime maid changing expression with English dialogue subtitles</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Mirochill (@mirochill)](https://x.com/mirochill)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/mirochill/status/2118328887348191491) · [Détails de la source](cases/community-mirochill-anime-dialogue-prototype/README.md)
+
+---
+
+<a id="source-case-community-mirochill-ram-altman-animation"></a>
+
+#### 100. Ram Altman memory-stick parody
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-mirochill-ram-altman-animation/animation.mp4"><img src="assets/readme-previews/community-mirochill-ram-altman-animation/animation.jpg" alt="AI parody of Sam Altman biting a computer memory stick" width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>AI parody of Sam Altman biting a computer memory stick</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [Mirochill (@mirochill)](https://x.com/mirochill)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/mirochill/status/2118267971025944955) · [Détails de la source](cases/community-mirochill-ram-altman-animation/README.md)
+
+---
+
+<a id="source-case-community-struggle-sailor-dance"></a>
+
+#### 101. Moonlit magical-girl dance
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif"><img src="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif" alt="Magical girl dancing at night" width="700" /></a><br /><sub>Magical girl dancing at night</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+创建一个 GIF，内容是 一位美少女战士在跳舞
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-sailor-dance/README.md)
+
+---
+
+<a id="source-case-community-struggle-cat-programmer"></a>
+
+#### 102. Clay orange cat typing
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-cat-programmer/8ed3d79aa8c9de6c2722d2426f9a406f.gif"><img src="assets/examples/community-struggle-cat-programmer/8ed3d79aa8c9de6c2722d2426f9a406f.gif" alt="Orange cat typing with coffee nearby" width="700" /></a><br /><sub>Orange cat typing with coffee nearby</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+```text
+帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-cat-programmer/README.md)
+
+---
+
+<a id="source-case-community-struggle-desk-animation"></a>
+
+#### 103. Desk photograph cleanup and animation
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-desk-animation/a4f35dfc424561c644adc7533b89ff8e.gif"><img src="assets/examples/community-struggle-desk-animation/a4f35dfc424561c644adc7533b89ff8e.gif" alt="Sunflower and doll on cleaned desk" width="700" /></a><br /><sub>Sunflower and doll on cleaned desk</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Original desktop photograph](https://i-blog.csdnimg.cn/img_convert/28c1519fce92a17d56fef731dcf02691.jpeg)
+
+</details>
+
+**Prompt original**
+
+```text
+严格保留我上传照片里的主体外观和桌面环境不变，把黑色的线删掉，保留向日葵和玩偶，后面的蓝色背景优化成干净一点的背景，把它变成一张有趣的循环 GIF 动图：让画面里的主体轻轻弹跳并眨眼打招呼。
+```
+
+[Prompt original à la source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Auteur**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Détails de la source](cases/community-struggle-desk-animation/README.md)
+
+---
+
+<a id="source-case-community-zunbeho-parody-ad-gifs"></a>
+
+#### 104. Ten parody web-ad GIFs: a Japanese creator test
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-01.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-01.gif" alt="English-lesson parody banner with an animated instructor and moving close button." width="360" /></a><br /><sub>English-lesson parody banner with an animated instructor and moving close button.</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-02.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-02.gif" alt="Hair-removal salon parody banner with a repeating countdown and flashing discount text." width="360" /></a><br /><sub>Hair-removal salon parody banner with a repeating countdown and flashing discount text.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-03.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-03.gif" alt="Property-investment seminar parody banner with a presenter, rising chart and expanding sales text." width="360" /></a><br /><sub>Property-investment seminar parody banner with a presenter, rising chart and expanding sales text.</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-05.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-05.gif" alt="AI-companion parody ad with an anime character whose expression changes during the loop." width="360" /></a><br /><sub>AI-companion parody ad with an anime character whose expression changes during the loop.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-06.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-06.gif" alt="Security-software parody ad showing changing fake threat counts and an animated scan button." width="360" /></a><br /><sub>Security-software parody ad showing changing fake threat counts and an animated scan button.</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-07.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-07.gif" alt="Recruitment-agency parody ad with a gesturing presenter and scrolling news-style salary ticker." width="360" /></a><br /><sub>Recruitment-agency parody ad with a gesturing presenter and scrolling news-style salary ticker.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-08.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-08.gif" alt="Online-shopping coupon parody with a returning popup and changing character expression." width="360" /></a><br /><sub>Online-shopping coupon parody with a returning popup and changing character expression.</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-09.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-09.gif" alt="Online-fitness parody banner with a muscular instructor changing pose and expression." width="360" /></a><br /><sub>Online-fitness parody banner with a muscular instructor changing pose and expression.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-10.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-10.gif" alt="Streaming-service parody banner with successively appearing promotional cards." width="360" /></a><br /><sub>Streaming-service parody banner with successively appearing promotional cards.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Disponibilité du prompt non vérifiée**
+
+**Auteur**: [Zun-Beho](https://note.com/akikito/n/ne6232185c3c4)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/akikito/n/ne6232185c3c4) · [Détails de la source](cases/community-zunbeho-parody-ad-gifs/README.md)
+
+---
+
+<a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
+
+#### 105. Pixel♡Love: swimming-character animation contact sheet
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-temae-pixel-love-swimming-sheet/swimming-frames.png"><img src="assets/examples/community-temae-pixel-love-swimming-sheet/swimming-frames.png" alt="Static two-row contact sheet of a dark-haired, pink-clad pixel character swimming through sixteen poses." width="700" /></a><br /><sub>Static two-row contact sheet of a dark-haired, pink-clad pixel character swimming through sixteen poses.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Prompt non public**
+
+**Auteur**: [❐てまえ❐ (temae)](https://note.com/temae/n/n5b9b365d8c99)
+
+**Source originale**: [Modèle déclaré par le créateur](https://note.com/temae/n/n5b9b365d8c99) · [Détails de la source](cases/community-temae-pixel-love-swimming-sheet/README.md)
+
+---
+
+<a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
+
+#### 106. Tanjiro pixel-art water-slash loop
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-tanjiro-pixel-loop/source-01.mp4"><img src="assets/readme-previews/community-kiki-tanjiro-pixel-loop/source-01.jpg" alt="Pixel-art swordsman swinging a blade through a curling blue water effect." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Pixel-art swordsman swinging a blade through a curling blue water effect.</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Images de référence</summary>
+
+Image de référence / d’entrée, et non résultat généré.
+
+- [Source-attached character reference; file retrieval unresolved.](https://pbs.twimg.com/media/HWWEpmba0AAmqWc?format=webp&name=large)
+
+</details>
+
+**Prompt original**
+
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
+
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+[Prompt original à la source](https://x.com/Mayz1169/status/2118246507128541553)
+
+**Auteur**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/Mayz1169/status/2118245929505669260) · [Détails de la source](cases/community-kiki-tanjiro-pixel-loop/README.md)
+
+---
+
+<a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
+
+#### 107. Heartbeat dance modes: source poster
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-heartbeat-dance-comparison/poster-01.webp"><img src="assets/examples/community-kiki-heartbeat-dance-comparison/poster-01.webp" alt="Static three-column Low, Medium and High poster with a pink-haired character." width="700" /></a><br /><sub>Static three-column Low, Medium and High poster with a pink-haired character.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Disponibilité du prompt non vérifiée**
+
+**Auteur**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/Mayz1169/status/2118241781074862569) · [Détails de la source](cases/community-kiki-heartbeat-dance-comparison/README.md)
+
+---
+
+<a id="source-case-community-kiki-malfoid-mood-stickers"></a>
+
+#### 108. Six Miss Malfoid mood sticker loops
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-01.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-01.jpg" alt="Cat-eared chibi character blushing and covering her face." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character blushing and covering her face.</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-02.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-02.jpg" alt="Cat-eared chibi character bristling in anger." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character bristling in anger.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-03.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-03.jpg" alt="Cat-eared chibi character crossing her arms dismissively." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character crossing her arms dismissively.</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-04.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-04.jpg" alt="Cat-eared chibi character crying with large tears." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character crying with large tears.</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-05.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-05.jpg" alt="Cat-eared chibi character giving a pleased reaction." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character giving a pleased reaction.</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-06.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-06.jpg" alt="Cat-eared chibi character making a green heart gesture." width="360" /><br />Première image · Ouvrir la vidéo</a><br /><sub>Cat-eared chibi character making a green heart gesture.</sub></td>
+</tr>
+</table>
+
+**Prompt original**
+
+**Disponibilité du prompt non vérifiée**
+
+**Auteur**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**Source originale**: [Modèle déclaré par le créateur](https://x.com/Mayz1169/status/2118355858208010412) · [Détails de la source](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+---
 
 [Journal de recherche, rapport sur les médias et pistes non résolues](docs/CASE_GALLERY.md)
-
-<a id="collection"></a>
-
-## 📝 Prompts complets
-
-Aucun prompt complet n’est encore republié ici. Les pages des cas renvoient aux véritables prompts originaux lorsqu’ils sont publics et signalent explicitement les prompts manquants. Une entrée avec un lien source n’est pas une entrée contenant un prompt à copier.
 
 <a id="using"></a>
 

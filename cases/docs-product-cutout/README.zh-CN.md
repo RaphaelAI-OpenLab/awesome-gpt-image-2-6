@@ -35,9 +35,15 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
 ## 来源与核对信息
 

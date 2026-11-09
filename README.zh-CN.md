@@ -27,7 +27,7 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 **[浏览仓库内全部案例 →](#all-cases)**
 
-下方每条案例都链接到仓库内部详情页，包含模型依据、来源署名与提示词状态。
+下方直接展示案例图片与可复制的原始提示词，每条底部保留作者和来源署名。
 
 [外站素材目录（不计入本页分类与统计）](external-sites/README.md)
 
@@ -45,14 +45,14 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 
 | 分类 | 来源案例 | 完整提示词 |
 | --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 7 | 0 |
-| [海报与文字排版](#category-posters-typography) | 8 | 0 |
-| [信息图](#category-infographics) | 3 | 0 |
-| [室内与建筑](#category-interiors-architecture) | 3 | 0 |
-| [角色与一致性](#category-characters-consistency) | 15 | 0 |
-| [标注与局部编辑](#category-markup-edits) | 9 | 0 |
-| [SVG 与设计素材](#category-svg-design-assets) | 4 | 0 |
-| [GIF 与动画](#category-gif-animation) | 59 | 0 |
+| [品牌与商品](#category-brand-products) | 7 | 6 |
+| [海报与文字排版](#category-posters-typography) | 8 | 6 |
+| [信息图](#category-infographics) | 3 | 3 |
+| [室内与建筑](#category-interiors-architecture) | 3 | 2 |
+| [角色与一致性](#category-characters-consistency) | 15 | 12 |
+| [标注与局部编辑](#category-markup-edits) | 9 | 8 |
+| [SVG 与设计素材](#category-svg-design-assets) | 4 | 3 |
+| [GIF 与动画](#category-gif-animation) | 59 | 49 |
 
 <a id="contents"></a>
 
@@ -88,7 +88,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | 官方案例 | **37** |
 | 社区作者自报案例 | **71** |
 | 来源公开原始提示词 | **82** |
-| 仓库内完整提示词 | **0** |
+| 仓库内完整提示词 | **89** |
 | 本地收录素材文件 | **176** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
@@ -100,18 +100,18 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="cases/docs-bakery-svg/README.zh-CN.md"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="280" /><br /><strong>面包店 SVG 标志</strong></a><br />官方文档</td>
-<td width="33%" align="center"><a href="cases/docs-lantern-gif/README.zh-CN.md"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="提灯猴原始 GIF" width="280" /><br /><strong>提灯猴循环 GIF</strong></a><br />官方文档</td>
-<td width="33%" align="center"><a href="cases/launch-fal/README.zh-CN.md"><img src="assets/examples/launch-fal/source-02.png" alt="编辑后" width="280" /><br /><strong>客厅标注编辑</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="#source-case-docs-bakery-svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="280" /><br /><strong>面包店 SVG 标志</strong></a><br />官方文档</td>
+<td width="33%" align="center"><a href="#source-case-docs-lantern-gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="提灯猴原始 GIF" width="280" /><br /><strong>提灯猴循环 GIF</strong></a><br />官方文档</td>
+<td width="33%" align="center"><a href="#source-case-launch-fal"><img src="assets/examples/launch-fal/source-02.png" alt="编辑后" width="280" /><br /><strong>客厅标注编辑</strong></a><br />官方发布演示</td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="cases/launch-sable/README.zh-CN.md"><img src="assets/examples/launch-sable/source-01.webp" alt="产品场景" width="280" /><br /><strong>品牌产品微缩场景</strong></a><br />官方发布演示</td>
-<td width="33%" align="center"><a href="cases/launch-higgsfield/README.zh-CN.md"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="280" /><br /><strong>骑士连续换景换装</strong></a><br />官方发布演示</td>
-<td width="33%" align="center"><a href="cases/community-malfoid/README.zh-CN.md"><img src="assets/media-placeholder-zh-CN.svg" alt="占位图，不是模型输出" width="280" /><br /><strong>夏日角色插画动画</strong></a><br />作者自报模型</td>
+<td width="33%" align="center"><a href="#source-case-launch-sable"><img src="assets/examples/launch-sable/source-01.webp" alt="产品场景" width="280" /><br /><strong>品牌产品微缩场景</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="#source-case-launch-higgsfield"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="280" /><br /><strong>骑士连续换景换装</strong></a><br />官方发布演示</td>
+<td width="33%" align="center"><a href="#source-case-docs-complexity"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，高复杂度）" width="280" /><br /><strong>纸艺夺冠场景：复杂度比较</strong></a><br />官方文档</td>
 </tr>
 </table>
 
-占位卡片不是生成结果。展示素材均使用仓库本地文件；暂未入库的原素材在详情页保留来源链接；已入库素材逐条注明授权状态，未确认许可证的不标为开放许可。
+视频预览是首帧静态图，点击可打开动画文件；参考图与来源封面均单独标注。
 
 <a id="latest"></a>
 
@@ -119,188 +119,3125 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
-| 2026-11-06 | [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 |
-| 2026-11-06 | [点赞爱心爆开](cases/ailingqu-like-heart-burst/README.zh-CN.md) | 作者自报模型 |
+| 2026-11-06 | [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk) | 作者自报模型 |
+| 2026-11-06 | [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill) | 作者自报模型 |
+| 2026-11-06 | [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss) | 作者自报模型 |
+| 2026-11-06 | [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen) | 作者自报模型 |
+| 2026-11-06 | [沙漏加载](#source-case-ailingqu-hourglass-flip) | 作者自报模型 |
+| 2026-11-06 | [点赞爱心爆开](#source-case-ailingqu-like-heart-burst) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
 ## 📋 全部案例
 
+<a id="collection"></a>
+
+原始提示词保留来源语言，可直接复制；未公开或待核验的提示词明确标注，不根据图片补写。
+
 <a id="category-brand-products"></a>
 
 ### 品牌与商品
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [面包店透明位图标志](cases/docs-bakery-raster/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [商品透明背景抠图](cases/docs-product-cutout/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [玩具飞机包装](cases/docs-toy-package/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [品牌产品微缩场景](cases/launch-sable/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
-| [旅行视觉生成速度对比](cases/launch-travel/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
-| [水中修表微距测试](cases/community-hn-watchmaker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [AURORA橙色香水商品图](cases/community-struggle-aurora-perfume/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+<a id="source-case-docs-bakery-raster"></a>
+
+#### 1. 面包店透明位图标志
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-flare.webp" alt="含面包、麦穗或田垄图形的 Field &amp; Flour 烘焙品牌标志（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>含面包、麦穗或田垄图形的 Field &amp; Flour 烘焙品牌标志（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-bakery-raster/logo-generation-1-gpt-image-2-6-sunburst.webp" alt="含面包、麦穗或田垄图形的 Field &amp; Flour 烘焙品牌标志（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>含面包、麦穗或田垄图形的 Field &amp; Flour 烘焙品牌标志（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [来源详情](cases/docs-bakery-raster/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-product-cutout"></a>
+
+#### 2. 商品透明背景抠图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-flare.webp" alt="透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-product-cutout/extract-product-gpt-image-2-6-sunburst.webp" alt="透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>透明背景上的独立洗发水瓶产品抠图（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：原始洗发水产品照片](assets/references/docs-product-cutout/shampoo.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout) · [来源详情](cases/docs-product-cutout/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-toy-package"></a>
+
+#### 3. 玩具飞机包装
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-flare.webp" alt="带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-toy-package/christmas-collectible-toy-airplane-gpt-image-2-6-sunburst.webp" alt="带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>带圣诞主题收藏包装的玩具飞机（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [来源详情](cases/docs-toy-package/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-sable"></a>
+
+#### 4. 品牌产品微缩场景
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-sable/source-01.webp"><img src="assets/examples/launch-sable/source-01.webp" alt="产品场景" width="700" /></a><br /><sub>产品场景</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create one exceptional finished presentation slide for Sable, not a layout template. The slide must have one powerful visual idea, the craft of a premium brand campaign and restrained, beautifully readable typography. Image 1 is a reference for the genuine Sable logo, colour palette, and light type ONLY: do not imitate its specimen-sheet layout. Image 2 is the identity reference for Aidan: a white rounded, softly textured head, subtle round spectacles, mustard knit sweater. Preserve his recognizable design when creating a new pose or scene. Aidan is a friendly AI product expert who sees, clicks and explains. The artwork should make this product idea understandable through visual storytelling. Use NB International-style Light/Regular typography, no bold or heavy fonts. Brand colours: #FFDB4D yellow, #F9F9F9 ground, #1B1D1F ink, warm neutral greys. A full black or full yellow brand pop slide is allowed when explicitly requested below. Flat, clean surrounding canvas; no grain, decorative gradients or interface drop shadows. Natural lighting and physical occlusion inside photographic artwork are allowed. Do not create a three-column feature layout, cards, bullet lists, dashboards, stock icon diagrams, a contact sheet or a fake browser screenshot. No generic floating glass panels. No invented metrics, claims, dates or brands. Use only the exact supplied copy and a small authentic Sable logo, with ample safe margins. All text must be legible. Produce the actual full-bleed slide, no external mockup frame.
+
+Art direction: a spectacular, warm, photographically convincing miniature architectural world, shown as one continuous cutaway diorama on a flat #F9F9F9 canvas. A single generous capsule-shaped floor plate curves through three interconnected spaces: a place to explore a product, a hands-on product workshop, and a quiet learning space. The spaces have distinct heights, arches, staircases and tiny abstract product objects that make the scene reward a closer look. They form ONE inhabitable world, not three disconnected models. Aidan is a miniature physical character guiding a single visitor along a clearly continuous route through this world; include just one Aidan and one visitor, with believable scale. A giant yellow disc stands behind the entire architectural silhouette like a sun, while a capsule and circular openings are built into the architecture. Let this rich composition occupy roughly two-thirds of the slide. Beautiful daylight, tactile craftsmanship and elegant restraint, not a busy toy town or a tech isometric icon. Integrate the title in the remaining generous blank space, not on top of intricate architecture. Exact headline on two light-weight lines: "A whole product world" / "One guide". Optional tiny wayfinding inside the three spaces, exactly once each: "Explore", "Try", "Learn". No additional text.
+```
+
+提示词需要 Sable 品牌与 Aidan 形象两张来源参考图。本案例尚未收录这两张输入图，仅有结果图不构成完整复现包。
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**作者**: [Sable](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-sable/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-travel"></a>
+
+#### 5. 旅行视觉生成速度对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-travel/source-01.webp"><img src="assets/examples/launch-travel/source-01.webp" alt="比较海报" width="700" /></a><br /><sub>比较海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-travel/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-hn-watchmaker"></a>
+
+#### 6. 水中修表微距测试
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-hn-watchmaker/output.png"><img src="assets/examples/community-hn-watchmaker/output.png" alt="水中修表微距测试" width="700" /></a><br /><sub>水中修表微距测试</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A macro close-up photograph of an old watchmaker's hands carefully replacing a tiny gear inside a vintage pocket watch. The watch mechanism is partially submerged in a shallow dish of clear water, causing visible refraction and light caustics across the brass gears. A single drop of water is falling from a pair of steel tweezers, captured mid-splash on the water's surface.
+Reflect the watchmaker's face, slightly distorted, in the curved glass of the watch face. Sharp focus throughout, natural window lighting from the left, shot on 100mm macro lens.
+```
+
+[原提示词见来源](https://news.ycombinator.com/item?id=50373686)
+
+**作者**: [neom (Hacker News)](https://news.ycombinator.com/item?id=50373686)
+
+**原始来源**: [作者自报模型](https://news.ycombinator.com/item?id=50373686) · [来源详情](cases/community-hn-watchmaker/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-aurora-perfume"></a>
+
+#### 7. AURORA橙色香水商品图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-aurora-perfume/95c77557e2dc3b1d95975cfe16cf3138.png"><img src="assets/examples/community-struggle-aurora-perfume/95c77557e2dc3b1d95975cfe16cf3138.png" alt="薄荷叶旁的橙色AURORA香水瓶" width="700" /></a><br /><sub>薄荷叶旁的橙色AURORA香水瓶</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+设计一张高端电商产品主图：一个极简主义的哑光橙色玻璃香水瓶，放置在大理石台面上，周围有几片新鲜薄荷叶点缀，自然柔和侧逆光，瓶身正中心用优雅的无衬线英文字体印着‘AURORA’。
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-aurora-perfume/README.zh-CN.md)
+
+---
 
 <a id="category-posters-typography"></a>
 
 ### 海报与文字排版
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [街头服饰广告排字](cases/docs-streetwear/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [洗发水公路广告牌](cases/docs-billboard/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [怀旧节日贺卡](cases/docs-holiday-card/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [生日蛋糕与额外标语对比](cases/community-flare-slogan-comparison/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [AI进化论海报改为Image 2.6实测](cases/community-struggle-poster-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [2027 春季健康展传单对比](cases/nyle-health-fair/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [敏感肌化妆水广告对比](cases/nyle-skincare-ad/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [密集日文商务封面对比](cases/nyle-kanji-cover/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+<a id="source-case-docs-streetwear"></a>
+
+#### 8. 街头服饰广告排字
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-flare.webp" alt="含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-streetwear/thread-ad-gpt-image-2-6-sunburst.webp" alt="含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>含 Thread 品牌和 Yours to Create. 标语的街头服饰广告（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text) · [来源详情](cases/docs-streetwear/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-billboard"></a>
+
+#### 9. 洗发水公路广告牌
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-billboard/billboard-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-billboard/billboard-gpt-image-2-6-flare.webp" alt="日落时路边的洗发水广告牌（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>日落时路边的洗发水广告牌（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-billboard/billboard-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-billboard/billboard-gpt-image-2-6-sunburst.webp" alt="日落时路边的洗发水广告牌（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>日落时路边的洗发水广告牌（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：原始洗发水产品照片](assets/references/docs-billboard/shampoo.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image) · [来源详情](cases/docs-billboard/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-holiday-card"></a>
+
+#### 10. 怀旧节日贺卡
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-flare.webp" alt="以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-holiday-card/christmas-holiday-card-teddy-gpt-image-2-6-sunburst.webp" alt="以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>以窗边泰迪熊为主题的怀旧圣诞贺卡（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [来源详情](cases/docs-holiday-card/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-flare-slogan-comparison"></a>
+
+#### 11. 生日蛋糕与额外标语对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-flare-slogan-comparison/source-01.webp"><img src="assets/examples/community-flare-slogan-comparison/source-01.webp" alt="生日蛋糕原始对比拼图：左侧为 GPT Image 2.6 Flare (High)，右侧为带额外标语卡片的 GPT Image 2.5 Sunburst。" width="700" /></a><br /><sub>生日蛋糕原始对比拼图：左侧为 GPT Image 2.6 Flare (High)，右侧为带额外标语卡片的 GPT Image 2.5 Sunburst。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Generate a beautiful birthday cake
+```
+
+摘录自已入库来源对比图中印出的指令。
+
+[原提示词见来源](https://x.com/DesignArena/status/2118124381155303918)
+
+**作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124381155303918) · [来源详情](cases/community-flare-slogan-comparison/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-poster-edit"></a>
+
+#### 12. AI进化论海报改为Image 2.6实测
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-poster-edit/b1a93a6ee9e5febed5811e8e7c27ed32.png"><img src="assets/examples/community-struggle-poster-edit/b1a93a6ee9e5febed5811e8e7c27ed32.png" alt="玻璃立方体中的火箭与AI进化论标题" width="700" /></a><br /><sub>玻璃立方体中的火箭与AI进化论标题</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**第 1 步 · 生成海报**
+
+```text
+设计一张科技博客封面海报：深邃蓝紫渐变背景，中间是一个发光的透明玻璃立方体，里面悬浮着一只小火箭，海报上方用干净的白色粗体字写着“AI 进化论”。16:9 比例。
+```
+
+**第 2 步 · 编辑海报**
+
+```text
+保持玻璃立方体、小火箭的角度和背景光影完全不变，只做两处修改：1. 把里面的小火箭换成一枚金色齿轮；2. 把文字“AI 进化论”改成“Image 2.6 实测”。
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-poster-edit/README.zh-CN.md)
+
+---
+
+<a id="source-case-nyle-health-fair"></a>
+
+#### 13. 2027 春季健康展传单对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-health-fair/source-01.png"><img src="assets/examples/nyle-health-fair/source-01.png" alt="2027 春季健康展传单对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。" width="700" /></a><br /><sub>2027 春季健康展传单对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-health-fair/README.zh-CN.md)
+
+---
+
+<a id="source-case-nyle-skincare-ad"></a>
+
+#### 14. 敏感肌化妆水广告对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-skincare-ad/source-01.png"><img src="assets/examples/nyle-skincare-ad/source-01.png" alt="敏感肌化妆水广告对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。" width="700" /></a><br /><sub>敏感肌化妆水广告对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-skincare-ad/README.zh-CN.md)
+
+---
+
+<a id="source-case-nyle-kanji-cover"></a>
+
+#### 15. 密集日文商务封面对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-kanji-cover/source-01.png"><img src="assets/examples/nyle-kanji-cover/source-01.png" alt="密集日文商务封面对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。" width="700" /></a><br /><sub>密集日文商务封面对比。保留原始带标签拼图，不裁切。面板按从左至右或从上至下依次为 2.5 Sunburst、2.6 Sunburst、2.6 Flare，未展示完整确切提示词。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-kanji-cover/README.zh-CN.md)
+
+---
 
 <a id="category-infographics"></a>
 
 ### 信息图
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [咖啡机工作流程图](cases/docs-coffee-diagram/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [细胞呼吸教学图](cases/docs-cell-respiration/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [市场规模演示页](cases/docs-pitch-slide/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
+<a id="source-case-docs-coffee-diagram"></a>
+
+#### 16. 咖啡机工作流程图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-flare.webp" alt="展示自动咖啡机工作流程的示意图（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>展示自动咖啡机工作流程的示意图（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-coffee-diagram/infographic-coffee-machine-gpt-image-2-6-sunburst.webp" alt="展示自动咖啡机工作流程的示意图（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>展示自动咖啡机工作流程的示意图（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually) · [来源详情](cases/docs-coffee-diagram/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-cell-respiration"></a>
+
+#### 17. 细胞呼吸教学图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-flare.webp" alt="介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-cell-respiration/scientific-educational-cellular-respiration-gpt-image-2-6-sunburst.webp" alt="介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>介绍细胞呼吸过程的课堂教学示意图（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [来源详情](cases/docs-cell-respiration/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-pitch-slide"></a>
+
+#### 18. 市场规模演示页
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-flare.webp" alt="含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pitch-slide/market-opportunity-slide-gpt-image-2-6-sunburst.webp" alt="含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>含示例市场规模数据和图表的 Market Opportunity 幻灯片（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [来源详情](cases/docs-pitch-slide/README.zh-CN.md)
+
+---
 
 <a id="category-interiors-architecture"></a>
 
 ### 室内与建筑
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [室内更换椅子](cases/docs-room-chairs/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [客厅标注编辑](cases/launch-fal/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
-| [尘埃仓库提示细节对比](cases/community-sunburst-dust-detail/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+<a id="source-case-docs-room-chairs"></a>
+
+#### 19. 室内更换椅子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-flare.webp" alt="将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-room-chairs/kitchen-chairs-gpt-image-2-6-sunburst.webp" alt="将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>将白色椅子替换为木椅的厨房图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：放有白色椅子的原始厨房照片](assets/references/docs-room-chairs/kitchen.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room) · [来源详情](cases/docs-room-chairs/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-fal"></a>
+
+#### 20. 客厅标注编辑
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-fal/source-02.png"><img src="assets/examples/launch-fal/source-02.png" alt="编辑后" width="700" /></a><br /><sub>编辑后</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [编辑前](assets/references/launch-fal/source-01.png)
+
+</details>
+
+**原始提示词**
+
+```text
+Follow the red markup on this photo. Each number marks a spot and the legend box explains what to do there. Apply every instruction, then remove all of the markup, including the numbers and the legend box, so the result is a clean photo.
+```
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**作者**: [fal](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-fal/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-sunburst-dust-detail"></a>
+
+#### 21. 尘埃仓库提示细节对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-sunburst-dust-detail/source-01.webp"><img src="assets/examples/community-sunburst-dust-detail/source-01.webp" alt="尘埃仓库原始对比拼图：左侧为 GPT Image 2.6 Sunburst（质量 auto、复杂度 high），右侧为 MAI-Image-2.6 Flash。" width="700" /></a><br /><sub>尘埃仓库原始对比拼图：左侧为 GPT Image 2.6 Sunburst（质量 auto、复杂度 high），右侧为 MAI-Image-2.6 Flash。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词公开状态待核验**
+
+**作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124393843106154) · [来源详情](cases/community-sunburst-dust-detail/README.zh-CN.md)
+
+---
 
 <a id="category-characters-consistency"></a>
 
 ### 角色与一致性
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [纸艺夺冠场景：复杂度比较](cases/docs-complexity/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [渔船水手写实人像](cases/docs-sailor/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [1969 年历史人群场景](cases/docs-historical-crowd/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [宠物四格漫画](cases/docs-pet-comic/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [保留人物身份换装](cases/docs-outfit/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [人物放入露营逃跑场景](cases/docs-person-scene/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [建立童书角色](cases/docs-character-start/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [同一角色续写故事](cases/docs-character-story/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [彩色玻璃鲸鱼](cases/launch-picsart/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
-| [骑士连续换景换装](cases/launch-higgsfield/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
-| [参考图引导的庭院摄影组图](cases/community-marco-reference-photo-board/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Sunburst 庭院对比](cases/community-marco-sunburst-courtyard-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [蘑菇光影时装人像](cases/community-marco-mushroom-fashion-portrait/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Sunburst 六种风格样例集](cases/nyle-sunburst-style-gallery/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Sunburst 窗边三花猫](cases/community-kokone-sunburst-calico/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
+<a id="source-case-docs-complexity"></a>
+
+#### 22. 纸艺夺冠场景：复杂度比较
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，高复杂度）" width="360" /></a><br /><sub>纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，高复杂度）</sub></td>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-low-gpt-image-2-6-sunburst.webp" alt="纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，低复杂度）" width="360" /></a><br /><sub>纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，低复杂度）</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-complexity/paper-cut-football-effort-medium-gpt-image-2-6-sunburst.webp" alt="纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，中复杂度）" width="360" /></a><br /><sub>纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，中复杂度）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity) · [来源详情](cases/docs-complexity/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-sailor"></a>
+
+#### 23. 渔船水手写实人像
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-sailor/photorealism-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-sailor/photorealism-gpt-image-2-6-flare.webp" alt="写实的渔船水手修补渔网肖像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>写实的渔船水手修补渔网肖像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-sailor/photorealism-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-sailor/photorealism-gpt-image-2-6-sunburst.webp" alt="写实的渔船水手修补渔网肖像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>写实的渔船水手修补渔网肖像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting) · [来源详情](cases/docs-sailor/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-historical-crowd"></a>
+
+#### 24. 1969 年历史人群场景
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-flare.webp" alt="1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-historical-crowd/world-knowledge-gpt-image-2-6-sunburst.webp" alt="1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>1969 年 8 月纽约州贝瑟尔音乐节人群场景（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context) · [来源详情](cases/docs-historical-crowd/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-pet-comic"></a>
+
+#### 25. 宠物四格漫画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-flare.webp" alt="描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pet-comic/comic-reel-gpt-image-2-6-sunburst.webp" alt="描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>描绘宠物独自在家故事的四格漫画（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip) · [来源详情](cases/docs-pet-comic/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-outfit"></a>
+
+#### 26. 保留人物身份换装
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-outfit/outfit-gpt-image-2-6-flare.webp" alt="博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-outfit/outfit-gpt-image-2-6-sunburst.webp" alt="博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>博物馆中的女子换上参考服装后的图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：灰色长靴服装参考](assets/references/docs-outfit/boots.webp)
+- [参考输入图：米色西装外套服装参考](assets/references/docs-outfit/jacket.webp)
+- [参考输入图：白色背心服装参考](assets/references/docs-outfit/tank-top.webp)
+- [参考输入图：用作人物身份参考的博物馆女子照片](assets/references/docs-outfit/woman-in-museum.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing) · [来源详情](cases/docs-outfit/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-person-scene"></a>
+
+#### 27. 人物放入露营逃跑场景
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-person-scene/scene-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-person-scene/scene-gpt-image-2-6-flare.webp" alt="女子在营地逃离熊的场景（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>女子在营地逃离熊的场景（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-person-scene/scene-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-person-scene/scene-gpt-image-2-6-sunburst.webp" alt="女子在营地逃离熊的场景（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>女子在营地逃离熊的场景（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene) · [来源详情](cases/docs-person-scene/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-character-start"></a>
+
+#### 28. 建立童书角色
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-flare.webp" alt="童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-character-start/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp" alt="童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>童话森林中穿绿色斗篷的小英雄（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character) · [来源详情](cases/docs-character-start/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-character-story"></a>
+
+#### 29. 同一角色续写故事
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-flare.webp" alt="同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-character-story/childrens-book-illustration-2-gpt-image-2-6-sunburst.webp" alt="同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>同一位森林小英雄在冬季帮助松鼠的故事场景（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story) · [来源详情](cases/docs-character-story/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-picsart"></a>
+
+#### 30. 彩色玻璃鲸鱼
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="鲸鱼图" width="700" /></a><br /><sub>鲸鱼图</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-picsart/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-higgsfield"></a>
+
+#### 31. 骑士连续换景换装
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-01.webp"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="360" /></a><br /><sub>第 1 步</sub></td>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-02.webp"><img src="assets/examples/launch-higgsfield/source-02.webp" alt="第 2 步" width="360" /></a><br /><sub>第 2 步</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/launch-higgsfield/source-03.webp"><img src="assets/examples/launch-higgsfield/source-03.webp" alt="第 3 步" width="360" /></a><br /><sub>第 3 步</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**起始图 · 角色与场景**
+
+```text
+Epic high fantasy anime key visual, mature seinen style like a modern high-budget anime film. A young woman sorceress-knight in her twenties with long crimson hair and sharp golden eyes stands on the edge of a cliff in ornate silver and emerald armor with a flowing royal blue cape, a glowing runic sword planted in front of her, magic sparks around her hands. Behind her a vast fantasy kingdom: floating islands with waterfalls pouring into the clouds, a white castle with spires, a huge ancient dragon flying in the distance, giant blooming sakura and golden autumn forests in the valley below. Sunset sky with vivid orange, magenta, turquoise and violet clouds, god rays, glowing magic particles in the air. Extremely vibrant saturated colors, dramatic rim lighting, cel shading with detailed painted backgrounds, crisp clean line art, depth and atmosphere, dynamic low camera angle, wide cinematic composition. Adult, elegant, serious heroic mood, not childish, no chibi, no sci-fi, no neon, no text, no watermark.
+```
+
+**编辑 1 · 夕阳山谷**
+
+```text
+Replace the moonlit landscape with a golden sunset over a misty mountain valley, winding river, waterfalls and ancient ruins. Keep the background softly blurred and the knight, armor, sword, rock and composition unchanged.
+```
+
+**编辑 2 · 浮空城堡**
+
+```text
+Replace the background with a majestic floating castle, smaller floating islands, cascading waterfalls and a dragon flying overhead. Preserve the warm sunset, atmospheric haze and shallow depth of field. Keep the knight and foreground unchanged.
+```
+
+**编辑 3 · 盔甲换色**
+
+```text
+Recolor the armor to ivory white with rich gold trim, replace emerald gemstones with rubies, and change green fabric panels to deep crimson. Preserve the armor design, blue cape, red hair, golden sword glow, pose and background.
+```
+
+按顺序使用编辑指令，将上一轮输出作为下一轮输入。官方页面在编辑 1 旁同时列出起始图提示词；已入库的三张图片是编辑结果。
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**作者**: [Higgsfield](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-higgsfield/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-marco-reference-photo-board"></a>
+
+#### 32. 参考图引导的庭院摄影组图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-reference-photo-board/reference-output-board.webp"><img src="assets/examples/community-marco-reference-photo-board/reference-output-board.webp" alt="作者拼图：左上为标注的 Runway 参考图，其余为 GPT 2.6 庭院视角" width="700" /></a><br /><sub>作者拼图：左上为标注的 Runway 参考图，其余为 GPT 2.6 庭院视角</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235673727500369) · [来源详情](cases/community-marco-reference-photo-board/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
+
+#### 33. Sunburst 庭院对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-sunburst-courtyard-comparison/comparison.webp"><img src="assets/examples/community-marco-sunburst-courtyard-comparison/comparison.webp" alt="上：GPT 2.6 Sunburst 庭院人像；下：GPT 2.5 Sunburst 基线" width="700" /></a><br /><sub>上：GPT 2.6 Sunburst 庭院人像；下：GPT 2.5 Sunburst 基线</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235678328893803) · [来源详情](cases/community-marco-sunburst-courtyard-comparison/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-marco-mushroom-fashion-portrait"></a>
+
+#### 34. 蘑菇光影时装人像
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-marco-mushroom-fashion-portrait/portrait.webp"><img src="assets/examples/community-marco-mushroom-fashion-portrait/portrait.webp" alt="金属装饰服装与巨大蘑菇背景的时装人像" width="700" /></a><br /><sub>金属装饰服装与巨大蘑菇背景的时装人像</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [发布方模型设置截图，用作证据，不是生成输入或额外输出](assets/references/community-marco-mushroom-fashion-portrait/model-settings.webp)
+
+</details>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
+
+**原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235684217692275) · [来源详情](cases/community-marco-mushroom-fashion-portrait/README.zh-CN.md)
+
+---
+
+<a id="source-case-nyle-sunburst-style-gallery"></a>
+
+#### 35. Sunburst 六种风格样例集
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-sunburst-style-gallery/source-01.png"><img src="assets/examples/nyle-sunburst-style-gallery/source-01.png" alt="Sunburst 六种风格样例集。一个六宫格风格系列：商务人像、美食照片、水彩街景、3D 插画、柱状图及像素街景。该全部归于 2.6 的拼图计为一个系列；明确标注的对照另计案例，排除评分统计图。未展示确切提示词。" width="700" /></a><br /><sub>Sunburst 六种风格样例集。一个六宫格风格系列：商务人像、美食照片、水彩街景、3D 插画、柱状图及像素街景。该全部归于 2.6 的拼图计为一个系列；明确标注的对照另计案例，排除评分统计图。未展示确切提示词。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-sunburst-style-gallery/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-kokone-sunburst-calico"></a>
+
+#### 36. Sunburst 窗边三花猫
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kokone-sunburst-calico/calico-window.png"><img src="assets/examples/community-kokone-sunburst-calico/calico-window.png" alt="三花猫卧在阳光下的木质窗台上" width="700" /></a><br /><sub>三花猫卧在阳光下的木质窗台上</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [ここね｜AI学習中](https://note.com/kokone_ailab/n/n58ea583f8d45)
+
+**原始来源**: [作者自报模型](https://note.com/kokone_ailab/n/n58ea583f8d45) · [来源详情](cases/community-kokone-sunburst-calico/README.zh-CN.md)
+
+---
 
 <a id="category-markup-edits"></a>
 
 ### 标注与局部编辑
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [标注花瓶后局部换色](cases/docs-vase-markup/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [信息图改为西班牙语](cases/docs-spanish-edit/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [像素风格迁移](cases/docs-pixel-style/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [跨图合成宠物](cases/docs-dog-composite/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [线稿转写实场景](cases/docs-sketch-render/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [移除手持花朵](cases/docs-remove-flower/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [广告牌场景改为雪夜](cases/docs-snow-edit/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [兔子绘本场景日暮编辑](cases/community-flare-day-dusk-edit/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
-| [网络研讨会日期替换对比](cases/nyle-webinar-date-edit/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+<a id="source-case-docs-vase-markup"></a>
+
+#### 37. 标注花瓶后局部换色
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp" alt="将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp" alt="将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片](assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [来源详情](cases/docs-vase-markup/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-spanish-edit"></a>
+
+#### 38. 信息图改为西班牙语
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-flare.webp" alt="翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-spanish-edit/infographic-coffee-machine-sp-gpt-image-2-6-sunburst.webp" alt="翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>翻译成西班牙语的咖啡机流程示意图（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout) · [来源详情](cases/docs-spanish-edit/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-pixel-style"></a>
+
+#### 39. 像素风格迁移
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp" alt="采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp" alt="采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：用于像素艺术风格参考的游戏画面](assets/references/docs-pixel-style/pixels.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [来源详情](cases/docs-pixel-style/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-dog-composite"></a>
+
+#### 40. 跨图合成宠物
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-flare.webp" alt="将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-dog-composite/test-woman-with-dog-gpt-image-2-6-sunburst.webp" alt="将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>将参考狗合成到街景女子身旁的图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：女子与狗的照片，第二张合成输入图](assets/references/docs-dog-composite/test-woman-2.webp)
+- [参考输入图：街景女子照片，第一张合成输入图](assets/references/docs-dog-composite/test-woman.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#combine-references) · [来源详情](cases/docs-dog-composite/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-sketch-render"></a>
+
+#### 41. 线稿转写实场景
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-flare.webp" alt="从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-sketch-render/realistic-valley-gpt-image-2-6-sunburst.webp" alt="从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>从线稿转换成写实风格的日出河谷图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：河谷场景线稿](assets/references/docs-sketch-render/drawings.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image) · [来源详情](cases/docs-sketch-render/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-remove-flower"></a>
+
+#### 42. 移除手持花朵
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-flare.webp" alt="移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-remove-flower/man-with-no-flower-gpt-image-2-6-sunburst.webp" alt="移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>移除手持花朵后的蓝帽男子图像（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [参考输入图：戴蓝帽、手持花朵的男子照片](assets/references/docs-remove-flower/man-with-blue-hat.webp)
+
+</details>
+
+**原始提示词**
+
+```text
+Remove the flower from man's hand. Do not change anything else.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object) · [来源详情](cases/docs-remove-flower/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-snow-edit"></a>
+
+#### 43. 广告牌场景改为雪夜
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-flare.webp" alt="改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-snow-edit/billboard-winter-gpt-image-2-6-sunburst.webp" alt="改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>改为下雪傍晚的洗发水广告牌场景（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition) · [来源详情](cases/docs-snow-edit/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-flare-day-dusk-edit"></a>
+
+#### 44. 兔子绘本场景日暮编辑
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-flare-day-dusk-edit/source-01.webp"><img src="assets/examples/community-flare-day-dusk-edit/source-01.webp" alt="兔子场景编辑原始对比拼图，含输入缩略图：左侧为 GPT Image 2.6 Flare (High)，右侧为 FLUX.2 Klein 4B Distilled Edit。" width="700" /></a><br /><sub>兔子场景编辑原始对比拼图，含输入缩略图：左侧为 GPT Image 2.6 Flare (High)，右侧为 FLUX.2 Klein 4B Distilled Edit。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词公开状态待核验**
+
+**作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
+
+**原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124387639693686) · [来源详情](cases/community-flare-day-dusk-edit/README.zh-CN.md)
+
+---
+
+<a id="source-case-nyle-webinar-date-edit"></a>
+
+#### 45. 网络研讨会日期替换对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/nyle-webinar-date-edit/source-01.png"><img src="assets/examples/nyle-webinar-date-edit/source-01.png" alt="网络研讨会日期替换对比。保留原始带标签拼图，不裁切。从上至下为输入、2.5 Sunburst 对照、2.6 Sunburst 结果及日期错误的 2.6 Flare 结果。原图底部公开了简短编辑指令。" width="700" /></a><br /><sub>网络研讨会日期替换对比。保留原始带标签拼图，不裁切。从上至下为输入、2.5 Sunburst 对照、2.6 Sunburst 结果及日期错误的 2.6 Flare 结果。原图底部公开了简短编辑指令。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+実施日時を「2027年1月21日（木）」に差し替える。ほかは変えない。
+```
+
+摘录自已入库来源对比图中印出的指令。
+
+[原提示词见来源](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
+
+**原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-webinar-date-edit/README.zh-CN.md)
+
+---
 
 <a id="category-svg-design-assets"></a>
 
 ### SVG 与设计素材
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [面包店 SVG 标志](cases/docs-bakery-svg/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [农夫市场手机界面](cases/docs-market-ui/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [熊吉祥物：SVG 与 PNG 输出预览对比](cases/community-bear-svg-comparison/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [代码闪电矢量标志](cases/community-struggle-code-lightning-svg/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
+<a id="source-case-docs-bakery-svg"></a>
+
+#### 46. 面包店 SVG 标志
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="360" /></a><br /><sub>Flare SVG 标志</sub></td>
+<td align="center"><a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg" alt="Sunburst SVG 标志" width="360" /></a><br /><sub>Sunburst SVG 标志</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [来源详情](cases/docs-bakery-svg/README.zh-CN.md)
+
+---
+
+<a id="source-case-docs-market-ui"></a>
+
+#### 47. 农夫市场手机界面
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp" alt="农夫市集手机应用界面样稿（GPT Image 2.6 Flare 输出）" width="360" /></a><br /><sub>农夫市集手机应用界面样稿（GPT Image 2.6 Flare 输出）</sub></td>
+<td align="center"><a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp" alt="农夫市集手机应用界面样稿（GPT Image 2.6 Sunburst 输出）" width="360" /></a><br /><sub>农夫市集手机应用界面样稿（GPT Image 2.6 Sunburst 输出）</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [来源详情](cases/docs-market-ui/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-bear-svg-comparison"></a>
+
+#### 48. 熊吉祥物：SVG 与 PNG 输出预览对比
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-bear-svg-comparison/source-01.webp"><img src="assets/examples/community-bear-svg-comparison/source-01.webp" alt="作者所称 SVG 熊吉祥物输出的栅格预览" width="360" /></a><br /><sub>作者所称 SVG 熊吉祥物输出的栅格预览</sub></td>
+<td align="center"><a href="assets/examples/community-bear-svg-comparison/source-02.webp"><img src="assets/examples/community-bear-svg-comparison/source-02.webp" alt="作者所称 PNG 熊吉祥物输出的栅格预览" width="360" /></a><br /><sub>作者所称 PNG 熊吉祥物输出的栅格预览</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [pixexid (@pixexid)](https://x.com/pixexid)
+
+**原始来源**: [作者自报模型](https://x.com/pixexid/status/2118153375464505689) · [来源详情](cases/community-bear-svg-comparison/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-code-lightning-svg"></a>
+
+#### 49. 代码闪电矢量标志
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-code-lightning-svg/62de72dff63229a2552216ee58ec142b.svg"><img src="assets/examples/community-struggle-code-lightning-svg/62de72dff63229a2552216ee58ec142b.svg" alt="蓝色方块上的白色括号与闪电" width="700" /></a><br /><sub>蓝色方块上的白色括号与闪电</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+设计一个极简扁平化风格的个人技术博客 Logo 图标：结合“代码括号 </>”与“闪电”元素，蓝白配色，线条干净利落，并直接导出为可编辑的 SVG 矢量文件给我。
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-code-lightning-svg/README.zh-CN.md)
+
+---
 
 <a id="category-gif-animation"></a>
 
 ### GIF 与动画
 
-| 案例 · 仓库内部详情 | 来源类型 | 提示词 |
-| --- | --- | --- |
-| [提灯猴循环 GIF](cases/docs-lantern-gif/README.zh-CN.md) | 官方文档 | 原提示词见来源 |
-| [股价下跌的办公角色 GIF](cases/launch-openart-down/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
-| [股价上涨的办公角色 GIF](cases/launch-openart-up/README.zh-CN.md) | 官方发布演示 | 原提示词见来源 |
-| [猫头鹰草图变动画](cases/launch-owl/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
-| [Monty 打字状态动画](cases/launch-town/README.zh-CN.md) | 官方发布演示 | 提示词未公开 |
-| [夏日角色插画动画](cases/community-malfoid/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Images 2.6 brings GIF(T)S :D](cases/community-gifts/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [拳击老虎动画](cases/community-boxing-tiger/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [蜂鸟与翠鸟动画多版本](cases/community-hummingbird-variants/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [玫瑰花蕾动画](cases/community-rosebud-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Q 弹果冻熊摇晃](cases/ailingqu-jelly-bear-wobble/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [白兔表情贴纸组](cases/ailingqu-bunny-reaction-set/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [卡通猫挥手打招呼](cases/ailingqu-cat-waving-hello/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [柴犬歪头疑惑](cases/ailingqu-shiba-head-tilt/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [猫猫疯狂打字](cases/ailingqu-cat-typing-laptop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [青蛙吹出爱心](cases/ailingqu-frog-heart-bubble/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [企鹅捂脸](cases/ailingqu-penguin-facepalm/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [投篮命中庆祝](cases/ailingqu-basketball-shot-sticker/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [猫厨师颠勺炒饭](cases/ailingqu-cat-chef-fried-rice/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [黑猫出拳](cases/ailingqu-black-cat-punch/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [打工猫上下班表情组](cases/ailingqu-office-cat-workday-set/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [咆哮的小黄鸭](cases/ailingqu-roaring-duck/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [花卉微距快闪](cases/ailingqu-flower-macro-flash/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [猫头 Logo 品牌快闪](cases/ailingqu-cat-brand-reel/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [球鞋配色快闪](cases/ailingqu-sneaker-colorway-flash/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [一棵树的四季](cases/ailingqu-four-seasons-tree/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [杂志拼贴逐格弹出](cases/ailingqu-magazine-panels-pop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [窗边读书·白天到夜晚](cases/ailingqu-window-day-to-night/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [冒热气的咖啡](cases/ailingqu-steaming-coffee/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [雨窗与绿植](cases/ailingqu-rain-on-window/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [鱼缸里的金鱼](cases/ailingqu-goldfish-bowl/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [夜晚的灯塔](cases/ailingqu-lighthouse-night/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [壁炉边睡觉的猫](cases/ailingqu-cat-by-fireplace/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [雪林提灯的小猴子](cases/ailingqu-lantern-monkey-snow/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [苔石上打盹的小狐狸](cases/ailingqu-sleepy-fox-rock/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [Lo-fi 学习循环](cases/ailingqu-lofi-study-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [街角咖啡馆动态照片](cases/ailingqu-cafe-cinemagraph/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [水墨奔马](cases/ailingqu-ink-wash-horse/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [涂鸦小怪兽活了](cases/ailingqu-doodle-monster/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [像素风篝火](cases/ailingqu-pixel-campfire/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [弹跳圆点加载动画](cases/ailingqu-bouncing-dots-loader/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [像素骑士跑步循环](cases/ailingqu-pixel-knight-run/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [点赞爱心爆开](cases/ailingqu-like-heart-burst/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [沙漏加载](cases/ailingqu-hourglass-flip/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [街机对战 VS 画面](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [8-bit 史莱姆 Boss 战](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [爱心爆发技能动画](cases/ailingqu-love-burst-skill/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [废品场机器人行走](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [Robin 猫眨眼与落下的姓名帽](cases/community-ozan-robin-wink-hat/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [蓝发女仆对话动画原型](cases/community-mirochill-anime-dialogue-prototype/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [Ram Altman 内存条恶搞动画](cases/community-mirochill-ram-altman-animation/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [月下美少女战士舞蹈](cases/community-struggle-sailor-dance/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [黏土橘猫敲键盘](cases/community-struggle-cat-programmer/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [桌面照片清理并转动图](cases/community-struggle-desk-animation/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [十款戏仿网页广告 GIF：日本创作者测试](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
-| [Pixel♡Love：游泳角色动画帧表](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md) | 作者自报模型 | 提示词未公开 |
-| [炭治郎像素风水刃循环动画](cases/community-kiki-tanjiro-pixel-loop/README.zh-CN.md) | 作者自报模型 | 原提示词见来源 |
-| [心跳舞模式对比：来源封面](cases/community-kiki-heartbeat-dance-comparison/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
-| [六段 Miss Malfoid 情绪贴纸循环动画](cases/community-kiki-malfoid-mood-stickers/README.zh-CN.md) | 作者自报模型 | 提示词公开状态待核验 |
+<a id="source-case-docs-lantern-gif"></a>
+
+#### 50. 提灯猴循环 GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="提灯猴原始 GIF" width="700" /></a><br /><sub>提灯猴原始 GIF</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif) · [来源详情](cases/docs-lantern-gif/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-openart-down"></a>
+
+#### 51. 股价下跌的办公角色 GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-openart-down/source-01.webp"><img src="assets/examples/launch-openart-down/source-01.webp" alt="下跌版海报" width="700" /></a><br /><sub>下跌版海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart.
+Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first.
+Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/)
+
+**作者**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-openart-down/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-openart-up"></a>
+
+#### 52. 股价上涨的办公角色 GIF
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-openart-up/source-01.webp"><img src="assets/examples/launch-openart-up/source-01.webp" alt="上涨版海报" width="700" /></a><br /><sub>上涨版海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing.
+Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first.
+Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/)
+
+**作者**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-openart-up/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-owl"></a>
+
+#### 53. 猫头鹰草图变动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-owl/source-02.webp"><img src="assets/examples/launch-owl/source-02.webp" alt="动画海报" width="700" /></a><br /><sub>动画海报</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [草图](assets/references/launch-owl/source-01.webp)
+
+</details>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-owl/README.zh-CN.md)
+
+---
+
+<a id="source-case-launch-town"></a>
+
+#### 54. Monty 打字状态动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="动画海报" width="700" /></a><br /><sub>动画海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Town](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-town/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-malfoid"></a>
+
+#### 55. 夏日角色插画动画
+
+**图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [u/Junior-Grade-2965](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
+
+**原始来源**: [作者自报模型](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/) · [来源详情](cases/community-malfoid/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-gifts"></a>
+
+#### 56. Images 2.6 brings GIF(T)S :D
+
+**图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [u/Algoartist](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
+
+**原始来源**: [作者自报模型](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/) · [来源详情](cases/community-gifts/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-boxing-tiger"></a>
+
+#### 57. 拳击老虎动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-boxing-tiger/source-01.mp4"><img src="assets/readme-previews/community-boxing-tiger/source-01.jpg" alt="X 提供的拳击老虎动画 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>X 提供的拳击老虎动画 MP4</sub></td>
+<td align="center"><a href="assets/examples/community-boxing-tiger/source-02.webp"><img src="assets/examples/community-boxing-tiger/source-02.webp" alt="拳击老虎静态预览，不是 GIF" width="360" /></a><br /><sub>拳击老虎静态预览，不是 GIF</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Archiefff (@baiji57165)](https://x.com/baiji57165)
+
+**原始来源**: [作者自报模型](https://x.com/baiji57165/status/2118176730079007145) · [来源详情](cases/community-boxing-tiger/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-hummingbird-variants"></a>
+
+#### 58. 蜂鸟与翠鸟动画多版本
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-01.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-01.jpg" alt="蜂鸟动画版本 1，X 提供的 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>蜂鸟动画版本 1，X 提供的 MP4</sub></td>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-02.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-02.jpg" alt="蜂鸟动画版本 2，X 提供的 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>蜂鸟动画版本 2，X 提供的 MP4</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-03.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-03.jpg" alt="翠鸟动画版本 3，X 提供的 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>翠鸟动画版本 3，X 提供的 MP4</sub></td>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-04.mp4"><img src="assets/readme-previews/community-hummingbird-variants/source-04.jpg" alt="翠鸟动画版本 4，X 提供的 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>翠鸟动画版本 4，X 提供的 MP4</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-hummingbird-variants/source-05.webp"><img src="assets/examples/community-hummingbird-variants/source-05.webp" alt="蜂鸟与朱槿花静态预览，不是 GIF" width="360" /></a><br /><sub>蜂鸟与朱槿花静态预览，不是 GIF</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Dheepan Ratnam (@Dheepanratnam)](https://x.com/Dheepanratnam)
+
+**原始来源**: [作者自报模型](https://x.com/Dheepanratnam/status/2118138765487100027) · [来源详情](cases/community-hummingbird-variants/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-rosebud-animation"></a>
+
+#### 59. 玫瑰花蕾动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-rosebud-animation/source-01.mp4"><img src="assets/readme-previews/community-rosebud-animation/source-01.jpg" alt="X 提供的玫瑰花蕾动画 MP4" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>X 提供的玫瑰花蕾动画 MP4</sub></td>
+<td align="center"><a href="assets/examples/community-rosebud-animation/source-02.webp"><img src="assets/examples/community-rosebud-animation/source-02.webp" alt="玫瑰花蕾静态预览，不是 GIF" width="360" /></a><br /><sub>玫瑰花蕾静态预览，不是 GIF</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Michael Guo (@Michaelzsguo)](https://x.com/Michaelzsguo)
+
+**原始来源**: [作者自报模型](https://x.com/Michaelzsguo/status/2118134837357744435) · [来源详情](cases/community-rosebud-animation/README.zh-CN.md)
+
+---
+
+<a id="source-case-ailingqu-jelly-bear-wobble"></a>
+
+#### 60. Q 弹果冻熊摇晃
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif"><img src="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif" alt="Q 弹果冻熊摇晃" width="700" /></a><br /><sub>Q 弹果冻熊摇晃</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A chubby round cartoon bear with a soft jelly-like body and stubby arms, squishing down and springing back up while wobbling side to side, cheeks jiggling on every bounce. Thick clean outlines, flat pastel colors, centered on a plain solid mint-green background that contrasts strongly with the bear.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-jelly-bear-wobble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-bunny-reaction-set"></a>
+
+#### 61. 白兔表情贴纸组
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif" alt="兔兔点赞" width="360" /></a><br /><sub>兔兔点赞</sub></td>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif" alt="兔兔笑出眼泪" width="360" /></a><br /><sub>兔兔笑出眼泪</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif" alt="兔兔犯困" width="360" /></a><br /><sub>兔兔犯困</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**兔兔点赞**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**兔兔笑出眼泪**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**兔兔犯困**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bunny-reaction-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-waving-hello"></a>
+
+#### 62. 卡通猫挥手打招呼
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif"><img src="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif" alt="卡通猫挥手打招呼" width="700" /></a><br /><sub>卡通猫挥手打招呼</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A cheerful cartoon cat waving hello.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-waving-hello/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-shiba-head-tilt"></a>
+
+#### 63. 柴犬歪头疑惑
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif"><img src="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif" alt="柴犬歪头疑惑" width="700" /></a><br /><sub>柴犬歪头疑惑</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-shiba-head-tilt/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-typing-laptop"></a>
+
+#### 64. 猫猫疯狂打字
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif"><img src="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif" alt="猫猫疯狂打字" width="700" /></a><br /><sub>猫猫疯狂打字</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-typing-laptop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-frog-heart-bubble"></a>
+
+#### 65. 青蛙吹出爱心
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif"><img src="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif" alt="青蛙吹出爱心" width="700" /></a><br /><sub>青蛙吹出爱心</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-frog-heart-bubble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-penguin-facepalm"></a>
+
+#### 66. 企鹅捂脸
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif"><img src="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif" alt="企鹅捂脸" width="700" /></a><br /><sub>企鹅捂脸</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-penguin-facepalm/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-basketball-shot-sticker"></a>
+
+#### 67. 投篮命中庆祝
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif"><img src="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif" alt="投篮命中庆祝" width="700" /></a><br /><sub>投篮命中庆祝</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-basketball-shot-sticker/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-chef-fried-rice"></a>
+
+#### 68. 猫厨师颠勺炒饭
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif"><img src="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif" alt="猫厨师颠勺炒饭" width="700" /></a><br /><sub>猫厨师颠勺炒饭</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-chef-fried-rice/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-black-cat-punch"></a>
+
+#### 69. 黑猫出拳
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif"><img src="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif" alt="黑猫出拳" width="700" /></a><br /><sub>黑猫出拳</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-black-cat-punch/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-office-cat-workday-set"></a>
+
+#### 70. 打工猫上下班表情组
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif" alt="打工猫：累瘫" width="360" /></a><br /><sub>打工猫：累瘫</sub></td>
+<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif" alt="打工猫：下班啦" width="360" /></a><br /><sub>打工猫：下班啦</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**打工猫：累瘫**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**打工猫：下班啦**
+
+```text
+A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-office-cat-workday-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-roaring-duck"></a>
+
+#### 71. 咆哮的小黄鸭
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-roaring-duck/roaring-duck.gif"><img src="assets/examples/ailingqu-roaring-duck/roaring-duck.gif" alt="咆哮的小黄鸭" width="700" /></a><br /><sub>咆哮的小黄鸭</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-roaring-duck/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-flower-macro-flash"></a>
+
+#### 72. 花卉微距快闪
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif"><img src="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif" alt="花卉微距快闪" width="700" /></a><br /><sub>花卉微距快闪</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-flower-macro-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-brand-reel"></a>
+
+#### 73. 猫头 Logo 品牌快闪
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif"><img src="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif" alt="猫头 Logo 品牌快闪" width="700" /></a><br /><sub>猫头 Logo 品牌快闪</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-brand-reel/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-sneaker-colorway-flash"></a>
+
+#### 74. 球鞋配色快闪
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif"><img src="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif" alt="球鞋配色快闪" width="700" /></a><br /><sub>球鞋配色快闪</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sneaker-colorway-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-four-seasons-tree"></a>
+
+#### 75. 一棵树的四季
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="一棵树的四季" width="700" /></a><br /><sub>一棵树的四季</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-magazine-panels-pop"></a>
+
+#### 76. 杂志拼贴逐格弹出
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif"><img src="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif" alt="杂志拼贴逐格弹出" width="700" /></a><br /><sub>杂志拼贴逐格弹出</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading "WEEKEND" slides in. Clean editorial design, cream background, coral and navy accents.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-magazine-panels-pop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-window-day-to-night"></a>
+
+#### 77. 窗边读书·白天到夜晚
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="700" /></a><br /><sub>窗边读书·白天到夜晚</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-steaming-coffee"></a>
+
+#### 78. 冒热气的咖啡
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif"><img src="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif" alt="冒热气的咖啡" width="700" /></a><br /><sub>冒热气的咖啡</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A steaming cup of coffee on a small wooden table, steam curling and drifting upward, a tiny spoon wobbling on the saucer. Cozy flat illustration with warm colors.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-steaming-coffee/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-rain-on-window"></a>
+
+#### 79. 雨窗与绿植
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-rain-on-window/rain-on-window.gif"><img src="assets/examples/ailingqu-rain-on-window/rain-on-window.gif" alt="雨窗与绿植" width="700" /></a><br /><sub>雨窗与绿植</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A rainy window at dusk with a small potted plant on the sill, raindrops sliding down the glass and blurry city lights twinkling outside. Soft muted blue palette, lo-fi illustration style.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-rain-on-window/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-goldfish-bowl"></a>
+
+#### 80. 鱼缸里的金鱼
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="700" /></a><br /><sub>鱼缸里的金鱼</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lighthouse-night"></a>
+
+#### 81. 夜晚的灯塔
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif"><img src="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif" alt="夜晚的灯塔" width="700" /></a><br /><sub>夜晚的灯塔</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lighthouse-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cat-by-fireplace"></a>
+
+#### 82. 壁炉边睡觉的猫
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif"><img src="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif" alt="壁炉边睡觉的猫" width="700" /></a><br /><sub>壁炉边睡觉的猫</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-by-fireplace/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lantern-monkey-snow"></a>
+
+#### 83. 雪林提灯的小猴子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif"><img src="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif" alt="雪林提灯的小猴子" width="700" /></a><br /><sub>雪林提灯的小猴子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lantern-monkey-snow/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-sleepy-fox-rock"></a>
+
+#### 84. 苔石上打盹的小狐狸
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif"><img src="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif" alt="苔石上打盹的小狐狸" width="700" /></a><br /><sub>苔石上打盹的小狐狸</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sleepy-fox-rock/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-lofi-study-loop"></a>
+
+#### 85. Lo-fi 学习循环
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif"><img src="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif" alt="Lo-fi 学习循环" width="700" /></a><br /><sub>Lo-fi 学习循环</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lofi-study-loop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-cafe-cinemagraph"></a>
+
+#### 86. 街角咖啡馆动态照片
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif"><img src="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif" alt="街角咖啡馆动态照片" width="700" /></a><br /><sub>街角咖啡馆动态照片</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cafe-cinemagraph/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-ink-wash-horse"></a>
+
+#### 87. 水墨奔马
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif"><img src="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif" alt="水墨奔马" width="700" /></a><br /><sub>水墨奔马</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-ink-wash-horse/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-doodle-monster"></a>
+
+#### 88. 涂鸦小怪兽活了
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="涂鸦小怪兽活了" width="700" /></a><br /><sub>涂鸦小怪兽活了</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-campfire"></a>
+
+#### 89. 像素风篝火
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="像素风篝火" width="700" /></a><br /><sub>像素风篝火</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-bouncing-dots-loader"></a>
+
+#### 90. 弹跳圆点加载动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif"><img src="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="700" /></a><br /><sub>弹跳圆点加载动画</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A minimal loading animation: three rounded dots in coral, violet and teal bouncing up and down one after another in a wave, with soft squash on landing. Flat vector style on a plain off-white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bouncing-dots-loader/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-knight-run"></a>
+
+#### 91. 像素骑士跑步循环
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif"><img src="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif" alt="像素骑士跑步循环" width="700" /></a><br /><sub>像素骑士跑步循环</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-knight-run/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-like-heart-burst"></a>
+
+#### 92. 点赞爱心爆开
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif"><img src="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif" alt="点赞爱心爆开" width="700" /></a><br /><sub>点赞爱心爆开</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-like-heart-burst/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-hourglass-flip"></a>
+
+#### 93. 沙漏加载
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif"><img src="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif" alt="沙漏加载" width="700" /></a><br /><sub>沙漏加载</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-hourglass-flip/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-arcade-vs-screen"></a>
+
+#### 94. 街机对战 VS 画面
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif"><img src="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif" alt="街机对战 VS 画面" width="700" /></a><br /><sub>街机对战 VS 画面</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge "VS" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-pixel-slime-boss"></a>
+
+#### 95. 8-bit 史莱姆 Boss 战
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif"><img src="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif" alt="8-bit 史莱姆 Boss 战" width="700" /></a><br /><sub>8-bit 史莱姆 Boss 战</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-love-burst-skill"></a>
+
+#### 96. 爱心爆发技能动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif"><img src="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif" alt="爱心爆发技能动画" width="700" /></a><br /><sub>爱心爆发技能动画</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A chibi magical girl with a pink bob raises her wand and casts a "love burst" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-love-burst-skill/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-ailingqu-junkyard-robot-walk"></a>
+
+#### 97. 废品场机器人行走
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif"><img src="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif" alt="废品场机器人行走" width="700" /></a><br /><sub>废品场机器人行走</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="source-case-community-ozan-robin-wink-hat"></a>
+
+#### 98. Robin 猫眨眼与落下的姓名帽
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-ozan-robin-wink-hat/animation.mp4"><img src="assets/readme-previews/community-ozan-robin-wink-hat/animation.jpg" alt="灰猫眨眼并戴上 Robin 帽子" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>灰猫眨眼并戴上 Robin 帽子</sub></td>
+<td align="center"><a href="assets/examples/community-ozan-robin-wink-hat/poster.webp"><img src="assets/examples/community-ozan-robin-wink-hat/poster.webp" alt="《Robin 猫眨眼与落下的姓名帽》的原始静态海报" width="360" /></a><br /><sub>《Robin 猫眨眼与落下的姓名帽》的原始静态海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırpsın ve kafasına Robin yazan bir şapka düşsün.
+```
+
+[原提示词见来源](https://x.com/ozansihay/status/2118238946412953985)
+
+**作者**: [Ozan Sihay (@ozansihay)](https://x.com/ozansihay)
+
+**原始来源**: [作者自报模型](https://x.com/ozansihay/status/2118238946412953985) · [来源详情](cases/community-ozan-robin-wink-hat/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
+
+#### 99. 蓝发女仆对话动画原型
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-mirochill-anime-dialogue-prototype/animation.mp4"><img src="assets/readme-previews/community-mirochill-anime-dialogue-prototype/animation.jpg" alt="蓝发动漫女仆改变表情并出现英文对白字幕" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>蓝发动漫女仆改变表情并出现英文对白字幕</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Mirochill (@mirochill)](https://x.com/mirochill)
+
+**原始来源**: [作者自报模型](https://x.com/mirochill/status/2118328887348191491) · [来源详情](cases/community-mirochill-anime-dialogue-prototype/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-mirochill-ram-altman-animation"></a>
+
+#### 100. Ram Altman 内存条恶搞动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-mirochill-ram-altman-animation/animation.mp4"><img src="assets/readme-previews/community-mirochill-ram-altman-animation/animation.jpg" alt="Sam Altman 咬电脑内存条的 AI 恶搞画面" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>Sam Altman 咬电脑内存条的 AI 恶搞画面</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Mirochill (@mirochill)](https://x.com/mirochill)
+
+**原始来源**: [作者自报模型](https://x.com/mirochill/status/2118267971025944955) · [来源详情](cases/community-mirochill-ram-altman-animation/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-sailor-dance"></a>
+
+#### 101. 月下美少女战士舞蹈
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif"><img src="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif" alt="夜景中的美少女战士舞蹈" width="700" /></a><br /><sub>夜景中的美少女战士舞蹈</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+创建一个 GIF，内容是 一位美少女战士在跳舞
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-sailor-dance/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-cat-programmer"></a>
+
+#### 102. 黏土橘猫敲键盘
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-cat-programmer/8ed3d79aa8c9de6c2722d2426f9a406f.gif"><img src="assets/examples/community-struggle-cat-programmer/8ed3d79aa8c9de6c2722d2426f9a406f.gif" alt="橘猫敲键盘，旁边放着咖啡" width="700" /></a><br /><sub>橘猫敲键盘，旁边放着咖啡</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-cat-programmer/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-struggle-desk-animation"></a>
+
+#### 103. 桌面照片清理并转动图
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-struggle-desk-animation/a4f35dfc424561c644adc7533b89ff8e.gif"><img src="assets/examples/community-struggle-desk-animation/a4f35dfc424561c644adc7533b89ff8e.gif" alt="清理后的桌面上向日葵与玩偶动图" width="700" /></a><br /><sub>清理后的桌面上向日葵与玩偶动图</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [桌面实拍参考照片](https://i-blog.csdnimg.cn/img_convert/28c1519fce92a17d56fef731dcf02691.jpeg)
+
+</details>
+
+**原始提示词**
+
+```text
+严格保留我上传照片里的主体外观和桌面环境不变，把黑色的线删掉，保留向日葵和玩偶，后面的蓝色背景优化成干净一点的背景，把它变成一张有趣的循环 GIF 动图：让画面里的主体轻轻弹跳并眨眼打招呼。
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-desk-animation/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-zunbeho-parody-ad-gifs"></a>
+
+#### 104. 十款戏仿网页广告 GIF：日本创作者测试
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-01.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-01.gif" alt="英语课程戏仿横幅，讲师与关闭按钮随帧变化。" width="360" /></a><br /><sub>英语课程戏仿横幅，讲师与关闭按钮随帧变化。</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-02.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-02.gif" alt="脱毛沙龙戏仿横幅，倒计时循环并闪烁优惠文字。" width="360" /></a><br /><sub>脱毛沙龙戏仿横幅，倒计时循环并闪烁优惠文字。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-03.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-03.gif" alt="房地产投资研讨会戏仿横幅，展示讲师、上涨图表及放大推销文字。" width="360" /></a><br /><sub>房地产投资研讨会戏仿横幅，展示讲师、上涨图表及放大推销文字。</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-05.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-05.gif" alt="AI 伴侣戏仿广告，动漫角色在循环中改变表情。" width="360" /></a><br /><sub>AI 伴侣戏仿广告，动漫角色在循环中改变表情。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-06.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-06.gif" alt="安全软件戏仿广告，虚假威胁计数与扫描按钮随帧变化。" width="360" /></a><br /><sub>安全软件戏仿广告，虚假威胁计数与扫描按钮随帧变化。</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-07.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-07.gif" alt="招聘机构戏仿广告，主持人改变手势并滚动新闻式薪资字幕。" width="360" /></a><br /><sub>招聘机构戏仿广告，主持人改变手势并滚动新闻式薪资字幕。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-08.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-08.gif" alt="网购优惠券戏仿，弹窗重新出现且人物表情变化。" width="360" /></a><br /><sub>网购优惠券戏仿，弹窗重新出现且人物表情变化。</sub></td>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-09.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-09.gif" alt="在线健身戏仿横幅，肌肉讲师改变姿势和表情。" width="360" /></a><br /><sub>在线健身戏仿横幅，肌肉讲师改变姿势和表情。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-zunbeho-parody-ad-gifs/ad-10.gif"><img src="assets/examples/community-zunbeho-parody-ad-gifs/ad-10.gif" alt="流媒体服务戏仿横幅，促销卡片依次出现。" width="360" /></a><br /><sub>流媒体服务戏仿横幅，促销卡片依次出现。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词公开状态待核验**
+
+**作者**: [Zun-Beho](https://note.com/akikito/n/ne6232185c3c4)
+
+**原始来源**: [作者自报模型](https://note.com/akikito/n/ne6232185c3c4) · [来源详情](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
+
+#### 105. Pixel♡Love：游泳角色动画帧表
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-temae-pixel-love-swimming-sheet/swimming-frames.png"><img src="assets/examples/community-temae-pixel-love-swimming-sheet/swimming-frames.png" alt="静态双排帧表：深色头发、粉色服装的像素角色展示十六个游泳姿势。" width="700" /></a><br /><sub>静态双排帧表：深色头发、粉色服装的像素角色展示十六个游泳姿势。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [❐てまえ❐ (temae)](https://note.com/temae/n/n5b9b365d8c99)
+
+**原始来源**: [作者自报模型](https://note.com/temae/n/n5b9b365d8c99) · [来源详情](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
+
+#### 106. 炭治郎像素风水刃循环动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-tanjiro-pixel-loop/source-01.mp4"><img src="assets/readme-previews/community-kiki-tanjiro-pixel-loop/source-01.jpg" alt="像素风剑士挥刀穿过弯曲蓝色水流效果。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>像素风剑士挥刀穿过弯曲蓝色水流效果。</sub></td>
+</tr>
+</table>
+
+<details>
+<summary>参考图</summary>
+
+参考 / 输入图，不是生成结果。
+
+- [来源附带角色参考图，文件获取尚未完成。](https://pbs.twimg.com/media/HWWEpmba0AAmqWc?format=webp&name=large)
+
+</details>
+
+**原始提示词**
+
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
+
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+[原提示词见来源](https://x.com/Mayz1169/status/2118246507128541553)
+
+**作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118245929505669260) · [来源详情](cases/community-kiki-tanjiro-pixel-loop/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
+
+#### 107. 心跳舞模式对比：来源封面
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-heartbeat-dance-comparison/poster-01.webp"><img src="assets/examples/community-kiki-heartbeat-dance-comparison/poster-01.webp" alt="粉发角色按 Low、Medium、High 三列排列的静态封面。" width="700" /></a><br /><sub>粉发角色按 Low、Medium、High 三列排列的静态封面。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词公开状态待核验**
+
+**作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118241781074862569) · [来源详情](cases/community-kiki-heartbeat-dance-comparison/README.zh-CN.md)
+
+---
+
+<a id="source-case-community-kiki-malfoid-mood-stickers"></a>
+
+#### 108. 六段 Miss Malfoid 情绪贴纸循环动画
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-01.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-01.jpg" alt="猫耳 Q 版角色脸红并遮住脸。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色脸红并遮住脸。</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-02.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-02.jpg" alt="猫耳 Q 版角色炸毛生气。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色炸毛生气。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-03.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-03.jpg" alt="猫耳 Q 版角色抱臂表现不屑。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色抱臂表现不屑。</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-04.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-04.jpg" alt="猫耳 Q 版角色流下大颗泪水哭泣。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色流下大颗泪水哭泣。</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-05.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-05.jpg" alt="猫耳 Q 版角色做出得意反应。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色做出得意反应。</sub></td>
+<td align="center"><a href="assets/examples/community-kiki-malfoid-mood-stickers/source-06.mp4"><img src="assets/readme-previews/community-kiki-malfoid-mood-stickers/source-06.jpg" alt="猫耳 Q 版角色做出绿色爱心手势。" width="360" /><br />视频首帧预览 · 打开动画</a><br /><sub>猫耳 Q 版角色做出绿色爱心手势。</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+**提示词公开状态待核验**
+
+**作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
+
+**原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118355858208010412) · [来源详情](cases/community-kiki-malfoid-mood-stickers/README.zh-CN.md)
+
+---
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
-
-<a id="collection"></a>
-
-## 📝 完整提示词
-
-目前未在仓库转载完整提示词。案例页会链接已公开原文，并明确标注未公开的提示词。来源索引不会冒充可复制提示词。
 
 <a id="using"></a>
 

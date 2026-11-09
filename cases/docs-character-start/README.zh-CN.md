@@ -27,9 +27,31 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
+```text
+Create a children’s book illustration introducing a main character.
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character)
 
 ## 来源与核对信息
 

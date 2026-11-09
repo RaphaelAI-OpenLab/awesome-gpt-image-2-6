@@ -29,9 +29,11 @@ The fal tab shows the original markup edit prompt: blue cushion, removal of the 
 
 ## Original prompt
 
-[Original prompt at source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+```text
+Follow the red markup on this photo. Each number marks a spot and the legend box explains what to do there. Apply every instruction, then remove all of the markup, including the numbers and the legend box, so the result is a clean photo.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## Attribution and verification
 

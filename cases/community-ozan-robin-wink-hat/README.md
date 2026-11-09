@@ -34,9 +34,11 @@ A gray cat winks before a cap labelled Robin drops onto its head. The original r
 
 ## Original prompt
 
-[Original prompt at source](https://x.com/ozansihay/status/2118238946412953985)
+```text
+Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırpsın ve kafasına Robin yazan bir şapka düşsün.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://x.com/ozansihay/status/2118238946412953985)
 
 ## Attribution and verification
 

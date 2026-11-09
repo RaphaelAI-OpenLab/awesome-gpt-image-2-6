@@ -33,9 +33,11 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
 
 ## Attribution and verification
 

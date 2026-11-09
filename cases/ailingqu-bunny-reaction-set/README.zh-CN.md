@@ -33,9 +33,33 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+**兔兔点赞**
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**兔兔笑出眼泪**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+**兔兔犯困**
+
+```text
+A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
 ## 来源与核对信息
 

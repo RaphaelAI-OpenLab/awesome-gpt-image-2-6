@@ -27,9 +27,16 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 
 ## 来源与核对信息
 
