@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+  "author": "YaReYaRu30Life",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPTimage2.6アプデ記念\nGIFを作成してみる",
+  "prompt_source_url": "https://x.com/YaReYaRu30Life/status/2118166505603153922",
+  "prompts": [
+    {
+      "path": "cases/social-pixel-hero-glowing-sword/prompt.txt",
+      "sha256": "a87d7a6508c58a8fc453899ad1f7096cf107edebd96855c1b90e6f0db98cf925"
+    }
+  ],
+  "source_html_sha256": "92fc75a55aa2a51c8ac200eb83eec40537e10a6e428ca34ae8a8505dbe0c2608",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-pixel-hero-glowing-sword/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWU9NFGbgAAxOww.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWU9NFGbgAAxOww.mp4",
+      "sha256": "ce15c1e621aa2aca0e4418ea2432cabd611318eab598064d9b5304d43ff3f59c",
+      "bytes": 47632,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-pixel-hero-glowing-sword/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWU9NFGbgAAxOww.mp4",
+      "sha256": "2f17f1e1be38cd0aaf1c10d8e6b80e21a3fae5ae11fba5be4063b62d31ba9918",
+      "bytes": 247801,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-pixel-hero-glowing-sword/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

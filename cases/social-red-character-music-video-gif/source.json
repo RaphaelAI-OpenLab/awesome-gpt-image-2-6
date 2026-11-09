@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+  "author": "Ayu_AI_0912",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6でGIFアニメ！\nうおおお！\n1分くらいでできちゃったぞ。",
+  "prompt_source_url": "https://x.com/Ayu_AI_0912/status/2118138025024839939",
+  "prompts": [
+    {
+      "path": "cases/social-red-character-music-video-gif/prompt.txt",
+      "sha256": "907138b27d46b511139fdcde27905dbab5dc3751d0429b9256201f1c0d53b518"
+    }
+  ],
+  "source_html_sha256": "7150790c9bb1286b6f0e0a76c035af5a7f299b36cddc44fa5d32ab1d5ecd7319",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "作者说明以附件图为输入；原帖未提供独立输入图，只保存该帖公开动画。",
+  "media": [
+    {
+      "path": "assets/examples/social-red-character-music-video-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUi_tIbEAAZiHm.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUi_tIbEAAZiHm.mp4",
+      "sha256": "b8ee1e1afe83b133bef4c54d6f511f33c1559ecbbafe1f3ae156d4371ef25cf2",
+      "bytes": 309907,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-red-character-music-video-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUi_tIbEAAZiHm.mp4",
+      "sha256": "1899d6f466bad38b988c2cd363d93b4cc5b80e5c070386dce1d6d35e6ef1d474",
+      "bytes": 3063308,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-red-character-music-video-gif/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

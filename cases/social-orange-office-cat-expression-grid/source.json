@@ -1,0 +1,95 @@
+{
+  "source_url": "https://x.com/karanwithai/status/2118156092865994837",
+  "author": "karanwithai",
+  "model": "GPT Image 2.6",
+  "model_evidence": "ChatGPT Images 2.6 居然能直接出 GIF 表情包了。",
+  "prompt_source_url": "https://x.com/karanwithai/status/2118156317034693026",
+  "prompts": [
+    {
+      "path": "cases/social-orange-office-cat-expression-grid/prompt.txt",
+      "sha256": "64bdb35857a7446e120b4e14c874f4574d61d55d2d7c0beba6cc69848a2defce"
+    }
+  ],
+  "source_html_sha256": "62ce614426c50d5b30ae6724c255db19ae871953dd515b4b2c29ba3fcdf27f52",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "保存一张12格静态表情网格与原帖公开的三段动态附件；未声称12段独立动画全部公开，同一角色集合合并为一例。 公开文字指令对应12格静图；三段动态的逐条追加指令未公开，不补造动画提示词。",
+  "media": [
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/source-02.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzpqJWMAAq-Ll.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUzpqJWMAAq-Ll.mp4",
+      "sha256": "3197d5d654f053420ea9d90e33002e49abcfe9ccd91875b8267940b625ed4035",
+      "bytes": 18170,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/source-03.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzrCOXcAADdJI.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUzrCOXcAADdJI.mp4",
+      "sha256": "ceefb8cafb304446aa922f754d95b6a126ba6aa6ac958e7e1e80ad1f4960055b",
+      "bytes": 14544,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/source-04.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzsLIWkAA7sb8.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWUzsLIWkAA7sb8.mp4",
+      "sha256": "ceb2f2b7378d1c9022e4608188b1baed5760a8ba1a9d780af204d8b89176061e",
+      "bytes": 19707,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/preview-02.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzpqJWMAAq-Ll.mp4",
+      "sha256": "13e7e1085491251c906200bcb66e3b0554601a68ce82e7311197ef4f17a867e9",
+      "bytes": 215159,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-orange-office-cat-expression-grid/source-02.mp4"
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/preview-03.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzrCOXcAADdJI.mp4",
+      "sha256": "257a6eb5ed9021c3482101569bc83b25ea4fda0424e29a7e87ebc9aa34298cdb",
+      "bytes": 233041,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-orange-office-cat-expression-grid/source-03.mp4"
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/preview-04.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWUzsLIWkAA7sb8.mp4",
+      "sha256": "24a4e9289bb7fd31eb2f0215920fbbe08c8579eab68ac413c8357932cc11a10f",
+      "bytes": 224615,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-orange-office-cat-expression-grid/source-04.mp4"
+    },
+    {
+      "path": "assets/examples/social-orange-office-cat-expression-grid/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWUzoi4WYAAHCTr.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWUzoi4WYAAHCTr?format=jpg&name=large",
+      "sha256": "4a72abc06b8e7e44b9b72dbe32936260a8865be3da0d838682145d00a445455e",
+      "bytes": 425291,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

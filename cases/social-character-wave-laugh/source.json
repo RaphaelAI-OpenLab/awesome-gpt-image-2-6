@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/okan_aitool/status/2118201578406772887",
+  "author": "okan_aitool",
+  "model": "GPT Image 2.6",
+  "model_evidence": "＼ChatGPTのImage 2.6アプデ！！／",
+  "prompt_source_url": "https://x.com/okan_aitool/status/2118201578406772887",
+  "prompts": [
+    {
+      "path": "cases/social-character-wave-laugh/prompt.txt",
+      "sha256": "333d5ac54a9fcac4ff34f1d795eecc382cfe2a2613e78106cd02094c2edf5272"
+    }
+  ],
+  "source_html_sha256": "5a5459156376ffec371995ae5cf8b04541131817fb89c5166b6d77daabcd2f67",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "原帖另附两张更新功能图解，不把功能图解计为模型输出或独立案例。未公开独立的角色输入图。",
+  "media": [
+    {
+      "path": "assets/examples/social-character-wave-laugh/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWVdGeda4AAyrwo.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWVdGeda4AAyrwo.mp4",
+      "sha256": "65fd8746c93320713334de8dbd20e25dc7e8efafbbeafaf6738251a82f1651c7",
+      "bytes": 30788,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-character-wave-laugh/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWVdGeda4AAyrwo.mp4",
+      "sha256": "6f2e000c141da271a20d564f6b4ba36c99af627fa4fb69dbdb8cff561e7638af",
+      "bytes": 377840,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-character-wave-laugh/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

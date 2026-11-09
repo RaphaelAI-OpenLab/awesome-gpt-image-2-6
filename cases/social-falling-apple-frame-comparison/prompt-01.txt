@@ -1,0 +1,5 @@
+3:4.
+GIF生成
+frame_count = 64
+frame_duration_ms = 30
+3:4で木からりんごが落ちる差分

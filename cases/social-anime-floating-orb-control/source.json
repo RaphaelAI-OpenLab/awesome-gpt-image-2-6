@@ -1,0 +1,53 @@
+{
+  "source_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+  "author": "MiraMusic_AI",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT image2.6検証2",
+  "prompt_source_url": "https://x.com/MiraMusic_AI/status/2118513591490163168",
+  "prompts": [
+    {
+      "path": "cases/social-anime-floating-orb-control/prompt.txt",
+      "sha256": "bddba0afcf06042b81125a14d64f2b12a11ca878788a1c37d86b045e426f9a1c"
+    }
+  ],
+  "source_html_sha256": "ab383124b27dc52098cbdc42d29c92db98ed8ba14b664e6744e48cc7fb7920c7",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "作者要求6秒、100张是原提示词内容，不表示仓库已验证实际输出参数。第二附件为公开参考输入。",
+  "media": [
+    {
+      "path": "assets/examples/social-anime-floating-orb-control/source-01.mp4",
+      "original_url": "https://video.twimg.com/amplify_video/2118513573299404800/vid/avc1/1280x720/slbK0NNzdmrgVwqG.mp4?tag=29",
+      "download_url": "https://video.twimg.com/amplify_video/2118513573299404800/vid/avc1/1280x720/slbK0NNzdmrgVwqG.mp4?tag=29",
+      "sha256": "63e7443fd212a766ffe46f0798c942c8aa7474cbb7645c45481e13d501dcb06d",
+      "bytes": 803282,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-anime-floating-orb-control/preview-01.gif",
+      "original_url": "https://video.twimg.com/amplify_video/2118513573299404800/vid/avc1/1280x720/slbK0NNzdmrgVwqG.mp4?tag=29",
+      "sha256": "2334c90f1d1fdde7584f58e95f794afa3d041a935b91182a30ee2249c225485d",
+      "bytes": 3595070,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-anime-floating-orb-control/source-01.mp4"
+    },
+    {
+      "path": "assets/references/social-anime-floating-orb-control/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWZ43tjbkAAJYlh.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWZ43tjbkAAJYlh?format=jpg&name=large",
+      "sha256": "5fbab4a8a326f50cb18b3d526ed9d2dd655cb26790af4c26bbfce6ad7a0a7f13",
+      "bytes": 100271,
+      "mime_type": "image/jpeg",
+      "role": "reference",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

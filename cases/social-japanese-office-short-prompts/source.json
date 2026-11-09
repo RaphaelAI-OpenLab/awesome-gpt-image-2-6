@@ -1,0 +1,68 @@
+{
+  "source_url": "https://x.com/buusk4/status/2118543259257712714",
+  "author": "buusk4",
+  "model": "GPT Image 2.6",
+  "model_evidence": "なんかGPT image2.6のtipsみたいなのが流行ってたけど、もはや細かい指示とか要らないんだよね🙄",
+  "prompt_source_url": "https://x.com/buusk4/status/2118543259257712714",
+  "prompts": [
+    {
+      "path": "cases/social-japanese-office-short-prompts/prompt.txt",
+      "sha256": "7a3782145769bea23b4e4ad37857893551d13b3324e174c2b1773960fcf6aa08"
+    }
+  ],
+  "source_html_sha256": "74014088bd473cbbf979436f8123e2753888592bcd585e8e8a0c8bdb75af091b",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "两组简短指令对应原帖第1/2张与第3/4张；四张输出属于同一提示词对照实验，合并一例。",
+  "media": [
+    {
+      "path": "assets/examples/social-japanese-office-short-prompts/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaT17cbUAADHCj.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWaT17cbUAADHCj?format=jpg&name=large",
+      "sha256": "943c310298c0145c3f77db09b37ec4833a62ad1c0b7a6b9745a5c180b0add333",
+      "bytes": 291928,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    },
+    {
+      "path": "assets/examples/social-japanese-office-short-prompts/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaT2XqbIAAOT_N.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWaT2XqbIAAOT_N?format=jpg&name=large",
+      "sha256": "65781370189c236a7560773a3f72472ca96ef73d4a9be880f47fff1d59940a8b",
+      "bytes": 234838,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    },
+    {
+      "path": "assets/examples/social-japanese-office-short-prompts/source-03.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaT2wha8AAk7st.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWaT2wha8AAk7st?format=jpg&name=large",
+      "sha256": "2f806739e28008bb08219c5f1d0af4ee2442ed8f8b17f35cf1f0858dbcf95581",
+      "bytes": 266525,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    },
+    {
+      "path": "assets/examples/social-japanese-office-short-prompts/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWaT3Nca0AEcwmP.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWaT3Nca0AEcwmP?format=jpg&name=large",
+      "sha256": "59f65c95d4e0910896abaafd3b5620d16f575464e1126784f84a8a82f9699405",
+      "bytes": 239253,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}

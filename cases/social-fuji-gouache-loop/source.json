@@ -1,0 +1,41 @@
+{
+  "source_url": "https://x.com/devteamdrew/status/2118308538564989025",
+  "author": "devteamdrew",
+  "model": "GPT Image 2.6",
+  "model_evidence": "A few scenic GIFs made using ChatGPT Images 2.6",
+  "prompt_source_url": "https://x.com/devteamdrew/status/2118538745175503130",
+  "prompts": [
+    {
+      "path": "cases/social-fuji-gouache-loop/prompt.txt",
+      "sha256": "16ad139f7ab4ef2aed54db328a9bd7ce76a1ea224cd09df4a917039951b553eb"
+    }
+  ],
+  "source_html_sha256": "561da1ebac61d625a1b56932385fe60fbfb2f49af2f3a290b3cfae26e88e7e07",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "",
+  "media": [
+    {
+      "path": "assets/examples/social-fuji-gouache-loop/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWW9tuiXoAATLhp.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWW9tuiXoAATLhp.mp4",
+      "sha256": "62dfc9bc144e029b29c6184b3b38975afcb66ad3902ef66454a817c819846e3e",
+      "bytes": 138219,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-fuji-gouache-loop/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWW9tuiXoAATLhp.mp4",
+      "sha256": "b53e00d530cf72904d40cc03d59f0c2192be7ac68b50910f1771571e2a41cd14",
+      "bytes": 1786739,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-fuji-gouache-loop/source-01.mp4"
+    }
+  ],
+  "unarchived": []
+}

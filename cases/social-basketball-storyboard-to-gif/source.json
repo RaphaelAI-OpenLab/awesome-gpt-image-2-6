@@ -1,0 +1,53 @@
+{
+  "source_url": "https://x.com/crayon1267/status/2118186300339892472",
+  "author": "crayon1267",
+  "model": "GPT Image 2.6",
+  "model_evidence": "使用GPT image2.6生成一个超酷炫的gif投篮表情包。",
+  "prompt_source_url": "https://x.com/crayon1267/status/2118186300339892472",
+  "prompts": [
+    {
+      "path": "cases/social-basketball-storyboard-to-gif/prompt.txt",
+      "sha256": "45bf9eb070531c082eee308975163bbd521337c88982ec6697410b19ca74d047"
+    }
+  ],
+  "source_html_sha256": "68ae14b68ac8d5913480fe6a893f0f54c4eab9bc22feb9722917e2852471940f",
+  "verification": "按原帖独立指令与素材对应关系核对；仅核对来源，未独立复现。",
+  "collected_at": "2026-11-09",
+  "notes": "作者先生成动作顺序图，再作为参考生成GIF；保存公开动作分镜作为输入，不伪造第一阶段未公开指令。",
+  "media": [
+    {
+      "path": "assets/examples/social-basketball-storyboard-to-gif/source-01.mp4",
+      "original_url": "https://video.twimg.com/tweet_video/HWVOyYGacAA2RLP.mp4",
+      "download_url": "https://video.twimg.com/tweet_video/HWVOyYGacAA2RLP.mp4",
+      "sha256": "b8b800667ba9a1afd3b88f1b717405cd1d82e5eb89119df2383d516bd2ea3807",
+      "bytes": 67474,
+      "mime_type": "video/mp4",
+      "role": "output",
+      "transformation": "none",
+      "note": ""
+    },
+    {
+      "path": "assets/examples/social-basketball-storyboard-to-gif/preview-01.gif",
+      "original_url": "https://video.twimg.com/tweet_video/HWVOyYGacAA2RLP.mp4",
+      "sha256": "7bcd8b37b057c5b580d673ed62d97aa7f0b9aaea8599395c897849ba9541d370",
+      "bytes": 517310,
+      "mime_type": "image/gif",
+      "role": "output",
+      "transformation": "ffmpeg fps=10; width<=480; palette<=128; derived GIF viewing copy",
+      "derived_from": "assets/examples/social-basketball-storyboard-to-gif/source-01.mp4"
+    },
+    {
+      "path": "assets/references/social-basketball-storyboard-to-gif/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVOyYDbAAAhzXK.jpg",
+      "download_url": "https://pbs.twimg.com/media/HWVOyYDbAAAhzXK?format=jpg&name=large",
+      "sha256": "aaeec1d2057953c53cc69a88755cfa5382a76cda21647188d0c8c1fc88cf1f51",
+      "bytes": 254904,
+      "mime_type": "image/jpeg",
+      "role": "reference",
+      "transformation": "none",
+      "retrieval": "normal-browser-image-viewer-download",
+      "http_direct_status": 403
+    }
+  ],
+  "unarchived": []
+}
