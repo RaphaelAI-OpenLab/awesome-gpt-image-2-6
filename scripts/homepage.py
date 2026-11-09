@@ -17,10 +17,10 @@ def render_home(config, prompts, language, render_prompt):
     def case_link(item):
         return md_link(localized(item['title'], language), '#source-case-' + item['id'])
     lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/header.svg)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
-             '# 🎨 ' + title, '',
-             c('An open collection of prompts, visual examples and original sources for GPT Image 2.6.', 'GPT Image 2.6 提示词、创意案例与原始来源合集。'), '',
+             '# 🚀 ' + title + ' Prompts', '',
              repo_badges(config, language), '',
-             '⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ', '本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new') + c(', and we will remove it immediately.', '，我们将立即移除。'), '',
+             '> 🎨 ' + c('A curated collection of creative prompts and visual examples for GPT Image 2.6.', 'GPT Image 2.6 创意提示词与案例精选合集。'), '',
+             '> ⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ', '本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new?template=report-problem.yml') + c(', and we will remove it immediately.', '，我们将立即移除。'), '', '---', '',
              language_nav(language), '', '---', '']
     if language not in DETAIL_LANGUAGES:
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']

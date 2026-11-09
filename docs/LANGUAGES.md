@@ -38,10 +38,10 @@ README 界面提供 16 个真实语言版本，每种语言都有独立生成文
 - Change interface copy in the generator and catalogs together. Missing UI translations fail validation instead of silently publishing an English interface under another language label.
 - 主合集数据为 `content/source-cases.json`，外站数据为 `external-sites/source-cases.json`，完整提示词为 `content/prompts.json`。外站目录单独按来源网站展示，中英文详情页生成到 `external-sites/cases/`。新案例沿用已说明的英文内容回退，不要求先补齐另外十四种语言的案例正文。
 - Do not translate or reconstruct undisclosed original prompts. Do not relabel a creator claim as independent verification.
-- `scripts/presentation.py` generates language badges, repository navigation badges and localized media placeholders. They use original local SVG artwork, with no remote image dependencies.
-- CI and Star badges are navigation links, **not cached pass/fail states or star counts**. Open the actual GitHub workflow or repository to see live values. The Star History link uses the current canonical repository; no third-party chart image is embedded.
+- `scripts/presentation.py` 生成本地语言标签、兼容旧链接的导航徽章和多语言素材占位图。首页身份区使用与 YouMind 相同类型的五枚紧凑徽章：Awesome、实时 Stars、MIT、真实校验工作流状态、PRs welcome。
+- Star 数量通过 Shields.io 读取本仓库；CI 状态来自本仓库 `validate.yml` 的默认分支徽章。两者均依赖外部图片服务，不在仓库中缓存或手写状态。MIT 徽章链接实际许可证，其适用范围仍为代码和原创文档等；第三方内容遵守各自条款。
 
-界面翻译按英文原文作键维护，缺译会报错；案例新增则走明确的英文回退，不影响每小时收集。徽章不伪装实时 CI 成绩或 Star 数量。所有装饰性标签与占位图都从代码本地生成，案例素材继续沿用独立来源和使用条件。
+界面翻译按英文原文作键维护，缺译会报错；案例新增则走明确的英文回退，不影响每小时收集。首页顺序为标题、仓库徽章、引用式简介、引用式版权声明，再以分隔线连接语言导航。版权入口打开实际存在的 `report-problem.yml` 问题表单。语言标签与占位图从代码本地生成，案例素材继续沿用独立来源和使用条件。
 
 ## Build and verify / 构建与验证
 

@@ -3,6 +3,7 @@
   "messages": {
     "**: ": "**：",
     ", and we will remove it immediately.": "，我们将立即移除。",
+    "A curated collection of creative prompts and visual examples for GPT Image 2.6.": "GPT Image 2.6 创意提示词与案例精选合集。",
     "Accessible": "可打开",
     "Acknowledgements": "致谢",
     "Add an example": "提交案例",
@@ -12,7 +13,6 @@
     "Added | Case | Evidence": "收录日期 | 案例 | 依据",
     "All cases": "全部案例",
     "An open collection for GPT Image 2.6 prompts, visual examples, and original sources.": "收集 GPT Image 2.6 的提示词、效果图与原始来源。",
-    "An open collection of prompts, visual examples and original sources for GPT Image 2.6.": "GPT Image 2.6 提示词、创意案例与原始来源合集。",
     "Archived locally": "已存入仓库",
     "Attribution and verification": "来源与核对信息",
     "Attribution does not grant a media license. Repository MIT terms do not cover third-party outputs. Local files record provenance and reuse status; source-attributed does not mean open-licensed.": "标注来源不等于取得素材许可。仓库 MIT 协议不覆盖第三方输出；本地素材逐项记录来源与使用状态，source-attributed 不代表开放许可。",

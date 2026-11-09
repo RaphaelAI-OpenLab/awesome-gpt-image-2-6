@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=vi-VN)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-Bộ sưu tập mở gồm các câu lệnh, ví dụ trực quan và nguồn gốc cho GPT Image 2.6.
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Gắn sao trên GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Mã nguồn và tài liệu gốc: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![CI kiểm tra hợp lệ](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Hoan nghênh đóng góp](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-vi-VN.svg" alt="MÃ NGUỒN · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-vi-VN.svg" alt="NGUỒN · ĐIỀU KHOẢN" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-vi-VN.svg" alt="PR · HOAN NGHÊNH" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-vi-VN.svg" alt="CI · XEM CÁC LẦN CHẠY" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-vi-VN.svg" alt="GITHUB · GẮN SAO" height="34" /></a>
+> 🎨 Bộ sưu tập chọn lọc các câu lệnh sáng tạo và ví dụ trực quan cho GPT Image 2.6.
 
-⚠️ **Thông báo bản quyền**: Các câu lệnh và tư liệu trong bộ sưu tập này được thu thập từ các nguồn công khai chỉ nhằm mục đích giáo dục. Nếu bạn cho rằng bất kỳ nội dung nào xâm phạm quyền của mình, vui lòng [mở một báo cáo vấn đề](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new), và chúng tôi sẽ gỡ bỏ ngay lập tức.
+> ⚠️ **Thông báo bản quyền**: Các câu lệnh và tư liệu trong bộ sưu tập này được thu thập từ các nguồn công khai chỉ nhằm mục đích giáo dục. Nếu bạn cho rằng bất kỳ nội dung nào xâm phạm quyền của mình, vui lòng [mở một báo cáo vấn đề](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), và chúng tôi sẽ gỡ bỏ ngay lập tức.
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en.svg" alt="Xem bản dịch: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="Xem bản dịch: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW.svg" alt="Xem bản dịch: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP.svg" alt="Xem bản dịch: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR.svg" alt="Xem bản dịch: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="Xem bản dịch: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN-current.svg" alt="Ngôn ngữ hiện tại: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="Xem bản dịch: हिन्दी" height="34" /></a><br />

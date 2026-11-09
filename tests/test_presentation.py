@@ -105,7 +105,7 @@ class PresentationTests(unittest.TestCase):
             for case in self.cases:
                 if case['status']=='published': self.assertIn(page_path(case,lang),text)
 
-    def test_badges_are_local_inert_svg_not_remote_status_snapshots(self):
+    def test_local_navigation_is_inert_and_repository_badges_use_live_sources(self):
         for path, content in asset_outputs().items():
             root=ET.fromstring(content)
             self.assertTrue(root.tag.endswith('svg'))
@@ -116,8 +116,11 @@ class PresentationTests(unittest.TestCase):
             self.assertEqual(path.read_text(),content)
         badges=repo_badges(self.config,'en')
         self.assertNotIn('passing',badges.lower())
-        self.assertNotIn('shields.io',badges)
-        self.assertIn('/actions/workflows/validate.yml',badges)
+        self.assertIn('https://awesome.re/badge.svg',badges)
+        self.assertIn('https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social',badges)
+        self.assertIn(repo_url(self.config)+'/actions/workflows/validate.yml/badge.svg?branch=main',badges)
+        self.assertIn('https://img.shields.io/badge/License-MIT-lightgrey.svg',badges)
+        self.assertNotIn('YouMind-OpenLab',badges)
 
     def test_canonical_repository_and_real_issue_templates(self):
         self.assertEqual(self.config['project']['repository_owner'],'RaphaelAI-OpenLab')

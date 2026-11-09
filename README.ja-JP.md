@@ -4,13 +4,19 @@
 
 [![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ja-JP)
 
-# 🎨 Awesome GPT Image 2.6
+# 🚀 Awesome GPT Image 2.6 Prompts
 
-GPT Image 2.6 のプロンプト、作例、原典を集めたオープンなコレクションです。
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub でスターを付ける](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![コードと独自ドキュメント: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![検証 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![貢献を歓迎します](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<a href="LICENSE"><img src="assets/badges/license-ja-JP.svg" alt="コード · MIT" height="34" /></a> <a href="docs/ATTRIBUTION.md"><img src="assets/badges/sources-ja-JP.svg" alt="出典 · 利用条件" height="34" /></a> <a href="CONTRIBUTING.md"><img src="assets/badges/contribute-ja-JP.svg" alt="PR 歓迎" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml"><img src="assets/badges/ci-ja-JP.svg" alt="CI · 実行履歴を見る" height="34" /></a> <a href="https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6"><img src="assets/badges/star-ja-JP.svg" alt="GITHUB · スター" height="34" /></a>
+> 🎨 GPT Image 2.6 のクリエイティブなプロンプトと作例を厳選したコレクション。
 
-⚠️ **著作権に関するお知らせ**: このコレクションのプロンプトとメディアは、教育目的に限り公開情報から収集しています。権利を侵害する内容が含まれているとお考えの場合は、 [Issue を作成してください](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new)。直ちに削除いたします。
+> ⚠️ **著作権に関するお知らせ**: このコレクションのプロンプトとメディアは、教育目的に限り公開情報から収集しています。権利を侵害する内容が含まれているとお考えの場合は、 [Issue を作成してください](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)。直ちに削除いたします。
+
+---
 
 <a href="README.md"><img src="assets/badges/language-en.svg" alt="翻訳を見る: English" height="34" /></a> <a href="README.zh-CN.md"><img src="assets/badges/language-zh-CN.svg" alt="翻訳を見る: 简体中文" height="34" /></a> <a href="README.zh-TW.md"><img src="assets/badges/language-zh-TW.svg" alt="翻訳を見る: 繁體中文" height="34" /></a> <a href="README.ja-JP.md"><img src="assets/badges/language-ja-JP-current.svg" alt="現在の言語: 日本語" height="34" /></a><br />
 <a href="README.ko-KR.md"><img src="assets/badges/language-ko-KR.svg" alt="翻訳を見る: 한국어" height="34" /></a> <a href="README.th-TH.md"><img src="assets/badges/language-th-TH.svg" alt="翻訳を見る: ไทย" height="34" /></a> <a href="README.vi-VN.md"><img src="assets/badges/language-vi-VN.svg" alt="翻訳を見る: Tiếng Việt" height="34" /></a> <a href="README.hi-IN.md"><img src="assets/badges/language-hi-IN.svg" alt="翻訳を見る: हिन्दी" height="34" /></a><br />
