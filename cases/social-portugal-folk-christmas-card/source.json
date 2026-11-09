@@ -1,0 +1,33 @@
+{
+  "source_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+  "author": "Goodmanprotocol",
+  "published_at": "2026-11-06T04:32:20+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "GPT Image 2.6",
+  "prompt_source_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+  "prompt_path": "cases/social-portugal-folk-christmas-card/prompt.txt",
+  "prompt_sha256": "b88c9b8dba4a6d0f664aa87bc66c661593ed0349e773a762b0d05132b599f0e1",
+  "source_html_sha256": "b66def0f28a7fa7dc4529f0f343a2238a28ebabde2862bd8d707d6ac8b4a5c7e",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-portugal-folk-christmas-card/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWak-3YasAALZs0.jpg",
+      "sha256": "25336e4a87e8a90370b6aa20c97e94df00a48275eaf2927563fbbe1db9e4cf84",
+      "bytes": 315397,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-portugal-folk-christmas-card/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWak_nGbIAAeM4d.jpg",
+      "sha256": "0bb3d1652729e5b819713b7877d4f1a54e2e9cc28325aebc3cb329759f4cdb20",
+      "bytes": 294728,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+  "author": "DeepBlueX0",
+  "published_at": "2026-11-05T09:37:46+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "💝 GPT image 2.6 Prompt:",
+  "prompt_source_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+  "prompt_path": "cases/social-sleepy-star-eyed-emoji-fusion/prompt.txt",
+  "prompt_sha256": "c0069019b711f18bb6cb73a74332c5ec77d9f1a05b2151c166a75984d81848df",
+  "source_html_sha256": "309f2d0719e77dcab046714dc45b8fcb74fcfe72ec6bd13f8a1db42995a63cc7",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWhUJYbwAAPRhJ.jpg",
+      "sha256": "17bde432f4788f4b70563449777b6550ecf06c65fae2b7790ca6e3c9b10804ab",
+      "bytes": 89214,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWhUJXa4AAeX0t.jpg",
+      "sha256": "536adcafa478a345a183c1d7783b85aa2639dadd65d4620eb6328e9e5658a598",
+      "bytes": 88993,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWhUM1acAAdw5V.jpg",
+      "sha256": "b22200038de18a4c99099f61deb1a76b89bf93a22b67ebad2b3ccf494b4ed82c",
+      "bytes": 92162,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWhUMwaMAAcEuw.jpg",
+      "sha256": "3716b32bfdfe87f63f69ce11f0e50f01b710a53f80f19d9622b5c26b96128d0c",
+      "bytes": 99842,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

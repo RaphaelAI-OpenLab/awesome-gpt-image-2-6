@@ -10640,5 +10640,579 @@
       },
       "report_path": "cases/social-tifa-lockhart-peeling-poster/source.json"
     }
+  },
+  {
+    "id": "social-sleepy-star-eyed-emoji-fusion",
+    "status": "published",
+    "title": {
+      "en": "Emoji and kaomoji fusion posters",
+      "zh-CN": "Emoji 与颜文字融合表情海报"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+      "author": "DeepBlueX0",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: 💝 GPT image 2.6 Prompt: Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：💝 GPT image 2.6 Prompt: 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "iOS 系統Emoji × 顏文字× 全新表情設計\n\n每張獨立選擇兩個或多個不同的 Emoji 或顏文字進行融合，開放探索人物、動物、食物、物件、自然元素與各種情緒。\n\n整組變化來源類別與組合方式，探索 Emoji 與 Emoji、Emoji 與顏文字、多個顏文字等不同搭配，讓顏文字多次參與融合。每張選擇不同組合與心情，減少主體和表達重復。\n\n先確定本張的融合配方，提取各來源最有辨識度的五官、神態、輪廓、動作或字符特徵，將它們融合成一個完整的新表情，表達一種有趣的情緒或狀態。\n\n根據來源自身形態設計結果：臉部表情重點融合五官與神態；帶手勢或全身形態的表情保留有助於識別的身體結構；動物、物件和自然元素保留關鍵外形；顏文字的眼睛、嘴巴、符號或字符排列自然融入新表情。身體、四肢與動作由組合和表達需要決定。\n\n融合結果保持簡潔的表情圖標感，以主體輪廓和關鍵特徵傳達心情，細節適度，縮小後仍清晰可辨。\n\n畫面從上到下展示融合公式：上方用「×」連接所選來源，中間將「＝」旋轉90°，呈現為兩條並排的細竪線，下方展示融合後的新表情。新表情明顯大於來源，是畫面的視覺重點。\n\n公式中的 Emoji 參照 iOS 系統對應表情的外觀，保留容易辨認的造型、顏色、神態與動作。公式中的顏文字以清晰字符原樣呈現，保持所選字符及排列完整。\n\n融合後的新表情採用與 iOS Emoji 協調的視覺風格：造型簡潔圓潤，表情鮮明，色彩飽滿，具有柔和漸變、細膩高光與輕微立體感。人物、動物與物件保留各自適合的形態，整體如同同一套系統表情。\n\n根據新表情的情緒與主體配色，自由選擇協調的低飽和漸變背景，在新表情後方加入柔和的主題色光暈。光暈與主體保持適當的明度或色相差異，讓表情輪廓清楚可辨。\n\n在新表情附近寫一句簡短自然的中文心情短句，準確表達融合後的意思。字體形態與筆畫氣質呼應情緒，文字完整清晰，與表情和公式保持適當間距。\n\n公式符號、顏文字與背景保持足夠對比。畫面疏密協調，留白自然。\n\n竪版 9:16，n=10。每張為獨立單圖，逐張生成，不拼圖。\n\n左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後",
+          "url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+          "path": "cases/social-sleepy-star-eyed-emoji-fusion/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWhUJYbwAAPRhJ.jpg",
+        "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Emoji and kaomoji fusion posters",
+          "zh-CN": "Emoji 与颜文字融合表情海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+          "credit": "DeepBlueX0",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 89214,
+        "sha256": "17bde432f4788f4b70563449777b6550ecf06c65fae2b7790ca6e3c9b10804ab",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWhUJXa4AAeX0t.jpg",
+        "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Emoji and kaomoji fusion posters",
+          "zh-CN": "Emoji 与颜文字融合表情海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+          "credit": "DeepBlueX0",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 88993,
+        "sha256": "536adcafa478a345a183c1d7783b85aa2639dadd65d4620eb6328e9e5658a598",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWhUM1acAAdw5V.jpg",
+        "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Emoji and kaomoji fusion posters",
+          "zh-CN": "Emoji 与颜文字融合表情海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+          "credit": "DeepBlueX0",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 92162,
+        "sha256": "b22200038de18a4c99099f61deb1a76b89bf93a22b67ebad2b3ccf494b4ed82c",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWhUMwaMAAcEuw.jpg",
+        "path": "assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Emoji and kaomoji fusion posters",
+          "zh-CN": "Emoji 与颜文字融合表情海报"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/DeepBlueX0/status/2118276577322750086",
+          "credit": "DeepBlueX0",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 99842,
+        "sha256": "3716b32bfdfe87f63f69ce11f0e50f01b710a53f80f19d9622b5c26b96128d0c",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by DeepBlueX0 on 2026-11-05T09:37:46+00:00. The original prompt is reproduced without rewriting. ",
+      "zh-CN": "作者 DeepBlueX0 发布于 2026-11-05T09:37:46+00:00。提示词按原文收录，未改写。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-sleepy-star-eyed-emoji-fusion/source.json"
+    }
+  },
+  {
+    "id": "social-portugal-folk-christmas-card",
+    "status": "published",
+    "title": {
+      "en": "Photo-to-folk-art Christmas greeting cards",
+      "zh-CN": "照片转民间艺术风圣诞贺卡"
+    },
+    "category": "markup-edits",
+    "source": {
+      "url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+      "author": "Goodmanprotocol",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: GPT Image 2.6 Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：GPT Image 2.6 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.\n\nART STYLE:\n\n- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.\n- Slightly exaggerated, whimsical proportions.\n- Imperfect, irregular outlines and organic hand-drawn contours.\n- Simplified shapes with carefully selected decorative details.\n- Flat, bold, contrasting colours with a warm Christmas palette.\n- Subtle vintage paper texture with a refined printed-card finish.\n- Delicate hand-drawn decorative marks, patterns and festive accents.\n- Minimalist yet visually rich composition.\n\nCOLOUR PALETTE:\nUse traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.\n\nPRESERVE THE ORIGINAL PHOTOGRAPH:\nRetain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.\n\nDESIGN & COMPOSITION:\nCreate an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.\n\nSTRICT VISUAL RULES:\n\n- No photorealism.\n- No 3D rendering.\n- No realistic lighting or shadows.\n- No gradients.\n- No glossy or metallic effects.\n- No artificial digital painting appearance.\n- No excessive detail or visual clutter.\n\nThe final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.\n\nFORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.",
+          "url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+          "path": "cases/social-portugal-folk-christmas-card/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWak-3YasAALZs0.jpg",
+        "path": "assets/examples/social-portugal-folk-christmas-card/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photo-to-folk-art Christmas greeting cards",
+          "zh-CN": "照片转民间艺术风圣诞贺卡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+          "credit": "Goodmanprotocol",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 315397,
+        "sha256": "25336e4a87e8a90370b6aa20c97e94df00a48275eaf2927563fbbe1db9e4cf84",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWak_nGbIAAeM4d.jpg",
+        "path": "assets/examples/social-portugal-folk-christmas-card/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Photo-to-folk-art Christmas greeting cards",
+          "zh-CN": "照片转民间艺术风圣诞贺卡"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/Goodmanprotocol/status/2118562099987398753",
+          "credit": "Goodmanprotocol",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 294728,
+        "sha256": "0bb3d1652729e5b819713b7877d4f1a54e2e9cc28325aebc3cb329759f4cdb20",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by Goodmanprotocol on 2026-11-06T04:32:20+00:00. The original prompt is reproduced without rewriting. ",
+      "zh-CN": "作者 Goodmanprotocol 发布于 2026-11-06T04:32:20+00:00。提示词按原文收录，未改写。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-portugal-folk-christmas-card/source.json"
+    }
+  },
+  {
+    "id": "social-moonlit-lake-hanfu-portrait",
+    "status": "published",
+    "title": {
+      "en": "Woman seated in moonlit lake water",
+      "zh-CN": "月夜湖畔水中端坐的古风女子"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/sandmrk/status/2118269430014599535",
+      "author": "sandmrk",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: 左图：gpt-image-2.6-sunburst Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：左图：gpt-image-2.6-sunburst 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/sandmrk/status/2118269433626124798",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "9:16竖版，超写实人像摄影，月夜湖畔清冷氛围。成年东亚女性侧坐于湖边湿润岩石上，双腿垂入浅水，身形高挑纤细，胸部饱满，腰身收束流畅。身穿月白色纱质褙子，内衬淡青色抹胸，纱质披帛垂入水中。月光从右上方照射，形成冷银色轮廓光。\n\n【人物】\n成年东亚女性，清冷孤傲气质。瓜子脸（下巴尖，额头宽，清冷孤傲），丹凤眼（细长上挑，眼尾飞扬，妩媚冷艳），剑眉（粗直上扬，英气飒爽），薄唇（纤薄精致，清冷克制），尖鼻（鼻尖尖锐，冷艳凌厉）。五官严格匀称，透视关系正确：双眼大小一致对称，两眼间距等于单眼宽度，鼻翼宽度等于眼距，嘴唇宽度等于瞳孔间距，面部中线左右对称。眉心一颗小痣（增加辨识度）。乌黑低髻，简单银簪，素雅淡妆。\n\n【姿势】\n侧坐于湖边湿润岩石上，身体微微后仰，双手撑在身后岩石上。双腿向前伸展，垂入浅水中，水面泛起微微涟漪。头部微微抬起，丹凤眼直视镜头，眼神清冷孤傲。\n\n【服装】\n月白色纱质褙子，半透明，绣有淡墨色水纹和云纹。内衬淡青色抹胸，贴合承托。纱质披帛从肩部垂落，末端垂入水中，被水浸湿。整体修长含蓄，简洁内敛。\n\n【环境】\n月夜湖畔：深蓝色夜空，明月高悬，月光洒在湖面上形成银色光路。湖边有湿润的黑色岩石，水面平静如镜，倒映着月亮和人物。远处有模糊的柳树剪影。薄雾弥漫在湖面上，营造空灵氛围。\n\n【光影】\n月光从右上方照射，形成冷银色轮廓光，照亮发丝和纱质服装边缘。面部使用柔和的月光补光，保持清冷色调。水面反射月光，形成银色光路。整体色调：深蓝+银白+月白+淡青。\n\n【构图】\n中景构图，人物占据画面中央，双腿垂入水中形成纵向线条。月亮位于画面上方1/4处。水面倒影和薄雾营造层次。\n\nNegative: anime, CGI, plastic skin, over-smoothing, hard shadows, revealing clothing, wrong anatomy, extra fingers, text, watermark, logo, modern elements, Western fantasy, oversaturated, thick legs, chubby body, overweight, flat chest, asymmetric eyes, uneven facial features, distorted proportions, deformed face, warm lighting, golden hour, sunny day.\n\nAdd the exact watermark \"AI art gallery | @sandmrk\" at the bottom center. Montserrat Regular, pure white, slightly expanded letter spacing (+1.5px), medium-small size (2% of image height), maximum 25% image width, positioned 10% above the bottom edge. Crisp, elegant, consistent typography. No shadow, outline, glow or background.",
+          "url": "https://x.com/sandmrk/status/2118269433626124798",
+          "path": "cases/social-moonlit-lake-hanfu-portrait/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWWazxiaMAAtplU.jpg",
+        "path": "assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman seated in moonlit lake water",
+          "zh-CN": "月夜湖畔水中端坐的古风女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sandmrk/status/2118269430014599535",
+          "credit": "sandmrk",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 234281,
+        "sha256": "11ad7ea1b7c25573c467b61ebcbdc5abe0e4305f7dc633f50c68fbbbca037554",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by sandmrk on 2026-11-05T09:09:22+00:00. The original prompt is reproduced without rewriting. ",
+      "zh-CN": "作者 sandmrk 发布于 2026-11-05T09:09:22+00:00。提示词按原文收录，未改写。原帖明确左图为2.6 Sunburst、右图为2.5 Sunburst，仅收录左侧2.6结果；保留原提示词中的署名要求。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-moonlit-lake-hanfu-portrait/source.json"
+    }
+  },
+  {
+    "id": "social-seated-hanfu-woman-lotus-pond",
+    "status": "published",
+    "title": {
+      "en": "Seated hanfu woman by lotus pond at sunset",
+      "zh-CN": "夕阳下荷塘边坐着的汉服女子"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/fengnian_ai/status/2118386725676552194",
+      "author": "fengnian_ai",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: 左：GPT Image 2.6        Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：左：GPT Image 2.6        依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/fengnian_ai/status/2118386725676552194",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "An original cinematic semi-realistic fantasy portrait of a clearly adult East Asian woman, age 28, seated on a lakeside stone beneath trailing willow branches at golden hour. Long black hair with delicate pale lotus ornaments, elegant silver-blue embroidered silk hanfu with opaque bodice and modest neckline, airy outer sleeves, long skirt naturally draped over her legs. Three-quarter seated composition, vertical 9:16 framing. Warm golden backlight through leaves, soft mist, distant mountain silhouettes, a tranquil reflective pond and small pink lotus blossoms. Natural skin texture, individual hair strands, intricate silver embroidery, believable hands and anatomy, soft atmospheric depth. No text, no watermark, no logos.",
+          "url": "https://x.com/fengnian_ai/status/2118386725676552194",
+          "path": "cases/social-seated-hanfu-woman-lotus-pond/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWYEunFbQAAqOE1.jpg",
+        "path": "assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Seated hanfu woman by lotus pond at sunset",
+          "zh-CN": "夕阳下荷塘边坐着的汉服女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/fengnian_ai/status/2118386725676552194",
+          "credit": "fengnian_ai",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 196903,
+        "sha256": "803955a8ce552012188e81cf50cbd5b9a32070b79f46f8d0d3523327dc4e21c3",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by fengnian_ai on 2026-11-05T16:55:27+00:00. The original prompt is reproduced without rewriting. ",
+      "zh-CN": "作者 fengnian_ai 发布于 2026-11-05T16:55:27+00:00。提示词按原文收录，未改写。原帖明确左图为2.6、右图为2.5，本案例仅收录左侧2.6结果。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-seated-hanfu-woman-lotus-pond/source.json"
+    }
+  },
+  {
+    "id": "social-sunset-beach-look-back",
+    "status": "published",
+    "title": {
+      "en": "Woman turning back on sunset beach",
+      "zh-CN": "夕阳海边回头的女子"
+    },
+    "category": "characters-consistency",
+    "source": {
+      "url": "https://x.com/sonny_eacc/status/2118216234445791408",
+      "author": "sonny_eacc",
+      "type": "community"
+    },
+    "model": {
+      "family": "GPT Image 2.6",
+      "variants": [
+        "unspecified"
+      ],
+      "evidence": {
+        "en": "The creator explicitly identifies GPT Image 2.6 in the original social post: 试了最新的 GPT Image 2.6，先生成一张海边写真，再拿首图续出一组。 Model attribution is creator-reported; this is not an independent reproduction.",
+        "zh-CN": "作者在社媒原帖明确说明使用 GPT Image 2.6：试了最新的 GPT Image 2.6，先生成一张海边写真，再拿首图续出一组。 依据为作者自报，本仓库未独立复现。"
+      }
+    },
+    "prompt": {
+      "status": "source-only",
+      "url": "https://x.com/sonny_eacc/status/2118216507025187281",
+      "entries": [
+        {
+          "title": {
+            "en": "Original prompt",
+            "zh-CN": "原始提示词"
+          },
+          "text": "【首图】\n生成一张4:5竖版写实人像照片。一位25岁的成年东亚美女，黑色长发，五官精致，身材修长匀称，穿黑色连体泳衣，外搭敞开的白色亚麻衬衫。傍晚赤脚走在海边浅水中，被身后的人叫住，回头看向镜头，露出刚开始笑的自然表情，一只手轻轻按住被海风吹起的头发。拍到大腿，人物占画面主体，前景有细碎浪花，夕阳从侧后方照亮发丝。像旅行时偶然拍到的漂亮瞬间，保留真实皮肤纹理、衣料褶皱和轻微抓拍感，色彩自然，无文字、水印。\n\n【续图方法】\n上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加：\n①近景：胸口以上，拨头发，轻轻微笑。\n②全身：赤脚走在浅水里，低头看浪花。\n③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。",
+          "url": "https://x.com/sonny_eacc/status/2118216507025187281",
+          "path": "cases/social-sunset-beach-look-back/prompt.txt"
+        }
+      ]
+    },
+    "media": [
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVqadTaQAEJi5R.jpg",
+        "path": "assets/examples/social-sunset-beach-look-back/source-01.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman turning back on sunset beach",
+          "zh-CN": "夕阳海边回头的女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+          "credit": "sonny_eacc",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 271565,
+        "sha256": "d2b790f6e13cd3b70bcd270e5a27ee6c2c3cc3805270888e0eeb3406eaf333a5",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVqadSaUAA103E.jpg",
+        "path": "assets/examples/social-sunset-beach-look-back/source-02.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman turning back on sunset beach",
+          "zh-CN": "夕阳海边回头的女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+          "credit": "sonny_eacc",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 221498,
+        "sha256": "bdb757171d2b0f2353ffbe870a49745a7108e3da050f95f650f300ee528d3cf0",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVqadQa8AARCXy.jpg",
+        "path": "assets/examples/social-sunset-beach-look-back/source-03.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman turning back on sunset beach",
+          "zh-CN": "夕阳海边回头的女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+          "credit": "sonny_eacc",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 218716,
+        "sha256": "a02980f6e63e2740e8da1688d08e9bdfb80dbf3d0474e7f293234df017e3cd8b",
+        "mime_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://pbs.twimg.com/media/HWVqadUbYAEwPGe.jpg",
+        "path": "assets/examples/social-sunset-beach-look-back/source-04.jpg",
+        "kind": "image",
+        "role": "output",
+        "alt": {
+          "en": "Woman turning back on sunset beach",
+          "zh-CN": "夕阳海边回头的女子"
+        },
+        "rights": {
+          "status": "source-attributed",
+          "evidence_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+          "credit": "sonny_eacc",
+          "note": {
+            "en": "Original public post attachment, preserved with creator credit. No open licence is asserted; repository MIT terms do not cover this media.",
+            "zh-CN": "原样保存的公开原帖附件，保留作者署名。未声明开放许可；仓库 MIT 协议不覆盖此素材。"
+          }
+        },
+        "bytes": 260685,
+        "sha256": "bcba752a1d6dae5c51dfdf4db124527f4209767c4c37904e7b4e366143067177",
+        "mime_type": "image/jpeg"
+      }
+    ],
+    "notes": {
+      "en": "Published by sonny_eacc on 2026-11-05T05:37:59+00:00. The original prompt is reproduced without rewriting. ",
+      "zh-CN": "作者 sonny_eacc 发布于 2026-11-05T05:37:59+00:00。提示词按原文收录，未改写。"
+    },
+    "added_at": "2026-11-09",
+    "verified_at": "2026-11-09",
+    "featured": false,
+    "access": {
+      "checked_at": "2026-11-09",
+      "page_status": "accessible",
+      "media_status": "archived",
+      "page_note": {
+        "en": "Read the original public social post, creator model statement and public prompt.",
+        "zh-CN": "已读取社媒原帖、作者模型声明及公开原提示词。"
+      },
+      "media_note": {
+        "en": "Original attachments are stored locally; file types, sizes and SHA-256 values were checked. Any GIF viewing copy is labelled separately.",
+        "zh-CN": "已保存原始附件，并核对文件类型、大小和 SHA-256；GIF 转码展示副本单独注明。"
+      },
+      "report_path": "cases/social-sunset-beach-look-back/source.json"
+    }
   }
 ]
