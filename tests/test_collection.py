@@ -81,6 +81,39 @@ class CollectionTests(unittest.TestCase):
             self.assertIn('PLACEHOLDER' if lang == 'en' else '占位', text)
             self.assertNotIn('```', text)
 
+    def test_archived_prompt_file_must_match_original_text(self):
+        item = copy.deepcopy(self.cases[0])
+        item['media'] = []
+        item.pop('access', None)
+        item['prompt'] = {'status': 'source-only', 'url': item['source']['url'],
+                          'text': 'Make this cat wave.\nKeep the camera still.',
+                          'path': f"cases/{item['id']}/prompt.txt"}
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            prompt_file = root / item['prompt']['path']
+            prompt_file.parent.mkdir(parents=True)
+            prompt_file.write_text(item['prompt']['text'] + '\n', encoding='utf-8')
+            with patch('validate.ROOT', root):
+                self.assertEqual(self.errors_for(item), [])
+                prompt_file.write_text('A rewritten prompt\n', encoding='utf-8')
+                self.assertTrue(any('exactly match' in error for error in self.errors_for(item)))
+                item['prompt']['path'] = '../prompt.txt'
+                self.assertTrue(any('expected cases/' in error for error in self.errors_for(item)))
+
+    def test_archived_prompt_is_rendered_and_counted_once(self):
+        item = copy.deepcopy(self.cases[0])
+        item['prompt'] = {'status': 'source-only', 'url': item['source']['url'],
+                          'text': 'Make this cat wave.\nKeep the camera still.',
+                          'path': f"cases/{item['id']}/prompt.txt"}
+        with patch('homepage.read_cases', return_value=[item]):
+            for lang, metric in (('en', 'Full prompts published here'), ('zh-CN', '仓库内完整提示词')):
+                homepage = render_readme(self.config, [], lang)
+                detail = render_detail(item, lang)
+                self.assertIn(f'| {metric} | **1** |', homepage)
+                self.assertEqual(homepage.count(item['prompt']['text']), 1)
+                self.assertIn(item['prompt']['text'], detail)
+                self.assertIn('../../' + item['prompt']['path'], detail)
+
     def test_schema_supports_three_distinct_prompt_statuses(self):
         schema = read_json('content/source-cases.schema.json')
         item = copy.deepcopy(self.cases[0])

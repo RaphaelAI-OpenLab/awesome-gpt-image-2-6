@@ -56,7 +56,7 @@ GPT Image 2.6의 프롬프트, 시각적 예시, 원본 출처를 모은 공개 
 | [캐릭터 및 일관성](#category-characters-consistency) | 15 | 0 |
 | [마크업 및 특정 영역 편집](#category-markup-edits) | 9 | 0 |
 | [SVG 및 디자인 에셋](#category-svg-design-assets) | 4 | 0 |
-| [GIF 및 애니메이션](#category-gif-animation) | 59 | 0 |
+| [GIF 및 애니메이션](#category-gif-animation) | 64 | 5 |
 
 <a id="contents"></a>
 
@@ -88,12 +88,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 지표 | 수량 / 날짜 |
 | --- | ---: |
-| 출처 링크가 있는 사례 | **108** |
+| 출처 링크가 있는 사례 | **113** |
 | 공식 예시 | **37** |
-| 제작자가 보고한 예시 | **71** |
-| 출처에서 제공하는 원문 프롬프트 | **82** |
-| 여기에 공개된 전체 프롬프트 | **0** |
-| 로컬에 보관된 미디어 파일 | **176** |
+| 제작자가 보고한 예시 | **76** |
+| 출처에서 제공하는 원문 프롬프트 | **87** |
+| 여기에 공개된 전체 프롬프트 | **5** |
+| 로컬에 보관된 미디어 파일 | **188** |
 | 최근 출처 확인 일시(UTC) | **2026-11-09** |
 
 출처 수는 재현을 주장하는 수치가 아닙니다. 확인 대기 중인 조사 후보는 제외하며, 하나의 워크플로에서 나온 서로 다른 결과물은 하나의 사례로 계산합니다.
@@ -123,12 +123,12 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 | 추가일 | 사례 | 근거 |
 | --- | --- | --- |
+| 2026-11-09 | [Cartoon bee posts to X for daily check-in](cases/social-diligent-bee-daily-checkin-gif/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-09 | [Flip phone shows Heisei decomail animation in Tokyo street](cases/social-heisei-flip-phone-decomail-gif/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-09 | [Dancing cartoon frog in a top hat](cases/social-dancing-frog-top-hat/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-09 | [Chibi cheongsam girl performs a cute jump sequence](cases/social-chibi-cheongsam-girl-gif/README.md) | 제작자가 밝힌 모델 |
+| 2026-11-09 | [Chibi character eating rice with chopsticks](cases/social-blue-hair-chibi-eating-rice-gif/README.md) | 제작자가 밝힌 모델 |
 | 2026-11-06 | [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Love-burst skill animation](cases/ailingqu-love-burst-skill/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Arcade VS screen](cases/ailingqu-arcade-vs-screen/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Hourglass loading](cases/ailingqu-hourglass-flip/README.md) | 제작자가 밝힌 모델 |
-| 2026-11-06 | [Like button heart burst](cases/ailingqu-like-heart-burst/README.md) | 제작자가 밝힌 모델 |
 
 <a id="all-cases"></a>
 
@@ -297,6 +297,11 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 | [Tanjiro pixel-art water-slash loop](cases/community-kiki-tanjiro-pixel-loop/README.md) | 제작자가 밝힌 모델 | 출처의 원문 프롬프트 |
 | [Heartbeat dance modes: source poster](cases/community-kiki-heartbeat-dance-comparison/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
 | [Six Miss Malfoid mood sticker loops](cases/community-kiki-malfoid-mood-stickers/README.md) | 제작자가 밝힌 모델 | 프롬프트 공개 여부 미확인 |
+| [Chibi character eating rice with chopsticks](cases/social-blue-hair-chibi-eating-rice-gif/README.md) | 제작자가 밝힌 모델 | Original prompt included |
+| [Chibi cheongsam girl performs a cute jump sequence](cases/social-chibi-cheongsam-girl-gif/README.md) | 제작자가 밝힌 모델 | Original prompt included |
+| [Dancing cartoon frog in a top hat](cases/social-dancing-frog-top-hat/README.md) | 제작자가 밝힌 모델 | Original prompt included |
+| [Flip phone shows Heisei decomail animation in Tokyo street](cases/social-heisei-flip-phone-decomail-gif/README.md) | 제작자가 밝힌 모델 | Original prompt included |
+| [Cartoon bee posts to X for daily check-in](cases/social-diligent-bee-daily-checkin-gif/README.md) | 제작자가 밝힌 모델 | Original prompt included |
 
 [검색 기록, 미디어 보고서, 미확인 조사 후보](docs/CASE_GALLERY.md)
 
@@ -304,7 +309,120 @@ OpenAI는 2026년 11월 4일 Images 2.6을 발표했습니다. 이 모음집은 
 
 ## 📝 전체 프롬프트
 
-전체 프롬프트는 아직 여기에 재게시하지 않았습니다. 사례 페이지에는 실제 원문 프롬프트가 공개된 경우 해당 링크를 제공하고, 없는 경우 이를 명시합니다. 출처 링크가 있는 항목이 곧 복사 가능한 프롬프트가 있는 항목은 아닙니다.
+<a id="prompt-social-blue-hair-chibi-eating-rice-gif"></a>
+
+### [Chibi character eating rice with chopsticks](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+[Gorden_Sun](https://x.com/Gorden_Sun/status/2118166046175908016)
+
+<a href="cases/social-blue-hair-chibi-eating-rice-gif/README.md"><img src="assets/examples/social-blue-hair-chibi-eating-rice-gif/preview-01.gif" alt="Chibi character eating rice with chopsticks" width="560" /></a>
+
+[Original animation file](assets/examples/social-blue-hair-chibi-eating-rice-gif/source-01.mp4)
+
+<details>
+<summary>Copy the original prompt</summary>
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+</details>
+
+[Prompt text file](cases/social-blue-hair-chibi-eating-rice-gif/prompt.txt) · [Source and model evidence](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
+
+---
+
+<a id="prompt-social-chibi-cheongsam-girl-gif"></a>
+
+### [Chibi cheongsam girl performs a cute jump sequence](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+[shinshin86](https://x.com/shinshin86/status/2118225428976705908)
+
+<a href="cases/social-chibi-cheongsam-girl-gif/README.md"><img src="assets/examples/social-chibi-cheongsam-girl-gif/preview-01.gif" alt="Chibi cheongsam girl performs a cute jump sequence" width="560" /></a>
+
+[Original animation file](assets/examples/social-chibi-cheongsam-girl-gif/source-01.mp4)
+
+<details>
+<summary>Copy the original prompt</summary>
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+</details>
+
+[Prompt text file](cases/social-chibi-cheongsam-girl-gif/prompt.txt) · [Source and model evidence](cases/social-chibi-cheongsam-girl-gif/README.md)
+
+---
+
+<a id="prompt-social-dancing-frog-top-hat"></a>
+
+### [Dancing cartoon frog in a top hat](cases/social-dancing-frog-top-hat/README.md)
+
+[princess414141](https://x.com/princess414141/status/2118144125354877152)
+
+<a href="cases/social-dancing-frog-top-hat/README.md"><img src="assets/examples/social-dancing-frog-top-hat/preview-01.gif" alt="Dancing cartoon frog in a top hat" width="560" /></a>
+
+[Original animation file](assets/examples/social-dancing-frog-top-hat/source-01.mp4)
+
+<details>
+<summary>Copy the original prompt</summary>
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+</details>
+
+[Prompt text file](cases/social-dancing-frog-top-hat/prompt.txt) · [Source and model evidence](cases/social-dancing-frog-top-hat/README.md)
+
+---
+
+<a id="prompt-social-heisei-flip-phone-decomail-gif"></a>
+
+### [Flip phone shows Heisei decomail animation in Tokyo street](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+[rem_rev](https://x.com/rem_rev/status/2118252486360498485)
+
+<a href="cases/social-heisei-flip-phone-decomail-gif/README.md"><img src="assets/examples/social-heisei-flip-phone-decomail-gif/preview-01.gif" alt="Flip phone shows Heisei decomail animation in Tokyo street" width="560" /></a>
+
+[Original animation file](assets/examples/social-heisei-flip-phone-decomail-gif/source-01.mp4)
+
+<details>
+<summary>Copy the original prompt</summary>
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+</details>
+
+[Prompt text file](cases/social-heisei-flip-phone-decomail-gif/prompt.txt) · [Source and model evidence](cases/social-heisei-flip-phone-decomail-gif/README.md)
+
+---
+
+<a id="prompt-social-diligent-bee-daily-checkin-gif"></a>
+
+### [Cartoon bee posts to X for daily check-in](cases/social-diligent-bee-daily-checkin-gif/README.md)
+
+[MrGafish](https://x.com/MrGafish/status/2118217749680025722)
+
+<a href="cases/social-diligent-bee-daily-checkin-gif/README.md"><img src="assets/examples/social-diligent-bee-daily-checkin-gif/preview-01.gif" alt="Cartoon bee posts to X for daily check-in" width="560" /></a>
+
+[Original animation file](assets/examples/social-diligent-bee-daily-checkin-gif/source-01.mp4)
+
+<details>
+<summary>Copy the original prompt</summary>
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+</details>
+
+[Prompt text file](cases/social-diligent-bee-daily-checkin-gif/prompt.txt) · [Source and model evidence](cases/social-diligent-bee-daily-checkin-gif/README.md)
+
+---
 
 <a id="using"></a>
 

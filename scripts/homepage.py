@@ -2,13 +2,14 @@
 from i18n import DETAIL_LANGUAGES, ui
 from presentation import language_nav, repo_badges
 from common import GENERATED_MARKER, html_attr, localized, md_link, md_text, published, repo_url, tracked_url
-from source_cases import label, page_path, preview, read_cases, visible
+from source_cases import label, page_path, preview, prompt_label, read_cases, render_prompt_card, visible
 
 
 def render_home(config, prompts, language, render_prompt):
     c = lambda en, cn: ui(en, cn, language)
     cases = visible(read_cases())
     full = published(prompts)
+    archived_prompts = [item for item in cases if item['prompt'].get('text')]
     brand = config['brand']
     repository = repo_url(config)
     title = config['project']['name']
@@ -48,7 +49,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += ['| ' + c('Category | Source-linked cases | Full prompts', '分类 | 来源案例 | 完整提示词') + ' |', '| --- | ---: | ---: |']
     for category in config['categories']:
         count=sum(x['category']==category['id'] for x in cases)
-        full_count=sum(x['category']==category['id'] for x in full)
+        full_count=sum(x['category']==category['id'] for x in full + archived_prompts)
         lines += [f"| {md_link(localized(category['label'],language),'#category-'+category['id'])} | {count} | {full_count} |"]
     lines += [''] + heading('contents', '📖 Contents', '📖 目录')
     for anchor,en,cn in [('about','What is GPT Image 2.6?','什么是 GPT Image 2.6？'),('statistics','Statistics','统计数据'),('featured','Featured cases','精选案例'),('latest','Recently added','最近收录'),('all-cases','All cases','全部案例'),('collection','Full prompts','完整提示词'),('using','How to use','如何使用'),('contribute','Contribute','如何贡献'),('license','License','许可证'),('acknowledgements','Acknowledgements','致谢'),('star-history','Star history','Star 历史')]:
@@ -57,7 +58,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += [c('OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sunburst and Flare model variants, image creation and editing, plus documented SVG and GIF workflows. Variant support is recorded per case rather than assumed.', 'OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与 Flare 版本的图片生成、编辑，以及官方展示的 SVG 与 GIF 工作流；具体支持情况按每个案例记录，不作推定。'), '',
               md_link(c('Official announcement','官方发布说明'),config['project']['official_url'])+' · '+md_link(c('Model documentation','模型文档'),config['project']['model_docs_url']), '']
     lines += heading('statistics','📊 Statistics','📊 统计数据')
-    metrics=[(c('Source-linked cases','来源案例'),len(cases)),(c('Official examples','官方案例'),sum(x['source']['type'].startswith('official') for x in cases)),(c('Creator-reported examples','社区作者自报案例'),sum(x['source']['type']=='community' for x in cases)),(c('Original prompts available at source','来源公开原始提示词'),sum(x['prompt']['status']=='source-only' for x in cases)),(c('Full prompts published here','仓库内完整提示词'),len(full)),(c('Locally archived media files','本地收录素材文件'),sum(bool(m['path']) for x in cases for m in x['media'])+sum(bool(x['preview']['path']) for x in full)),(c('Last source check (UTC)','最近来源核对（UTC）'),max((x['verified_at'] for x in cases), default='—'))]
+    metrics=[(c('Source-linked cases','来源案例'),len(cases)),(c('Official examples','官方案例'),sum(x['source']['type'].startswith('official') for x in cases)),(c('Creator-reported examples','社区作者自报案例'),sum(x['source']['type']=='community' for x in cases)),(c('Original prompts available at source','来源公开原始提示词'),sum(x['prompt']['status']=='source-only' for x in cases)),(c('Full prompts published here','仓库内完整提示词'),len(full)+len(archived_prompts)),(c('Locally archived media files','本地收录素材文件'),sum(bool(m['path']) for x in cases for m in x['media'])+sum(bool(x['preview']['path']) for x in full)),(c('Last source check (UTC)','最近来源核对（UTC）'),max((x['verified_at'] for x in cases), default='—'))]
     lines += ['| '+c('Metric | Count / date','项目 | 数量 / 日期')+' |','| --- | ---: |']+[f'| {name} | **{value}** |' for name,value in metrics]+['',c('Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.', '来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。'),'']
     lines += heading('featured','🔥 Featured cases','🔥 精选案例')
     selected=([x for x in cases if x['featured']] or cases)[:config['presentation']['featured_limit']]
@@ -85,14 +86,16 @@ def render_home(config, prompts, language, render_prompt):
         group=[x for x in cases if x['category']==category['id']]
         if group:
             lines += ['| '+c('Case · internal detail page | Source | Prompt','案例 · 仓库内部详情 | 来源类型 | 提示词')+' |','| --- | --- | --- |']
-            for item in group:lines += [f"| {case_link(item)} | {label(item['source']['type'],language)} | {label(item['prompt']['status'],language)} |"]
+            for item in group:lines += [f"| {case_link(item)} | {label(item['source']['type'],language)} | {prompt_label(item,language)} |"]
             lines += ['']
         else:lines += [c('No source-linked cases in this category yet.','此分类尚无来源案例。'),'']
     lines += [md_link(c('Search log, media report and unresolved leads','检索记录、媒体报道与待核实线索'),'docs/CASE_GALLERY.md'),'']
     lines += heading('collection','📝 Full prompts','📝 完整提示词')
     if full:
         for item in full:lines += [render_prompt(item,config,language).rstrip(),'','---','']
-    else:lines += [c('No full prompts are republished here yet. Case pages link to the actual original prompts when public and explicitly mark missing prompts. A source-link entry is not a copyable-prompt entry.', '目前未在仓库转载完整提示词。案例页会链接已公开原文，并明确标注未公开的提示词。来源索引不会冒充可复制提示词。'),'']
+    for item in archived_prompts:
+        lines += [render_prompt_card(item,language).rstrip(),'','---','']
+    if not full and not archived_prompts:lines += [c('No full prompts are republished here yet. Case pages link to the actual original prompts when public and explicitly mark missing prompts. A source-link entry is not a copyable-prompt entry.', '目前未在仓库转载完整提示词。案例页会链接已公开原文，并明确标注未公开的提示词。来源索引不会冒充可复制提示词。'),'']
     lines += heading('using','📚 How to use','📚 如何使用')
     lines += ['1. '+c('Open a case from a category or featured card.','从分类或精选卡片进入案例。'),'2. '+c('Read its model evidence, required inputs, source and reuse limits.','查看模型依据、必需输入、原始来源与素材使用限制。'),'3. '+c('Follow the original prompt link when available. A missing prompt stays missing; do not infer it from an image.','有原始提示词时前往来源阅读。没有公开提示词时保持缺失，不根据图片臆造。'),'']
     lines += heading('contribute','🤝 How to contribute','🤝 如何贡献')

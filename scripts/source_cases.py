@@ -2,13 +2,14 @@
 from __future__ import annotations
 from i18n import DETAIL_LANGUAGES, detail_language, filename
 from presentation import language_nav
-from common import GENERATED_MARKER, ROOT, localized, md_link, md_text, md_url, read_json, image_path
+from common import GENERATED_MARKER, ROOT, code_block, html_attr, localized, md_link, md_text, md_url, read_json, image_path
 
 LABELS = {
     'official-docs': {'en': 'Official documentation', 'zh-CN': '官方文档'},
     'official-launch': {'en': 'Official launch demo', 'zh-CN': '官方发布演示'},
     'community': {'en': 'Creator-reported model', 'zh-CN': '作者自报模型'},
     'source-only': {'en': 'Original prompt at source', 'zh-CN': '原提示词见来源'},
+    'prompt-archived': {'en': 'Original prompt included', 'zh-CN': '已收录原始提示词'},
     'not-public': {'en': 'Prompt not public', 'zh-CN': '提示词未公开'},
     'unverified': {'en': 'Prompt availability unverified', 'zh-CN': '提示词公开状态待核验'},
     'unspecified': {'en': 'Variant unspecified', 'zh-CN': '版本未注明'},
@@ -45,6 +46,29 @@ def page_path(item, language, *, external=False):
 
 def preview(item):
     return next((m for m in item['media'] if m['path'] and m['kind'] != 'video' and m.get('role', 'output') != 'reference'), None)
+
+
+def prompt_label(item, language):
+    return label('prompt-archived' if item['prompt'].get('text') else item['prompt']['status'], language)
+
+
+def render_prompt_card(item, language):
+    """Show archived source media and the verbatim prompt together in the README."""
+    zh = language == 'zh-CN'
+    choose = lambda en, cn: cn if zh else en
+    lines = [f'<a id="prompt-{item["id"]}"></a>', '',
+             '### ' + md_link(localized(item['title'], language), page_path(item, language)), '',
+             md_link(item['source']['author'], item['source']['url']), '']
+    media = preview(item)
+    if media:
+        lines += [f'<a href="{page_path(item, language)}"><img src="{html_attr(media["path"])}" alt="{html_attr(localized(media["alt"], language))}" width="560" /></a>', '']
+    for video in (m for m in item['media'] if m['path'] and m['kind'] == 'video'):
+        lines += [md_link(choose('Original animation file', '原始动画文件'), video['path']), '']
+    lines += ['<details>', '<summary>' + choose('Copy the original prompt', '展开复制原始提示词') + '</summary>', '',
+              code_block(item['prompt']['text']), '', '</details>', '',
+              md_link(choose('Prompt text file', '提示词文本文件'), item['prompt']['path']) + ' · ' +
+              md_link(choose('Source and model evidence', '来源与模型依据'), page_path(item, language)), '']
+    return '\n'.join(lines)
 
 
 def render_detail(item, language, *, external=False):
@@ -90,7 +114,12 @@ def render_detail(item, language, *, external=False):
                   '- ' + choose('Media: ', '素材：') + label(access['media_status'], language) + '. ' + md_text(localized(access['media_note'], language)),
                   '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), root_prefix + access['report_path'])]
     lines += ['', '## ' + choose('Original prompt', '原始提示词'), '']
-    if item['prompt']['status'] == 'source-only':
+    if item['prompt'].get('text'):
+        lines += [code_block(item['prompt']['text']), '',
+                  md_link(choose('Download original prompt text', '下载原始提示词文本'), root_prefix + item['prompt']['path']) + ' · ' +
+                  md_link(choose('Original prompt post', '提示词原帖'), item['prompt']['url']), '',
+                  choose('The prompt is preserved in its original language without rewriting. Model attribution comes from the creator; this result has not been independently reproduced.', '提示词保留原文，未翻译或改写。模型归属依据作者原帖；本仓库未独立复现此结果。')]
+    elif item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',
                   choose('The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.', '来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。')]
     elif item['prompt']['status'] == 'unverified':

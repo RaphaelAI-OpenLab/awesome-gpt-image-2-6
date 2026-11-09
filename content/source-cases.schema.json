@@ -140,6 +140,12 @@
               "string",
               "null"
             ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
           }
         }
       },
