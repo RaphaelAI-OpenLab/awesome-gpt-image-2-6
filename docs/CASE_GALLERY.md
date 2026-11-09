@@ -2,7 +2,7 @@
 
 [返回中文首页](../README.zh-CN.md) · [English README](../README.md)
 
-本页保留首轮检索记录；实时案例数据现由 [source-cases.json](../content/source-cases.json) 维护，并在[中文 README 全部案例](../README.zh-CN.md#all-cases)展示内部详情页。
+本页保留首轮检索记录；主合集数据由 [source-cases.json](../content/source-cases.json) 维护，在[中文 README 分类](../README.zh-CN.md#all-cases)展示；其他独立网站的案例、数据与素材已移入[外站素材目录](../external-sites/README.md)，不计入主合集分类和统计。
 
 本轮核对日期：2026-11-05（UTC）。
 

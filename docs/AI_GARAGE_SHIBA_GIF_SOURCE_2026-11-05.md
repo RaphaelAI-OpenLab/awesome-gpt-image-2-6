@@ -26,7 +26,7 @@ This is the original author’s model attribution, not an independently reproduc
 ### source-01.gif
 
 - [Original source file / 来源文件](https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-5.gif).
-- [Unchanged local archive / 原样本地存档](../assets/examples/ai-garage-shiba-wave/source-01.gif).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/ai-garage-shiba-wave/source-01.gif).
 - GIF, 512 × 512, 9 frame(s), 470,021 bytes.
 - SHA-256: `e1846e247d5e6bf9f9f524199d0bf8bd9163350c8ba647500bec3286aee2d415`.
 

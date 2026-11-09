@@ -26,7 +26,7 @@ This is the original author’s model attribution, not an independently reproduc
 ### source-01.webp
 
 - [Original source file / 来源文件](https://ai-garage.jp/images/article-figures/gpt-image-2-6-flare-sunburst-api-test-4.webp).
-- [Unchanged local archive / 原样本地存档](../assets/examples/ai-garage-red-chef-hat/source-01.webp).
+- [Unchanged local archive / 原样本地存档](../external-sites/assets/examples/ai-garage-red-chef-hat/source-01.webp).
 - WEBP, 1408 × 522, 1 frame(s), 117,792 bytes.
 - SHA-256: `c2bf65665f191ac81875f6b4d52ec7e16e16abe0561982fbad0ccb6736c491ed`.
 

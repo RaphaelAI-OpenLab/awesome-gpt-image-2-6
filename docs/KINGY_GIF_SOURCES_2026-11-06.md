@@ -12,7 +12,7 @@ The source [receipt section](https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-
 
 - Case: kingy-sunburst-bottle-rocking
 - Original media: https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif
-- Repository asset: assets/examples/kingy-sunburst-bottle-rocking/source-01.gif
+- Repository asset: external-sites/assets/examples/kingy-sunburst-bottle-rocking/source-01.gif
 - Bytes: 470186
 - SHA-256: 10fc7a505e9886a9803360fc08ecc3ce2d843262595c89e8fb75063796d471e8
 

@@ -36,7 +36,7 @@ README 界面提供 16 个真实语言版本，每种语言都有独立生成文
 - `scripts/i18n.py` defines supported locales and unique README filenames. `DETAIL_LANGUAGES` is deliberately separate from interface languages.
 - `content/locales/en.json` is the source-keyed UI catalog. Every other locale file must contain exactly the same keys, valid text, matching placeholders such as `{brand}`, and table delimiters.
 - Change interface copy in the generator and catalogs together. Missing UI translations fail validation instead of silently publishing an English interface under another language label.
-- Case data remains in `content/source-cases.json` and `content/prompts.json`. New hourly additions do not need fourteen extra case translations before appearing: the disclosed English fallback keeps all editions current.
+- 主合集数据为 `content/source-cases.json`，外站数据为 `external-sites/source-cases.json`，完整提示词为 `content/prompts.json`。外站目录单独按来源网站展示，中英文详情页生成到 `external-sites/cases/`。新案例沿用已说明的英文内容回退，不要求先补齐另外十四种语言的案例正文。
 - Do not translate or reconstruct undisclosed original prompts. Do not relabel a creator claim as independent verification.
 - `scripts/presentation.py` generates language badges, repository navigation badges and localized media placeholders. They use original local SVG artwork, with no remote image dependencies.
 - CI and Star badges are navigation links, **not cached pass/fail states or star counts**. Open the actual GitHub workflow or repository to see live values. The Star History link uses the current canonical repository; no third-party chart image is embedded.

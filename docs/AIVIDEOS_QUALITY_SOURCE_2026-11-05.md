@@ -22,12 +22,12 @@ These are the published source images. Their dimensions do not establish an unpu
 
 以下为来源公开图，尺寸不能证明未公开的原始生成格式或 4K 输出。另一个 4K 预览对比案例不计入本条。
 
-- [gpt-image-2-6-quality-low.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-low.webp): [270,420 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-low.webp); SHA-256 `4be2285ea2d53f3afb371ecca7bbd9f1c94468772e2b6e477b5a325e12688dce`.
-- [gpt-image-2-6-quality-medium.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-medium.webp): [221,588 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-medium.webp); SHA-256 `fb095c29f0db1deb41423c1c84678c3122071dba1a4bef2c9dcca7b3be8bb5f6`.
-- [gpt-image-2-6-quality-high.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-high.webp): [261,380 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-high.webp); SHA-256 `4666762e835e4f1a1b9fed9ef98a69c33cf6404baca5799a414933baf4d8d430`.
-- [gpt-image-2-6-quality-xhigh.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-xhigh.webp): [251,454 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-xhigh.webp); SHA-256 `3a8dcfd4e43c7de4c8c0f92daa7f3d8a19afe56414a185635a5aaa9917cef543`.
-- [gpt-image-2-6-quality-max.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-max.webp): [230,104 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-max.webp); SHA-256 `3dfeb22eb6d35f6cb62b18bd4f7b190c33c3578fff5f41780e47b199ae3906a8`.
-- [gpt-image-2-6-planning-quick.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-planning-quick.webp): [247,526 bytes](../assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-planning-quick.webp); SHA-256 `8f536195c58b87dfd4d4201305efb9f83a5f3801f7cdaedbbcc453bf77813fa3`.
+- [gpt-image-2-6-quality-low.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-low.webp): [270,420 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-low.webp); SHA-256 `4be2285ea2d53f3afb371ecca7bbd9f1c94468772e2b6e477b5a325e12688dce`.
+- [gpt-image-2-6-quality-medium.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-medium.webp): [221,588 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-medium.webp); SHA-256 `fb095c29f0db1deb41423c1c84678c3122071dba1a4bef2c9dcca7b3be8bb5f6`.
+- [gpt-image-2-6-quality-high.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-high.webp): [261,380 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-high.webp); SHA-256 `4666762e835e4f1a1b9fed9ef98a69c33cf6404baca5799a414933baf4d8d430`.
+- [gpt-image-2-6-quality-xhigh.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-xhigh.webp): [251,454 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-xhigh.webp); SHA-256 `3a8dcfd4e43c7de4c8c0f92daa7f3d8a19afe56414a185635a5aaa9917cef543`.
+- [gpt-image-2-6-quality-max.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-quality-max.webp): [230,104 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-quality-max.webp); SHA-256 `3dfeb22eb6d35f6cb62b18bd4f7b190c33c3578fff5f41780e47b199ae3906a8`.
+- [gpt-image-2-6-planning-quick.webp](https://aivideos.eu/blog/inline/gpt-image-2-6-planning-quick.webp): [247,526 bytes](../external-sites/assets/examples/aivideos-flare-quality-planning/gpt-image-2-6-planning-quick.webp); SHA-256 `8f536195c58b87dfd4d4201305efb9f83a5f3801f7cdaedbbcc453bf77813fa3`.
 
 ## Reuse status / 使用状态
 
