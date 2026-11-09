@@ -49,8 +49,8 @@ GPT Image 2.6 提示词、创意案例与原始来源合集。
 | [海报与文字排版](#category-posters-typography) | 9 | 7 |
 | [信息图](#category-infographics) | 3 | 3 |
 | [室内与建筑](#category-interiors-architecture) | 3 | 2 |
-| [角色与一致性](#category-characters-consistency) | 18 | 15 |
-| [标注与局部编辑](#category-markup-edits) | 9 | 8 |
+| [角色与一致性](#category-characters-consistency) | 22 | 19 |
+| [标注与局部编辑](#category-markup-edits) | 10 | 9 |
 | [SVG 与设计素材](#category-svg-design-assets) | 4 | 3 |
 | [GIF 与动画](#category-gif-animation) | 64 | 54 |
 
@@ -84,12 +84,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 项目 | 数量 / 日期 |
 | --- | ---: |
-| 来源案例 | **118** |
+| 来源案例 | **123** |
 | 官方案例 | **37** |
-| 社区作者自报案例 | **81** |
-| 来源公开原始提示词 | **92** |
-| 仓库内完整提示词 | **99** |
-| 本地收录素材文件 | **199** |
+| 社区作者自报案例 | **86** |
+| 来源公开原始提示词 | **97** |
+| 仓库内完整提示词 | **104** |
+| 本地收录素材文件 | **211** |
 | 最近来源核对（UTC） | **2026-11-09** |
 
 来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
@@ -119,12 +119,12 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | 收录日期 | 案例 | 依据 |
 | --- | --- | --- |
+| 2026-11-09 | [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back) | 作者自报模型 |
+| 2026-11-09 | [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond) | 作者自报模型 |
+| 2026-11-09 | [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait) | 作者自报模型 |
+| 2026-11-09 | [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card) | 作者自报模型 |
+| 2026-11-09 | [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion) | 作者自报模型 |
 | 2026-11-09 | [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster) | 作者自报模型 |
-| 2026-11-09 | [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails) | 作者自报模型 |
-| 2026-11-09 | [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait) | 作者自报模型 |
-| 2026-11-09 | [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman) | 作者自报模型 |
-| 2026-11-09 | [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug) | 作者自报模型 |
-| 2026-11-09 | [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
@@ -1414,13 +1414,182 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 
 ---
 
+<a id="source-case-social-sleepy-star-eyed-emoji-fusion"></a>
+
+#### 42. Emoji 与颜文字融合表情海报
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-01.jpg" alt="Emoji 与颜文字融合表情海报" width="360" /></a><br /><sub>Emoji 与颜文字融合表情海报</sub></td>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-02.jpg" alt="Emoji 与颜文字融合表情海报" width="360" /></a><br /><sub>Emoji 与颜文字融合表情海报</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-03.jpg" alt="Emoji 与颜文字融合表情海报" width="360" /></a><br /><sub>Emoji 与颜文字融合表情海报</sub></td>
+<td align="center"><a href="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg"><img src="assets/examples/social-sleepy-star-eyed-emoji-fusion/source-04.jpg" alt="Emoji 与颜文字融合表情海报" width="360" /></a><br /><sub>Emoji 与颜文字融合表情海报</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+iOS 系統Emoji × 顏文字× 全新表情設計
+
+每張獨立選擇兩個或多個不同的 Emoji 或顏文字進行融合，開放探索人物、動物、食物、物件、自然元素與各種情緒。
+
+整組變化來源類別與組合方式，探索 Emoji 與 Emoji、Emoji 與顏文字、多個顏文字等不同搭配，讓顏文字多次參與融合。每張選擇不同組合與心情，減少主體和表達重復。
+
+先確定本張的融合配方，提取各來源最有辨識度的五官、神態、輪廓、動作或字符特徵，將它們融合成一個完整的新表情，表達一種有趣的情緒或狀態。
+
+根據來源自身形態設計結果：臉部表情重點融合五官與神態；帶手勢或全身形態的表情保留有助於識別的身體結構；動物、物件和自然元素保留關鍵外形；顏文字的眼睛、嘴巴、符號或字符排列自然融入新表情。身體、四肢與動作由組合和表達需要決定。
+
+融合結果保持簡潔的表情圖標感，以主體輪廓和關鍵特徵傳達心情，細節適度，縮小後仍清晰可辨。
+
+畫面從上到下展示融合公式：上方用「×」連接所選來源，中間將「＝」旋轉90°，呈現為兩條並排的細竪線，下方展示融合後的新表情。新表情明顯大於來源，是畫面的視覺重點。
+
+公式中的 Emoji 參照 iOS 系統對應表情的外觀，保留容易辨認的造型、顏色、神態與動作。公式中的顏文字以清晰字符原樣呈現，保持所選字符及排列完整。
+
+融合後的新表情採用與 iOS Emoji 協調的視覺風格：造型簡潔圓潤，表情鮮明，色彩飽滿，具有柔和漸變、細膩高光與輕微立體感。人物、動物與物件保留各自適合的形態，整體如同同一套系統表情。
+
+根據新表情的情緒與主體配色，自由選擇協調的低飽和漸變背景，在新表情後方加入柔和的主題色光暈。光暈與主體保持適當的明度或色相差異，讓表情輪廓清楚可辨。
+
+在新表情附近寫一句簡短自然的中文心情短句，準確表達融合後的意思。字體形態與筆畫氣質呼應情緒，文字完整清晰，與表情和公式保持適當間距。
+
+公式符號、顏文字與背景保持足夠對比。畫面疏密協調，留白自然。
+
+竪版 9:16，n=10。每張為獨立單圖，逐張生成，不拼圖。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+```
+
+[原始提示词 (.txt)](cases/social-sleepy-star-eyed-emoji-fusion/prompt.txt)
+
+[原提示词见来源](https://x.com/DeepBlueX0/status/2118276577322750086)
+
+**作者**: [DeepBlueX0](https://x.com/DeepBlueX0)
+
+**原始来源**: [作者自报模型](https://x.com/DeepBlueX0/status/2118276577322750086) · [来源详情](cases/social-sleepy-star-eyed-emoji-fusion/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
+
+#### 43. 月夜湖畔水中端坐的古风女子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg"><img src="assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg" alt="月夜湖畔水中端坐的古风女子" width="700" /></a><br /><sub>月夜湖畔水中端坐的古风女子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+9:16竖版，超写实人像摄影，月夜湖畔清冷氛围。成年东亚女性侧坐于湖边湿润岩石上，双腿垂入浅水，身形高挑纤细，胸部饱满，腰身收束流畅。身穿月白色纱质褙子，内衬淡青色抹胸，纱质披帛垂入水中。月光从右上方照射，形成冷银色轮廓光。
+
+【人物】
+成年东亚女性，清冷孤傲气质。瓜子脸（下巴尖，额头宽，清冷孤傲），丹凤眼（细长上挑，眼尾飞扬，妩媚冷艳），剑眉（粗直上扬，英气飒爽），薄唇（纤薄精致，清冷克制），尖鼻（鼻尖尖锐，冷艳凌厉）。五官严格匀称，透视关系正确：双眼大小一致对称，两眼间距等于单眼宽度，鼻翼宽度等于眼距，嘴唇宽度等于瞳孔间距，面部中线左右对称。眉心一颗小痣（增加辨识度）。乌黑低髻，简单银簪，素雅淡妆。
+
+【姿势】
+侧坐于湖边湿润岩石上，身体微微后仰，双手撑在身后岩石上。双腿向前伸展，垂入浅水中，水面泛起微微涟漪。头部微微抬起，丹凤眼直视镜头，眼神清冷孤傲。
+
+【服装】
+月白色纱质褙子，半透明，绣有淡墨色水纹和云纹。内衬淡青色抹胸，贴合承托。纱质披帛从肩部垂落，末端垂入水中，被水浸湿。整体修长含蓄，简洁内敛。
+
+【环境】
+月夜湖畔：深蓝色夜空，明月高悬，月光洒在湖面上形成银色光路。湖边有湿润的黑色岩石，水面平静如镜，倒映着月亮和人物。远处有模糊的柳树剪影。薄雾弥漫在湖面上，营造空灵氛围。
+
+【光影】
+月光从右上方照射，形成冷银色轮廓光，照亮发丝和纱质服装边缘。面部使用柔和的月光补光，保持清冷色调。水面反射月光，形成银色光路。整体色调：深蓝+银白+月白+淡青。
+
+【构图】
+中景构图，人物占据画面中央，双腿垂入水中形成纵向线条。月亮位于画面上方1/4处。水面倒影和薄雾营造层次。
+
+Negative: anime, CGI, plastic skin, over-smoothing, hard shadows, revealing clothing, wrong anatomy, extra fingers, text, watermark, logo, modern elements, Western fantasy, oversaturated, thick legs, chubby body, overweight, flat chest, asymmetric eyes, uneven facial features, distorted proportions, deformed face, warm lighting, golden hour, sunny day.
+
+Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montserrat Regular, pure white, slightly expanded letter spacing (+1.5px), medium-small size (2% of image height), maximum 25% image width, positioned 10% above the bottom edge. Crisp, elegant, consistent typography. No shadow, outline, glow or background.
+```
+
+[原始提示词 (.txt)](cases/social-moonlit-lake-hanfu-portrait/prompt.txt)
+
+[原提示词见来源](https://x.com/sandmrk/status/2118269433626124798)
+
+**作者**: [sandmrk](https://x.com/sandmrk)
+
+**原始来源**: [作者自报模型](https://x.com/sandmrk/status/2118269430014599535) · [来源详情](cases/social-moonlit-lake-hanfu-portrait/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
+
+#### 44. 夕阳下荷塘边坐着的汉服女子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg"><img src="assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg" alt="夕阳下荷塘边坐着的汉服女子" width="700" /></a><br /><sub>夕阳下荷塘边坐着的汉服女子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+An original cinematic semi-realistic fantasy portrait of a clearly adult East Asian woman, age 28, seated on a lakeside stone beneath trailing willow branches at golden hour. Long black hair with delicate pale lotus ornaments, elegant silver-blue embroidered silk hanfu with opaque bodice and modest neckline, airy outer sleeves, long skirt naturally draped over her legs. Three-quarter seated composition, vertical 9:16 framing. Warm golden backlight through leaves, soft mist, distant mountain silhouettes, a tranquil reflective pond and small pink lotus blossoms. Natural skin texture, individual hair strands, intricate silver embroidery, believable hands and anatomy, soft atmospheric depth. No text, no watermark, no logos.
+```
+
+[原始提示词 (.txt)](cases/social-seated-hanfu-woman-lotus-pond/prompt.txt)
+
+[原提示词见来源](https://x.com/fengnian_ai/status/2118386725676552194)
+
+**作者**: [fengnian_ai](https://x.com/fengnian_ai)
+
+**原始来源**: [作者自报模型](https://x.com/fengnian_ai/status/2118386725676552194) · [来源详情](cases/social-seated-hanfu-woman-lotus-pond/README.zh-CN.md)
+
+---
+
+<a id="source-case-social-sunset-beach-look-back"></a>
+
+#### 45. 夕阳海边回头的女子
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-01.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-01.jpg" alt="夕阳海边回头的女子" width="360" /></a><br /><sub>夕阳海边回头的女子</sub></td>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-02.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-02.jpg" alt="夕阳海边回头的女子" width="360" /></a><br /><sub>夕阳海边回头的女子</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-03.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-03.jpg" alt="夕阳海边回头的女子" width="360" /></a><br /><sub>夕阳海边回头的女子</sub></td>
+<td align="center"><a href="assets/examples/social-sunset-beach-look-back/source-04.jpg"><img src="assets/examples/social-sunset-beach-look-back/source-04.jpg" alt="夕阳海边回头的女子" width="360" /></a><br /><sub>夕阳海边回头的女子</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+【首图】
+生成一张4:5竖版写实人像照片。一位25岁的成年东亚美女，黑色长发，五官精致，身材修长匀称，穿黑色连体泳衣，外搭敞开的白色亚麻衬衫。傍晚赤脚走在海边浅水中，被身后的人叫住，回头看向镜头，露出刚开始笑的自然表情，一只手轻轻按住被海风吹起的头发。拍到大腿，人物占画面主体，前景有细碎浪花，夕阳从侧后方照亮发丝。像旅行时偶然拍到的漂亮瞬间，保留真实皮肤纹理、衣料褶皱和轻微抓拍感，色彩自然，无文字、水印。
+
+【续图方法】
+上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加：
+①近景：胸口以上，拨头发，轻轻微笑。
+②全身：赤脚走在浅水里，低头看浪花。
+③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。
+```
+
+[原始提示词 (.txt)](cases/social-sunset-beach-look-back/prompt.txt)
+
+[原提示词见来源](https://x.com/sonny_eacc/status/2118216507025187281)
+
+**作者**: [sonny_eacc](https://x.com/sonny_eacc)
+
+**原始来源**: [作者自报模型](https://x.com/sonny_eacc/status/2118216234445791408) · [来源详情](cases/social-sunset-beach-look-back/README.zh-CN.md)
+
+---
+
 <a id="category-markup-edits"></a>
 
 ### 标注与局部编辑
 
 <a id="source-case-docs-vase-markup"></a>
 
-#### 42. 标注花瓶后局部换色
+#### 46. 标注花瓶后局部换色
 
 <table>
 <tr>
@@ -1454,7 +1623,7 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="source-case-docs-spanish-edit"></a>
 
-#### 43. 信息图改为西班牙语
+#### 47. 信息图改为西班牙语
 
 <table>
 <tr>
@@ -1479,7 +1648,7 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 
 <a id="source-case-docs-pixel-style"></a>
 
-#### 44. 像素风格迁移
+#### 48. 像素风格迁移
 
 <table>
 <tr>
@@ -1513,7 +1682,7 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 <a id="source-case-docs-dog-composite"></a>
 
-#### 45. 跨图合成宠物
+#### 49. 跨图合成宠物
 
 <table>
 <tr>
@@ -1548,7 +1717,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="source-case-docs-sketch-render"></a>
 
-#### 46. 线稿转写实场景
+#### 50. 线稿转写实场景
 
 <table>
 <tr>
@@ -1585,7 +1754,7 @@ Do not add new elements or text.
 
 <a id="source-case-docs-remove-flower"></a>
 
-#### 47. 移除手持花朵
+#### 51. 移除手持花朵
 
 <table>
 <tr>
@@ -1619,7 +1788,7 @@ Remove the flower from man's hand. Do not change anything else.
 
 <a id="source-case-docs-snow-edit"></a>
 
-#### 48. 广告牌场景改为雪夜
+#### 52. 广告牌场景改为雪夜
 
 <table>
 <tr>
@@ -1644,7 +1813,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
 
-#### 49. 兔子绘本场景日暮编辑
+#### 53. 兔子绘本场景日暮编辑
 
 <table>
 <tr>
@@ -1664,7 +1833,7 @@ Make it look like a winter evening with snowfall.
 
 <a id="source-case-nyle-webinar-date-edit"></a>
 
-#### 50. 网络研讨会日期替换对比
+#### 54. 网络研讨会日期替换对比
 
 <table>
 <tr>
@@ -1688,13 +1857,74 @@ Make it look like a winter evening with snowfall.
 
 ---
 
+<a id="source-case-social-portugal-folk-christmas-card"></a>
+
+#### 55. 照片转民间艺术风圣诞贺卡
+
+<table>
+<tr>
+<td align="center"><a href="assets/examples/social-portugal-folk-christmas-card/source-01.jpg"><img src="assets/examples/social-portugal-folk-christmas-card/source-01.jpg" alt="照片转民间艺术风圣诞贺卡" width="360" /></a><br /><sub>照片转民间艺术风圣诞贺卡</sub></td>
+<td align="center"><a href="assets/examples/social-portugal-folk-christmas-card/source-02.jpg"><img src="assets/examples/social-portugal-folk-christmas-card/source-02.jpg" alt="照片转民间艺术风圣诞贺卡" width="360" /></a><br /><sub>照片转民间艺术风圣诞贺卡</sub></td>
+</tr>
+</table>
+
+**原始提示词**
+
+```text
+Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.
+
+ART STYLE:
+
+- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.
+- Slightly exaggerated, whimsical proportions.
+- Imperfect, irregular outlines and organic hand-drawn contours.
+- Simplified shapes with carefully selected decorative details.
+- Flat, bold, contrasting colours with a warm Christmas palette.
+- Subtle vintage paper texture with a refined printed-card finish.
+- Delicate hand-drawn decorative marks, patterns and festive accents.
+- Minimalist yet visually rich composition.
+
+COLOUR PALETTE:
+Use traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.
+
+PRESERVE THE ORIGINAL PHOTOGRAPH:
+Retain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.
+
+DESIGN & COMPOSITION:
+Create an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.
+
+STRICT VISUAL RULES:
+
+- No photorealism.
+- No 3D rendering.
+- No realistic lighting or shadows.
+- No gradients.
+- No glossy or metallic effects.
+- No artificial digital painting appearance.
+- No excessive detail or visual clutter.
+
+The final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.
+
+FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
+```
+
+[原始提示词 (.txt)](cases/social-portugal-folk-christmas-card/prompt.txt)
+
+[原提示词见来源](https://x.com/Goodmanprotocol/status/2118562099987398753)
+
+**作者**: [Goodmanprotocol](https://x.com/Goodmanprotocol)
+
+**原始来源**: [作者自报模型](https://x.com/Goodmanprotocol/status/2118562099987398753) · [来源详情](cases/social-portugal-folk-christmas-card/README.zh-CN.md)
+
+---
+
 <a id="category-svg-design-assets"></a>
 
 ### SVG 与设计素材
 
 <a id="source-case-docs-bakery-svg"></a>
 
-#### 51. 面包店 SVG 标志
+#### 56. 面包店 SVG 标志
 
 <table>
 <tr>
@@ -1722,7 +1952,7 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 <a id="source-case-docs-market-ui"></a>
 
-#### 52. 农夫市场手机界面
+#### 57. 农夫市场手机界面
 
 <table>
 <tr>
@@ -1751,7 +1981,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-bear-svg-comparison"></a>
 
-#### 53. 熊吉祥物：SVG 与 PNG 输出预览对比
+#### 58. 熊吉祥物：SVG 与 PNG 输出预览对比
 
 <table>
 <tr>
@@ -1772,7 +2002,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-community-struggle-code-lightning-svg"></a>
 
-#### 54. 代码闪电矢量标志
+#### 59. 代码闪电矢量标志
 
 <table>
 <tr>
@@ -1800,7 +2030,7 @@ Place the UI mockup in an iPhone frame.
 
 <a id="source-case-docs-lantern-gif"></a>
 
-#### 55. 提灯猴循环 GIF
+#### 60. 提灯猴循环 GIF
 
 <table>
 <tr>
@@ -1824,7 +2054,7 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 <a id="source-case-launch-openart-down"></a>
 
-#### 56. 股价下跌的办公角色 GIF
+#### 61. 股价下跌的办公角色 GIF
 
 <table>
 <tr>
@@ -1850,7 +2080,7 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 <a id="source-case-launch-openart-up"></a>
 
-#### 57. 股价上涨的办公角色 GIF
+#### 62. 股价上涨的办公角色 GIF
 
 <table>
 <tr>
@@ -1876,7 +2106,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-owl"></a>
 
-#### 58. 猫头鹰草图变动画
+#### 63. 猫头鹰草图变动画
 
 <table>
 <tr>
@@ -1905,7 +2135,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-launch-town"></a>
 
-#### 59. Monty 打字状态动画
+#### 64. Monty 打字状态动画
 
 <table>
 <tr>
@@ -1925,7 +2155,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-malfoid"></a>
 
-#### 60. 夏日角色插画动画
+#### 65. 夏日角色插画动画
 
 **图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)
 
@@ -1941,7 +2171,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-gifts"></a>
 
-#### 61. Images 2.6 brings GIF(T)S :D
+#### 66. Images 2.6 brings GIF(T)S :D
 
 **图片暂未入库** · [到原始来源查看作品](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
@@ -1957,7 +2187,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-boxing-tiger"></a>
 
-#### 62. 拳击老虎动画
+#### 67. 拳击老虎动画
 
 <table>
 <tr>
@@ -1978,7 +2208,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-hummingbird-variants"></a>
 
-#### 63. 蜂鸟与翠鸟动画多版本
+#### 68. 蜂鸟与翠鸟动画多版本
 
 <table>
 <tr>
@@ -2006,7 +2236,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-community-rosebud-animation"></a>
 
-#### 64. 玫瑰花蕾动画
+#### 69. 玫瑰花蕾动画
 
 <table>
 <tr>
@@ -2027,7 +2257,7 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 <a id="source-case-ailingqu-jelly-bear-wobble"></a>
 
-#### 65. Q 弹果冻熊摇晃
+#### 70. Q 弹果冻熊摇晃
 
 <table>
 <tr>
@@ -2055,7 +2285,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-bunny-reaction-set"></a>
 
-#### 66. 白兔表情贴纸组
+#### 71. 白兔表情贴纸组
 
 <table>
 <tr>
@@ -2105,7 +2335,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
 
-#### 67. 卡通猫挥手打招呼
+#### 72. 卡通猫挥手打招呼
 
 <table>
 <tr>
@@ -2133,7 +2363,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-shiba-head-tilt"></a>
 
-#### 68. 柴犬歪头疑惑
+#### 73. 柴犬歪头疑惑
 
 <table>
 <tr>
@@ -2161,7 +2391,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
 
-#### 69. 猫猫疯狂打字
+#### 74. 猫猫疯狂打字
 
 <table>
 <tr>
@@ -2189,7 +2419,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-frog-heart-bubble"></a>
 
-#### 70. 青蛙吹出爱心
+#### 75. 青蛙吹出爱心
 
 <table>
 <tr>
@@ -2217,7 +2447,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
 
-#### 71. 企鹅捂脸
+#### 76. 企鹅捂脸
 
 <table>
 <tr>
@@ -2245,7 +2475,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-basketball-shot-sticker"></a>
 
-#### 72. 投篮命中庆祝
+#### 77. 投篮命中庆祝
 
 <table>
 <tr>
@@ -2273,7 +2503,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
 
-#### 73. 猫厨师颠勺炒饭
+#### 78. 猫厨师颠勺炒饭
 
 <table>
 <tr>
@@ -2301,7 +2531,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
 
-#### 74. 黑猫出拳
+#### 79. 黑猫出拳
 
 <table>
 <tr>
@@ -2329,7 +2559,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-office-cat-workday-set"></a>
 
-#### 75. 打工猫上下班表情组
+#### 80. 打工猫上下班表情组
 
 <table>
 <tr>
@@ -2368,7 +2598,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-roaring-duck"></a>
 
-#### 76. 咆哮的小黄鸭
+#### 81. 咆哮的小黄鸭
 
 <table>
 <tr>
@@ -2396,7 +2626,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-flower-macro-flash"></a>
 
-#### 77. 花卉微距快闪
+#### 82. 花卉微距快闪
 
 <table>
 <tr>
@@ -2424,7 +2654,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
 
-#### 78. 猫头 Logo 品牌快闪
+#### 83. 猫头 Logo 品牌快闪
 
 <table>
 <tr>
@@ -2452,7 +2682,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-sneaker-colorway-flash"></a>
 
-#### 79. 球鞋配色快闪
+#### 84. 球鞋配色快闪
 
 <table>
 <tr>
@@ -2480,7 +2710,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
 
-#### 80. 一棵树的四季
+#### 85. 一棵树的四季
 
 <table>
 <tr>
@@ -2508,7 +2738,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-magazine-panels-pop"></a>
 
-#### 81. 杂志拼贴逐格弹出
+#### 86. 杂志拼贴逐格弹出
 
 <table>
 <tr>
@@ -2536,7 +2766,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
 
-#### 82. 窗边读书·白天到夜晚
+#### 87. 窗边读书·白天到夜晚
 
 <table>
 <tr>
@@ -2564,7 +2794,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-steaming-coffee"></a>
 
-#### 83. 冒热气的咖啡
+#### 88. 冒热气的咖啡
 
 <table>
 <tr>
@@ -2592,7 +2822,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-rain-on-window"></a>
 
-#### 84. 雨窗与绿植
+#### 89. 雨窗与绿植
 
 <table>
 <tr>
@@ -2620,7 +2850,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-goldfish-bowl"></a>
 
-#### 85. 鱼缸里的金鱼
+#### 90. 鱼缸里的金鱼
 
 <table>
 <tr>
@@ -2648,7 +2878,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
 
-#### 86. 夜晚的灯塔
+#### 91. 夜晚的灯塔
 
 <table>
 <tr>
@@ -2676,7 +2906,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cat-by-fireplace"></a>
 
-#### 87. 壁炉边睡觉的猫
+#### 92. 壁炉边睡觉的猫
 
 <table>
 <tr>
@@ -2704,7 +2934,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
 
-#### 88. 雪林提灯的小猴子
+#### 93. 雪林提灯的小猴子
 
 <table>
 <tr>
@@ -2732,7 +2962,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-sleepy-fox-rock"></a>
 
-#### 89. 苔石上打盹的小狐狸
+#### 94. 苔石上打盹的小狐狸
 
 <table>
 <tr>
@@ -2760,7 +2990,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
 
-#### 90. Lo-fi 学习循环
+#### 95. Lo-fi 学习循环
 
 <table>
 <tr>
@@ -2788,7 +3018,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-cafe-cinemagraph"></a>
 
-#### 91. 街角咖啡馆动态照片
+#### 96. 街角咖啡馆动态照片
 
 <table>
 <tr>
@@ -2816,7 +3046,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
 
-#### 92. 水墨奔马
+#### 97. 水墨奔马
 
 <table>
 <tr>
@@ -2844,7 +3074,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-doodle-monster"></a>
 
-#### 93. 涂鸦小怪兽活了
+#### 98. 涂鸦小怪兽活了
 
 <table>
 <tr>
@@ -2872,7 +3102,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
 
-#### 94. 像素风篝火
+#### 99. 像素风篝火
 
 <table>
 <tr>
@@ -2900,7 +3130,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-bouncing-dots-loader"></a>
 
-#### 95. 弹跳圆点加载动画
+#### 100. 弹跳圆点加载动画
 
 <table>
 <tr>
@@ -2928,7 +3158,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
 
-#### 96. 像素骑士跑步循环
+#### 101. 像素骑士跑步循环
 
 <table>
 <tr>
@@ -2956,7 +3186,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-like-heart-burst"></a>
 
-#### 97. 点赞爱心爆开
+#### 102. 点赞爱心爆开
 
 <table>
 <tr>
@@ -2984,7 +3214,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
 
-#### 98. 沙漏加载
+#### 103. 沙漏加载
 
 <table>
 <tr>
@@ -3012,7 +3242,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-arcade-vs-screen"></a>
 
-#### 99. 街机对战 VS 画面
+#### 104. 街机对战 VS 画面
 
 <table>
 <tr>
@@ -3040,7 +3270,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
 
-#### 100. 8-bit 史莱姆 Boss 战
+#### 105. 8-bit 史莱姆 Boss 战
 
 <table>
 <tr>
@@ -3068,7 +3298,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-love-burst-skill"></a>
 
-#### 101. 爱心爆发技能动画
+#### 106. 爱心爆发技能动画
 
 <table>
 <tr>
@@ -3096,7 +3326,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
 
-#### 102. 废品场机器人行走
+#### 107. 废品场机器人行走
 
 <table>
 <tr>
@@ -3124,7 +3354,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
 
-#### 103. Robin 猫眨眼与落下的姓名帽
+#### 108. Robin 猫眨眼与落下的姓名帽
 
 <table>
 <tr>
@@ -3149,7 +3379,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
 
-#### 104. 蓝发女仆对话动画原型
+#### 109. 蓝发女仆对话动画原型
 
 <table>
 <tr>
@@ -3169,7 +3399,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
 
-#### 105. Ram Altman 内存条恶搞动画
+#### 110. Ram Altman 内存条恶搞动画
 
 <table>
 <tr>
@@ -3189,7 +3419,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-sailor-dance"></a>
 
-#### 106. 月下美少女战士舞蹈
+#### 111. 月下美少女战士舞蹈
 
 <table>
 <tr>
@@ -3213,7 +3443,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-cat-programmer"></a>
 
-#### 107. 黏土橘猫敲键盘
+#### 112. 黏土橘猫敲键盘
 
 <table>
 <tr>
@@ -3237,7 +3467,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-struggle-desk-animation"></a>
 
-#### 108. 桌面照片清理并转动图
+#### 113. 桌面照片清理并转动图
 
 <table>
 <tr>
@@ -3270,7 +3500,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-zunbeho-parody-ad-gifs"></a>
 
-#### 109. 十款戏仿网页广告 GIF：日本创作者测试
+#### 114. 十款戏仿网页广告 GIF：日本创作者测试
 
 <table>
 <tr>
@@ -3306,7 +3536,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
 
-#### 110. Pixel♡Love：游泳角色动画帧表
+#### 115. Pixel♡Love：游泳角色动画帧表
 
 <table>
 <tr>
@@ -3326,7 +3556,7 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 <a id="source-case-community-kiki-tanjiro-pixel-loop"></a>
 
-#### 111. 炭治郎像素风水刃循环动画
+#### 116. 炭治郎像素风水刃循环动画
 
 <table>
 <tr>
@@ -3377,7 +3607,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
 
-#### 112. 心跳舞模式对比：来源封面
+#### 117. 心跳舞模式对比：来源封面
 
 <table>
 <tr>
@@ -3397,7 +3627,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-community-kiki-malfoid-mood-stickers"></a>
 
-#### 113. 六段 Miss Malfoid 情绪贴纸循环动画
+#### 118. 六段 Miss Malfoid 情绪贴纸循环动画
 
 <table>
 <tr>
@@ -3426,7 +3656,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-blue-hair-chibi-eating-rice-gif"></a>
 
-#### 114. Q版角色用筷子吃白米饭
+#### 119. Q版角色用筷子吃白米饭
 
 <table>
 <tr>
@@ -3462,7 +3692,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
 
-#### 115. 穿旗袍的Q版少女做可爱跳跃动作
+#### 120. 穿旗袍的Q版少女做可爱跳跃动作
 
 <table>
 <tr>
@@ -3498,7 +3728,7 @@ Deliver an actual multi-frame GIF file I can download.
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
 
-#### 116. 戴礼帽跳舞的卡通青蛙
+#### 121. 戴礼帽跳舞的卡通青蛙
 
 <table>
 <tr>
@@ -3525,7 +3755,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-heisei-flip-phone-decomail-gif"></a>
 
-#### 117. 东京街头折叠手机屏幕播放平成风格动画
+#### 122. 东京街头折叠手机屏幕播放平成风格动画
 
 <table>
 <tr>
@@ -3552,7 +3782,7 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
 
-#### 118. 卡通小蜜蜂在手机上发帖打卡
+#### 123. 卡通小蜜蜂在手机上发帖打卡
 
 <table>
 <tr>

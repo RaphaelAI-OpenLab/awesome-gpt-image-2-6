@@ -1,0 +1,24 @@
+{
+  "source_url": "https://x.com/sandmrk/status/2118269430014599535",
+  "author": "sandmrk",
+  "published_at": "2026-11-05T09:09:22+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "左图：gpt-image-2.6-sunburst",
+  "prompt_source_url": "https://x.com/sandmrk/status/2118269433626124798",
+  "prompt_path": "cases/social-moonlit-lake-hanfu-portrait/prompt.txt",
+  "prompt_sha256": "8f091897b10cb05b393042089bc854b8c5123bf5159e9728f2c29f58f1c82449",
+  "source_html_sha256": "4ab8a79e11ec79fd7c228a8cdd2ce9a4a96bb0296aa90786c33cca8cc2493e8f",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-moonlit-lake-hanfu-portrait/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWWazxiaMAAtplU.jpg",
+      "sha256": "11ad7ea1b7c25573c467b61ebcbdc5abe0e4305f7dc633f50c68fbbbca037554",
+      "bytes": 234281,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

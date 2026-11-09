@@ -1,0 +1,24 @@
+{
+  "source_url": "https://x.com/fengnian_ai/status/2118386725676552194",
+  "author": "fengnian_ai",
+  "published_at": "2026-11-05T16:55:27+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "左：GPT Image 2.6       ",
+  "prompt_source_url": "https://x.com/fengnian_ai/status/2118386725676552194",
+  "prompt_path": "cases/social-seated-hanfu-woman-lotus-pond/prompt.txt",
+  "prompt_sha256": "f7d4396c56e1d9873fa3aa40580fb4755a1f4ef930ae77ab8ffcb4c50897fb54",
+  "source_html_sha256": "9049c478fe2313f2d5743b6839bf844ad68f3ffe74e908d507f5fadd476009f9",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-seated-hanfu-woman-lotus-pond/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWYEunFbQAAqOE1.jpg",
+      "sha256": "803955a8ce552012188e81cf50cbd5b9a32070b79f46f8d0d3523327dc4e21c3",
+      "bytes": 196903,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}

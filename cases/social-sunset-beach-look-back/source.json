@@ -1,0 +1,51 @@
+{
+  "source_url": "https://x.com/sonny_eacc/status/2118216234445791408",
+  "author": "sonny_eacc",
+  "published_at": "2026-11-05T05:37:59+00:00",
+  "model": "GPT Image 2.6",
+  "model_evidence": "试了最新的 GPT Image 2.6，先生成一张海边写真，再拿首图续出一组。",
+  "prompt_source_url": "https://x.com/sonny_eacc/status/2118216507025187281",
+  "prompt_path": "cases/social-sunset-beach-look-back/prompt.txt",
+  "prompt_sha256": "c09b47b50a7b773db8ed79b89b1539b25d472a0cf243b48b7460cf055b5a7077",
+  "source_html_sha256": "f0efd32aeff6cd74bf2765497d0bd6d13de6417202fd60b49f5e5b6f41f65921",
+  "verification": "Read the original social post and matched the publicly shared prompt and attachments.",
+  "collected_at": "2026-11-09",
+  "media": [
+    {
+      "path": "assets/examples/social-sunset-beach-look-back/source-01.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVqadTaQAEJi5R.jpg",
+      "sha256": "d2b790f6e13cd3b70bcd270e5a27ee6c2c3cc3805270888e0eeb3406eaf333a5",
+      "bytes": 271565,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sunset-beach-look-back/source-02.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVqadSaUAA103E.jpg",
+      "sha256": "bdb757171d2b0f2353ffbe870a49745a7108e3da050f95f650f300ee528d3cf0",
+      "bytes": 221498,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sunset-beach-look-back/source-03.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVqadQa8AARCXy.jpg",
+      "sha256": "a02980f6e63e2740e8da1688d08e9bdfb80dbf3d0474e7f293234df017e3cd8b",
+      "bytes": 218716,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    },
+    {
+      "path": "assets/examples/social-sunset-beach-look-back/source-04.jpg",
+      "original_url": "https://pbs.twimg.com/media/HWVqadUbYAEwPGe.jpg",
+      "sha256": "bcba752a1d6dae5c51dfdf4db124527f4209767c4c37904e7b4e366143067177",
+      "bytes": 260685,
+      "mime_type": "image/jpeg",
+      "role": "output",
+      "transformation": "none"
+    }
+  ]
+}
