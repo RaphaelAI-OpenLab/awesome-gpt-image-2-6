@@ -35,9 +35,16 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
 
 ## 来源与核对信息
 

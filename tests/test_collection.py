@@ -264,7 +264,7 @@ class CollectionTests(unittest.TestCase):
         with patch('homepage.read_cases',return_value=cases):
             text=render_readme(self.config,self.prompts,'en')
         latest=text.split('<a id="latest"></a>',1)[1].split('<a id="all-cases"></a>',1)[0]
-        self.assertLess(latest.index('cases/aa-newer/'),latest.index('cases/zz-older/'))
+        self.assertLess(latest.index('#source-case-aa-newer'),latest.index('#source-case-zz-older'))
 
     def media_item(self):
         return copy.deepcopy(next(x for x in self.cases if x['media']))

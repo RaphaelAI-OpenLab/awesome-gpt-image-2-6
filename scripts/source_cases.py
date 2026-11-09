@@ -2,7 +2,10 @@
 from __future__ import annotations
 from i18n import DETAIL_LANGUAGES, detail_language, filename
 from presentation import language_nav
-from common import GENERATED_MARKER, ROOT, localized, md_link, md_text, md_url, read_json, image_path
+from common import GENERATED_MARKER, ROOT, code_block, html_attr, localized, md_link, md_text, md_url, read_json, image_path
+from i18n import ui
+from pathlib import PurePosixPath
+from urllib.parse import urlsplit
 
 LABELS = {
     'official-docs': {'en': 'Official documentation', 'zh-CN': '官方文档'},
@@ -45,6 +48,81 @@ def page_path(item, language, *, external=False):
 
 def preview(item):
     return next((m for m in item['media'] if m['path'] and m['kind'] != 'video' and m.get('role', 'output') != 'reference'), None)
+
+
+def video_preview_path(media):
+    """视频首帧单独存放，不修改或冒充来源原件。"""
+    path = PurePosixPath(media['path'])
+    return str(PurePosixPath('assets/readme-previews') / path.parent.name / (path.stem + '.jpg'))
+
+
+def render_original_prompt(item, language):
+    """首页与详情复用原文，缺失状态不生成提示词。"""
+    c = lambda en, cn: ui(en, cn, language)
+    prompt = item['prompt']
+    entries = prompt.get('entries', [])
+    lines = []
+    if entries:
+        for entry in entries:
+            if len(entries) > 1:
+                lines += ['**' + md_text(localized(entry['title'], language)) + '**', '']
+            lines += [code_block(entry['text']), '']
+        if prompt.get('note'):
+            lines += [md_text(localized(prompt['note'], language)), '']
+        lines += [md_link(c('Original prompt at source', '原提示词见来源'), prompt['url'])]
+    elif prompt['status'] == 'source-only':
+        lines += [md_link(label('source-only', language), prompt['url'])]
+    elif prompt['status'] == 'unverified':
+        lines += ['**' + label('unverified', language) + '**']
+    else:
+        lines += ['**' + label('not-public', language) + '**']
+    return '\n'.join(lines)
+
+
+def render_inline_case(item, language, number):
+    """将来源案例的图片、原文与底部署名直接展开到 README。"""
+    c = lambda en, cn: ui(en, cn, language)
+    lines = [f'<a id="source-case-{item["id"]}"></a>', '',
+             f'#### {number}. ' + md_text(localized(item['title'], language)), '']
+    outputs = [m for m in item['media'] if m['path'] and m.get('role', 'output') != 'reference']
+    if outputs:
+        lines += ['<table>']
+        for start in range(0, len(outputs), 2):
+            lines += ['<tr>']
+            for media in outputs[start:start + 2]:
+                alt = localized(media['alt'], language)
+                if media['kind'] == 'video':
+                    path = video_preview_path(media)
+                    caption = c('Video preview · open video', '视频首帧预览 · 打开动画')
+                    visual = f'<a href="{html_attr(media["path"])}"><img src="{html_attr(path)}" alt="{html_attr(alt)}" width="360" /><br />{html_attr(caption)}</a>'
+                else:
+                    width = 700 if len(outputs) == 1 else 360
+                    visual = f'<a href="{html_attr(media["path"])}"><img src="{html_attr(media["path"])}" alt="{html_attr(alt)}" width="{width}" /></a>'
+                lines += [f'<td align="center">{visual}<br /><sub>{html_attr(alt)}</sub></td>']
+            lines += ['</tr>']
+        lines += ['</table>', '']
+    else:
+        lines += ['**' + c('Images not yet archived', '图片暂未入库') + '** · ' +
+                  md_link(c('View the work at its original source', '到原始来源查看作品'), item['source']['url']), '']
+    references = [m for m in item['media'] if m.get('role') == 'reference']
+    if references:
+        lines += ['<details>', '<summary>' + html_attr(c('Reference images', '参考图')) + '</summary>', '',
+                  c('Reference/input image, not a generated output.', '参考 / 输入图，不是生成结果。'), '']
+        for media in references:
+            lines += ['- ' + md_link(localized(media['alt'], language), media['path'] or media['source_url'])]
+        lines += ['', '</details>', '']
+    lines += ['**' + c('Original prompt', '原始提示词') + '**', '', render_original_prompt(item, language), '']
+    source = item['source']
+    url = urlsplit(source['url'])
+    author_url = source['url']
+    if url.hostname in ('x.com', 'twitter.com', 'github.com'):
+        author_url = 'https://' + url.hostname + '/' + url.path.strip('/').split('/')[0]
+    lines += ['**' + c('Author', '作者') + '**: ' + md_link(source['author'], author_url), '',
+              '**' + c('Original source', '原始来源') + '**: ' + md_link(label(source['type'], language), source['url']) +
+              ' · ' + md_link(c('Source details', '来源详情'), page_path(item, language))]
+    if item['id'].startswith('ailingqu-'):
+        lines[-1] += ' · ' + md_link('CC BY 4.0', 'docs/ailingqu-2037/ATTRIBUTION.md')
+    return '\n'.join(lines) + '\n'
 
 
 def render_detail(item, language, *, external=False):
@@ -90,7 +168,9 @@ def render_detail(item, language, *, external=False):
                   '- ' + choose('Media: ', '素材：') + label(access['media_status'], language) + '. ' + md_text(localized(access['media_note'], language)),
                   '- ' + md_link(choose('Per-file attempts and results', '逐项尝试与结果'), root_prefix + access['report_path'])]
     lines += ['', '## ' + choose('Original prompt', '原始提示词'), '']
-    if item['prompt']['status'] == 'source-only':
+    if item['prompt'].get('entries'):
+        lines += [render_original_prompt(item, language)]
+    elif item['prompt']['status'] == 'source-only':
         lines += [md_link(label('source-only', language), item['prompt']['url']), '',
                   choose('The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.', '来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。')]
     elif item['prompt']['status'] == 'unverified':

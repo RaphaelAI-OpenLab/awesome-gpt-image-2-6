@@ -28,9 +28,11 @@ One original nine-frame 427×400 GIF, not the separate editor-interface screensh
 
 ## Original prompt
 
-[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+```text
+创建一个 GIF，内容是 一位美少女战士在跳舞
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 ## Attribution and verification
 

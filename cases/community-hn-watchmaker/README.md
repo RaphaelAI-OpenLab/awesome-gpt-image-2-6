@@ -28,9 +28,12 @@ neom shares an exact test prompt and explicitly labels this link 2.6, alongside 
 
 ## Original prompt
 
-[Original prompt at source](https://news.ycombinator.com/item?id=50373686)
+```text
+A macro close-up photograph of an old watchmaker's hands carefully replacing a tiny gear inside a vintage pocket watch. The watch mechanism is partially submerged in a shallow dish of clear water, causing visible refraction and light caustics across the brass gears. A single drop of water is falling from a pair of steel tweezers, captured mid-splash on the water's surface.
+Reflect the watchmaker's face, slightly distorted, in the curved glass of the watch face. Sharp focus throughout, natural window lighting from the left, shot on 100mm macro lens.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://news.ycombinator.com/item?id=50373686)
 
 ## Attribution and verification
 

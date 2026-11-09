@@ -8,6 +8,8 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 来源案例按[维护指南](docs/SOURCE_CASES.md)登记。官方、社媒与论坛、内容发布社区及 GitHub 示例写入 `content/source-cases.json`；其他独立网站写入 `external-sites/source-cases.json`，素材和详情页集中存入[外站素材目录](external-sites/README.md)，不加入主 README 分类和统计。下方完整提示词流程仍使用 `content/prompts.json`。
 
+主合集 README 直接展示图片、提示词和底部署名。已核实的来源原文填写在 `prompt.entries`，每段保留双语标题、原始文本和准确链接；多轮编辑分段保存，不合并成单次指令。不公开或待核验的提示词只标状态。MP4 的首帧预览通过 `python3 scripts/build_video_previews.py` 生成，随后重新生成 README；具体字段与命令见维护指南。
+
 已核实所查来源未提供公开原始提示词，或提示词公开状态尚未检查、无法确认的作品也可收录，但必须独立核对模型证据与来源，并如实区分提示词状态，不伪造原始提示词。
 
 ## Suggest a source case / 推荐来源案例

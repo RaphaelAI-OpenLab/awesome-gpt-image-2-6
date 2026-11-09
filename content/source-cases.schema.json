@@ -140,6 +140,58 @@
               "string",
               "null"
             ]
+          },
+          "entries": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "title",
+                "text",
+                "url"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "title": {
+                  "type": "object",
+                  "required": [
+                    "en",
+                    "zh-CN"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "zh-CN": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "text": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "note": {
+            "type": "object",
+            "required": [
+              "en",
+              "zh-CN"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "zh-CN": {
+                "type": "string"
+              }
+            }
           }
         }
       },

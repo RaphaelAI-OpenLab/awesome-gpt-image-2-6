@@ -21,9 +21,15 @@ Creator-reported example. Exact licensed source prompt bodies and the shared suf
 
 ## Original prompt
 
-[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+```text
+A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[Original prompt at source](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
 ## Attribution and verification
 

@@ -1,0 +1,75 @@
+"""核对 README 完整展示、原文对应关系与缺失提示词边界。"""
+import copy
+import sys
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
+from common import ROOT, code_block, load_data, read_json
+from i18n import LANGUAGES
+from source_cases import read_cases, render_inline_case, render_original_prompt, video_preview_path, visible
+from validate import validate_source_cases
+
+
+class InlineGalleryTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.config, _ = load_data()
+        cls.cases = visible(read_cases())
+
+    def test_all_public_prompts_have_text_and_ailingqu_matches_retained_originals(self):
+        by_id = {item['id']: item for item in self.cases}
+        for item in self.cases:
+            if item['prompt']['status'] == 'source-only':
+                self.assertTrue(item['prompt'].get('entries'), item['id'])
+        for original in read_json('docs/ailingqu-2037/verified-prompts.json'):
+            entries = by_id[original['case_id']]['prompt']['entries']
+            self.assertIn(original['complete_submitted_prompt_as_documented'], [entry['text'] for entry in entries])
+
+    def test_all_languages_show_each_output_prompt_and_bottom_credit(self):
+        for language in LANGUAGES:
+            for item in self.cases:
+                with self.subTest(language=language, case=item['id']):
+                    card = render_inline_case(item, language, 1)
+                    for media in item['media']:
+                        if not media['path']:
+                            continue
+                        if media.get('role') == 'reference':
+                            self.assertNotIn('src="' + media['path'] + '"', card)
+                        else:
+                            path = video_preview_path(media) if media['kind'] == 'video' else media['path']
+                            self.assertIn('src="' + path + '"', card)
+                            self.assertTrue((ROOT / path).is_file())
+                    for entry in item['prompt'].get('entries', []):
+                        self.assertIn(code_block(entry['text']), card)
+                    self.assertIn(item['source']['author'], card)
+                    self.assertGreater(card.rfind(item['source']['author']), card.rfind('```'))
+
+    def test_missing_prompts_never_render_code_and_unknowns_are_not_called_private(self):
+        item = copy.deepcopy(self.cases[0])
+        for status in ('not-public', 'unverified'):
+            item['prompt'] = {'status': status, 'url': None}
+            for language in ('en', 'zh-CN'):
+                text = render_original_prompt(item, language)
+                self.assertNotIn('```', text)
+                if status == 'unverified':
+                    self.assertNotIn('not public', text)
+                    self.assertNotIn('未公开', text)
+
+    def test_copied_text_requires_public_status_and_real_source(self):
+        original = next(item for item in self.cases if item['prompt'].get('entries'))
+        for mutation in ('private', 'empty', 'missing-source'):
+            item = copy.deepcopy(original)
+            if mutation == 'private':
+                item['prompt'].update(status='not-public', url=None)
+            elif mutation == 'empty':
+                item['prompt']['entries'][0]['text'] = ' '
+            else:
+                item['prompt']['entries'][0]['url'] = 'not-a-source'
+            errors = []
+            validate_source_cases(self.config, [item], [], errors)
+            self.assertTrue(any('.prompt.entries' in error for error in errors), mutation)
+
+
+if __name__ == '__main__':
+    unittest.main()

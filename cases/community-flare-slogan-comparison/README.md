@@ -28,9 +28,13 @@ The comparison contains a pink birthday cake on the left and a GPT Image 2.5 Sun
 
 ## Original prompt
 
-[Original prompt at source](https://x.com/DesignArena/status/2118124381155303918)
+```text
+Generate a beautiful birthday cake
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+Transcribed from the instruction printed in the archived source comparison image.
+
+[Original prompt at source](https://x.com/DesignArena/status/2118124381155303918)
 
 ## Attribution and verification
 

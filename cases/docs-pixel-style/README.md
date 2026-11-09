@@ -35,9 +35,11 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
 
 ## Attribution and verification
 

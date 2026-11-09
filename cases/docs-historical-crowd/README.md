@@ -27,9 +27,12 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
 
 ## Attribution and verification
 

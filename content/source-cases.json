@@ -24,7 +24,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity",
+      "entries": [
+        {
+          "title": {
+            "en": "Paper-cut championship scene: complexity comparison",
+            "zh-CN": "纸艺夺冠场景：复杂度比较"
+          },
+          "text": "A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"
+        }
+      ]
     },
     "media": [
       {
@@ -128,7 +138,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output",
+      "entries": [
+        {
+          "title": {
+            "en": "Bakery SVG logo",
+            "zh-CN": "面包店 SVG 标志"
+          },
+          "text": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output"
+        }
+      ]
     },
     "media": [
       {
@@ -209,7 +229,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif",
+      "entries": [
+        {
+          "title": {
+            "en": "Lantern-carrying monkey loop",
+            "zh-CN": "提灯猴循环 GIF"
+          },
+          "text": "A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"
+        }
+      ]
     },
     "media": [
       {
@@ -269,7 +299,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting",
+      "entries": [
+        {
+          "title": {
+            "en": "Realistic fishing-boat sailor portrait",
+            "zh-CN": "渔船水手写实人像"
+          },
+          "text": "Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.\nHe has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.\nHe is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.\nSoft coastal daylight, shallow depth of field, subtle film grain, natural color balance.\nThe image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"
+        }
+      ]
     },
     "media": [
       {
@@ -351,7 +391,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually",
+      "entries": [
+        {
+          "title": {
+            "en": "Coffee-machine process diagram",
+            "zh-CN": "咖啡机工作流程图"
+          },
+          "text": "Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.\nFrom bean basket, to grinding, to scale, water tank, boiler, etc.\nI'd like to understand technically and visually the flow.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"
+        }
+      ]
     },
     "media": [
       {
@@ -433,7 +483,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text",
+      "entries": [
+        {
+          "title": {
+            "en": "Streetwear advertisement typography",
+            "zh-CN": "街头服饰广告排字"
+          },
+          "text": "Give me a cool in culture ad / fashion shot for a brand called Thread.\nIt's a hip young street brand. The ad shows a group of friends hanging out together with the tagline \"Yours to Create.\"\nMake it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.\nUse clean composition, strong color direction, natural poses, and premium fashion photography cues.\nRender the tagline exactly once, clearly and legibly, integrated into the ad layout.\nNo extra text, no watermarks, no unrelated logos.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"
+        }
+      ]
     },
     "media": [
       {
@@ -515,7 +575,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+      "entries": [
+        {
+          "title": {
+            "en": "Transparent bakery raster logo",
+            "zh-CN": "面包店透明位图标志"
+          },
+          "text": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"
+        }
+      ]
     },
     "media": [
       {
@@ -597,7 +667,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context",
+      "entries": [
+        {
+          "title": {
+            "en": "1969 historical crowd scene",
+            "zh-CN": "1969 年历史人群场景"
+          },
+          "text": "Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.\nPhotorealistic, period-accurate clothing, staging, and environment.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"
+        }
+      ]
     },
     "media": [
       {
@@ -679,7 +759,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip",
+      "entries": [
+        {
+          "title": {
+            "en": "Four-panel pet comic",
+            "zh-CN": "宠物四格漫画"
+          },
+          "text": "Create a short vertical comic-style reel with 4 panels.\nPanel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.\nPanel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.\nPanel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.\nPanel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"
+        }
+      ]
     },
     "media": [
       {
@@ -761,7 +851,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview",
+      "entries": [
+        {
+          "title": {
+            "en": "Farmers market mobile interface",
+            "zh-CN": "农夫市场手机界面"
+          },
+          "text": "Create a realistic mobile app UI mockup for a local farmers market.\nShow today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.\nDesign it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.\nIt should look like a real, well-designed, beautiful app for a small local market.\nPlace the UI mockup in an iPhone frame.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"
+        }
+      ]
     },
     "media": [
       {
@@ -843,7 +943,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+      "entries": [
+        {
+          "title": {
+            "en": "Cellular respiration teaching visual",
+            "zh-CN": "细胞呼吸教学图"
+          },
+          "text": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"
+        }
+      ]
     },
     "media": [
       {
@@ -925,7 +1035,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+      "entries": [
+        {
+          "title": {
+            "en": "Market-size presentation slide",
+            "zh-CN": "市场规模演示页"
+          },
+          "text": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"
+        }
+      ]
     },
     "media": [
       {
@@ -1007,7 +1127,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup",
+      "entries": [
+        {
+          "title": {
+            "en": "Recolor a marked vase",
+            "zh-CN": "标注花瓶后局部换色"
+          },
+          "text": "Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"
+        }
+      ]
     },
     "media": [
       {
@@ -1111,7 +1241,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+      "entries": [
+        {
+          "title": {
+            "en": "Translate an infographic into Spanish",
+            "zh-CN": "信息图改为西班牙语"
+          },
+          "text": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"
+        }
+      ]
     },
     "media": [
       {
@@ -1193,7 +1333,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style",
+      "entries": [
+        {
+          "title": {
+            "en": "Transfer a pixel-art style",
+            "zh-CN": "像素风格迁移"
+          },
+          "text": "Use the same style from the input image and generate a man riding a motorcycle on a white background.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"
+        }
+      ]
     },
     "media": [
       {
@@ -1297,7 +1447,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing",
+      "entries": [
+        {
+          "title": {
+            "en": "Change clothing while preserving identity",
+            "zh-CN": "保留人物身份换装"
+          },
+          "text": "Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"
+        }
+      ]
     },
     "media": [
       {
@@ -1467,7 +1627,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+      "entries": [
+        {
+          "title": {
+            "en": "Combine pets across images",
+            "zh-CN": "跨图合成宠物"
+          },
+          "text": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references"
+        }
+      ]
     },
     "media": [
       {
@@ -1593,7 +1763,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+      "entries": [
+        {
+          "title": {
+            "en": "Transparent product cutout",
+            "zh-CN": "商品透明背景抠图"
+          },
+          "text": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"
+        }
+      ]
     },
     "media": [
       {
@@ -1697,7 +1877,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+      "entries": [
+        {
+          "title": {
+            "en": "Turn a sketch into a realistic scene",
+            "zh-CN": "线稿转写实场景"
+          },
+          "text": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"
+        }
+      ]
     },
     "media": [
       {
@@ -1801,7 +1991,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "entries": [
+        {
+          "title": {
+            "en": "Remove a held flower",
+            "zh-CN": "移除手持花朵"
+          },
+          "text": "Remove the flower from man's hand. Do not change anything else.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"
+        }
+      ]
     },
     "media": [
       {
@@ -1905,7 +2105,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene",
+      "entries": [
+        {
+          "title": {
+            "en": "Place a person into a camping escape scene",
+            "zh-CN": "人物放入露营逃跑场景"
+          },
+          "text": "Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.\nShe is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.\nThe campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"
+        }
+      ]
     },
     "media": [
       {
@@ -1987,7 +2197,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+      "entries": [
+        {
+          "title": {
+            "en": "Roadside shampoo billboard",
+            "zh-CN": "洗发水公路广告牌"
+          },
+          "text": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
+        }
+      ]
     },
     "media": [
       {
@@ -2091,7 +2311,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition",
+      "entries": [
+        {
+          "title": {
+            "en": "Change the billboard scene to a snowy night",
+            "zh-CN": "广告牌场景改为雪夜"
+          },
+          "text": "Make it look like a winter evening with snowfall.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"
+        }
+      ]
     },
     "media": [
       {
@@ -2173,7 +2403,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character",
+      "entries": [
+        {
+          "title": {
+            "en": "Establish a storybook character",
+            "zh-CN": "建立童书角色"
+          },
+          "text": "Create a children’s book illustration introducing a main character.\n\nCharacter:\nA young, storybook-style hero inspired by a little forest outlaw,\nwearing a simple green hooded tunic, soft brown boots, and a small belt pouch.\nThe character has a kind expression, gentle eyes, and a brave but warm demeanor.\nCarries a small wooden bow used only for helping, never harming.\n\nTheme:\nThe character protects and rescues small forest animals like squirrels, birds, and rabbits.\n\nStyle:\nChildren’s book illustration, hand-painted watercolor look,\nsoft outlines, warm earthy colors, whimsical and friendly.\nProportions suitable for picture books (slightly oversized head, expressive face).\n\nConstraints:\n- Original character (no copyrighted characters)\n- No text\n- No watermarks\n- Plain forest background to clearly showcase the character",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character"
+        }
+      ]
     },
     "media": [
       {
@@ -2255,7 +2495,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story",
+      "entries": [
+        {
+          "title": {
+            "en": "Continue the same character’s story",
+            "zh-CN": "同一角色续写故事"
+          },
+          "text": "Continue the children’s book story using the same character.\n\nScene:\nThe same young forest hero is gently helping a frightened squirrel\nout of a fallen tree after a winter storm.\nThe character kneels beside the squirrel, offering reassurance.\n\nCharacter Consistency:\n- Same green hooded tunic\n- Same facial features, proportions, and color palette\n- Same gentle, heroic personality\n\nStyle:\nChildren’s book watercolor illustration,\nsoft lighting, snowy forest environment,\nwarm and comforting mood.\n\nConstraints:\n- Do not redesign the character\n- No text\n- No watermarks",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story"
+        }
+      ]
     },
     "media": [
       {
@@ -2337,7 +2587,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+      "entries": [
+        {
+          "title": {
+            "en": "Replace chairs in an interior",
+            "zh-CN": "室内更换椅子"
+          },
+          "text": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"
+        }
+      ]
     },
     "media": [
       {
@@ -2441,7 +2701,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+      "entries": [
+        {
+          "title": {
+            "en": "Nostalgic holiday card",
+            "zh-CN": "怀旧节日贺卡"
+          },
+          "text": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"
+        }
+      ]
     },
     "media": [
       {
@@ -2523,7 +2793,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"
+      "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+      "entries": [
+        {
+          "title": {
+            "en": "Toy airplane packaging",
+            "zh-CN": "玩具飞机包装"
+          },
+          "text": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+          "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"
+        }
+      ]
     },
     "media": [
       {
@@ -2604,7 +2884,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://openai.com/index/introducing-images-2-6/"
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "entries": [
+        {
+          "title": {
+            "en": "Office character: falling stock GIF",
+            "zh-CN": "股价下跌的办公角色 GIF"
+          },
+          "text": "Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart.\nOversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first.\nPolished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.",
+          "url": "https://openai.com/index/introducing-images-2-6/"
+        }
+      ]
     },
     "media": [
       {
@@ -2663,7 +2953,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://openai.com/index/introducing-images-2-6/"
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "entries": [
+        {
+          "title": {
+            "en": "Office character: rising stock GIF",
+            "zh-CN": "股价上涨的办公角色 GIF"
+          },
+          "text": "Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing.\nOversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first.\nPolished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.",
+          "url": "https://openai.com/index/introducing-images-2-6/"
+        }
+      ]
     },
     "media": [
       {
@@ -2921,7 +3221,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "entries": [
+        {
+          "title": {
+            "en": "Living-room markup edit",
+            "zh-CN": "客厅标注编辑"
+          },
+          "text": "Follow the red markup on this photo. Each number marks a spot and the legend box explains what to do there. Apply every instruction, then remove all of the markup, including the numbers and the legend box, so the result is a clean photo.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        }
+      ]
     },
     "media": [
       {
@@ -3002,7 +3312,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "entries": [
+        {
+          "title": {
+            "en": "Miniature brand product world",
+            "zh-CN": "品牌产品微缩场景"
+          },
+          "text": "Create one exceptional finished presentation slide for Sable, not a layout template. The slide must have one powerful visual idea, the craft of a premium brand campaign and restrained, beautifully readable typography. Image 1 is a reference for the genuine Sable logo, colour palette, and light type ONLY: do not imitate its specimen-sheet layout. Image 2 is the identity reference for Aidan: a white rounded, softly textured head, subtle round spectacles, mustard knit sweater. Preserve his recognizable design when creating a new pose or scene. Aidan is a friendly AI product expert who sees, clicks and explains. The artwork should make this product idea understandable through visual storytelling. Use NB International-style Light/Regular typography, no bold or heavy fonts. Brand colours: #FFDB4D yellow, #F9F9F9 ground, #1B1D1F ink, warm neutral greys. A full black or full yellow brand pop slide is allowed when explicitly requested below. Flat, clean surrounding canvas; no grain, decorative gradients or interface drop shadows. Natural lighting and physical occlusion inside photographic artwork are allowed. Do not create a three-column feature layout, cards, bullet lists, dashboards, stock icon diagrams, a contact sheet or a fake browser screenshot. No generic floating glass panels. No invented metrics, claims, dates or brands. Use only the exact supplied copy and a small authentic Sable logo, with ample safe margins. All text must be legible. Produce the actual full-bleed slide, no external mockup frame.\n\nArt direction: a spectacular, warm, photographically convincing miniature architectural world, shown as one continuous cutaway diorama on a flat #F9F9F9 canvas. A single generous capsule-shaped floor plate curves through three interconnected spaces: a place to explore a product, a hands-on product workshop, and a quiet learning space. The spaces have distinct heights, arches, staircases and tiny abstract product objects that make the scene reward a closer look. They form ONE inhabitable world, not three disconnected models. Aidan is a miniature physical character guiding a single visitor along a clearly continuous route through this world; include just one Aidan and one visitor, with believable scale. A giant yellow disc stands behind the entire architectural silhouette like a sun, while a capsule and circular openings are built into the architecture. Let this rich composition occupy roughly two-thirds of the slide. Beautiful daylight, tactile craftsmanship and elegant restraint, not a busy toy town or a tech isometric icon. Integrate the title in the remaining generous blank space, not on top of intricate architecture. Exact headline on two light-weight lines: \"A whole product world\" / \"One guide\". Optional tiny wayfinding inside the three spaces, exactly once each: \"Explore\", \"Try\", \"Learn\". No additional text.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        }
+      ],
+      "note": {
+        "en": "The prompt requires two source reference images for the Sable brand and Aidan identity. These inputs are not archived in this case; the output alone is not a complete reproduction kit.",
+        "zh-CN": "提示词需要 Sable 品牌与 Aidan 形象两张来源参考图。本案例尚未收录这两张输入图，仅有结果图不构成完整复现包。"
+      }
     },
     "media": [
       {
@@ -3061,7 +3385,45 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+      "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api",
+      "entries": [
+        {
+          "title": {
+            "en": "Starting image · Character and scene",
+            "zh-CN": "起始图 · 角色与场景"
+          },
+          "text": "Epic high fantasy anime key visual, mature seinen style like a modern high-budget anime film. A young woman sorceress-knight in her twenties with long crimson hair and sharp golden eyes stands on the edge of a cliff in ornate silver and emerald armor with a flowing royal blue cape, a glowing runic sword planted in front of her, magic sparks around her hands. Behind her a vast fantasy kingdom: floating islands with waterfalls pouring into the clouds, a white castle with spires, a huge ancient dragon flying in the distance, giant blooming sakura and golden autumn forests in the valley below. Sunset sky with vivid orange, magenta, turquoise and violet clouds, god rays, glowing magic particles in the air. Extremely vibrant saturated colors, dramatic rim lighting, cel shading with detailed painted backgrounds, crisp clean line art, depth and atmosphere, dynamic low camera angle, wide cinematic composition. Adult, elegant, serious heroic mood, not childish, no chibi, no sci-fi, no neon, no text, no watermark.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        },
+        {
+          "title": {
+            "en": "Edit 1 · Sunset valley",
+            "zh-CN": "编辑 1 · 夕阳山谷"
+          },
+          "text": "Replace the moonlit landscape with a golden sunset over a misty mountain valley, winding river, waterfalls and ancient ruins. Keep the background softly blurred and the knight, armor, sword, rock and composition unchanged.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        },
+        {
+          "title": {
+            "en": "Edit 2 · Floating castle",
+            "zh-CN": "编辑 2 · 浮空城堡"
+          },
+          "text": "Replace the background with a majestic floating castle, smaller floating islands, cascading waterfalls and a dragon flying overhead. Preserve the warm sunset, atmospheric haze and shallow depth of field. Keep the knight and foreground unchanged.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        },
+        {
+          "title": {
+            "en": "Edit 3 · Recolor armor",
+            "zh-CN": "编辑 3 · 盔甲换色"
+          },
+          "text": "Recolor the armor to ivory white with rich gold trim, replace emerald gemstones with rubies, and change green fabric panels to deep crimson. Preserve the armor design, blue cape, red hair, golden sword glow, pose and background.",
+          "url": "https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api"
+        }
+      ],
+      "note": {
+        "en": "Use the edits in order, passing the previous output into the next edit. The official page includes the starting-image prompt alongside Edit 1; the three archived images show the edited results.",
+        "zh-CN": "按顺序使用编辑指令，将上一轮输出作为下一轮输入。官方页面在编辑 1 旁同时列出起始图提示词；已入库的三张图片是编辑结果。"
+      }
     },
     "media": [
       {
@@ -3769,7 +4131,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Jelly bear wobble",
+            "zh-CN": "Q 弹果冻熊摇晃"
+          },
+          "text": "A chubby round cartoon bear with a soft jelly-like body and stubby arms, squishing down and springing back up while wobbling side to side, cheeks jiggling on every bounce. Thick clean outlines, flat pastel colors, centered on a plain solid mint-green background that contrasts strongly with the bear.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -3828,7 +4204,37 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Bunny thumbs-up",
+            "zh-CN": "兔兔点赞"
+          },
+          "text": "A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        },
+        {
+          "title": {
+            "en": "Bunny laughing to tears",
+            "zh-CN": "兔兔笑出眼泪"
+          },
+          "text": "A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        },
+        {
+          "title": {
+            "en": "Sleepy bunny",
+            "zh-CN": "兔兔犯困"
+          },
+          "text": "A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -3931,7 +4337,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Cartoon cat waving hello",
+            "zh-CN": "卡通猫挥手打招呼"
+          },
+          "text": "A cheerful cartoon cat waving hello.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -3990,7 +4410,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Confused shiba head tilt",
+            "zh-CN": "柴犬歪头疑惑"
+          },
+          "text": "A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4049,7 +4483,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Cat typing furiously",
+            "zh-CN": "猫猫疯狂打字"
+          },
+          "text": "A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4108,7 +4556,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Frog blowing a heart",
+            "zh-CN": "青蛙吹出爱心"
+          },
+          "text": "A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4167,7 +4629,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Penguin facepalm",
+            "zh-CN": "企鹅捂脸"
+          },
+          "text": "A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4226,7 +4702,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Basketball shot celebration",
+            "zh-CN": "投篮命中庆祝"
+          },
+          "text": "A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4285,7 +4775,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Cat chef tossing fried rice",
+            "zh-CN": "猫厨师颠勺炒饭"
+          },
+          "text": "A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4344,7 +4848,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Black cat punch",
+            "zh-CN": "黑猫出拳"
+          },
+          "text": "A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4403,7 +4921,29 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Office cat: exhausted",
+            "zh-CN": "打工猫：累瘫"
+          },
+          "text": "A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        },
+        {
+          "title": {
+            "en": "Office cat: clocking out",
+            "zh-CN": "打工猫：下班啦"
+          },
+          "text": "A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4484,7 +5024,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Roaring duck",
+            "zh-CN": "咆哮的小黄鸭"
+          },
+          "text": "A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4543,7 +5097,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Flower macro flash cut",
+            "zh-CN": "花卉微距快闪"
+          },
+          "text": "A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4602,7 +5170,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Cat-head logo brand reel",
+            "zh-CN": "猫头 Logo 品牌快闪"
+          },
+          "text": "A quick-cut brand reel for a fictional cat food brand called \"MEOWBITE\". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4661,7 +5243,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Sneaker colorway flash",
+            "zh-CN": "球鞋配色快闪"
+          },
+          "text": "A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4720,7 +5316,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "One tree, four seasons",
+            "zh-CN": "一棵树的四季"
+          },
+          "text": "The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4779,7 +5389,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Magazine collage panels pop in",
+            "zh-CN": "杂志拼贴逐格弹出"
+          },
+          "text": "A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading \"WEEKEND\" slides in. Clean editorial design, cream background, coral and navy accents.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4838,7 +5462,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Reading by the window, day to night",
+            "zh-CN": "窗边读书·白天到夜晚"
+          },
+          "text": "A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4897,7 +5535,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Steaming coffee loop",
+            "zh-CN": "冒热气的咖啡"
+          },
+          "text": "A steaming cup of coffee on a small wooden table, steam curling and drifting upward, a tiny spoon wobbling on the saucer. Cozy flat illustration with warm colors.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -4956,7 +5608,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Rainy window and plant",
+            "zh-CN": "雨窗与绿植"
+          },
+          "text": "A rainy window at dusk with a small potted plant on the sill, raindrops sliding down the glass and blurry city lights twinkling outside. Soft muted blue palette, lo-fi illustration style.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5015,7 +5681,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Goldfish in a bowl",
+            "zh-CN": "鱼缸里的金鱼"
+          },
+          "text": "A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5074,7 +5754,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Lighthouse at night",
+            "zh-CN": "夜晚的灯塔"
+          },
+          "text": "A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5133,7 +5827,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Cat sleeping by the fireplace",
+            "zh-CN": "壁炉边睡觉的猫"
+          },
+          "text": "A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5192,7 +5900,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Lantern monkey in the snow",
+            "zh-CN": "雪林提灯的小猴子"
+          },
+          "text": "A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5251,7 +5973,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Sleepy fox on a mossy rock",
+            "zh-CN": "苔石上打盹的小狐狸"
+          },
+          "text": "A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5310,7 +6046,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Lo-fi study loop",
+            "zh-CN": "Lo-fi 学习循环"
+          },
+          "text": "A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5369,7 +6119,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Café cinemagraph",
+            "zh-CN": "街角咖啡馆动态照片"
+          },
+          "text": "A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5428,7 +6192,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Ink-wash galloping horse",
+            "zh-CN": "水墨奔马"
+          },
+          "text": "A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5487,7 +6265,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Doodle monster comes alive",
+            "zh-CN": "涂鸦小怪兽活了"
+          },
+          "text": "A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5546,7 +6338,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Pixel art campfire",
+            "zh-CN": "像素风篝火"
+          },
+          "text": "A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5605,7 +6411,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Bouncing dots loader",
+            "zh-CN": "弹跳圆点加载动画"
+          },
+          "text": "A minimal loading animation: three rounded dots in coral, violet and teal bouncing up and down one after another in a wave, with soft squash on landing. Flat vector style on a plain off-white background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5664,7 +6484,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Pixel knight run cycle",
+            "zh-CN": "像素骑士跑步循环"
+          },
+          "text": "A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5723,7 +6557,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Like button heart burst",
+            "zh-CN": "点赞爱心爆开"
+          },
+          "text": "A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5782,7 +6630,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Hourglass loading",
+            "zh-CN": "沙漏加载"
+          },
+          "text": "A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5841,7 +6703,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Arcade VS screen",
+            "zh-CN": "街机对战 VS 画面"
+          },
+          "text": "A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge \"VS\" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5900,7 +6776,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "8-bit slime boss battle",
+            "zh-CN": "8-bit 史莱姆 Boss 战"
+          },
+          "text": "An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -5959,7 +6849,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Love-burst skill animation",
+            "zh-CN": "爱心爆发技能动画"
+          },
+          "text": "A chibi magical girl with a pink bob raises her wand and casts a \"love burst\" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -6018,7 +6922,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+      "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json",
+      "entries": [
+        {
+          "title": {
+            "en": "Junkyard robot walk cycle",
+            "zh-CN": "废品场机器人行走"
+          },
+          "text": "A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.\n\nAnimate it as a short, smooth, seamlessly looping GIF with clear motion between frames.",
+          "url": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json"
+        }
+      ],
+      "note": {
+        "en": "Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.",
+        "zh-CN": "按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。"
+      }
     },
     "media": [
       {
@@ -6077,7 +6995,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://x.com/ozansihay/status/2118238946412953985"
+      "url": "https://x.com/ozansihay/status/2118238946412953985",
+      "entries": [
+        {
+          "title": {
+            "en": "Robin cat wink and falling name hat",
+            "zh-CN": "Robin 猫眨眼与落下的姓名帽"
+          },
+          "text": "Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırpsın ve kafasına Robin yazan bir şapka düşsün.",
+          "url": "https://x.com/ozansihay/status/2118238946412953985"
+        }
+      ]
     },
     "media": [
       {
@@ -6356,7 +7284,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://news.ycombinator.com/item?id=50373686"
+      "url": "https://news.ycombinator.com/item?id=50373686",
+      "entries": [
+        {
+          "title": {
+            "en": "Watchmaker underwater macro test",
+            "zh-CN": "水中修表微距测试"
+          },
+          "text": "A macro close-up photograph of an old watchmaker's hands carefully replacing a tiny gear inside a vintage pocket watch. The watch mechanism is partially submerged in a shallow dish of clear water, causing visible refraction and light caustics across the brass gears. A single drop of water is falling from a pair of steel tweezers, captured mid-splash on the water's surface.\nReflect the watchmaker's face, slightly distorted, in the curved glass of the watch face. Sharp focus throughout, natural window lighting from the left, shot on 100mm macro lens.",
+          "url": "https://news.ycombinator.com/item?id=50373686"
+        }
+      ]
     },
     "media": [
       {
@@ -6429,7 +7367,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://x.com/DesignArena/status/2118124381155303918"
+      "url": "https://x.com/DesignArena/status/2118124381155303918",
+      "entries": [
+        {
+          "title": {
+            "en": "Birthday cake without extra slogan cards",
+            "zh-CN": "生日蛋糕与额外标语对比"
+          },
+          "text": "Generate a beautiful birthday cake",
+          "url": "https://x.com/DesignArena/status/2118124381155303918"
+        }
+      ],
+      "note": {
+        "en": "Transcribed from the instruction printed in the archived source comparison image.",
+        "zh-CN": "摘录自已入库来源对比图中印出的指令。"
+      }
     },
     "media": [
       {
@@ -6889,7 +7841,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "Moonlit magical-girl dance",
+            "zh-CN": "月下美少女战士舞蹈"
+          },
+          "text": "创建一个 GIF，内容是 一位美少女战士在跳舞",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -6962,7 +7924,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "Clay orange cat typing",
+            "zh-CN": "黏土橘猫敲键盘"
+          },
+          "text": "帮我生成一个无缝循环的 GIF 动图：一只穿格子衫的橘猫坐在电脑前疯狂敲键盘，屏幕反光映在脸上，旁边放着一杯冒热气的咖啡。3D 黏土动画风格，要求动作自然连贯，首尾帧无缝循环。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -7035,7 +8007,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "Desk photograph cleanup and animation",
+            "zh-CN": "桌面照片清理并转动图"
+          },
+          "text": "严格保留我上传照片里的主体外观和桌面环境不变，把黑色的线删掉，保留向日葵和玩偶，后面的蓝色背景优化成干净一点的背景，把它变成一张有趣的循环 GIF 动图：让画面里的主体轻轻弹跳并眨眼打招呼。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -7127,7 +8109,25 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "Step 1 · Create the poster",
+            "zh-CN": "第 1 步 · 生成海报"
+          },
+          "text": "设计一张科技博客封面海报：深邃蓝紫渐变背景，中间是一个发光的透明玻璃立方体，里面悬浮着一只小火箭，海报上方用干净的白色粗体字写着“AI 进化论”。16:9 比例。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        },
+        {
+          "title": {
+            "en": "Step 2 · Edit the poster",
+            "zh-CN": "第 2 步 · 编辑海报"
+          },
+          "text": "保持玻璃立方体、小火箭的角度和背景光影完全不变，只做两处修改：1. 把里面的小火箭换成一枚金色齿轮；2. 把文字“AI 进化论”改成“Image 2.6 实测”。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -7219,7 +8219,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "Code Lightning vector logo",
+            "zh-CN": "代码闪电矢量标志"
+          },
+          "text": "设计一个极简扁平化风格的个人技术博客 Logo 图标：结合“代码括号 </>”与“闪电”元素，蓝白配色，线条干净利落，并直接导出为可编辑的 SVG 矢量文件给我。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -7292,7 +8302,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+      "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4",
+      "entries": [
+        {
+          "title": {
+            "en": "AURORA orange perfume product image",
+            "zh-CN": "AURORA橙色香水商品图"
+          },
+          "text": "设计一张高端电商产品主图：一个极简主义的哑光橙色玻璃香水瓶，放置在大理石台面上，周围有几片新鲜薄荷叶点缀，自然柔和侧逆光，瓶身正中心用优雅的无衬线英文字体印着‘AURORA’。",
+          "url": "https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4"
+        }
+      ]
     },
     "media": [
       {
@@ -7661,7 +8681,21 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://note.com/content_studio/n/ndd9ab49a6dea"
+      "url": "https://note.com/content_studio/n/ndd9ab49a6dea",
+      "entries": [
+        {
+          "title": {
+            "en": "Webinar date replacement comparison",
+            "zh-CN": "网络研讨会日期替换对比"
+          },
+          "text": "実施日時を「2027年1月21日（木）」に差し替える。ほかは変えない。",
+          "url": "https://note.com/content_studio/n/ndd9ab49a6dea"
+        }
+      ],
+      "note": {
+        "en": "Transcribed from the instruction printed in the archived source comparison image.",
+        "zh-CN": "摘录自已入库来源对比图中印出的指令。"
+      }
     },
     "media": [
       {
@@ -8148,7 +9182,17 @@
     },
     "prompt": {
       "status": "source-only",
-      "url": "https://x.com/Mayz1169/status/2118246507128541553"
+      "url": "https://x.com/Mayz1169/status/2118246507128541553",
+      "entries": [
+        {
+          "title": {
+            "en": "Tanjiro pixel-art water-slash loop",
+            "zh-CN": "炭治郎像素风水刃循环动画"
+          },
+          "text": "Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.\n\n[Keep the character consistent]\nStudy the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.\n\n[Pixel art style]\nHighly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.\nFull body, side 3/4 view, same size and same ground line in every frame.\n\n[Design the move]\nPick a move that fits the character's personality, power or weapon (or use the one I give below).\nMake it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.\nAdd an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).\nHair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.\n\n[Output]\nPure white background, fixed camera, character centered with enough margin. No text.\nAbout 12 frames, 1.5–2 seconds, infinite loop.\nDeliver an actual multi-frame GIF file I can download.",
+          "url": "https://x.com/Mayz1169/status/2118246507128541553"
+        }
+      ]
     },
     "media": [
       {

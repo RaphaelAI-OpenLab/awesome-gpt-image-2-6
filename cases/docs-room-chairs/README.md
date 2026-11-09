@@ -35,9 +35,14 @@ Open the linked section for the original prompt, required inputs, parameters and
 
 ## Original prompt
 
-[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
 ## Attribution and verification
 

@@ -28,9 +28,11 @@ One source-attributed product visualization with exact public prompt.
 
 ## Original prompt
 
-[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+```text
+设计一张高端电商产品主图：一个极简主义的哑光橙色玻璃香水瓶，放置在大理石台面上，周围有几片新鲜薄荷叶点缀，自然柔和侧逆光，瓶身正中心用优雅的无衬线英文字体印着‘AURORA’。
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 ## Attribution and verification
 

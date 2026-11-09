@@ -29,9 +29,11 @@ fal 标签展示原始标注编辑提示词：蓝色坐垫、移除植物与地�
 
 ## 原始提示词
 
-[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+```text
+Follow the red markup on this photo. Each number marks a spot and the legend box explains what to do there. Apply every instruction, then remove all of the markup, including the numbers and the legend box, so the result is a clean photo.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 ## 来源与核对信息
 

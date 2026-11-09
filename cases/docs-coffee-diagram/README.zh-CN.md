@@ -27,9 +27,13 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
 
 ## 来源与核对信息
 

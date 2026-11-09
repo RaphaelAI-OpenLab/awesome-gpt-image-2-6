@@ -32,9 +32,29 @@
 
 ## 原始提示词
 
-[原提示词见来源](https://x.com/Mayz1169/status/2118246507128541553)
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
 
-来源公开了真实提示词。本仓库链接原文，不伪造或转载完整长提示词；所需输入与参数请在原文查看。
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+[原提示词见来源](https://x.com/Mayz1169/status/2118246507128541553)
 
 ## 来源与核对信息
 

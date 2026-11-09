@@ -32,9 +32,11 @@ One photo-to-animation workflow: the 267×716 output has eight GIF frames. The i
 
 ## Original prompt
 
-[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+```text
+严格保留我上传照片里的主体外观和桌面环境不变，把黑色的线删掉，保留向日葵和玩偶，后面的蓝色背景优化成干净一点的背景，把它变成一张有趣的循环 GIF 动图：让画面里的主体轻轻弹跳并眨眼打招呼。
+```
 
-The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.
+[Original prompt at source](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 ## Attribution and verification
 
