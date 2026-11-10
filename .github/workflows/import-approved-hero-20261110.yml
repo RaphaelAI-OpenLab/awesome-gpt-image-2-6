@@ -1,0 +1,55 @@
+name: Import approved Raphael hero (one-time)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - assets/hero/approved-hero-upload.b64
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-approved-raphael-hero
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: github.repository == 'RaphaelAI-OpenLab/awesome-gpt-image-2-6'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Install image decoder
+        run: python3 -m pip install --quiet --disable-pip-version-check 'Pillow==11.3.0'
+      - name: Validate and import approved banner
+        run: |
+          python3 - <<'PY'
+          import base64
+          import hashlib
+          import io
+          from pathlib import Path
+          from PIL import Image
+
+          upload = Path('assets/hero/approved-hero-upload.b64')
+          data = base64.b64decode(upload.read_text().strip(), validate=True)
+          expected = 'ef3b918629ba657e2aa42807c1d4b0a0ffb3494a3711f3d435e390d69414ea55'
+          assert hashlib.sha256(data).hexdigest() == expected, 'Banner upload checksum mismatch'
+          image = Image.open(io.BytesIO(data)).convert('RGB')
+          assert image.size == (1672, 941), 'Unexpected banner dimensions'
+          target = Path('assets/hero/raphael-gpt-image-2-6-hero-v1.png')
+          assert target.is_file(), 'Existing shared README hero is missing'
+          image.save(target, format='PNG', optimize=True)
+          Image.open(target).verify()
+          upload.unlink()
+          print('Updated only the shared README hero:', target)
+          PY
+      - name: Commit shared hero replacement
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/hero/raphael-gpt-image-2-6-hero-v1.png assets/hero/approved-hero-upload.b64
+          git commit -m 'design: replace shared hero with approved brown-gold Raphael banner'
+          git push origin HEAD:main
