@@ -1,5 +1,8 @@
 # Made Sunburst source notes — 2026-11-06
 
+> 2026-11-10 更新：本文是 **2026-11-06 来源原图收录时的历史核验记录**。其中 made-sunburst-crate-digger、made-sunburst-record-sleeve、made-sunburst-stylus-macro、made-sunburst-turntable-diagram 的第三方 JPG 已在独立重做批次中从当前仓库移除，改为另行制作的素材；现行版本请见 [重做状态](../external-sites/RECREATION_STATUS.md)。注意 Git 历史中仍存在之前的原文件。
+
+
 Six distinct examples from Made’s [GPT Image 2.6 Sunburst original-results gallery](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading). Creator credit: Made / Made Inc. This is a third-party provider gallery, not an official OpenAI publication.
 
 ## Evidence and limitations
