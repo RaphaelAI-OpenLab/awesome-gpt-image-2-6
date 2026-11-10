@@ -2,7 +2,7 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=en)
+[![Awesome GPT Image 2.6 Prompts](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=en)
 
 # 🚀 Awesome GPT Image 2.6 Prompts
 
@@ -29,21 +29,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 Browse the collection
+## 🌐 View in Web Gallery
 
-**[Browse all cases in this repository →](#all-cases)**
+<div align="center">
 
-Browse images and copy original prompts below. Author and source credits appear beneath each case.
+![Raphael homepage preview](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*Current Raphael homepage, shown as a preview while this collection’s web gallery is being prepared.*
+
+**[👉 Create on Raphael →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=en)**
+
+Why create on the website?
+
+| Feature | GitHub README | Raphael website |
+| --- | --- | --- |
+| 🎨 Visual layout | Linear case list | Interactive creation workspace |
+| ✍️ Prompt workflow | Copy available prompts | Prompts and reference images |
+| 🤖 AI generation | Open a separate website | Choose a model and generate |
+| 📱 Mobile | Read cases | Create in your browser |
+| 🏷️ Navigation | Case categories | Models, styles and tools |
+
+[Browse all cases in this repository →](#all-cases)
 
 [External website archive (excluded from categories and statistics)](external-sites/README.md)
-
-**PLACEHOLDER · External web gallery URL: not configured.**
-
-**PLACEHOLDER · One-click generation link: not verified.**
-
-PLACEHOLDER · Related collection / campaign link: to be added.
-
-[Visit Raphael (homepage)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=en)
 
 <a id="categories"></a>
 

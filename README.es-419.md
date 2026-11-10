@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=es-419)
+[![Colección de prompts de GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=es-419)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 Colección de prompts de GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Dar una estrella en GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@ Los títulos, las descripciones y las páginas de detalles de los casos se muest
 
 <a id="gallery"></a>
 
-## 🌐 Explorar la colección
+## 🌐 Ver en la galería web
 
-**[Ver todos los casos de este repositorio →](#all-cases)**
+<div align="center">
 
-Mira las imágenes y copia los prompts originales a continuación. Cada caso incluye el autor y la fuente al final.
+![Vista previa de la página de inicio de Raphael](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*Se muestra la página de inicio actual de Raphael como vista previa mientras se prepara la galería web de esta colección.*
+
+**[👉 Empieza a crear en Raphael →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=es-419)**
+
+¿Por qué crear en el sitio web?
+
+| Función | GitHub README | Sitio web de Raphael |
+| --- | --- | --- |
+| 🎨 Diseño visual | Lista lineal de ejemplos | Interfaz de creación interactiva |
+| ✍️ Uso de prompts | Copiar los prompts publicados | Ingresar prompts e imágenes de referencia |
+| 🤖 Generación de imágenes con IA | Abrir otro sitio web | Elegir un modelo y generar |
+| 📱 Celular | Leer ejemplos | Crear en el navegador |
+| 🏷️ Navegación | Categorías de ejemplos | Modelos, estilos y herramientas |
+
+[Ver todos los casos de este repositorio →](#all-cases)
 
 [Archivo de materiales de sitios externos (excluido de categorías y estadísticas)](external-sites/README.md)
-
-**MARCADOR PROVISIONAL · URL de la galería web externa: sin configurar.**
-
-**MARCADOR PROVISIONAL · Enlace de generación con un clic: sin verificar.**
-
-MARCADOR PROVISIONAL · Enlace a una colección o campaña relacionada: pendiente de agregar.
-
-[Visitar Raphael (página de inicio)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=es-419)
 
 <a id="categories"></a>
 

@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=th-TH)
+[![รวมพรอมป์ต์ GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=th-TH)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 รวมพรอมป์ต์ GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![กดดาวบน GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 ดูคอลเลกชัน
+## 🌐 ดูในแกลเลอรีบนเว็บ
 
-**[ดูกรณีตัวอย่างทั้งหมดในคลังโค้ดนี้ →](#all-cases)**
+<div align="center">
 
-ดูภาพและคัดลอกพรอมต์ต้นฉบับด้านล่าง โดยระบุผู้สร้างและแหล่งที่มาใต้แต่ละตัวอย่าง
+![ตัวอย่างหน้าแรกของ Raphael](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*ภาพนี้แสดงหน้าแรกปัจจุบันของ Raphael เป็นตัวอย่างระหว่างที่แกลเลอรีบนเว็บสำหรับคอลเลกชันนี้กำลังจัดเตรียม*
+
+**[👉 เริ่มสร้างบน Raphael →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=th-TH)**
+
+ทำไมจึงควรสร้างผลงานบนเว็บไซต์?
+
+| ฟีเจอร์ | GitHub README | เว็บไซต์ Raphael |
+| --- | --- | --- |
+| 🎨 รูปแบบการแสดงผล | รายการตัวอย่างแบบเรียงลำดับ | หน้าสร้างผลงานแบบโต้ตอบ |
+| ✍️ การใช้พรอมป์ต์ | คัดลอกพรอมป์ต์ที่เผยแพร่แล้ว | ป้อนพรอมป์ต์และภาพอ้างอิง |
+| 🤖 การสร้างภาพด้วย AI | เปิดเว็บไซต์แยกต่างหาก | เลือกโมเดลแล้วสร้างภาพ |
+| 📱 มือถือ | อ่านตัวอย่าง | สร้างผลงานในเบราว์เซอร์ |
+| 🏷️ การนำทาง | หมวดหมู่ตัวอย่าง | โมเดล สไตล์ และเครื่องมือ |
+
+[ดูกรณีตัวอย่างทั้งหมดในคลังโค้ดนี้ →](#all-cases)
 
 [คลังสื่อจากเว็บไซต์ภายนอก (ไม่รวมในหมวดหมู่และสถิติ)](external-sites/README.md)
-
-**ส่วนสำรองชั่วคราว · URL แกลเลอรีภายนอกบนเว็บ: ยังไม่ได้ตั้งค่า**
-
-**ส่วนสำรองชั่วคราว · ลิงก์สร้างด้วยคลิกเดียว: ยังไม่ได้ตรวจสอบ**
-
-ส่วนสำรองชั่วคราว · ลิงก์คอลเลกชัน / แคมเปญที่เกี่ยวข้อง: รอเพิ่ม
-
-[เยี่ยมชม Raphael (หน้าแรก)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=th-TH)
 
 <a id="categories"></a>
 

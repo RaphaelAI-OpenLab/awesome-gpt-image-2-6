@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=tr-TR)
+[![GPT Image 2.6 İstem Koleksiyonu](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=tr-TR)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 GPT Image 2.6 İstem Koleksiyonu
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub'da yıldız verin](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@ Bu dil sürümü deponun arayüzünü çevirir. Tam örnek ayrıntıları şu an
 
 <a id="gallery"></a>
 
-## 🌐 Koleksiyona göz atın
+## 🌐 Web galerisinde görüntüle
 
-**[Bu depodaki tüm örneklere göz atın →](#all-cases)**
+<div align="center">
 
-Aşağıdaki görselleri inceleyip özgün istemleri kopyalayabilirsiniz. Her örneğin altında yazar ve kaynak bilgisi bulunur.
+![Raphael ana sayfa önizlemesi](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*Bu koleksiyonun özel web galerisi hazırlanırken Raphael’in mevcut ana sayfası önizleme olarak gösterilmektedir.*
+
+**[👉 Raphael üzerinde oluşturmaya başlayın →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=tr-TR)**
+
+Neden web sitesinde oluşturmalısınız?
+
+| Özellik | GitHub README | Raphael web sitesi |
+| --- | --- | --- |
+| 🎨 Görsel düzen | Sıralı örnek listesi | Etkileşimli oluşturma arayüzü |
+| ✍️ İstem kullanımı | Yayımlanmış istemleri kopyalama | İstem ve referans görsel girişi |
+| 🤖 Yapay zekâyla görsel üretimi | Ayrı bir web sitesi açma | Model seçip görsel üretme |
+| 📱 Mobil | Örnekleri okuma | Tarayıcıda oluşturma |
+| 🏷️ Gezinme | Örnek kategorileri | Modeller, stiller ve araçlar |
+
+[Bu depodaki tüm örneklere göz atın →](#all-cases)
 
 [Harici web sitesi materyalleri arşivi (kategori ve istatistiklere dahil değildir)](external-sites/README.md)
-
-**YER TUTUCU · Harici web galerisi URL'si: yapılandırılmadı.**
-
-**YER TUTUCU · Tek tıkla üretim bağlantısı: doğrulanmadı.**
-
-YER TUTUCU · İlgili koleksiyon / kampanya bağlantısı: eklenecek.
-
-[Raphael'i ziyaret edin (ana sayfa)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=tr-TR)
 
 <a id="categories"></a>
 

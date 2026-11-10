@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=hi-IN)
+[![GPT Image 2.6 प्रॉम्प्ट संग्रह](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=hi-IN)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 GPT Image 2.6 प्रॉम्प्ट संग्रह
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub पर स्टार दें](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 संग्रह देखें
+## 🌐 वेब गैलरी में देखें
 
-**[इस रिपॉज़िटरी के सभी उदाहरण देखें →](#all-cases)**
+<div align="center">
 
-नीचे चित्र देखें और मूल प्रॉम्प्ट कॉपी करें। हर उदाहरण के नीचे लेखक और स्रोत दिया गया है।
+![Raphael होमपेज का पूर्वावलोकन](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*इस संग्रह की समर्पित वेब गैलरी तैयार होने तक Raphael के मौजूदा होमपेज का स्क्रीनशॉट पूर्वावलोकन के रूप में दिखाया गया है।*
+
+**[👉 Raphael पर बनाना शुरू करें →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=hi-IN)**
+
+वेबसाइट पर क्यों बनाएँ?
+
+| सुविधा | GitHub README | Raphael वेबसाइट |
+| --- | --- | --- |
+| 🎨 दृश्य लेआउट | उदाहरणों की क्रमिक सूची | इंटरैक्टिव निर्माण इंटरफ़ेस |
+| ✍️ प्रॉम्प्ट का उपयोग | उपलब्ध सार्वजनिक प्रॉम्प्ट कॉपी करें | प्रॉम्प्ट और संदर्भ चित्र दर्ज करें |
+| 🤖 AI चित्र निर्माण | अलग वेबसाइट खोलें | मॉडल चुनें और चित्र बनाएँ |
+| 📱 मोबाइल | उदाहरण पढ़ें | ब्राउज़र में बनाएँ |
+| 🏷️ नेविगेशन | उदाहरणों की श्रेणियाँ | मॉडल, शैलियाँ और टूल |
+
+[इस रिपॉज़िटरी के सभी उदाहरण देखें →](#all-cases)
 
 [बाहरी वेबसाइट सामग्री संग्रह (श्रेणियों और आँकड़ों में शामिल नहीं)](external-sites/README.md)
-
-**प्लेसहोल्डर · बाहरी वेब गैलरी URL: कॉन्फ़िगर नहीं किया गया।**
-
-**प्लेसहोल्डर · एक क्लिक में जनरेशन का लिंक: सत्यापित नहीं है।**
-
-प्लेसहोल्डर · संबंधित संग्रह / अभियान का लिंक: जोड़ा जाना है।
-
-[Raphael के मुखपृष्ठ पर जाएँ](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=hi-IN)
 
 <a id="categories"></a>
 

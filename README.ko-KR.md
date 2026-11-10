@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ko-KR)
+[![GPT Image 2.6 프롬프트 모음](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ko-KR)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 GPT Image 2.6 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub에서 스타 누르기](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 모음집 둘러보기
+## 🌐 웹 갤러리에서 보기
 
-**[이 저장소의 모든 사례 보기 →](#all-cases)**
+<div align="center">
 
-아래에서 이미지와 원본 프롬프트를 보고 복사할 수 있습니다. 각 사례 하단에 작성자와 출처를 표시합니다.
+![Raphael 홈페이지 미리보기](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*이 모음의 전용 웹 갤러리를 준비하는 동안 현재 Raphael 홈페이지를 미리보기로 표시합니다.*
+
+**[👉 Raphael에서 창작하기 →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=ko-KR)**
+
+웹사이트에서 창작하는 이유는?
+
+| 기능 | GitHub README | Raphael 웹사이트 |
+| --- | --- | --- |
+| 🎨 시각적 구성 | 사례 목록 | 대화형 창작 화면 |
+| ✍️ 프롬프트 활용 | 공개된 프롬프트 복사 | 프롬프트와 참조 이미지 입력 |
+| 🤖 AI 이미지 생성 | 별도 웹사이트 열기 | 모델을 선택하고 생성 |
+| 📱 모바일 | 사례 읽기 | 브라우저에서 창작 |
+| 🏷️ 탐색 | 사례 분류 | 모델, 스타일 및 도구 |
+
+[이 저장소의 모든 사례 보기 →](#all-cases)
 
 [외부 웹사이트 자료 보관함(분류 및 통계에서 제외)](external-sites/README.md)
-
-**자리표시자 · 외부 웹 갤러리 URL: 미설정.**
-
-**자리표시자 · 원클릭 생성 링크: 미검증.**
-
-자리표시자 · 관련 모음집 / 캠페인 링크: 추가 예정.
-
-[Raphael 홈페이지 방문](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=ko-KR)
 
 <a id="categories"></a>
 
