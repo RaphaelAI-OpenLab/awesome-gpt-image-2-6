@@ -1,6 +1,6 @@
 # 外站素材独立重做记录
 
-**累计：15 / 20 个案例已重做**（前三批，每批 5 个）
+**累计：20 / 20 个案例已重做**（四批完成，每批 5 个）
 
 **批次：2026-11-10 · 01/04 · 5 个案例**
 
@@ -58,3 +58,27 @@
 
 - [Made Sunburst 原始提示词](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading)
 - [Yir 图片案例与提示词入口](https://yir.ai/models/gpt-image-2-6)
+
+
+## 第四批 · 2026-11-10 · 04/04（5 个案例）
+
+最后一批重做 Yir 的雨衣分镜和自行车促销海报，以及 Analytics Vidhya 的雪山温室、英印双语晚间菜单和帝王蝶生命周期。5 个案例均**依据公开的文字描述 / 提示词独立创作 SVG 插画**；原站图片未作为输入，已从当前 Git 树移除这 5 个原媒体文件，但历史 Git 提交仍保留原始版本。
+
+| 原案例 | 新作品 | 内容 | 状态 |
+| --- | --- | --- | --- |
+| [yir-raincoat-storyboard](cases/yir-raincoat-storyboard/README.zh-CN.md) | [预览](assets/recreated/characters-consistency/yir-raincoat-storyboard.svg) | 雨衣动画四格分镜 · 原创 SVG | 已重做；原图移除 |
+| [yir-bicycle-sale-ad](cases/yir-bicycle-sale-ad/README.zh-CN.md) | [预览](assets/recreated/posters-typography/yir-bicycle-sale-ad.svg) | 自行车季末促销海报 · 原创 SVG | 已重做；原图移除 |
+| [analyticsvidhya-snowy-greenhouse](cases/analyticsvidhya-snowy-greenhouse/README.zh-CN.md) | [预览](assets/recreated/interiors-architecture/analyticsvidhya-snowy-greenhouse.svg) | 雪山玻璃温室及铜质浇水壶 · 原创 SVG | 已重做；原图移除 |
+| [analyticsvidhya-bilingual-evening-menu](cases/analyticsvidhya-bilingual-evening-menu/README.zh-CN.md) | [预览](assets/recreated/posters-typography/analyticsvidhya-bilingual-evening-menu.svg) | 精确英文和印地语菜单 · 原创 SVG | 已重做；原图移除 |
+| [analyticsvidhya-monarch-life-cycle](cases/analyticsvidhya-monarch-life-cycle/README.zh-CN.md) | [预览](assets/recreated/infographics/analyticsvidhya-monarch-life-cycle.svg) | 帝王蝶四阶段生命周期图 · 原创 SVG | 已重做；原图移除 |
+
+**质量检查**：雨衣分镜固定四格；自行车促销价格信息和车架图形清晰；温室有雪山、室内绿植和一只铜质浇水壶；菜单保留文章来源公布的九行文案与所有 5 个卢比价格，且印地语「कॉफी」已使用支持该文字的字形渲染核验；帝王蝶生命周期按 Egg → Caterpillar → Chrysalis → Adult 呈顺时针排列，只有四个英文阶段标签。菜单双语文字取自文章来源公开的文本列表，没有获得或使用作者 PDF 原件。
+
+**重要边界**：以上都是本仓库原创 SVG 示意，不是独立核验的 GPT Image 2.6 模型生成结果；Yir 与 Analytics Vidhya 原作者的来源、模型归因和原提示词入口依然记录于案例详情。
+
+- [Yir 来源页面](https://yir.ai/models/gpt-image-2-6)
+- [Analytics Vidhya 原测试说明和提示词](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/)
+
+---
+
+**完成统计（2026-11-10）**：已独立重做计划中的 20 个案例，当前仓库的原媒体引用已改为新素材；这并不自动授予历史第三方图片的再分发许可，也不等于清除了 Git 历史记录。若需要将所有新素材替换为经验证的 GPT Image 2.6 模型输出，应另外执行带有模型/API/参数与输出证据的测试。

@@ -8,22 +8,22 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-1536×1024 WebP。象牙白背景上四个带标签阶段位于指定角落，并以箭头相连。卵位于可见叶面，提示词要求的叶片背面位置及生物学准确性未经独立确认。应将其视为需专家审核的生成教育插图，而非已验证的科学参考资料。
+1536×1024 WebP。象牙白背景上四个带标签阶段位于指定角落，并以箭头相连。卵位于可见叶面，提示词要求的叶片背面位置及生物学准确性未经独立确认。应将其视为需专家审核的生成教育插图，而非已验证的科学参考资料。 已重做（2026-11-10）：根据公开文字说明另行绘制原创帝王蝶四阶段生命周期示意图，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。
 
 ## 图片 / GIF
 
-![水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。](../../../external-sites/assets/examples/analyticsvidhya-monarch-life-cycle/output.webp)
+![水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。](../../../external-sites/assets/recreated/infographics/analyticsvidhya-monarch-life-cycle.svg)
 
-- [水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。](https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-8-h4tpnt.webp) · image
-  - 署名：Vasu Deo Sankrityayan / Analytics Vidhya
-  - 使用条件：source-attributed. 原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。
-  - [来源 / 权利依据](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration)
+- [水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/infographics/analyticsvidhya-monarch-life-cycle.svg) · svg
+  - 署名：RaphaelAI-OpenLab
+  - 使用条件：original. 维护者依据公开文字创意独立制作原创帝王蝶四阶段生命周期示意图，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。
+  - [来源 / 权利依据](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## 原帖与素材获取状态
 
 - 核对日期：2026-11-05 (UTC)
 - 原帖：可打开. 在普通浏览器打开原文，核对作者、测试小节和公开提示词。
-- 素材：已存入仓库. 11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。
+- 素材：已存入仓库. 11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。
 - [逐项尝试与结果](../../../docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md)
 
 ## 原始提示词

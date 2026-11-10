@@ -4428,31 +4428,31 @@
     },
     "media": [
       {
-        "source_url": "https://yir.ai/images/models/gpt-image-2-6/rail-05-storyboard.webp",
-        "path": "external-sites/assets/examples/yir-raincoat-storyboard/rail-05-storyboard.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/yir-raincoat-storyboard.svg",
+        "path": "external-sites/assets/recreated/characters-consistency/yir-raincoat-storyboard.svg",
+        "kind": "svg",
         "alt": {
           "en": "Raincoat animation storyboard",
           "zh-CN": "雨衣女孩动画分镜"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
-          "credit": "Yir / Sungerine Labs LLC",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
-            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+            "en": "Original original four-panel SVG storyboard made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.",
+            "zh-CN": "维护者依据公开文字创意独立制作原创四格雨衣分镜插画，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。"
           }
         },
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 276260,
-        "sha256": "246a6dfbdc9673a0e1b3870fc64ec7f54b909deec28c03643b51d2b9022abee8"
+        "mime_type": "image/svg+xml",
+        "bytes": 12050,
+        "sha256": "4082a0549c19b10c57ae59303b23799871fd2dcdd16821fc4f0a6df6947d76fb"
       }
     ],
     "notes": {
-      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.",
-      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。"
+      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated from publicly available text as an original four-panel SVG storyboard on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result.",
+      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：根据公开文字说明另行绘制原创四格雨衣分镜插画，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-06",
@@ -4466,8 +4466,8 @@
         "zh-CN": "公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。"
       },
       "media_note": {
-        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
-        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。"
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }
@@ -4501,31 +4501,31 @@
     },
     "media": [
       {
-        "source_url": "https://yir.ai/images/models/gpt-image-2-6/rail-04-sale-ad.webp",
-        "path": "external-sites/assets/examples/yir-bicycle-sale-ad/rail-04-sale-ad.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/yir-bicycle-sale-ad.svg",
+        "path": "external-sites/assets/recreated/posters-typography/yir-bicycle-sale-ad.svg",
+        "kind": "svg",
         "alt": {
           "en": "End-of-season bicycle sale ad",
           "zh-CN": "自行车季末促销广告"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
-          "credit": "Yir / Sungerine Labs LLC",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
-            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+            "en": "Original original SVG bicycle sale poster made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.",
+            "zh-CN": "维护者依据公开文字创意独立制作原创自行车促销海报，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。"
           }
         },
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 141520,
-        "sha256": "058704262f708b9b28aadc5eacd6aaa3b0e4a16061bc6ade9806de4f0faac568"
+        "mime_type": "image/svg+xml",
+        "bytes": 4036,
+        "sha256": "72c8c0a23dd4ad483798e2c87cdc1e5e6e591985a17687c40da472f0806b1d0a"
       }
     ],
     "notes": {
-      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.",
-      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。"
+      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated from publicly available text as an original SVG bicycle sale poster on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result.",
+      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：根据公开文字说明另行绘制原创自行车促销海报，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-06",
@@ -4539,8 +4539,8 @@
         "zh-CN": "公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。"
       },
       "media_note": {
-        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
-        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。"
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }
@@ -5233,31 +5233,31 @@
     },
     "media": [
       {
-        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-4-h4tpnt.webp",
-        "path": "external-sites/assets/examples/analyticsvidhya-snowy-greenhouse/output.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/interiors-architecture/analyticsvidhya-snowy-greenhouse.svg",
+        "path": "external-sites/assets/recreated/interiors-architecture/analyticsvidhya-snowy-greenhouse.svg",
+        "kind": "svg",
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 487400,
-        "sha256": "829e62e712b08fc44dafc2785cce3a233d35b4d9447ee7e2de85505e9c8e64d1",
+        "mime_type": "image/svg+xml",
+        "bytes": 8964,
+        "sha256": "e660b49302bf5ce2f85dd1d7f2b11d454624059a92f27b8c4e90d1d6d1982b02",
         "alt": {
           "en": "Warm-lit glass greenhouse and tropical plants on a snowy ridge, with a stone path and copper watering can.",
           "zh-CN": "雪山山脊上的暖光玻璃温室与热带植物，门前有石径和铜质浇水壶。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph",
-          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
-            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+            "en": "Original original SVG alpine greenhouse illustration made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.",
+            "zh-CN": "维护者依据公开文字创意独立制作原创雪山温室场景插画，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。"
           }
         }
       }
     ],
     "notes": {
-      "en": "1672×941 WebP. The published output shows the snowy greenhouse, amber interior, stone path and watering can. Visual inspection is not a verification of physical or architectural accuracy.",
-      "zh-CN": "1672×941 WebP。公开输出呈现雪中温室、琥珀色室内灯光、石径和浇水壶。视觉检查不等于验证物理或建筑准确性。"
+      "en": "1672×941 WebP. The published output shows the snowy greenhouse, amber interior, stone path and watering can. Visual inspection is not a verification of physical or architectural accuracy. Independently recreated from publicly available text as an original SVG alpine greenhouse illustration on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result.",
+      "zh-CN": "1672×941 WebP。公开输出呈现雪中温室、琥珀色室内灯光、石径和浇水壶。视觉检查不等于验证物理或建筑准确性。 已重做（2026-11-10）：根据公开文字说明另行绘制原创雪山温室场景插画，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -5271,8 +5271,8 @@
         "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
       },
       "media_note": {
-        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
-        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。"
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
     }
@@ -5306,31 +5306,31 @@
     },
     "media": [
       {
-        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-5-h4tpnt.webp",
-        "path": "external-sites/assets/examples/analyticsvidhya-bilingual-evening-menu/output.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/analyticsvidhya-bilingual-evening-menu.svg",
+        "path": "external-sites/assets/recreated/posters-typography/analyticsvidhya-bilingual-evening-menu.svg",
+        "kind": "svg",
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 90564,
-        "sha256": "cb354c831744d5d2c7eff8c645c6f49c622dfa9391c907e86cb81c2f692328ef",
+        "mime_type": "image/svg+xml",
+        "bytes": 3998,
+        "sha256": "66721bb08f093973459bee0b9716299e74a3d78649e8de0bca30fb233791f3bd",
         "alt": {
           "en": "Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.",
           "zh-CN": "象牙白晚间菜单，带深绿色英文和印地语文字、五个卢比价格及柠檬插图。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-2-a-bilingual-menu-from-a-pdf-brief",
-          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
-            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+            "en": "Original original SVG bilingual menu layout made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.",
+            "zh-CN": "维护者依据公开文字创意独立制作原创英印双语菜单插画，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。"
           }
         }
       }
     ],
     "notes": {
-      "en": "1024×1536 WebP. The author reports uploading a one-page PDF; its exact copy is printed in the article, but the original PDF input is not available here. This is a reported ChatGPT document-to-image workflow, not evidence of native PDF input support in the image model. The five required dash separators are absent, as also acknowledged in the source FAQ; it is not exact-copy success.",
-      "zh-CN": "1024×1536 WebP。作者称上传了一页 PDF；文章展示其文字内容，但此处没有原始 PDF 输入文件。这是作者报告的 ChatGPT 文档转图像流程，不能据此推断图像模型原生支持 PDF 输入。五处指定的破折号分隔符缺失，原文常见问题也承认这一点，因此不能视为逐字准确复刻。"
+      "en": "1024×1536 WebP. The author reports uploading a one-page PDF; its exact copy is printed in the article, but the original PDF input is not available here. This is a reported ChatGPT document-to-image workflow, not evidence of native PDF input support in the image model. The five required dash separators are absent, as also acknowledged in the source FAQ; it is not exact-copy success. Independently recreated from publicly available text as an original SVG bilingual menu layout on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result. The exact menu lines and Hindi label were taken from the article's public transcription; the original attached PDF was not used as input to this SVG design.",
+      "zh-CN": "1024×1536 WebP。作者称上传了一页 PDF；文章展示其文字内容，但此处没有原始 PDF 输入文件。这是作者报告的 ChatGPT 文档转图像流程，不能据此推断图像模型原生支持 PDF 输入。五处指定的破折号分隔符缺失，原文常见问题也承认这一点，因此不能视为逐字准确复刻。 已重做（2026-11-10）：根据公开文字说明另行绘制原创英印双语菜单插画，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。 菜单文字与印地语字样依据文章来源公开列出的清单录入，未上传或使用原作者 PDF 作为此 SVG 的输入。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -5344,8 +5344,8 @@
         "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
       },
       "media_note": {
-        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
-        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。"
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
     }
@@ -5474,31 +5474,31 @@
     },
     "media": [
       {
-        "source_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-8-h4tpnt.webp",
-        "path": "external-sites/assets/examples/analyticsvidhya-monarch-life-cycle/output.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/infographics/analyticsvidhya-monarch-life-cycle.svg",
+        "path": "external-sites/assets/recreated/infographics/analyticsvidhya-monarch-life-cycle.svg",
+        "kind": "svg",
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 369086,
-        "sha256": "a0545f3d98970534611793510da15e3a82fe04fadb1200f582b63fea8b7c36e0",
+        "mime_type": "image/svg+xml",
+        "bytes": 6427,
+        "sha256": "cc5e30240503a9d796c06220de245226b642a1c1d6ce50e26ce5bdc66dad95bc",
         "alt": {
           "en": "Watercolor monarch life-cycle plate with Egg, Caterpillar, Chrysalis and Adult labels and connecting arrows.",
           "zh-CN": "水彩帝王蝶生命周期图，含 Egg、Caterpillar、Chrysalis、Adult 四个标签和连接箭头。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration",
-          "credit": "Vasu Deo Sankrityayan / Analytics Vidhya",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.",
-            "zh-CN": "原样存档公开来源文件，未转换格式。未核实转载许可。署名不构成授权；仓库 MIT 许可不覆盖第三方素材。"
+            "en": "Original original four-stage SVG natural-history infographic made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.",
+            "zh-CN": "维护者依据公开文字创意独立制作原创帝王蝶四阶段生命周期示意图，没有复用第三方媒体像素，也未以原图作输入。原案例发布方仅保留来源引用；新作品不是经核验的 GPT Image 2.6 输出。"
           }
         }
       }
     ],
     "notes": {
-      "en": "1536×1024 WebP. Four labeled stages occupy the requested corners with connecting arrows on ivory paper. The egg is shown on a visible leaf surface; the requested underside placement and biological accuracy are not independently established. Treat this as a generated educational illustration requiring expert review, not verified scientific reference material.",
-      "zh-CN": "1536×1024 WebP。象牙白背景上四个带标签阶段位于指定角落，并以箭头相连。卵位于可见叶面，提示词要求的叶片背面位置及生物学准确性未经独立确认。应将其视为需专家审核的生成教育插图，而非已验证的科学参考资料。"
+      "en": "1536×1024 WebP. Four labeled stages occupy the requested corners with connecting arrows on ivory paper. The egg is shown on a visible leaf surface; the requested underside placement and biological accuracy are not independently established. Treat this as a generated educational illustration requiring expert review, not verified scientific reference material. Independently recreated from publicly available text as an original four-stage SVG natural-history infographic on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result.",
+      "zh-CN": "1536×1024 WebP。象牙白背景上四个带标签阶段位于指定角落，并以箭头相连。卵位于可见叶面，提示词要求的叶片背面位置及生物学准确性未经独立确认。应将其视为需专家审核的生成教育插图，而非已验证的科学参考资料。 已重做（2026-11-10）：根据公开文字说明另行绘制原创帝王蝶四阶段生命周期示意图，未将第三方原图作为输入；当前版本中已移除原媒体。SVG 属原创插画，**不是**经核验的 GPT Image 2.6 模型结果。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -5512,8 +5512,8 @@
         "zh-CN": "在普通浏览器打开原文，核对作者、测试小节和公开提示词。"
       },
       "media_note": {
-        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.",
-        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。"
+        "en": "Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.",
+        "zh-CN": "11 月 8 日本地完整解码并目检本批四项作品的五份原始 WebP。原始素材于 11 月 5 日返回 HTTP 200，本次没有重新请求来源。菜单 PDF 输入不可获取，未存档。 2026-11-10 原存档的来源媒体已从当前仓库文件树移除，并以原创 SVG 插画替代；原始历史核查记录仍保留。"
       },
       "report_path": "docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md"
     }

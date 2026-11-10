@@ -1,5 +1,7 @@
 # 01 yir gallery / 来源说明
 
+> **2026-11-10 · 第四批历史核对提示**：yir-raincoat-storyboard、yir-bicycle-sale-ad 的旧外站输出媒体已在第四批版权风险降低重做中从当前 Git 文件树移除，替代作品为独立绘制的 SVG 插画。历史检查文档中记录的旧媒体路径和下载状态仅说明此前存档，不代表当前素材版权状况或模型来源。参见 [重做状态](../external-sites/RECREATION_STATUS.md)。
+
 > **2026-11-10 · 第三批历史核对提示**：yir-ferry-blue-hour、yir-noodle-stall、yir-flavor-lineup 对应的旧第三方素材已从当前仓库版本删除，现行图片为独立新制；历史报告中的旧路径仅反映 2026-11-06 的来源检查，不应当作仍有转载许可或当前文件状态。参见 [重做状态](../external-sites/RECREATION_STATUS.md)。
 
 This is a source-attributed collection, not an independent reproduction or benchmark. Files are unchanged public-source copies collected on 2026-11-05. Local source, file and privacy checks were repeated on 2026-11-06; no network access was tested in that audit. Current availability may differ. No image generation was run.
