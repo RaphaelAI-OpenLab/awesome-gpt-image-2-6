@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=vi-VN)
+[![Bộ sưu tập câu lệnh GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=vi-VN)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 Bộ sưu tập câu lệnh GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Gắn sao trên GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@ Tiêu đề, mô tả và trang chi tiết của các trường hợp sẽ hiể
 
 <a id="gallery"></a>
 
-## 🌐 Khám phá bộ sưu tập
+## 🌐 Xem trong thư viện trên web
 
-**[Xem tất cả trường hợp trong kho mã này →](#all-cases)**
+<div align="center">
 
-Xem hình ảnh và sao chép câu lệnh gốc bên dưới. Tác giả và nguồn được ghi ở cuối mỗi ví dụ.
+![Xem trước trang chủ Raphael](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*Ảnh chụp trang chủ Raphael hiện tại được dùng để xem trước trong khi thư viện web riêng của bộ sưu tập đang được chuẩn bị.*
+
+**[👉 Bắt đầu sáng tạo trên Raphael →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=vi-VN)**
+
+Vì sao nên sáng tạo trên website?
+
+| Tính năng | GitHub README | Website Raphael |
+| --- | --- | --- |
+| 🎨 Bố cục trực quan | Danh sách ví dụ tuyến tính | Giao diện sáng tạo tương tác |
+| ✍️ Sử dụng câu lệnh | Sao chép câu lệnh đã công bố | Nhập câu lệnh và ảnh tham chiếu |
+| 🤖 Tạo ảnh bằng AI | Mở một website riêng | Chọn mô hình và tạo ảnh |
+| 📱 Di động | Đọc ví dụ | Sáng tạo trong trình duyệt |
+| 🏷️ Điều hướng | Danh mục ví dụ | Mô hình, phong cách và công cụ |
+
+[Xem tất cả trường hợp trong kho mã này →](#all-cases)
 
 [Kho tư liệu từ trang web bên ngoài (không tính vào danh mục và thống kê)](external-sites/README.md)
-
-**GIỮ CHỖ · URL thư viện ảnh bên ngoài: chưa cấu hình.**
-
-**GIỮ CHỖ · Liên kết tạo ảnh một nhấp: chưa xác minh.**
-
-GIỮ CHỖ · Liên kết bộ sưu tập / chiến dịch liên quan: sẽ được bổ sung.
-
-[Ghé thăm Raphael (trang chủ)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=vi-VN)
 
 <a id="categories"></a>
 

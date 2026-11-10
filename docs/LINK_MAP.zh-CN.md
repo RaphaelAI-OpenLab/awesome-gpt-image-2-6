@@ -2,7 +2,7 @@
 
 静态网站入口集中在 [site.config.json](../site.config.json)，逐条来源案例集中在 [content/source-cases.json](../content/source-cases.json)，完整提示词入口在 [content/prompts.json](../content/prompts.json)。生成器把入口写入中英文 README 和可选案例页；不需要在多个语言文件里手工替换 URL。
 
-README 的案例链接全部优先进入仓库内 `cases/<id>/README*.md`。Raphael 主页独立展示；外部图库、生成入口和活动尚未配置时显示明确占位。没有编造外部地址。
+README 的案例链接全部优先进入仓库内 `cases/<id>/README*.md`。网页图库区先展示 Raphael 当前首页的真实截图，主按钮打开 Raphael 首页；专属图库未配置时，公开说明仍在准备中。未经核验的模型入口和未启用的活动不显示维护字段占位。
 
 ## 位置与开关
 
@@ -10,8 +10,9 @@ README 的案例链接全部优先进入仓库内 `cases/<id>/README*.md`。Raph
 | --- | --- | --- | --- | --- |
 | 顶栏推广位 | 可替换的活动/新仓库文字，可选横幅图 | `cross_promo.url` | `enabled=true` 且文案、URL 已填 | `cross_promo`；外部 GitHub 链接不加 UTM |
 | Hero 封面图 | 点击整个封面进入品牌网站 | `brand.home_url` | 始终显示 | `hero` |
-| 顶部导航 | `Raphael ↗` | `brand.home_url` | 始终显示 | `top_nav` |
-| 首屏主入口 | 浏览仓库内全部案例 | `#all-cases` | 始终显示；外部图库入口单列，缺失时占位 | 本地不加 UTM；外部图库为 `top_cta` |
+| 网页图库预览图 | Raphael 当前首页真实截图，暂作图库预览 | `assets/website/raphael-homepage-20261110.png` | 始终显示；截图下说明当前预览范围 | 无 |
+| 首屏主入口 | 在 Raphael 开始创作；专属图库配置后改为打开网页图库 | `brand.gallery_url` 或回退到 `brand.home_url` | 始终显示；不会把首页描述为专属图库或预填生成链接 | `top_cta` |
+| 仓库案例入口 | 浏览仓库内全部案例 | `#all-cases` | 功能对照表后显示 | 本地不加 UTM |
 | 模型使用入口 | 查看当前 GPT Image 2.6 选项 | `brand.model_page_url` | 模型可用状态与验证日期已确认 | `model_entry` |
 | 分类导航 | 8 个用途分类名 | 本仓库 `#category-<id>` | 始终链接到 README 内分类；网站分类字段仅保留待后续使用 | 本地不加 UTM |
 | 案例详情入口 | 在 Raphael 查看案例详情 | `links.case_detail_url` | 该条真实详情页存在 | `case_detail_<案例id>` |
@@ -21,6 +22,8 @@ README 的案例链接全部优先进入仓库内 `cases/<id>/README*.md`。Raph
 | GitHub 右侧 About 的 Website | 网站 URL | 从合集 URL 或首页 URL 生成后，手工填仓库 Settings | 真实远程仓库创建后 | 建议用 `about` |
 
 README 结构由 `scripts/homepage.py` 统一生成。英文与中文共用同一套布局；品牌外链语言通过 `utm_term` 区分，来源与 GitHub 内部链接不加追踪参数。
+
+网页图库区按“标题 → 居中截图 → 当前预览说明 → 主 CTA → 五行功能对照 → 仓库案例入口”排列。功能对照使用当前官网可见的创作界面、提示词与参考图输入、模型选择、手机端操作和模型/风格/工具导航；不照搬对方的全文搜索、同一案例自动预填或专属分类图库能力。
 
 ## 当前真实链接示例
 

@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=fr-FR)
+[![Collection de prompts GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=fr-FR)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 Collection de prompts GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Ajouter une étoile sur GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@ Les titres, descriptions et pages détaillées des cas sont affichés en anglais
 
 <a id="gallery"></a>
 
-## 🌐 Parcourir la collection
+## 🌐 Voir dans la galerie web
 
-**[Parcourir tous les cas de ce dépôt →](#all-cases)**
+<div align="center">
 
-Consultez les images et copiez les prompts originaux ci-dessous. Chaque exemple indique son auteur et sa source en bas.
+![Aperçu de la page d’accueil de Raphael](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*La page d’accueil actuelle de Raphael sert d’aperçu pendant la préparation de la galerie web dédiée à cette collection.*
+
+**[👉 Commencer à créer sur Raphael →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=fr-FR)**
+
+Pourquoi créer sur le site web ?
+
+| Fonctionnalité | GitHub README | Site web de Raphael |
+| --- | --- | --- |
+| 🎨 Présentation visuelle | Liste linéaire d’exemples | Interface de création interactive |
+| ✍️ Utilisation des prompts | Copier les prompts publiés | Saisir des prompts et des images de référence |
+| 🤖 Génération d’images par IA | Ouvrir un autre site web | Choisir un modèle et générer |
+| 📱 Mobile | Lire les exemples | Créer dans le navigateur |
+| 🏷️ Navigation | Catégories d’exemples | Modèles, styles et outils |
+
+[Parcourir tous les cas de ce dépôt →](#all-cases)
 
 [Archives des contenus de sites externes (hors catégories et statistiques)](external-sites/README.md)
-
-**ESPACE RÉSERVÉ · URL de la galerie web externe : non configurée.**
-
-**ESPACE RÉSERVÉ · Lien de génération en un clic : non vérifié.**
-
-ESPACE RÉSERVÉ · Lien vers une collection / campagne associée : à ajouter.
-
-[Visiter Raphael (page d’accueil)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=fr-FR)
 
 <a id="categories"></a>
 

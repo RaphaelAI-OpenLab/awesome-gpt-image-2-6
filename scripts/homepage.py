@@ -6,18 +6,18 @@ from source_cases import label, page_path, preview, read_cases, render_inline_ca
 
 
 def render_home(config, prompts, language, render_prompt):
-    c = lambda en, cn: ui(en, cn, language)
+    c = lambda en, cn=None: ui(en, cn, language)
     cases = visible(read_cases())
     full = published(prompts)
     brand = config['brand']
     repository = repo_url(config)
-    title = config['project']['name']
+    title = c('Awesome {model} Prompts', '{model} 提示词大全').format(model=config['project']['model_family'])
     def heading(anchor, en, cn):
         return [f'<a id="{anchor}"></a>', '', '## ' + c(en, cn), '']
     def case_link(item):
         return md_link(localized(item['title'], language), '#source-case-' + item['id'])
     lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/hero/raphael-gpt-image-2-6-hero-v1.png)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
-             '# 🚀 ' + title + ' Prompts', '',
+             '# 🚀 ' + title, '',
              repo_badges(config, language), '',
              '> 🎨 ' + c('A curated collection of creative prompts and visual examples for GPT Image 2.6.', 'GPT Image 2.6 创意提示词与案例精选合集。'), '',
              '> ⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ', '本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new?template=report-problem.yml') + c(', and we will remove it immediately.', '，我们将立即移除。'), '', '---', '',
@@ -25,25 +25,35 @@ def render_home(config, prompts, language, render_prompt):
     if language not in DETAIL_LANGUAGES:
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
     lines += ['**' + c('Quick links', '快捷导航') + '** · ' + md_link('🖼️ ' + c('Browse cases', '浏览案例'), '#all-cases') + ' · ' + md_link('🆕 ' + c('Recently added', '最近收录'), '#latest') + ' · ' + md_link('📝 ' + c('Add an example', '提交案例'), repository + '/issues/new?template=submit-case.yml') + ' · ' + md_link('🐞 ' + c('Report an issue', '报告问题'), repository + '/issues/new?template=report-problem.yml') + ' · ' + md_link('📚 ' + c('Read the guide', '阅读指南'), 'CONTRIBUTING.md'), '']
-    lines += heading('gallery', '🌐 Browse the collection', '🌐 浏览案例图库')
-    lines += ['**' + md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases') + '**', '',
-              c('Browse images and copy original prompts below. Author and source credits appear beneath each case.', '下方直接展示案例图片与可复制的原始提示词，每条底部保留作者和来源署名。'), '']
-    lines += [md_link(c('External website archive (excluded from categories and statistics)', '外站素材目录（不计入本页分类与统计）'), 'external-sites/README.md'), '']
+    lines += heading('gallery', '🌐 View in Web Gallery', '🌐 在网页图库中查看')
+    lines += ['<div align="center">', '',
+              f'![{md_text(c("Raphael homepage preview", "Raphael 首页预览"))}](assets/website/raphael-homepage-20261110.png)', '',
+              '</div>', '']
     if brand.get('gallery_url'):
-        lines += [md_link(c('Open the web gallery', '打开网页图库'), tracked_url(brand['gallery_url'], 'top_cta', language, config)), '']
+        lines += ['**' + md_link('👉 ' + c('Open the web gallery', '打开网页图库'), tracked_url(brand['gallery_url'], 'top_cta', language, config)) + '**', '']
     else:
-        lines += ['**' + c('PLACEHOLDER · External web gallery URL: not configured.', '占位 · 外部网页图库链接：待配置。') + '**', '']
+        lines += ['*' + c('Current Raphael homepage, shown as a preview while this collection’s web gallery is being prepared.', '截图展示 Raphael 当前首页，暂作图库预览；本合集的专属网页图库正在准备中。') + '*', '',
+                  '**' + md_link('👉 ' + c('Create on {brand} →', '在 {brand} 开始创作 →').format(brand=brand['name']), tracked_url(brand['home_url'], 'top_cta', language, config)) + '**', '']
+    lines += [c('Why create on the website?', '为什么去网站创作？'), '',
+              '| ' + c('Feature', '功能') + ' | GitHub README | ' + c('{brand} website', '{brand} 网页端').format(brand=brand['name']) + ' |',
+              '| --- | --- | --- |']
+    comparison = [
+        ('🎨', 'Visual layout', 'Linear case list', 'Interactive creation workspace'),
+        ('✍️', 'Prompt workflow', 'Copy available prompts', 'Prompts and reference images'),
+        ('🤖', 'AI generation', 'Open a separate website', 'Choose a model and generate'),
+        ('📱', 'Mobile', 'Read cases', 'Create in your browser'),
+        ('🏷️', 'Navigation', 'Case categories', 'Models, styles and tools'),
+    ]
+    for icon, feature, readme, website in comparison:
+        lines += ['| ' + icon + ' ' + c(feature) + ' | ' + c(readme) + ' | ' + c(website) + ' |']
+    lines += ['', md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases'), '',
+              md_link(c('External website archive (excluded from categories and statistics)', '外站素材目录（不计入本页分类与统计）'), 'external-sites/README.md'), '']
     if brand.get('model_page_url') and brand.get('model_available'):
         lines += [md_link(c('Verified model entry', '已核验模型入口'), tracked_url(brand['model_page_url'], 'model_entry', language, config)), '']
-    else:
-        lines += ['**' + c('PLACEHOLDER · One-click generation link: not verified.', '占位 · 一键生成链接：待核验。') + '**', '']
     promo=config['cross_promo']
     if promo['enabled']:
         lines += [md_link(localized(promo['title'],language),tracked_url(promo['url'],'cross_promo',language,config)), localized(promo['description'],language), '']
         if promo['image_path']:lines += [f"![{md_text(localized(promo['title'],language))}]({promo['image_path']})",'']
-    else:
-        lines += [c('PLACEHOLDER · Related collection / campaign link: to be added.', '占位 · 关联项目 / 活动链接：待补充。'), '']
-    lines += [md_link(c('Visit Raphael (homepage)', '访问 Raphael（主页）'), tracked_url(brand['home_url'], 'top_nav', language, config)), '']
     lines += heading('categories', '🏷️ Browse by category', '🏷️ 按分类浏览')
     lines += ['| ' + c('Category | Source-linked cases | Full prompts', '分类 | 来源案例 | 完整提示词') + ' |', '| --- | ---: | ---: |']
     for category in config['categories']:

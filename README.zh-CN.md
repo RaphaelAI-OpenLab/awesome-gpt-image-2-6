@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=zh-CN)
+[![GPT Image 2.6 提示词大全](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=zh-CN)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 GPT Image 2.6 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![在 GitHub 点 Star](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -29,21 +29,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 浏览案例图库
+## 🌐 在网页图库中查看
 
-**[浏览仓库内全部案例 →](#all-cases)**
+<div align="center">
 
-下方直接展示案例图片与可复制的原始提示词，每条底部保留作者和来源署名。
+![Raphael 首页预览](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*截图展示 Raphael 当前首页，暂作图库预览；本合集的专属网页图库正在准备中。*
+
+**[👉 在 Raphael 开始创作 →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
+
+为什么去网站创作？
+
+| 功能 | GitHub README | Raphael 网页端 |
+| --- | --- | --- |
+| 🎨 可视化布局 | 线性案例列表 | 交互式创作界面 |
+| ✍️ 提示词使用 | 复制已公开的提示词 | 输入提示词与参考图 |
+| 🤖 AI 生图 | 另行打开网站 | 选择模型并生成 |
+| 📱 移动端 | 阅读案例 | 在浏览器中创作 |
+| 🏷️ 导航 | 案例分类 | 模型、风格与工具 |
+
+[浏览仓库内全部案例 →](#all-cases)
 
 [外站素材目录（不计入本页分类与统计）](external-sites/README.md)
-
-**占位 · 外部网页图库链接：待配置。**
-
-**占位 · 一键生成链接：待核验。**
-
-占位 · 关联项目 / 活动链接：待补充。
-
-[访问 Raphael（主页）](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=zh-CN)
 
 <a id="categories"></a>
 

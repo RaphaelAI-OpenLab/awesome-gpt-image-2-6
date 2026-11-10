@@ -2,9 +2,9 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ja-JP)
+[![GPT Image 2.6 プロンプト集](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=ja-JP)
 
-# 🚀 Awesome GPT Image 2.6 Prompts
+# 🚀 GPT Image 2.6 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub でスターを付ける](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
@@ -33,21 +33,31 @@
 
 <a id="gallery"></a>
 
-## 🌐 コレクションを見る
+## 🌐 Webギャラリーで見る
 
-**[このリポジトリのすべての事例を見る →](#all-cases)**
+<div align="center">
 
-以下で画像と元のプロンプトを閲覧・コピーできます。各事例の末尾に作者と出典を記載しています。
+![Raphael ホームページのプレビュー](assets/website/raphael-homepage-20261110.png)
+
+</div>
+
+*専用Webギャラリーの準備中のため、Raphael の現在のホームページをプレビューとして掲載しています。*
+
+**[👉 Raphael で作成する →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=ja-JP)**
+
+Webサイトで作成するメリットは？
+
+| 機能 | GitHub README | Raphael のWebサイト |
+| --- | --- | --- |
+| 🎨 表示形式 | 事例を一覧表示 | 対話的な作成画面 |
+| ✍️ プロンプトの利用 | 公開済みプロンプトをコピー | プロンプトと参照画像を入力 |
+| 🤖 AI画像生成 | 別途Webサイトを開く | モデルを選んで生成 |
+| 📱 モバイル | 事例を読む | ブラウザーで作成 |
+| 🏷️ ナビゲーション | 事例のカテゴリー | モデル・スタイル・ツール |
+
+[このリポジトリのすべての事例を見る →](#all-cases)
 
 [外部サイト素材アーカイブ（分類・統計の対象外）](external-sites/README.md)
-
-**プレースホルダー · 外部ウェブギャラリーの URL：未設定。**
-
-**プレースホルダー · ワンクリック生成リンク：未検証。**
-
-プレースホルダー · 関連コレクション / キャンペーンのリンク：追加予定。
-
-[Raphael のホームページへ](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_nav&utm_term=ja-JP)
 
 <a id="categories"></a>
 
