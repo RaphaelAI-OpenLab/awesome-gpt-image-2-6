@@ -2,7 +2,7 @@
 
 <a id="top"></a>
 
-[![Awesome GPT Image 2.6](assets/header.svg)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=es-ES)
+[![Awesome GPT Image 2.6](assets/hero/raphael-gpt-image-2-6-hero-v1.png)](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=hero&utm_term=es-ES)
 
 # 🚀 Awesome GPT Image 2.6 Prompts
 

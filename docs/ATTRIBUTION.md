@@ -14,6 +14,8 @@ Each generated case page names its original creator and source. Item-level right
 
 `assets/header.svg`, `assets/gallery-placeholder.svg` and `assets/media-placeholder-*.svg` are original decorative assets, not GPT Image 2.6 model outputs. They are covered by the repository MIT license.
 
+2026-11-10 起，首页主封面改用 `assets/hero/raphael-gpt-image-2-6-hero-v1.png`。该图使用内置图片生成工具、以 Raphael 官网肖像徽标为参考制作，仅作为品牌封面，不列为 GPT Image 2.6 的来源案例或实测结果；完整提示词与品牌参考见同目录记录。旧版 `assets/header.svg` 继续保留。
+
 The 2026-11-05 presentation update also adapts the language-badge/current-language navigation pattern and repository shortcuts. No YouMind brand images, product claims, example data or live counters were copied. The generated SVG navigation artwork is original to this project.
 
 2026-11-05 的呈现更新另参考了语言徽章 / 当前语言导航和仓库快捷入口；未复制 YouMind 品牌图、产品陈述、案例数据或实时计数。生成的 SVG 导航图形为本项目原创。

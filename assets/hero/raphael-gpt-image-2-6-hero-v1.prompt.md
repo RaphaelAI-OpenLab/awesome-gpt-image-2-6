@@ -6,7 +6,7 @@
 - 成片：`raphael-gpt-image-2-6-hero-v1.png`。
 - 品牌参考：[Raphael 官网](https://raphael.app/)、[官网徽标原图](https://raphael.app/logo.webp)。徽标参考另存为 `raphael-logo-reference.webp`。
 - 构图参考：用户提供的 `youmind-readme-comparison.pdf` 第 4 页，仅采用主 Hero 的位置与信息功能。
-- 交付状态：已生成并检查画面与文字；当前 README 的引用尚未替换。
+- 交付状态：已生成并检查画面与文字；2026-11-10 接入首页生成器，作为全部 16 种语言 README 的顶部封面。
 
 ## 完整提示词
 
