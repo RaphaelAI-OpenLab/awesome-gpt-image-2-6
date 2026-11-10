@@ -8,22 +8,22 @@
 
 **Creator-reported model · Source-only; not independently reproduced**
 
-The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.
+The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated on 2026-11-10 as a original SVG product illustration from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.
 
 ## Images / GIFs
 
-![Three-flavor soda lineup](../../../external-sites/assets/examples/yir-flavor-lineup/rail-06-flavor-lineup.webp)
+![Three-flavor soda lineup](../../../external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg)
 
-- [Three-flavor soda lineup](https://yir.ai/images/models/gpt-image-2-6/rail-06-flavor-lineup.webp) · image
-  - Credit: Yir / Sungerine Labs LLC
-  - Reuse: source-attributed. Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.
-  - [Provenance / rights evidence](https://yir.ai/models/gpt-image-2-6)
+- [Three-flavor soda lineup](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg) · svg
+  - Credit: RaphaelAI-OpenLab
+  - Reuse: original. Repository-created original SVG product illustration from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 
 - Checked: 2026-11-05 (UTC)
 - Original page: Accessible. The public source was collected on 2026-11-05. Its retained HTML and dated observations were reviewed locally on 2026-11-06; no current network access was tested.
-- Media: Archived locally. The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.
+- Media: Archived locally. The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.
 - [Per-file attempts and results](../../../docs/GALLERY_YIR_SAMPLES_2026-11-06.md)
 
 ## Original prompt

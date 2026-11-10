@@ -8,22 +8,22 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。
+原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立验证 GPT Image 2.6 生成。 已重做（2026-11-10）：根据来源公开文字描述独立制作原创三口味汽水产品插画，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。
 
 ## 图片 / GIF
 
-![三种口味汽水陈列](../../../external-sites/assets/examples/yir-flavor-lineup/rail-06-flavor-lineup.webp)
+![三种口味汽水陈列](../../../external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg)
 
-- [三种口味汽水陈列](https://yir.ai/images/models/gpt-image-2-6/rail-06-flavor-lineup.webp) · image
-  - 署名：Yir / Sungerine Labs LLC
-  - 使用条件：source-attributed. 原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。
-  - [来源 / 权利依据](https://yir.ai/models/gpt-image-2-6)
+- [三种口味汽水陈列](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg) · svg
+  - 署名：RaphaelAI-OpenLab
+  - 使用条件：original. 仓库根据公开文字创意独立制作原创三口味汽水产品插画，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。
+  - [来源 / 权利依据](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## 原帖与素材获取状态
 
 - 核对日期：2026-11-05 (UTC)
 - 原帖：可打开. 公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。
-- 素材：已存入仓库. 2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。
+- 素材：已存入仓库. 2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。
 - [逐项尝试与结果](../../../docs/GALLERY_YIR_SAMPLES_2026-11-06.md)
 
 ## 原始提示词
