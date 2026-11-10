@@ -1,5 +1,7 @@
 # Analytics Vidhya: four static source cases
 
+> **2026-11-10 · 第四批历史核对提示**：analyticsvidhya-snowy-greenhouse、analyticsvidhya-bilingual-evening-menu、analyticsvidhya-monarch-life-cycle 的旧外站输出媒体已在第四批版权风险降低重做中从当前 Git 文件树移除，替代作品为独立绘制的 SVG 插画。历史检查文档中记录的旧媒体路径和下载状态仅说明此前存档，不代表当前素材版权状况或模型来源。参见 [重做状态](../external-sites/RECREATION_STATUS.md)。
+
 Original source: https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/
 Author: Vasu Deo Sankrityayan / Analytics Vidhya.
 

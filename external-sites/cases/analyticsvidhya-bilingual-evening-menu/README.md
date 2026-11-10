@@ -8,22 +8,22 @@
 
 **Creator-reported model · Source-only; not independently reproduced**
 
-1024×1536 WebP. The author reports uploading a one-page PDF; its exact copy is printed in the article, but the original PDF input is not available here. This is a reported ChatGPT document-to-image workflow, not evidence of native PDF input support in the image model. The five required dash separators are absent, as also acknowledged in the source FAQ; it is not exact-copy success.
+1024×1536 WebP. The author reports uploading a one-page PDF; its exact copy is printed in the article, but the original PDF input is not available here. This is a reported ChatGPT document-to-image workflow, not evidence of native PDF input support in the image model. The five required dash separators are absent, as also acknowledged in the source FAQ; it is not exact-copy success. Independently recreated from publicly available text as an original SVG bilingual menu layout on 2026-11-10, without any third-party image as input. The original third-party output was removed from the current Git tree; the replacement is an original editorial illustration, not a GPT Image 2.6 model result. The exact menu lines and Hindi label were taken from the article's public transcription; the original attached PDF was not used as input to this SVG design.
 
 ## Images / GIFs
 
-![Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.](../../../external-sites/assets/examples/analyticsvidhya-bilingual-evening-menu/output.webp)
+![Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.](../../../external-sites/assets/recreated/posters-typography/analyticsvidhya-bilingual-evening-menu.svg)
 
-- [Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.](https://cdn.analyticsvidhya.com/wp-content/uploads/2026/11/image-5-h4tpnt.webp) · image
-  - Credit: Vasu Deo Sankrityayan / Analytics Vidhya
-  - Reuse: source-attributed. Original public source file archived without conversion. No redistribution license verified. Attribution does not grant permission; the repository MIT license excludes third-party media.
-  - [Provenance / rights evidence](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-2-a-bilingual-menu-from-a-pdf-brief)
+- [Ivory evening menu with forest-green English and Hindi text, five rupee prices and a lemon illustration.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/analyticsvidhya-bilingual-evening-menu.svg) · svg
+  - Credit: RaphaelAI-OpenLab
+  - Reuse: original. Original original SVG bilingual menu layout made from a public text-only concept, not the original image; no third-party media pixels were reused. The source publisher is retained as credit for the reference idea and text, not for the replacement asset. Not a verified GPT Image 2.6 model output.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 
 - Checked: 2026-11-05 (UTC)
 - Original page: Accessible. Original article opened in a normal browser; author, test subsection and published prompt checked.
-- Media: Archived locally. Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived.
+- Media: Archived locally. Five retained original WebP files across this four-work batch were fully decoded and visually reviewed locally on 8 November. Original media returned HTTP 200 on 5 November; no new source request was made. The menu PDF input is unavailable and is not archived. The previously archived source media was removed from the current repository tree on 2026-11-10 and independently recreated as original SVG art; historical source audit is retained.
 - [Per-file attempts and results](../../../docs/MEDIA_ACCESS_2026-11-08_ANALYTICSVIDHYA_STATIC.md)
 
 ## Original prompt
