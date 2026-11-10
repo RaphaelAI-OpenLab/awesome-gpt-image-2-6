@@ -17,6 +17,7 @@ A smiling vendor turns skewers over a smoky night-market grill. Archived source 
 - [A smiling vendor turns skewers over a smoky night-market grill.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-flare-vendor-flash.webp) · image
   - Credit: RaphaelAI-OpenLab
   - Reuse: original. Independent AI-generated photograph created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 

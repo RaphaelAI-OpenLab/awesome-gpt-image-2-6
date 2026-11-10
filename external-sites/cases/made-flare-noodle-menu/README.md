@@ -14,9 +14,10 @@ A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook str
 
 ![A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles.](../../../external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg)
 
-- [A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg) · image
+- [A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg) · svg
   - Credit: RaphaelAI-OpenLab
   - Reuse: original. Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 

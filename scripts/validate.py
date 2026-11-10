@@ -354,8 +354,15 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
             check_asset(path, f'{mname}.path', errors, allow_remote=False)
             folder = 'references' if media.get('role') == 'reference' else 'examples'
             expected = f"{asset_prefix}assets/{folder}/{item['id']}/"
-            if not path.startswith(expected) or '..' in Path(path).parts:
-                errors.append(f'{mname}.path: expected {expected} with no traversal')
+            # Curator-made replacements are grouped by use-case category instead
+            # of source website or case folder; only allow this for external outputs.
+            recreated = (
+                asset_prefix == 'external-sites/'
+                and media.get('role', 'output') != 'reference'
+                and path.startswith(f"{asset_prefix}assets/recreated/{item['category']}/{item['id']}.")
+            )
+            if (not path.startswith(expected) and not recreated) or '..' in Path(path).parts:
+                errors.append(f'{mname}.path: expected {expected} or categorized recreated asset with no traversal')
             allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.mp4'}
             if Path(path).suffix.lower() not in allowed:
                 errors.append(f'{mname}.path: unsupported preview media format')

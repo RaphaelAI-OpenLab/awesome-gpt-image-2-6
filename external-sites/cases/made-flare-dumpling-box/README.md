@@ -14,9 +14,10 @@ A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on th
 
 ![A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid.](../../../external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg)
 
-- [A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg) · image
+- [A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg) · svg
   - Credit: RaphaelAI-OpenLab
   - Reuse: original. Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 

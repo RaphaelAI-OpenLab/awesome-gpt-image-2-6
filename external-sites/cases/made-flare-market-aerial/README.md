@@ -14,9 +14,10 @@ An elevated wide-angle view down a crowded night market, with a child riding on 
 
 ![An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground.](../../../external-sites/assets/recreated/interiors-architecture/made-flare-market-aerial.svg)
 
-- [An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/interiors-architecture/made-flare-market-aerial.svg) · image
+- [An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground.](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/interiors-architecture/made-flare-market-aerial.svg) · svg
   - Credit: RaphaelAI-OpenLab
   - Reuse: original. Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.
+  - [Provenance / rights evidence](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## Source-page and media access
 

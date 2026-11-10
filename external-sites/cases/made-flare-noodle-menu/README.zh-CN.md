@@ -14,9 +14,10 @@
 
 ![发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。](../../../external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg)
 
-- [发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg) · image
+- [发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg) · svg
   - 署名：RaphaelAI-OpenLab
   - 使用条件：original. 仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。
+  - [来源 / 权利依据](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## 原帖与素材获取状态
 
