@@ -3895,31 +3895,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/listening-booth.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-listening-booth/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-sunburst-listening-booth.webp",
+        "path": "external-sites/assets/recreated/characters-consistency/made-sunburst-listening-booth.webp",
         "kind": "image",
         "alt": {
           "en": "Two friends sit close together sharing headphones against the pegboard walls of a listening booth.",
           "zh-CN": "两位朋友在试听间的洞洞板墙前紧挨着坐，共用耳机。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-created new AI-generated photograph from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.",
+            "zh-CN": "仓库根据公开文字创意独立制作新生成的试听间照片，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。"
           }
         },
-        "sha256": "e5333d8cbe82c6a401434b8d3bfa4d68cc99a127db197ae0978cc00d98b9ceee",
-        "bytes": 172523,
-        "mime_type": "image/jpeg",
+        "sha256": "d7ff0ff19d6f4b7cce2b2f10b1c90266189c4e1f6522c5b218046b06537d93f1",
+        "bytes": 143582,
+        "mime_type": "image/webp",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "Two people sit close together sharing headphones against the pegboard walls of a listening booth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
-      "zh-CN": "两个人在试听间的洞洞板墙前紧挨着坐，共用耳机。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+      "en": "Two people sit close together sharing headphones against the pegboard walls of a listening booth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation has been verified. This single image does not establish cross-image character consistency. Independently recreated on 2026-11-10 as a new AI-generated photograph from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.",
+      "zh-CN": "两个人在试听间的洞洞板墙前紧挨着坐，共用耳机。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立验证 GPT Image 2.6 生成。 本单图不构成跨图角色一致性的证据。 已重做（2026-11-10）：根据来源公开文字描述独立制作新生成的试听间照片，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3933,8 +3933,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
@@ -3968,31 +3968,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/shop-window.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-shop-window/source-01.jpg",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-sunburst-shop-window.svg",
+        "path": "external-sites/assets/recreated/posters-typography/made-sunburst-shop-window.svg",
+        "kind": "svg",
         "alt": {
           "en": "Gold SECOND SPIN RECORDS lettering fills a night-time shop window as a cyclist passes.",
           "zh-CN": "夜间商店橱窗上有金色 SECOND SPIN RECORDS 字样，一名骑行者从前方经过。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-created original SVG illustration from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.",
+            "zh-CN": "仓库根据公开文字创意独立制作原创唱片店橱窗插画，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。"
           }
         },
-        "sha256": "16376b242418eac1202937747d9c58a5ad02654fc77b89a6041679ea94d45ee0",
-        "bytes": 154901,
-        "mime_type": "image/jpeg",
+        "sha256": "43427c9506bd7b8d6fb49bfeff54743eddcf6bb75a58384d0c27e86d284cd4ce",
+        "bytes": 5762,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "Gold SECOND SPIN RECORDS lettering fills a night-time shop window as a cyclist passes. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "夜间商店橱窗上有金色 SECOND SPIN RECORDS 字样，一名骑行者从前方经过。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "Gold SECOND SPIN RECORDS lettering fills a night-time shop window as a cyclist passes. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation has been verified. Independently recreated on 2026-11-10 as a original SVG illustration from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.",
+      "zh-CN": "夜间商店橱窗上有金色 SECOND SPIN RECORDS 字样，一名骑行者从前方经过。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立验证 GPT Image 2.6 生成。 已重做（2026-11-10）：根据来源公开文字描述独立制作原创唱片店橱窗插画，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -4006,8 +4006,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
@@ -4114,31 +4114,31 @@
     },
     "media": [
       {
-        "source_url": "https://yir.ai/images/models/gpt-image-2-6/rail-08-ferry.webp",
-        "path": "external-sites/assets/examples/yir-ferry-blue-hour/rail-08-ferry.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/yir-ferry-blue-hour.svg",
+        "path": "external-sites/assets/recreated/characters-consistency/yir-ferry-blue-hour.svg",
+        "kind": "svg",
         "alt": {
           "en": "Ferry at blue hour",
           "zh-CN": "蓝调时刻渡轮"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
-          "credit": "Yir / Sungerine Labs LLC",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
-            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+            "en": "Repository-created original SVG illustration from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.",
+            "zh-CN": "仓库根据公开文字创意独立制作原创蓝调时刻渡轮插画，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。"
           }
         },
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 68962,
-        "sha256": "9a1238154735f4718941a66db4048e9fea313869ef3c6e10800db8499110ccc3"
+        "mime_type": "image/svg+xml",
+        "bytes": 6628,
+        "sha256": "0ae9c5f9edccebb8560dc6147e8cd5bbf29d4f4a3a891aa46c62a7162bdb5a13"
       }
     ],
     "notes": {
-      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.",
-      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。"
+      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated on 2026-11-10 as a original SVG illustration from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.",
+      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立验证 GPT Image 2.6 生成。 已重做（2026-11-10）：根据来源公开文字描述独立制作原创蓝调时刻渡轮插画，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-06",
@@ -4152,8 +4152,8 @@
         "zh-CN": "公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。"
       },
       "media_note": {
-        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
-        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。"
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }
@@ -4282,31 +4282,31 @@
     },
     "media": [
       {
-        "source_url": "https://yir.ai/images/models/gpt-image-2-6/rail-09-noodle-stall.webp",
-        "path": "external-sites/assets/examples/yir-noodle-stall/rail-09-noodle-stall.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/yir-noodle-stall.svg",
+        "path": "external-sites/assets/recreated/characters-consistency/yir-noodle-stall.svg",
+        "kind": "svg",
         "alt": {
           "en": "Night market noodle stall",
           "zh-CN": "夜市面摊"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
-          "credit": "Yir / Sungerine Labs LLC",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
-            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+            "en": "Repository-created original SVG illustration from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.",
+            "zh-CN": "仓库根据公开文字创意独立制作原创夜市面摊插画，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。"
           }
         },
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 92154,
-        "sha256": "efc220e16559a017464d797c0d352eb6843909e61d906dd5ed7ab44e3cf2d040"
+        "mime_type": "image/svg+xml",
+        "bytes": 5260,
+        "sha256": "b80a16cc4d48ab95baaef2b5698f182f9e96ebe7ad97bf13c661835cfcfd9cac"
       }
     ],
     "notes": {
-      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.",
-      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。"
+      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated on 2026-11-10 as a original SVG illustration from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.",
+      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立验证 GPT Image 2.6 生成。 已重做（2026-11-10）：根据来源公开文字描述独立制作原创夜市面摊插画，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-06",
@@ -4320,8 +4320,8 @@
         "zh-CN": "公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。"
       },
       "media_note": {
-        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
-        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。"
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }
@@ -4355,31 +4355,31 @@
     },
     "media": [
       {
-        "source_url": "https://yir.ai/images/models/gpt-image-2-6/rail-06-flavor-lineup.webp",
-        "path": "external-sites/assets/examples/yir-flavor-lineup/rail-06-flavor-lineup.webp",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg",
+        "path": "external-sites/assets/recreated/brand-products/yir-flavor-lineup.svg",
+        "kind": "svg",
         "alt": {
           "en": "Three-flavor soda lineup",
           "zh-CN": "三种口味汽水陈列"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://yir.ai/models/gpt-image-2-6",
-          "credit": "Yir / Sungerine Labs LLC",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No redistribution license verified. Attribution is not permission; the repository MIT license does not cover this media.",
-            "zh-CN": "原样存档公开来源文件，未核实转载许可。署名并非授权；仓库 MIT 许可不涵盖此媒体。"
+            "en": "Repository-created original SVG product illustration from the public textual concept. Original third-party image pixels were not reused and no source image was supplied to the artwork tool. The Made/Yir example remains credited as inspiration and original source; this new work is not a verified GPT Image 2.6 output.",
+            "zh-CN": "仓库根据公开文字创意独立制作原创三口味汽水产品插画，没有复制第三方像素或提交原图进行编辑。Made/Yir 的原始案例来源与作者依然署名，新素材不冒充 GPT Image 2.6 的实测输出。"
           }
         },
         "role": "output",
-        "mime_type": "image/webp",
-        "bytes": 60166,
-        "sha256": "906403d6ae686aac953c0345fc2b68a86a3150f6808f52dbe80362fd2efc898f"
+        "mime_type": "image/svg+xml",
+        "bytes": 6305,
+        "sha256": "e501a795dcabda91c6a5c92214b64102d2cae7f5befc28f5a6a4fc31e303c040"
       }
     ],
     "notes": {
-      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run.",
-      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未执行生成。"
+      "en": "The public original prompt was verified in the retained source card’s title attribute and is linked at the source. Original published WebP is 900×1200; no generation was run. Independently recreated on 2026-11-10 as a original SVG product illustration from public text descriptions, without using the source image as an input. Old third-party JPG removed from the current repository tree; replacement is not a verified GPT Image 2.6 model output.",
+      "zh-CN": "原始公开提示词已在保留来源卡片的 title 属性中核对，链接至来源原文。来源发布的 WebP 为 900×1200；未独立验证 GPT Image 2.6 生成。 已重做（2026-11-10）：根据来源公开文字描述独立制作原创三口味汽水产品插画，不使用原图作为输入。原第三方 JPG 已从当前仓库版本移除，新素材不属于经核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-06",
@@ -4393,8 +4393,8 @@
         "zh-CN": "公开来源于 2026-11-05 收集，2026-11-06 仅在本地复核保留 HTML 与当时观察记录，未测试当前网络访问。"
       },
       "media_note": {
-        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata.",
-        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。"
+        "en": "The 2026-11-05 log records direct HTTP 403 responses and later supported browser downloads of the exact public files. Those historical outcomes are distinct. This audit made no requests and verified retained bytes, hashes, MIME, every decoded frame, pixels and metadata. On 2026-11-10 the previously archived third-party JPG was removed from the current tree and replaced with independently made artwork; original source audit remains as history.",
+        "zh-CN": "2026-11-05 日志记录直接 HTTP 403 以及随后通过受支持浏览器下载准确公开文件，两者是不同的历史结果。本次未发起请求，仅复核保留文件字节、哈希、MIME、全部解码帧、像素与元数据。 2026-11-10 原收录的第三方 JPG 从当前版本移除，替换成独立制作的作品；历史来源核查报告保留，不代表当前仍存储原图。"
       },
       "report_path": "docs/GALLERY_YIR_SAMPLES_2026-11-06.md"
     }

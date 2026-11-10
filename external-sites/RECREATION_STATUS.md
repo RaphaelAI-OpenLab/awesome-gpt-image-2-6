@@ -1,6 +1,6 @@
 # 外站素材独立重做记录
 
-**累计：10 / 20 个案例已重做**（首批 5 个，第二批 5 个）
+**累计：15 / 20 个案例已重做**（前三批，每批 5 个）
 
 **批次：2026-11-10 · 01/04 · 5 个案例**
 
@@ -40,3 +40,21 @@
 
 - [Made Flare 原始提示词网页](https://www.made.app/models/gpt-image-2-6-flare#examples-heading)
 - [Made Sunburst 原始提示词网页](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading)
+
+
+## 第三批 · 2026-11-10 · 03/04（5 个案例）
+
+本批针对 Made Sunburst 两个案例与 Yir GPT Image 2.6 画廊三个案例，使用公开的文字提示词或公开场景描述进行**独立重做**。未将第三方来源图片作为图生图参考或编辑输入，五个原始收录媒体从当前 Git 树删除（旧版本 Git 历史仍可能包含原素材）。
+
+| 原案例 | 新作品 | 描述 | 状态 |
+| --- | --- | --- | --- |
+| [made-sunburst-listening-booth](cases/made-sunburst-listening-booth/README.zh-CN.md) | [预览](assets/recreated/characters-consistency/made-sunburst-listening-booth.webp) | 试听间好友分享耳机 · AI 新生成照片 | 已重做；原图移除 |
+| [made-sunburst-shop-window](cases/made-sunburst-shop-window/README.zh-CN.md) | [预览](assets/recreated/posters-typography/made-sunburst-shop-window.svg) | SECOND SPIN RECORDS 橱窗 · 原创 SVG | 已重做；原图移除 |
+| [yir-ferry-blue-hour](cases/yir-ferry-blue-hour/README.zh-CN.md) | [预览](assets/recreated/characters-consistency/yir-ferry-blue-hour.svg) | 蓝调时刻渡轮 · 原创 SVG | 已重做；原图移除 |
+| [yir-noodle-stall](cases/yir-noodle-stall/README.zh-CN.md) | [预览](assets/recreated/characters-consistency/yir-noodle-stall.svg) | 夜市面摊 · 原创 SVG | 已重做；原图移除 |
+| [yir-flavor-lineup](cases/yir-flavor-lineup/README.zh-CN.md) | [预览](assets/recreated/brand-products/yir-flavor-lineup.svg) | 三口味汽水罐 · 原创 SVG | 已重做；原图移除 |
+
+**方式说明**：试听间是一张重新生成的独立照片；其他四张为根据文字规格编写的 SVG 插画。**这些作品不是经过验证的 GPT Image 2.6 Flare/Sunburst 生成结果**，不能与来源作者的模型自报混淆。Made 原页面公开完整提示词，Yir 对应样例可从原站打开其提示词入口；原作者、原网站链接、模型自报证据继续保留。SVG 排版中的品牌/文字是这批原创版式表达，并非对来源图逐像素复制。
+
+- [Made Sunburst 原始提示词](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading)
+- [Yir 图片案例与提示词入口](https://yir.ai/models/gpt-image-2-6)

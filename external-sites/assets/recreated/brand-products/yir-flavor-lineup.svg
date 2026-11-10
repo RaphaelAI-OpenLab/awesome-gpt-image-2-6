@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024"><defs>
+<linearGradient id="glow" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffe6a8"/><stop offset="1" stop-color="#cb7751"/></linearGradient>
+<linearGradient id="night" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#1a263d"/><stop offset=".5" stop-color="#352b48"/><stop offset="1" stop-color="#13192d"/></linearGradient>
+<linearGradient id="water" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#607b9c"/><stop offset=".4" stop-color="#405676"/><stop offset="1" stop-color="#111f39"/></linearGradient>
+<linearGradient id="cream" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f9f1db"/><stop offset="1" stop-color="#e5ceb0"/></linearGradient>
+<linearGradient id="gold" x1="0" x2=".8" y1="0" y2="1"><stop stop-color="#f9d681"/><stop offset="1" stop-color="#b76d3c"/></linearGradient>
+<linearGradient id="can" x1="0" x2="1"><stop stop-color="#ffffff" stop-opacity=".2"/><stop offset=".25" stop-color="#ffffff" stop-opacity=".6"/><stop offset=".48" stop-color="#ffffff" stop-opacity=".1"/><stop offset=".85" stop-color="#000000" stop-opacity=".2"/><stop offset="1" stop-color="#000000" stop-opacity=".32"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#ffd9a1" stop-opacity=".6"/><stop offset="1" stop-color="#ffd9a1" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="16"/><feOffset dy="12"/><feComponentTransfer><feFuncA type="linear" slope=".3"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+<pattern id="grain" width="43" height="37" patternUnits="userSpaceOnUse"><circle cx="7" cy="9" r="1" fill="#fff" opacity=".09"/><circle cx="30" cy="24" r=".7" fill="#fff" opacity=".06"/><path d="M16 3l2 1" stroke="#fff" opacity=".04"/></pattern>
+</defs><rect width="1024" height="1024" fill="#eae8db"/><rect width="1024" height="1024" fill="#eae8db"/><circle cx="184" cy="132" r="240" fill="#f1d4b8" opacity=".4"/><circle cx="900" cy="200" r="380" fill="#c5dcd2" opacity=".32"/><path d="M0 756H1024V1024H0Z" fill="#c8c5b9"/><rect x="0" y="752" width="1024" height="15" fill="#b1aea1"/>
+<text x="512" y="170" font-family="Arial,sans-serif" font-size="31" text-anchor="middle" letter-spacing="9" fill="#56645e">SMALL BATCH SPARKLING</text>
+<text x="512" y="236" font-family="Georgia,serif" font-size="69" text-anchor="middle" font-weight="bold" fill="#293b39">THREE BRIGHT NOTES</text>
+<g filter="url(#shadow)"><ellipse cx="225" cy="776" rx="119" ry="23" fill="#535652" opacity=".27"/>
+ <rect x="114" y="306" width="222" height="447" rx="46" fill="#f8a650"/>
+ <rect x="114" y="306" width="222" height="447" rx="45" fill="url(#can)"/>
+ <ellipse cx="225" cy="309" rx="111" ry="26" fill="#c2c7c6" stroke="#e9eeee" stroke-width="10"/>
+ <ellipse cx="225" cy="310" rx="80" ry="12" fill="#e0e5e1"/><rect x="195" y="298" width="60" height="9" rx="4" fill="#a2a8a4"/>
+ <path d="M133 357h185" stroke="#ffffff" opacity=".36" stroke-width="3"/>
+ <text x="225" y="424" text-anchor="middle" font-family="Georgia,serif" font-size="39" font-weight="bold" fill="#fffcf2">SOLAR</text>
+ <text x="225" y="457" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#fff9e9">SODA</text>
+ <circle cx="225" cy="565" r="65" fill="#fff8e1" opacity=".45"/>
+ <text x="225" y="592" text-anchor="middle" font-family="Arial,sans-serif" font-size="84" fill="#fff8e1">✳</text>
+ <text x="225" y="689" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="5" fill="#ffffff">CITRUS</text>
+ </g><g filter="url(#shadow)"><ellipse cx="512" cy="776" rx="119" ry="23" fill="#535652" opacity=".27"/>
+ <rect x="401" y="306" width="222" height="447" rx="46" fill="#b65367"/>
+ <rect x="401" y="306" width="222" height="447" rx="45" fill="url(#can)"/>
+ <ellipse cx="512" cy="309" rx="111" ry="26" fill="#c2c7c6" stroke="#e9eeee" stroke-width="10"/>
+ <ellipse cx="512" cy="310" rx="80" ry="12" fill="#e0e5e1"/><rect x="482" y="298" width="60" height="9" rx="4" fill="#a2a8a4"/>
+ <path d="M420 357h185" stroke="#ffffff" opacity=".36" stroke-width="3"/>
+ <text x="512" y="424" text-anchor="middle" font-family="Georgia,serif" font-size="39" font-weight="bold" fill="#fffcf2">SOLAR</text>
+ <text x="512" y="457" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#fff9e9">SODA</text>
+ <circle cx="512" cy="565" r="65" fill="#fff8e1" opacity=".45"/>
+ <text x="512" y="592" text-anchor="middle" font-family="Arial,sans-serif" font-size="84" fill="#fff8e1">●</text>
+ <text x="512" y="689" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="5" fill="#ffffff">BERRY</text>
+ </g><g filter="url(#shadow)"><ellipse cx="799" cy="776" rx="119" ry="23" fill="#535652" opacity=".27"/>
+ <rect x="688" y="306" width="222" height="447" rx="46" fill="#7db695"/>
+ <rect x="688" y="306" width="222" height="447" rx="45" fill="url(#can)"/>
+ <ellipse cx="799" cy="309" rx="111" ry="26" fill="#c2c7c6" stroke="#e9eeee" stroke-width="10"/>
+ <ellipse cx="799" cy="310" rx="80" ry="12" fill="#e0e5e1"/><rect x="769" y="298" width="60" height="9" rx="4" fill="#a2a8a4"/>
+ <path d="M707 357h185" stroke="#ffffff" opacity=".36" stroke-width="3"/>
+ <text x="799" y="424" text-anchor="middle" font-family="Georgia,serif" font-size="39" font-weight="bold" fill="#fffcf2">SOLAR</text>
+ <text x="799" y="457" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#fff9e9">SODA</text>
+ <circle cx="799" cy="565" r="65" fill="#fff8e1" opacity=".45"/>
+ <text x="799" y="592" text-anchor="middle" font-family="Arial,sans-serif" font-size="84" fill="#fff8e1">✦</text>
+ <text x="799" y="689" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="5" fill="#ffffff">GINGER</text>
+ </g><text x="512" y="921" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" letter-spacing="6" fill="#52615c">FRESH · FIZZY · FEARLESS</text><rect width="1024" height="1024" fill="url(#grain)" opacity=".6"/></svg>

@@ -1,5 +1,7 @@
 # Made Sunburst source notes — 2026-11-06
 
+> **2026-11-10 · 第三批历史核对提示**：made-sunburst-listening-booth、made-sunburst-shop-window 对应的旧第三方素材已从当前仓库版本删除，现行图片为独立新制；历史报告中的旧路径仅反映 2026-11-06 的来源检查，不应当作仍有转载许可或当前文件状态。参见 [重做状态](../external-sites/RECREATION_STATUS.md)。
+
 > 2026-11-10 更新：本文是 **2026-11-06 来源原图收录时的历史核验记录**。其中 made-sunburst-crate-digger、made-sunburst-record-sleeve、made-sunburst-stylus-macro、made-sunburst-turntable-diagram 的第三方 JPG 已在独立重做批次中从当前仓库移除，改为另行制作的素材；现行版本请见 [重做状态](../external-sites/RECREATION_STATUS.md)。注意 Git 历史中仍存在之前的原文件。
 
 

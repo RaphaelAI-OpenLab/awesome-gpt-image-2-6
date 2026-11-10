@@ -1,5 +1,7 @@
 # 01 yir gallery / 来源说明
 
+> **2026-11-10 · 第三批历史核对提示**：yir-ferry-blue-hour、yir-noodle-stall、yir-flavor-lineup 对应的旧第三方素材已从当前仓库版本删除，现行图片为独立新制；历史报告中的旧路径仅反映 2026-11-06 的来源检查，不应当作仍有转载许可或当前文件状态。参见 [重做状态](../external-sites/RECREATION_STATUS.md)。
+
 This is a source-attributed collection, not an independent reproduction or benchmark. Files are unchanged public-source copies collected on 2026-11-05. Local source, file and privacy checks were repeated on 2026-11-06; no network access was tested in that audit. Current availability may differ. No image generation was run.
 
 No explicit redistribution license was verified. Attribution, public availability and provider claims do not grant permission or an open license. Third-party media are not covered by the repository MIT license. Customer-output commercial-use terms are not licenses for the provider’s public sample files.
