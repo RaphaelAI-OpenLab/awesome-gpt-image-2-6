@@ -8,22 +8,21 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。
+一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：依据公开文字提示词重新制作原创矢量插画，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。
 
 ## 图片 / GIF
 
-![一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。](../../../external-sites/assets/examples/made-flare-dumpling-box/source-01.jpg)
+![一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。](../../../external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg)
 
-- [一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。](https://www.made.app/images/models/gpt-image-2-6-flare/dumpling-box.jpg) · image
-  - 署名：Made / Made Inc.
-  - 使用条件：source-attributed. 原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。
-  - [来源 / 权利依据](https://www.made.app/models/gpt-image-2-6-flare#examples-heading)
+- [一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg) · image
+  - 署名：RaphaelAI-OpenLab
+  - 使用条件：original. 仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。
 
 ## 原帖与素材获取状态
 
 - 核对日期：2026-11-05 (UTC)
 - 原帖：可打开. 2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。
-- 素材：已存入仓库. 2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。
+- 素材：已存入仓库. 2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。
 - [逐项尝试与结果](../../../docs/MADE_FLARE_SOURCES_2026-11-06.md)
 
 ## 原始提示词

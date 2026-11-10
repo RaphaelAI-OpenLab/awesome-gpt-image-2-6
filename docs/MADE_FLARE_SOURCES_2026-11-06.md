@@ -1,5 +1,8 @@
 # Made Flare source notes — 2026-11-06
 
+> 2026-11-10 更新：本文记录的是 **2026-11-06 的历史来源素材检查**，不是当前 Git 文件状态。首批五例（vendor-flash、noodle-menu、dumpling-box、market-aerial、market-map）的来源 JPG 已于后续重做中移除，已改用原创素材；参见 [重做状态](../external-sites/RECREATION_STATUS.md)。剩余案例仍按其各自条目核验。
+
+
 Six distinct examples from Made’s [GPT Image 2.6 Flare original-results gallery](https://www.made.app/models/gpt-image-2-6-flare#examples-heading). Creator credit: Made / Made Inc. This is a third-party provider gallery, not an official OpenAI publication.
 
 ## Evidence and limitations

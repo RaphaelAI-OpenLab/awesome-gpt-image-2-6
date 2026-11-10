@@ -3165,31 +3165,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/vendor-flash.jpg",
-        "path": "external-sites/assets/examples/made-flare-vendor-flash/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-flare-vendor-flash.webp",
+        "path": "external-sites/assets/recreated/characters-consistency/made-flare-vendor-flash.webp",
         "kind": "image",
         "alt": {
           "en": "A smiling vendor turns skewers over a smoky night-market grill.",
           "zh-CN": "微笑的摊主在烟雾缭绕的夜市烤架上翻动烤串。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": null,
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Independent AI-generated photograph created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.",
+            "zh-CN": "仓库于 2026-11-10 依据公开文字创意独立制作新照片，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。"
           }
         },
-        "sha256": "9038e45261a8775a96c5ccfab5a9eecc5b397c93e07427027d4d4e5c498b36a5",
-        "bytes": 184022,
-        "mime_type": "image/jpeg",
+        "sha256": "f1966f1c95f1ba95fbd0c7985e2ca0ac68e8f2109a470fd6b255285cf04e5541",
+        "bytes": 124782,
+        "mime_type": "image/webp",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A smiling vendor turns skewers over a smoky night-market grill. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
-      "zh-CN": "微笑的摊主在烟雾缭绕的夜市烤架上翻动烤串。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+      "en": "A smiling vendor turns skewers over a smoky night-market grill. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation was verified. This single image does not establish cross-image character consistency. Recreated on 2026-11-10 as an independent AI-generated photograph based on the public textual concept. The original third-party image was removed from this repository. This new artwork is not independently verified as a GPT Image 2.6 model result.",
+      "zh-CN": "微笑的摊主在烟雾缭绕的夜市烤架上翻动烤串。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 本单图不构成跨图角色一致性的证据。 已重做（2026-11-10）：依据公开文字提示词重新制作新生成照片，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3203,8 +3203,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the archived third-party image was removed from the repository and replaced by independent artwork.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
@@ -3238,31 +3238,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/noodle-menu.jpg",
-        "path": "external-sites/assets/examples/made-flare-noodle-menu/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg",
+        "path": "external-sites/assets/recreated/posters-typography/made-flare-noodle-menu.svg",
         "kind": "image",
         "alt": {
           "en": "A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles.",
           "zh-CN": "发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": null,
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.",
+            "zh-CN": "仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。"
           }
         },
-        "sha256": "50b1702959b06f3c95a339dde85aacc22a7e4444971ee52423cb090d16a15f04",
-        "bytes": 163272,
-        "mime_type": "image/jpeg",
+        "sha256": "5403f31a212cd3fa0995b7314c505d309158bac639c9029b5d6e7a4a11c8499a",
+        "bytes": 7193,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "A glowing HAND-PULLED NOODLES menu with three dishes and prices above a cook stretching noodles. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation was verified. Recreated on 2026-11-10 as an independent vector illustration based on the public textual concept. The original third-party image was removed from this repository. This new artwork is not independently verified as a GPT Image 2.6 model result.",
+      "zh-CN": "发光的 HAND-PULLED NOODLES 菜单列出三道菜和价格，下方厨师正在拉面。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：依据公开文字提示词重新制作原创矢量插画，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3276,8 +3276,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the archived third-party image was removed from the repository and replaced by independent artwork.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
@@ -3311,31 +3311,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/dumpling-box.jpg",
-        "path": "external-sites/assets/examples/made-flare-dumpling-box/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg",
+        "path": "external-sites/assets/recreated/brand-products/made-flare-dumpling-box.svg",
         "kind": "image",
         "alt": {
           "en": "A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid.",
           "zh-CN": "一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": null,
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.",
+            "zh-CN": "仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。"
           }
         },
-        "sha256": "e74cbe606939d1965a6335c2efde031ab8bb4d8b96e078268058a97e40cdfab6",
-        "bytes": 177325,
-        "mime_type": "image/jpeg",
+        "sha256": "f424c35666b655e02bc07554b1103c551741add61888ad8fec020079f636af05",
+        "bytes": 8310,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "A hand holds an open box of browned dumplings with a STEAMED DAILY sticker on the lid. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation was verified. Recreated on 2026-11-10 as an independent vector illustration based on the public textual concept. The original third-party image was removed from this repository. This new artwork is not independently verified as a GPT Image 2.6 model result.",
+      "zh-CN": "一只手举着打开的煎饺纸盒，盒盖上有 STEAMED DAILY 贴纸。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：依据公开文字提示词重新制作原创矢量插画，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3349,8 +3349,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the archived third-party image was removed from the repository and replaced by independent artwork.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
@@ -3384,31 +3384,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/market-aerial.jpg",
-        "path": "external-sites/assets/examples/made-flare-market-aerial/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/interiors-architecture/made-flare-market-aerial.svg",
+        "path": "external-sites/assets/recreated/interiors-architecture/made-flare-market-aerial.svg",
         "kind": "image",
         "alt": {
           "en": "An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground.",
           "zh-CN": "俯视拥挤夜市的广角画面，前景孩子骑在大人肩上。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": null,
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.",
+            "zh-CN": "仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。"
           }
         },
-        "sha256": "37859be2c986ebb7b701e350a860b3dcbc419374abe95c97d419191247854b9d",
-        "bytes": 199399,
-        "mime_type": "image/jpeg",
+        "sha256": "dfcc9ad5eccd524d576f279e7689bd2fa181cb3b7d91cba9b1dd122e7647f34d",
+        "bytes": 27051,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "俯视拥挤夜市的广角画面，前景孩子骑在大人肩上。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "An elevated wide-angle view down a crowded night market, with a child riding on an adult’s shoulders in the foreground. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation was verified. Recreated on 2026-11-10 as an independent vector illustration based on the public textual concept. The original third-party image was removed from this repository. This new artwork is not independently verified as a GPT Image 2.6 model result.",
+      "zh-CN": "俯视拥挤夜市的广角画面，前景孩子骑在大人肩上。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：依据公开文字提示词重新制作原创矢量插画，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3422,8 +3422,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the archived third-party image was removed from the repository and replaced by independent artwork.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
@@ -3457,31 +3457,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/market-map.jpg",
-        "path": "external-sites/assets/examples/made-flare-market-map/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/infographics/made-flare-market-map.svg",
+        "path": "external-sites/assets/recreated/infographics/made-flare-market-map.svg",
         "kind": "image",
         "alt": {
           "en": "A cream NIGHT MARKET poster shows six numbered stalls and a matching food legend.",
           "zh-CN": "米色 NIGHT MARKET 海报展示六个编号摊位及对应食品图例。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": null,
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Independent vector illustration created on 2026-11-10 from a public textual concept without reusing original pixels. Not an independently verified GPT Image 2.6 result; original Made source credited separately.",
+            "zh-CN": "仓库于 2026-11-10 依据公开文字创意独立制作矢量插画，未使用第三方原图像素。不是经独立验证的 GPT Image 2.6 模型输出，保留 Made 原始来源署名。"
           }
         },
-        "sha256": "7a2a319872b37adeca4577695971b09454d71c9f73a461cc56ed15522b0110d4",
-        "bytes": 248679,
-        "mime_type": "image/jpeg",
+        "sha256": "32db506c9c21131c0de6fe89c94b6bca3013562229a9b71f90df17be7faa2e47",
+        "bytes": 6227,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A cream NIGHT MARKET poster shows six numbered stalls and a matching food legend. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "米色 NIGHT MARKET 海报展示六个编号摊位及对应食品图例。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "A cream NIGHT MARKET poster shows six numbered stalls and a matching food legend. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independent GPT Image 2.6 generation was verified. Recreated on 2026-11-10 as an independent vector illustration based on the public textual concept. The original third-party image was removed from this repository. This new artwork is not independently verified as a GPT Image 2.6 model result.",
+      "zh-CN": "米色 NIGHT MARKET 海报展示六个编号摊位及对应食品图例。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未独立核验 GPT Image 2.6 生成。 已重做（2026-11-10）：依据公开文字提示词重新制作原创矢量插画，未使用外站原图作为输入；第三方原图已从仓库移除，新图不属于独立核验的 GPT Image 2.6 输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3495,8 +3495,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10 the archived third-party image was removed from the repository and replaced by independent artwork.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10 已从仓库移除第三方原图，替换为独立自制素材。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
