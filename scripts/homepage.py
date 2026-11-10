@@ -16,7 +16,7 @@ def render_home(config, prompts, language, render_prompt):
         return [f'<a id="{anchor}"></a>', '', '## ' + c(en, cn), '']
     def case_link(item):
         return md_link(localized(item['title'], language), '#source-case-' + item['id'])
-    lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/header.svg)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
+    lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/hero/raphael-gpt-image-2-6-hero-v1.png)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
              '# 🚀 ' + title + ' Prompts', '',
              repo_badges(config, language), '',
              '> 🎨 ' + c('A curated collection of creative prompts and visual examples for GPT Image 2.6.', 'GPT Image 2.6 创意提示词与案例精选合集。'), '',

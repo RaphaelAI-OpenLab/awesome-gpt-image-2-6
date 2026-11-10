@@ -33,7 +33,7 @@
 - `categories[].website_url`：分类网页真正存在时填写；现在全部是 `null`，导航指向本仓库内部。
 - `cross_promo`：给后续新模型、活动或新仓库留的顶栏位置。默认关闭；详见 [网站链接位置图](LINK_MAP.zh-CN.md)。
 
-修改模型或品牌以复用到下一代仓库时，也要同步调整 `assets/header.svg` 中的标题、版本和品牌署名字样。其余品牌链接由配置生成。
+首页封面使用 `assets/hero/raphael-gpt-image-2-6-hero-v1.png`，由 `scripts/homepage.py` 统一引用到 16 种语言的 README。修改模型或品牌时，先准备对应的新封面，再同步更新生成器与 `scripts/validate.py` 的封面路径。旧版 `assets/header.svg` 保留作历史素材。其余品牌链接由配置生成。
 
 ## 3. 添加第一条真实记录
 

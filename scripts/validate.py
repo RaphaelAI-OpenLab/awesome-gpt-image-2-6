@@ -480,7 +480,7 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         if not is_external_site(item):
             errors.append(f"{item['id']}: 官方、社媒、内容社区及 GitHub 来源应留在主合集")
     validate_prompts(config, prompts, errors, warnings, release=release)
-    for asset in ("assets/header.svg", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
+    for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)
     if release:
         if not published(prompts):
