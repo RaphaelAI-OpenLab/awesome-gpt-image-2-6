@@ -8,22 +8,22 @@
 
 **作者自报模型 · 仅核对来源；未独立复现**
 
-身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。
+身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 本单图不构成跨图角色一致性的证据。 已重做（2026-11-10）：依据来源公开文字提示词独立制作AI 新生成雨夜照片，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。
 
 ## 图片 / GIF
 
-![身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。](../../../external-sites/assets/examples/made-flare-rain-stall/source-01.jpg)
+![身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。](../../../external-sites/assets/recreated/characters-consistency/made-flare-rain-stall.webp)
 
-- [身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。](https://www.made.app/images/models/gpt-image-2-6-flare/rain-stall.jpg) · image
-  - 署名：Made / Made Inc.
-  - 使用条件：source-attributed. 原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。
-  - [来源 / 权利依据](https://www.made.app/models/gpt-image-2-6-flare#examples-heading)
+- [身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-flare-rain-stall.webp) · image
+  - 署名：RaphaelAI-OpenLab
+  - 使用条件：original. 维护方依据公开文字创意独立制作AI 新生成雨夜照片，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。
+  - [来源 / 权利依据](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md)
 
 ## 原帖与素材获取状态
 
 - 核对日期：2026-11-05 (UTC)
 - 原帖：可打开. 2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。
-- 素材：已存入仓库. 2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。
+- 素材：已存入仓库. 2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。
 - [逐项尝试与结果](../../../docs/MADE_FLARE_SOURCES_2026-11-06.md)
 
 ## 原始提示词

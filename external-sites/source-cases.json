@@ -3530,31 +3530,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-flare/rain-stall.jpg",
-        "path": "external-sites/assets/examples/made-flare-rain-stall/source-01.jpg",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-flare-rain-stall.webp",
+        "path": "external-sites/assets/recreated/characters-consistency/made-flare-rain-stall.webp",
         "kind": "image",
         "alt": {
           "en": "A customer in a yellow raincoat stands under a clear awning beside a steaming wok stall in the rain.",
           "zh-CN": "身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-curated AI-generated photographic image recreated from a public text-only concept, not the original third-party image. No pixels from the original artwork were used. This replacement is not an independently verified GPT Image 2.6 result; Made is still credited as the source of the reference case.",
+            "zh-CN": "维护方依据公开文字创意独立制作AI 新生成雨夜照片，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。"
           }
         },
-        "sha256": "bcf6fbeaac430e2b4f58e5eba634607e9b8cd955bca1ab205b6f1e63c8e4fd7c",
-        "bytes": 207446,
-        "mime_type": "image/jpeg",
+        "sha256": "70da8405c63a039f7a137677ab2c29657f6774547ae535dbb69e175774042397",
+        "bytes": 264466,
+        "mime_type": "image/webp",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A customer in a yellow raincoat stands under a clear awning beside a steaming wok stall in the rain. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
-      "zh-CN": "身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+      "en": "A customer in a yellow raincoat stands under a clear awning beside a steaming wok stall in the rain. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independently verified GPT Image 2.6 generation was performed. This single image does not establish cross-image character consistency. Recreated on 2026-11-10 from the public textual prompt as AI-generated photographic image, without using the original source image. The prior third-party JPG is removed from the repository; this replacement is NOT a verified GPT Image 2.6 model output.",
+      "zh-CN": "身穿黄色雨衣的顾客在透明雨棚下站在热气腾腾的炒锅摊旁。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 本单图不构成跨图角色一致性的证据。 已重做（2026-11-10）：依据来源公开文字提示词独立制作AI 新生成雨夜照片，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3568,8 +3568,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10, the originally archived third-party JPEG was removed from this repository; a distinct original replacement is stored under categorized recreated assets.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。"
       },
       "report_path": "docs/MADE_FLARE_SOURCES_2026-11-06.md"
     }
@@ -3603,31 +3603,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/crate-digger.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-crate-digger/source-01.jpg",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/characters-consistency/made-sunburst-crate-digger.svg",
+        "path": "external-sites/assets/recreated/characters-consistency/made-sunburst-crate-digger.svg",
+        "kind": "svg",
         "alt": {
           "en": "A low-angle view of a smiling man browsing record crates in a narrow shop.",
           "zh-CN": "低角度画面展示一名微笑男子在狭窄店铺中翻找唱片。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-curated original vector illustration recreated from a public text-only concept, not the original third-party image. No pixels from the original artwork were used. This replacement is not an independently verified GPT Image 2.6 result; Made is still credited as the source of the reference case.",
+            "zh-CN": "维护方依据公开文字创意独立制作原创唱片店矢量插画，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。"
           }
         },
-        "sha256": "c0ac30250f079db93de7ac05ddf00ef496a0359dd4673c6da661495473cf2f52",
-        "bytes": 161029,
-        "mime_type": "image/jpeg",
+        "sha256": "0191f36ea51609e9cf5017728caa67a812c6234b50107b8ab3a83cc3b2b4e234",
+        "bytes": 34004,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A low-angle view of a smiling man browsing record crates in a narrow shop. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run. This single image does not establish cross-image character consistency.",
-      "zh-CN": "低角度画面展示一名微笑男子在狭窄店铺中翻找唱片。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。 本单图不构成跨图角色一致性的证据。"
+      "en": "A low-angle view of a smiling man browsing record crates in a narrow shop. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independently verified GPT Image 2.6 generation was performed. This single image does not establish cross-image character consistency. Recreated on 2026-11-10 from the public textual prompt as original vector illustration, without using the original source image. The prior third-party JPG is removed from the repository; this replacement is NOT a verified GPT Image 2.6 model output.",
+      "zh-CN": "低角度画面展示一名微笑男子在狭窄店铺中翻找唱片。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 本单图不构成跨图角色一致性的证据。 已重做（2026-11-10）：依据来源公开文字提示词独立制作原创唱片店矢量插画，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3641,8 +3641,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10, the originally archived third-party JPEG was removed from this repository; a distinct original replacement is stored under categorized recreated assets.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
@@ -3676,31 +3676,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/record-sleeve.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-record-sleeve/source-01.jpg",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/posters-typography/made-sunburst-record-sleeve.svg",
+        "path": "external-sites/assets/recreated/posters-typography/made-sunburst-record-sleeve.svg",
+        "kind": "svg",
         "alt": {
           "en": "An AFTER HOURS record sleeve with a four-line track list and geometric brown and cobalt shapes beside a turntable.",
           "zh-CN": "唱机旁的 AFTER HOURS 唱片封套印有四行曲目及棕色、钴蓝色几何图形。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-curated original vector illustration recreated from a public text-only concept, not the original third-party image. No pixels from the original artwork were used. This replacement is not an independently verified GPT Image 2.6 result; Made is still credited as the source of the reference case.",
+            "zh-CN": "维护方依据公开文字创意独立制作原创唱片封套矢量插画，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。"
           }
         },
-        "sha256": "10b05c59a14250a926863fb27a4056a0f3ce10b652459c0615b28bc3f04e6bf7",
-        "bytes": 137823,
-        "mime_type": "image/jpeg",
+        "sha256": "6af4a51df30b5a38590bafc987aaa7a02f8c373010135ed6606ea12b26d890d2",
+        "bytes": 4115,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "An AFTER HOURS record sleeve with a four-line track list and geometric brown and cobalt shapes beside a turntable. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "唱机旁的 AFTER HOURS 唱片封套印有四行曲目及棕色、钴蓝色几何图形。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "An AFTER HOURS record sleeve with a four-line track list and geometric brown and cobalt shapes beside a turntable. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independently verified GPT Image 2.6 generation was performed. Recreated on 2026-11-10 from the public textual prompt as original vector illustration, without using the original source image. The prior third-party JPG is removed from the repository; this replacement is NOT a verified GPT Image 2.6 model output.",
+      "zh-CN": "唱机旁的 AFTER HOURS 唱片封套印有四行曲目及棕色、钴蓝色几何图形。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 已重做（2026-11-10）：依据来源公开文字提示词独立制作原创唱片封套矢量插画，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3714,8 +3714,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10, the originally archived third-party JPEG was removed from this repository; a distinct original replacement is stored under categorized recreated assets.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
@@ -3749,31 +3749,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/stylus-macro.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-stylus-macro/source-01.jpg",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/brand-products/made-sunburst-stylus-macro.svg",
+        "path": "external-sites/assets/recreated/brand-products/made-sunburst-stylus-macro.svg",
+        "kind": "svg",
         "alt": {
           "en": "An extreme close-up of a stylus touching vinyl grooves, with dust and a blue cartridge accent.",
           "zh-CN": "唱针接触黑胶沟槽的特写，可见灰尘及唱头上的蓝色部件。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-curated original vector illustration recreated from a public text-only concept, not the original third-party image. No pixels from the original artwork were used. This replacement is not an independently verified GPT Image 2.6 result; Made is still credited as the source of the reference case.",
+            "zh-CN": "维护方依据公开文字创意独立制作原创唱针微距矢量插画，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。"
           }
         },
-        "sha256": "ba62b97e19beb290ae44ee5dd1aa7ad393c3fa6df267fcb082aadf127826d6fe",
-        "bytes": 113760,
-        "mime_type": "image/jpeg",
+        "sha256": "d068e3bd24e50fad408c77776886b8d16e00bec27cf41b158ad73cb058199036",
+        "bytes": 15795,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "An extreme close-up of a stylus touching vinyl grooves, with dust and a blue cartridge accent. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "唱针接触黑胶沟槽的特写，可见灰尘及唱头上的蓝色部件。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "An extreme close-up of a stylus touching vinyl grooves, with dust and a blue cartridge accent. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independently verified GPT Image 2.6 generation was performed. Recreated on 2026-11-10 from the public textual prompt as original vector illustration, without using the original source image. The prior third-party JPG is removed from the repository; this replacement is NOT a verified GPT Image 2.6 model output.",
+      "zh-CN": "唱针接触黑胶沟槽的特写，可见灰尘及唱头上的蓝色部件。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 已重做（2026-11-10）：依据来源公开文字提示词独立制作原创唱针微距矢量插画，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3787,8 +3787,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10, the originally archived third-party JPEG was removed from this repository; a distinct original replacement is stored under categorized recreated assets.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }
@@ -3822,31 +3822,31 @@
     },
     "media": [
       {
-        "source_url": "https://www.made.app/images/models/gpt-image-2-6-sunburst/turntable-diagram.jpg",
-        "path": "external-sites/assets/examples/made-sunburst-turntable-diagram/source-01.jpg",
-        "kind": "image",
+        "source_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/assets/recreated/infographics/made-sunburst-turntable-diagram.svg",
+        "path": "external-sites/assets/recreated/infographics/made-sunburst-turntable-diagram.svg",
+        "kind": "svg",
         "alt": {
           "en": "A labeled exploded turntable illustration shows the platter, tonearm, cartridge, stylus, counterweight, belt, motor and plinth.",
           "zh-CN": "带标签的唱机分解图展示转盘、唱臂、唱头、唱针、配重、皮带、电机及底座。"
         },
         "rights": {
-          "status": "source-attributed",
-          "evidence_url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
-          "credit": "Made / Made Inc.",
+          "status": "original",
+          "evidence_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/blob/main/external-sites/RECREATION_STATUS.md",
+          "credit": "RaphaelAI-OpenLab",
           "note": {
-            "en": "Unmodified public-source archival copy. No explicit redistribution license verified. Public access and attribution are not permission; the repository MIT license does not cover this image.",
-            "zh-CN": "原样存档的公开来源文件。未核实明确转载许可。公开访问与署名不等于授权；仓库 MIT 许可不覆盖此图片。"
+            "en": "Repository-curated original technical vector diagram recreated from a public text-only concept, not the original third-party image. No pixels from the original artwork were used. This replacement is not an independently verified GPT Image 2.6 result; Made is still credited as the source of the reference case.",
+            "zh-CN": "维护方依据公开文字创意独立制作原创唱机分解示意图，未以第三方原图作为输入或复用原图像素。此重做素材未通过 GPT Image 2.6 模型身份验证；Made 仍作为原始参考案例的来源署名。"
           }
         },
-        "sha256": "c5fae845e940d63326adc449f7c500216b8629e8fb09ef6e6a627d3b8e055bfb",
-        "bytes": 147837,
-        "mime_type": "image/jpeg",
+        "sha256": "387352dbef21a2bc7e47ffa61366f1565a7158baeca18850b4219c1215362f9c",
+        "bytes": 5099,
+        "mime_type": "image/svg+xml",
         "role": "output"
       }
     ],
     "notes": {
-      "en": "A labeled exploded turntable illustration shows the platter, tonearm, cartridge, stylus, counterweight, belt, motor and plinth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No generation was run.",
-      "zh-CN": "带标签的唱机分解图展示转盘、唱臂、唱头、唱针、配重、皮带、电机及底座。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未执行生成。"
+      "en": "A labeled exploded turntable illustration shows the platter, tonearm, cartridge, stylus, counterweight, belt, motor and plinth. Archived source JPEG: 1024 × 1024. A public prompt for this item was recorded during the source inspection on 2026-11-05. The link is retained as source-only; the prompt wording was not independently rechecked in the later review. Generation settings and reference inputs were not independently verified; playground defaults and advertised maximum sizes are not example settings. No independently verified GPT Image 2.6 generation was performed. Recreated on 2026-11-10 from the public textual prompt as original technical vector diagram, without using the original source image. The prior third-party JPG is removed from the repository; this replacement is NOT a verified GPT Image 2.6 model output.",
+      "zh-CN": "带标签的唱机分解图展示转盘、唱臂、唱头、唱针、配重、皮带、电机及底座。 存档来源 JPEG 为 1024 × 1024。2026-11-05 的来源检查逐项记录了本例的公开提示词。保留原始来源链接；后续复核未独立重查提示词措辞。未独立核实生成设置及参考输入；体验区默认值和宣传的最大尺寸并非本案例设置。未进行独立核验的 GPT Image 2.6 生成。 已重做（2026-11-10）：依据来源公开文字提示词独立制作原创唱机分解示意图，未将原图片作为编辑输入。旧第三方 JPG 从仓库移除；新图并非经独立核实的 GPT Image 2.6 模型输出。"
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
@@ -3860,8 +3860,8 @@
         "zh-CN": "2026-11-05 检查了公开画廊，逐项记录作品标签、准确媒体地址及公开提示词的存在性。2026-11-06 的复核使用已保存的观察记录和本地文件，未重新检查来源可访问性或独立重查提示词措辞。"
       },
       "media_note": {
-        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant.",
-        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。"
+        "en": "The source image was downloaded directly without login on 2026-11-05. The retained JPEG was checked again on 2026-11-06 for magic bytes, MIME, full decode, dimensions, byte count, SHA-256 and embedded metadata. The labelled contact sheet was visually reviewed. Embedded provenance was not cryptographically validated and does not verify the named model variant. On 2026-11-10, the originally archived third-party JPEG was removed from this repository; a distinct original replacement is stored under categorized recreated assets.",
+        "zh-CN": "2026-11-05 无需登录直接下载来源图片。2026-11-06 再次核查已保存 JPEG 的文件头、MIME、完整解码、尺寸、字节数、SHA-256 及嵌入元数据，并目视检查带标签的联系表。未对嵌入来源凭证进行密码学验证，其内容不能证实所标模型变体。 2026-11-10，原入库第三方 JPG 已从仓库移除，替换为按用途分类存储的独立自制作品。"
       },
       "report_path": "docs/MADE_SUNBURST_SOURCES_2026-11-06.md"
     }

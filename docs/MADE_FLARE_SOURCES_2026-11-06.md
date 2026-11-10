@@ -1,5 +1,8 @@
 # Made Flare source notes — 2026-11-06
 
+> 2026-11-10 更新：本文是 **2026-11-06 来源原图收录时的历史核验记录**。其中 made-flare-rain-stall 的第三方 JPG 已在独立重做批次中从当前仓库移除，改为另行制作的素材；现行版本请见 [重做状态](../external-sites/RECREATION_STATUS.md)。注意 Git 历史中仍存在之前的原文件。
+
+
 > 2026-11-10 更新：本文记录的是 **2026-11-06 的历史来源素材检查**，不是当前 Git 文件状态。首批五例（vendor-flash、noodle-menu、dumpling-box、market-aerial、market-map）的来源 JPG 已于后续重做中移除，已改用原创素材；参见 [重做状态](../external-sites/RECREATION_STATUS.md)。剩余案例仍按其各自条目核验。
 
 
