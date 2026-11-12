@@ -4,18 +4,25 @@
 
 ## Data sources / 数据源
 
-### 主合集与外站素材
+### 收录范围
 
-按来源分类表的“直接收录页面类别”拆分：官方、社媒与论坛、内容发布社区及 GitHub 示例保留在主合集；“其他独立网站”275 个案例移入 [外站素材目录](../external-sites/README.md)，其中包含 3 个来源表述有冲突的 Kavel 案例，歧义记录保留。
+仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例。来源案例统一写入 `content/source-cases.json`，中英文详情页位于 `cases/<id>/README*.md`。
 
-外站数据源为 `external-sites/source-cases.json`，详情页为 `external-sites/cases/<id>/README*.md`，输出与参考输入分别存放于 `external-sites/assets/examples/<id>/`、`external-sites/assets/references/<id>/`。原用途分类保留为历史元数据，外站案例不计入主 README 的分类、精选、最近收录和统计。生成器同时维护两个合集，校验器检查两者的数据、素材、重复 ID 和链接，并阻止外站来源混回主合集。
+生成器维护案例索引与详情页；校验器检查数据、素材、重复 ID、本地链接和直接来源范围。其他独立网站的案例、素材及专属报告不在本仓库保存。
+
+### 场景、风格与主题导航
+
+`content/browse.json` 维护首页“按分类浏览”的三组导航：使用场景、风格、主题。每个子类通过 `case_ids` 关联已发布案例，案例链接跳到 README 中的完整图片、提示词和来源。使用场景每类默认随机展示 3 个案例，其余放在“展开其余 N 个案例”中；不足 3 个时全部展示。抽样使用固定种子，确保多语言选取一致、重复生成稳定；刷新 GitHub 页面不会重新抽样。风格与主题默认展开全部案例。
+
+新增案例时至少选择一个使用场景；风格与主题依据现有作品、原文提示词或来源说明填写，同一案例可属于多个子类。不要按文件格式推定风格。新增标签需同步更新 16 种语言的界面译文。原有 `category` 字段继续用于正文分组，独立于三维导航。
+
+精选由 `site.config.json` 中 `presentation.featured_case_ids` 按稳定案例 ID 指定顺序，`featured_limit` 控制展示上限；同步维护案例数据中的 `featured` 标记。精选保留全部案例中的编号，按“素材图片 → 原始提示词 → 作者与来源”完整展开，图片与 GIF 可混合排列；未公开提示词继续明确标记，静态海报不冒充 GIF。
 
 - `content/source-cases.json`: source-linked cases, including works without public prompts. Both languages are required. The schema is `content/source-cases.schema.json`.
 - `content/prompts.json`: complete original prompts and reproducibility metadata. This dataset keeps its existing schema. Do not copy a source-case record into it without the actual prompt and appropriate reuse terms.
 - `docs/CASE_GALLERY.md`: dated research record, including media reports and unresolved leads. It is historical context, not the live case count.
-- `docs/PENDING_MODEL_LEADS_2026-11-08.md`: [50 unconfirmed leads / 50条模型或来源待核线索](PENDING_MODEL_LEADS_2026-11-08.md). Includes 22 model holds and 28 source-blocked holds. Documentation only, not verified GPT Image 2.6 works and not part of the published case count. 仅存线索，不代表确认使用2.6，不计入已发布案例。
-- `docs/PENDING_REMAINING_LEADS_2026-11-09.md`: [66 additional leads on hold / 另66条存量暂缓线索](PENDING_REMAINING_LEADS_2026-11-09.md). Historical evidence and access/reuse holds only; not confirmed cases and excluded from published counts. 仅登记已有证据及访问／使用限制，不新增正式案例。
-- 不直接编辑自动生成的 README 或案例详情页。主合集已发布案例展示在主 README 分类中，外站案例仅在独立目录按来源网站展示；两者均保留中英文详情页。
+- 待核线索见 [模型或来源待核线索](PENDING_MODEL_LEADS_2026-11-08.md) 与 [其他存量待核线索](PENDING_REMAINING_LEADS_2026-11-09.md)。两份文档仅保留收录范围内的来源记录，不代表已确认使用 2.6，也不计入已发布案例。
+- 不直接编辑自动生成的 README 或案例详情页。已发布案例展示在主 README 分类中，并保留中英文详情页。
 
 ### README 图片与提示词展示
 
@@ -49,7 +56,7 @@ An unverified prompt does not relax any publication requirement for the case's e
 
 ## Add a source case / 添加来源案例
 
-1. 复制同类记录或 [来源案例模板](../templates/source-case.json)。其他独立网站写入 `external-sites/source-cases.json`，主合集来源写入 `content/source-cases.json`。ID 必须在两个合集及完整提示词数据中保持唯一；证据不完整时保留 `status: draft`，草稿只存在于公开 JSON，不生成展示页。
+1. 复制同类记录或 [来源案例模板](../templates/source-case.json)，写入 `content/source-cases.json`。ID 必须在来源案例及完整提示词数据中保持唯一；证据不完整时保留 `status: draft`，草稿只存在于公开 JSON，不生成展示页。
 2. Record the exact source URL, creator and model evidence for that specific work. A page mentioning 2.6 does not prove every image used it. Use `variants: ["unspecified"]` when the variant is unknown.
 3. Add English and Chinese titles, notes and evidence, an existing category, and ISO collection/check dates. Community creator claims use `source.type: community`, not independent verification.
 4. For a verified public original prompt, set `prompt.status: source-only` and its exact HTTPS URL. Use `not-public` when the original prompt is confirmed not publicly provided in the reviewed source, including directly observed absence. Use `unverified` when public availability was not checked or could not be established. Both latter statuses require `url: null`; always retain the exact original post in `source.url`.
@@ -60,7 +67,7 @@ An unverified prompt does not relax any publication requirement for the case's e
 
 素材必须记录来源与真实使用状态。公开可见、注明来源、AI 生成、出现在官方网页，均不自动等于获得转载许可。可正常获取且未发现明确禁止的公开案例可原样存档，使用 `source-attributed` 明确标注未找到转载许可证；这不是开放许可或法律结论。首页版权声明不自动赋予许可。明确限制必须遵守，不绕过访问控制。
 
-- 主合集输出存放于 `assets/examples/<id>/`，参考输入存放于 `assets/references/<id>/`。外站案例在上述路径前加 `external-sites/`，且数据内的 `media.path` 从仓库根目录开始记录。不使用图片、GIF 或 SVG 外链展示。
+- 输出存放于 `assets/examples/<id>/`，参考输入存放于 `assets/references/<id>/`；数据内的 `media.path` 从仓库根目录开始记录。不使用图片、GIF 或 SVG 外链展示。
 - Each source-case media object records its original `source_url`, local `path`, `kind` (`image`, `gif`, `svg`, `poster`, `video`), bilingual alt text and `rights`. Use `role: reference` for input/reference files in `assets/references/<id>/`, and `role: output` for generated outputs. Local files also require actual `mime_type`, `bytes` and SHA-256 `sha256`; the validator checks bytes, extension and media kind.
 - Use `licensed`, `permission` or `original` only when supported. `source-attributed` records a public example archived with its exact original source and an explicit note that a redistribution license was not located; do not present it as permission or an open license. Record `rights.evidence_url` as an exact HTTPS license/permission link, the exact original source for source-attributed media, or a public-safe in-repository evidence file. Include `credit` and bilingual limitations in `note`. Do not upload private email, secrets or personal data as evidence.
 - A `link-only` object must not have a local path. Local media must have source/rights evidence, exist at the required path and be at most 10 MiB each. A static poster is not a GIF; label it correctly.

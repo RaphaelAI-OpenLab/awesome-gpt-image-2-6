@@ -1,6 +1,6 @@
 # 填充指南
 
-主合集来源案例由 `content/source-cases.json` 维护，展示在主 README 分类中；其他独立网站的案例由 `external-sites/source-cases.json` 维护，案例详情与素材集中放入[外站素材目录](../external-sites/README.md)，不计入主合集分类和统计。完整提示词由 `content/prompts.json` 单独维护。首页中标明占位的图片是原创示意，不是模型输出。最新数量以各目录自动统计为准。
+仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例。来源案例由 `content/source-cases.json` 维护，展示在主 README 分类中；中英文详情页位于 `cases/`。完整提示词由 `content/prompts.json` 单独维护。首页中标明占位的图片是原创示意，不是模型输出。最新数量以 README 自动统计为准。
 
 无公开提示词的作品和本地素材管理，先看[案例与素材维护指南](SOURCE_CASES.md)。本文其余步骤主要适用于完整提示词记录。
 

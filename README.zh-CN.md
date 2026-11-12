@@ -25,8 +25,6 @@
 
 ---
 
-**快捷导航** · [🖼️ 浏览案例](#all-cases) · [🆕 最近收录](#latest) · [📝 提交案例](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=submit-case.yml) · [🐞 报告问题](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml) · [📚 阅读指南](CONTRIBUTING.md)
-
 <a id="gallery"></a>
 
 ## 🌐 在网页图库中查看
@@ -37,38 +35,741 @@
 
 </div>
 
-*截图展示 Raphael 当前首页，暂作图库预览；本合集的专属网页图库正在准备中。*
-
 **[👉 在 Raphael 开始创作 →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
 
 为什么去网站创作？
 
 | 功能 | GitHub README | Raphael 网页端 |
 | --- | --- | --- |
-| 🎨 可视化布局 | 线性案例列表 | 交互式创作界面 |
-| ✍️ 提示词使用 | 复制已公开的提示词 | 输入提示词与参考图 |
-| 🤖 AI 生图 | 另行打开网站 | 选择模型并生成 |
-| 📱 移动端 | 阅读案例 | 在浏览器中创作 |
-| 🏷️ 导航 | 案例分类 | 模型、风格与工具 |
+| 🆓 免费生图 | 浏览案例与提示词 | 基础生图免费，免登录、免绑卡 |
+| ✍️ 提示词使用 | 复制已公开的提示词 | 粘贴提示词，直接生成图片 |
+| 🖼️ 参考图编辑 | 查看参考图与输入要求 | 上传参考图，辅助生成与修改图片 |
+| 🤖 模型选择 | 查看每个案例使用的模型 | 选择 GPT Image、Seedream、Nano Banana 等模型 |
+| 🎨 风格与尺寸 | 参考来源记录的风格与参数 | 选择风格、画幅与输出格式 |
+| 🔄 多版本尝试 | 对照已收录的案例效果 | 每条提示词一次最多生成 4 张图 |
+| 🛠️ 图片工具 | 阅读图片编辑工作流 | 去背景、放大、扩图与局部修改 |
+| 📱 移动端 | 阅读案例 | 在手机浏览器中生成与编辑图片 |
+
+免费生图使用基础模式；其他模型按网页显示的积分与套餐要求使用。
 
 [浏览仓库内全部案例 →](#all-cases)
-
-[外站素材目录（不计入本页分类与统计）](external-sites/README.md)
 
 <a id="categories"></a>
 
 ## 🏷️ 按分类浏览
 
-| 分类 | 来源案例 | 完整提示词 |
-| --- | ---: | ---: |
-| [品牌与商品](#category-brand-products) | 8 | 7 |
-| [海报与文字排版](#category-posters-typography) | 9 | 7 |
-| [信息图](#category-infographics) | 8 | 8 |
-| [室内与建筑](#category-interiors-architecture) | 3 | 2 |
-| [角色与一致性](#category-characters-consistency) | 26 | 23 |
-| [标注与局部编辑](#category-markup-edits) | 11 | 10 |
-| [SVG 与设计素材](#category-svg-design-assets) | 4 | 3 |
-| [GIF 与动画](#category-gif-animation) | 89 | 81 |
+### 使用场景
+
+<details open>
+<summary>个人写真 / 头像</summary>
+
+- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
+- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
+- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
+
+<details>
+<summary>展开其余 12 个案例</summary>
+
+- [渔船水手写实人像](#source-case-docs-sailor)
+- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
+- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
+- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
+- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
+- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
+- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
+- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
+- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>社交帖子 / 表情贴纸</summary>
+
+- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
+- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
+- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
+
+<details>
+<summary>展开其余 56 个案例</summary>
+
+- [股价下跌的办公角色 GIF](#source-case-launch-openart-down)
+- [股价上涨的办公角色 GIF](#source-case-launch-openart-up)
+- [Monty 打字状态动画](#source-case-launch-town)
+- [Images 2.6 brings GIF(T)S :D](#source-case-community-gifts)
+- [拳击老虎动画](#source-case-community-boxing-tiger)
+- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
+- [玫瑰花蕾动画](#source-case-community-rosebud-animation)
+- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
+- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
+- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
+- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
+- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
+- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
+- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
+- [投篮命中庆祝](#source-case-ailingqu-basketball-shot-sticker)
+- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
+- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
+- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
+- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
+- [花卉微距快闪](#source-case-ailingqu-flower-macro-flash)
+- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
+- [杂志拼贴逐格弹出](#source-case-ailingqu-magazine-panels-pop)
+- [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
+- [冒热气的咖啡](#source-case-ailingqu-steaming-coffee)
+- [雨窗与绿植](#source-case-ailingqu-rain-on-window)
+- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
+- [夜晚的灯塔](#source-case-ailingqu-lighthouse-night)
+- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
+- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
+- [Lo-fi 学习循环](#source-case-ailingqu-lofi-study-loop)
+- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
+- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
+- [Robin 猫眨眼与落下的姓名帽](#source-case-community-ozan-robin-wink-hat)
+- [Ram Altman 内存条恶搞动画](#source-case-community-mirochill-ram-altman-animation)
+- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
+- [十款戏仿网页广告 GIF：日本创作者测试](#source-case-community-zunbeho-parody-ad-gifs)
+- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
+- [心跳舞模式对比：来源封面](#source-case-community-kiki-heartbeat-dance-comparison)
+- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
+- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
+- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
+- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
+- [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion)
+- [雪中庭院里老人劈柴](#source-case-social-snowy-yard-wood-chopping)
+- [可爱机器人倒咖啡](#source-case-social-robot-pouring-coffee)
+- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
+- [紫光房间里戴墨镜跳舞的猫](#source-case-social-sunglasses-cat-dance)
+- [戴头盔的鹈鹕骑自行车](#source-case-social-pelican-riding-bicycle)
+- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
+- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
+- [卡通角色挥手大笑](#source-case-social-character-wave-laugh)
+- [苹果落下的GIF帧数对照](#source-case-social-falling-apple-frame-comparison)
+- [站立后空翻的三种复杂度对比](#source-case-social-standing-backflip-complexity)
+- [旋转的猫](#source-case-social-cat-spinning-gif)
+- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
+- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>产品营销 / 电商主图</summary>
+
+- [商品透明背景抠图](#source-case-docs-product-cutout)
+- [敏感肌化妆水广告对比](#source-case-nyle-skincare-ad)
+- [水中修表微距测试](#source-case-community-hn-watchmaker)
+
+<details>
+<summary>展开其余 6 个案例</summary>
+
+- [玩具飞机包装](#source-case-docs-toy-package)
+- [品牌产品微缩场景](#source-case-launch-sable)
+- [旅行视觉生成速度对比](#source-case-launch-travel)
+- [球鞋配色快闪](#source-case-ailingqu-sneaker-colorway-flash)
+- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
+- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>Logo / 品牌设计</summary>
+
+- [猫头 Logo 品牌快闪](#source-case-ailingqu-cat-brand-reel)
+- [面包店 SVG 标志](#source-case-docs-bakery-svg)
+- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
+
+<details>
+<summary>展开其余 2 个案例</summary>
+
+- [面包店透明位图标志](#source-case-docs-bakery-raster)
+- [代码闪电矢量标志](#source-case-community-struggle-code-lightning-svg)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>海报 / 传单 / 贺卡</summary>
+
+- [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card)
+- [怀旧节日贺卡](#source-case-docs-holiday-card)
+- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
+
+<details>
+<summary>展开其余 9 个案例</summary>
+
+- [街头服饰广告排字](#source-case-docs-streetwear)
+- [洗发水公路广告牌](#source-case-docs-billboard)
+- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
+- [AI进化论海报改为Image 2.6实测](#source-case-community-struggle-poster-edit)
+- [2027 春季健康展传单对比](#source-case-nyle-health-fair)
+- [密集日文商务封面对比](#source-case-nyle-kanji-cover)
+- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
+- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
+- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>教学图解 / 演示汇报</summary>
+
+- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
+- [信息图改为西班牙语](#source-case-docs-spanish-edit)
+- [细胞呼吸教学图](#source-case-docs-cell-respiration)
+
+<details>
+<summary>展开其余 5 个案例</summary>
+
+- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
+- [市场规模演示页](#source-case-docs-pitch-slide)
+- [季度营收动态图](#source-case-social-revenue-chart-loop)
+- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
+- [寻宝地图路线动画](#source-case-social-treasure-map-route-loop)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>绘本漫画 / 故事分镜</summary>
+
+- [夏日角色插画动画](#source-case-community-malfoid)
+- [纸艺夺冠场景：复杂度比较](#source-case-docs-complexity)
+- [动作分镜参考转投篮GIF](#source-case-social-basketball-storyboard-to-gif)
+
+<details>
+<summary>展开其余 10 个案例</summary>
+
+- [1969 年历史人群场景](#source-case-docs-historical-crowd)
+- [宠物四格漫画](#source-case-docs-pet-comic)
+- [建立童书角色](#source-case-docs-character-start)
+- [同一角色续写故事](#source-case-docs-character-story)
+- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
+- [猫头鹰草图变动画](#source-case-launch-owl)
+- [彩色玻璃鲸鱼](#source-case-launch-picsart)
+- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
+- [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
+- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>游戏素材 / 动画原型</summary>
+
+- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
+- [像素风篝火](#source-case-ailingqu-pixel-campfire)
+- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
+
+<details>
+<summary>展开其余 14 个案例</summary>
+
+- [骑士连续换景换装](#source-case-launch-higgsfield)
+- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
+- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
+- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
+- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
+- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
+- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
+- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
+- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
+- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
+- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
+- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
+- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
+- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>App / 网页设计</summary>
+
+- [沙漏加载](#source-case-ailingqu-hourglass-flip)
+- [网页生成摘要交互动画](#source-case-social-web-summary-interaction-loop)
+- [点赞爱心爆开](#source-case-ailingqu-like-heart-burst)
+
+<details>
+<summary>展开其余 2 个案例</summary>
+
+- [农夫市场手机界面](#source-case-docs-market-ui)
+- [弹跳圆点加载动画](#source-case-ailingqu-bouncing-dots-loader)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>照片编辑 / 换装换景</summary>
+
+- [客厅标注编辑](#source-case-launch-fal)
+- [保留人物身份换装](#source-case-docs-outfit)
+- [网络研讨会日期替换对比](#source-case-nyle-webinar-date-edit)
+
+<details>
+<summary>展开其余 12 个案例</summary>
+
+- [标注花瓶后局部换色](#source-case-docs-vase-markup)
+- [像素风格迁移](#source-case-docs-pixel-style)
+- [跨图合成宠物](#source-case-docs-dog-composite)
+- [线稿转写实场景](#source-case-docs-sketch-render)
+- [移除手持花朵](#source-case-docs-remove-flower)
+- [人物放入露营逃跑场景](#source-case-docs-person-scene)
+- [广告牌场景改为雪夜](#source-case-docs-snow-edit)
+- [室内更换椅子](#source-case-docs-room-chairs)
+- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
+- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
+- [桌面照片清理并转动图](#source-case-community-struggle-desk-animation)
+- [红蓝圈标注编辑圣诞帽与礼物盒](#source-case-social-circle-markup-santa-gift-edit)
+
+</details>
+
+
+</details>
+
+### 风格
+
+<details open>
+<summary>写实摄影</summary>
+
+- [渔船水手写实人像](#source-case-docs-sailor)
+- [街头服饰广告排字](#source-case-docs-streetwear)
+- [1969 年历史人群场景](#source-case-docs-historical-crowd)
+- [保留人物身份换装](#source-case-docs-outfit)
+- [商品透明背景抠图](#source-case-docs-product-cutout)
+- [线稿转写实场景](#source-case-docs-sketch-render)
+- [移除手持花朵](#source-case-docs-remove-flower)
+- [人物放入露营逃跑场景](#source-case-docs-person-scene)
+- [室内更换椅子](#source-case-docs-room-chairs)
+- [水中修表微距测试](#source-case-community-hn-watchmaker)
+- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
+- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
+- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
+- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
+- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
+- [桌面照片清理并转动图](#source-case-community-struggle-desk-animation)
+- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
+- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
+- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
+- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
+- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
+- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
+- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
+- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
+- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
+- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
+- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
+
+</details>
+
+<details open>
+<summary>电影感 / 电影剧照</summary>
+
+- [渔船水手写实人像](#source-case-docs-sailor)
+- [1969 年历史人群场景](#source-case-docs-historical-crowd)
+- [骑士连续换景换装](#source-case-launch-higgsfield)
+- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
+- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
+
+</details>
+
+<details open>
+<summary>动漫 / 漫画</summary>
+
+- [骑士连续换景换装](#source-case-launch-higgsfield)
+- [夏日角色插画动画](#source-case-community-malfoid)
+- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
+- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
+- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
+- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
+- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
+- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
+
+</details>
+
+<details open>
+<summary>卡通 / 绘本插画</summary>
+
+- [宠物四格漫画](#source-case-docs-pet-comic)
+- [建立童书角色](#source-case-docs-character-start)
+- [同一角色续写故事](#source-case-docs-character-story)
+- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
+- [夏日角色插画动画](#source-case-community-malfoid)
+- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
+- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
+- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
+- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
+- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
+- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
+- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
+- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
+- [投篮命中庆祝](#source-case-ailingqu-basketball-shot-sticker)
+- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
+- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
+- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
+- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
+- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
+- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
+- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
+- [Lo-fi 学习循环](#source-case-ailingqu-lofi-study-loop)
+- [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
+- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
+- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
+- [卡通角色挥手大笑](#source-case-social-character-wave-laugh)
+- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+<details open>
+<summary>3D 渲染 / 黏土</summary>
+
+- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
+- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
+- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
+- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+<details open>
+<summary>Q 版 / 萌系</summary>
+
+- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
+- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
+- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
+- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
+- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
+- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
+
+</details>
+
+<details open>
+<summary>像素艺术</summary>
+
+- [像素风格迁移](#source-case-docs-pixel-style)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [像素风篝火](#source-case-ailingqu-pixel-campfire)
+- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
+- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
+- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
+- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
+- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
+- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
+- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
+- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
+- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
+
+</details>
+
+<details open>
+<summary>水墨 / 中国风</summary>
+
+- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
+- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
+- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
+- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
+
+</details>
+
+<details open>
+<summary>水彩 / 水粉</summary>
+
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
+- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
+- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>复古 / 怀旧</summary>
+
+- [怀旧节日贺卡](#source-case-docs-holiday-card)
+- [1969 年历史人群场景](#source-case-docs-historical-crowd)
+- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
+- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
+- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
+- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
+
+</details>
+
+<details open>
+<summary>极简 / 线条</summary>
+
+- [面包店 SVG 标志](#source-case-docs-bakery-svg)
+- [面包店透明位图标志](#source-case-docs-bakery-raster)
+- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
+- [代码闪电矢量标志](#source-case-community-struggle-code-lightning-svg)
+- [弹跳圆点加载动画](#source-case-ailingqu-bouncing-dots-loader)
+- [点赞爱心爆开](#source-case-ailingqu-like-heart-burst)
+- [沙漏加载](#source-case-ailingqu-hourglass-flip)
+- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
+
+</details>
+
+<details open>
+<summary>纸艺 / 拼贴</summary>
+
+- [纸艺夺冠场景：复杂度比较](#source-case-docs-complexity)
+- [杂志拼贴逐格弹出](#source-case-ailingqu-magazine-panels-pop)
+- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
+
+</details>
+
+### 主题
+
+<details open>
+<summary>人物 / 肖像</summary>
+
+- [渔船水手写实人像](#source-case-docs-sailor)
+- [1969 年历史人群场景](#source-case-docs-historical-crowd)
+- [保留人物身份换装](#source-case-docs-outfit)
+- [移除手持花朵](#source-case-docs-remove-flower)
+- [人物放入露营逃跑场景](#source-case-docs-person-scene)
+- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
+- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
+- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
+- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
+- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
+- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
+- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
+- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
+- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
+- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
+- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
+- [雪中庭院里老人劈柴](#source-case-social-snowy-yard-wood-chopping)
+- [站立后空翻的三种复杂度对比](#source-case-social-standing-backflip-complexity)
+- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
+- [动作分镜参考转投篮GIF](#source-case-social-basketball-storyboard-to-gif)
+
+</details>
+
+<details open>
+<summary>动物 / 宠物</summary>
+
+- [宠物四格漫画](#source-case-docs-pet-comic)
+- [跨图合成宠物](#source-case-docs-dog-composite)
+- [建立童书角色](#source-case-docs-character-start)
+- [同一角色续写故事](#source-case-docs-character-story)
+- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
+- [猫头鹰草图变动画](#source-case-launch-owl)
+- [彩色玻璃鲸鱼](#source-case-launch-picsart)
+- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
+- [拳击老虎动画](#source-case-community-boxing-tiger)
+- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
+- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
+- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
+- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
+- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
+- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
+- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
+- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
+- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
+- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
+- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
+- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
+- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
+- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
+- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
+- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
+- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
+- [Robin 猫眨眼与落下的姓名帽](#source-case-community-ozan-robin-wink-hat)
+- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
+- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
+- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
+- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
+- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
+- [紫光房间里戴墨镜跳舞的猫](#source-case-social-sunglasses-cat-dance)
+- [戴头盔的鹈鹕骑自行车](#source-case-social-pelican-riding-bicycle)
+- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
+- [旋转的猫](#source-case-social-cat-spinning-gif)
+- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+<details open>
+<summary>产品 / 日常物件</summary>
+
+- [商品透明背景抠图](#source-case-docs-product-cutout)
+- [玩具飞机包装](#source-case-docs-toy-package)
+- [标注花瓶后局部换色](#source-case-docs-vase-markup)
+- [品牌产品微缩场景](#source-case-launch-sable)
+- [水中修表微距测试](#source-case-community-hn-watchmaker)
+- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
+- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
+- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
+- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
+- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
+- [苹果落下的GIF帧数对照](#source-case-social-falling-apple-frame-comparison)
+- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
+
+</details>
+
+<details open>
+<summary>食物 / 饮品</summary>
+
+- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
+- [农夫市场手机界面](#source-case-docs-market-ui)
+- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
+- [冒热气的咖啡](#source-case-ailingqu-steaming-coffee)
+- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
+- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
+- [可爱机器人倒咖啡](#source-case-social-robot-pouring-coffee)
+
+</details>
+
+<details open>
+<summary>时尚 / 服饰</summary>
+
+- [街头服饰广告排字](#source-case-docs-streetwear)
+- [保留人物身份换装](#source-case-docs-outfit)
+- [球鞋配色快闪](#source-case-ailingqu-sneaker-colorway-flash)
+- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
+- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
+- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
+- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
+- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
+
+</details>
+
+<details open>
+<summary>建筑 / 室内空间</summary>
+
+- [室内更换椅子](#source-case-docs-room-chairs)
+- [客厅标注编辑](#source-case-launch-fal)
+- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
+- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
+- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
+- [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
+- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
+- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
+- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
+- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+<details open>
+<summary>自然 / 植物</summary>
+
+- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
+- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
+- [玫瑰花蕾动画](#source-case-community-rosebud-animation)
+- [花卉微距快闪](#source-case-ailingqu-flower-macro-flash)
+- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
+- [雨窗与绿植](#source-case-ailingqu-rain-on-window)
+- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
+- [夜晚的灯塔](#source-case-ailingqu-lighthouse-night)
+- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
+- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
+- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
+- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
+- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
+- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>城市街景 / 地标</summary>
+
+- [洗发水公路广告牌](#source-case-docs-billboard)
+- [广告牌场景改为雪夜](#source-case-docs-snow-edit)
+- [旅行视觉生成速度对比](#source-case-launch-travel)
+- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
+- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
+- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
+- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
+- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>奇幻 / 游戏角色</summary>
+
+- [骑士连续换景换装](#source-case-launch-higgsfield)
+- [夏日角色插画动画](#source-case-community-malfoid)
+- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
+- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
+- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
+- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
+- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
+- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
+- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
+- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
+- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
+- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
+- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
+- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
+- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
+- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
+
+</details>
+
+<details open>
+<summary>图表 / 图解 / 地图</summary>
+
+- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
+- [细胞呼吸教学图](#source-case-docs-cell-respiration)
+- [市场规模演示页](#source-case-docs-pitch-slide)
+- [信息图改为西班牙语](#source-case-docs-spanish-edit)
+- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
+- [季度营收动态图](#source-case-social-revenue-chart-loop)
+- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
+- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
+- [寻宝地图路线动画](#source-case-social-treasure-map-route-loop)
+
+</details>
+
+<details open>
+<summary>文字 / 排版</summary>
+
+- [街头服饰广告排字](#source-case-docs-streetwear)
+- [洗发水公路广告牌](#source-case-docs-billboard)
+- [怀旧节日贺卡](#source-case-docs-holiday-card)
+- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
+- [AI进化论海报改为Image 2.6实测](#source-case-community-struggle-poster-edit)
+- [2027 春季健康展传单对比](#source-case-nyle-health-fair)
+- [敏感肌化妆水广告对比](#source-case-nyle-skincare-ad)
+- [密集日文商务封面对比](#source-case-nyle-kanji-cover)
+- [网络研讨会日期替换对比](#source-case-nyle-webinar-date-edit)
+- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
+- [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion)
+- [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card)
+
+</details>
+
 
 <a id="contents"></a>
 
@@ -77,7 +778,6 @@
 - [什么是 GPT Image 2.6？](#about)
 - [统计数据](#statistics)
 - [精选案例](#featured)
-- [最近收录](#latest)
 - [全部案例](#all-cases)
 - [完整提示词](#collection)
 - [如何使用](#using)
@@ -98,57 +798,352 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 ## 📊 统计数据
 
-| 项目 | 数量 / 日期 |
-| --- | ---: |
-| 来源案例 | **158** |
-| 官方案例 | **37** |
-| 社区作者自报案例 | **121** |
-| 来源公开原始提示词 | **132** |
-| 仓库内完整提示词 | **141** |
-| 本地收录素材文件 | **295** |
-| 最近来源核对（UTC） | **2026-11-09** |
-
-来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。
+| **指标** | **数量** |
+| --- | --- |
+| 📝 提示词总数 | **141** |
+| ⭐ 精选 | **12** |
+| 🔄 最后更新 | **2026年11月12日星期四 UTC 10:15:00** |
 
 <a id="featured"></a>
 
 ## 🔥 精选案例
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="#source-case-docs-bakery-svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="280" /><br /><strong>面包店 SVG 标志</strong></a><br />官方文档</td>
-<td width="33%" align="center"><a href="#source-case-docs-lantern-gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="提灯猴原始 GIF" width="280" /><br /><strong>提灯猴循环 GIF</strong></a><br />官方文档</td>
-<td width="33%" align="center"><a href="#source-case-launch-fal"><img src="assets/examples/launch-fal/source-02.png" alt="编辑后" width="280" /><br /><strong>客厅标注编辑</strong></a><br />官方发布演示</td>
-</tr>
-<tr>
-<td width="33%" align="center"><a href="#source-case-launch-sable"><img src="assets/examples/launch-sable/source-01.webp" alt="产品场景" width="280" /><br /><strong>品牌产品微缩场景</strong></a><br />官方发布演示</td>
-<td width="33%" align="center"><a href="#source-case-launch-higgsfield"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="280" /><br /><strong>骑士连续换景换装</strong></a><br />官方发布演示</td>
-<td width="33%" align="center"><a href="#source-case-docs-complexity"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="纸艺足球冠军庆祝场景（GPT Image 2.6 Sunburst 输出，高复杂度）" width="280" /><br /><strong>纸艺夺冠场景：复杂度比较</strong></a><br />官方文档</td>
-</tr>
-</table>
+<a id="featured-case-launch-higgsfield"></a>
+
+### 38. [骑士连续换景换装](#source-case-launch-higgsfield)
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-01.webp"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="第 1 步" width="700" /></a><br /><sub>第 1 步</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-02.webp"><img src="assets/examples/launch-higgsfield/source-02.webp" alt="第 2 步" width="700" /></a><br /><sub>第 2 步</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-03.webp"><img src="assets/examples/launch-higgsfield/source-03.webp" alt="第 3 步" width="700" /></a><br /><sub>第 3 步</sub>
+</div>
+
+**原始提示词**
+
+**起始图 · 角色与场景**
+
+```text
+Epic high fantasy anime key visual, mature seinen style like a modern high-budget anime film. A young woman sorceress-knight in her twenties with long crimson hair and sharp golden eyes stands on the edge of a cliff in ornate silver and emerald armor with a flowing royal blue cape, a glowing runic sword planted in front of her, magic sparks around her hands. Behind her a vast fantasy kingdom: floating islands with waterfalls pouring into the clouds, a white castle with spires, a huge ancient dragon flying in the distance, giant blooming sakura and golden autumn forests in the valley below. Sunset sky with vivid orange, magenta, turquoise and violet clouds, god rays, glowing magic particles in the air. Extremely vibrant saturated colors, dramatic rim lighting, cel shading with detailed painted backgrounds, crisp clean line art, depth and atmosphere, dynamic low camera angle, wide cinematic composition. Adult, elegant, serious heroic mood, not childish, no chibi, no sci-fi, no neon, no text, no watermark.
+```
+
+**编辑 1 · 夕阳山谷**
+
+```text
+Replace the moonlit landscape with a golden sunset over a misty mountain valley, winding river, waterfalls and ancient ruins. Keep the background softly blurred and the knight, armor, sword, rock and composition unchanged.
+```
+
+**编辑 2 · 浮空城堡**
+
+```text
+Replace the background with a majestic floating castle, smaller floating islands, cascading waterfalls and a dragon flying overhead. Preserve the warm sunset, atmospheric haze and shallow depth of field. Keep the knight and foreground unchanged.
+```
+
+**编辑 3 · 盔甲换色**
+
+```text
+Recolor the armor to ivory white with rich gold trim, replace emerald gemstones with rubies, and change green fabric panels to deep crimson. Preserve the armor design, blue cape, red hair, golden sword glow, pose and background.
+```
+
+按顺序使用编辑指令，将上一轮输出作为下一轮输入。官方页面在编辑 1 旁同时列出起始图提示词；已入库的三张图片是编辑结果。
+
+[原提示词见来源](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**作者**: [Higgsfield](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-higgsfield/README.zh-CN.md)
+
+---
+
+<a id="featured-case-ailingqu-four-seasons-tree"></a>
+
+### 95. [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
+
+<div align="center">
+<a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="一棵树的四季" width="700" /></a><br /><sub>一棵树的四季</sub>
+</div>
+
+**原始提示词**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-launch-picsart"></a>
+
+### 37. [彩色玻璃鲸鱼](#source-case-launch-picsart)
+
+<div align="center">
+<a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="鲸鱼图" width="700" /></a><br /><sub>鲸鱼图</sub>
+</div>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-picsart/README.zh-CN.md)
+
+---
+
+<a id="featured-case-ailingqu-window-day-to-night"></a>
+
+### 97. [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
+
+<div align="center">
+<a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="700" /></a><br /><sub>窗边读书·白天到夜晚</sub>
+</div>
+
+**原始提示词**
+
+```text
+A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-social-cyan-poetry-wet-portrait"></a>
+
+### 46. [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
+
+<div align="center">
+<a href="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg"><img src="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg" alt="湿润皮肤上的发光青色诗句与公式" width="700" /></a><br /><sub>湿润皮肤上的发光青色诗句与公式</sub>
+</div>
+
+**原始提示词**
+
+```text
+A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousled dark hair and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing cyan handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic. Dark,moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.
+```
+
+[原始提示词 (.txt)](cases/social-cyan-poetry-wet-portrait/prompt.txt)
+
+[原提示词见来源](https://x.com/iamsofiaijaz/status/2118561558511132918)
+
+**作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
+
+**原始来源**: [作者自报模型](https://x.com/iamsofiaijaz/status/2118561513879507399) · [来源详情](cases/social-cyan-poetry-wet-portrait/README.zh-CN.md)
+
+---
+
+<a id="featured-case-ailingqu-goldfish-bowl"></a>
+
+### 100. [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
+
+<div align="center">
+<a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="700" /></a><br /><sub>鱼缸里的金鱼</sub>
+</div>
+
+**原始提示词**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-docs-pixel-style"></a>
+
+### 57. [像素风格迁移](#source-case-docs-pixel-style)
+
+<div align="center">
+<a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp" alt="采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Flare 输出）" width="700" /></a><br /><sub>采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Flare 输出）</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp" alt="采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Sunburst 输出）" width="700" /></a><br /><sub>采用参考像素风格的摩托车骑手图像（GPT Image 2.6 Sunburst 输出）</sub>
+</div>
+
+**参考图**
+
+参考 / 输入图，不是生成结果。
+
+<div align="center">
+<a href="assets/references/docs-pixel-style/pixels.webp"><img src="assets/references/docs-pixel-style/pixels.webp" alt="参考输入图：用于像素艺术风格参考的游戏画面" width="700" /></a><br /><sub>参考输入图：用于像素艺术风格参考的游戏画面</sub>
+</div>
+
+
+**原始提示词**
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [来源详情](cases/docs-pixel-style/README.zh-CN.md)
+
+---
+
+<a id="featured-case-ailingqu-doodle-monster"></a>
+
+### 108. [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
+
+<div align="center">
+<a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="涂鸦小怪兽活了" width="700" /></a><br /><sub>涂鸦小怪兽活了</sub>
+</div>
+
+**原始提示词**
+
+```text
+A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-docs-market-ui"></a>
+
+### 67. [农夫市场手机界面](#source-case-docs-market-ui)
+
+<div align="center">
+<a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp" alt="农夫市集手机应用界面样稿（GPT Image 2.6 Flare 输出）" width="700" /></a><br /><sub>农夫市集手机应用界面样稿（GPT Image 2.6 Flare 输出）</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp" alt="农夫市集手机应用界面样稿（GPT Image 2.6 Sunburst 输出）" width="700" /></a><br /><sub>农夫市集手机应用界面样稿（GPT Image 2.6 Sunburst 输出）</sub>
+</div>
+
+**原始提示词**
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [来源详情](cases/docs-market-ui/README.zh-CN.md)
+
+---
+
+<a id="featured-case-ailingqu-pixel-campfire"></a>
+
+### 109. [像素风篝火](#source-case-ailingqu-pixel-campfire)
+
+<div align="center">
+<a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="像素风篝火" width="700" /></a><br /><sub>像素风篝火</sub>
+</div>
+
+**原始提示词**
+
+```text
+A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+
+[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-launch-town"></a>
+
+### 74. [Monty 打字状态动画](#source-case-launch-town)
+
+<div align="center">
+<a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="动画海报" width="700" /></a><br /><sub>动画海报</sub>
+</div>
+
+**原始提示词**
+
+**提示词未公开**
+
+**作者**: [Town](https://openai.com/index/introducing-images-2-6/)
+
+**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-town/README.zh-CN.md)
+
+---
+
+<a id="featured-case-community-struggle-sailor-dance"></a>
+
+### 121. [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
+
+<div align="center">
+<a href="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif"><img src="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif" alt="夜景中的美少女战士舞蹈" width="700" /></a><br /><sub>夜景中的美少女战士舞蹈</sub>
+</div>
+
+**原始提示词**
+
+```text
+创建一个 GIF，内容是 一位美少女战士在跳舞
+```
+
+[原提示词见来源](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-sailor-dance/README.zh-CN.md)
+
+---
 
 视频预览是首帧静态图，点击可打开动画文件；参考图与来源封面均单独标注。
-
-<a id="latest"></a>
-
-## 🆕 最近收录
-
-| 收录日期 | 案例 | 依据 |
-| --- | --- | --- |
-| 2026-11-09 | [寻宝地图路线动画](#source-case-social-treasure-map-route-loop) | 作者自报模型 |
-| 2026-11-09 | [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop) | 作者自报模型 |
-| 2026-11-09 | [相机爆炸拆解动画](#source-case-social-camera-exploded-loop) | 作者自报模型 |
-| 2026-11-09 | [网页生成摘要交互动画](#source-case-social-web-summary-interaction-loop) | 作者自报模型 |
-| 2026-11-09 | [季度营收动态图](#source-case-social-revenue-chart-loop) | 作者自报模型 |
-| 2026-11-09 | [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid) | 作者自报模型 |
 
 <a id="all-cases"></a>
 
 ## 📋 全部案例
 
 <a id="collection"></a>
-
-原始提示词保留来源语言，可直接复制；未公开或待核验的提示词明确标注，不根据图片补写。
 
 <a id="category-brand-products"></a>
 
@@ -5008,7 +6003,7 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 
 ## 🤝 如何贡献
 
-主合集案例写入 content/source-cases.json，外站案例写入 external-sites/source-cases.json；完整提示词写入 content/prompts.json。生成器分别维护两个合集的索引与双语详情页。
+来源案例写入 content/source-cases.json，完整提示词写入 content/prompts.json。生成器维护索引与中英文详情页。
 
 [贡献指南](CONTRIBUTING.md) · [案例与素材维护指南](docs/SOURCE_CASES.md) · [维护者填充指南](docs/FILLING_GUIDE.zh-CN.md)
 

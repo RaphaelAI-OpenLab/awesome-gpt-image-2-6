@@ -28,8 +28,17 @@ def read_cases():
     return read_json('content/source-cases.json')
 
 
-def read_external_cases():
-    return read_json('external-sites/source-cases.json')
+# 官方、社媒与论坛、内容发布社区和 GitHub 示例的直接来源。
+SUPPORTED_SOURCE_HOSTS = {
+    'openai.com', 'developers.openai.com', 'x.com', 'twitter.com',
+    'news.ycombinator.com', 'reddit.com', 'github.com', 'note.com',
+    'tianqi.csdn.net',
+}
+
+
+def is_supported_source(item):
+    host = (urlsplit(item['source']['url']).hostname or '').removeprefix('www.')
+    return host in SUPPORTED_SOURCE_HOSTS
 
 
 def visible(cases):
@@ -40,10 +49,9 @@ def label(key, language):
     return localized(LABELS.get(key, {'en': key}), language)
 
 
-def page_path(item, language, *, external=False):
+def page_path(item, language):
     name = filename(detail_language(language))
-    prefix = 'external-sites/' if external else ''
-    return f"{prefix}cases/{item['id']}/{name}"
+    return f"cases/{item['id']}/{name}"
 
 
 def preview(item):
@@ -81,38 +89,57 @@ def render_original_prompt(item, language, *, prefix=''):
     return '\n'.join(lines)
 
 
-def render_inline_case(item, language, number):
+def render_inline_case(item, language, number, *, featured=False):
     """将来源案例的图片、原文与底部署名直接展开到 README。"""
     c = lambda en, cn: ui(en, cn, language)
-    lines = [f'<a id="source-case-{item["id"]}"></a>', '',
-             f'#### {number}. ' + md_text(localized(item['title'], language)), '']
+    title = localized(item['title'], language)
+    anchor = 'featured-case-' if featured else 'source-case-'
+    heading = f'### {number}. ' + md_link(title, '#source-case-' + item['id']) if featured else f'#### {number}. ' + md_text(title)
+    lines = [f'<a id="{anchor}{item["id"]}"></a>', '', heading, '']
     outputs = [m for m in item['media'] if m['path'] and m.get('role', 'output') != 'reference']
     if outputs:
-        lines += ['<table>']
-        for start in range(0, len(outputs), 2):
-            lines += ['<tr>']
-            for media in outputs[start:start + 2]:
+        if not featured:
+            lines += ['<table>']
+        columns = 1 if featured else 2
+        for start in range(0, len(outputs), columns):
+            if not featured:
+                lines += ['<tr>']
+            for media in outputs[start:start + columns]:
                 alt = localized(media['alt'], language)
+                width = 700 if featured or (media['kind'] != 'video' and len(outputs) == 1) else 360
                 if media['kind'] == 'video':
                     path = video_preview_path(media)
                     caption = c('Video preview · open video', '视频首帧预览 · 打开动画')
-                    visual = f'<a href="{html_attr(media["path"])}"><img src="{html_attr(path)}" alt="{html_attr(alt)}" width="360" /><br />{html_attr(caption)}</a>'
+                    visual = f'<a href="{html_attr(media["path"])}"><img src="{html_attr(path)}" alt="{html_attr(alt)}" width="{width}" /><br />{html_attr(caption)}</a>'
                 else:
-                    width = 700 if len(outputs) == 1 else 360
                     visual = f'<a href="{html_attr(media["path"])}"><img src="{html_attr(media["path"])}" alt="{html_attr(alt)}" width="{width}" /></a>'
-                lines += [f'<td align="center">{visual}<br /><sub>{html_attr(alt)}</sub></td>']
-            lines += ['</tr>']
-        lines += ['</table>', '']
+                if featured:
+                    lines += ['<div align="center">', visual + '<br /><sub>' + html_attr(alt) + '</sub>', '</div>', '']
+                else:
+                    lines += [f'<td align="center">{visual}<br /><sub>{html_attr(alt)}</sub></td>']
+            if not featured:
+                lines += ['</tr>']
+        if not featured:
+            lines += ['</table>', '']
     else:
         lines += ['**' + c('Images not yet archived', '图片暂未入库') + '** · ' +
                   md_link(c('View the work at its original source', '到原始来源查看作品'), item['source']['url']), '']
     references = [m for m in item['media'] if m.get('role') == 'reference']
     if references:
-        lines += ['<details>', '<summary>' + html_attr(c('Reference images', '参考图')) + '</summary>', '',
-                  c('Reference/input image, not a generated output.', '参考 / 输入图，不是生成结果。'), '']
+        reference_title = c('Reference images', '参考图')
+        if featured:
+            lines += ['**' + reference_title + '**', '']
+        else:
+            lines += ['<details>', '<summary>' + html_attr(reference_title) + '</summary>', '']
+        lines += [c('Reference/input image, not a generated output.', '参考 / 输入图，不是生成结果。'), '']
         for media in references:
-            lines += ['- ' + md_link(localized(media['alt'], language), media['path'] or media['source_url'])]
-        lines += ['', '</details>', '']
+            if featured and media['path']:
+                alt = html_attr(localized(media['alt'], language))
+                path = html_attr(media['path'])
+                lines += ['<div align="center">', f'<a href="{path}"><img src="{path}" alt="{alt}" width="700" /></a><br /><sub>{alt}</sub>', '</div>', '']
+            else:
+                lines += ['- ' + md_link(localized(media['alt'], language), media['path'] or media['source_url'])]
+        lines += [''] if featured else ['', '</details>', '']
     lines += ['**' + c('Original prompt', '原始提示词') + '**', '', render_original_prompt(item, language), '']
     source = item['source']
     url = urlsplit(source['url'])
@@ -127,15 +154,15 @@ def render_inline_case(item, language, number):
     return '\n'.join(lines) + '\n'
 
 
-def render_detail(item, language, *, external=False):
+def render_detail(item, language):
     if language not in DETAIL_LANGUAGES:
         raise ValueError('Untranslated case details must route to an existing English page')
     zh = language == 'zh-CN'
     choose = lambda en, cn: cn if zh else en
     media_heading = choose('Images / animation files', '图片 / 动画文件') if any(m['kind'] == 'video' for m in item['media']) else choose('Images / GIFs', '图片 / GIF')
-    root_prefix = '../../../' if external else '../../'
-    home = '../../README.md' if external else ('../../README.zh-CN.md' if zh else '../../README.md')
-    back_label = choose('← Back to external website archive', '← 返回外站素材目录') if external else choose('← Back to all cases', '← 返回全部案例')
+    root_prefix = '../../'
+    home = '../../README.zh-CN.md' if zh else '../../README.md'
+    back_label = choose('← Back to all cases', '← 返回全部案例')
     lines = [GENERATED_MARKER, '', '# ' + md_text(localized(item['title'], language)), '',
              md_link(back_label, home + '#all-cases'), '']
     lines += [language_nav(language, prefix=root_prefix, detail=True), '',

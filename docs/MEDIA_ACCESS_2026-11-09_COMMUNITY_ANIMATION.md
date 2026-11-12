@@ -1,10 +1,6 @@
-# Four source-reported animation examples
+# 三组社区动画来源核对
 
-Retained original article/post HTML from November 5 was reviewed offline on November 9. This batch adds four distinct tasks and five unchanged files: one GIF, three MP4 attachments and one WebP poster. Two other posters remain link-only; their bytes are not restored or redistributed. No new searches, source requests, generation runs or denied retries were made.
-
-## Analytics Vidhya: teapot steam
-
-[Vasu Deo Sankrityayan's fifth test](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-5-a-real-looping-teapot-gif) explicitly presents the teapot as a GPT Image 2.6 example. The retained source HTML identifies the archived test.gif. It is a real 357 × 356 GIF with 12 frames of 180 ms each (2.16 s total). Every frame decoded and was visually inspected. Steam forms and dissolves a heart. No flawless-loop or perfectly static-background claim is made. Variant is unspecified; the original prompt is linked.
+核对日期：2026-11-09。本文保留当日离线核对中三条 X 原帖的记录，包含三份 MP4 附件和一份 WebP 海报；另外两份海报仅保留来源链接。逐项哈希、字节数、格式与获取状态见 `content/source-cases.json`。
 
 ## Ozan Sihay: Robin cat
 
@@ -18,10 +14,6 @@ Retained original article/post HTML from November 5 was reviewed offline on Nove
 
 [The post](https://x.com/mirochill/status/2118267971025944955) labels its attached animation GPT Image 2.6 GIF. The unchanged MP4 depicts a fabricated AI parody of Sam Altman biting a computer memory stick; it does not document a real event. The quoted earlier still is context only and is not counted as a separate model output or verified input. Prompt and variant are unspecified. The separate poster remains link-only.
 
-## Verification and rights
+## 核对边界
 
-All five source files matched stored SHA-256 and byte counts (990,270 bytes total), source-media identifiers in original captures and actual file formats. GIF and WebP fully decoded; all MP4 frames decoded through ffmpeg, with stream metadata inspected. All 47 decoded visual frames, including the static poster, were reviewed. MP4 attachments are not relabelled native GIF outputs, and no real-time playback claim is made here. IDs and exact media hashes/URLs do not collide with the 213-record integration base or other cases in the recovered 640-record inventory.
-
-No redistribution licence was verified. Source attribution is not permission, and the collection MIT licence does not apply to these third-party files. Creator/model claims remain attributed and are not independently reproduced. Source captures and QA frame sheets are not publication files.
-
-中文：本批四组来源案例共五份原始文件：茶壶 GIF、三份 X 平台 MP4 动画附件及一份原始 WebP 海报；另外两份海报继续仅链接，不恢复或转载。保留的原始网页/帖子明确支持作者自报模型家族与逐附件对应。全部文件完成哈希、字节数、真实格式和完整解码；47个画面逐帧检查。X 的 MP4 不冒充原始 GIF，不宣称实时播放或独立复现。Ram Altman 明确标记为虚构 AI 恶搞而非真实事件；早期引用静图不计为已验证模型输出。未核实转载许可，署名不等于授权，仓库 MIT 不覆盖第三方素材。
+以上为作者自报模型归属，不代表独立复现。原报告记载 MP4 已完成全帧解码并检查画面，不能将附件标为原始 GIF 或据此声称实时播放验收。来源署名不等于转载许可，第三方文件不适用仓库 MIT 协议。

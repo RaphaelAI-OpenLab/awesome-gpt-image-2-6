@@ -202,7 +202,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "docs-lantern-gif",
@@ -271,7 +271,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "docs-sailor",
@@ -915,7 +915,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "docs-cell-respiration",
@@ -1419,7 +1419,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "docs-outfit",
@@ -3135,7 +3135,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "launch-picsart",
@@ -3194,7 +3194,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "launch-fal",
@@ -3285,7 +3285,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "launch-sable",
@@ -3358,7 +3358,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "launch-higgsfield",
@@ -3594,7 +3594,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true,
+    "featured": false,
     "access": {
       "checked_at": "2026-11-05",
       "page_status": "blocked",
@@ -5362,7 +5362,7 @@
     },
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
-    "featured": false
+    "featured": true
   },
   {
     "id": "ailingqu-magazine-panels-pop",
@@ -5508,7 +5508,7 @@
     },
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
-    "featured": false
+    "featured": true
   },
   {
     "id": "ailingqu-steaming-coffee",
@@ -5727,7 +5727,7 @@
     },
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
-    "featured": false
+    "featured": true
   },
   {
     "id": "ailingqu-lighthouse-night",
@@ -6311,7 +6311,7 @@
     },
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
-    "featured": false
+    "featured": true
   },
   {
     "id": "ailingqu-pixel-campfire",
@@ -6384,7 +6384,7 @@
     },
     "added_at": "2026-11-06",
     "verified_at": "2026-11-08",
-    "featured": false
+    "featured": true
   },
   {
     "id": "ailingqu-bouncing-dots-loader",
@@ -7883,7 +7883,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-08",
-    "featured": false,
+    "featured": true,
     "access": {
       "checked_at": "2026-11-08",
       "page_status": "accessible",
@@ -10325,7 +10325,7 @@
     },
     "added_at": "2026-11-09",
     "verified_at": "2026-11-09",
-    "featured": false,
+    "featured": true,
     "access": {
       "checked_at": "2026-11-09",
       "page_status": "accessible",

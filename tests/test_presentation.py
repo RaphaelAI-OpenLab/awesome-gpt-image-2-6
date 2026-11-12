@@ -4,6 +4,7 @@ import re
 import sys
 import unittest
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 from pathlib import Path
 from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
@@ -12,7 +13,7 @@ from i18n import LANGUAGES, DETAIL_LANGUAGES, LANGUAGE_NAMES, filename, messages
 from build_readme import outputs, render_readme
 from source_cases import read_cases, page_path, render_detail
 from presentation import asset_outputs, language_nav, repo_badges
-from validate import validate_locales
+from validate import validate_config, validate_locales
 
 
 class PresentationTests(unittest.TestCase):
@@ -92,16 +93,46 @@ class PresentationTests(unittest.TestCase):
                     text = render_readme(self.config, self.prompts, lang)
                     self.assertIn(translation, text)
                     self.assertIn(page_path(item, lang), text)
-                    self.assertIn(f'| {messages(lang)["Original prompts available at source"]} | **0** |', text)
+                    self.assertIn(f'| 📝 {messages(lang)["Total prompts"]} | **0** |', text)
                     if lang != 'en':
                         self.assertNotEqual(translation, key)
                         self.assertNotIn(key, text)
+
+    def test_compact_statistics_count_prompt_entries_and_displayed_featured_cards(self):
+        config = copy.deepcopy(self.config)
+        config['presentation'].update(featured_limit=1, updated_at='2026-11-12T08:02:32Z')
+        with_prompts = copy.deepcopy(next(item for item in self.cases if item['prompt'].get('entries') and item['media']))
+        entry = copy.deepcopy(with_prompts['prompt']['entries'][0])
+        with_prompts['prompt']['entries'] = [entry, copy.deepcopy(entry)]
+        without_prompts = copy.deepcopy(next(item for item in self.cases if not item['prompt'].get('entries')))
+        config['presentation']['featured_case_ids'] = [with_prompts['id']]
+        with patch('homepage.read_cases', return_value=[with_prompts, without_prompts]):
+            text = render_readme(config, [], 'zh-CN')
+        statistics = text.split('<a id="statistics"></a>', 1)[1].split('<a id="featured"></a>', 1)[0]
+        self.assertEqual(len(re.findall(r'^\| [📝⭐🔄]', statistics, flags=re.MULTILINE)), 3)
+        self.assertIn('| **指标** | **数量** |', statistics)
+        self.assertIn('| 📝 提示词总数 | **2** |', statistics)
+        self.assertIn('| ⭐ 精选 | **1** |', statistics)
+        self.assertIn('| 🔄 最后更新 | **2026年11月12日星期四 UTC 08:02:32** |', statistics)
+        self.assertNotIn('来源数量不代表复现次数', statistics)
+        self.assertNotIn('最近来源核对', statistics)
+
+    def test_statistics_update_time_requires_a_utc_timestamp(self):
+        for timestamp in ('2026-11-12', '2026-11-12T16:02:32+08:00', 'invalid', None):
+            with self.subTest(timestamp=timestamp):
+                config = copy.deepcopy(self.config)
+                config['presentation']['updated_at'] = timestamp
+                errors = []
+                validate_config(config, errors)
+                self.assertTrue(any('presentation.updated_at' in error for error in errors))
 
     def test_shared_anchors_and_case_inventory_are_preserved(self):
         reference = set(re.findall(r'<a id="([^"]+)"',render_readme(self.config,self.prompts,'en')))
         for lang in LANGUAGES:
             text=render_readme(self.config,self.prompts,lang)
             self.assertEqual(set(re.findall(r'<a id="([^"]+)"',text)),reference)
+            anchors = re.findall(r'<a id="([^"]+)"', text)
+            self.assertEqual(len(anchors), len(set(anchors)))
             for case in self.cases:
                 if case['status']=='published': self.assertIn(page_path(case,lang),text)
 
@@ -127,11 +158,51 @@ class PresentationTests(unittest.TestCase):
         for lang in LANGUAGES:
             text=render_readme(self.config,self.prompts,lang)
             self.assertNotIn('github.com/netlogs/',text)
-            self.assertIn(repo_url(self.config)+'/issues/new?template=submit-case.yml',text)
+            self.assertIn('(CONTRIBUTING.md)',text)
             self.assertIn(repo_url(self.config)+'/issues/new?template=report-problem.yml',text)
+        self.assertIn(repo_url(self.config)+'/issues/new?template=submit-case.yml',(ROOT/'CONTRIBUTING.md').read_text())
         for template in ['submit-case.yml','report-problem.yml']:
             self.assertTrue((ROOT/'.github/ISSUE_TEMPLATE'/template).is_file())
         self.assertIn('CODE · MIT', messages('en'))
+
+    def test_featured_gif_has_its_own_image_link_and_separate_case_title(self):
+        class Links(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.links = []
+                self.current = None
+
+            def handle_starttag(self, tag, attrs):
+                if tag == 'a':
+                    self.current = {'href': dict(attrs).get('href'), 'tags': [], 'text': ''}
+                    self.links.append(self.current)
+                elif self.current is not None:
+                    self.current['tags'].append(tag)
+
+            def handle_endtag(self, tag):
+                if tag == 'a':
+                    self.current = None
+
+            def handle_data(self, text):
+                if self.current is not None:
+                    self.current['text'] += text
+
+        item = next(case for case in self.cases if case['id'] == 'docs-lantern-gif')
+        media = item['media'][0]
+        config = copy.deepcopy(self.config)
+        config['presentation']['featured_case_ids'] = [item['id']]
+        with patch('homepage.read_cases', return_value=[item]):
+            for language in LANGUAGES:
+                text = render_readme(config, self.prompts, language)
+                featured = text.split('<a id="featured"></a>', 1)[1].split('<a id="all-cases"></a>', 1)[0]
+                parser = Links()
+                parser.feed(featured)
+                image_link = next(link for link in parser.links if 'img' in link['tags'])
+                self.assertEqual(image_link['href'], media['path'])
+                self.assertEqual(image_link['tags'], ['img'])
+                self.assertIn(f'### 1. [{localized(item["title"], language)}](#source-case-{item["id"]})', featured)
+                self.assertLess(featured.index('src="' + media['path'] + '"'), featured.index('```'))
+                self.assertLess(featured.rfind('```'), featured.rfind(item['source']['author']))
 
 
 if __name__=='__main__': unittest.main()
