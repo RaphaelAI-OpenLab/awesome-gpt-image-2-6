@@ -99,7 +99,7 @@ def validate_config(config, errors: list[str]) -> None:
         "project": ["name", "repository_slug", "repository_owner", "default_branch", "model_family", "official_release_date", "official_url", "model_docs_url", "model_ids"],
         "brand": ["name", "home_url", "gallery_url", "model_page_url", "model_available", "model_support_verified_at"],
         "tracking": ["utm_source", "utm_medium", "utm_campaign"],
-        "presentation": ["featured_limit", "latest_limit", "generate_case_pages"],
+        "presentation": ["updated_at", "featured_limit", "featured_case_ids", "latest_limit", "generate_case_pages"],
         "cross_promo": ["enabled", "title", "description", "url", "image_path"],
     }
     for section, fields in required.items():
@@ -146,11 +146,22 @@ def validate_config(config, errors: list[str]) -> None:
     for key, value in config["tracking"].items():
         if not isinstance(value, str) or not value.strip():
             errors.append(f"tracking.{key}: expected non-empty text")
+    try:
+        updated = dt.datetime.fromisoformat(presentation["updated_at"])
+        if updated.utcoffset() != dt.timedelta(0):
+            raise ValueError("expected UTC timestamp")
+    except (TypeError, ValueError):
+        errors.append("presentation.updated_at: expected an ISO 8601 UTC timestamp")
     for key in ("featured_limit", "latest_limit"):
         if not isinstance(presentation[key], int) or isinstance(presentation[key], bool) or not 1 <= presentation[key] <= 30:
             errors.append(f"presentation.{key}: expected an integer from 1 to 30")
     if not isinstance(presentation["generate_case_pages"], bool):
         errors.append("presentation.generate_case_pages: expected true or false")
+    featured_ids = presentation['featured_case_ids']
+    if not isinstance(featured_ids, list) or not all(isinstance(case_id, str) and case_id.strip() for case_id in featured_ids):
+        errors.append('presentation.featured_case_ids: expected a list of case IDs')
+    elif len(featured_ids) != len(set(featured_ids)):
+        errors.append('presentation.featured_case_ids: duplicate case IDs')
     seen = set()
     for index, category in enumerate(config["categories"]):
         label = f"categories[{index}]"
@@ -266,11 +277,11 @@ def media_mime(data: bytes) -> str | None:
     return None
 
 
-def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
+def validate_source_cases(config, cases, prompts, errors):
     ids = {item['id'] for item in prompts if item.get('id')}
     categories = {item['id'] for item in config['categories']}
     for index, item in enumerate(cases):
-        name = f'{asset_prefix}source-cases[{index}]'
+        name = f'source-cases[{index}]'
         if item['id'] in ids:
             errors.append(f'{name}.id: duplicate across source cases or prompts')
         ids.add(item['id'])
@@ -308,7 +319,7 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
                 if not all(entry['title'][lang].strip() for lang in ('en', 'zh-CN')):
                     errors.append(f'{name}.prompt.entries[{pindex}].title: bilingual title required')
                 if 'path' in entry:
-                    expected_folder = f"{asset_prefix}cases/{item['id']}/"
+                    expected_folder = f"cases/{item['id']}/"
                     path = entry['path']
                     if not path.startswith(expected_folder) or '..' in Path(path).parts or not path.endswith('.txt'):
                         errors.append(f'{name}.prompt.entries[{pindex}].path: expected a text file under {expected_folder}')
@@ -353,16 +364,9 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
                 continue
             check_asset(path, f'{mname}.path', errors, allow_remote=False)
             folder = 'references' if media.get('role') == 'reference' else 'examples'
-            expected = f"{asset_prefix}assets/{folder}/{item['id']}/"
-            # Curator-made replacements are grouped by use-case category instead
-            # of source website or case folder; only allow this for external outputs.
-            recreated = (
-                asset_prefix == 'external-sites/'
-                and media.get('role', 'output') != 'reference'
-                and path.startswith(f"{asset_prefix}assets/recreated/{item['category']}/{item['id']}.")
-            )
-            if (not path.startswith(expected) and not recreated) or '..' in Path(path).parts:
-                errors.append(f'{mname}.path: expected {expected} or categorized recreated asset with no traversal')
+            expected = f"assets/{folder}/{item['id']}/"
+            if not path.startswith(expected) or '..' in Path(path).parts:
+                errors.append(f'{mname}.path: expected {expected} with no traversal')
             allowed = {'.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.mp4'}
             if Path(path).suffix.lower() not in allowed:
                 errors.append(f'{mname}.path: unsupported preview media format')
@@ -395,10 +399,9 @@ def validate_source_cases(config, cases, prompts, errors, *, asset_prefix=''):
 
 def markdown_link_errors() -> list[str]:
     errors = []
+    anchors = {}
     paths = (list(ROOT.glob("*.md")) + list((ROOT / "docs").glob("*.md"))
-             + list((ROOT / "cases").glob("*/README*.md"))
-             + list((ROOT / "external-sites").glob("*.md"))
-             + list((ROOT / "external-sites/cases").glob("*/README*.md")))
+             + list((ROOT / "cases").glob("*/README*.md")))
     for path in paths:
         text = path.read_text(encoding="utf-8")
         # Ignore code samples so draft JSON and intentionally shown placeholders are not treated as live links.
@@ -415,10 +418,12 @@ def markdown_link_errors() -> list[str]:
                 errors.append(f"{path.relative_to(ROOT)}: local link does not exist: {target}")
                 continue
             if parts.fragment and linked.suffix == ".md":
-                contents = linked.read_text(encoding="utf-8")
-                explicit = set(re.findall(r'<a\s+(?:id|name)="([^"]+)"', contents))
-                headings = {re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-") for heading in re.findall(r"^#+ (.+)$", contents, re.M)}
-                if unquote(parts.fragment) not in explicit | headings:
+                if linked not in anchors:
+                    contents = linked.read_text(encoding="utf-8")
+                    explicit = set(re.findall(r'<a\s+(?:id|name)="([^"]+)"', contents))
+                    headings = {re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-") for heading in re.findall(r"^#+ (.+)$", contents, re.M)}
+                    anchors[linked] = explicit | headings
+                if unquote(parts.fragment) not in anchors[linked]:
                     errors.append(f"{path.relative_to(ROOT)}: local anchor does not exist: {target}")
     return errors
 
@@ -463,7 +468,6 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         schema = read_json("content/schema.json")
         template = read_json("templates/prompt.json")
         cases = read_json("content/source-cases.json")
-        external_cases = read_json("external-sites/source-cases.json")
         case_schema = read_json("content/source-cases.schema.json")
         case_template = read_json("templates/source-case.json")
     except (OSError, json.JSONDecodeError) as error:
@@ -473,19 +477,20 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
     errors.extend(schema_errors(prompts, schema, "prompts", schema))
     errors.extend(schema_errors([template], schema, "template", schema))
     errors.extend(schema_errors(cases, case_schema, "source-cases", case_schema))
-    errors.extend(schema_errors(external_cases, case_schema, "external-sites/source-cases", case_schema))
     errors.extend(schema_errors([case_template], case_schema, "source-case-template", case_schema))
     if errors:
         return errors, warnings
+    from browse import validate_browse
+    validate_browse(cases, errors)
     validate_source_cases(config, cases, prompts, errors)
-    validate_source_cases(config, external_cases, prompts + cases, errors, asset_prefix='external-sites/')
-    from external_sites import is_external_site
+    published_case_ids = {item['id'] for item in cases if item['status'] == 'published'}
+    unknown_featured = set(config['presentation']['featured_case_ids']) - published_case_ids
+    if unknown_featured:
+        errors.append(f'presentation.featured_case_ids: unknown or unpublished cases: {sorted(unknown_featured)}')
+    from source_cases import is_supported_source
     for item in cases:
-        if is_external_site(item):
-            errors.append(f"{item['id']}: 外站来源应写入 external-sites/source-cases.json")
-    for item in external_cases:
-        if not is_external_site(item):
-            errors.append(f"{item['id']}: 官方、社媒、内容社区及 GitHub 来源应留在主合集")
+        if not is_supported_source(item):
+            errors.append(f"{item['id']}: 本仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 来源")
     validate_prompts(config, prompts, errors, warnings, release=release)
     for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/website/raphael-homepage-20261110.png", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)

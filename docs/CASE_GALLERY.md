@@ -2,7 +2,7 @@
 
 [返回中文首页](../README.zh-CN.md) · [English README](../README.md)
 
-本页保留首轮检索记录；主合集数据由 [source-cases.json](../content/source-cases.json) 维护，在[中文 README 分类](../README.zh-CN.md#all-cases)展示；其他独立网站的案例、数据与素材已移入[外站素材目录](../external-sites/README.md)，不计入主合集分类和统计。
+本页保留仓库收录范围内的首轮检索记录；来源案例由 [source-cases.json](../content/source-cases.json) 维护，在[中文 README 分类](../README.zh-CN.md#all-cases)展示。
 
 本轮核对日期：2026-11-05（UTC）。
 
@@ -81,14 +81,6 @@
 
 1. **community-malfoid**：[夏日角色插画动画](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/)，u/Junior-Grade-2965。正文明确写使用 ChatGPT Image 2.6，把静态插画变为动画。
 2. **community-gifts**：[Images 2.6 brings GIF(T)S :D](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)，u/Algoartist。标题明确写 2.6，原帖有媒体；缺少提示词与参数，未独立评价动画效果。
-
-## 媒体报道：等待补齐官方原帖
-
-**reported-dancing-cat**：[The Verge 报道](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)，2026-11-04。报道描述 OpenAI 的跳舞猫 GIF 演示，并给出提示词：
-
-> can you make a gif of a cat dancing?
-
-模型由报道归为 Images 2.6，具体版本未注明。本轮能读取搜索索引正文，但报道网页直接打开失败；尚未把该演示与下列 OpenAI X 帖精确对应，因此不计入原始来源已核对案例。
 
 ## 待核实：不计入已确认案例
 

@@ -29,8 +29,6 @@
 
 案例標題、描述與詳細頁面若尚無翻譯，將以英文顯示。原始提示詞與來源引文不予翻譯。
 
-**快速連結** · [🖼️ 瀏覽案例](#all-cases) · [🆕 最近新增](#latest) · [📝 新增範例](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=submit-case.yml) · [🐞 回報問題](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml) · [📚 閱讀指南](CONTRIBUTING.md)
-
 <a id="gallery"></a>
 
 ## 🌐 在網頁圖庫中查看
@@ -41,38 +39,741 @@
 
 </div>
 
-*截圖展示 Raphael 目前首頁，暫作圖庫預覽；本合集的專屬網頁圖庫正在準備中。*
-
 **[👉 在 Raphael 開始創作 →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-TW)**
 
 為什麼到網站創作？
 
 | 功能 | GitHub README | Raphael 網頁版 |
 | --- | --- | --- |
-| 🎨 視覺化版面 | 線性案例列表 | 互動式創作介面 |
-| ✍️ 提示詞使用 | 複製已公開的提示詞 | 輸入提示詞與參考圖 |
-| 🤖 AI 生圖 | 另行開啟網站 | 選擇模型並生成 |
-| 📱 行動版 | 閱讀案例 | 在瀏覽器中創作 |
-| 🏷️ 導覽 | 案例分類 | 模型、風格與工具 |
+| 🆓 免費生圖 | 瀏覽案例與提示詞 | 基礎生圖免費，免登入、免綁卡 |
+| ✍️ 提示詞使用 | 複製已公開的提示詞 | 貼上提示詞，直接生成圖片 |
+| 🖼️ 參考圖編輯 | 查看參考圖與輸入要求 | 上傳參考圖，輔助生成與修改圖片 |
+| 🤖 模型選擇 | 查看各案例使用的模型 | 選擇 GPT Image、Seedream、Nano Banana 等模型 |
+| 🎨 風格與尺寸 | 參考來源記錄的風格與參數 | 選擇風格、長寬比與輸出格式 |
+| 🔄 多版本嘗試 | 比較已收錄的案例效果 | 每則提示詞一次最多生成 4 張圖 |
+| 🛠️ 圖片工具 | 閱讀圖片編輯工作流程 | 去背、放大、擴圖與局部修改 |
+| 📱 行動版 | 閱讀案例 | 在手機瀏覽器中生成與編輯圖片 |
+
+免費生圖使用基礎模式；其他模型依網頁顯示的點數與方案要求使用。
 
 [瀏覽此儲存庫的所有案例 →](#all-cases)
-
-[外站素材目錄（不計入本頁分類與統計）](external-sites/README.md)
 
 <a id="categories"></a>
 
 ## 🏷️ 依分類瀏覽
 
-| 分類 | 附來源連結的案例 | 完整提示詞 |
-| --- | ---: | ---: |
-| [品牌與產品視覺](#category-brand-products) | 8 | 7 |
-| [海報與文字排版](#category-posters-typography) | 9 | 7 |
-| [資訊圖表](#category-infographics) | 8 | 8 |
-| [室內設計與建築](#category-interiors-architecture) | 3 | 2 |
-| [角色與一致性](#category-characters-consistency) | 26 | 23 |
-| [標註與局部編輯](#category-markup-edits) | 11 | 10 |
-| [SVG 與設計素材](#category-svg-design-assets) | 4 | 3 |
-| [GIF 與動畫](#category-gif-animation) | 89 | 81 |
+### 使用場景
+
+<details open>
+<summary>個人寫真 / 頭像</summary>
+
+- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
+- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
+- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
+
+<details>
+<summary>展開其餘 12 個案例</summary>
+
+- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
+- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
+- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
+- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
+- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
+- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
+- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
+- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
+- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>社交貼文 / 表情貼圖</summary>
+
+- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
+- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
+- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
+
+<details>
+<summary>展開其餘 56 個案例</summary>
+
+- [Office character: falling stock GIF](#source-case-launch-openart-down)
+- [Office character: rising stock GIF](#source-case-launch-openart-up)
+- [Monty typing indicator animation](#source-case-launch-town)
+- [Images 2.6 brings GIF(T)S :D](#source-case-community-gifts)
+- [Boxing tiger animation](#source-case-community-boxing-tiger)
+- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
+- [Rosebud animation](#source-case-community-rosebud-animation)
+- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
+- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
+- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
+- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
+- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
+- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
+- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
+- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
+- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
+- [Black cat punch](#source-case-ailingqu-black-cat-punch)
+- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
+- [Roaring duck](#source-case-ailingqu-roaring-duck)
+- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
+- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
+- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
+- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
+- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
+- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
+- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
+- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
+- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
+- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
+- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
+- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
+- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
+- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
+- [Ram Altman memory-stick parody](#source-case-community-mirochill-ram-altman-animation)
+- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
+- [Ten parody web-ad GIFs: a Japanese creator test](#source-case-community-zunbeho-parody-ad-gifs)
+- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
+- [Heartbeat dance modes: source poster](#source-case-community-kiki-heartbeat-dance-comparison)
+- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
+- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
+- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
+- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
+- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
+- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
+- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
+- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
+- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
+- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
+- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
+- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
+- [Character waving and laughing](#source-case-social-character-wave-laugh)
+- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
+- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
+- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
+- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
+- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>產品行銷 / 電商主圖</summary>
+
+- [Transparent product cutout](#source-case-docs-product-cutout)
+- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
+- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
+
+<details>
+<summary>展開其餘 6 個案例</summary>
+
+- [Toy airplane packaging](#source-case-docs-toy-package)
+- [Miniature brand product world](#source-case-launch-sable)
+- [Travel visual generation speed comparison](#source-case-launch-travel)
+- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
+- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
+- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>Logo / 品牌設計</summary>
+
+- [Cat-head logo brand reel](#source-case-ailingqu-cat-brand-reel)
+- [Bakery SVG logo](#source-case-docs-bakery-svg)
+- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
+
+<details>
+<summary>展開其餘 2 個案例</summary>
+
+- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
+- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>海報 / 傳單 / 賀卡</summary>
+
+- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
+- [Nostalgic holiday card](#source-case-docs-holiday-card)
+- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
+
+<details>
+<summary>展開其餘 9 個案例</summary>
+
+- [Streetwear advertisement typography](#source-case-docs-streetwear)
+- [Roadside shampoo billboard](#source-case-docs-billboard)
+- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
+- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
+- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
+- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
+- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
+- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
+- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>教學圖解 / 簡報</summary>
+
+- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
+- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
+- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
+
+<details>
+<summary>展開其餘 5 個案例</summary>
+
+- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
+- [Market-size presentation slide](#source-case-docs-pitch-slide)
+- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
+- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
+- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>繪本漫畫 / 故事分鏡</summary>
+
+- [Summer character illustration animation](#source-case-community-malfoid)
+- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
+- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
+
+<details>
+<summary>展開其餘 10 個案例</summary>
+
+- [1969 historical crowd scene](#source-case-docs-historical-crowd)
+- [Four-panel pet comic](#source-case-docs-pet-comic)
+- [Establish a storybook character](#source-case-docs-character-start)
+- [Continue the same character’s story](#source-case-docs-character-story)
+- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
+- [Owl sketch to animation](#source-case-launch-owl)
+- [Stained-glass whale](#source-case-launch-picsart)
+- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
+- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
+- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>遊戲素材 / 動畫原型</summary>
+
+- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
+- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
+- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
+
+<details>
+<summary>展開其餘 14 個案例</summary>
+
+- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
+- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
+- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
+- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
+- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
+- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
+- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
+- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
+- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
+- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
+- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
+- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
+- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
+- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>App / 網頁設計</summary>
+
+- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
+- [Web summary interaction animation](#source-case-social-web-summary-interaction-loop)
+- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
+
+<details>
+<summary>展開其餘 2 個案例</summary>
+
+- [Farmers market mobile interface](#source-case-docs-market-ui)
+- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
+
+</details>
+
+
+</details>
+
+<details open>
+<summary>照片編輯 / 換裝換景</summary>
+
+- [Living-room markup edit](#source-case-launch-fal)
+- [Change clothing while preserving identity](#source-case-docs-outfit)
+- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
+
+<details>
+<summary>展開其餘 12 個案例</summary>
+
+- [Recolor a marked vase](#source-case-docs-vase-markup)
+- [Transfer a pixel-art style](#source-case-docs-pixel-style)
+- [Combine pets across images](#source-case-docs-dog-composite)
+- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
+- [Remove a held flower](#source-case-docs-remove-flower)
+- [Place a person into a camping escape scene](#source-case-docs-person-scene)
+- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
+- [Replace chairs in an interior](#source-case-docs-room-chairs)
+- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
+- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
+- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
+- [Circle markup edit adding Santa hat and gift](#source-case-social-circle-markup-santa-gift-edit)
+
+</details>
+
+
+</details>
+
+### 風格
+
+<details open>
+<summary>寫實攝影</summary>
+
+- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
+- [Streetwear advertisement typography](#source-case-docs-streetwear)
+- [1969 historical crowd scene](#source-case-docs-historical-crowd)
+- [Change clothing while preserving identity](#source-case-docs-outfit)
+- [Transparent product cutout](#source-case-docs-product-cutout)
+- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
+- [Remove a held flower](#source-case-docs-remove-flower)
+- [Place a person into a camping escape scene](#source-case-docs-person-scene)
+- [Replace chairs in an interior](#source-case-docs-room-chairs)
+- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
+- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
+- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
+- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
+- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
+- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
+- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
+- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
+- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
+- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
+- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
+- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
+- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
+- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
+- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
+- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
+- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
+- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
+
+</details>
+
+<details open>
+<summary>電影感 / 電影劇照</summary>
+
+- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
+- [1969 historical crowd scene](#source-case-docs-historical-crowd)
+- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
+- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
+- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
+
+</details>
+
+<details open>
+<summary>動漫 / 漫畫</summary>
+
+- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
+- [Summer character illustration animation](#source-case-community-malfoid)
+- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
+- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
+- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
+- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
+- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
+- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
+
+</details>
+
+<details open>
+<summary>卡通 / 繪本插畫</summary>
+
+- [Four-panel pet comic](#source-case-docs-pet-comic)
+- [Establish a storybook character](#source-case-docs-character-start)
+- [Continue the same character’s story](#source-case-docs-character-story)
+- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
+- [Summer character illustration animation](#source-case-community-malfoid)
+- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
+- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
+- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
+- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
+- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
+- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
+- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
+- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
+- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
+- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
+- [Black cat punch](#source-case-ailingqu-black-cat-punch)
+- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
+- [Roaring duck](#source-case-ailingqu-roaring-duck)
+- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
+- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
+- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
+- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
+- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
+- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
+- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
+- [Character waving and laughing](#source-case-social-character-wave-laugh)
+- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+<details open>
+<summary>3D 渲染 / 黏土</summary>
+
+- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
+- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
+- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
+- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+<details open>
+<summary>Q 版 / 萌系</summary>
+
+- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
+- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
+- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
+- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
+- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
+- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
+
+</details>
+
+<details open>
+<summary>像素藝術</summary>
+
+- [Transfer a pixel-art style](#source-case-docs-pixel-style)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
+- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
+- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
+- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
+- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
+- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
+- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
+- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
+- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
+- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
+
+</details>
+
+<details open>
+<summary>水墨 / 中國風</summary>
+
+- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
+- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
+- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
+- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
+
+</details>
+
+<details open>
+<summary>水彩 / 水粉</summary>
+
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
+- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
+- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>復古 / 懷舊</summary>
+
+- [Nostalgic holiday card](#source-case-docs-holiday-card)
+- [1969 historical crowd scene](#source-case-docs-historical-crowd)
+- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
+- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
+- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
+- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
+
+</details>
+
+<details open>
+<summary>極簡 / 線條</summary>
+
+- [Bakery SVG logo](#source-case-docs-bakery-svg)
+- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
+- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
+- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
+- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
+- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
+- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
+- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
+
+</details>
+
+<details open>
+<summary>紙藝 / 拼貼</summary>
+
+- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
+- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
+- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
+
+</details>
+
+### 主題
+
+<details open>
+<summary>人物 / 肖像</summary>
+
+- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
+- [1969 historical crowd scene](#source-case-docs-historical-crowd)
+- [Change clothing while preserving identity](#source-case-docs-outfit)
+- [Remove a held flower](#source-case-docs-remove-flower)
+- [Place a person into a camping escape scene](#source-case-docs-person-scene)
+- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
+- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
+- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
+- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
+- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
+- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
+- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
+- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
+- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
+- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
+- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
+- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
+- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
+- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
+- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
+
+</details>
+
+<details open>
+<summary>動物 / 寵物</summary>
+
+- [Four-panel pet comic](#source-case-docs-pet-comic)
+- [Combine pets across images](#source-case-docs-dog-composite)
+- [Establish a storybook character](#source-case-docs-character-start)
+- [Continue the same character’s story](#source-case-docs-character-story)
+- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
+- [Owl sketch to animation](#source-case-launch-owl)
+- [Stained-glass whale](#source-case-launch-picsart)
+- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
+- [Boxing tiger animation](#source-case-community-boxing-tiger)
+- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
+- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
+- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
+- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
+- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
+- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
+- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
+- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
+- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
+- [Black cat punch](#source-case-ailingqu-black-cat-punch)
+- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
+- [Roaring duck](#source-case-ailingqu-roaring-duck)
+- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
+- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
+- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
+- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
+- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
+- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
+- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
+- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
+- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
+- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
+- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
+- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
+- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
+- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
+- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
+- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
+
+</details>
+
+<details open>
+<summary>產品 / 日常物件</summary>
+
+- [Transparent product cutout](#source-case-docs-product-cutout)
+- [Toy airplane packaging](#source-case-docs-toy-package)
+- [Recolor a marked vase](#source-case-docs-vase-markup)
+- [Miniature brand product world](#source-case-launch-sable)
+- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
+- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
+- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
+- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
+- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
+- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
+- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
+- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
+
+</details>
+
+<details open>
+<summary>食物 / 飲品</summary>
+
+- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
+- [Farmers market mobile interface](#source-case-docs-market-ui)
+- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
+- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
+- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
+- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
+- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
+
+</details>
+
+<details open>
+<summary>時尚 / 服飾</summary>
+
+- [Streetwear advertisement typography](#source-case-docs-streetwear)
+- [Change clothing while preserving identity](#source-case-docs-outfit)
+- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
+- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
+- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
+- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
+- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
+- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
+
+</details>
+
+<details open>
+<summary>建築 / 室內空間</summary>
+
+- [Replace chairs in an interior](#source-case-docs-room-chairs)
+- [Living-room markup edit](#source-case-launch-fal)
+- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
+- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
+- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
+- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
+- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
+- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
+- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
+- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
+
+</details>
+
+<details open>
+<summary>自然 / 植物</summary>
+
+- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
+- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
+- [Rosebud animation](#source-case-community-rosebud-animation)
+- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
+- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
+- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
+- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
+- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
+- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
+- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
+- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
+- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
+- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
+- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
+- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>城市街景 / 地標</summary>
+
+- [Roadside shampoo billboard](#source-case-docs-billboard)
+- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
+- [Travel visual generation speed comparison](#source-case-launch-travel)
+- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
+- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
+- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
+- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
+- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
+
+</details>
+
+<details open>
+<summary>奇幻 / 遊戲角色</summary>
+
+- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
+- [Summer character illustration animation](#source-case-community-malfoid)
+- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
+- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
+- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
+- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
+- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
+- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
+- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
+- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
+- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
+- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
+- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
+- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
+- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
+- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
+
+</details>
+
+<details open>
+<summary>圖表 / 圖解 / 地圖</summary>
+
+- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
+- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
+- [Market-size presentation slide](#source-case-docs-pitch-slide)
+- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
+- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
+- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
+- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
+- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
+- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
+
+</details>
+
+<details open>
+<summary>文字 / 排版</summary>
+
+- [Streetwear advertisement typography](#source-case-docs-streetwear)
+- [Roadside shampoo billboard](#source-case-docs-billboard)
+- [Nostalgic holiday card](#source-case-docs-holiday-card)
+- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
+- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
+- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
+- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
+- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
+- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
+- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
+- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
+- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
+
+</details>
+
 
 <a id="contents"></a>
 
@@ -81,7 +782,6 @@
 - [什麼是 GPT Image 2.6？](#about)
 - [統計資料](#statistics)
 - [精選案例](#featured)
-- [最近新增](#latest)
 - [所有案例](#all-cases)
 - [完整提示詞](#collection)
 - [使用方式](#using)
@@ -102,57 +802,352 @@ OpenAI 於 2026 年 11 月 4 日推出 Images 2.6。本合集涵蓋 Sunburst 與
 
 ## 📊 統計資料
 
-| 指標 | 數量 / 日期 |
-| --- | ---: |
-| 附來源連結的案例 | **158** |
-| 官方範例 | **37** |
-| 創作者自述範例 | **121** |
-| 可於來源取得的原始提示詞 | **132** |
-| 於此發布的完整提示詞 | **141** |
-| 已於本機封存的媒體檔案 | **295** |
-| 最近來源檢查時間（UTC） | **2026-11-09** |
-
-來源數量不代表已重現。待確認的線索不計入；同一工作流程中的不同產出計為一個案例。
+| **指標** | **數量** |
+| --- | --- |
+| 📝 提示詞總數 | **141** |
+| ⭐ 精選 | **12** |
+| 🔄 最後更新 | **2026年11月12日星期四 UTC 10:15:00** |
 
 <a id="featured"></a>
 
 ## 🔥 精選案例
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="#source-case-docs-bakery-svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="280" /><br /><strong>Bakery SVG logo</strong></a><br />官方說明文件</td>
-<td width="33%" align="center"><a href="#source-case-docs-lantern-gif"><img src="assets/examples/docs-lantern-gif/monkey-lantern-gpt-image-2-6-sunburst.gif" alt="Original monkey GIF" width="280" /><br /><strong>Lantern-carrying monkey loop</strong></a><br />官方說明文件</td>
-<td width="33%" align="center"><a href="#source-case-launch-fal"><img src="assets/examples/launch-fal/source-02.png" alt="Source image 2" width="280" /><br /><strong>Living-room markup edit</strong></a><br />官方發布示範</td>
-</tr>
-<tr>
-<td width="33%" align="center"><a href="#source-case-launch-sable"><img src="assets/examples/launch-sable/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Miniature brand product world</strong></a><br />官方發布示範</td>
-<td width="33%" align="center"><a href="#source-case-launch-higgsfield"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="280" /><br /><strong>Knight scene and clothing edit sequence</strong></a><br />官方發布示範</td>
-<td width="33%" align="center"><a href="#source-case-docs-complexity"><img src="assets/examples/docs-complexity/paper-cut-football-effort-high-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Players in folded blue paper jerseys fill the foreground. A CHAMPIONS sign hangs in the stands behind them." width="280" /><br /><strong>Paper-cut championship scene: complexity comparison</strong></a><br />官方說明文件</td>
-</tr>
-</table>
+<a id="featured-case-launch-higgsfield"></a>
+
+### 38. [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-01.webp"><img src="assets/examples/launch-higgsfield/source-01.webp" alt="Source image 1" width="700" /></a><br /><sub>Source image 1</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-02.webp"><img src="assets/examples/launch-higgsfield/source-02.webp" alt="Source image 2" width="700" /></a><br /><sub>Source image 2</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/launch-higgsfield/source-03.webp"><img src="assets/examples/launch-higgsfield/source-03.webp" alt="Source image 3" width="700" /></a><br /><sub>Source image 3</sub>
+</div>
+
+**原始提示詞**
+
+**Starting image · Character and scene**
+
+```text
+Epic high fantasy anime key visual, mature seinen style like a modern high-budget anime film. A young woman sorceress-knight in her twenties with long crimson hair and sharp golden eyes stands on the edge of a cliff in ornate silver and emerald armor with a flowing royal blue cape, a glowing runic sword planted in front of her, magic sparks around her hands. Behind her a vast fantasy kingdom: floating islands with waterfalls pouring into the clouds, a white castle with spires, a huge ancient dragon flying in the distance, giant blooming sakura and golden autumn forests in the valley below. Sunset sky with vivid orange, magenta, turquoise and violet clouds, god rays, glowing magic particles in the air. Extremely vibrant saturated colors, dramatic rim lighting, cel shading with detailed painted backgrounds, crisp clean line art, depth and atmosphere, dynamic low camera angle, wide cinematic composition. Adult, elegant, serious heroic mood, not childish, no chibi, no sci-fi, no neon, no text, no watermark.
+```
+
+**Edit 1 · Sunset valley**
+
+```text
+Replace the moonlit landscape with a golden sunset over a misty mountain valley, winding river, waterfalls and ancient ruins. Keep the background softly blurred and the knight, armor, sword, rock and composition unchanged.
+```
+
+**Edit 2 · Floating castle**
+
+```text
+Replace the background with a majestic floating castle, smaller floating islands, cascading waterfalls and a dragon flying overhead. Preserve the warm sunset, atmospheric haze and shallow depth of field. Keep the knight and foreground unchanged.
+```
+
+**Edit 3 · Recolor armor**
+
+```text
+Recolor the armor to ivory white with rich gold trim, replace emerald gemstones with rubies, and change green fabric panels to deep crimson. Preserve the armor design, blue cape, red hair, golden sword glow, pose and background.
+```
+
+Use the edits in order, passing the previous output into the next edit. The official page includes the starting-image prompt alongside Edit 1; the three archived images show the edited results.
+
+[來源中的原始提示詞](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**作者**: [Higgsfield](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始來源**: [官方發布示範](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [來源詳情](cases/launch-higgsfield/README.md)
+
+---
+
+<a id="featured-case-ailingqu-four-seasons-tree"></a>
+
+### 95. [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
+
+<div align="center">
+<a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="One tree, four seasons" width="700" /></a><br /><sub>One tree, four seasons</sub>
+</div>
+
+**原始提示詞**
+
+```text
+The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[來源中的原始提示詞](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始來源**: [創作者自述模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [來源詳情](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-launch-picsart"></a>
+
+### 37. [Stained-glass whale](#source-case-launch-picsart)
+
+<div align="center">
+<a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="Source image 1" width="700" /></a><br /><sub>Source image 1</sub>
+</div>
+
+**原始提示詞**
+
+**提示詞未公開**
+
+**作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+
+**原始來源**: [官方發布示範](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [來源詳情](cases/launch-picsart/README.md)
+
+---
+
+<a id="featured-case-ailingqu-window-day-to-night"></a>
+
+### 97. [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
+
+<div align="center">
+<a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="Reading by the window, day to night" width="700" /></a><br /><sub>Reading by the window, day to night</sub>
+</div>
+
+**原始提示詞**
+
+```text
+A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[來源中的原始提示詞](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始來源**: [創作者自述模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [來源詳情](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-social-cyan-poetry-wet-portrait"></a>
+
+### 46. [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
+
+<div align="center">
+<a href="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg"><img src="assets/examples/social-cyan-poetry-wet-portrait/source-01.jpg" alt="Glowing cyan poetry and equations on wet skin" width="700" /></a><br /><sub>Glowing cyan poetry and equations on wet skin</sub>
+</div>
+
+**原始提示詞**
+
+```text
+A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousled dark hair and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing cyan handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic. Dark,moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.
+```
+
+[原始提示詞 (.txt)](cases/social-cyan-poetry-wet-portrait/prompt.txt)
+
+[來源中的原始提示詞](https://x.com/iamsofiaijaz/status/2118561558511132918)
+
+**作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
+
+**原始來源**: [創作者自述模型](https://x.com/iamsofiaijaz/status/2118561513879507399) · [來源詳情](cases/social-cyan-poetry-wet-portrait/README.md)
+
+---
+
+<a id="featured-case-ailingqu-goldfish-bowl"></a>
+
+### 100. [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
+
+<div align="center">
+<a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="Goldfish in a bowl" width="700" /></a><br /><sub>Goldfish in a bowl</sub>
+</div>
+
+**原始提示詞**
+
+```text
+A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[來源中的原始提示詞](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始來源**: [創作者自述模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [來源詳情](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-docs-pixel-style"></a>
+
+### 57. [Transfer a pixel-art style](#source-case-docs-pixel-style)
+
+<div align="center">
+<a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-flare.webp" alt="Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)" width="700" /></a><br /><sub>Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Flare (official model output)</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-pixel-style/motorcycle-gpt-image-2-6-sunburst.webp" alt="Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)" width="700" /></a><br /><sub>Pixel-art motorcycle rider using the reference style — GPT Image 2.6 Sunburst (official model output)</sub>
+</div>
+
+**參考圖片**
+
+參考 / 輸入圖片，並非生成結果。
+
+<div align="center">
+<a href="assets/references/docs-pixel-style/pixels.webp"><img src="assets/references/docs-pixel-style/pixels.webp" alt="Reference input: Pixel-art game screen used as a style reference" width="700" /></a><br /><sub>Reference input: Pixel-art game screen used as a style reference</sub>
+</div>
+
+
+**原始提示詞**
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+[來源中的原始提示詞](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+**原始來源**: [官方說明文件](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [來源詳情](cases/docs-pixel-style/README.md)
+
+---
+
+<a id="featured-case-ailingqu-doodle-monster"></a>
+
+### 108. [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
+
+<div align="center">
+<a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="Doodle monster comes alive" width="700" /></a><br /><sub>Doodle monster comes alive</sub>
+</div>
+
+**原始提示詞**
+
+```text
+A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[來源中的原始提示詞](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始來源**: [創作者自述模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [來源詳情](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-docs-market-ui"></a>
+
+### 67. [Farmers market mobile interface](#source-case-docs-market-ui)
+
+<div align="center">
+<a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-flare.webp" alt="Farmers market mobile app mockup — GPT Image 2.6 Flare (official model output)" width="700" /></a><br /><sub>Farmers market mobile app mockup — GPT Image 2.6 Flare (official model output)</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-market-ui/ui-farmers-market-gpt-image-2-6-sunburst.webp" alt="Farmers market mobile app mockup — GPT Image 2.6 Sunburst (official model output)" width="700" /></a><br /><sub>Farmers market mobile app mockup — GPT Image 2.6 Sunburst (official model output)</sub>
+</div>
+
+**原始提示詞**
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
+```
+
+[來源中的原始提示詞](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+**原始來源**: [官方說明文件](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [來源詳情](cases/docs-market-ui/README.md)
+
+---
+
+<a id="featured-case-ailingqu-pixel-campfire"></a>
+
+### 109. [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
+
+<div align="center">
+<a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="Pixel art campfire" width="700" /></a><br /><sub>Pixel art campfire</sub>
+</div>
+
+**原始提示詞**
+
+```text
+A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
+
+Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+```
+
+Prompt body and shared loop instruction are combined using the source’s documented two-newline separator. Original wording is unchanged. This records the documented recipe, not an independently observed model submission.
+
+[來源中的原始提示詞](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
+
+**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+
+**原始來源**: [創作者自述模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [來源詳情](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+---
+
+<a id="featured-case-launch-town"></a>
+
+### 74. [Monty typing indicator animation](#source-case-launch-town)
+
+<div align="center">
+<a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub>
+</div>
+
+**原始提示詞**
+
+**提示詞未公開**
+
+**作者**: [Town](https://openai.com/index/introducing-images-2-6/)
+
+**原始來源**: [官方發布示範](https://openai.com/index/introducing-images-2-6/) · [來源詳情](cases/launch-town/README.md)
+
+---
+
+<a id="featured-case-community-struggle-sailor-dance"></a>
+
+### 121. [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
+
+<div align="center">
+<a href="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif"><img src="assets/examples/community-struggle-sailor-dance/9ff4f428146eff32d28f14d3db8d46d1.gif" alt="Magical girl dancing at night" width="700" /></a><br /><sub>Magical girl dancing at night</sub>
+</div>
+
+**原始提示詞**
+
+```text
+创建一个 GIF，内容是 一位美少女战士在跳舞
+```
+
+[來源中的原始提示詞](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
+
+**原始來源**: [創作者自述模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [來源詳情](cases/community-struggle-sailor-dance/README.md)
+
+---
 
 影片預覽是首幀靜態圖，點擊可開啟動畫檔案；參考圖與來源封面均單獨標註。
-
-<a id="latest"></a>
-
-## 🆕 最近新增
-
-| 新增日期 | 案例 | 證據 |
-| --- | --- | --- |
-| 2026-11-09 | [Treasure-map route animation](#source-case-social-treasure-map-route-loop) | 創作者自述模型 |
-| 2026-11-09 | [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop) | 創作者自述模型 |
-| 2026-11-09 | [Camera exploded-view animation](#source-case-social-camera-exploded-loop) | 創作者自述模型 |
-| 2026-11-09 | [Web summary interaction animation](#source-case-social-web-summary-interaction-loop) | 創作者自述模型 |
-| 2026-11-09 | [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop) | 創作者自述模型 |
-| 2026-11-09 | [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid) | 創作者自述模型 |
 
 <a id="all-cases"></a>
 
 ## 📋 所有案例
 
 <a id="collection"></a>
-
-原始提示詞保留來源語言，可直接複製；未公開或待核驗的提示詞明確標註，不根據圖片補寫。
 
 <a id="category-brand-products"></a>
 
@@ -5012,7 +6007,7 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 ## 🤝 如何貢獻
 
-主合集案例寫入 content/source-cases.json，外站案例寫入 external-sites/source-cases.json；完整提示詞寫入 content/prompts.json。產生器分別維護兩個合集的索引與雙語詳情頁。
+來源案例寫入 content/source-cases.json，完整提示詞寫入 content/prompts.json。產生器維護索引與中英文詳情頁。
 
 [貢獻指南](CONTRIBUTING.md) · [來源案例與媒體指南](docs/SOURCE_CASES.md) · [維護者指南（中文）](docs/FILLING_GUIDE.zh-CN.md)
 

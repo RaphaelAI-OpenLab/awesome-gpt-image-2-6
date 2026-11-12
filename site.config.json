@@ -27,9 +27,24 @@
     "utm_campaign": "gpt_image_2_6_launch"
   },
   "presentation": {
-    "featured_limit": 6,
+    "updated_at": "2026-11-12T10:15:00Z",
+    "featured_limit": 12,
     "latest_limit": 6,
-    "generate_case_pages": true
+    "generate_case_pages": true,
+    "featured_case_ids": [
+      "launch-higgsfield",
+      "ailingqu-four-seasons-tree",
+      "launch-picsart",
+      "ailingqu-window-day-to-night",
+      "social-cyan-poetry-wet-portrait",
+      "ailingqu-goldfish-bowl",
+      "docs-pixel-style",
+      "ailingqu-doodle-monster",
+      "docs-market-ui",
+      "ailingqu-pixel-campfire",
+      "launch-town",
+      "community-struggle-sailor-dance"
+    ]
   },
   "cross_promo": {
     "enabled": false,

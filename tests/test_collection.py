@@ -146,22 +146,27 @@ class CollectionTests(unittest.TestCase):
                 self.assertNotIn('原作者未公开提示词', section)
                 self.assertIn('](' + item['source']['url'] + ')', text)
 
-    def test_unverified_prompt_is_not_counted_as_source_available(self):
+    def test_only_public_prompts_have_a_source_link_in_the_prompt_section(self):
         cases = [copy.deepcopy(self.cases[0]) for _ in range(3)]
         for item, status in zip(cases, ('source-only', 'not-public', 'unverified')):
             item['id'] = 'prompt-status-' + status
             item['prompt'] = {'status': status, 'url': item['source']['url'] if status == 'source-only' else None}
         with patch('homepage.read_cases', return_value=cases):
-            for lang, source_count, prompt_count, status_label in (
-                ('en', 'Source-linked cases', 'Original prompts available at source', 'Prompt availability unverified'),
-                ('zh-CN', '来源案例', '来源公开原始提示词', '提示词公开状态待核验'),
+            for lang, prompt_label, author_label, status_label in (
+                ('en', 'Original prompt', 'Author', 'Prompt availability unverified'),
+                ('zh-CN', '原始提示词', '作者', '提示词公开状态待核验'),
             ):
                 with self.subTest(lang=lang):
                     text = render_readme(self.config, self.prompts, lang)
-                    self.assertIn(f'| {source_count} | **3** |', text)
-                    self.assertIn(f'| {prompt_count} | **1** |', text)
                     self.assertIn(status_label, text)
                     self.assertIn(page_path(cases[2], lang), text)
+                    for item in cases:
+                        card = text.split(f'<a id="source-case-{item["id"]}"></a>', 1)[1]
+                        section = card.split('**' + prompt_label + '**', 1)[1].split('**' + author_label + '**', 1)[0]
+                        if item['prompt']['status'] == 'source-only':
+                            self.assertIn('](' + item['source']['url'] + ')', section)
+                        else:
+                            self.assertNotRegex(section, r'\[[^]]*\]\(')
 
     def test_drafts_are_not_rendered(self):
         cases = copy.deepcopy(self.cases)
@@ -266,15 +271,6 @@ class CollectionTests(unittest.TestCase):
         media=next(m for m in item['media'] if m['kind']=='video')
         media['kind']='gif'
         self.assertTrue(any('MP4 sources' in x for x in self.errors_for(item)))
-
-    def test_same_day_latest_uses_collection_order(self):
-        cases=copy.deepcopy(self.cases[:2])
-        cases[0]['id']='zz-older';cases[1]['id']='aa-newer'
-        cases[0]['added_at']=cases[1]['added_at']='2026-11-05'
-        with patch('homepage.read_cases',return_value=cases):
-            text=render_readme(self.config,self.prompts,'en')
-        latest=text.split('<a id="latest"></a>',1)[1].split('<a id="all-cases"></a>',1)[0]
-        self.assertLess(latest.index('#source-case-aa-newer'),latest.index('#source-case-zz-older'))
 
     def media_item(self):
         return copy.deepcopy(next(x for x in self.cases if x['media']))

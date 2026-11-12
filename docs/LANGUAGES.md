@@ -36,7 +36,7 @@ README 界面提供 16 个真实语言版本，每种语言都有独立生成文
 - `scripts/i18n.py` defines supported locales and unique README filenames. `DETAIL_LANGUAGES` is deliberately separate from interface languages.
 - `content/locales/en.json` is the source-keyed UI catalog. Every other locale file must contain exactly the same keys, valid text, matching placeholders such as `{brand}`, and table delimiters.
 - Change interface copy in the generator and catalogs together. Missing UI translations fail validation instead of silently publishing an English interface under another language label.
-- 主合集数据为 `content/source-cases.json`，外站数据为 `external-sites/source-cases.json`，完整提示词为 `content/prompts.json`。外站目录单独按来源网站展示，中英文详情页生成到 `external-sites/cases/`。新案例沿用已说明的英文内容回退，不要求先补齐另外十四种语言的案例正文。
+- 来源案例数据为 `content/source-cases.json`，完整提示词为 `content/prompts.json`，中英文详情页生成到 `cases/`。新案例沿用已说明的英文内容回退，不要求先补齐另外十四种语言的案例正文。
 - Do not translate or reconstruct undisclosed original prompts. Do not relabel a creator claim as independent verification.
 - `scripts/presentation.py` 生成本地语言标签、兼容旧链接的导航徽章和多语言素材占位图。首页身份区使用与 YouMind 相同类型的五枚紧凑徽章：Awesome、实时 Stars、MIT、真实校验工作流状态、PRs welcome。
 - Star 数量通过 Shields.io 读取本仓库；CI 状态来自本仓库 `validate.yml` 的默认分支徽章。两者均依赖外部图片服务，不在仓库中缓存或手写状态。MIT 徽章链接实际许可证，其适用范围仍为代码和原创文档等；第三方内容遵守各自条款。

@@ -1,8 +1,11 @@
 """README layout inspired by YouMind; all copy and rendering are project-specific."""
+import datetime as dt
+
 from i18n import DETAIL_LANGUAGES, ui
 from presentation import language_nav, repo_badges
-from common import GENERATED_MARKER, html_attr, localized, md_link, md_text, published, repo_url, tracked_url
-from source_cases import label, page_path, preview, read_cases, render_inline_case, visible
+from common import GENERATED_MARKER, localized, md_link, md_text, published, repo_url, tracked_url
+from source_cases import read_cases, render_inline_case, visible
+from browse import render_browse
 
 
 def render_home(config, prompts, language, render_prompt):
@@ -14,8 +17,6 @@ def render_home(config, prompts, language, render_prompt):
     title = c('Awesome {model} Prompts', '{model} 提示词大全').format(model=config['project']['model_family'])
     def heading(anchor, en, cn):
         return [f'<a id="{anchor}"></a>', '', '## ' + c(en, cn), '']
-    def case_link(item):
-        return md_link(localized(item['title'], language), '#source-case-' + item['id'])
     lines = [GENERATED_MARKER, '', '<a id="top"></a>', '', f'[![{title}](assets/hero/raphael-gpt-image-2-6-hero-v1.png)]({tracked_url(brand["home_url"], "hero", language, config)})', '',
              '# 🚀 ' + title, '',
              repo_badges(config, language), '',
@@ -24,7 +25,6 @@ def render_home(config, prompts, language, render_prompt):
              language_nav(language), '', '---', '']
     if language not in DETAIL_LANGUAGES:
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
-    lines += ['**' + c('Quick links', '快捷导航') + '** · ' + md_link('🖼️ ' + c('Browse cases', '浏览案例'), '#all-cases') + ' · ' + md_link('🆕 ' + c('Recently added', '最近收录'), '#latest') + ' · ' + md_link('📝 ' + c('Add an example', '提交案例'), repository + '/issues/new?template=submit-case.yml') + ' · ' + md_link('🐞 ' + c('Report an issue', '报告问题'), repository + '/issues/new?template=report-problem.yml') + ' · ' + md_link('📚 ' + c('Read the guide', '阅读指南'), 'CONTRIBUTING.md'), '']
     lines += heading('gallery', '🌐 View in Web Gallery', '🌐 在网页图库中查看')
     lines += ['<div align="center">', '',
               f'![{md_text(c("Raphael homepage preview", "Raphael 首页预览"))}](assets/website/raphael-homepage-20261110.png)', '',
@@ -32,22 +32,24 @@ def render_home(config, prompts, language, render_prompt):
     if brand.get('gallery_url'):
         lines += ['**' + md_link('👉 ' + c('Open the web gallery', '打开网页图库'), tracked_url(brand['gallery_url'], 'top_cta', language, config)) + '**', '']
     else:
-        lines += ['*' + c('Current Raphael homepage, shown as a preview while this collection’s web gallery is being prepared.', '截图展示 Raphael 当前首页，暂作图库预览；本合集的专属网页图库正在准备中。') + '*', '',
-                  '**' + md_link('👉 ' + c('Create on {brand} →', '在 {brand} 开始创作 →').format(brand=brand['name']), tracked_url(brand['home_url'], 'top_cta', language, config)) + '**', '']
+        lines += ['**' + md_link('👉 ' + c('Create on {brand} →', '在 {brand} 开始创作 →').format(brand=brand['name']), tracked_url(brand['home_url'], 'top_cta', language, config)) + '**', '']
     lines += [c('Why create on the website?', '为什么去网站创作？'), '',
               '| ' + c('Feature', '功能') + ' | GitHub README | ' + c('{brand} website', '{brand} 网页端').format(brand=brand['name']) + ' |',
               '| --- | --- | --- |']
     comparison = [
-        ('🎨', 'Visual layout', 'Linear case list', 'Interactive creation workspace'),
-        ('✍️', 'Prompt workflow', 'Copy available prompts', 'Prompts and reference images'),
-        ('🤖', 'AI generation', 'Open a separate website', 'Choose a model and generate'),
-        ('📱', 'Mobile', 'Read cases', 'Create in your browser'),
-        ('🏷️', 'Navigation', 'Case categories', 'Models, styles and tools'),
+        ('🆓', 'Free generation', 'Browse cases and prompts', 'Free basic generation, no sign-up or credit card'),
+        ('✍️', 'Prompt workflow', 'Copy available prompts', 'Paste a prompt and generate'),
+        ('🖼️', 'Reference image editing', 'View reference images and input requirements', 'Upload references to guide image creation and edits'),
+        ('🤖', 'Model choice', 'See which model each case uses', 'Choose from GPT Image, Seedream, Nano Banana and more'),
+        ('🎨', 'Styles and sizes', 'Check styles and settings recorded by the source', 'Choose a style, aspect ratio and output format'),
+        ('🔄', 'Variations', 'Compare collected examples', 'Generate up to 4 images per prompt'),
+        ('🛠️', 'Image tools', 'Read editing workflows', 'Remove backgrounds, upscale, expand and edit images'),
+        ('📱', 'Mobile', 'Read cases', 'Generate and edit in your mobile browser'),
     ]
     for icon, feature, readme, website in comparison:
         lines += ['| ' + icon + ' ' + c(feature) + ' | ' + c(readme) + ' | ' + c(website) + ' |']
-    lines += ['', md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases'), '',
-              md_link(c('External website archive (excluded from categories and statistics)', '外站素材目录（不计入本页分类与统计）'), 'external-sites/README.md'), '']
+    lines += ['', c('Free generation uses the basic mode. Other models have their own credit and plan requirements, shown on the website.', '免费生图使用基础模式；其他模型按网页显示的积分与套餐要求使用。'), '',
+              md_link(c('Browse all cases in this repository →', '浏览仓库内全部案例 →'), '#all-cases'), '']
     if brand.get('model_page_url') and brand.get('model_available'):
         lines += [md_link(c('Verified model entry', '已核验模型入口'), tracked_url(brand['model_page_url'], 'model_entry', language, config)), '']
     promo=config['cross_promo']
@@ -55,46 +57,39 @@ def render_home(config, prompts, language, render_prompt):
         lines += [md_link(localized(promo['title'],language),tracked_url(promo['url'],'cross_promo',language,config)), localized(promo['description'],language), '']
         if promo['image_path']:lines += [f"![{md_text(localized(promo['title'],language))}]({promo['image_path']})",'']
     lines += heading('categories', '🏷️ Browse by category', '🏷️ 按分类浏览')
-    lines += ['| ' + c('Category | Source-linked cases | Full prompts', '分类 | 来源案例 | 完整提示词') + ' |', '| --- | ---: | ---: |']
-    for category in config['categories']:
-        count=sum(x['category']==category['id'] for x in cases)
-        full_count=sum(len(x['prompt'].get('entries', [])) for x in cases if x['category']==category['id']) + sum(x['category']==category['id'] for x in full)
-        lines += [f"| {md_link(localized(category['label'],language),'#category-'+category['id'])} | {count} | {full_count} |"]
+    lines += [render_browse(cases, language)]
     lines += [''] + heading('contents', '📖 Contents', '📖 目录')
-    for anchor,en,cn in [('about','What is GPT Image 2.6?','什么是 GPT Image 2.6？'),('statistics','Statistics','统计数据'),('featured','Featured cases','精选案例'),('latest','Recently added','最近收录'),('all-cases','All cases','全部案例'),('collection','Full prompts','完整提示词'),('using','How to use','如何使用'),('contribute','Contribute','如何贡献'),('license','License','许可证'),('acknowledgements','Acknowledgements','致谢'),('star-history','Star history','Star 历史')]:
+    for anchor,en,cn in [('about','What is GPT Image 2.6?','什么是 GPT Image 2.6？'),('statistics','Statistics','统计数据'),('featured','Featured cases','精选案例'),('all-cases','All cases','全部案例'),('collection','Full prompts','完整提示词'),('using','How to use','如何使用'),('contribute','Contribute','如何贡献'),('license','License','许可证'),('acknowledgements','Acknowledgements','致谢'),('star-history','Star history','Star 历史')]:
         lines.append('- '+md_link(c(en,cn),'#'+anchor))
     lines += [''] + heading('about','🤔 What is GPT Image 2.6?','🤔 什么是 GPT Image 2.6？')
     lines += [c('OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sunburst and Flare model variants, image creation and editing, plus documented SVG and GIF workflows. Variant support is recorded per case rather than assumed.', 'OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与 Flare 版本的图片生成、编辑，以及官方展示的 SVG 与 GIF 工作流；具体支持情况按每个案例记录，不作推定。'), '',
               md_link(c('Official announcement','官方发布说明'),config['project']['official_url'])+' · '+md_link(c('Model documentation','模型文档'),config['project']['model_docs_url']), '']
+    by_id = {item['id']: item for item in cases}
+    selected = [by_id[case_id] for case_id in config['presentation']['featured_case_ids'] if case_id in by_id]
+    selected = selected[:config['presentation']['featured_limit']]
+    case_numbers = {item['id']: number for number, item in enumerate(
+        (item for category in config['categories'] for item in cases if item['category'] == category['id']), 1)}
+    updated = dt.datetime.fromisoformat(config['presentation']['updated_at']).astimezone(dt.timezone.utc)
+    if language in ('zh-CN', 'zh-TW'):
+        updated_label = f'{updated.year}年{updated.month}月{updated.day}日星期{"一二三四五六日"[updated.weekday()]} UTC {updated:%H:%M:%S}'
+    else:
+        updated_label = f'{updated:%Y-%m-%d} UTC {updated:%H:%M:%S}'
+    prompt_count = len(full) + sum(len(item['prompt'].get('entries', [])) for item in cases)
     lines += heading('statistics','📊 Statistics','📊 统计数据')
-    metrics=[(c('Source-linked cases','来源案例'),len(cases)),(c('Official examples','官方案例'),sum(x['source']['type'].startswith('official') for x in cases)),(c('Creator-reported examples','社区作者自报案例'),sum(x['source']['type']=='community' for x in cases)),(c('Original prompts available at source','来源公开原始提示词'),sum(x['prompt']['status']=='source-only' for x in cases)),(c('Full prompts published here','仓库内完整提示词'),len(full)+sum(len(x['prompt'].get('entries', [])) for x in cases)),(c('Locally archived media files','本地收录素材文件'),sum(bool(m['path']) for x in cases for m in x['media'])+sum(bool(x['preview']['path']) for x in full)),(c('Last source check (UTC)','最近来源核对（UTC）'),max((x['verified_at'] for x in cases), default='—'))]
-    lines += ['| '+c('Metric | Count / date','项目 | 数量 / 日期')+' |','| --- | ---: |']+[f'| {name} | **{value}** |' for name,value in metrics]+['',c('Source counts are not reproduction claims. Pending leads are excluded; different outputs within one workflow count as one case.', '来源数量不代表复现次数。待核实线索不计入案例总数，同一工作流的多个输出合并计数。'),'']
+    lines += ['| **' + c('Metric', '指标') + '** | **' + c('Count', '数量') + '** |',
+              '| --- | --- |',
+              '| 📝 ' + c('Total prompts', '提示词总数') + f' | **{prompt_count}** |',
+              '| ⭐ ' + c('Featured', '精选') + f' | **{len(selected)}** |',
+              '| 🔄 ' + c('Last updated', '最后更新') + f' | **{updated_label}** |', '']
     lines += heading('featured','🔥 Featured cases','🔥 精选案例')
-    selected=[x for x in cases if x['featured'] and preview(x)]
-    selected += [x for x in cases if x not in selected and preview(x)]
-    selected=selected[:config['presentation']['featured_limit']]
     if selected:
-        lines += ['<table>']
-        for start in range(0,len(selected),3):
-            lines += ['<tr>']
-            for item in selected[start:start+3]:
-                m=preview(item);path=m['path'] if m else f'assets/media-placeholder-{language}.svg'
-                alt=localized(m['alt'],language) if m else c('Placeholder, not model output','占位图，不是模型输出')
-                lines += [f'<td width="33%" align="center"><a href="#source-case-{item["id"]}"><img src="{html_attr(path)}" alt="{html_attr(alt)}" width="280" /><br /><strong>{html_attr(localized(item["title"],language))}</strong></a><br />{html_attr(label(item["source"]["type"],language))}</td>']
-            lines += ['</tr>']
-        lines += ['</table>','']
+        for item in selected:
+            lines += [render_inline_case(item, language, case_numbers[item['id']], featured=True).rstrip(), '', '---', '']
     else:lines += [c('No source-linked cases published yet.','尚未发布来源案例。'),'']
     lines += [c('Video previews are still frames; open the linked file for motion. Reference images and source posters are labelled separately.', '视频预览是首帧静态图，点击可打开动画文件；参考图与来源封面均单独标注。'),'']
-    lines += heading('latest','🆕 Recently added','🆕 最近收录')
-    lines += ['| '+c('Added | Case | Evidence','收录日期 | 案例 | 依据')+' |','| --- | --- | --- |']
-    # Entries append to the dataset; preserve collection order within one UTC date.
-    latest = sorted(enumerate(cases), key=lambda pair: (pair[1]['added_at'], pair[0]), reverse=True)
-    for _, item in latest[:config['presentation']['latest_limit']]:
-        lines += [f"| {item['added_at']} | {case_link(item)} | {label(item['source']['type'],language)} |"]
-    lines += ['']+heading('all-cases','📋 All cases','📋 全部案例')
+    lines += heading('all-cases','📋 All cases','📋 全部案例')
     if not full:
         lines += ['<a id="collection"></a>', '']
-    lines += [c('Original prompts are preserved in their source language. Missing prompts are labelled; no prompts are inferred from images.', '原始提示词保留来源语言，可直接复制；未公开或待核验的提示词明确标注，不根据图片补写。'), '']
     number = 0
     for category in config['categories']:
         lines += [f'<a id="category-{category["id"]}"></a>','', '### '+localized(category['label'],language),'']
@@ -111,7 +106,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += heading('using','📚 How to use','📚 如何使用')
     lines += ['1. '+c('Open a case from a category or featured card.','从分类或精选卡片进入案例。'),'2. '+c('Read its model evidence, required inputs, source and reuse limits.','查看模型依据、必需输入、原始来源与素材使用限制。'),'3. '+c('Follow the original prompt link when available. A missing prompt stays missing; do not infer it from an image.','有原始提示词时前往来源阅读。没有公开提示词时保持缺失，不根据图片臆造。'),'']
     lines += heading('contribute','🤝 How to contribute','🤝 如何贡献')
-    lines += [c('Add main collection cases to content/source-cases.json and external website cases to external-sites/source-cases.json. Add complete prompts to content/prompts.json. The generator builds separate indexes and bilingual detail pages.', '主合集案例写入 content/source-cases.json，外站案例写入 external-sites/source-cases.json；完整提示词写入 content/prompts.json。生成器分别维护两个合集的索引与双语详情页。'),'',
+    lines += [c('Add source cases to content/source-cases.json and complete prompts to content/prompts.json. The generator builds the index and bilingual detail pages.', '来源案例写入 content/source-cases.json，完整提示词写入 content/prompts.json。生成器维护索引与中英文详情页。'),'',
               md_link(c('Contribution guide','贡献指南'),'CONTRIBUTING.md')+' · '+md_link(c('Source case and media guide','案例与素材维护指南'),'docs/SOURCE_CASES.md')+' · '+md_link(c('Maintainer guide (Chinese)','维护者填充指南'),'docs/FILLING_GUIDE.zh-CN.md'),'']
     lines += heading('license','📄 License','📄 许可证')
     lines += [c('Code, original documentation and decorative SVG placeholders use MIT. Third-party prompts and media retain their own terms and have item-level provenance and reuse status. The adapted README layout is credited separately below.', '代码、原创说明与装饰性 SVG 占位图采用 MIT。第三方提示词及素材保留各自条款，逐项记录来源与使用状态。改编的 README 结构另见下方署名。'),'',md_link(c('Repository license','仓库许可证'),'LICENSE'),'']

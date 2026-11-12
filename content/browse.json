@@ -1,0 +1,764 @@
+[
+  {
+    "id": "use-cases",
+    "label": {
+      "en": "Use cases",
+      "zh-CN": "使用场景"
+    },
+    "items": [
+      {
+        "id": "portrait-avatar",
+        "label": {
+          "en": "Portraits / avatars",
+          "zh-CN": "个人写真 / 头像"
+        },
+        "case_ids": [
+          "docs-sailor",
+          "community-marco-reference-photo-board",
+          "community-marco-sunburst-courtyard-comparison",
+          "community-marco-mushroom-fashion-portrait",
+          "nyle-sunburst-style-gallery",
+          "social-woman-holding-tea-mug",
+          "social-90s-film-snapshot-woman",
+          "social-cyan-poetry-wet-portrait",
+          "social-moonlit-lake-hanfu-portrait",
+          "social-seated-hanfu-woman-lotus-pond",
+          "social-sunset-beach-look-back",
+          "social-streetwear-cap-headphones-portrait",
+          "social-kimono-door-peephole-portrait",
+          "social-keor-elevator-mirror-portrait",
+          "social-japanese-office-short-prompts"
+        ]
+      },
+      {
+        "id": "social-stickers",
+        "label": {
+          "en": "Social posts / reaction stickers",
+          "zh-CN": "社交帖子 / 表情贴纸"
+        },
+        "case_ids": [
+          "launch-openart-down",
+          "launch-openart-up",
+          "launch-town",
+          "community-gifts",
+          "community-boxing-tiger",
+          "community-hummingbird-variants",
+          "community-rosebud-animation",
+          "ailingqu-jelly-bear-wobble",
+          "ailingqu-bunny-reaction-set",
+          "ailingqu-cat-waving-hello",
+          "ailingqu-shiba-head-tilt",
+          "ailingqu-cat-typing-laptop",
+          "ailingqu-frog-heart-bubble",
+          "ailingqu-penguin-facepalm",
+          "ailingqu-basketball-shot-sticker",
+          "ailingqu-cat-chef-fried-rice",
+          "ailingqu-black-cat-punch",
+          "ailingqu-office-cat-workday-set",
+          "ailingqu-roaring-duck",
+          "ailingqu-flower-macro-flash",
+          "ailingqu-four-seasons-tree",
+          "ailingqu-magazine-panels-pop",
+          "ailingqu-window-day-to-night",
+          "ailingqu-steaming-coffee",
+          "ailingqu-rain-on-window",
+          "ailingqu-goldfish-bowl",
+          "ailingqu-lighthouse-night",
+          "ailingqu-cat-by-fireplace",
+          "ailingqu-sleepy-fox-rock",
+          "ailingqu-lofi-study-loop",
+          "ailingqu-cafe-cinemagraph",
+          "ailingqu-ink-wash-horse",
+          "community-ozan-robin-wink-hat",
+          "community-mirochill-ram-altman-animation",
+          "community-struggle-cat-programmer",
+          "community-zunbeho-parody-ad-gifs",
+          "community-kokone-sunburst-calico",
+          "community-kiki-heartbeat-dance-comparison",
+          "community-kiki-malfoid-mood-stickers",
+          "social-blue-hair-chibi-eating-rice-gif",
+          "social-chibi-cheongsam-girl-gif",
+          "social-dancing-frog-top-hat",
+          "social-heisei-flip-phone-decomail-gif",
+          "social-diligent-bee-daily-checkin-gif",
+          "social-sleepy-star-eyed-emoji-fusion",
+          "social-snowy-yard-wood-chopping",
+          "social-robot-pouring-coffee",
+          "social-red-character-music-video-gif",
+          "social-sunglasses-cat-dance",
+          "social-pelican-riding-bicycle",
+          "social-paper-boat-water-loop",
+          "social-osaka-castle-construction",
+          "social-character-wave-laugh",
+          "social-falling-apple-frame-comparison",
+          "social-standing-backflip-complexity",
+          "social-cat-spinning-gif",
+          "social-summer-garden-water-gun",
+          "social-orange-office-cat-expression-grid",
+          "social-line-dog-heart-loop"
+        ]
+      },
+      {
+        "id": "product-marketing",
+        "label": {
+          "en": "Product marketing / e-commerce",
+          "zh-CN": "产品营销 / 电商主图"
+        },
+        "case_ids": [
+          "docs-product-cutout",
+          "docs-toy-package",
+          "launch-sable",
+          "launch-travel",
+          "ailingqu-sneaker-colorway-flash",
+          "community-hn-watchmaker",
+          "community-struggle-aurora-perfume",
+          "nyle-skincare-ad",
+          "social-perfume-dancer-light-trails"
+        ]
+      },
+      {
+        "id": "brand-design",
+        "label": {
+          "en": "Logos / brand identity",
+          "zh-CN": "Logo / 品牌设计"
+        },
+        "case_ids": [
+          "docs-bakery-svg",
+          "docs-bakery-raster",
+          "community-bear-svg-comparison",
+          "ailingqu-cat-brand-reel",
+          "community-struggle-code-lightning-svg"
+        ]
+      },
+      {
+        "id": "poster-flyer",
+        "label": {
+          "en": "Posters / flyers / greeting cards",
+          "zh-CN": "海报 / 传单 / 贺卡"
+        },
+        "case_ids": [
+          "docs-streetwear",
+          "docs-billboard",
+          "docs-holiday-card",
+          "community-flare-slogan-comparison",
+          "community-struggle-poster-edit",
+          "nyle-health-fair",
+          "nyle-kanji-cover",
+          "social-tifa-lockhart-peeling-poster",
+          "social-portugal-folk-christmas-card",
+          "social-golden-gate-gouache-loop",
+          "social-colosseum-gouache-loop",
+          "social-fuji-gouache-loop"
+        ]
+      },
+      {
+        "id": "educational-visual",
+        "label": {
+          "en": "Educational visuals / presentations",
+          "zh-CN": "教学图解 / 演示汇报"
+        },
+        "case_ids": [
+          "docs-coffee-diagram",
+          "docs-cell-respiration",
+          "docs-pitch-slide",
+          "docs-spanish-edit",
+          "social-revenue-chart-loop",
+          "social-camera-exploded-loop",
+          "social-ink-history-timeline-loop",
+          "social-treasure-map-route-loop"
+        ]
+      },
+      {
+        "id": "comic-storyboard",
+        "label": {
+          "en": "Illustrated stories / storyboards",
+          "zh-CN": "绘本漫画 / 故事分镜"
+        },
+        "case_ids": [
+          "docs-complexity",
+          "docs-historical-crowd",
+          "docs-pet-comic",
+          "docs-character-start",
+          "docs-character-story",
+          "docs-lantern-gif",
+          "launch-owl",
+          "launch-picsart",
+          "community-malfoid",
+          "ailingqu-lantern-monkey-snow",
+          "ailingqu-doodle-monster",
+          "community-struggle-sailor-dance",
+          "social-basketball-storyboard-to-gif"
+        ]
+      },
+      {
+        "id": "game-assets",
+        "label": {
+          "en": "Game assets / animation prototypes",
+          "zh-CN": "游戏素材 / 动画原型"
+        },
+        "case_ids": [
+          "launch-higgsfield",
+          "ailingqu-pixel-campfire",
+          "ailingqu-pixel-knight-run",
+          "ailingqu-arcade-vs-screen",
+          "ailingqu-pixel-slime-boss",
+          "ailingqu-love-burst-skill",
+          "ailingqu-junkyard-robot-walk",
+          "community-mirochill-anime-dialogue-prototype",
+          "community-temae-pixel-love-swimming-sheet",
+          "community-kiki-tanjiro-pixel-loop",
+          "social-pixel-purple-lightning-bolts",
+          "social-pixel-hero-glowing-sword",
+          "social-anime-floating-orb-control",
+          "social-dwarf-360-turntable",
+          "social-sword-360-turntable",
+          "social-motorbike-360-turntable",
+          "social-gray-blender-hallway-draft"
+        ]
+      },
+      {
+        "id": "app-web-design",
+        "label": {
+          "en": "App / web design",
+          "zh-CN": "App / 网页设计"
+        },
+        "case_ids": [
+          "docs-market-ui",
+          "ailingqu-bouncing-dots-loader",
+          "ailingqu-like-heart-burst",
+          "ailingqu-hourglass-flip",
+          "social-web-summary-interaction-loop"
+        ]
+      },
+      {
+        "id": "photo-editing",
+        "label": {
+          "en": "Photo editing / outfit changes",
+          "zh-CN": "照片编辑 / 换装换景"
+        },
+        "case_ids": [
+          "docs-vase-markup",
+          "docs-pixel-style",
+          "docs-outfit",
+          "docs-dog-composite",
+          "docs-sketch-render",
+          "docs-remove-flower",
+          "docs-person-scene",
+          "docs-snow-edit",
+          "docs-room-chairs",
+          "launch-fal",
+          "community-flare-day-dusk-edit",
+          "community-sunburst-dust-detail",
+          "community-struggle-desk-animation",
+          "nyle-webinar-date-edit",
+          "social-circle-markup-santa-gift-edit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "styles",
+    "label": {
+      "en": "Styles",
+      "zh-CN": "风格"
+    },
+    "items": [
+      {
+        "id": "photography",
+        "label": {
+          "en": "Photography",
+          "zh-CN": "写实摄影"
+        },
+        "case_ids": [
+          "docs-sailor",
+          "docs-streetwear",
+          "docs-historical-crowd",
+          "docs-outfit",
+          "docs-product-cutout",
+          "docs-sketch-render",
+          "docs-remove-flower",
+          "docs-person-scene",
+          "docs-room-chairs",
+          "community-hn-watchmaker",
+          "community-sunburst-dust-detail",
+          "community-marco-reference-photo-board",
+          "community-marco-sunburst-courtyard-comparison",
+          "community-marco-mushroom-fashion-portrait",
+          "community-struggle-aurora-perfume",
+          "community-struggle-desk-animation",
+          "community-kokone-sunburst-calico",
+          "nyle-sunburst-style-gallery",
+          "social-woman-holding-tea-mug",
+          "social-90s-film-snapshot-woman",
+          "social-cyan-poetry-wet-portrait",
+          "social-perfume-dancer-light-trails",
+          "social-moonlit-lake-hanfu-portrait",
+          "social-seated-hanfu-woman-lotus-pond",
+          "social-sunset-beach-look-back",
+          "social-streetwear-cap-headphones-portrait",
+          "social-kimono-door-peephole-portrait",
+          "social-keor-elevator-mirror-portrait",
+          "social-japanese-office-short-prompts",
+          "social-summer-garden-water-gun"
+        ]
+      },
+      {
+        "id": "cinematic",
+        "label": {
+          "en": "Cinematic / film stills",
+          "zh-CN": "电影感 / 电影剧照"
+        },
+        "case_ids": [
+          "docs-sailor",
+          "docs-historical-crowd",
+          "launch-higgsfield",
+          "social-red-character-music-video-gif",
+          "social-summer-garden-water-gun"
+        ]
+      },
+      {
+        "id": "anime",
+        "label": {
+          "en": "Anime / manga",
+          "zh-CN": "动漫 / 漫画"
+        },
+        "case_ids": [
+          "launch-higgsfield",
+          "community-malfoid",
+          "community-mirochill-anime-dialogue-prototype",
+          "community-struggle-sailor-dance",
+          "community-kiki-malfoid-mood-stickers",
+          "social-red-character-music-video-gif",
+          "social-tifa-lockhart-peeling-poster",
+          "social-anime-floating-orb-control"
+        ]
+      },
+      {
+        "id": "illustration",
+        "label": {
+          "en": "Cartoon / storybook illustration",
+          "zh-CN": "卡通 / 绘本插画"
+        },
+        "case_ids": [
+          "docs-pet-comic",
+          "docs-character-start",
+          "docs-character-story",
+          "docs-lantern-gif",
+          "community-malfoid",
+          "community-flare-day-dusk-edit",
+          "ailingqu-jelly-bear-wobble",
+          "ailingqu-bunny-reaction-set",
+          "ailingqu-cat-waving-hello",
+          "ailingqu-shiba-head-tilt",
+          "ailingqu-cat-typing-laptop",
+          "ailingqu-frog-heart-bubble",
+          "ailingqu-penguin-facepalm",
+          "ailingqu-basketball-shot-sticker",
+          "ailingqu-cat-chef-fried-rice",
+          "ailingqu-black-cat-punch",
+          "ailingqu-office-cat-workday-set",
+          "ailingqu-roaring-duck",
+          "ailingqu-four-seasons-tree",
+          "ailingqu-lantern-monkey-snow",
+          "ailingqu-sleepy-fox-rock",
+          "ailingqu-lofi-study-loop",
+          "ailingqu-doodle-monster",
+          "social-dancing-frog-top-hat",
+          "social-diligent-bee-daily-checkin-gif",
+          "social-character-wave-laugh",
+          "social-orange-office-cat-expression-grid"
+        ]
+      },
+      {
+        "id": "3d-clay",
+        "label": {
+          "en": "3D rendering / clay",
+          "zh-CN": "3D 渲染 / 黏土"
+        },
+        "case_ids": [
+          "community-struggle-cat-programmer",
+          "nyle-sunburst-style-gallery",
+          "social-dwarf-360-turntable",
+          "social-sword-360-turntable",
+          "social-motorbike-360-turntable",
+          "social-gray-blender-hallway-draft"
+        ]
+      },
+      {
+        "id": "chibi",
+        "label": {
+          "en": "Chibi / cute characters",
+          "zh-CN": "Q 版 / 萌系"
+        },
+        "case_ids": [
+          "social-blue-hair-chibi-eating-rice-gif",
+          "social-chibi-cheongsam-girl-gif",
+          "ailingqu-jelly-bear-wobble",
+          "ailingqu-bunny-reaction-set",
+          "ailingqu-shiba-head-tilt",
+          "ailingqu-penguin-facepalm"
+        ]
+      },
+      {
+        "id": "pixel-art",
+        "label": {
+          "en": "Pixel art",
+          "zh-CN": "像素艺术"
+        },
+        "case_ids": [
+          "docs-pixel-style",
+          "nyle-sunburst-style-gallery",
+          "ailingqu-pixel-campfire",
+          "ailingqu-pixel-knight-run",
+          "ailingqu-arcade-vs-screen",
+          "ailingqu-pixel-slime-boss",
+          "ailingqu-love-burst-skill",
+          "ailingqu-junkyard-robot-walk",
+          "community-temae-pixel-love-swimming-sheet",
+          "community-kiki-tanjiro-pixel-loop",
+          "social-pixel-purple-lightning-bolts",
+          "social-pixel-hero-glowing-sword"
+        ]
+      },
+      {
+        "id": "ink-chinese",
+        "label": {
+          "en": "Ink painting / Chinese style",
+          "zh-CN": "水墨 / 中国风"
+        },
+        "case_ids": [
+          "ailingqu-ink-wash-horse",
+          "social-ink-history-timeline-loop",
+          "social-moonlit-lake-hanfu-portrait",
+          "social-seated-hanfu-woman-lotus-pond"
+        ]
+      },
+      {
+        "id": "gouache-watercolor",
+        "label": {
+          "en": "Watercolor / gouache",
+          "zh-CN": "水彩 / 水粉"
+        },
+        "case_ids": [
+          "nyle-sunburst-style-gallery",
+          "social-golden-gate-gouache-loop",
+          "social-colosseum-gouache-loop",
+          "social-fuji-gouache-loop"
+        ]
+      },
+      {
+        "id": "retro-vintage",
+        "label": {
+          "en": "Retro / vintage",
+          "zh-CN": "复古 / 怀旧"
+        },
+        "case_ids": [
+          "docs-holiday-card",
+          "docs-historical-crowd",
+          "ailingqu-arcade-vs-screen",
+          "social-90s-film-snapshot-woman",
+          "social-heisei-flip-phone-decomail-gif",
+          "social-tifa-lockhart-peeling-poster"
+        ]
+      },
+      {
+        "id": "minimal-line-art",
+        "label": {
+          "en": "Minimal / line art",
+          "zh-CN": "极简 / 线条"
+        },
+        "case_ids": [
+          "docs-bakery-svg",
+          "docs-bakery-raster",
+          "community-bear-svg-comparison",
+          "community-struggle-code-lightning-svg",
+          "ailingqu-bouncing-dots-loader",
+          "ailingqu-like-heart-burst",
+          "ailingqu-hourglass-flip",
+          "social-line-dog-heart-loop"
+        ]
+      },
+      {
+        "id": "paper-collage",
+        "label": {
+          "en": "Paper art / collage",
+          "zh-CN": "纸艺 / 拼贴"
+        },
+        "case_ids": [
+          "docs-complexity",
+          "ailingqu-magazine-panels-pop",
+          "social-tifa-lockhart-peeling-poster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "themes",
+    "label": {
+      "en": "Themes",
+      "zh-CN": "主题"
+    },
+    "items": [
+      {
+        "id": "people",
+        "label": {
+          "en": "People / portraits",
+          "zh-CN": "人物 / 肖像"
+        },
+        "case_ids": [
+          "docs-sailor",
+          "docs-historical-crowd",
+          "docs-outfit",
+          "docs-remove-flower",
+          "docs-person-scene",
+          "community-marco-reference-photo-board",
+          "community-marco-sunburst-courtyard-comparison",
+          "community-marco-mushroom-fashion-portrait",
+          "nyle-sunburst-style-gallery",
+          "social-woman-holding-tea-mug",
+          "social-90s-film-snapshot-woman",
+          "social-cyan-poetry-wet-portrait",
+          "social-moonlit-lake-hanfu-portrait",
+          "social-seated-hanfu-woman-lotus-pond",
+          "social-sunset-beach-look-back",
+          "social-streetwear-cap-headphones-portrait",
+          "social-kimono-door-peephole-portrait",
+          "social-keor-elevator-mirror-portrait",
+          "social-japanese-office-short-prompts",
+          "social-snowy-yard-wood-chopping",
+          "social-standing-backflip-complexity",
+          "social-summer-garden-water-gun",
+          "social-basketball-storyboard-to-gif"
+        ]
+      },
+      {
+        "id": "animals",
+        "label": {
+          "en": "Animals / pets",
+          "zh-CN": "动物 / 宠物"
+        },
+        "case_ids": [
+          "docs-pet-comic",
+          "docs-dog-composite",
+          "docs-character-start",
+          "docs-character-story",
+          "docs-lantern-gif",
+          "launch-owl",
+          "launch-picsart",
+          "community-bear-svg-comparison",
+          "community-boxing-tiger",
+          "community-hummingbird-variants",
+          "ailingqu-jelly-bear-wobble",
+          "ailingqu-bunny-reaction-set",
+          "ailingqu-cat-waving-hello",
+          "ailingqu-shiba-head-tilt",
+          "ailingqu-cat-typing-laptop",
+          "ailingqu-frog-heart-bubble",
+          "ailingqu-penguin-facepalm",
+          "ailingqu-cat-chef-fried-rice",
+          "ailingqu-black-cat-punch",
+          "ailingqu-office-cat-workday-set",
+          "ailingqu-roaring-duck",
+          "ailingqu-goldfish-bowl",
+          "ailingqu-cat-by-fireplace",
+          "ailingqu-lantern-monkey-snow",
+          "ailingqu-sleepy-fox-rock",
+          "ailingqu-ink-wash-horse",
+          "community-ozan-robin-wink-hat",
+          "community-flare-day-dusk-edit",
+          "community-struggle-cat-programmer",
+          "community-kokone-sunburst-calico",
+          "social-dancing-frog-top-hat",
+          "social-diligent-bee-daily-checkin-gif",
+          "social-sunglasses-cat-dance",
+          "social-pelican-riding-bicycle",
+          "social-line-dog-heart-loop",
+          "social-cat-spinning-gif",
+          "social-orange-office-cat-expression-grid"
+        ]
+      },
+      {
+        "id": "products",
+        "label": {
+          "en": "Products / everyday objects",
+          "zh-CN": "产品 / 日常物件"
+        },
+        "case_ids": [
+          "docs-product-cutout",
+          "docs-toy-package",
+          "docs-vase-markup",
+          "launch-sable",
+          "community-hn-watchmaker",
+          "community-struggle-aurora-perfume",
+          "social-perfume-dancer-light-trails",
+          "social-camera-exploded-loop",
+          "social-sword-360-turntable",
+          "social-motorbike-360-turntable",
+          "social-falling-apple-frame-comparison",
+          "social-paper-boat-water-loop"
+        ]
+      },
+      {
+        "id": "food-drink",
+        "label": {
+          "en": "Food / drinks",
+          "zh-CN": "食物 / 饮品"
+        },
+        "case_ids": [
+          "docs-coffee-diagram",
+          "docs-market-ui",
+          "ailingqu-cat-chef-fried-rice",
+          "ailingqu-steaming-coffee",
+          "community-flare-slogan-comparison",
+          "nyle-sunburst-style-gallery",
+          "social-blue-hair-chibi-eating-rice-gif",
+          "social-woman-holding-tea-mug",
+          "social-robot-pouring-coffee"
+        ]
+      },
+      {
+        "id": "fashion",
+        "label": {
+          "en": "Fashion / clothing",
+          "zh-CN": "时尚 / 服饰"
+        },
+        "case_ids": [
+          "docs-streetwear",
+          "docs-outfit",
+          "ailingqu-sneaker-colorway-flash",
+          "community-marco-mushroom-fashion-portrait",
+          "social-streetwear-cap-headphones-portrait",
+          "social-kimono-door-peephole-portrait",
+          "social-keor-elevator-mirror-portrait",
+          "social-chibi-cheongsam-girl-gif"
+        ]
+      },
+      {
+        "id": "architecture-interior",
+        "label": {
+          "en": "Architecture / interiors",
+          "zh-CN": "建筑 / 室内空间"
+        },
+        "case_ids": [
+          "docs-room-chairs",
+          "launch-fal",
+          "community-sunburst-dust-detail",
+          "community-marco-reference-photo-board",
+          "community-marco-sunburst-courtyard-comparison",
+          "ailingqu-window-day-to-night",
+          "ailingqu-cat-by-fireplace",
+          "ailingqu-cafe-cinemagraph",
+          "social-osaka-castle-construction",
+          "social-gray-blender-hallway-draft"
+        ]
+      },
+      {
+        "id": "nature",
+        "label": {
+          "en": "Landscapes / plants",
+          "zh-CN": "自然 / 植物"
+        },
+        "case_ids": [
+          "docs-lantern-gif",
+          "community-hummingbird-variants",
+          "community-rosebud-animation",
+          "ailingqu-flower-macro-flash",
+          "ailingqu-four-seasons-tree",
+          "ailingqu-rain-on-window",
+          "ailingqu-goldfish-bowl",
+          "ailingqu-lighthouse-night",
+          "ailingqu-lantern-monkey-snow",
+          "ailingqu-sleepy-fox-rock",
+          "social-moonlit-lake-hanfu-portrait",
+          "social-seated-hanfu-woman-lotus-pond",
+          "social-sunset-beach-look-back",
+          "social-paper-boat-water-loop",
+          "social-fuji-gouache-loop"
+        ]
+      },
+      {
+        "id": "city-landmarks",
+        "label": {
+          "en": "City streets / landmarks",
+          "zh-CN": "城市街景 / 地标"
+        },
+        "case_ids": [
+          "docs-billboard",
+          "docs-snow-edit",
+          "launch-travel",
+          "ailingqu-cafe-cinemagraph",
+          "nyle-sunburst-style-gallery",
+          "social-heisei-flip-phone-decomail-gif",
+          "social-osaka-castle-construction",
+          "social-golden-gate-gouache-loop",
+          "social-colosseum-gouache-loop",
+          "social-fuji-gouache-loop"
+        ]
+      },
+      {
+        "id": "fantasy-characters",
+        "label": {
+          "en": "Fantasy / game characters",
+          "zh-CN": "奇幻 / 游戏角色"
+        },
+        "case_ids": [
+          "launch-higgsfield",
+          "community-malfoid",
+          "ailingqu-pixel-knight-run",
+          "ailingqu-pixel-slime-boss",
+          "ailingqu-love-burst-skill",
+          "ailingqu-junkyard-robot-walk",
+          "community-mirochill-anime-dialogue-prototype",
+          "community-struggle-sailor-dance",
+          "community-kiki-tanjiro-pixel-loop",
+          "community-kiki-malfoid-mood-stickers",
+          "community-temae-pixel-love-swimming-sheet",
+          "social-tifa-lockhart-peeling-poster",
+          "social-pixel-purple-lightning-bolts",
+          "social-pixel-hero-glowing-sword",
+          "social-anime-floating-orb-control",
+          "social-dwarf-360-turntable"
+        ]
+      },
+      {
+        "id": "charts-diagrams",
+        "label": {
+          "en": "Charts / diagrams / maps",
+          "zh-CN": "图表 / 图解 / 地图"
+        },
+        "case_ids": [
+          "docs-coffee-diagram",
+          "docs-cell-respiration",
+          "docs-pitch-slide",
+          "docs-spanish-edit",
+          "nyle-sunburst-style-gallery",
+          "social-revenue-chart-loop",
+          "social-camera-exploded-loop",
+          "social-ink-history-timeline-loop",
+          "social-treasure-map-route-loop"
+        ]
+      },
+      {
+        "id": "text-type",
+        "label": {
+          "en": "Text / typography",
+          "zh-CN": "文字 / 排版"
+        },
+        "case_ids": [
+          "docs-streetwear",
+          "docs-billboard",
+          "docs-holiday-card",
+          "community-flare-slogan-comparison",
+          "community-struggle-poster-edit",
+          "nyle-health-fair",
+          "nyle-skincare-ad",
+          "nyle-kanji-cover",
+          "nyle-webinar-date-edit",
+          "social-cyan-poetry-wet-portrait",
+          "social-sleepy-star-eyed-emoji-fusion",
+          "social-portugal-folk-christmas-card"
+        ]
+      }
+    ]
+  }
+]
