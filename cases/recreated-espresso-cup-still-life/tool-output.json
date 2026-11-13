@@ -1,0 +1,12 @@
+{
+  "tool": "image_gen",
+  "model": null,
+  "api_model_id": null,
+  "output_filename": "exec-60fa5a25-5f5c-47b0-b60d-7c8f6edcf1b8.png",
+  "recorded_at": "2026-11-13T05:41:24.933996+00:00",
+  "returned_fields": [
+    "image_url",
+    "output_hint"
+  ],
+  "model_note": "工具未回传实际模型版本；不推定为 GPT Image 2.6、Sunburst 或 Flare。"
+}

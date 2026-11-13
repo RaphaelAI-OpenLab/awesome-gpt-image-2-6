@@ -1,0 +1,64 @@
+{
+  "case_id": "recreated-blue-hour-ferry",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.936220+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "yir-ferry-blue-hour",
+    "author": "Yir / Sungerine Labs LLC",
+    "url": "https://yir.ai/models/gpt-image-2-6",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "4c9dcd3e6b557022a91584628b2418c61930f571e76a6f48376a398528e536b1",
+  "prompt_file_sha256": "385e75258362883b7959ed452b96bde3cd3b972320de55cfcd06b524af063835",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-d12cab40-21f1-489f-8412-d35ea4e76f7e.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "original_bytes": 2023724,
+    "original_sha256": "241e40364e4f57423bb903a317de6e21751caf4bba38618d8bec6d100db9293c"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-blue-hour-ferry/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 1418712,
+    "sha256": "9bf6533e97d2dc499c0d119ad27d5057faf067358c17955eccf722c0c1706621"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-blue-hour-ferry/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The rear view, lowered hood, windblown hair, hand contact, rusty wet rail and harbor lights match. The tilt and muted palette are present; an actual 35mm focal length cannot be verified from a generated image. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "背影、放下的帽兜、风吹头发、湿栏杆锈迹、手部接触及港口灯光可见；画面倾斜与低饱和氛围匹配。提示词指定 35mm，实际无法从生成图证实镜头焦距。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

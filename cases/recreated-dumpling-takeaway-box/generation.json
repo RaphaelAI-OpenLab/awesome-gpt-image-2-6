@@ -1,0 +1,71 @@
+{
+  "case_id": "recreated-dumpling-takeaway-box",
+  "generated_at": "2026-11-13T13:33:27+08:00",
+  "recorded_at": null,
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "made-flare-dumpling-box",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+    "source_model_variants": [
+      "flare"
+    ]
+  },
+  "prompt_sha256": "11ac18723ac7bad47541383ca02102e1b4097b1fda04659881bf57a880b36a1e",
+  "prompt_file_sha256": "bae91690f97c6539b1376c676390aa24b8aef123df6b79b0ff59e8709a246422",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "Raphael web UI",
+    "model_family": "GPT Image 2.6",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "model_evidence": "选择器、生成历史卡片与 CDN 结果路径一致，未检查底层 API ID。"
+  },
+  "output": {
+    "provider_filename": "task_01M79PB1ARMVWA32AQF8MHMMX9.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79PB1ARMVWA32AQF8MHMMX9.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 2048,
+    "original_bytes": 6290557,
+    "original_sha256": "6377806a75649abaabf6da4d0a2302f75cfbc3c0a14dacff2bb5f36dc71fba78"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-dumpling-takeaway-box/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 4061334,
+    "sha256": "5c72aa3d14426da8a14600482f424bc8bdd6354c0155c415f1c42b0efd6ae0f6"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-dumpling-takeaway-box/browser-result.png",
+  "tool_evidence": null,
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The sticker text, flash-lit dumplings and night-market background match. Only part of the hand is shown, so full hand anatomy is not assessed.",
+      "zh-CN": "贴纸文字正确，煎饺油光、直闪及夜市背景可见；手仅部分入镜，不对完整手部解剖作判断。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "recreated-record-listening-booth",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.922976+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "made-sunburst-listening-booth",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+    "source_model_variants": [
+      "sunburst"
+    ]
+  },
+  "prompt_sha256": "3bfb6316fc7305988bfebe6ffb732ebf9a70686a72c4066e6ddfc25397b67b9b",
+  "prompt_file_sha256": "94a90ad7ac5f5584bccd091cab028ca51b08493fd56989d69481d9ae8326d4cb",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-0ede8b1d-d3cb-414f-bd57-4a92ea80c64a.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1312,
+    "height": 1199,
+    "original_bytes": 2915984,
+    "original_sha256": "b47a4b2296eaa113ee82f846bba40d0643bbb4208f9a197f9e008a96ed66f4ab"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-record-listening-booth/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 1873602,
+    "sha256": "b839319bd0079f195adc940a491f8d36125060f13a7b6961927ae813cf6ff1fc"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-record-listening-booth/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "One friend laughs and one has closed eyes against pegboard walls. One headset is visible, partly around the neck; simultaneous listening by both people is not established. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "一人笑、一人闭眼及洞洞板墙符合原词；可见同一副耳机，但耳机部分落在颈侧，不能确认两人都在佩戴试听。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "recreated-paper-cut-forest-cabin",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.930877+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "community-cubistai-paper-cut-cabin",
+    "author": "CubistAI",
+    "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "f5229b9851e8bbc16f6d1d6384deb44697068d409b04a2f70a37ac5daa22e84b",
+  "prompt_file_sha256": "a2efd8ffe3883d934b76c11ecae1ea86f40009729346aefca5ea709202bcf3b3",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-2a084e32-0757-4a6c-b7cf-2d4f260c8b3d.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "original_bytes": 3611457,
+    "original_sha256": "991776db609496e0cd196767f4bd783323096e56d84395a54edb8bc91c131819"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-paper-cut-forest-cabin/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 2272150,
+    "sha256": "f78fee6e36bea4cbde2e1ed0b5590c176b07e8959f5a86d1863f48f81afa5b75"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-paper-cut-forest-cabin/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "Layered paper, sage and olive greens, a cream sky, warm windows and a winding river are present without visible lettering. The cabin is slightly right of geometric center. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "纸艺层次、鼠尾草绿与橄榄绿、浅奶油天空、暖窗及河流可见，没有可见文字；主体略偏右，非严格几何居中。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

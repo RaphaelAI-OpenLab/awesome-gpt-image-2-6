@@ -91,9 +91,9 @@ OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sun
 
 | **Metric** | **Count** |
 | --- | --- |
-| 📝 Total prompts | **146** |
+| 📝 Total prompts | **156** |
 | ⭐ Featured | **12** |
-| 🔄 Last updated | **2026-11-13 UTC 05:15:02** |
+| 🔄 Last updated | **2026-11-13 UTC 05:44:40** |
 
 <a id="featured"></a>
 
@@ -5742,6 +5742,285 @@ The source prompt was used unchanged, without the source image. Generation evide
 
 ---
 
+<a id="case-recreated-record-listening-booth"></a>
+
+#### Two friends in a record-store listening booth · independent generation
+
+**Tested by the curator**
+
+Two friends in a record-store listening corner with direct flash and visible skin texture.
+
+![Two friends in a record-store listening corner with direct flash and visible skin texture.](assets/examples/recreated-record-listening-booth/result.webp)
+
+[Original source](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · Author: Made / Made Inc.
+
+Preview credit: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+Two friends squeezed into a narrow record store listening booth sharing one pair of over-ear headphones, one laughing, one with eyes closed, tight framing against pegboard walls. Shot on a phone with direct on-camera flash, real skin texture, slight grain, muted true color with one orange accent, candid and unposed, no readable text, logos, or watermark.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1312x1199 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+One friend laughs and one has closed eyes against pegboard walls. One headset is visible, partly around the neck; simultaneous listening by both people is not established. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-record-listening-booth/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-record-listening-booth/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-record-listening-booth&utm_term=en)**
+
+---
+
+<a id="case-recreated-pottery-open-studio-banner"></a>
+
+#### Pottery open-studio banner · independent generation
+
+**Tested by the curator**
+
+A terracotta open-studio banner with a vase and four groups of event text.
+
+![A terracotta open-studio banner with a vase and four groups of event text.](assets/examples/recreated-pottery-open-studio-banner/result.webp)
+
+[Original source](https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout) · Author: MossImage Studio Team
+
+Preview credit: 原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+A wide event banner for a pottery studio open day, flat illustrated style, warm terracotta background. A large ceramic vase with dried flowers on the left side, filling the left third from near the top to about three quarters of the way down. In the upper right, a large cream serif title: "Open Studio Day", and right below it the smaller text "Kiln & Clover Pottery". In the bottom left corner: "Saturday, May 9". In the bottom right corner: "Free tickets at the door".
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1752x897 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+All four text groups match the wording and assigned corners. The vase extends to about 85% of the image height rather than the requested 75%, with shaded volume rather than a strictly flat illustration. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-pottery-open-studio-banner/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-pottery-open-studio-banner/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-pottery-open-studio-banner&utm_term=en)**
+
+---
+
+<a id="case-recreated-paper-cut-forest-cabin"></a>
+
+#### Paper-cut forest cabin · independent generation
+
+**Tested by the curator**
+
+A layered-paper forest cabin with amber windows beside a winding river.
+
+![A layered-paper forest cabin with amber windows beside a winding river.](assets/examples/recreated-paper-cut-forest-cabin/result.webp)
+
+[Original source](https://cubistai.app/zh/ai-models/gpt-image-2-6) · Author: CubistAI
+
+Preview credit: 原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+Tactile paper cut illustration of a tiny forest cabin beside a winding river, layered sage and olive paper, pale cream sky, warm amber window light, sophisticated handmade editorial illustration, centered composition, no text.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1536x1024 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+Layered paper, sage and olive greens, a cream sky, warm windows and a winding river are present without visible lettering. The cabin is slightly right of geometric center. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-paper-cut-forest-cabin/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-paper-cut-forest-cabin/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-paper-cut-forest-cabin&utm_term=en)**
+
+---
+
+<a id="case-recreated-oaken-mile-coffee-label"></a>
+
+#### Oaken Mile coffee-bag label · independent generation
+
+**Tested by the curator**
+
+An Oaken Mile kraft coffee bag with origin and tasting-note typography.
+
+![An Oaken Mile kraft coffee bag with origin and tasting-note typography.](assets/examples/recreated-oaken-mile-coffee-label/result.webp)
+
+[Original source](https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label) · Author: MossImage Studio Team
+
+Preview credit: 原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+A studio product photo of a matte kraft paper coffee bag standing on a plain stone surface, soft daylight. The printed label reads: "Oaken Mile Coffee", "Yirgacheffe, Ethiopia", "Light Roast", "Notes of jasmine, peach and honey", "340 g / 12 oz".
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1024x1536 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+The brand, origin, tasting notes and weight are readable. Light Roast was changed to LIGHT ROAST. Added tree, landscape and ingredient illustrations were not prohibited by the prompt. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-oaken-mile-coffee-label/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-oaken-mile-coffee-label/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-oaken-mile-coffee-label&utm_term=en)**
+
+---
+
+<a id="case-recreated-noodle-lightbox-menu"></a>
+
+#### Noodle-stall lightbox menu · independent generation
+
+**Tested by the curator**
+
+A night-market lightbox with an exact title and three menu items and prices.
+
+![A night-market lightbox with an exact title and three menu items and prices.](assets/examples/recreated-noodle-lightbox-menu/result.webp)
+
+[Original source](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · Author: Made / Made Inc.
+
+Preview credit: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**Original prompt**
+
+```text
+Glowing lightbox menu above a night market noodle stall, reading exactly "HAND-PULLED NOODLES" with three lines below: "Beef Broth 12", "Chili Oil 10", "Wild Mushroom 11". Steam drifting past the sign. Clean editorial design, muted true color with one chili red accent, sharp legible type, no other words or logos.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | GPT Image 2.6 |
+| Variant | sunburst |
+| size | 2048x1536 |
+| output_format | png |
+| UI aspect ratio | 4:3 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**Workflow**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 4:3、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**Test notes**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The headline and all three menu strings and prices match the brief; steam is visible.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-noodle-lightbox-menu/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.
+
+[Standalone case page](cases/recreated-noodle-lightbox-menu/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-noodle-lightbox-menu&utm_term=en)**
+
+---
+
 <a id="case-recreated-night-market-vendor"></a>
 
 #### Night-market vendor portrait · independent generation
@@ -5916,6 +6195,289 @@ The source prompt was used unchanged, without the source image. Generation evide
 [Standalone case page](cases/recreated-monarch-life-cycle/README.md)
 
 **[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-monarch-life-cycle&utm_term=en)**
+
+---
+
+<a id="case-recreated-espresso-cup-still-life"></a>
+
+#### Pale-green espresso-cup still life · independent generation
+
+**Tested by the curator**
+
+A pale-green espresso cup on travertine in sculptural sunlight.
+
+![A pale-green espresso cup on travertine in sculptural sunlight.](assets/examples/recreated-espresso-cup-still-life/result.webp)
+
+[Original source](https://cubistai.app/zh/ai-models/gpt-image-2-6) · Author: CubistAI
+
+Preview credit: 原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+Editorial still life photograph of a pale green ceramic espresso cup on travertine, sculptural sunlight, olive green background, refined art direction, no text.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1312x1199 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+The cup, travertine, olive background and sculptural shadows match. A saucer and olive branch were added; extra props were not forbidden. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-espresso-cup-still-life/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-espresso-cup-still-life/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-espresso-cup-still-life&utm_term=en)**
+
+---
+
+<a id="case-recreated-dumpling-takeaway-box"></a>
+
+#### Dumpling takeaway box · independent generation
+
+**Tested by the curator**
+
+A hand-held kraft dumpling box with a STEAMED DAILY lid sticker.
+
+![A hand-held kraft dumpling box with a STEAMED DAILY lid sticker.](assets/examples/recreated-dumpling-takeaway-box/result.webp)
+
+[Original source](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · Author: Made / Made Inc.
+
+Preview credit: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**Original prompt**
+
+```text
+Close-up of a hand holding an open kraft takeaway box of pan-fried dumplings toward the camera at a night market, a round sticker on the lid reading exactly "STEAMED DAILY". Shot on a phone with direct on-camera flash, crisp grease sheen, slight grain, muted true color with one mustard accent, sharp legible sticker, no other words or logos.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | GPT Image 2.6 |
+| Variant | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**Workflow**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**Test notes**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The sticker text, flash-lit dumplings and night-market background match. Only part of the hand is shown, so full hand anatomy is not assessed.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-dumpling-takeaway-box/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.
+
+[Standalone case page](cases/recreated-dumpling-takeaway-box/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-dumpling-takeaway-box&utm_term=en)**
+
+---
+
+<a id="case-recreated-blue-hour-ferry"></a>
+
+#### Ferry at blue hour · independent generation
+
+**Tested by the curator**
+
+A yellow-raincoat figure at a ferry rail at blue hour.
+
+![A yellow-raincoat figure at a ferry rail at blue hour.](assets/examples/recreated-blue-hour-ferry/result.webp)
+
+[Original source](https://yir.ai/models/gpt-image-2-6) · Author: Yir / Sungerine Labs LLC
+
+Preview credit: 原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+Film still on a commuter ferry at blue hour, 35mm lens. A woman in a worn yellow raincoat seen from behind at the rail, hood down, hair blown across her shoulder, one hand on the wet railing. Beyond her, dark water and a blurred line of harbor lights. Low-saturation teal and amber, uneven deck lighting, slight motion softness in her sleeve, rust spots on the rail, frame tilted a little to the right.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1536x1024 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+The rear view, lowered hood, windblown hair, hand contact, rusty wet rail and harbor lights match. The tilt and muted palette are present; an actual 35mm focal length cannot be verified from a generated image. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-blue-hour-ferry/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-blue-hour-ferry/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-blue-hour-ferry&utm_term=en)**
+
+---
+
+<a id="case-recreated-bicycle-season-sale-ad"></a>
+
+#### End-of-season bicycle sale ad · independent generation
+
+**Tested by the curator**
+
+A sage-green bicycle with END OF SEASON sale typography.
+
+![A sage-green bicycle with END OF SEASON sale typography.](assets/examples/recreated-bicycle-season-sale-ad/result.webp)
+
+[Original source](https://yir.ai/models/gpt-image-2-6) · Author: Yir / Sungerine Labs LLC
+
+Preview credit: 原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**Original prompt**
+
+```text
+Vertical social ad for a bike shop's end-of-season sale. Upper half: a sage-green steel commuter bicycle leaning on a pale brick wall, photographed side-on in flat overcast light, one pedal slightly scuffed. Lower half: a solid cream panel with the headline "END OF SEASON" in bold sans-serif, below it "Up to 30% off city bikes", and a rounded button shape reading "Shop the sale". A small round badge "-30%" overlapping the photo edge. Tidy alignment on a left margin, all text spelled exactly as written.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | Not specified by source |
+| Variant | Not specified by source |
+| size | 1024x1536 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**Workflow**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**Test notes**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+The three text groups and -30% badge match. The photo occupies roughly the top 58%, rather than an exact half; mechanical details and wear are not measured or certified. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-bicycle-season-sale-ad/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.
+
+[Standalone case page](cases/recreated-bicycle-season-sale-ad/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-bicycle-season-sale-ad&utm_term=en)**
+
+---
+
+<a id="case-recreated-after-hours-record-sleeve"></a>
+
+#### AFTER HOURS record sleeve · independent generation
+
+**Tested by the curator**
+
+An AFTER HOURS record sleeve with a four-line tracklist beside a turntable.
+
+![An AFTER HOURS record sleeve with a four-line tracklist beside a turntable.](assets/examples/recreated-after-hours-record-sleeve/result.webp)
+
+[Original source](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · Author: Made / Made Inc.
+
+Preview credit: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**Original prompt**
+
+```text
+Square vinyl record sleeve leaning on a turntable, minimal Swiss design, title reading exactly "AFTER HOURS" with a smaller line "Side A · 33⅓ RPM" and a four-line tracklist: "1. Neon Rain", "2. Last Train", "3. Slow Dial", "4. Morning Static". Clean editorial design, muted earth tones with one cobalt accent, subtle paper texture, sharp legible type, no other words or logos.
+```
+
+**Recorded settings**
+
+| Setting | Value |
+| --- | --- |
+| Model family | GPT Image 2.6 |
+| Variant | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**Workflow**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**Test notes**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The headline, Side A · 33⅓ RPM and four track names are readable and match. Geometric blocks and paper texture are present; no obvious extra lettering was observed.
+
+**Notes**
+
+The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-after-hours-record-sleeve/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.
+
+[Standalone case page](cases/recreated-after-hours-record-sleeve/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-after-hours-record-sleeve&utm_term=en)**
 
 ---
 

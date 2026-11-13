@@ -91,9 +91,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | **指标** | **数量** |
 | --- | --- |
-| 📝 提示词总数 | **146** |
+| 📝 提示词总数 | **156** |
 | ⭐ 精选 | **12** |
-| 🔄 最后更新 | **2026年11月13日星期五 UTC 05:15:02** |
+| 🔄 最后更新 | **2026年11月13日星期五 UTC 05:44:40** |
 
 <a id="featured"></a>
 
@@ -5742,6 +5742,285 @@ Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
 
 ---
 
+<a id="case-recreated-record-listening-booth"></a>
+
+#### 唱片店双人试听间 · 独立生成
+
+**整理者已实测**
+
+两位朋友挤在唱片店试听角，呈现直闪抓拍与真实肤质。
+
+![两位朋友挤在唱片店试听角，呈现直闪抓拍与真实肤质。](assets/examples/recreated-record-listening-booth/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+Two friends squeezed into a narrow record store listening booth sharing one pair of over-ear headphones, one laughing, one with eyes closed, tight framing against pegboard walls. Shot on a phone with direct on-camera flash, real skin texture, slight grain, muted true color with one orange accent, candid and unposed, no readable text, logos, or watermark.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1312x1199 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+一人笑、一人闭眼及洞洞板墙符合原词；可见同一副耳机，但耳机部分落在颈侧，不能确认两人都在佩戴试听。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-record-listening-booth/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-record-listening-booth/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-record-listening-booth&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-pottery-open-studio-banner"></a>
+
+#### 陶艺工作室开放日横幅 · 独立生成
+
+**整理者已实测**
+
+陶土色开放日横幅，左侧花瓶与四组活动文字。
+
+![陶土色开放日横幅，左侧花瓶与四组活动文字。](assets/examples/recreated-pottery-open-studio-banner/result.webp)
+
+[原始来源](https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout) · 作者: MossImage Studio Team
+
+预览图署名: 原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+A wide event banner for a pottery studio open day, flat illustrated style, warm terracotta background. A large ceramic vase with dried flowers on the left side, filling the left third from near the top to about three quarters of the way down. In the upper right, a large cream serif title: "Open Studio Day", and right below it the smaller text "Kiln & Clover Pottery". In the bottom left corner: "Saturday, May 9". In the bottom right corner: "Free tickets at the door".
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1752x897 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+四组文字与指定角落匹配。花瓶主体下缘约在画面 85% 高度，超过原词约 75% 的要求；呈现带明暗体积的插画，未严格保持纯平面风格。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-pottery-open-studio-banner/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-pottery-open-studio-banner/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-pottery-open-studio-banner&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-paper-cut-forest-cabin"></a>
+
+#### 剪纸森林小屋 · 独立生成
+
+**整理者已实测**
+
+层叠纸艺森林中的暖窗小屋与蜿蜒河流。
+
+![层叠纸艺森林中的暖窗小屋与蜿蜒河流。](assets/examples/recreated-paper-cut-forest-cabin/result.webp)
+
+[原始来源](https://cubistai.app/zh/ai-models/gpt-image-2-6) · 作者: CubistAI
+
+预览图署名: 原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+Tactile paper cut illustration of a tiny forest cabin beside a winding river, layered sage and olive paper, pale cream sky, warm amber window light, sophisticated handmade editorial illustration, centered composition, no text.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1536x1024 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+纸艺层次、鼠尾草绿与橄榄绿、浅奶油天空、暖窗及河流可见，没有可见文字；主体略偏右，非严格几何居中。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-paper-cut-forest-cabin/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-paper-cut-forest-cabin/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-paper-cut-forest-cabin&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-oaken-mile-coffee-label"></a>
+
+#### Oaken Mile 咖啡袋标签 · 独立生成
+
+**整理者已实测**
+
+石面上的 Oaken Mile 牛皮纸咖啡袋与产地风味标签。
+
+![石面上的 Oaken Mile 牛皮纸咖啡袋与产地风味标签。](assets/examples/recreated-oaken-mile-coffee-label/result.webp)
+
+[原始来源](https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label) · 作者: MossImage Studio Team
+
+预览图署名: 原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+A studio product photo of a matte kraft paper coffee bag standing on a plain stone surface, soft daylight. The printed label reads: "Oaken Mile Coffee", "Yirgacheffe, Ethiopia", "Light Roast", "Notes of jasmine, peach and honey", "340 g / 12 oz".
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1024x1536 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+品牌、产地、风味和净重可读；原词 Light Roast 被改成 LIGHT ROAST。额外加入树木、山景及风味插画，原词未禁止这些装饰。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-oaken-mile-coffee-label/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-oaken-mile-coffee-label/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-oaken-mile-coffee-label&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-noodle-lightbox-menu"></a>
+
+#### 面摊灯箱菜单 · 独立生成
+
+**整理者已实测**
+
+直闪夜市面摊灯箱，包含标题及三道菜名与价格。
+
+![直闪夜市面摊灯箱，包含标题及三道菜名与价格。](assets/examples/recreated-noodle-lightbox-menu/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Glowing lightbox menu above a night market noodle stall, reading exactly "HAND-PULLED NOODLES" with three lines below: "Beef Broth 12", "Chili Oil 10", "Wild Mushroom 11". Steam drifting past the sign. Clean editorial design, muted true color with one chili red accent, sharp legible type, no other words or logos.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x1536 |
+| output_format | png |
+| UI aspect ratio | 4:3 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 4:3、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+已核对 HAND-PULLED NOODLES 与 Beef Broth 12、Chili Oil 10、Wild Mushroom 11，文字及价格匹配，蒸汽可见。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-noodle-lightbox-menu/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-noodle-lightbox-menu/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-noodle-lightbox-menu&utm_term=zh-CN)**
+
+---
+
 <a id="case-recreated-night-market-vendor"></a>
 
 #### 夜市摊主人像 · 独立生成
@@ -5916,6 +6195,289 @@ Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
 [独立案例页](cases/recreated-monarch-life-cycle/README.zh-CN.md)
 
 **[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-monarch-life-cycle&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-espresso-cup-still-life"></a>
+
+#### 浅绿浓缩咖啡杯静物 · 独立生成
+
+**整理者已实测**
+
+洞石与定向阳光中的浅绿浓缩咖啡杯静物。
+
+![洞石与定向阳光中的浅绿浓缩咖啡杯静物。](assets/examples/recreated-espresso-cup-still-life/result.webp)
+
+[原始来源](https://cubistai.app/zh/ai-models/gpt-image-2-6) · 作者: CubistAI
+
+预览图署名: 原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+Editorial still life photograph of a pale green ceramic espresso cup on travertine, sculptural sunlight, olive green background, refined art direction, no text.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1312x1199 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+浅绿咖啡杯、洞石、橄榄绿背景与清晰投影匹配；附加杯碟和橄榄枝，原词未禁止额外道具。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-espresso-cup-still-life/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-espresso-cup-still-life/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-espresso-cup-still-life&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-dumpling-takeaway-box"></a>
+
+#### 饺子外卖盒 · 独立生成
+
+**整理者已实测**
+
+手持煎饺牛皮纸外卖盒，盒盖有 STEAMED DAILY 圆贴。
+
+![手持煎饺牛皮纸外卖盒，盒盖有 STEAMED DAILY 圆贴。](assets/examples/recreated-dumpling-takeaway-box/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Close-up of a hand holding an open kraft takeaway box of pan-fried dumplings toward the camera at a night market, a round sticker on the lid reading exactly "STEAMED DAILY". Shot on a phone with direct on-camera flash, crisp grease sheen, slight grain, muted true color with one mustard accent, sharp legible sticker, no other words or logos.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+贴纸文字正确，煎饺油光、直闪及夜市背景可见；手仅部分入镜，不对完整手部解剖作判断。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-dumpling-takeaway-box/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-dumpling-takeaway-box/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-dumpling-takeaway-box&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-blue-hour-ferry"></a>
+
+#### 蓝调时刻渡轮 · 独立生成
+
+**整理者已实测**
+
+蓝调渡轮栏杆旁穿旧黄雨衣的人物背影。
+
+![蓝调渡轮栏杆旁穿旧黄雨衣的人物背影。](assets/examples/recreated-blue-hour-ferry/result.webp)
+
+[原始来源](https://yir.ai/models/gpt-image-2-6) · 作者: Yir / Sungerine Labs LLC
+
+预览图署名: 原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+Film still on a commuter ferry at blue hour, 35mm lens. A woman in a worn yellow raincoat seen from behind at the rail, hood down, hair blown across her shoulder, one hand on the wet railing. Beyond her, dark water and a blurred line of harbor lights. Low-saturation teal and amber, uneven deck lighting, slight motion softness in her sleeve, rust spots on the rail, frame tilted a little to the right.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1536x1024 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+背影、放下的帽兜、风吹头发、湿栏杆锈迹、手部接触及港口灯光可见；画面倾斜与低饱和氛围匹配。提示词指定 35mm，实际无法从生成图证实镜头焦距。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-blue-hour-ferry/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-blue-hour-ferry/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-blue-hour-ferry&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-bicycle-season-sale-ad"></a>
+
+#### 自行车季末促销广告 · 独立生成
+
+**整理者已实测**
+
+鼠尾草绿自行车与 END OF SEASON 季末促销排版。
+
+![鼠尾草绿自行车与 END OF SEASON 季末促销排版。](assets/examples/recreated-bicycle-season-sale-ad/result.webp)
+
+[原始来源](https://yir.ai/models/gpt-image-2-6) · 作者: Yir / Sungerine Labs LLC
+
+预览图署名: 原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。
+
+**原始提示词**
+
+```text
+Vertical social ad for a bike shop's end-of-season sale. Upper half: a sage-green steel commuter bicycle leaning on a pale brick wall, photographed side-on in flat overcast light, one pedal slightly scuffed. Lower half: a solid cream panel with the headline "END OF SEASON" in bold sans-serif, below it "Up to 30% off city bikes", and a rounded button shape reading "Shop the sale". A small round badge "-30%" overlapping the photo edge. Tidy alignment on a left margin, all text spelled exactly as written.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | 来源未注明 |
+| 版本 | 来源未注明 |
+| size | 1024x1536 |
+| output_format | png |
+| Generation tool | Codex built-in image_gen |
+| Exact model returned | Not exposed |
+| Output count | 1 |
+| Transparent background | False |
+
+**操作步骤**
+
+1. 通过 Codex 内置 image_gen 工具创建新图。
+2. 传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。
+3. 保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。
+
+**实测说明**
+
+Codex built-in image_gen · exact model not exposed · 2026-11-13
+
+三组文案和 -30% 徽章匹配，照片区与奶油色文字区清晰。照片实际约占画面上方 58%，并非严格上下各半；机械结构与磨损未作实测验证。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-bicycle-season-sale-ad/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
+
+[独立案例页](cases/recreated-bicycle-season-sale-ad/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-bicycle-season-sale-ad&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-after-hours-record-sleeve"></a>
+
+#### AFTER HOURS 唱片封套 · 独立生成
+
+**整理者已实测**
+
+靠在唱机上的 AFTER HOURS 唱片封套与四行曲目。
+
+![靠在唱机上的 AFTER HOURS 唱片封套与四行曲目。](assets/examples/recreated-after-hours-record-sleeve/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Square vinyl record sleeve leaning on a turntable, minimal Swiss design, title reading exactly "AFTER HOURS" with a smaller line "Side A · 33⅓ RPM" and a four-line tracklist: "1. Neon Rain", "2. Last Train", "3. Slow Dial", "4. Morning Static". Clean editorial design, muted earth tones with one cobalt accent, subtle paper texture, sharp legible type, no other words or logos.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+标题、Side A · 33⅓ RPM 和四行曲目均可辨且匹配，封套采用几何色块与纸纹，未发现明显额外文字。
+
+**补充说明**
+
+完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-after-hours-record-sleeve/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-after-hours-record-sleeve/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-after-hours-record-sleeve&utm_term=zh-CN)**
 
 ---
 

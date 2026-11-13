@@ -1,0 +1,64 @@
+{
+  "case_id": "recreated-espresso-cup-still-life",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.933996+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "community-cubistai-espresso-cup",
+    "author": "CubistAI",
+    "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "d022095a5f93934d5ae3342c8631ca7b05b778c05ba13d6f2b749c6864769870",
+  "prompt_file_sha256": "b6615ffedfb4513475b4d6d4b2fcc1962bfdd33778290faf6d5c7826f33bbdde",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-60fa5a25-5f5c-47b0-b60d-7c8f6edcf1b8.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1312,
+    "height": 1199,
+    "original_bytes": 2663000,
+    "original_sha256": "e840904ff8c9c59cff86f320622933c8aa934c13076389eded6ad863a183ff00"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-espresso-cup-still-life/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 1764244,
+    "sha256": "61ab54e6a8629a3f2336e971d42c4dde549237f85431b2a10743982f8272b810"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-espresso-cup-still-life/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The cup, travertine, olive background and sculptural shadows match. A saucer and olive branch were added; extra props were not forbidden. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "浅绿咖啡杯、洞石、橄榄绿背景与清晰投影匹配；附加杯碟和橄榄枝，原词未禁止额外道具。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

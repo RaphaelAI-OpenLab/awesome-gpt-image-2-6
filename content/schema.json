@@ -28,7 +28,7 @@
         "model": {
           "type": "object", "required": ["family", "variant", "api_model_id"], "additionalProperties": false,
           "properties": {
-            "family": {"type": "string"},
+            "family": {"type": ["string", "null"]},
             "variant": {"type": "string", "enum": ["sunburst", "flare", "unspecified"]},
             "api_model_id": {"$ref": "#/$defs/optionalString"}
           }

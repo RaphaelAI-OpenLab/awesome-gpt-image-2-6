@@ -453,5 +453,894 @@
       "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-monarch-life-cycle/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
       "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-monarch-life-cycle/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
     }
+  },
+  {
+    "id": "recreated-noodle-lightbox-menu",
+    "status": "published",
+    "title": {
+      "zh-CN": "面摊灯箱菜单 · 独立生成",
+      "en": "Noodle-stall lightbox menu · independent generation"
+    },
+    "summary": {
+      "en": "A night-market lightbox with an exact title and three menu items and prices.",
+      "zh-CN": "直闪夜市面摊灯箱，包含标题及三道菜名与价格。"
+    },
+    "category": "posters-typography",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Glowing lightbox menu above a night market noodle stall, reading exactly \"HAND-PULLED NOODLES\" with three lines below: \"Beef Broth 12\", \"Chili Oil 10\", \"Wild Mushroom 11\". Steam drifting past the sign. Clean editorial design, muted true color with one chili red accent, sharp legible type, no other words or logos.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x1536",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "4:3",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 4:3、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-noodle-lightbox-menu/result.webp",
+      "alt": {
+        "en": "A night-market lightbox with an exact title and three menu items and prices.",
+        "zh-CN": "直闪夜市面摊灯箱，包含标题及三道菜名与价格。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The headline and all three menu strings and prices match the brief; steam is visible.",
+        "zh-CN": "已核对 HAND-PULLED NOODLES 与 Beef Broth 12、Chili Oil 10、Wild Mushroom 11，文字及价格匹配，蒸汽可见。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-noodle-lightbox-menu/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-noodle-lightbox-menu/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-dumpling-takeaway-box",
+    "status": "published",
+    "title": {
+      "zh-CN": "饺子外卖盒 · 独立生成",
+      "en": "Dumpling takeaway box · independent generation"
+    },
+    "summary": {
+      "en": "A hand-held kraft dumpling box with a STEAMED DAILY lid sticker.",
+      "zh-CN": "手持煎饺牛皮纸外卖盒，盒盖有 STEAMED DAILY 圆贴。"
+    },
+    "category": "brand-products",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Close-up of a hand holding an open kraft takeaway box of pan-fried dumplings toward the camera at a night market, a round sticker on the lid reading exactly \"STEAMED DAILY\". Shot on a phone with direct on-camera flash, crisp grease sheen, slight grain, muted true color with one mustard accent, sharp legible sticker, no other words or logos.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x2048",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "1:1",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-dumpling-takeaway-box/result.webp",
+      "alt": {
+        "en": "A hand-held kraft dumpling box with a STEAMED DAILY lid sticker.",
+        "zh-CN": "手持煎饺牛皮纸外卖盒，盒盖有 STEAMED DAILY 圆贴。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The sticker text, flash-lit dumplings and night-market background match. Only part of the hand is shown, so full hand anatomy is not assessed.",
+        "zh-CN": "贴纸文字正确，煎饺油光、直闪及夜市背景可见；手仅部分入镜，不对完整手部解剖作判断。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-dumpling-takeaway-box/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-dumpling-takeaway-box/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-after-hours-record-sleeve",
+    "status": "published",
+    "title": {
+      "zh-CN": "AFTER HOURS 唱片封套 · 独立生成",
+      "en": "AFTER HOURS record sleeve · independent generation"
+    },
+    "summary": {
+      "en": "An AFTER HOURS record sleeve with a four-line tracklist beside a turntable.",
+      "zh-CN": "靠在唱机上的 AFTER HOURS 唱片封套与四行曲目。"
+    },
+    "category": "posters-typography",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Square vinyl record sleeve leaning on a turntable, minimal Swiss design, title reading exactly \"AFTER HOURS\" with a smaller line \"Side A · 33⅓ RPM\" and a four-line tracklist: \"1. Neon Rain\", \"2. Last Train\", \"3. Slow Dial\", \"4. Morning Static\". Clean editorial design, muted earth tones with one cobalt accent, subtle paper texture, sharp legible type, no other words or logos.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x2048",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "1:1",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-after-hours-record-sleeve/result.webp",
+      "alt": {
+        "en": "An AFTER HOURS record sleeve with a four-line tracklist beside a turntable.",
+        "zh-CN": "靠在唱机上的 AFTER HOURS 唱片封套与四行曲目。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The headline, Side A · 33⅓ RPM and four track names are readable and match. Geometric blocks and paper texture are present; no obvious extra lettering was observed.",
+        "zh-CN": "标题、Side A · 33⅓ RPM 和四行曲目均可辨且匹配，封套采用几何色块与纸纹，未发现明显额外文字。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-after-hours-record-sleeve/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. UI labels are recorded as observed; the API model ID and official parameter mappings remain unverified.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-after-hours-record-sleeve/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按观察记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-record-listening-booth",
+    "status": "published",
+    "title": {
+      "zh-CN": "唱片店双人试听间 · 独立生成",
+      "en": "Two friends in a record-store listening booth · independent generation"
+    },
+    "summary": {
+      "en": "Two friends in a record-store listening corner with direct flash and visible skin texture.",
+      "zh-CN": "两位朋友挤在唱片店试听角，呈现直闪抓拍与真实肤质。"
+    },
+    "category": "characters-consistency",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "Two friends squeezed into a narrow record store listening booth sharing one pair of over-ear headphones, one laughing, one with eyes closed, tight framing against pegboard walls. Shot on a phone with direct on-camera flash, real skin texture, slight grain, muted true color with one orange accent, candid and unposed, no readable text, logos, or watermark.",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1312x1199",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-record-listening-booth/result.webp",
+      "alt": {
+        "en": "Two friends in a record-store listening corner with direct flash and visible skin texture.",
+        "zh-CN": "两位朋友挤在唱片店试听角，呈现直闪抓拍与真实肤质。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "One friend laughs and one has closed eyes against pegboard walls. One headset is visible, partly around the neck; simultaneous listening by both people is not established. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "一人笑、一人闭眼及洞洞板墙符合原词；可见同一副耳机，但耳机部分落在颈侧，不能确认两人都在佩戴试听。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-record-listening-booth/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-record-listening-booth/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-oaken-mile-coffee-label",
+    "status": "published",
+    "title": {
+      "zh-CN": "Oaken Mile 咖啡袋标签 · 独立生成",
+      "en": "Oaken Mile coffee-bag label · independent generation"
+    },
+    "summary": {
+      "en": "An Oaken Mile kraft coffee bag with origin and tasting-note typography.",
+      "zh-CN": "石面上的 Oaken Mile 牛皮纸咖啡袋与产地风味标签。"
+    },
+    "category": "brand-products",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "A studio product photo of a matte kraft paper coffee bag standing on a plain stone surface, soft daylight. The printed label reads: \"Oaken Mile Coffee\", \"Yirgacheffe, Ethiopia\", \"Light Roast\", \"Notes of jasmine, peach and honey\", \"340 g / 12 oz\".",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1024x1536",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-oaken-mile-coffee-label/result.webp",
+      "alt": {
+        "en": "An Oaken Mile kraft coffee bag with origin and tasting-note typography.",
+        "zh-CN": "石面上的 Oaken Mile 牛皮纸咖啡袋与产地风味标签。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label",
+      "author": "MossImage Studio Team",
+      "author_url": null,
+      "platform": "MossImage Studio Team",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "The brand, origin, tasting notes and weight are readable. Light Roast was changed to LIGHT ROAST. Added tree, landscape and ingredient illustrations were not prohibited by the prompt. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "品牌、产地、风味和净重可读；原词 Light Roast 被改成 LIGHT ROAST。额外加入树木、山景及风味插画，原词未禁止这些装饰。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-oaken-mile-coffee-label/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-oaken-mile-coffee-label/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-pottery-open-studio-banner",
+    "status": "published",
+    "title": {
+      "zh-CN": "陶艺工作室开放日横幅 · 独立生成",
+      "en": "Pottery open-studio banner · independent generation"
+    },
+    "summary": {
+      "en": "A terracotta open-studio banner with a vase and four groups of event text.",
+      "zh-CN": "陶土色开放日横幅，左侧花瓶与四组活动文字。"
+    },
+    "category": "posters-typography",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "A wide event banner for a pottery studio open day, flat illustrated style, warm terracotta background. A large ceramic vase with dried flowers on the left side, filling the left third from near the top to about three quarters of the way down. In the upper right, a large cream serif title: \"Open Studio Day\", and right below it the smaller text \"Kiln & Clover Pottery\". In the bottom left corner: \"Saturday, May 9\". In the bottom right corner: \"Free tickets at the door\".",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1752x897",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-pottery-open-studio-banner/result.webp",
+      "alt": {
+        "en": "A terracotta open-studio banner with a vase and four groups of event text.",
+        "zh-CN": "陶土色开放日横幅，左侧花瓶与四组活动文字。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://mossimage.studio/blog/gpt-image-2-6#round-5-exact-layout",
+      "author": "MossImage Studio Team",
+      "author_url": null,
+      "platform": "MossImage Studio Team",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "All four text groups match the wording and assigned corners. The vase extends to about 85% of the image height rather than the requested 75%, with shaded volume rather than a strictly flat illustration. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "四组文字与指定角落匹配。花瓶主体下缘约在画面 85% 高度，超过原词约 75% 的要求；呈现带明暗体积的插画，未严格保持纯平面风格。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：MossImage Studio Team；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-pottery-open-studio-banner/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-pottery-open-studio-banner/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-paper-cut-forest-cabin",
+    "status": "published",
+    "title": {
+      "zh-CN": "剪纸森林小屋 · 独立生成",
+      "en": "Paper-cut forest cabin · independent generation"
+    },
+    "summary": {
+      "en": "A layered-paper forest cabin with amber windows beside a winding river.",
+      "zh-CN": "层叠纸艺森林中的暖窗小屋与蜿蜒河流。"
+    },
+    "category": "interiors-architecture",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "Tactile paper cut illustration of a tiny forest cabin beside a winding river, layered sage and olive paper, pale cream sky, warm amber window light, sophisticated handmade editorial illustration, centered composition, no text.",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1536x1024",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-paper-cut-forest-cabin/result.webp",
+      "alt": {
+        "en": "A layered-paper forest cabin with amber windows beside a winding river.",
+        "zh-CN": "层叠纸艺森林中的暖窗小屋与蜿蜒河流。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+      "author": "CubistAI",
+      "author_url": null,
+      "platform": "CubistAI",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "Layered paper, sage and olive greens, a cream sky, warm windows and a winding river are present without visible lettering. The cabin is slightly right of geometric center. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "纸艺层次、鼠尾草绿与橄榄绿、浅奶油天空、暖窗及河流可见，没有可见文字；主体略偏右，非严格几何居中。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-paper-cut-forest-cabin/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-paper-cut-forest-cabin/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-espresso-cup-still-life",
+    "status": "published",
+    "title": {
+      "zh-CN": "浅绿浓缩咖啡杯静物 · 独立生成",
+      "en": "Pale-green espresso-cup still life · independent generation"
+    },
+    "summary": {
+      "en": "A pale-green espresso cup on travertine in sculptural sunlight.",
+      "zh-CN": "洞石与定向阳光中的浅绿浓缩咖啡杯静物。"
+    },
+    "category": "brand-products",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "Editorial still life photograph of a pale green ceramic espresso cup on travertine, sculptural sunlight, olive green background, refined art direction, no text.",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1312x1199",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-espresso-cup-still-life/result.webp",
+      "alt": {
+        "en": "A pale-green espresso cup on travertine in sculptural sunlight.",
+        "zh-CN": "洞石与定向阳光中的浅绿浓缩咖啡杯静物。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://cubistai.app/zh/ai-models/gpt-image-2-6",
+      "author": "CubistAI",
+      "author_url": null,
+      "platform": "CubistAI",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "The cup, travertine, olive background and sculptural shadows match. A saucer and olive branch were added; extra props were not forbidden. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "浅绿咖啡杯、洞石、橄榄绿背景与清晰投影匹配；附加杯碟和橄榄枝，原词未禁止额外道具。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：CubistAI；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-espresso-cup-still-life/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-espresso-cup-still-life/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-blue-hour-ferry",
+    "status": "published",
+    "title": {
+      "zh-CN": "蓝调时刻渡轮 · 独立生成",
+      "en": "Ferry at blue hour · independent generation"
+    },
+    "summary": {
+      "en": "A yellow-raincoat figure at a ferry rail at blue hour.",
+      "zh-CN": "蓝调渡轮栏杆旁穿旧黄雨衣的人物背影。"
+    },
+    "category": "characters-consistency",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "Film still on a commuter ferry at blue hour, 35mm lens. A woman in a worn yellow raincoat seen from behind at the rail, hood down, hair blown across her shoulder, one hand on the wet railing. Beyond her, dark water and a blurred line of harbor lights. Low-saturation teal and amber, uneven deck lighting, slight motion softness in her sleeve, rust spots on the rail, frame tilted a little to the right.",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1536x1024",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-blue-hour-ferry/result.webp",
+      "alt": {
+        "en": "A yellow-raincoat figure at a ferry rail at blue hour.",
+        "zh-CN": "蓝调渡轮栏杆旁穿旧黄雨衣的人物背影。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://yir.ai/models/gpt-image-2-6",
+      "author": "Yir / Sungerine Labs LLC",
+      "author_url": null,
+      "platform": "Yir",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "The rear view, lowered hood, windblown hair, hand contact, rusty wet rail and harbor lights match. The tilt and muted palette are present; an actual 35mm focal length cannot be verified from a generated image. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "背影、放下的帽兜、风吹头发、湿栏杆锈迹、手部接触及港口灯光可见；画面倾斜与低饱和氛围匹配。提示词指定 35mm，实际无法从生成图证实镜头焦距。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-blue-hour-ferry/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-blue-hour-ferry/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
+  },
+  {
+    "id": "recreated-bicycle-season-sale-ad",
+    "status": "published",
+    "title": {
+      "zh-CN": "自行车季末促销广告 · 独立生成",
+      "en": "End-of-season bicycle sale ad · independent generation"
+    },
+    "summary": {
+      "en": "A sage-green bicycle with END OF SEASON sale typography.",
+      "zh-CN": "鼠尾草绿自行车与 END OF SEASON 季末促销排版。"
+    },
+    "category": "posters-typography",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image",
+      "model-unverified"
+    ],
+    "prompt_language": "en",
+    "prompt": "Vertical social ad for a bike shop's end-of-season sale. Upper half: a sage-green steel commuter bicycle leaning on a pale brick wall, photographed side-on in flat overcast light, one pedal slightly scuffed. Lower half: a solid cream panel with the headline \"END OF SEASON\" in bold sans-serif, below it \"Up to 30% off city bikes\", and a rounded button shape reading \"Shop the sale\". A small round badge \"-30%\" overlapping the photo edge. Tidy alignment on a left margin, all text spelled exactly as written.",
+    "model": {
+      "family": null,
+      "variant": "unspecified",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "1024x1536",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "Generation tool": "Codex built-in image_gen",
+        "Exact model returned": "Not exposed",
+        "Output count": 1,
+        "Transparent background": false
+      },
+      "steps": [
+        "通过 Codex 内置 image_gen 工具创建新图。",
+        "传入完整来源原词，不添加参考图；未指定工具未暴露的尺寸或质量参数。",
+        "保存工具返回的 PNG，检查文字、构图与主体；以像素一致的无损 WebP 入库。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-bicycle-season-sale-ad/result.webp",
+      "alt": {
+        "en": "A sage-green bicycle with END OF SEASON sale typography.",
+        "zh-CN": "鼠尾草绿自行车与 END OF SEASON 季末促销排版。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://yir.ai/models/gpt-image-2-6",
+      "author": "Yir / Sungerine Labs LLC",
+      "author_url": null,
+      "platform": "Yir",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Codex built-in image_gen · exact model not exposed",
+      "notes": {
+        "en": "The three text groups and -30% badge match. The photo occupies roughly the top 58%, rather than an exact half; mechanical details and wear are not measured or certified. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+        "zh-CN": "三组文案和 -30% 徽章匹配，照片区与奶油色文字区清晰。照片实际约占画面上方 58%，并非严格上下各半；机械结构与磨损未作实测验证。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Yir / Sungerine Labs LLC；本次生成图片：RaphaelAI-OpenLab，使用 Codex 内置 image_gen。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The complete source prompt was used unchanged without source images. Evidence and hashes: cases/recreated-bicycle-season-sale-ad/generation.json. The lossless WebP preserves the original PNG pixels. Source attribution does not grant a prompt reuse license; the repository MIT license does not cover the prompt or generated image. The built-in tool did not expose its exact model; this is a prompt execution record, not verified evidence of GPT Image 2.6 output.",
+      "zh-CN": "完整来源原词未改写，未上传外站原图；生成证据与哈希见 cases/recreated-bicycle-season-sale-ad/generation.json。无损 WebP 与原始 PNG 像素一致。来源署名不构成提示词使用授权，仓库 MIT 协议不覆盖该提示词或生成图。内置工具未回传具体模型，本条是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。"
+    }
   }
 ]

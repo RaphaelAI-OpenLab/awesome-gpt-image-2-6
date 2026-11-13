@@ -1,0 +1,71 @@
+{
+  "case_id": "recreated-after-hours-record-sleeve",
+  "generated_at": "2026-11-13T13:34:32+08:00",
+  "recorded_at": null,
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "made-sunburst-record-sleeve",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+    "source_model_variants": [
+      "sunburst"
+    ]
+  },
+  "prompt_sha256": "0cb69b7c070644a3dff21b99d1a88deb8fdf67424f2cc71ee864dbad05871c97",
+  "prompt_file_sha256": "35ccadc928275b0fd8e31bba82f7c57d93f996cd5b813043dfcb7e694fb30fe0",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "Raphael web UI",
+    "model_family": "GPT Image 2.6",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "model_evidence": "选择器、生成历史卡片与 CDN 结果路径一致，未检查底层 API ID。"
+  },
+  "output": {
+    "provider_filename": "task_01M79PD0NEGFSAR8JCBZ0WC692.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79PD0NEGFSAR8JCBZ0WC692.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 2048,
+    "original_bytes": 7502642,
+    "original_sha256": "a6be1df6086f4793e9267d2a7e8b6298544a140e472bea904dc64555411758d6"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-after-hours-record-sleeve/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 4657978,
+    "sha256": "967b594520074c7c1fa5325bc9a4521e3e1151f2e02c0b96f29270120d558332"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-after-hours-record-sleeve/browser-result.png",
+  "tool_evidence": null,
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The headline, Side A · 33⅓ RPM and four track names are readable and match. Geometric blocks and paper texture are present; no obvious extra lettering was observed.",
+      "zh-CN": "标题、Side A · 33⅓ RPM 和四行曲目均可辨且匹配，封套采用几何色块与纸纹，未发现明显额外文字。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

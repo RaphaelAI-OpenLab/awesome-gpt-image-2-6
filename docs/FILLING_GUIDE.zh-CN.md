@@ -85,12 +85,14 @@
 
 ### 模型信息
 
-`model.family` 使用 `GPT Image 2.6`。官方 API 型号目前为：
+有对应模型证据时，`model.family` 使用 `GPT Image 2.6`。官方 API 型号目前为：
 
 - Sunburst：`gpt-image-2.6-sunburst`
 - Flare：`gpt-image-2.6-flare`
 
 只知道作者写了 GPT Image 2.6，而不知道具体版本时，保留 `variant: "unspecified"` 和 `api_model_id: null`。不要从图片观感猜型号。
+
+自己的执行工具未返回实际模型版本时，完整配方的 `model.family` 保留 `null`，`variant` 使用 `unspecified`、`api_model_id` 使用 `null`，并记录真实平台与双语局限。提示词来源的 2.6 标签不能用于证明新图的模型；该条只作为明确标识的提示词执行记录，详见[收录范围](SOURCE_CASES.md#收录范围)。
 
 `workflow.task_type` 可选 `generation`、`editing`、`vector`、`animation`。
 
