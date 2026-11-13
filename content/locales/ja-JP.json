@@ -272,7 +272,7 @@
     "Tested by the curator": "収集・整理担当者がテスト済み",
     "Text / typography": "文字 / タイポグラフィ",
     "Thanks to OpenAI and the original creators credited on each case page.": "OpenAI と、各事例ページにクレジットを記載したオリジナルの作者の皆様に感謝します。",
-    "The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ": "このコレクションのプロンプトとメディアは、教育目的に限り公開情報から収集しています。権利を侵害する内容が含まれているとお考えの場合は、 ",
+    "This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please ": "このコレクションでは、公開されている情報源から収集したプロンプトと作例、および独自に生成した画像を、教育目的に限り掲載しています。権利を侵害する内容が含まれているとお考えの場合は、 ",
     "The repository code and original documentation use the MIT license. Third-party prompts and images retain their own terms.": "リポジトリのコードと独自に作成したドキュメントには MIT ライセンスを適用しています。第三者のプロンプトと画像には、それぞれの利用条件が適用されます。",
     "The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.": "実際のプロンプトは出典で公開されています。このリポジトリではリンクを掲載し、全文を創作したり転載したりしません。必要な入力とパラメーターは出典を参照してください。",
     "Themes": "テーマ",

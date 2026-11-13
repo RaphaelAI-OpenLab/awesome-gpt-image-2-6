@@ -1,0 +1,68 @@
+{
+  "case_id": "recreated-snowy-greenhouse",
+  "generated_at": "2026-11-13T13:08:51+08:00",
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "analyticsvidhya-snowy-greenhouse",
+    "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+    "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "47a01291ee798d99ea70d2e67bc2ceb13dce9ee923d5bdd844b69aad1ed4312d",
+  "prompt_file_sha256": "c7e64ffa3f1dd7e41b42ceebfa7c11837bb548161292f2e9342fb546d556c615",
+  "execution": {
+    "mode": "text-to-image",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "model_evidence": "网页模型选择器、生成历史标签及结果文件记录；未检查底层 API 请求，不推定 API 模型 ID。",
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "parameter_note": "保留网页原始标签。Standard 与历史 Medium 的对应仅记录界面表现，不映射成官方 API quality 或 complexity。"
+  },
+  "output": {
+    "provider_filename": "task_01M79MXZBQ6FXG0DD1N7H2DWG9.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79MXZBQ6FXG0DD1N7H2DWG9.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 1152,
+    "original_bytes": 4269481,
+    "original_sha256": "1dc04e14870e5539a2eaef02e282e8161ee4d49cd497a01120aa4bda9f4fd70b"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-snowy-greenhouse/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 3130524,
+    "sha256": "c79208e82b674a9282a5f0acc3298252e45a2fbaf3c19a941b04262855ab1932"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-snowy-greenhouse/browser-result.png",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "Snow, warm interior lights, tropical foliage, glass condensation, a stone entrance path and one copper watering can are visible. The near roof is cropped by the upper frame; this is an atmospheric architectural image, not a structural or thermal feasibility study.",
+      "zh-CN": "已目视核对积雪、温室暖光、热带绿植、玻璃凝露、入口石径与门旁的一只铜质浇水壶。近处屋顶被画面上缘裁切；本图是建筑氛围示例，未验证结构或保温可行性。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 许可证不覆盖这些提示词和生成图，也不把来源原图的权利状态套用于新图。"
+  }
+}

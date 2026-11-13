@@ -272,7 +272,7 @@
     "Tested by the curator": "已由整理者測試",
     "Text / typography": "文字 / 排版",
     "Thanks to OpenAI and the original creators credited on each case page.": "感謝 OpenAI，以及各案例頁面所標註的原創者。",
-    "The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ": "本合集的提示詞與媒體蒐集自公開來源，僅供教育用途。若您認為任何內容侵害您的權利，請 ",
+    "This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please ": "本合集收錄公開來源的提示詞與案例，以及獨立生成的圖片，僅供教育用途。若您認為任何內容侵害您的權利，請 ",
     "The repository code and original documentation use the MIT license. Third-party prompts and images retain their own terms.": "儲存庫程式碼與原創說明文件採用 MIT 授權。第三方提示詞與圖片仍適用各自的條款。",
     "The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.": "來源已公開實際提示詞。本儲存庫提供連結，不會自行編造或轉載全文。所需輸入與參數仍以來源為準。",
     "Themes": "主題",

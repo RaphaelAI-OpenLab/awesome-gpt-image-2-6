@@ -6,7 +6,9 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 ## Source-linked case or complete prompt? / 来源案例还是完整提示词？
 
-来源案例按[维护指南](docs/SOURCE_CASES.md)登记。仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例，写入 `content/source-cases.json`。下方完整提示词流程仍使用 `content/prompts.json`。
+来源案例按[维护指南](docs/SOURCE_CASES.md)登记，仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例，写入 `content/source-cases.json`。下方完整提示词流程仍使用 `content/prompts.json`。
+
+外站原图及资料继续保留在仓库外；使用外站公开完整提示词独立生成的新图，可按完整提示词流程正式收录。请保留原作者、准确来源、提示词改写说明及实际模型和参数，只在真实执行后标记为实测，并附脱敏生成证据。生成实验先放同级 `raphael-prompt-studio/`，正式收录后只复制发布所需文件。新生成图片与第三方提示词分别填写权利状态。
 
 主合集 README 直接展示图片、提示词和底部署名。已核实的来源原文填写在 `prompt.entries`，每段保留双语标题、原始文本和准确链接；多轮编辑分段保存，不合并成单次指令。不公开或待核验的提示词只标状态。MP4 的首帧预览通过 `python3 scripts/build_video_previews.py` 生成，随后重新生成 README；具体字段与命令见维护指南。
 

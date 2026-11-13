@@ -14,7 +14,7 @@
 
 > 🎨 GPT Image 2.6 创意提示词与案例精选合集。
 
-> ⚠️ **版权声明**：本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)，我们将立即移除。
+> ⚠️ **版权声明**：本仓库收录公开来源的提示词与案例，以及独立生成的图片，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)，我们将立即移除。
 
 ---
 
@@ -36,6 +36,8 @@
 </div>
 
 **[👉 浏览 Raphael GPT Image 2.6 提示词图库](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
+
+**[📝 完整提示词](#collection)**
 
 为什么去网站创作？
 
@@ -89,9 +91,9 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 
 | **指标** | **数量** |
 | --- | --- |
-| 📝 提示词总数 | **141** |
+| 📝 提示词总数 | **146** |
 | ⭐ 精选 | **12** |
-| 🔄 最后更新 | **2026年11月13日星期五 UTC 03:35:54** |
+| 🔄 最后更新 | **2026年11月13日星期五 UTC 05:15:02** |
 
 <a id="featured"></a>
 
@@ -455,8 +457,6 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 <a id="all-cases"></a>
 
 ## 📋 全部案例
-
-<a id="collection"></a>
 
 <a id="category-brand-products"></a>
 
@@ -5619,6 +5619,305 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 ---
 
 [检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
+
+<a id="collection"></a>
+
+## 📝 完整提示词
+
+<a id="case-recreated-vinyl-stylus-macro"></a>
+
+#### 黑胶唱针微距 · 独立生成
+
+**整理者已实测**
+
+以钴蓝色点缀、展示唱针、唱片沟槽与灰尘的极微距画面。
+
+![以钴蓝色点缀、展示唱针、唱片沟槽与灰尘的极微距画面。](assets/examples/recreated-vinyl-stylus-macro/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Extreme macro of a turntable stylus riding a vinyl groove, dust specks, groove walls and the cantilever sharply resolved, a sliver of light glancing across the record. Muted true color with one cobalt accent, shallow depth of field, subtle grain, no text, logos, or watermark.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x1360 |
+| output_format | png |
+| UI aspect ratio | 3:2 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 3:2、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+已目视核对唱针、悬臂、沟槽、灰尘与浅景深。唱针几何与视觉尺度仅作图像示例，未对照真实唱头或实测微距照片验证。网页选择 3:2，实际下载尺寸为 2048×1360。
+
+**补充说明**
+
+原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-vinyl-stylus-macro/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-vinyl-stylus-macro/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-vinyl-stylus-macro&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-snowy-greenhouse"></a>
+
+#### 雪山玻璃温室 · 独立生成
+
+**整理者已实测**
+
+雪山蓝调时刻的玻璃温室，内有热带植物与暖光，门边放置一只铜壶。
+
+![雪山蓝调时刻的玻璃温室，内有热带植物与暖光，门边放置一只铜壶。](assets/examples/recreated-snowy-greenhouse/result.webp)
+
+[原始来源](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph) · 作者: Vasu Deo Sankrityayan / Analytics Vidhya
+
+预览图署名: 原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Create a wide cinematic editorial photograph of a glass greenhouse on a snowy mountain ridge at blue hour. Inside, lush tropical plants glow under warm amber lights. Outside, snow rests naturally on the glass roof and a narrow stone path leads to the entrance. Show realistic condensation, convincing glass reflections, and physically coherent architecture. Exactly one copper watering can sits beside the door. Rich emerald and amber palette, restrained film grain. No people, text, logos, or watermark. Use only this brief. Keep the output anonymous: no personal names, account information, contact details, signatures, or references to any user. Generate the actual image, not a written prompt.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x1152 |
+| output_format | png |
+| UI aspect ratio | 16:9 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 16:9、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+已目视核对积雪、温室暖光、热带绿植、玻璃凝露、入口石径与门旁的一只铜质浇水壶。近处屋顶被画面上缘裁切；本图是建筑氛围示例，未验证结构或保温可行性。
+
+**补充说明**
+
+原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-snowy-greenhouse/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-snowy-greenhouse/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-snowy-greenhouse&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-night-market-vendor"></a>
+
+#### 夜市摊主人像 · 独立生成
+
+**整理者已实测**
+
+直闪、烟雾、真实肤质与动作模糊构成的夜市摊主人像。
+
+![直闪、烟雾、真实肤质与动作模糊构成的夜市摊主人像。](assets/examples/recreated-night-market-vendor/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Candid photo of a street food vendor in her fifties laughing mid-flip as she turns skewers over a charcoal grill at a crowded night market, smoke rising through strings of bare bulbs. Shot on a phone with direct on-camera flash, real skin texture, slight motion blur, muted true color with one chili red accent, candid and unposed, no text, logos, or watermark.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+已目视核对笑着翻烤的摊主、炭火烤串、烟雾和裸灯泡。动作模糊遮挡手部细节，不宣称手指解剖完全正确。原站以 Flare 展示该提示词，本次为新生成的 Sunburst 输出，不是原图复刻或模型优劣比较。
+
+**补充说明**
+
+原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-night-market-vendor/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-night-market-vendor/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-night-market-vendor&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-night-market-map"></a>
+
+#### 六摊位夜市地图 · 独立生成
+
+**整理者已实测**
+
+包含六个编号摊位、清晰英文标题与食物图例的夜市插画地图。
+
+![包含六个编号摊位、清晰英文标题与食物图例的夜市插画地图。](assets/examples/recreated-night-market-map/result.webp)
+
+[原始来源](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · 作者: Made / Made Inc.
+
+预览图署名: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Illustrated map poster of a night market on cream paper, titled exactly "NIGHT MARKET", six numbered stalls drawn along two aisles, with a legend reading exactly "1 Noodles", "2 Dumplings", "3 Skewers", "4 Bubble Tea", "5 Bao", "6 Mango Ice". Clean editorial design, muted earth tones with one chili red accent, subtle paper texture, sharp legible type, no other words or logos.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+标题 NIGHT MARKET、六条英文图例及摊位编号 1–6 均清晰且与原词一致。摊位围绕一条中央通道排列成两列，未满足原词要求的两条通道。Made 原示例使用 Flare，本次新图使用 Sunburst。
+
+**补充说明**
+
+原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-night-market-map/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-night-market-map/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-night-market-map&utm_term=zh-CN)**
+
+---
+
+<a id="case-recreated-monarch-life-cycle"></a>
+
+#### 帝王蝶四阶段图谱 · 独立生成
+
+**整理者已实测**
+
+用四个英文标签和顺时针箭头组织的水彩蝴蝶生命周期图谱。
+
+![用四个英文标签和顺时针箭头组织的水彩蝴蝶生命周期图谱。](assets/examples/recreated-monarch-life-cycle/result.webp)
+
+[原始来源](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration) · 作者: Vasu Deo Sankrityayan / Analytics Vidhya
+
+预览图署名: 原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**原始提示词**
+
+```text
+Create an elegant natural-history field-guide plate showing the monarch butterfly life cycle, on warm ivory paper, with meticulous watercolor and fine ink detail. Four clearly separated stages arranged clockwise: upper left one tiny egg on the underside of a milkweed leaf; upper right a yellow-black-white striped monarch caterpillar eating milkweed; lower right a green chrysalis with delicate gold accents attached by its tip; lower left an adult orange-and-black monarch with white-dotted wing edges resting on milkweed. Thin unobtrusive clockwise arrows must connect egg to caterpillar to chrysalis to adult and back to egg. Exactly four labels: Egg, Caterpillar, Chrysalis, Adult. No other text. Show biologically plausible proportions and plant structures; avoid decorative butterflies or extra stages. Use only this standalone brief. Keep all outputs anonymous: no personal names, account data, contact details, signatures or references to any user. Generate the actual image, not a prompt or code.
+```
+
+**已记录参数**
+
+| 项目 | 内容 |
+| --- | --- |
+| 模型系列 | GPT Image 2.6 |
+| 版本 | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**操作步骤**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**实测说明**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+四阶段位于指定象限，Egg、Caterpillar、Chrysalis、Adult 四个标签及顺时针循环箭头均可见。卵被放大展示，不宣称各阶段具有一致的生物尺度。物种形态及寄主植物结构未经昆虫学专家审校，仅作为视觉排版案例。
+
+**补充说明**
+
+原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-monarch-life-cycle/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。
+
+[独立案例页](cases/recreated-monarch-life-cycle/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-monarch-life-cycle&utm_term=zh-CN)**
+
+---
 
 <a id="using"></a>
 

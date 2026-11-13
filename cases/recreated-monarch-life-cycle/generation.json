@@ -1,0 +1,68 @@
+{
+  "case_id": "recreated-monarch-life-cycle",
+  "generated_at": "2026-11-13T13:09:39+08:00",
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "analyticsvidhya-monarch-life-cycle",
+    "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+    "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "324cd605cfa9e15cc2c245040f4cb6c49f00a78a5cdccea35d512b6962ac5009",
+  "prompt_file_sha256": "1df3a4d684059bbd40b173f3ecf425b4fe707d6b8bb962e4e548b8b213477187",
+  "execution": {
+    "mode": "text-to-image",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "model_evidence": "网页模型选择器、生成历史标签及结果文件记录；未检查底层 API 请求，不推定 API 模型 ID。",
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "parameter_note": "保留网页原始标签。Standard 与历史 Medium 的对应仅记录界面表现，不映射成官方 API quality 或 complexity。"
+  },
+  "output": {
+    "provider_filename": "task_01M79MZE8E8JHCV0J33JH5ZZR5.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79MZE8E8JHCV0J33JH5ZZR5.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 2048,
+    "original_bytes": 7418869,
+    "original_sha256": "1797900bfedd8e8f7fff09aa1aa87f90e5f0a0bdf959546499ee9530e5d4bff1"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-monarch-life-cycle/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 5088106,
+    "sha256": "88ac4f590c2a0c18e31343b639e04977b3663cdd450374e287b2a4486dc51d4e"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-monarch-life-cycle/browser-result.png",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "Four stages occupy the requested quadrants, with the labels Egg, Caterpillar, Chrysalis and Adult and a clockwise arrow cycle. The egg is enlarged for visibility, so the plate does not establish consistent biological scale. Species morphology and host-plant anatomy have not been reviewed by an entomologist; this is a visual-layout example.",
+      "zh-CN": "四阶段位于指定象限，Egg、Caterpillar、Chrysalis、Adult 四个标签及顺时针循环箭头均可见。卵被放大展示，不宣称各阶段具有一致的生物尺度。物种形态及寄主植物结构未经昆虫学专家审校，仅作为视觉排版案例。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 许可证不覆盖这些提示词和生成图，也不把来源原图的权利状态套用于新图。"
+  }
+}
