@@ -225,9 +225,19 @@ def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warni
             errors.append(f"{label}.category: choose an ID from site.config.json")
         if not is_date(item["added_at"]):
             errors.append(f"{label}.added_at: a published entry needs its collection date")
-        if item["model"]["family"] != config["project"]["model_family"]:
+        family = item["model"]["family"]
+        if family is not None and family != config["project"]["model_family"]:
             errors.append(f"{label}.model.family: must match this collection's model family")
         model_id = item["model"]["api_model_id"]
+        if family is None:
+            if model_id or item["model"]["variant"] != "unspecified":
+                errors.append(f"{label}.model: an unverified family cannot assert a variant or API ID")
+            verification = item["verification"]
+            if (verification["status"] != "tested" or not verification["tested_on"].strip()
+                    or not all(verification["notes"][lang].strip() for lang in ("en", "zh-CN"))):
+                errors.append(f"{label}.verification: an unverified model needs actual execution and bilingual limitations")
+            if item["source"]["provenance"] not in ("collected", "adapted") or not item["source"]["url"]:
+                errors.append(f"{label}.source: an unverified model needs a source-linked prompt")
         if model_id and model_id not in config["project"]["model_ids"]:
             errors.append(f"{label}.model.api_model_id: not in the configured official model IDs")
         if model_id and not model_id.endswith("-" + item["model"]["variant"]):

@@ -1,0 +1,64 @@
+{
+  "case_id": "recreated-bicycle-season-sale-ad",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.938310+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "yir-bicycle-sale-ad",
+    "author": "Yir / Sungerine Labs LLC",
+    "url": "https://yir.ai/models/gpt-image-2-6",
+    "source_model_variants": [
+      "unspecified"
+    ]
+  },
+  "prompt_sha256": "301eb0003c7afd2c7632fb9974291baa20f0aadec809f5245ad4991bb9a5097f",
+  "prompt_file_sha256": "32081f50e2854d701b84eee8c2d0daf7e4d95cde8f43e81d46ecd587638b9c2a",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-ef982546-7092-41d7-8bb9-eabbc8564de5.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "original_bytes": 2638976,
+    "original_sha256": "a2f4c80f5768710ad876d9814b4f762d3d90ba602039ead5ba09b7f5f4020e7d"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-bicycle-season-sale-ad/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 1655756,
+    "sha256": "2b7c8414cba8ce709e240431a388e9635cac9644620ee44542d9754637f2f233"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-bicycle-season-sale-ad/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The three text groups and -30% badge match. The photo occupies roughly the top 58%, rather than an exact half; mechanical details and wear are not measured or certified. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "三组文案和 -30% 徽章匹配，照片区与奶油色文字区清晰。照片实际约占画面上方 58%，并非严格上下各半；机械结构与磨损未作实测验证。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

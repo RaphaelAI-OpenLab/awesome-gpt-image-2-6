@@ -1,0 +1,71 @@
+{
+  "case_id": "recreated-noodle-lightbox-menu",
+  "generated_at": "2026-11-13T13:30:53+08:00",
+  "recorded_at": null,
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "made-flare-noodle-menu",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+    "source_model_variants": [
+      "flare"
+    ]
+  },
+  "prompt_sha256": "4bb88c8bb39081ab4463ee66e11d87ff7f097f8f962a3303c9ca175b91d0f025",
+  "prompt_file_sha256": "6bb3a7d9bc8b482d06acb181877d5c6b02bb1a6a21e9dc13135f04b2c412dc24",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "Raphael web UI",
+    "model_family": "GPT Image 2.6",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "4:3",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "model_evidence": "选择器、生成历史卡片与 CDN 结果路径一致，未检查底层 API ID。"
+  },
+  "output": {
+    "provider_filename": "task_01M79P6ADBWEGSSVVGBCHW7PS8.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79P6ADBWEGSSVVGBCHW7PS8.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 1536,
+    "original_bytes": 3889961,
+    "original_sha256": "0ae3715878721e4b368b43d30bf8ccb914f3f98e67878fa103cd69f2e8172071"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-noodle-lightbox-menu/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 2613688,
+    "sha256": "ecca62821258adcfe58aaf92056597f8e6b30e9bc2e3242ff50754a7455ae36b"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-noodle-lightbox-menu/browser-result.png",
+  "tool_evidence": null,
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The headline and all three menu strings and prices match the brief; steam is visible.",
+      "zh-CN": "已核对 HAND-PULLED NOODLES 与 Beef Broth 12、Chili Oil 10、Wild Mushroom 11，文字及价格匹配，蒸汽可见。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

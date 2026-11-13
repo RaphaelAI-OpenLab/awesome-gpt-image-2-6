@@ -1,0 +1,65 @@
+{
+  "case_id": "recreated-oaken-mile-coffee-label",
+  "generated_at": null,
+  "recorded_at": "2026-11-13T05:41:24.925912+00:00",
+  "platform": {
+    "name": "Codex built-in image_gen",
+    "url": null
+  },
+  "prompt_source": {
+    "archive_case_id": "community-moss-coffee-label",
+    "author": "MossImage Studio Team",
+    "url": "https://mossimage.studio/blog/gpt-image-2-6#round-3-a-product-label",
+    "source_model_variants": [
+      "flare",
+      "sunburst"
+    ]
+  },
+  "prompt_sha256": "5f5f89e096c0146d7ae93f627e651935a3b4d0c34dd8b43e3288310a3c8e0eb0",
+  "prompt_file_sha256": "a397be5fe20202a9ae5509c29c343182cb8da260d2d8c7325d00851d348b8909",
+  "execution": {
+    "mode": "text-to-image",
+    "tool": "image_gen",
+    "model_family": null,
+    "model_label": null,
+    "api_model_id": null,
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_parameters": {
+      "transparent_background": false
+    },
+    "model_evidence": "仅确认内置 image_gen 工具真实执行并返回图片，不确认具体型号。"
+  },
+  "output": {
+    "provider_filename": "exec-235a9346-fb6a-49ff-bd29-6334c58a4f14.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "original_bytes": 2622443,
+    "original_sha256": "07f138eba95810359f6d47afe8aa4b73bd1f95dd5c7e33f3da379d947737210a"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-oaken-mile-coffee-label/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 1669032,
+    "sha256": "26371564469c9be21c385facc41a88a3ea3fbd9f430c6aedb11a99b3a750d2dd"
+  },
+  "browser_evidence": null,
+  "tool_evidence": "cases/recreated-oaken-mile-coffee-label/tool-output.json",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The brand, origin, tasting notes and weight are readable. Light Roast was changed to LIGHT ROAST. Added tree, landscape and ingredient illustrations were not prohibited by the prompt. Generated with Codex built-in image_gen; the tool did not return the exact model family, variant or API model ID.",
+      "zh-CN": "品牌、产地、风味和净重可读；原词 Light Roast 被改成 LIGHT ROAST。额外加入树木、山景及风味插画，原词未禁止这些装饰。 本次使用 Codex 内置 image_gen；工具未返回具体模型系列、版本或 API 模型 ID。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 协议不覆盖这些提示词与生成图。"
+  }
+}

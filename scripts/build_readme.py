@@ -212,7 +212,7 @@ def render_case(item: dict, config: dict, language: str, *, standalone: bool = F
     lines.extend([f"**{t(language, 'prompt')}**", "", code_block(item["prompt"]), ""])
     model = item["model"]
     variant = model["variant"] if model["variant"] != "unspecified" else t(language, "unspecified")
-    settings = [(t(language, "model_family"), model["family"]), (t(language, "variant"), variant)]
+    settings = [(t(language, "model_family"), model["family"] or t(language, "unspecified")), (t(language, "variant"), variant)]
     if model.get("api_model_id"):
         settings.append(("API model ID", model["api_model_id"]))
     settings.extend((key, value) for key, value in item["workflow"]["parameters"].items() if value is not None and value != "")
