@@ -272,7 +272,7 @@
     "Tested by the curator": "संग्रह के संकलक द्वारा परीक्षण किया गया",
     "Text / typography": "पाठ / टाइपोग्राफी",
     "Thanks to OpenAI and the original creators credited on each case page.": "OpenAI और हर उदाहरण के पेज पर श्रेय दिए गए मूल रचनाकारों का धन्यवाद।",
-    "The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ": "इस संग्रह के प्रॉम्प्ट और मीडिया केवल शैक्षिक उद्देश्यों के लिए सार्वजनिक स्रोतों से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया ",
+    "This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please ": "इस संग्रह में सार्वजनिक स्रोतों से लिए गए प्रॉम्प्ट और उदाहरणों के साथ स्वतंत्र रूप से जनरेट की गई छवियाँ शामिल हैं, और यह सारी सामग्री केवल शैक्षिक उद्देश्यों के लिए है। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया ",
     "The repository code and original documentation use the MIT license. Third-party prompts and images retain their own terms.": "रिपॉज़िटरी का कोड और मूल दस्तावेज़ MIT लाइसेंस के अंतर्गत हैं। तृतीय पक्ष के प्रॉम्प्ट और चित्रों की अपनी शर्तें बनी रहती हैं।",
     "The source publishes the actual prompt. This repository links to it rather than inventing or republishing the full text. Required inputs and parameters remain at the source.": "स्रोत वास्तविक प्रॉम्प्ट प्रकाशित करता है। यह रिपॉज़िटरी पूरा पाठ गढ़ने या पुनः प्रकाशित करने के बजाय उसका लिंक देती है। आवश्यक इनपुट और पैरामीटर स्रोत पर ही उपलब्ध हैं।",
     "Themes": "विषय",

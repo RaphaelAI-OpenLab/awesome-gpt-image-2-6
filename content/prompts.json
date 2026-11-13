@@ -1,1 +1,457 @@
-[]
+[
+  {
+    "id": "recreated-night-market-vendor",
+    "status": "published",
+    "title": {
+      "en": "Night-market vendor portrait · independent generation",
+      "zh-CN": "夜市摊主人像 · 独立生成"
+    },
+    "summary": {
+      "en": "A candid night-market portrait with direct flash, smoke, visible skin texture and motion blur.",
+      "zh-CN": "直闪、烟雾、真实肤质与动作模糊构成的夜市摊主人像。"
+    },
+    "category": "characters-consistency",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Candid photo of a street food vendor in her fifties laughing mid-flip as she turns skewers over a charcoal grill at a crowded night market, smoke rising through strings of bare bulbs. Shot on a phone with direct on-camera flash, real skin texture, slight motion blur, muted true color with one chili red accent, candid and unposed, no text, logos, or watermark.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x2048",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "1:1",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-night-market-vendor/result.webp",
+      "alt": {
+        "en": "A candid night-market portrait with direct flash, smoke, visible skin texture and motion blur.",
+        "zh-CN": "直闪、烟雾、真实肤质与动作模糊构成的夜市摊主人像。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The laughing vendor, charcoal skewers, smoke and bare bulbs are visible. Motion blur obscures fine hand detail, so finger anatomy is not certified. This is a new Sunburst output from a prompt originally shown with Flare, not a reproduction of the original image or a model comparison.",
+        "zh-CN": "已目视核对笑着翻烤的摊主、炭火烤串、烟雾和裸灯泡。动作模糊遮挡手部细节，不宣称手指解剖完全正确。原站以 Flare 展示该提示词，本次为新生成的 Sunburst 输出，不是原图复刻或模型优劣比较。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-night-market-vendor/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
+      "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-night-market-vendor/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-night-market-map",
+    "status": "published",
+    "title": {
+      "en": "Six-stall night-market map · independent generation",
+      "zh-CN": "六摊位夜市地图 · 独立生成"
+    },
+    "summary": {
+      "en": "A six-stall illustrated night-market map with a readable title and food legend.",
+      "zh-CN": "包含六个编号摊位、清晰英文标题与食物图例的夜市插画地图。"
+    },
+    "category": "infographics",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Illustrated map poster of a night market on cream paper, titled exactly \"NIGHT MARKET\", six numbered stalls drawn along two aisles, with a legend reading exactly \"1 Noodles\", \"2 Dumplings\", \"3 Skewers\", \"4 Bubble Tea\", \"5 Bao\", \"6 Mango Ice\". Clean editorial design, muted earth tones with one chili red accent, subtle paper texture, sharp legible type, no other words or logos.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x2048",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "1:1",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-night-market-map/result.webp",
+      "alt": {
+        "en": "A six-stall illustrated night-market map with a readable title and food legend.",
+        "zh-CN": "包含六个编号摊位、清晰英文标题与食物图例的夜市插画地图。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The title NIGHT MARKET, all six legend strings and stall numbers 1–6 are readable and match the brief. The stalls form two columns around one central aisle; the requested two aisles were not achieved. The original Made example used Flare; this new image was generated with Sunburst.",
+        "zh-CN": "标题 NIGHT MARKET、六条英文图例及摊位编号 1–6 均清晰且与原词一致。摊位围绕一条中央通道排列成两列，未满足原词要求的两条通道。Made 原示例使用 Flare，本次新图使用 Sunburst。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-night-market-map/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
+      "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-night-market-map/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-vinyl-stylus-macro",
+    "status": "published",
+    "title": {
+      "en": "Vinyl stylus macro · independent generation",
+      "zh-CN": "黑胶唱针微距 · 独立生成"
+    },
+    "summary": {
+      "en": "An extreme macro view of a stylus, record grooves and dust with a cobalt accent.",
+      "zh-CN": "以钴蓝色点缀、展示唱针、唱片沟槽与灰尘的极微距画面。"
+    },
+    "category": "brand-products",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Extreme macro of a turntable stylus riding a vinyl groove, dust specks, groove walls and the cantilever sharply resolved, a sliver of light glancing across the record. Muted true color with one cobalt accent, shallow depth of field, subtle grain, no text, logos, or watermark.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x1360",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "3:2",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 3:2、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-vinyl-stylus-macro/result.webp",
+      "alt": {
+        "en": "An extreme macro view of a stylus, record grooves and dust with a cobalt accent.",
+        "zh-CN": "以钴蓝色点缀、展示唱针、唱片沟槽与灰尘的极微距画面。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+      "author": "Made / Made Inc.",
+      "author_url": null,
+      "platform": "Made",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "The stylus, cantilever, grooves, dust and shallow depth of field are visible. The generated stylus geometry and apparent scale are illustrative and were not checked against a real cartridge or a measured macro photograph. The UI ratio was 3:2; the downloaded raster is 2048×1360.",
+        "zh-CN": "已目视核对唱针、悬臂、沟槽、灰尘与浅景深。唱针几何与视觉尺度仅作图像示例，未对照真实唱头或实测微距照片验证。网页选择 3:2，实际下载尺寸为 2048×1360。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-vinyl-stylus-macro/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
+      "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-vinyl-stylus-macro/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-snowy-greenhouse",
+    "status": "published",
+    "title": {
+      "en": "Snowy mountain greenhouse · independent generation",
+      "zh-CN": "雪山玻璃温室 · 独立生成"
+    },
+    "summary": {
+      "en": "A blue-hour mountain greenhouse with tropical plants, warm lights and one copper watering can.",
+      "zh-CN": "雪山蓝调时刻的玻璃温室，内有热带植物与暖光，门边放置一只铜壶。"
+    },
+    "category": "interiors-architecture",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Create a wide cinematic editorial photograph of a glass greenhouse on a snowy mountain ridge at blue hour. Inside, lush tropical plants glow under warm amber lights. Outside, snow rests naturally on the glass roof and a narrow stone path leads to the entrance. Show realistic condensation, convincing glass reflections, and physically coherent architecture. Exactly one copper watering can sits beside the door. Rich emerald and amber palette, restrained film grain. No people, text, logos, or watermark. Use only this brief. Keep the output anonymous: no personal names, account information, contact details, signatures, or references to any user. Generate the actual image, not a written prompt.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x1152",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "16:9",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 16:9、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-snowy-greenhouse/result.webp",
+      "alt": {
+        "en": "A blue-hour mountain greenhouse with tropical plants, warm lights and one copper watering can.",
+        "zh-CN": "雪山蓝调时刻的玻璃温室，内有热带植物与暖光，门边放置一只铜壶。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "author_url": null,
+      "platform": "Analytics Vidhya",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "Snow, warm interior lights, tropical foliage, glass condensation, a stone entrance path and one copper watering can are visible. The near roof is cropped by the upper frame; this is an atmospheric architectural image, not a structural or thermal feasibility study.",
+        "zh-CN": "已目视核对积雪、温室暖光、热带绿植、玻璃凝露、入口石径与门旁的一只铜质浇水壶。近处屋顶被画面上缘裁切；本图是建筑氛围示例，未验证结构或保温可行性。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-snowy-greenhouse/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
+      "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-snowy-greenhouse/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  },
+  {
+    "id": "recreated-monarch-life-cycle",
+    "status": "published",
+    "title": {
+      "en": "Monarch butterfly life cycle · independent generation",
+      "zh-CN": "帝王蝶四阶段图谱 · 独立生成"
+    },
+    "summary": {
+      "en": "A watercolor butterfly life-cycle plate with four labelled stages and clockwise arrows.",
+      "zh-CN": "用四个英文标签和顺时针箭头组织的水彩蝴蝶生命周期图谱。"
+    },
+    "category": "infographics",
+    "tags": [
+      "independently-generated",
+      "source-attributed-prompt",
+      "text-to-image"
+    ],
+    "prompt_language": "en",
+    "prompt": "Create an elegant natural-history field-guide plate showing the monarch butterfly life cycle, on warm ivory paper, with meticulous watercolor and fine ink detail. Four clearly separated stages arranged clockwise: upper left one tiny egg on the underside of a milkweed leaf; upper right a yellow-black-white striped monarch caterpillar eating milkweed; lower right a green chrysalis with delicate gold accents attached by its tip; lower left an adult orange-and-black monarch with white-dotted wing edges resting on milkweed. Thin unobtrusive clockwise arrows must connect egg to caterpillar to chrysalis to adult and back to egg. Exactly four labels: Egg, Caterpillar, Chrysalis, Adult. No other text. Show biologically plausible proportions and plant structures; avoid decorative butterflies or extra stages. Use only this standalone brief. Keep all outputs anonymous: no personal names, account data, contact details, signatures or references to any user. Generate the actual image, not a prompt or code.",
+    "model": {
+      "family": "GPT Image 2.6",
+      "variant": "sunburst",
+      "api_model_id": null
+    },
+    "workflow": {
+      "task_type": "generation",
+      "parameters": {
+        "size": "2048x2048",
+        "quality": null,
+        "complexity": null,
+        "output_format": "png"
+      },
+      "extra_parameters": {
+        "UI aspect ratio": "1:1",
+        "UI resolution": "2K",
+        "UI quality": "Standard",
+        "UI planning intensity": "Medium",
+        "History quality label": "Medium",
+        "Output count": 1,
+        "AI Enhance": false
+      },
+      "steps": [
+        "在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。",
+        "粘贴原始提示词，不上传参考图，关闭 AI Enhance。",
+        "选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。",
+        "下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。"
+      ]
+    },
+    "preview": {
+      "path": "assets/examples/recreated-monarch-life-cycle/result.webp",
+      "alt": {
+        "en": "A watercolor butterfly life-cycle plate with four labelled stages and clockwise arrows.",
+        "zh-CN": "用四个英文标签和顺时针箭头组织的水彩蝴蝶生命周期图谱。"
+      }
+    },
+    "reference_images": [],
+    "source": {
+      "provenance": "collected",
+      "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration",
+      "author": "Vasu Deo Sankrityayan / Analytics Vidhya",
+      "author_url": null,
+      "platform": "Analytics Vidhya",
+      "published_at": null
+    },
+    "verification": {
+      "status": "tested",
+      "tested_at": "2026-11-13",
+      "tested_on": "Raphael web UI · GPT Image 2.6 Sunburst",
+      "notes": {
+        "en": "Four stages occupy the requested quadrants, with the labels Egg, Caterpillar, Chrysalis and Adult and a clockwise arrow cycle. The egg is enlarged for visibility, so the plate does not establish consistent biological scale. Species morphology and host-plant anatomy have not been reviewed by an entomologist; this is a visual-layout example.",
+        "zh-CN": "四阶段位于指定象限，Egg、Caterpillar、Chrysalis、Adult 四个标签及顺时针循环箭头均可见。卵被放大展示，不宣称各阶段具有一致的生物尺度。物种形态及寄主植物结构未经昆虫学专家审校，仅作为视觉排版案例。"
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "own",
+      "credit": "原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。",
+      "license_url": null
+    },
+    "added_at": "2026-11-13",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-monarch-life-cycle/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.",
+      "zh-CN": "原始提示词逐字使用，未上传外站原图。生成证据与哈希见 cases/recreated-monarch-life-cycle/generation.json。展示用无损 WebP 与原始 PNG 像素一致。未核实第三方提示词的独立转载许可证，署名不构成授权，仓库 MIT 协议不覆盖该提示词或生成图。界面参数按实际标签记录，不推定 API 模型 ID 或官方参数映射。"
+    }
+  }
+]

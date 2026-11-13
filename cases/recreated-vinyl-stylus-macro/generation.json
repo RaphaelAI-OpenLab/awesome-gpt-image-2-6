@@ -1,0 +1,68 @@
+{
+  "case_id": "recreated-vinyl-stylus-macro",
+  "generated_at": "2026-11-13T13:07:55+08:00",
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "made-sunburst-stylus-macro",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading",
+    "source_model_variants": [
+      "sunburst"
+    ]
+  },
+  "prompt_sha256": "7fdca5d538633fe8093af8bc11b6f7fc7746f0196ac23ca428fbc3afe401d07e",
+  "prompt_file_sha256": "1ba1b0b797503d46b58d91560162f090f61ca3b55708b250dedb15b1c4b66f70",
+  "execution": {
+    "mode": "text-to-image",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "model_evidence": "网页模型选择器、生成历史标签及结果文件记录；未检查底层 API 请求，不推定 API 模型 ID。",
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "3:2",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": "PNG"
+    },
+    "history_quality_label": "Medium",
+    "parameter_note": "保留网页原始标签。Standard 与历史 Medium 的对应仅记录界面表现，不映射成官方 API quality 或 complexity。"
+  },
+  "output": {
+    "provider_filename": "task_01M79MW8HYV2N8PKC3CYNKC7Y8.png",
+    "source_url": "https://cdn.raphael.app/generated/t2i/gpt-image-2-6-sunburst/2026-11-13/task_01M79MW8HYV2N8PKC3CYNKC7Y8.png",
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 1360,
+    "original_bytes": 3213037,
+    "original_sha256": "d093df327ed774fffdb0ead993abb3defa140ff782ea0bbc043e8e62b647561f"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-vinyl-stylus-macro/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 2191388,
+    "sha256": "1f5ac2180eeecf980b76e04dc7c2ed275728d5e9e4507ad0a16767bfb25929d1"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-vinyl-stylus-macro/browser-result.png",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The stylus, cantilever, grooves, dust and shallow depth of field are visible. The generated stylus geometry and apparent scale are illustrative and were not checked against a real cartridge or a measured macro photograph. The UI ratio was 3:2; the downloaded raster is 2048×1360.",
+      "zh-CN": "已目视核对唱针、悬臂、沟槽、灰尘与浅景深。唱针几何与视觉尺度仅作图像示例，未对照真实唱头或实测微距照片验证。网页选择 3:2，实际下载尺寸为 2048×1360。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 许可证不覆盖这些提示词和生成图，也不把来源原图的权利状态套用于新图。"
+  }
+}

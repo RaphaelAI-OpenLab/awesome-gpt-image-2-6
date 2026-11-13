@@ -109,7 +109,7 @@ class PresentationTests(unittest.TestCase):
             for lang in LANGUAGES:
                 with self.subTest(lang=lang):
                     translation = messages(lang)[key]
-                    text = render_readme(self.config, self.prompts, lang)
+                    text = render_readme(self.config, [], lang)
                     self.assertIn(translation, text)
                     self.assertIn(page_path(item, lang), text)
                     self.assertIn(f'| 📝 {messages(lang)["Total prompts"]} | **0** |', text)

@@ -7,7 +7,7 @@ from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from build_readme import outputs
-from common import ROOT, load_data
+from common import ROOT, load_data, published
 from source_cases import is_supported_source, read_cases, visible
 from validate import read_json, validate
 
@@ -20,7 +20,7 @@ class SourceScopeTests(unittest.TestCase):
         generated = outputs(config, prompts)
         expected = {
             ROOT / 'cases' / item['id'] / name
-            for item in cases for name in ('README.md', 'README.zh-CN.md')
+            for item in cases + published(prompts) for name in ('README.md', 'README.zh-CN.md')
         }
         actual = {path for path in generated if path.name.startswith('README.')
                   and path.parent != ROOT}

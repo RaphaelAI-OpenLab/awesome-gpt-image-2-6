@@ -14,7 +14,7 @@
 
 > 🎨 คอลเลกชันพรอมป์ต์สร้างสรรค์และตัวอย่างภาพที่คัดสรรสำหรับ GPT Image 2.6
 
-> ⚠️ **ประกาศลิขสิทธิ์**: พรอมป์ต์และสื่อในคอลเลกชันนี้รวบรวมจากแหล่งข้อมูลสาธารณะเพื่อการศึกษาเท่านั้น หากคุณเห็นว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิด Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml) แล้วเราจะนำเนื้อหานั้นออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คอลเลกชันนี้ประกอบด้วยพรอมป์ต์และตัวอย่างจากแหล่งข้อมูลสาธารณะ รวมถึงภาพที่สร้างขึ้นอย่างอิสระ โดยทั้งหมดมีไว้เพื่อการศึกษาเท่านั้น หากคุณเห็นว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิด Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml) แล้วเราจะนำเนื้อหานั้นออกทันที
 
 ---
 
@@ -40,6 +40,8 @@
 </div>
 
 **[👉 ดูแกลเลอรีพรอมต์ GPT Image 2.6 บน Raphael](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=th-TH)**
+
+**[📝 พรอมป์ต์ฉบับเต็ม](#collection)**
 
 ทำไมจึงควรสร้างผลงานบนเว็บไซต์?
 
@@ -93,9 +95,9 @@ OpenAI เปิดตัว Images 2.6 เมื่อวันที่ 4 พ�
 
 | **ตัวชี้วัด** | **จำนวน** |
 | --- | --- |
-| 📝 พรอมป์ต์ทั้งหมด | **141** |
+| 📝 พรอมป์ต์ทั้งหมด | **146** |
 | ⭐ คัดสรร | **12** |
-| 🔄 อัปเดตล่าสุด | **2026-11-13 UTC 03:35:54** |
+| 🔄 อัปเดตล่าสุด | **2026-11-13 UTC 05:15:02** |
 
 <a id="featured"></a>
 
@@ -459,8 +461,6 @@ Prompt body and shared loop instruction are combined using the source’s docume
 <a id="all-cases"></a>
 
 ## 📋 กรณีตัวอย่างทั้งหมด
-
-<a id="collection"></a>
 
 <a id="category-brand-products"></a>
 
@@ -5623,6 +5623,305 @@ Original prompt wording is preserved.  See the precise source and item-level med
 ---
 
 [บันทึกการค้นหา รายงานสื่อ และเบาะแสที่ยังไม่ได้ข้อสรุป](docs/CASE_GALLERY.md)
+
+<a id="collection"></a>
+
+## 📝 พรอมป์ต์ฉบับเต็ม
+
+<a id="case-recreated-vinyl-stylus-macro"></a>
+
+#### Vinyl stylus macro · independent generation
+
+**ผู้รวบรวมทดสอบแล้ว**
+
+An extreme macro view of a stylus, record grooves and dust with a cobalt accent.
+
+![An extreme macro view of a stylus, record grooves and dust with a cobalt accent.](assets/examples/recreated-vinyl-stylus-macro/result.webp)
+
+[แหล่งที่มาต้นฉบับ](https://www.made.app/models/gpt-image-2-6-sunburst#examples-heading) · ผู้สร้าง: Made / Made Inc.
+
+เครดิตภาพตัวอย่าง: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+Extreme macro of a turntable stylus riding a vinyl groove, dust specks, groove walls and the cantilever sharply resolved, a sliver of light glancing across the record. Muted true color with one cobalt accent, shallow depth of field, subtle grain, no text, logos, or watermark.
+```
+
+**การตั้งค่าที่บันทึกไว้**
+
+| การตั้งค่า | ค่า |
+| --- | --- |
+| ตระกูลโมเดล | GPT Image 2.6 |
+| รุ่นย่อย | sunburst |
+| size | 2048x1360 |
+| output_format | png |
+| UI aspect ratio | 3:2 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**เวิร์กโฟลว์**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 3:2、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**หมายเหตุการทดสอบ**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The stylus, cantilever, grooves, dust and shallow depth of field are visible. The generated stylus geometry and apparent scale are illustrative and were not checked against a real cartridge or a measured macro photograph. The UI ratio was 3:2; the downloaded raster is 2048×1360.
+
+**หมายเหตุ**
+
+The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-vinyl-stylus-macro/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.
+
+[หน้ากรณีตัวอย่างแยกเฉพาะ](cases/recreated-vinyl-stylus-macro/README.md)
+
+**[👉 ลองเลย →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-vinyl-stylus-macro&utm_term=th-TH)**
+
+---
+
+<a id="case-recreated-snowy-greenhouse"></a>
+
+#### Snowy mountain greenhouse · independent generation
+
+**ผู้รวบรวมทดสอบแล้ว**
+
+A blue-hour mountain greenhouse with tropical plants, warm lights and one copper watering can.
+
+![A blue-hour mountain greenhouse with tropical plants, warm lights and one copper watering can.](assets/examples/recreated-snowy-greenhouse/result.webp)
+
+[แหล่งที่มาต้นฉบับ](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-1-a-cinematic-editorial-photograph) · ผู้สร้าง: Vasu Deo Sankrityayan / Analytics Vidhya
+
+เครดิตภาพตัวอย่าง: 原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+Create a wide cinematic editorial photograph of a glass greenhouse on a snowy mountain ridge at blue hour. Inside, lush tropical plants glow under warm amber lights. Outside, snow rests naturally on the glass roof and a narrow stone path leads to the entrance. Show realistic condensation, convincing glass reflections, and physically coherent architecture. Exactly one copper watering can sits beside the door. Rich emerald and amber palette, restrained film grain. No people, text, logos, or watermark. Use only this brief. Keep the output anonymous: no personal names, account information, contact details, signatures, or references to any user. Generate the actual image, not a written prompt.
+```
+
+**การตั้งค่าที่บันทึกไว้**
+
+| การตั้งค่า | ค่า |
+| --- | --- |
+| ตระกูลโมเดล | GPT Image 2.6 |
+| รุ่นย่อย | sunburst |
+| size | 2048x1152 |
+| output_format | png |
+| UI aspect ratio | 16:9 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**เวิร์กโฟลว์**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 16:9、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**หมายเหตุการทดสอบ**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+Snow, warm interior lights, tropical foliage, glass condensation, a stone entrance path and one copper watering can are visible. The near roof is cropped by the upper frame; this is an atmospheric architectural image, not a structural or thermal feasibility study.
+
+**หมายเหตุ**
+
+The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-snowy-greenhouse/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.
+
+[หน้ากรณีตัวอย่างแยกเฉพาะ](cases/recreated-snowy-greenhouse/README.md)
+
+**[👉 ลองเลย →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-snowy-greenhouse&utm_term=th-TH)**
+
+---
+
+<a id="case-recreated-night-market-vendor"></a>
+
+#### Night-market vendor portrait · independent generation
+
+**ผู้รวบรวมทดสอบแล้ว**
+
+A candid night-market portrait with direct flash, smoke, visible skin texture and motion blur.
+
+![A candid night-market portrait with direct flash, smoke, visible skin texture and motion blur.](assets/examples/recreated-night-market-vendor/result.webp)
+
+[แหล่งที่มาต้นฉบับ](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · ผู้สร้าง: Made / Made Inc.
+
+เครดิตภาพตัวอย่าง: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+Candid photo of a street food vendor in her fifties laughing mid-flip as she turns skewers over a charcoal grill at a crowded night market, smoke rising through strings of bare bulbs. Shot on a phone with direct on-camera flash, real skin texture, slight motion blur, muted true color with one chili red accent, candid and unposed, no text, logos, or watermark.
+```
+
+**การตั้งค่าที่บันทึกไว้**
+
+| การตั้งค่า | ค่า |
+| --- | --- |
+| ตระกูลโมเดล | GPT Image 2.6 |
+| รุ่นย่อย | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**เวิร์กโฟลว์**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**หมายเหตุการทดสอบ**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The laughing vendor, charcoal skewers, smoke and bare bulbs are visible. Motion blur obscures fine hand detail, so finger anatomy is not certified. This is a new Sunburst output from a prompt originally shown with Flare, not a reproduction of the original image or a model comparison.
+
+**หมายเหตุ**
+
+The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-night-market-vendor/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.
+
+[หน้ากรณีตัวอย่างแยกเฉพาะ](cases/recreated-night-market-vendor/README.md)
+
+**[👉 ลองเลย →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-night-market-vendor&utm_term=th-TH)**
+
+---
+
+<a id="case-recreated-night-market-map"></a>
+
+#### Six-stall night-market map · independent generation
+
+**ผู้รวบรวมทดสอบแล้ว**
+
+A six-stall illustrated night-market map with a readable title and food legend.
+
+![A six-stall illustrated night-market map with a readable title and food legend.](assets/examples/recreated-night-market-map/result.webp)
+
+[แหล่งที่มาต้นฉบับ](https://www.made.app/models/gpt-image-2-6-flare#examples-heading) · ผู้สร้าง: Made / Made Inc.
+
+เครดิตภาพตัวอย่าง: 原始提示词：Made / Made Inc.；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+Illustrated map poster of a night market on cream paper, titled exactly "NIGHT MARKET", six numbered stalls drawn along two aisles, with a legend reading exactly "1 Noodles", "2 Dumplings", "3 Skewers", "4 Bubble Tea", "5 Bao", "6 Mango Ice". Clean editorial design, muted earth tones with one chili red accent, subtle paper texture, sharp legible type, no other words or logos.
+```
+
+**การตั้งค่าที่บันทึกไว้**
+
+| การตั้งค่า | ค่า |
+| --- | --- |
+| ตระกูลโมเดล | GPT Image 2.6 |
+| รุ่นย่อย | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**เวิร์กโฟลว์**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**หมายเหตุการทดสอบ**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+The title NIGHT MARKET, all six legend strings and stall numbers 1–6 are readable and match the brief. The stalls form two columns around one central aisle; the requested two aisles were not achieved. The original Made example used Flare; this new image was generated with Sunburst.
+
+**หมายเหตุ**
+
+The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-night-market-map/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.
+
+[หน้ากรณีตัวอย่างแยกเฉพาะ](cases/recreated-night-market-map/README.md)
+
+**[👉 ลองเลย →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-night-market-map&utm_term=th-TH)**
+
+---
+
+<a id="case-recreated-monarch-life-cycle"></a>
+
+#### Monarch butterfly life cycle · independent generation
+
+**ผู้รวบรวมทดสอบแล้ว**
+
+A watercolor butterfly life-cycle plate with four labelled stages and clockwise arrows.
+
+![A watercolor butterfly life-cycle plate with four labelled stages and clockwise arrows.](assets/examples/recreated-monarch-life-cycle/result.webp)
+
+[แหล่งที่มาต้นฉบับ](https://www.analyticsvidhya.com/blog/2026/11/gpt-image-2-6-review/#h-4-a-scientific-field-guide-illustration) · ผู้สร้าง: Vasu Deo Sankrityayan / Analytics Vidhya
+
+เครดิตภาพตัวอย่าง: 原始提示词：Vasu Deo Sankrityayan / Analytics Vidhya；本次生成图片：RaphaelAI-OpenLab，经 Raphael GPT Image 2.6 Sunburst 生成。
+
+**พรอมป์ต์ต้นฉบับ**
+
+```text
+Create an elegant natural-history field-guide plate showing the monarch butterfly life cycle, on warm ivory paper, with meticulous watercolor and fine ink detail. Four clearly separated stages arranged clockwise: upper left one tiny egg on the underside of a milkweed leaf; upper right a yellow-black-white striped monarch caterpillar eating milkweed; lower right a green chrysalis with delicate gold accents attached by its tip; lower left an adult orange-and-black monarch with white-dotted wing edges resting on milkweed. Thin unobtrusive clockwise arrows must connect egg to caterpillar to chrysalis to adult and back to egg. Exactly four labels: Egg, Caterpillar, Chrysalis, Adult. No other text. Show biologically plausible proportions and plant structures; avoid decorative butterflies or extra stages. Use only this standalone brief. Keep all outputs anonymous: no personal names, account data, contact details, signatures or references to any user. Generate the actual image, not a prompt or code.
+```
+
+**การตั้งค่าที่บันทึกไว้**
+
+| การตั้งค่า | ค่า |
+| --- | --- |
+| ตระกูลโมเดล | GPT Image 2.6 |
+| รุ่นย่อย | sunburst |
+| size | 2048x2048 |
+| output_format | png |
+| UI aspect ratio | 1:1 |
+| UI resolution | 2K |
+| UI quality | Standard |
+| UI planning intensity | Medium |
+| History quality label | Medium |
+| Output count | 1 |
+| AI Enhance | False |
+
+**เวิร์กโฟลว์**
+
+1. 在 Raphael 文生图界面选择 GPT Image 2.6 Sunburst。
+2. 粘贴原始提示词，不上传参考图，关闭 AI Enhance。
+3. 选择 1:1、2K、Standard、Medium planning intensity，生成一张图片。
+4. 下载 PNG 原图并检查；仓库展示副本使用像素一致的无损 WebP。
+
+**หมายเหตุการทดสอบ**
+
+Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
+
+Four stages occupy the requested quadrants, with the labels Egg, Caterpillar, Chrysalis and Adult and a clockwise arrow cycle. The egg is enlarged for visibility, so the plate does not establish consistent biological scale. Species morphology and host-plant anatomy have not been reviewed by an entomologist; this is a visual-layout example.
+
+**หมายเหตุ**
+
+The source prompt was used unchanged, without the source image. Generation evidence and hashes: cases/recreated-monarch-life-cycle/generation.json. The displayed WebP preserves the original PNG pixels. Third-party prompt reuse terms were not independently licensed; attribution does not grant permission. The repository MIT license does not cover this prompt or generated image. UI labels are recorded as observed; no API model ID or official parameter mapping is inferred.
+
+[หน้ากรณีตัวอย่างแยกเฉพาะ](cases/recreated-monarch-life-cycle/README.md)
+
+**[👉 ลองเลย →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_recreated-monarch-life-cycle&utm_term=th-TH)**
+
+---
 
 <a id="using"></a>
 

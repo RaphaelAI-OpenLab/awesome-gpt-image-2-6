@@ -1,6 +1,6 @@
 # 填充指南
 
-仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例。来源案例由 `content/source-cases.json` 维护，展示在主 README 正文分类中；中英文详情页位于 `cases/`。完整提示词由 `content/prompts.json` 单独维护。首页中标明占位的图片是原创示意，不是模型输出。仓库数量以 README 自动统计为准；顶部网站标签数量来自单独核对的图库快照。
+来源案例仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例，由 `content/source-cases.json` 维护，展示在主 README 正文分类中；中英文详情页位于 `cases/`。完整提示词与独立实测配方由 `content/prompts.json` 单独维护。外站原图和原始资料继续保留在仓库外；以公开完整提示词重新生成的新图，按[独立实测收录规则](SOURCE_CASES.md#收录范围)正式收录。首页中标明占位的图片是原创示意，不是模型输出。仓库数量以 README 自动统计为准；顶部网站标签数量来自单独核对的图库快照。
 
 无公开提示词的作品和本地素材管理，先看[案例与素材维护指南](SOURCE_CASES.md)。本文其余步骤主要适用于完整提示词记录。
 
@@ -9,7 +9,7 @@
 | 文件或目录 | 你需要做什么 |
 | --- | --- |
 | [site.config.json](../site.config.json) | 配置品牌、网站地址、GitHub owner、分类、推广位与归因参数 |
-| [content/prompts.json](../content/prompts.json) | 所有真实案例的唯一数据源；现在是空数组 |
+| [content/prompts.json](../content/prompts.json) | 完整提示词、独立生成的新图与实测元数据；来源案例另由 `content/source-cases.json` 维护 |
 | [content/web-gallery.json](../content/web-gallery.json) | 网站标签名称、顺序和数量快照；核对网站后同步更新日期 |
 | [content/browse.json](../content/browse.json) | 内部案例的使用场景、风格、主题分类，供维护和本地制作工具读取 |
 | [templates/prompt.json](../templates/prompt.json) | 完整空白记录；复制到数据数组再填写 |
@@ -55,14 +55,14 @@
 | `tags` | 用来进一步标记用途，允许为空 |
 | `prompt_language` | 原始提示词的语言，如 `en` 或 `zh-CN` |
 | `prompt` | 完整原始提示词；不要把翻译版本冒充原文 |
-| `preview.path`、`preview.alt` | 效果图相对路径或 HTTPS URL，以及图片说明 |
+| `preview.path`、`preview.alt` | 仓库内效果图相对路径，以及图片说明；展示图不使用外站热链 |
 | `reference_images` | 参考图的 `path` 与中英文 `description`；没有就留空数组 |
 | `model`、`workflow` | 已知模型、设置、输出形式与操作步骤，见下一节 |
 | `source` | 原始帖子、作者、平台、发布日期，以及原创/收集/改写状态 |
 | `verification` | 原帖案例与自己的实测分开记录 |
 | `rights` | 提示词与图片的使用条件、署名、可选授权说明链接 |
 | `added_at` | 本仓库收录日期，格式 `YYYY-MM-DD`，不是随意复制原帖日期 |
-| `featured` | `true` 表示优先进入首页效果网格；默认最多 6 条 |
+| `featured` | 配方保留字段；当前首页精选由 `presentation.featured_case_ids` 指定来源案例，完整配方在“完整提示词”区展示 |
 | `links` | 可选网站详情页与已验证生成深链；没有就保留 `null` |
 | `notes` | 失败条件、结果限制、人工处理说明等补充信息 |
 

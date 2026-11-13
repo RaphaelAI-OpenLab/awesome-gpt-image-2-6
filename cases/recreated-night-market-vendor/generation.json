@@ -1,0 +1,68 @@
+{
+  "case_id": "recreated-night-market-vendor",
+  "generated_at": "2026-11-13T13:04:57+08:00",
+  "platform": {
+    "name": "Raphael",
+    "url": "https://raphael.app/app/image/text-to-image"
+  },
+  "prompt_source": {
+    "archive_case_id": "made-flare-vendor-flash",
+    "author": "Made / Made Inc.",
+    "url": "https://www.made.app/models/gpt-image-2-6-flare#examples-heading",
+    "source_model_variants": [
+      "flare"
+    ]
+  },
+  "prompt_sha256": "14b6b601efebac055641e2bd91fa5b095574d748a8bf0589e7a0c502aec4027a",
+  "prompt_file_sha256": "8c8a06f8c539a8bd7c21d347797fb8e5453dfdad9db402137de36879391f6880",
+  "execution": {
+    "mode": "text-to-image",
+    "model_label": "GPT Image 2.6 Sunburst",
+    "api_model_id": null,
+    "model_evidence": "网页模型选择器、生成历史标签及结果文件记录；未检查底层 API 请求，不推定 API 模型 ID。",
+    "reference_images": [],
+    "prompt_modified": false,
+    "requested_ui_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "2K",
+      "quality": "Standard",
+      "planning_intensity": "Medium",
+      "output_count": 1,
+      "ai_enhance": false,
+      "output_format": null
+    },
+    "history_quality_label": "Medium",
+    "parameter_note": "保留网页原始标签。Standard 与历史 Medium 的对应仅记录界面表现，不映射成官方 API quality 或 complexity。"
+  },
+  "output": {
+    "provider_filename": "task_01M79MPV2SZGQSYV6YXBNZ2H2J.png",
+    "source_url": null,
+    "original_format": "PNG",
+    "width": 2048,
+    "height": 2048,
+    "original_bytes": 6177260,
+    "original_sha256": "7737d572e8411fa01eae56cb16f80ccd961344358c53dcbae3669a5f266c86ea"
+  },
+  "published_asset": {
+    "path": "assets/examples/recreated-night-market-vendor/result.webp",
+    "format": "WebP",
+    "encoding": "lossless",
+    "pixels_identical_to_original_png": true,
+    "bytes": 4083662,
+    "sha256": "52f8cc3660f7d273ed13cdff607eb9c66c55349d7cad13c3af48abfd5ee5530d"
+  },
+  "browser_evidence": "assets/generation-evidence/recreated-night-market-vendor/browser-result.png",
+  "review": {
+    "method": "完整画面目视检查及文件解码检查",
+    "notes": {
+      "en": "The laughing vendor, charcoal skewers, smoke and bare bulbs are visible. Motion blur obscures fine hand detail, so finger anatomy is not certified. This is a new Sunburst output from a prompt originally shown with Flare, not a reproduction of the original image or a model comparison.",
+      "zh-CN": "已目视核对笑着翻烤的摊主、炭火烤串、烟雾和裸灯泡。动作模糊遮挡手部细节，不宣称手指解剖完全正确。原站以 Flare 展示该提示词，本次为新生成的 Sunburst 输出，不是原图复刻或模型优劣比较。"
+    },
+    "user_approved": false
+  },
+  "rights": {
+    "prompt": "source-attributed",
+    "preview": "own",
+    "note": "新图由本次任务生成；第三方提示词保留原作者与来源，未核实独立转载许可证。仓库 MIT 许可证不覆盖这些提示词和生成图，也不把来源原图的权利状态套用于新图。"
+  }
+}

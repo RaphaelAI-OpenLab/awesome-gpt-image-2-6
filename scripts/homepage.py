@@ -22,7 +22,7 @@ def render_home(config, prompts, language, render_prompt):
              '# 🚀 ' + title, '',
              repo_badges(config, language), '',
              '> 🎨 ' + c('A curated collection of creative prompts and visual examples for GPT Image 2.6.', 'GPT Image 2.6 创意提示词与案例精选合集。'), '',
-             '> ⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('The prompts and media in this collection are gathered from public sources for educational purposes only. If you believe any content infringes your rights, please ', '本仓库的提示词与素材均收集自公开来源，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new?template=report-problem.yml') + c(', and we will remove it immediately.', '，我们将立即移除。'), '', '---', '',
+             '> ⚠️ **' + c('Copyright notice', '版权声明') + c('**: ', '**：') + c('This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please ', '本仓库收录公开来源的提示词与案例，以及独立生成的图片，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请') + md_link(c('open an issue', '提交 issue'), repository + '/issues/new?template=report-problem.yml') + c(', and we will remove it immediately.', '，我们将立即移除。'), '', '---', '',
              language_nav(language), '', '---', '']
     if language not in DETAIL_LANGUAGES:
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
@@ -31,6 +31,8 @@ def render_home(config, prompts, language, render_prompt):
               f'[![{md_text(c("Browse the visual collection on {brand} ↗", "在 {brand} 浏览完整效果合集 ↗").format(brand=brand["name"]))}](assets/website/gpt-image-2-6-prompts-20261113.jpg)]({tracked_url(gallery_url, "gallery_preview", language, config)})', '',
               '</div>', '']
     lines += ['**' + md_link('👉 ' + c('Browse the {brand} {model} prompt gallery', '浏览 {brand} {model} 提示词图库').format(brand=brand['name'], model=config['project']['model_family']), tracked_url(gallery_url, 'top_cta', language, config)) + '**', '']
+    if full:
+        lines += ['**' + md_link('📝 ' + c('Full prompts', '完整提示词'), '#collection') + '**', '']
     lines += [c('Why create on the website?', '为什么去网站创作？'), '',
               '| ' + c('Feature', '功能') + ' | GitHub README | ' + c('{brand} website', '{brand} 网页端').format(brand=brand['name']) + ' |',
               '| --- | --- | --- |']
