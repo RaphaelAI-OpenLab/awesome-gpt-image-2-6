@@ -1,0 +1,47 @@
+{
+  "source_url": "https://raphael.app/gpt-image-2-6-prompts",
+  "verified_at": "2026-11-13",
+  "total": 130,
+  "categories": [
+    {
+      "id": "gif-animation",
+      "label": {"en": "GIF animation", "zh-CN": "GIF 动图"},
+      "count": 79
+    },
+    {
+      "id": "brand-products",
+      "label": {"en": "Brand & products", "zh-CN": "品牌商品"},
+      "count": 7
+    },
+    {
+      "id": "characters-consistency",
+      "label": {"en": "Character consistency", "zh-CN": "角色一致性"},
+      "count": 20
+    },
+    {
+      "id": "posters-typography",
+      "label": {"en": "Posters & type", "zh-CN": "海报排版"},
+      "count": 6
+    },
+    {
+      "id": "markup-edits",
+      "label": {"en": "Markup edits", "zh-CN": "局部编辑"},
+      "count": 10
+    },
+    {
+      "id": "infographics",
+      "label": {"en": "Infographics", "zh-CN": "信息图"},
+      "count": 8
+    },
+    {
+      "id": "svg-design-assets",
+      "label": {"en": "SVG assets", "zh-CN": "SVG 素材"},
+      "count": 3
+    },
+    {
+      "id": "interiors-architecture",
+      "label": {"en": "Interiors", "zh-CN": "室内建筑"},
+      "count": 2
+    }
+  ]
+}

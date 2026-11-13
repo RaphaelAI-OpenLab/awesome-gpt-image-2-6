@@ -10,7 +10,7 @@ from i18n import DETAIL_LANGUAGES, detail_language, filename, ui
 
 from common import (
     GENERATED_MARKER, LANGUAGES, ROOT, code_block, html_attr, image_path,
-    load_data, localized, md_link, md_text, md_url, published, repo_url, tracked_url,
+    load_data, localized, md_link, md_text, md_url, published, render_gallery_cta, repo_url, tracked_url,
 )
 
 COPY = {
@@ -253,6 +253,8 @@ def render_case(item: dict, config: dict, language: str, *, standalone: bool = F
         buttons.append(site_link(config, language, t(language, "try", brand=brand), links["generate_url"], f"case_{item['id']}"))
     if buttons:
         lines.extend([" · ".join(buttons), ""])
+    if not standalone:
+        lines.extend([render_gallery_cta(config, language, item['id']), ""])
     return "\n".join(lines).rstrip() + "\n"
 
 

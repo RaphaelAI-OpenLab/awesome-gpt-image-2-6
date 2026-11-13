@@ -1,6 +1,6 @@
 # 填充指南
 
-仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例。来源案例由 `content/source-cases.json` 维护，展示在主 README 分类中；中英文详情页位于 `cases/`。完整提示词由 `content/prompts.json` 单独维护。首页中标明占位的图片是原创示意，不是模型输出。最新数量以 README 自动统计为准。
+仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例。来源案例由 `content/source-cases.json` 维护，展示在主 README 正文分类中；中英文详情页位于 `cases/`。完整提示词由 `content/prompts.json` 单独维护。首页中标明占位的图片是原创示意，不是模型输出。仓库数量以 README 自动统计为准；顶部网站标签数量来自单独核对的图库快照。
 
 无公开提示词的作品和本地素材管理，先看[案例与素材维护指南](SOURCE_CASES.md)。本文其余步骤主要适用于完整提示词记录。
 
@@ -10,6 +10,8 @@
 | --- | --- |
 | [site.config.json](../site.config.json) | 配置品牌、网站地址、GitHub owner、分类、推广位与归因参数 |
 | [content/prompts.json](../content/prompts.json) | 所有真实案例的唯一数据源；现在是空数组 |
+| [content/web-gallery.json](../content/web-gallery.json) | 网站标签名称、顺序和数量快照；核对网站后同步更新日期 |
+| [content/browse.json](../content/browse.json) | 内部案例的使用场景、风格、主题分类，供维护和本地制作工具读取 |
 | [templates/prompt.json](../templates/prompt.json) | 完整空白记录；复制到数据数组再填写 |
 | [content/schema.json](../content/schema.json) | 字段、类型与可选值说明 |
 | `assets/examples/<案例id>/` | 存放已获相应使用条件的效果图、预览 GIF 或 SVG |
@@ -27,13 +29,15 @@
 
 - `project.repository_owner`：填真实 GitHub 用户或组织名。留空时不会生成虚假的 Star/Issue 仓库链接。
 - `brand.home_url`：当前为真实的 `https://raphael.app/`。
-- `brand.gallery_url`：GPT Image 2.6 合集网页真实上线后，再填写它的完整 URL。没有就保持 `null`。
+- `brand.gallery_url`：已核验的 GPT Image 2.6 图库为 `https://raphael.app/gpt-image-2-6-prompts`，用于顶部入口和分类中的“全部”。
 - `brand.model_page_url`：真实的模型使用页面，没有就保持 `null`。
 - `brand.model_available`：确认网站实际可以使用该模型后再改为 `true`，并填 `model_support_verified_at`。
-- `categories[].website_url`：分类网页真正存在时填写；现在全部是 `null`，导航指向本仓库内部。
+- `categories[].website_url`：填写已核验的网站分类规范地址，例如 `https://raphael.app/gpt-image-2-6-prompts/posters-typography`。分类导航会按 README 语言添加网站语言前缀和归因参数。
 - `cross_promo`：给后续新模型、活动或新仓库留的顶栏位置。默认关闭；详见 [网站链接位置图](LINK_MAP.zh-CN.md)。
 
 首页封面使用 `assets/hero/raphael-gpt-image-2-6-hero-v1.png`，由 `scripts/homepage.py` 统一引用到 16 种语言的 README。修改模型或品牌时，先准备对应的新封面，再同步更新生成器与 `scripts/validate.py` 的封面路径。旧版 `assets/header.svg` 保留作历史素材。其余品牌链接由配置生成。
+
+网站标签与数量维护在 `content/web-gallery.json`，来源为 [Raphael 图库](https://raphael.app/gpt-image-2-6-prompts)，当前快照核对日期为 2026-11-13、总计为 130。分类可能交叉，不用分类数量之和校验总计，也不从仓库案例数量反推网站数量。标签译文写入 `content/locales/*.json`；内部 `content/browse.json` 不再控制首页导航。
 
 ## 3. 添加第一条真实记录
 

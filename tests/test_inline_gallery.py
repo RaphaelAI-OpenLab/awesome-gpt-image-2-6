@@ -1,14 +1,16 @@
 """核对 README 完整展示、原文对应关系与缺失提示词边界。"""
 import copy
+import re
 import sys
 import unittest
 import tempfile
 from pathlib import Path
 from unittest.mock import patch
+from urllib.parse import parse_qs, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from common import ROOT, code_block, load_data, read_json
-from i18n import LANGUAGES
+from i18n import LANGUAGES, ui
 from source_cases import read_cases, render_inline_case, render_original_prompt, video_preview_path, visible
 from validate import validate_source_cases
 
@@ -32,7 +34,7 @@ class InlineGalleryTests(unittest.TestCase):
         for language in LANGUAGES:
             for item in self.cases:
                 with self.subTest(language=language, case=item['id']):
-                    card = render_inline_case(item, language, 1)
+                    card = render_inline_case(item, language, 1, self.config)
                     for media in item['media']:
                         if not media['path']:
                             continue
@@ -46,6 +48,26 @@ class InlineGalleryTests(unittest.TestCase):
                         self.assertIn(code_block(entry['text']), card)
                     self.assertIn(item['source']['author'], card)
                     self.assertGreater(card.rfind(item['source']['author']), card.rfind('```'))
+                    footer = card.rstrip().splitlines()[-1]
+                    match = re.fullmatch(r'\*\*\[👉 (.+)\]\(([^)]+)\)\*\*', footer)
+                    self.assertIsNotNone(match)
+                    self.assertEqual(match.group(1), ui('Try now →', '立即尝试 →', language))
+                    target = urlsplit(match.group(2))
+                    self.assertEqual((target.scheme, target.netloc, target.path),
+                                     ('https', 'raphael.app', '/gpt-image-2-6-prompts'))
+                    query = parse_qs(target.query)
+                    self.assertEqual(query['utm_content'], ['case_gallery_' + item['id']])
+                    self.assertEqual(query['utm_term'], [language])
+                    self.assertNotIn('id', query)
+
+    def test_featured_cases_also_end_with_the_gallery_button(self):
+        item = self.cases[0]
+        for language in LANGUAGES:
+            with self.subTest(language=language):
+                regular = render_inline_case(item, language, 1, self.config)
+                featured = render_inline_case(item, language, 1, self.config, featured=True)
+                self.assertEqual(featured.rstrip().splitlines()[-1], regular.rstrip().splitlines()[-1])
+                self.assertIn('**[👉 ', featured.rstrip().splitlines()[-1])
 
     def test_missing_prompts_never_render_code_and_unknowns_are_not_called_private(self):
         item = copy.deepcopy(self.cases[0])

@@ -1,8 +1,18 @@
-"""按使用场景、风格和主题生成可展开的案例导航。"""
-import random
+"""维护内部案例分类，并生成带数量的网站标签导航。"""
+import datetime as dt
+from urllib.parse import urlsplit, urlunsplit
 
-from common import html_attr, localized, md_link, read_json
+from common import is_brand_url, md_link, read_json, tracked_url
 from i18n import ui
+
+
+GALLERY_LANGUAGE_PREFIXES = {
+    'en': '', 'zh-CN': 'zh', 'zh-TW': 'zh-Hant',
+    'ja-JP': 'ja', 'ko-KR': 'ko', 'th-TH': 'th', 'vi-VN': 'vi',
+    'hi-IN': 'hi', 'es-ES': 'es', 'es-419': 'es', 'de-DE': 'de',
+    'fr-FR': 'fr', 'it-IT': 'it', 'pt-BR': 'pt', 'pt-PT': 'pt',
+    'tr-TR': 'tr',
+}
 
 
 def read_browse():
@@ -58,31 +68,86 @@ def validate_browse(cases, errors):
         errors.append(f'browse.use-cases: missing cases: {sorted(published_ids - scene_ids)}')
 
 
-def render_browse(cases, language):
-    by_id = {item['id']: item for item in cases}
-    lines = []
-    for group in read_browse():
-        sections = []
-        for item in group['items']:
-            members = [by_id[case_id] for case_id in item['case_ids'] if case_id in by_id]
-            if not members:
-                continue
-            displayed, remaining = members, []
-            if group['id'] == 'use-cases' and len(members) > 3:
-                # 固定种子随机抽样，保证多语言一致、重复生成和 CI 检查稳定。
-                displayed = random.Random(f'{group["id"]}:{item["id"]}').sample(members, 3)
-                displayed_ids = {case['id'] for case in displayed}
-                remaining = [case for case in members if case['id'] not in displayed_ids]
-            title = ui(item['label']['en'], item['label']['zh-CN'], language)
-            sections += ['<details open>', '<summary>' + html_attr(title) + '</summary>', '']
-            sections += ['- ' + md_link(localized(case['title'], language), '#source-case-' + case['id']) for case in displayed]
-            if remaining:
-                more = ui('Show {count} more cases', '展开其余 {count} 个案例', language).format(count=len(remaining))
-                sections += ['', '<details>', '<summary>' + html_attr(more) + '</summary>', '']
-                sections += ['- ' + md_link(localized(case['title'], language), '#source-case-' + case['id']) for case in remaining]
-                sections += ['', '</details>', '']
-            sections += ['', '</details>', '']
-        if sections:
-            title = ui(group['label']['en'], group['label']['zh-CN'], language)
-            lines += ['### ' + title, ''] + sections
-    return '\n'.join(lines)
+def read_web_gallery():
+    return read_json('content/web-gallery.json')
+
+
+def validate_web_gallery(config, errors):
+    def valid_url(url):
+        try:
+            return isinstance(url, str) and urlsplit(url).scheme == 'https' and is_brand_url(url, config)
+        except ValueError:
+            return False
+
+    if not valid_url(config['brand'].get('gallery_url')):
+        errors.append('brand.gallery_url: website navigation requires an HTTPS URL on the brand domain')
+    for category in config['categories']:
+        if not valid_url(category.get('website_url')):
+            errors.append(f'categories.{category["id"]}.website_url: website navigation requires an HTTPS URL on the brand domain')
+    try:
+        gallery = read_web_gallery()
+    except (OSError, ValueError) as error:
+        errors.append(f'content/web-gallery.json: {error}')
+        return
+    if not isinstance(gallery, dict):
+        errors.append('content/web-gallery.json: expected an object')
+        return
+    source = gallery.get('source_url')
+    if not valid_url(source):
+        errors.append('web-gallery.source_url: expected an HTTPS URL on the brand domain')
+    verified_at = gallery.get('verified_at')
+    try:
+        if dt.date.fromisoformat(verified_at).isoformat() != verified_at:
+            raise ValueError('expected ISO date')
+    except (TypeError, ValueError):
+        errors.append('web-gallery.verified_at: expected YYYY-MM-DD')
+    if not isinstance(gallery.get('total'), int) or isinstance(gallery['total'], bool) or gallery['total'] < 0:
+        errors.append('web-gallery.total: expected a non-negative integer')
+    categories = gallery.get('categories')
+    if not isinstance(categories, list):
+        errors.append('web-gallery.categories: expected an array')
+        return
+    expected_ids = {category['id'] for category in config['categories']}
+    seen = set()
+    for index, category in enumerate(categories):
+        name = f'web-gallery.categories[{index}]'
+        if not isinstance(category, dict):
+            errors.append(f'{name}: expected an object')
+            continue
+        category_id = category.get('id')
+        if not isinstance(category_id, str) or category_id not in expected_ids:
+            errors.append(f'{name}.id: expected a configured category ID')
+        elif category_id in seen:
+            errors.append(f'{name}.id: duplicate category ID')
+        else:
+            seen.add(category_id)
+        label = category.get('label')
+        if not isinstance(label, dict) or not all(isinstance(label.get(lang), str) and label[lang].strip() for lang in ('en', 'zh-CN')):
+            errors.append(f'{name}.label: bilingual labels required')
+        count = category.get('count')
+        if not isinstance(count, int) or isinstance(count, bool) or count < 0:
+            errors.append(f'{name}.count: expected a non-negative integer')
+    if seen != expected_ids:
+        errors.append('web-gallery.categories: must include every configured category exactly once')
+
+
+def gallery_url_for_language(url, language):
+    """为已核验的图库规范地址添加网站语言前缀，保留查询参数与锚点。"""
+    parts = urlsplit(url)
+    prefix = GALLERY_LANGUAGE_PREFIXES[language]
+    path = '/' + '/'.join(part for part in (prefix, parts.path.lstrip('/')) if part)
+    return urlunsplit((parts.scheme, parts.netloc, path, parts.query, parts.fragment))
+
+
+def render_browse(config, language):
+    gallery = read_web_gallery()
+    urls = {category['id']: category['website_url'] for category in config['categories']}
+    all_url = gallery_url_for_language(config['brand']['gallery_url'], language)
+    links = [md_link(ui('All', '全部', language) + f' ({gallery["total"]})',
+                     tracked_url(all_url, 'category_all', language, config))]
+    for category in gallery['categories']:
+        title = ui(category['label']['en'], category['label']['zh-CN'], language)
+        url = gallery_url_for_language(urls[category['id']], language)
+        links.append(md_link(title + f' ({category["count"]})',
+                             tracked_url(url, 'category_' + category['id'], language, config)))
+    return ' · '.join(links)

@@ -16,7 +16,7 @@
   "brand": {
     "name": "Raphael",
     "home_url": "https://raphael.app/",
-    "gallery_url": null,
+    "gallery_url": "https://raphael.app/gpt-image-2-6-prompts",
     "model_page_url": null,
     "model_available": false,
     "model_support_verified_at": null
@@ -27,7 +27,7 @@
     "utm_campaign": "gpt_image_2_6_launch"
   },
   "presentation": {
-    "updated_at": "2026-11-12T10:15:00Z",
+    "updated_at": "2026-11-13T03:35:54Z",
     "featured_limit": 12,
     "latest_limit": 6,
     "generate_case_pages": true,
@@ -66,7 +66,7 @@
         "en": "Brand & product visuals",
         "zh-CN": "品牌与商品"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/brand-products"
     },
     {
       "id": "posters-typography",
@@ -74,7 +74,7 @@
         "en": "Posters & typography",
         "zh-CN": "海报与文字排版"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/posters-typography"
     },
     {
       "id": "infographics",
@@ -82,7 +82,7 @@
         "en": "Infographics",
         "zh-CN": "信息图"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/infographics"
     },
     {
       "id": "interiors-architecture",
@@ -90,7 +90,7 @@
         "en": "Interiors & architecture",
         "zh-CN": "室内与建筑"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/interiors-architecture"
     },
     {
       "id": "characters-consistency",
@@ -98,7 +98,7 @@
         "en": "Characters & consistency",
         "zh-CN": "角色与一致性"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/characters-consistency"
     },
     {
       "id": "markup-edits",
@@ -106,7 +106,7 @@
         "en": "Markup & targeted edits",
         "zh-CN": "标注与局部编辑"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/markup-edits"
     },
     {
       "id": "svg-design-assets",
@@ -114,7 +114,7 @@
         "en": "SVG & design assets",
         "zh-CN": "SVG 与设计素材"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/svg-design-assets"
     },
     {
       "id": "gif-animation",
@@ -122,7 +122,7 @@
         "en": "GIF & animation",
         "zh-CN": "GIF 与动画"
       },
-      "website_url": null
+      "website_url": "https://raphael.app/gpt-image-2-6-prompts/gif-animation"
     }
   ]
 }

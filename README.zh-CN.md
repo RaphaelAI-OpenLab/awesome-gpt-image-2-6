@@ -31,11 +31,11 @@
 
 <div align="center">
 
-![Raphael 首页预览](assets/website/raphael-homepage-20261110.png)
+[![在 Raphael 浏览完整效果合集 ↗](assets/website/gpt-image-2-6-prompts-20261113.jpg)](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=gallery_preview&utm_term=zh-CN)
 
 </div>
 
-**[👉 在 Raphael 开始创作 →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
+**[👉 浏览 Raphael GPT Image 2.6 提示词图库](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
 
 为什么去网站创作？
 
@@ -58,718 +58,7 @@
 
 ## 🏷️ 按分类浏览
 
-### 使用场景
-
-<details open>
-<summary>个人写真 / 头像</summary>
-
-- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
-- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
-- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
-
-<details>
-<summary>展开其余 12 个案例</summary>
-
-- [渔船水手写实人像](#source-case-docs-sailor)
-- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
-- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
-- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
-- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
-- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
-- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
-- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
-- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>社交帖子 / 表情贴纸</summary>
-
-- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
-- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
-- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
-
-<details>
-<summary>展开其余 56 个案例</summary>
-
-- [股价下跌的办公角色 GIF](#source-case-launch-openart-down)
-- [股价上涨的办公角色 GIF](#source-case-launch-openart-up)
-- [Monty 打字状态动画](#source-case-launch-town)
-- [Images 2.6 brings GIF(T)S :D](#source-case-community-gifts)
-- [拳击老虎动画](#source-case-community-boxing-tiger)
-- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
-- [玫瑰花蕾动画](#source-case-community-rosebud-animation)
-- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
-- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
-- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
-- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
-- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
-- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
-- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
-- [投篮命中庆祝](#source-case-ailingqu-basketball-shot-sticker)
-- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
-- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
-- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
-- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
-- [花卉微距快闪](#source-case-ailingqu-flower-macro-flash)
-- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
-- [杂志拼贴逐格弹出](#source-case-ailingqu-magazine-panels-pop)
-- [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
-- [冒热气的咖啡](#source-case-ailingqu-steaming-coffee)
-- [雨窗与绿植](#source-case-ailingqu-rain-on-window)
-- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
-- [夜晚的灯塔](#source-case-ailingqu-lighthouse-night)
-- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
-- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi 学习循环](#source-case-ailingqu-lofi-study-loop)
-- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
-- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
-- [Robin 猫眨眼与落下的姓名帽](#source-case-community-ozan-robin-wink-hat)
-- [Ram Altman 内存条恶搞动画](#source-case-community-mirochill-ram-altman-animation)
-- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
-- [十款戏仿网页广告 GIF：日本创作者测试](#source-case-community-zunbeho-parody-ad-gifs)
-- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
-- [心跳舞模式对比：来源封面](#source-case-community-kiki-heartbeat-dance-comparison)
-- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
-- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
-- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
-- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [雪中庭院里老人劈柴](#source-case-social-snowy-yard-wood-chopping)
-- [可爱机器人倒咖啡](#source-case-social-robot-pouring-coffee)
-- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
-- [紫光房间里戴墨镜跳舞的猫](#source-case-social-sunglasses-cat-dance)
-- [戴头盔的鹈鹕骑自行车](#source-case-social-pelican-riding-bicycle)
-- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
-- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
-- [卡通角色挥手大笑](#source-case-social-character-wave-laugh)
-- [苹果落下的GIF帧数对照](#source-case-social-falling-apple-frame-comparison)
-- [站立后空翻的三种复杂度对比](#source-case-social-standing-backflip-complexity)
-- [旋转的猫](#source-case-social-cat-spinning-gif)
-- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
-- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>产品营销 / 电商主图</summary>
-
-- [商品透明背景抠图](#source-case-docs-product-cutout)
-- [敏感肌化妆水广告对比](#source-case-nyle-skincare-ad)
-- [水中修表微距测试](#source-case-community-hn-watchmaker)
-
-<details>
-<summary>展开其余 6 个案例</summary>
-
-- [玩具飞机包装](#source-case-docs-toy-package)
-- [品牌产品微缩场景](#source-case-launch-sable)
-- [旅行视觉生成速度对比](#source-case-launch-travel)
-- [球鞋配色快闪](#source-case-ailingqu-sneaker-colorway-flash)
-- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
-- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Logo / 品牌设计</summary>
-
-- [猫头 Logo 品牌快闪](#source-case-ailingqu-cat-brand-reel)
-- [面包店 SVG 标志](#source-case-docs-bakery-svg)
-- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
-
-<details>
-<summary>展开其余 2 个案例</summary>
-
-- [面包店透明位图标志](#source-case-docs-bakery-raster)
-- [代码闪电矢量标志](#source-case-community-struggle-code-lightning-svg)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>海报 / 传单 / 贺卡</summary>
-
-- [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card)
-- [怀旧节日贺卡](#source-case-docs-holiday-card)
-- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
-
-<details>
-<summary>展开其余 9 个案例</summary>
-
-- [街头服饰广告排字](#source-case-docs-streetwear)
-- [洗发水公路广告牌](#source-case-docs-billboard)
-- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
-- [AI进化论海报改为Image 2.6实测](#source-case-community-struggle-poster-edit)
-- [2027 春季健康展传单对比](#source-case-nyle-health-fair)
-- [密集日文商务封面对比](#source-case-nyle-kanji-cover)
-- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
-- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
-- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>教学图解 / 演示汇报</summary>
-
-- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
-- [信息图改为西班牙语](#source-case-docs-spanish-edit)
-- [细胞呼吸教学图](#source-case-docs-cell-respiration)
-
-<details>
-<summary>展开其余 5 个案例</summary>
-
-- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
-- [市场规模演示页](#source-case-docs-pitch-slide)
-- [季度营收动态图](#source-case-social-revenue-chart-loop)
-- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
-- [寻宝地图路线动画](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>绘本漫画 / 故事分镜</summary>
-
-- [夏日角色插画动画](#source-case-community-malfoid)
-- [纸艺夺冠场景：复杂度比较](#source-case-docs-complexity)
-- [动作分镜参考转投篮GIF](#source-case-social-basketball-storyboard-to-gif)
-
-<details>
-<summary>展开其余 10 个案例</summary>
-
-- [1969 年历史人群场景](#source-case-docs-historical-crowd)
-- [宠物四格漫画](#source-case-docs-pet-comic)
-- [建立童书角色](#source-case-docs-character-start)
-- [同一角色续写故事](#source-case-docs-character-story)
-- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
-- [猫头鹰草图变动画](#source-case-launch-owl)
-- [彩色玻璃鲸鱼](#source-case-launch-picsart)
-- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
-- [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
-- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>游戏素材 / 动画原型</summary>
-
-- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
-- [像素风篝火](#source-case-ailingqu-pixel-campfire)
-- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
-
-<details>
-<summary>展开其余 14 个案例</summary>
-
-- [骑士连续换景换装](#source-case-launch-higgsfield)
-- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
-- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
-- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
-- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
-- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
-- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
-- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
-- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
-- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
-- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
-- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
-- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>App / 网页设计</summary>
-
-- [沙漏加载](#source-case-ailingqu-hourglass-flip)
-- [网页生成摘要交互动画](#source-case-social-web-summary-interaction-loop)
-- [点赞爱心爆开](#source-case-ailingqu-like-heart-burst)
-
-<details>
-<summary>展开其余 2 个案例</summary>
-
-- [农夫市场手机界面](#source-case-docs-market-ui)
-- [弹跳圆点加载动画](#source-case-ailingqu-bouncing-dots-loader)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>照片编辑 / 换装换景</summary>
-
-- [客厅标注编辑](#source-case-launch-fal)
-- [保留人物身份换装](#source-case-docs-outfit)
-- [网络研讨会日期替换对比](#source-case-nyle-webinar-date-edit)
-
-<details>
-<summary>展开其余 12 个案例</summary>
-
-- [标注花瓶后局部换色](#source-case-docs-vase-markup)
-- [像素风格迁移](#source-case-docs-pixel-style)
-- [跨图合成宠物](#source-case-docs-dog-composite)
-- [线稿转写实场景](#source-case-docs-sketch-render)
-- [移除手持花朵](#source-case-docs-remove-flower)
-- [人物放入露营逃跑场景](#source-case-docs-person-scene)
-- [广告牌场景改为雪夜](#source-case-docs-snow-edit)
-- [室内更换椅子](#source-case-docs-room-chairs)
-- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
-- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
-- [桌面照片清理并转动图](#source-case-community-struggle-desk-animation)
-- [红蓝圈标注编辑圣诞帽与礼物盒](#source-case-social-circle-markup-santa-gift-edit)
-
-</details>
-
-
-</details>
-
-### 风格
-
-<details open>
-<summary>写实摄影</summary>
-
-- [渔船水手写实人像](#source-case-docs-sailor)
-- [街头服饰广告排字](#source-case-docs-streetwear)
-- [1969 年历史人群场景](#source-case-docs-historical-crowd)
-- [保留人物身份换装](#source-case-docs-outfit)
-- [商品透明背景抠图](#source-case-docs-product-cutout)
-- [线稿转写实场景](#source-case-docs-sketch-render)
-- [移除手持花朵](#source-case-docs-remove-flower)
-- [人物放入露营逃跑场景](#source-case-docs-person-scene)
-- [室内更换椅子](#source-case-docs-room-chairs)
-- [水中修表微距测试](#source-case-community-hn-watchmaker)
-- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
-- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
-- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
-- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
-- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
-- [桌面照片清理并转动图](#source-case-community-struggle-desk-animation)
-- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
-- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
-- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
-- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
-- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
-- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
-- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
-- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
-- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
-- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
-- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>电影感 / 电影剧照</summary>
-
-- [渔船水手写实人像](#source-case-docs-sailor)
-- [1969 年历史人群场景](#source-case-docs-historical-crowd)
-- [骑士连续换景换装](#source-case-launch-higgsfield)
-- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
-- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>动漫 / 漫画</summary>
-
-- [骑士连续换景换装](#source-case-launch-higgsfield)
-- [夏日角色插画动画](#source-case-community-malfoid)
-- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
-- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
-- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
-- [红衣角色的MV风格动画](#source-case-social-red-character-music-video-gif)
-- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
-- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
-
-</details>
-
-<details open>
-<summary>卡通 / 绘本插画</summary>
-
-- [宠物四格漫画](#source-case-docs-pet-comic)
-- [建立童书角色](#source-case-docs-character-start)
-- [同一角色续写故事](#source-case-docs-character-story)
-- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
-- [夏日角色插画动画](#source-case-community-malfoid)
-- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
-- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
-- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
-- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
-- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
-- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
-- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
-- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
-- [投篮命中庆祝](#source-case-ailingqu-basketball-shot-sticker)
-- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
-- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
-- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
-- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
-- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
-- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
-- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi 学习循环](#source-case-ailingqu-lofi-study-loop)
-- [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
-- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
-- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
-- [卡通角色挥手大笑](#source-case-social-character-wave-laugh)
-- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>3D 渲染 / 黏土</summary>
-
-- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
-- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
-- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
-- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>Q 版 / 萌系</summary>
-
-- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
-- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
-- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
-- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
-- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
-
-</details>
-
-<details open>
-<summary>像素艺术</summary>
-
-- [像素风格迁移](#source-case-docs-pixel-style)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [像素风篝火](#source-case-ailingqu-pixel-campfire)
-- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
-- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
-- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
-- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
-- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
-- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
-- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
-- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
-- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
-
-</details>
-
-<details open>
-<summary>水墨 / 中国风</summary>
-
-- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
-- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
-- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
-- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
-
-</details>
-
-<details open>
-<summary>水彩 / 水粉</summary>
-
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
-- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
-- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>复古 / 怀旧</summary>
-
-- [怀旧节日贺卡](#source-case-docs-holiday-card)
-- [1969 年历史人群场景](#source-case-docs-historical-crowd)
-- [街机对战 VS 画面](#source-case-ailingqu-arcade-vs-screen)
-- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
-- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
-- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-<details open>
-<summary>极简 / 线条</summary>
-
-- [面包店 SVG 标志](#source-case-docs-bakery-svg)
-- [面包店透明位图标志](#source-case-docs-bakery-raster)
-- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
-- [代码闪电矢量标志](#source-case-community-struggle-code-lightning-svg)
-- [弹跳圆点加载动画](#source-case-ailingqu-bouncing-dots-loader)
-- [点赞爱心爆开](#source-case-ailingqu-like-heart-burst)
-- [沙漏加载](#source-case-ailingqu-hourglass-flip)
-- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
-
-</details>
-
-<details open>
-<summary>纸艺 / 拼贴</summary>
-
-- [纸艺夺冠场景：复杂度比较](#source-case-docs-complexity)
-- [杂志拼贴逐格弹出](#source-case-ailingqu-magazine-panels-pop)
-- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-### 主题
-
-<details open>
-<summary>人物 / 肖像</summary>
-
-- [渔船水手写实人像](#source-case-docs-sailor)
-- [1969 年历史人群场景](#source-case-docs-historical-crowd)
-- [保留人物身份换装](#source-case-docs-outfit)
-- [移除手持花朵](#source-case-docs-remove-flower)
-- [人物放入露营逃跑场景](#source-case-docs-person-scene)
-- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
-- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
-- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
-- [浅蓝色卫衣女孩站在拍立得照片墙前](#source-case-social-90s-film-snapshot-woman)
-- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
-- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
-- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
-- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
-- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
-- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
-- [日本办公室随拍的简短提示词对照](#source-case-social-japanese-office-short-prompts)
-- [雪中庭院里老人劈柴](#source-case-social-snowy-yard-wood-chopping)
-- [站立后空翻的三种复杂度对比](#source-case-social-standing-backflip-complexity)
-- [夏日花园水枪动态场景](#source-case-social-summer-garden-water-gun)
-- [动作分镜参考转投篮GIF](#source-case-social-basketball-storyboard-to-gif)
-
-</details>
-
-<details open>
-<summary>动物 / 宠物</summary>
-
-- [宠物四格漫画](#source-case-docs-pet-comic)
-- [跨图合成宠物](#source-case-docs-dog-composite)
-- [建立童书角色](#source-case-docs-character-start)
-- [同一角色续写故事](#source-case-docs-character-story)
-- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
-- [猫头鹰草图变动画](#source-case-launch-owl)
-- [彩色玻璃鲸鱼](#source-case-launch-picsart)
-- [熊吉祥物：SVG 与 PNG 输出预览对比](#source-case-community-bear-svg-comparison)
-- [拳击老虎动画](#source-case-community-boxing-tiger)
-- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
-- [Q 弹果冻熊摇晃](#source-case-ailingqu-jelly-bear-wobble)
-- [白兔表情贴纸组](#source-case-ailingqu-bunny-reaction-set)
-- [卡通猫挥手打招呼](#source-case-ailingqu-cat-waving-hello)
-- [柴犬歪头疑惑](#source-case-ailingqu-shiba-head-tilt)
-- [猫猫疯狂打字](#source-case-ailingqu-cat-typing-laptop)
-- [青蛙吹出爱心](#source-case-ailingqu-frog-heart-bubble)
-- [企鹅捂脸](#source-case-ailingqu-penguin-facepalm)
-- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
-- [黑猫出拳](#source-case-ailingqu-black-cat-punch)
-- [打工猫上下班表情组](#source-case-ailingqu-office-cat-workday-set)
-- [咆哮的小黄鸭](#source-case-ailingqu-roaring-duck)
-- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
-- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
-- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
-- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
-- [水墨奔马](#source-case-ailingqu-ink-wash-horse)
-- [Robin 猫眨眼与落下的姓名帽](#source-case-community-ozan-robin-wink-hat)
-- [兔子绘本场景日暮编辑](#source-case-community-flare-day-dusk-edit)
-- [黏土橘猫敲键盘](#source-case-community-struggle-cat-programmer)
-- [Sunburst 窗边三花猫](#source-case-community-kokone-sunburst-calico)
-- [戴礼帽跳舞的卡通青蛙](#source-case-social-dancing-frog-top-hat)
-- [卡通小蜜蜂在手机上发帖打卡](#source-case-social-diligent-bee-daily-checkin-gif)
-- [紫光房间里戴墨镜跳舞的猫](#source-case-social-sunglasses-cat-dance)
-- [戴头盔的鹈鹕骑自行车](#source-case-social-pelican-riding-bicycle)
-- [头顶飘爱心的白色线条小狗](#source-case-social-line-dog-heart-loop)
-- [旋转的猫](#source-case-social-cat-spinning-gif)
-- [橘猫打工人十二款表情网格](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>产品 / 日常物件</summary>
-
-- [商品透明背景抠图](#source-case-docs-product-cutout)
-- [玩具飞机包装](#source-case-docs-toy-package)
-- [标注花瓶后局部换色](#source-case-docs-vase-markup)
-- [品牌产品微缩场景](#source-case-launch-sable)
-- [水中修表微距测试](#source-case-community-hn-watchmaker)
-- [AURORA橙色香水商品图](#source-case-community-struggle-aurora-perfume)
-- [日常物件的日冕光丝幻形](#source-case-social-perfume-dancer-light-trails)
-- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
-- [传奇宝剑360度旋转](#source-case-social-sword-360-turntable)
-- [未来摩托车360度旋转](#source-case-social-motorbike-360-turntable)
-- [苹果落下的GIF帧数对照](#source-case-social-falling-apple-frame-comparison)
-- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
-
-</details>
-
-<details open>
-<summary>食物 / 饮品</summary>
-
-- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
-- [农夫市场手机界面](#source-case-docs-market-ui)
-- [猫厨师颠勺炒饭](#source-case-ailingqu-cat-chef-fried-rice)
-- [冒热气的咖啡](#source-case-ailingqu-steaming-coffee)
-- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [Q版角色用筷子吃白米饭](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [女子在家中手持花纹茶杯](#source-case-social-woman-holding-tea-mug)
-- [可爱机器人倒咖啡](#source-case-social-robot-pouring-coffee)
-
-</details>
-
-<details open>
-<summary>时尚 / 服饰</summary>
-
-- [街头服饰广告排字](#source-case-docs-streetwear)
-- [保留人物身份换装](#source-case-docs-outfit)
-- [球鞋配色快闪](#source-case-ailingqu-sneaker-colorway-flash)
-- [蘑菇光影时装人像](#source-case-community-marco-mushroom-fashion-portrait)
-- [棒球帽与耳机女子的阳光街拍](#source-case-social-streetwear-cap-headphones-portrait)
-- [门镜中的和服女子](#source-case-social-kimono-door-peephole-portrait)
-- [镜面电梯中的Keor刺绣服装女子](#source-case-social-keor-elevator-mirror-portrait)
-- [穿旗袍的Q版少女做可爱跳跃动作](#source-case-social-chibi-cheongsam-girl-gif)
-
-</details>
-
-<details open>
-<summary>建筑 / 室内空间</summary>
-
-- [室内更换椅子](#source-case-docs-room-chairs)
-- [客厅标注编辑](#source-case-launch-fal)
-- [尘埃仓库提示细节对比](#source-case-community-sunburst-dust-detail)
-- [参考图引导的庭院摄影组图](#source-case-community-marco-reference-photo-board)
-- [Sunburst 庭院对比](#source-case-community-marco-sunburst-courtyard-comparison)
-- [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
-- [壁炉边睡觉的猫](#source-case-ailingqu-cat-by-fireplace)
-- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
-- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
-- [灰色Blender走廊镜头动画草稿](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>自然 / 植物</summary>
-
-- [提灯猴循环 GIF](#source-case-docs-lantern-gif)
-- [蜂鸟与翠鸟动画多版本](#source-case-community-hummingbird-variants)
-- [玫瑰花蕾动画](#source-case-community-rosebud-animation)
-- [花卉微距快闪](#source-case-ailingqu-flower-macro-flash)
-- [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
-- [雨窗与绿植](#source-case-ailingqu-rain-on-window)
-- [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
-- [夜晚的灯塔](#source-case-ailingqu-lighthouse-night)
-- [雪林提灯的小猴子](#source-case-ailingqu-lantern-monkey-snow)
-- [苔石上打盹的小狐狸](#source-case-ailingqu-sleepy-fox-rock)
-- [月夜湖畔水中端坐的古风女子](#source-case-social-moonlit-lake-hanfu-portrait)
-- [夕阳下荷塘边坐着的汉服女子](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [夕阳海边回头的女子](#source-case-social-sunset-beach-look-back)
-- [蓝色水面上摇晃的白色纸船](#source-case-social-paper-boat-water-loop)
-- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>城市街景 / 地标</summary>
-
-- [洗发水公路广告牌](#source-case-docs-billboard)
-- [广告牌场景改为雪夜](#source-case-docs-snow-edit)
-- [旅行视觉生成速度对比](#source-case-launch-travel)
-- [街角咖啡馆动态照片](#source-case-ailingqu-cafe-cinemagraph)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [东京街头折叠手机屏幕播放平成风格动画](#source-case-social-heisei-flip-phone-decomail-gif)
-- [大阪城逐层建成天守阁](#source-case-social-osaka-castle-construction)
-- [金门大桥水粉旅行海报循环](#source-case-social-golden-gate-gouache-loop)
-- [罗马斗兽场水粉旅行海报循环](#source-case-social-colosseum-gouache-loop)
-- [富士山水粉旅行海报循环](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>奇幻 / 游戏角色</summary>
-
-- [骑士连续换景换装](#source-case-launch-higgsfield)
-- [夏日角色插画动画](#source-case-community-malfoid)
-- [像素骑士跑步循环](#source-case-ailingqu-pixel-knight-run)
-- [8-bit 史莱姆 Boss 战](#source-case-ailingqu-pixel-slime-boss)
-- [爱心爆发技能动画](#source-case-ailingqu-love-burst-skill)
-- [废品场机器人行走](#source-case-ailingqu-junkyard-robot-walk)
-- [蓝发女仆对话动画原型](#source-case-community-mirochill-anime-dialogue-prototype)
-- [月下美少女战士舞蹈](#source-case-community-struggle-sailor-dance)
-- [炭治郎像素风水刃循环动画](#source-case-community-kiki-tanjiro-pixel-loop)
-- [六段 Miss Malfoid 情绪贴纸循环动画](#source-case-community-kiki-malfoid-mood-stickers)
-- [Pixel♡Love：游泳角色动画帧表](#source-case-community-temae-pixel-love-swimming-sheet)
-- [千禧年动漫游戏海报的街墙剥蚀拼贴](#source-case-social-tifa-lockhart-peeling-poster)
-- [紫色闪电击飞螺母与螺栓的像素角色](#source-case-social-pixel-purple-lightning-bolts)
-- [像素勇者挥舞发光剑](#source-case-social-pixel-hero-glowing-sword)
-- [动漫角色操控悬浮球体](#source-case-social-anime-floating-orb-control)
-- [持巨斧矮人360度旋转](#source-case-social-dwarf-360-turntable)
-
-</details>
-
-<details open>
-<summary>图表 / 图解 / 地图</summary>
-
-- [咖啡机工作流程图](#source-case-docs-coffee-diagram)
-- [细胞呼吸教学图](#source-case-docs-cell-respiration)
-- [市场规模演示页](#source-case-docs-pitch-slide)
-- [信息图改为西班牙语](#source-case-docs-spanish-edit)
-- [Sunburst 六种风格样例集](#source-case-nyle-sunburst-style-gallery)
-- [季度营收动态图](#source-case-social-revenue-chart-loop)
-- [相机爆炸拆解动画](#source-case-social-camera-exploded-loop)
-- [水墨历史长卷动态时间轴](#source-case-social-ink-history-timeline-loop)
-- [寻宝地图路线动画](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-<details open>
-<summary>文字 / 排版</summary>
-
-- [街头服饰广告排字](#source-case-docs-streetwear)
-- [洗发水公路广告牌](#source-case-docs-billboard)
-- [怀旧节日贺卡](#source-case-docs-holiday-card)
-- [生日蛋糕与额外标语对比](#source-case-community-flare-slogan-comparison)
-- [AI进化论海报改为Image 2.6实测](#source-case-community-struggle-poster-edit)
-- [2027 春季健康展传单对比](#source-case-nyle-health-fair)
-- [敏感肌化妆水广告对比](#source-case-nyle-skincare-ad)
-- [密集日文商务封面对比](#source-case-nyle-kanji-cover)
-- [网络研讨会日期替换对比](#source-case-nyle-webinar-date-edit)
-- [湿润皮肤上的发光青色诗句与公式](#source-case-social-cyan-poetry-wet-portrait)
-- [Emoji 与颜文字融合表情海报](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [照片转民间艺术风圣诞贺卡](#source-case-social-portugal-folk-christmas-card)
-
-</details>
-
+[全部 (130)](https://raphael.app/zh/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_all&utm_term=zh-CN) · [GIF 动图 (79)](https://raphael.app/zh/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=zh-CN) · [品牌商品 (7)](https://raphael.app/zh/gpt-image-2-6-prompts/brand-products?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_brand-products&utm_term=zh-CN) · [角色一致性 (20)](https://raphael.app/zh/gpt-image-2-6-prompts/characters-consistency?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_characters-consistency&utm_term=zh-CN) · [海报排版 (6)](https://raphael.app/zh/gpt-image-2-6-prompts/posters-typography?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_posters-typography&utm_term=zh-CN) · [局部编辑 (10)](https://raphael.app/zh/gpt-image-2-6-prompts/markup-edits?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_markup-edits&utm_term=zh-CN) · [信息图 (8)](https://raphael.app/zh/gpt-image-2-6-prompts/infographics?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_infographics&utm_term=zh-CN) · [SVG 素材 (3)](https://raphael.app/zh/gpt-image-2-6-prompts/svg-design-assets?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_svg-design-assets&utm_term=zh-CN) · [室内建筑 (2)](https://raphael.app/zh/gpt-image-2-6-prompts/interiors-architecture?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_interiors-architecture&utm_term=zh-CN)
 
 <a id="contents"></a>
 
@@ -802,7 +91,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- |
 | 📝 提示词总数 | **141** |
 | ⭐ 精选 | **12** |
-| 🔄 最后更新 | **2026年11月12日星期四 UTC 10:15:00** |
+| 🔄 最后更新 | **2026年11月13日星期五 UTC 03:35:54** |
 
 <a id="featured"></a>
 
@@ -858,6 +147,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-higgsfield/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-ailingqu-four-seasons-tree"></a>
@@ -884,6 +175,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-launch-picsart"></a>
@@ -901,6 +194,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-picsart/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=zh-CN)**
 
 ---
 
@@ -928,6 +223,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-social-cyan-poetry-wet-portrait"></a>
@@ -951,6 +248,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **原始来源**: [作者自报模型](https://x.com/iamsofiaijaz/status/2118561513879507399) · [来源详情](cases/social-cyan-poetry-wet-portrait/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=zh-CN)**
 
 ---
 
@@ -977,6 +276,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=zh-CN)**
 
 ---
 
@@ -1013,6 +314,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [来源详情](cases/docs-pixel-style/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-ailingqu-doodle-monster"></a>
@@ -1038,6 +341,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=zh-CN)**
 
 ---
 
@@ -1069,6 +374,8 @@ Place the UI mockup in an iPhone frame.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [来源详情](cases/docs-market-ui/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-ailingqu-pixel-campfire"></a>
@@ -1095,6 +402,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=zh-CN)**
+
 ---
 
 <a id="featured-case-launch-town"></a>
@@ -1112,6 +421,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [Town](https://openai.com/index/introducing-images-2-6/)
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-town/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=zh-CN)**
 
 ---
 
@@ -1134,6 +445,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-sailor-dance/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=zh-CN)**
 
 ---
 
@@ -1175,6 +488,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [来源详情](cases/docs-bakery-raster/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-raster&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-product-cutout"></a>
@@ -1212,6 +527,8 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout) · [来源详情](cases/docs-product-cutout/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-product-cutout&utm_term=zh-CN)**
 
 ---
 
@@ -1257,6 +574,8 @@ Include ONLY this packaging text (verbatim):
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [来源详情](cases/docs-toy-package/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-toy-package&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-sable"></a>
@@ -1285,6 +604,8 @@ Art direction: a spectacular, warm, photographically convincing miniature archit
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-sable/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-sable&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-travel"></a>
@@ -1304,6 +625,8 @@ Art direction: a spectacular, warm, photographically convincing miniature archit
 **作者**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-travel/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-travel&utm_term=zh-CN)**
 
 ---
 
@@ -1330,6 +653,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 
 **原始来源**: [作者自报模型](https://news.ycombinator.com/item?id=50373686) · [来源详情](cases/community-hn-watchmaker/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hn-watchmaker&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-struggle-aurora-perfume"></a>
@@ -1353,6 +678,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-aurora-perfume/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-aurora-perfume&utm_term=zh-CN)**
 
 ---
 
@@ -1401,6 +728,8 @@ n=10
 
 **原始来源**: [作者自报模型](https://x.com/DeepBlueX0/status/2118527529208455403) · [来源详情](cases/social-perfume-dancer-light-trails/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-perfume-dancer-light-trails&utm_term=zh-CN)**
+
 ---
 
 <a id="category-posters-typography"></a>
@@ -1434,6 +763,8 @@ No extra text, no watermarks, no unrelated logos.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text) · [来源详情](cases/docs-streetwear/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-streetwear&utm_term=zh-CN)**
 
 ---
 
@@ -1473,6 +804,8 @@ No watermarks, no logos.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image) · [来源详情](cases/docs-billboard/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-billboard&utm_term=zh-CN)**
 
 ---
 
@@ -1519,6 +852,8 @@ Include ONLY this card text (verbatim):
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [来源详情](cases/docs-holiday-card/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-holiday-card&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-flare-slogan-comparison"></a>
@@ -1544,6 +879,8 @@ Generate a beautiful birthday cake
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124381155303918) · [来源详情](cases/community-flare-slogan-comparison/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-slogan-comparison&utm_term=zh-CN)**
 
 ---
 
@@ -1577,6 +914,8 @@ Generate a beautiful birthday cake
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-poster-edit/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-poster-edit&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-nyle-health-fair"></a>
@@ -1596,6 +935,8 @@ Generate a beautiful birthday cake
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-health-fair/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-health-fair&utm_term=zh-CN)**
 
 ---
 
@@ -1617,6 +958,8 @@ Generate a beautiful birthday cake
 
 **原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-skincare-ad/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-skincare-ad&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-nyle-kanji-cover"></a>
@@ -1636,6 +979,8 @@ Generate a beautiful birthday cake
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-kanji-cover/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-kanji-cover&utm_term=zh-CN)**
 
 ---
 
@@ -1699,6 +1044,8 @@ n=6，9:16竪版。
 
 **原始来源**: [作者自报模型](https://x.com/DeepBlueX0/status/2118602386172465509) · [来源详情](cases/social-tifa-lockhart-peeling-poster/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-tifa-lockhart-peeling-poster&utm_term=zh-CN)**
+
 ---
 
 <a id="category-infographics"></a>
@@ -1730,6 +1077,8 @@ I'd like to understand technically and visually the flow.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually) · [来源详情](cases/docs-coffee-diagram/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-coffee-diagram&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-cell-respiration"></a>
@@ -1760,6 +1109,8 @@ Avoid tiny text, extra decoration, or anything that makes the diagram hard to un
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [来源详情](cases/docs-cell-respiration/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-cell-respiration&utm_term=zh-CN)**
 
 ---
 
@@ -1802,6 +1153,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [来源详情](cases/docs-pitch-slide/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pitch-slide&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-revenue-chart-loop"></a>
@@ -1832,6 +1185,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-revenue-chart-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-revenue-chart-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-web-summary-interaction-loop"></a>
@@ -1860,6 +1215,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 **作者**: [aiwarts](https://x.com/aiwarts)
 
 **原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-web-summary-interaction-loop/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-web-summary-interaction-loop&utm_term=zh-CN)**
 
 ---
 
@@ -1890,6 +1247,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-camera-exploded-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-camera-exploded-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-ink-history-timeline-loop"></a>
@@ -1919,6 +1278,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-ink-history-timeline-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-ink-history-timeline-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-treasure-map-route-loop"></a>
@@ -1947,6 +1308,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 **作者**: [aiwarts](https://x.com/aiwarts)
 
 **原始来源**: [作者自报模型](https://x.com/aiwarts/status/2119435411667980473) · [来源详情](cases/social-treasure-map-route-loop/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-treasure-map-route-loop&utm_term=zh-CN)**
 
 ---
 
@@ -1989,6 +1352,8 @@ Photorealistic contact shadows and fabric texture.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room) · [来源详情](cases/docs-room-chairs/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-room-chairs&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-fal"></a>
@@ -2022,6 +1387,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-fal/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-fal&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-sunburst-dust-detail"></a>
@@ -2041,6 +1408,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124393843106154) · [来源详情](cases/community-sunburst-dust-detail/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-sunburst-dust-detail&utm_term=zh-CN)**
 
 ---
 
@@ -2074,6 +1443,8 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity) · [来源详情](cases/docs-complexity/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-complexity&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-sailor"></a>
@@ -2103,6 +1474,8 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting) · [来源详情](cases/docs-sailor/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sailor&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-historical-crowd"></a>
@@ -2128,6 +1501,8 @@ Photorealistic, period-accurate clothing, staging, and environment.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context) · [来源详情](cases/docs-historical-crowd/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-historical-crowd&utm_term=zh-CN)**
 
 ---
 
@@ -2157,6 +1532,8 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip) · [来源详情](cases/docs-pet-comic/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pet-comic&utm_term=zh-CN)**
 
 ---
 
@@ -2195,6 +1572,8 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing) · [来源详情](cases/docs-outfit/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-outfit&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-person-scene"></a>
@@ -2221,6 +1600,8 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene) · [来源详情](cases/docs-person-scene/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-person-scene&utm_term=zh-CN)**
 
 ---
 
@@ -2267,6 +1648,8 @@ Constraints:
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character) · [来源详情](cases/docs-character-start/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-start&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-character-story"></a>
@@ -2312,6 +1695,8 @@ Constraints:
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story) · [来源详情](cases/docs-character-story/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-story&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-picsart"></a>
@@ -2331,6 +1716,8 @@ Constraints:
 **作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-picsart/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=zh-CN)**
 
 ---
 
@@ -2382,6 +1769,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-higgsfield/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-marco-reference-photo-board"></a>
@@ -2402,6 +1791,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 **原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235673727500369) · [来源详情](cases/community-marco-reference-photo-board/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-reference-photo-board&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
@@ -2421,6 +1812,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 **作者**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
 
 **原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235678328893803) · [来源详情](cases/community-marco-sunburst-courtyard-comparison/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-sunburst-courtyard-comparison&utm_term=zh-CN)**
 
 ---
 
@@ -2451,6 +1844,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 **原始来源**: [作者自报模型](https://x.com/ai_artworkgen/status/2118235684217692275) · [来源详情](cases/community-marco-mushroom-fashion-portrait/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-mushroom-fashion-portrait&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
@@ -2471,6 +1866,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 **原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-sunburst-style-gallery/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-sunburst-style-gallery&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
@@ -2490,6 +1887,8 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 **作者**: [ここね｜AI学習中](https://note.com/kokone_ailab/n/n58ea583f8d45)
 
 **原始来源**: [作者自报模型](https://note.com/kokone_ailab/n/n58ea583f8d45) · [来源详情](cases/community-kokone-sunburst-calico/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kokone-sunburst-calico&utm_term=zh-CN)**
 
 ---
 
@@ -2517,6 +1916,8 @@ a realistic photo of a woman holding a cup of tea inside her home
 
 **原始来源**: [作者自报模型](https://x.com/v3rt0x_/status/2118147596891901957) · [来源详情](cases/social-woman-holding-tea-mug/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-woman-holding-tea-mug&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-90s-film-snapshot-woman"></a>
@@ -2543,6 +1944,8 @@ A young woman with the same unchanged face and soft natural complexion, captured
 
 **原始来源**: [作者自报模型](https://x.com/AIwithSarah_/status/2118202866448077182) · [来源详情](cases/social-90s-film-snapshot-woman/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-90s-film-snapshot-woman&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-cyan-poetry-wet-portrait"></a>
@@ -2568,6 +1971,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **原始来源**: [作者自报模型](https://x.com/iamsofiaijaz/status/2118561513879507399) · [来源详情](cases/social-cyan-poetry-wet-portrait/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=zh-CN)**
 
 ---
 
@@ -2626,6 +2031,8 @@ iOS 系統Emoji × 顏文字× 全新表情設計
 
 **原始来源**: [作者自报模型](https://x.com/DeepBlueX0/status/2118276577322750086) · [来源详情](cases/social-sleepy-star-eyed-emoji-fusion/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sleepy-star-eyed-emoji-fusion&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
@@ -2674,6 +2081,8 @@ Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montse
 
 **原始来源**: [作者自报模型](https://x.com/sandmrk/status/2118269430014599535) · [来源详情](cases/social-moonlit-lake-hanfu-portrait/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-moonlit-lake-hanfu-portrait&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
@@ -2699,6 +2108,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 **作者**: [fengnian_ai](https://x.com/fengnian_ai)
 
 **原始来源**: [作者自报模型](https://x.com/fengnian_ai/status/2118386725676552194) · [来源详情](cases/social-seated-hanfu-woman-lotus-pond/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-seated-hanfu-woman-lotus-pond&utm_term=zh-CN)**
 
 ---
 
@@ -2738,6 +2149,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 **原始来源**: [作者自报模型](https://x.com/sonny_eacc/status/2118216234445791408) · [来源详情](cases/social-sunset-beach-look-back/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunset-beach-look-back&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-streetwear-cap-headphones-portrait"></a>
@@ -2771,6 +2184,8 @@ Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organ
 **作者**: [johnAGI168](https://x.com/johnAGI168)
 
 **原始来源**: [作者自报模型](https://x.com/johnAGI168/status/2118581030781382805) · [来源详情](cases/social-streetwear-cap-headphones-portrait/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-streetwear-cap-headphones-portrait&utm_term=zh-CN)**
 
 ---
 
@@ -2806,6 +2221,8 @@ Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organ
 
 **原始来源**: [作者自报模型](https://x.com/kabumira862571/status/2118220107487051883) · [来源详情](cases/social-kimono-door-peephole-portrait/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-kimono-door-peephole-portrait&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-keor-elevator-mirror-portrait"></a>
@@ -2833,6 +2250,8 @@ Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organ
 **作者**: [tadasgedgaudas](https://x.com/tadasgedgaudas)
 
 **原始来源**: [作者自报模型](https://x.com/tadasgedgaudas/status/2118284291381875124) · [来源详情](cases/social-keor-elevator-mirror-portrait/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-keor-elevator-mirror-portrait&utm_term=zh-CN)**
 
 ---
 
@@ -2870,6 +2289,8 @@ Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organ
 **作者**: [buusk4](https://x.com/buusk4)
 
 **原始来源**: [作者自报模型](https://x.com/buusk4/status/2118543259257712714) · [来源详情](cases/social-japanese-office-short-prompts/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-japanese-office-short-prompts&utm_term=zh-CN)**
 
 ---
 
@@ -2909,6 +2330,8 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [来源详情](cases/docs-vase-markup/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-vase-markup&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-spanish-edit"></a>
@@ -2933,6 +2356,8 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout) · [来源详情](cases/docs-spanish-edit/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-spanish-edit&utm_term=zh-CN)**
 
 ---
 
@@ -2968,6 +2393,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [来源详情](cases/docs-pixel-style/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-dog-composite"></a>
@@ -3002,6 +2429,8 @@ Place the dog from the second image into the setting of image 1, right next to t
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#combine-references) · [来源详情](cases/docs-dog-composite/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-dog-composite&utm_term=zh-CN)**
 
 ---
 
@@ -3040,6 +2469,8 @@ Do not add new elements or text.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image) · [来源详情](cases/docs-sketch-render/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sketch-render&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-remove-flower"></a>
@@ -3074,6 +2505,8 @@ Remove the flower from man's hand. Do not change anything else.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object) · [来源详情](cases/docs-remove-flower/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-remove-flower&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-snow-edit"></a>
@@ -3099,6 +2532,8 @@ Make it look like a winter evening with snowfall.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition) · [来源详情](cases/docs-snow-edit/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-snow-edit&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
@@ -3118,6 +2553,8 @@ Make it look like a winter evening with snowfall.
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原始来源**: [作者自报模型](https://x.com/DesignArena/status/2118124387639693686) · [来源详情](cases/community-flare-day-dusk-edit/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-day-dusk-edit&utm_term=zh-CN)**
 
 ---
 
@@ -3144,6 +2581,8 @@ Make it look like a winter evening with snowfall.
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原始来源**: [作者自报模型](https://note.com/content_studio/n/ndd9ab49a6dea) · [来源详情](cases/nyle-webinar-date-edit/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-webinar-date-edit&utm_term=zh-CN)**
 
 ---
 
@@ -3206,6 +2645,8 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 **原始来源**: [作者自报模型](https://x.com/Goodmanprotocol/status/2118562099987398753) · [来源详情](cases/social-portugal-folk-christmas-card/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-portugal-folk-christmas-card&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-circle-markup-santa-gift-edit"></a>
@@ -3233,6 +2674,8 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 **作者**: [IHayato](https://x.com/IHayato)
 
 **原始来源**: [作者自报模型](https://x.com/IHayato/status/2118151619212890291) · [来源详情](cases/social-circle-markup-santa-gift-edit/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-circle-markup-santa-gift-edit&utm_term=zh-CN)**
 
 ---
 
@@ -3266,6 +2709,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [来源详情](cases/docs-bakery-svg/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-svg&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-docs-market-ui"></a>
@@ -3295,6 +2740,8 @@ Place the UI mockup in an iPhone frame.
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [来源详情](cases/docs-market-ui/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-bear-svg-comparison"></a>
@@ -3315,6 +2762,8 @@ Place the UI mockup in an iPhone frame.
 **作者**: [pixexid (@pixexid)](https://x.com/pixexid)
 
 **原始来源**: [作者自报模型](https://x.com/pixexid/status/2118153375464505689) · [来源详情](cases/community-bear-svg-comparison/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-bear-svg-comparison&utm_term=zh-CN)**
 
 ---
 
@@ -3339,6 +2788,8 @@ Place the UI mockup in an iPhone frame.
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-code-lightning-svg/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-code-lightning-svg&utm_term=zh-CN)**
 
 ---
 
@@ -3368,6 +2819,8 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 **原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif) · [来源详情](cases/docs-lantern-gif/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-lantern-gif&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-openart-down"></a>
@@ -3394,6 +2847,8 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-openart-down/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-down&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-openart-up"></a>
@@ -3419,6 +2874,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-openart-up/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-up&utm_term=zh-CN)**
 
 ---
 
@@ -3449,6 +2906,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-owl/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-owl&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-launch-town"></a>
@@ -3469,6 +2928,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-town/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-malfoid"></a>
@@ -3485,6 +2946,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原始来源**: [作者自报模型](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/) · [来源详情](cases/community-malfoid/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-malfoid&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-gifts"></a>
@@ -3500,6 +2963,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [u/Algoartist](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
 **原始来源**: [作者自报模型](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/) · [来源详情](cases/community-gifts/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-gifts&utm_term=zh-CN)**
 
 ---
 
@@ -3521,6 +2986,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [Archiefff (@baiji57165)](https://x.com/baiji57165)
 
 **原始来源**: [作者自报模型](https://x.com/baiji57165/status/2118176730079007145) · [来源详情](cases/community-boxing-tiger/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-boxing-tiger&utm_term=zh-CN)**
 
 ---
 
@@ -3550,6 +3017,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原始来源**: [作者自报模型](https://x.com/Dheepanratnam/status/2118138765487100027) · [来源详情](cases/community-hummingbird-variants/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hummingbird-variants&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-rosebud-animation"></a>
@@ -3570,6 +3039,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [Michael Guo (@Michaelzsguo)](https://x.com/Michaelzsguo)
 
 **原始来源**: [作者自报模型](https://x.com/Michaelzsguo/status/2118134837357744435) · [来源详情](cases/community-rosebud-animation/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-rosebud-animation&utm_term=zh-CN)**
 
 ---
 
@@ -3598,6 +3069,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-jelly-bear-wobble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-jelly-bear-wobble&utm_term=zh-CN)**
 
 ---
 
@@ -3649,6 +3122,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bunny-reaction-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bunny-reaction-set&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
@@ -3676,6 +3151,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-waving-hello/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-waving-hello&utm_term=zh-CN)**
 
 ---
 
@@ -3705,6 +3182,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-shiba-head-tilt/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-shiba-head-tilt&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
@@ -3732,6 +3211,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-typing-laptop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-typing-laptop&utm_term=zh-CN)**
 
 ---
 
@@ -3761,6 +3242,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-frog-heart-bubble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-frog-heart-bubble&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
@@ -3788,6 +3271,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-penguin-facepalm/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-penguin-facepalm&utm_term=zh-CN)**
 
 ---
 
@@ -3817,6 +3302,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-basketball-shot-sticker/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-basketball-shot-sticker&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
@@ -3845,6 +3332,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-chef-fried-rice/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-chef-fried-rice&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
@@ -3872,6 +3361,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-black-cat-punch/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-black-cat-punch&utm_term=zh-CN)**
 
 ---
 
@@ -3912,6 +3403,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-office-cat-workday-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-office-cat-workday-set&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-roaring-duck"></a>
@@ -3939,6 +3432,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-roaring-duck/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-roaring-duck&utm_term=zh-CN)**
 
 ---
 
@@ -3968,6 +3463,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-flower-macro-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-flower-macro-flash&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
@@ -3995,6 +3492,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-brand-reel/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-brand-reel&utm_term=zh-CN)**
 
 ---
 
@@ -4024,6 +3523,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sneaker-colorway-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sneaker-colorway-flash&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
@@ -4051,6 +3552,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=zh-CN)**
 
 ---
 
@@ -4080,6 +3583,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-magazine-panels-pop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-magazine-panels-pop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
@@ -4107,6 +3612,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=zh-CN)**
 
 ---
 
@@ -4136,6 +3643,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-steaming-coffee/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-steaming-coffee&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-rain-on-window"></a>
@@ -4163,6 +3672,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-rain-on-window/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-rain-on-window&utm_term=zh-CN)**
 
 ---
 
@@ -4192,6 +3703,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
@@ -4219,6 +3732,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lighthouse-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lighthouse-night&utm_term=zh-CN)**
 
 ---
 
@@ -4248,6 +3763,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-by-fireplace/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-by-fireplace&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
@@ -4275,6 +3792,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lantern-monkey-snow/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lantern-monkey-snow&utm_term=zh-CN)**
 
 ---
 
@@ -4304,6 +3823,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sleepy-fox-rock/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sleepy-fox-rock&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
@@ -4331,6 +3852,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lofi-study-loop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lofi-study-loop&utm_term=zh-CN)**
 
 ---
 
@@ -4360,6 +3883,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cafe-cinemagraph/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cafe-cinemagraph&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
@@ -4387,6 +3912,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-ink-wash-horse/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-ink-wash-horse&utm_term=zh-CN)**
 
 ---
 
@@ -4416,6 +3943,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
@@ -4443,6 +3972,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=zh-CN)**
 
 ---
 
@@ -4472,6 +4003,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bouncing-dots-loader/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bouncing-dots-loader&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
@@ -4499,6 +4032,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-knight-run/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-knight-run&utm_term=zh-CN)**
 
 ---
 
@@ -4528,6 +4063,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-like-heart-burst/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-like-heart-burst&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
@@ -4555,6 +4092,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-hourglass-flip/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-hourglass-flip&utm_term=zh-CN)**
 
 ---
 
@@ -4584,6 +4123,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-arcade-vs-screen&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
@@ -4611,6 +4152,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-slime-boss&utm_term=zh-CN)**
 
 ---
 
@@ -4640,6 +4183,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-love-burst-skill/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-love-burst-skill&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
@@ -4668,6 +4213,8 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 **原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-junkyard-robot-walk&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
@@ -4693,6 +4240,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原始来源**: [作者自报模型](https://x.com/ozansihay/status/2118238946412953985) · [来源详情](cases/community-ozan-robin-wink-hat/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-ozan-robin-wink-hat&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
@@ -4713,6 +4262,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原始来源**: [作者自报模型](https://x.com/mirochill/status/2118328887348191491) · [来源详情](cases/community-mirochill-anime-dialogue-prototype/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-anime-dialogue-prototype&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
@@ -4732,6 +4283,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [Mirochill (@mirochill)](https://x.com/mirochill)
 
 **原始来源**: [作者自报模型](https://x.com/mirochill/status/2118267971025944955) · [来源详情](cases/community-mirochill-ram-altman-animation/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-ram-altman-animation&utm_term=zh-CN)**
 
 ---
 
@@ -4757,6 +4310,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-sailor-dance/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-struggle-cat-programmer"></a>
@@ -4780,6 +4335,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-cat-programmer/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-cat-programmer&utm_term=zh-CN)**
 
 ---
 
@@ -4813,6 +4370,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原始来源**: [作者自报模型](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [来源详情](cases/community-struggle-desk-animation/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-desk-animation&utm_term=zh-CN)**
 
 ---
 
@@ -4850,6 +4409,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原始来源**: [作者自报模型](https://note.com/akikito/n/ne6232185c3c4) · [来源详情](cases/community-zunbeho-parody-ad-gifs/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-zunbeho-parody-ad-gifs&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
@@ -4869,6 +4430,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [❐てまえ❐ (temae)](https://note.com/temae/n/n5b9b365d8c99)
 
 **原始来源**: [作者自报模型](https://note.com/temae/n/n5b9b365d8c99) · [来源详情](cases/community-temae-pixel-love-swimming-sheet/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-temae-pixel-love-swimming-sheet&utm_term=zh-CN)**
 
 ---
 
@@ -4921,6 +4484,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118245929505669260) · [来源详情](cases/community-kiki-tanjiro-pixel-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-tanjiro-pixel-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
@@ -4940,6 +4505,8 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118241781074862569) · [来源详情](cases/community-kiki-heartbeat-dance-comparison/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-heartbeat-dance-comparison&utm_term=zh-CN)**
 
 ---
 
@@ -4969,6 +4536,8 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原始来源**: [作者自报模型](https://x.com/Mayz1169/status/2118355858208010412) · [来源详情](cases/community-kiki-malfoid-mood-stickers/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-malfoid-mood-stickers&utm_term=zh-CN)**
 
 ---
 
@@ -5006,6 +4575,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原始来源**: [作者自报模型](https://x.com/Gorden_Sun/status/2118166046175908016) · [来源详情](cases/social-blue-hair-chibi-eating-rice-gif/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-blue-hair-chibi-eating-rice-gif&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
@@ -5042,6 +4613,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原始来源**: [作者自报模型](https://x.com/shinshin86/status/2118225428976705908) · [来源详情](cases/social-chibi-cheongsam-girl-gif/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-chibi-cheongsam-girl-gif&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
@@ -5068,6 +4641,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [princess414141](https://x.com/princess414141)
 
 **原始来源**: [作者自报模型](https://x.com/princess414141/status/2118144125354877152) · [来源详情](cases/social-dancing-frog-top-hat/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dancing-frog-top-hat&utm_term=zh-CN)**
 
 ---
 
@@ -5096,6 +4671,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **原始来源**: [作者自报模型](https://x.com/rem_rev/status/2118252486360498485) · [来源详情](cases/social-heisei-flip-phone-decomail-gif/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-heisei-flip-phone-decomail-gif&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
@@ -5122,6 +4699,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [MrGafish](https://x.com/MrGafish)
 
 **原始来源**: [作者自报模型](https://x.com/MrGafish/status/2118217749680025722) · [来源详情](cases/social-diligent-bee-daily-checkin-gif/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-diligent-bee-daily-checkin-gif&utm_term=zh-CN)**
 
 ---
 
@@ -5152,6 +4731,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **原始来源**: [作者自报模型](https://x.com/koe_ai414/status/2118153765094351279) · [来源详情](cases/social-snowy-yard-wood-chopping/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-snowy-yard-wood-chopping&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-pixel-purple-lightning-bolts"></a>
@@ -5180,6 +4761,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **原始来源**: [作者自报模型](https://x.com/YaReYaRu30Life/status/2118167174053597233) · [来源详情](cases/social-pixel-purple-lightning-bolts/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-purple-lightning-bolts&utm_term=zh-CN)**
 
 ---
 
@@ -5210,6 +4793,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **原始来源**: [作者自报模型](https://x.com/sousoccer6/status/2118210705585537226) · [来源详情](cases/social-robot-pouring-coffee/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-robot-pouring-coffee&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-red-character-music-video-gif"></a>
@@ -5238,6 +4823,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [Ayu_AI_0912](https://x.com/Ayu_AI_0912)
 
 **原始来源**: [作者自报模型](https://x.com/Ayu_AI_0912/status/2118138025024839939) · [来源详情](cases/social-red-character-music-video-gif/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-red-character-music-video-gif&utm_term=zh-CN)**
 
 ---
 
@@ -5268,6 +4855,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **原始来源**: [作者自报模型](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · [来源详情](cases/social-sunglasses-cat-dance/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunglasses-cat-dance&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-pelican-riding-bicycle"></a>
@@ -5296,6 +4885,8 @@ generate a gif of a pelican riding a bicycle
 **作者**: [SSHCodes](https://x.com/SSHCodes)
 
 **原始来源**: [作者自报模型](https://x.com/SSHCodes/status/2118127375481504100) · [来源详情](cases/social-pelican-riding-bicycle/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pelican-riding-bicycle&utm_term=zh-CN)**
 
 ---
 
@@ -5326,6 +4917,8 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 **原始来源**: [作者自报模型](https://x.com/thinkszyg/status/2118166234495947044) · [来源详情](cases/social-paper-boat-water-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-paper-boat-water-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-osaka-castle-construction"></a>
@@ -5354,6 +4947,8 @@ Make a looping GIF of a paper boat bobbing on the water.
 **作者**: [jammaru_lab](https://x.com/jammaru_lab)
 
 **原始来源**: [作者自报模型](https://x.com/jammaru_lab/status/2118153279821787623) · [来源详情](cases/social-osaka-castle-construction/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-osaka-castle-construction&utm_term=zh-CN)**
 
 ---
 
@@ -5384,6 +4979,8 @@ Make a looping GIF of a paper boat bobbing on the water.
 
 **原始来源**: [作者自报模型](https://x.com/okan_aitool/status/2118201578406772887) · [来源详情](cases/social-character-wave-laugh/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-character-wave-laugh&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-pixel-hero-glowing-sword"></a>
@@ -5413,6 +5010,8 @@ GIFを作成。ドット絵の勇者。
 **作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **原始来源**: [作者自报模型](https://x.com/YaReYaRu30Life/status/2118166505603153922) · [来源详情](cases/social-pixel-hero-glowing-sword/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-hero-glowing-sword&utm_term=zh-CN)**
 
 ---
 
@@ -5478,6 +5077,8 @@ frame_duration_ms = 120
 
 **原始来源**: [作者自报模型](https://x.com/rei_aitech/status/2118245102409908571) · [来源详情](cases/social-falling-apple-frame-comparison/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-falling-apple-frame-comparison&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-line-dog-heart-loop"></a>
@@ -5507,6 +5108,8 @@ frame_duration_ms = 120
 
 **原始来源**: [作者自报模型](https://x.com/CalosLaw/status/2118199125707547102) · [来源详情](cases/social-line-dog-heart-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-line-dog-heart-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-standing-backflip-complexity"></a>
@@ -5535,6 +5138,8 @@ create a GIF of a man doing a standing backflip
 **作者**: [gabrielchua](https://x.com/gabrielchua)
 
 **原始来源**: [作者自报模型](https://x.com/gabrielchua/status/2118135343354720648) · [来源详情](cases/social-standing-backflip-complexity/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-standing-backflip-complexity&utm_term=zh-CN)**
 
 ---
 
@@ -5576,6 +5181,8 @@ create a GIF of a man doing a standing backflip
 
 **原始来源**: [作者自报模型](https://x.com/MiraMusic_AI/status/2118513591490163168) · [来源详情](cases/social-anime-floating-orb-control/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-anime-floating-orb-control&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-golden-gate-gouache-loop"></a>
@@ -5604,6 +5211,8 @@ A living mid-century gouache travel-poster painting of the Golden Gate Bridge se
 **作者**: [devteamdrew](https://x.com/devteamdrew)
 
 **原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-golden-gate-gouache-loop/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-golden-gate-gouache-loop&utm_term=zh-CN)**
 
 ---
 
@@ -5634,6 +5243,8 @@ A living mid-century gouache travel-poster painting of the Roman Colosseum, lock
 
 **原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-colosseum-gouache-loop/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-colosseum-gouache-loop&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-fuji-gouache-loop"></a>
@@ -5662,6 +5273,8 @@ A living mid-century gouache travel-poster painting of Mount Fuji behind a five-
 **作者**: [devteamdrew](https://x.com/devteamdrew)
 
 **原始来源**: [作者自报模型](https://x.com/devteamdrew/status/2118308538564989025) · [来源详情](cases/social-fuji-gouache-loop/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-fuji-gouache-loop&utm_term=zh-CN)**
 
 ---
 
@@ -5692,6 +5305,8 @@ create a gif of a "3d dwarf game model carrying a huge axe on his shoulders" spi
 
 **原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-dwarf-360-turntable/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dwarf-360-turntable&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-sword-360-turntable"></a>
@@ -5720,6 +5335,8 @@ create a gif of a "3d legendary sword in a stone game asset" spinning full 360 d
 **作者**: [xikhar](https://x.com/xikhar)
 
 **原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-sword-360-turntable/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sword-360-turntable&utm_term=zh-CN)**
 
 ---
 
@@ -5750,6 +5367,8 @@ create a gif of a "AAA 3d futuristic motorbike game asset" spinning full 360 deg
 
 **原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-motorbike-360-turntable/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-motorbike-360-turntable&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-cat-spinning-gif"></a>
@@ -5779,6 +5398,8 @@ create a gif of a cat spinning
 
 **原始来源**: [作者自报模型](https://x.com/xikhar/status/2118407355859878352) · [来源详情](cases/social-cat-spinning-gif/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cat-spinning-gif&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-gray-blender-hallway-draft"></a>
@@ -5807,6 +5428,8 @@ Generate a 5-second animated GIF consisting of 10 evenly spaced animation frames
 **作者**: [cocktailpeanut](https://x.com/cocktailpeanut)
 
 **原始来源**: [作者自报模型](https://x.com/cocktailpeanut/status/2118408795026043260) · [来源详情](cases/social-gray-blender-hallway-draft/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-gray-blender-hallway-draft&utm_term=zh-CN)**
 
 ---
 
@@ -5909,6 +5532,8 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 
 **原始来源**: [作者自报模型](https://x.com/nima2qisi2/status/2118150226330734787) · [来源详情](cases/social-summer-garden-water-gun/README.zh-CN.md)
 
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-summer-garden-water-gun&utm_term=zh-CN)**
+
 ---
 
 <a id="source-case-social-basketball-storyboard-to-gif"></a>
@@ -5946,6 +5571,8 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 **作者**: [crayon1267](https://x.com/crayon1267)
 
 **原始来源**: [作者自报模型](https://x.com/crayon1267/status/2118186300339892472) · [来源详情](cases/social-basketball-storyboard-to-gif/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-basketball-storyboard-to-gif&utm_term=zh-CN)**
 
 ---
 
@@ -5986,6 +5613,8 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 **作者**: [karanwithai](https://x.com/karanwithai)
 
 **原始来源**: [作者自报模型](https://x.com/karanwithai/status/2118156092865994837) · [来源详情](cases/social-orange-office-cat-expression-grid/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-orange-office-cat-expression-grid&utm_term=zh-CN)**
 
 ---
 

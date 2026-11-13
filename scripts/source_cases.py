@@ -2,7 +2,7 @@
 from __future__ import annotations
 from i18n import DETAIL_LANGUAGES, detail_language, filename
 from presentation import language_nav
-from common import GENERATED_MARKER, ROOT, code_block, html_attr, localized, md_link, md_text, md_url, read_json, image_path
+from common import GENERATED_MARKER, ROOT, code_block, html_attr, localized, md_link, md_text, md_url, read_json, image_path, render_gallery_cta
 from i18n import ui
 from pathlib import PurePosixPath
 from urllib.parse import urlsplit
@@ -89,7 +89,7 @@ def render_original_prompt(item, language, *, prefix=''):
     return '\n'.join(lines)
 
 
-def render_inline_case(item, language, number, *, featured=False):
+def render_inline_case(item, language, number, config, *, featured=False):
     """将来源案例的图片、原文与底部署名直接展开到 README。"""
     c = lambda en, cn: ui(en, cn, language)
     title = localized(item['title'], language)
@@ -151,6 +151,7 @@ def render_inline_case(item, language, number, *, featured=False):
               ' · ' + md_link(c('Source details', '来源详情'), page_path(item, language))]
     if item['id'].startswith('ailingqu-'):
         lines[-1] += ' · ' + md_link('CC BY 4.0', 'docs/ailingqu-2037/ATTRIBUTION.md')
+    lines += ['', render_gallery_cta(config, language, item['id'])]
     return '\n'.join(lines) + '\n'
 
 

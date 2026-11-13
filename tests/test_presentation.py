@@ -6,6 +6,7 @@ import unittest
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import parse_qs, urlsplit
 from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from common import ROOT, load_data, localized, read_json, repo_url
@@ -40,6 +41,24 @@ class PresentationTests(unittest.TestCase):
             for code in LANGUAGES:
                 self.assertIn(f'href="{filename(code)}"', nav)
                 self.assertTrue((ROOT / filename(code)).is_file())
+
+    def test_gallery_screenshot_and_browse_button_open_the_prompt_gallery(self):
+        image_path = 'assets/website/gpt-image-2-6-prompts-20261113.jpg'
+        self.assertTrue((ROOT / image_path).is_file())
+        for language in LANGUAGES:
+            with self.subTest(language=language):
+                text = render_readme(self.config, self.prompts, language)
+                gallery = text.split('<a id="gallery"></a>', 1)[1].split('<a id="categories"></a>', 1)[0]
+                self.assertIn(image_path, gallery)
+                self.assertNotIn('raphael-homepage-20261110.png', gallery)
+                links = re.findall(r'https://raphael\.app/[^\s)]+', gallery)
+                targets = {parse_qs(urlsplit(url).query).get('utm_content', [''])[0]: url for url in links}
+                for placement in ('gallery_preview', 'top_cta'):
+                    target = urlsplit(targets[placement])
+                    self.assertEqual(target.path, '/gpt-image-2-6-prompts')
+                    self.assertEqual(parse_qs(target.query)['utm_term'], [language])
+                label = ui('Browse the {brand} {model} prompt gallery', '浏览 {brand} {model} 提示词图库', language).format(brand='Raphael', model='GPT Image 2.6')
+                self.assertIn('**[👉 ' + label + '](', gallery)
 
     def test_case_details_never_map_an_unknown_language_to_chinese(self):
         for lang in LANGUAGES:

@@ -13,6 +13,7 @@ def render_home(config, prompts, language, render_prompt):
     cases = visible(read_cases())
     full = published(prompts)
     brand = config['brand']
+    gallery_url = brand.get('gallery_url') or brand['home_url']
     repository = repo_url(config)
     title = c('Awesome {model} Prompts', '{model} 提示词大全').format(model=config['project']['model_family'])
     def heading(anchor, en, cn):
@@ -27,12 +28,9 @@ def render_home(config, prompts, language, render_prompt):
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
     lines += heading('gallery', '🌐 View in Web Gallery', '🌐 在网页图库中查看')
     lines += ['<div align="center">', '',
-              f'![{md_text(c("Raphael homepage preview", "Raphael 首页预览"))}](assets/website/raphael-homepage-20261110.png)', '',
+              f'[![{md_text(c("Browse the visual collection on {brand} ↗", "在 {brand} 浏览完整效果合集 ↗").format(brand=brand["name"]))}](assets/website/gpt-image-2-6-prompts-20261113.jpg)]({tracked_url(gallery_url, "gallery_preview", language, config)})', '',
               '</div>', '']
-    if brand.get('gallery_url'):
-        lines += ['**' + md_link('👉 ' + c('Open the web gallery', '打开网页图库'), tracked_url(brand['gallery_url'], 'top_cta', language, config)) + '**', '']
-    else:
-        lines += ['**' + md_link('👉 ' + c('Create on {brand} →', '在 {brand} 开始创作 →').format(brand=brand['name']), tracked_url(brand['home_url'], 'top_cta', language, config)) + '**', '']
+    lines += ['**' + md_link('👉 ' + c('Browse the {brand} {model} prompt gallery', '浏览 {brand} {model} 提示词图库').format(brand=brand['name'], model=config['project']['model_family']), tracked_url(gallery_url, 'top_cta', language, config)) + '**', '']
     lines += [c('Why create on the website?', '为什么去网站创作？'), '',
               '| ' + c('Feature', '功能') + ' | GitHub README | ' + c('{brand} website', '{brand} 网页端').format(brand=brand['name']) + ' |',
               '| --- | --- | --- |']
@@ -57,7 +55,7 @@ def render_home(config, prompts, language, render_prompt):
         lines += [md_link(localized(promo['title'],language),tracked_url(promo['url'],'cross_promo',language,config)), localized(promo['description'],language), '']
         if promo['image_path']:lines += [f"![{md_text(localized(promo['title'],language))}]({promo['image_path']})",'']
     lines += heading('categories', '🏷️ Browse by category', '🏷️ 按分类浏览')
-    lines += [render_browse(cases, language)]
+    lines += [render_browse(config, language)]
     lines += [''] + heading('contents', '📖 Contents', '📖 目录')
     for anchor,en,cn in [('about','What is GPT Image 2.6?','什么是 GPT Image 2.6？'),('statistics','Statistics','统计数据'),('featured','Featured cases','精选案例'),('all-cases','All cases','全部案例'),('collection','Full prompts','完整提示词'),('using','How to use','如何使用'),('contribute','Contribute','如何贡献'),('license','License','许可证'),('acknowledgements','Acknowledgements','致谢'),('star-history','Star history','Star 历史')]:
         lines.append('- '+md_link(c(en,cn),'#'+anchor))
@@ -84,7 +82,7 @@ def render_home(config, prompts, language, render_prompt):
     lines += heading('featured','🔥 Featured cases','🔥 精选案例')
     if selected:
         for item in selected:
-            lines += [render_inline_case(item, language, case_numbers[item['id']], featured=True).rstrip(), '', '---', '']
+            lines += [render_inline_case(item, language, case_numbers[item['id']], config, featured=True).rstrip(), '', '---', '']
     else:lines += [c('No source-linked cases published yet.','尚未发布来源案例。'),'']
     lines += [c('Video previews are still frames; open the linked file for motion. Reference images and source posters are labelled separately.', '视频预览是首帧静态图，点击可打开动画文件；参考图与来源封面均单独标注。'),'']
     lines += heading('all-cases','📋 All cases','📋 全部案例')
@@ -97,7 +95,7 @@ def render_home(config, prompts, language, render_prompt):
         if group:
             for item in group:
                 number += 1
-                lines += [render_inline_case(item, language, number).rstrip(), '', '---', '']
+                lines += [render_inline_case(item, language, number, config).rstrip(), '', '---', '']
         else:lines += [c('No source-linked cases in this category yet.','此分类尚无来源案例。'),'']
     lines += [md_link(c('Search log, media report and unresolved leads','检索记录、媒体报道与待核实线索'),'docs/CASE_GALLERY.md'),'']
     if full:
