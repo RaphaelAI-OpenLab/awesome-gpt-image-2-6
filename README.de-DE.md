@@ -35,11 +35,11 @@ Titel, Beschreibungen und Detailseiten der Beispiele werden auf Englisch angezei
 
 <div align="center">
 
-![Vorschau der Raphael-Startseite](assets/website/raphael-homepage-20261110.png)
+[![Visuelle Sammlung auf Raphael ansehen ↗](assets/website/gpt-image-2-6-prompts-20261113.jpg)](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=gallery_preview&utm_term=de-DE)
 
 </div>
 
-**[👉 Auf Raphael kreativ werden →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=de-DE)**
+**[👉 Entdecke die GPT Image 2.6-Prompt-Galerie von Raphael](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=de-DE)**
 
 Warum auf der Website erstellen?
 
@@ -62,718 +62,7 @@ Die kostenlose Bilderzeugung nutzt den Basismodus. Die erforderlichen Credits un
 
 ## 🏷️ Nach Kategorie durchstöbern
 
-### Anwendungsfälle
-
-<details open>
-<summary>Porträts / Avatare</summary>
-
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-
-<details>
-<summary>12 weitere Beispiele anzeigen</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Social-Media-Beiträge / Reaktionssticker</summary>
-
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-
-<details>
-<summary>56 weitere Beispiele anzeigen</summary>
-
-- [Office character: falling stock GIF](#source-case-launch-openart-down)
-- [Office character: rising stock GIF](#source-case-launch-openart-up)
-- [Monty typing indicator animation](#source-case-launch-town)
-- [Images 2.6 brings GIF(T)S :D](#source-case-community-gifts)
-- [Boxing tiger animation](#source-case-community-boxing-tiger)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Rosebud animation](#source-case-community-rosebud-animation)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
-- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
-- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
-- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
-- [Ram Altman memory-stick parody](#source-case-community-mirochill-ram-altman-animation)
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Ten parody web-ad GIFs: a Japanese creator test](#source-case-community-zunbeho-parody-ad-gifs)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Heartbeat dance modes: source poster](#source-case-community-kiki-heartbeat-dance-comparison)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
-- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
-- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Character waving and laughing](#source-case-social-character-wave-laugh)
-- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
-- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
-- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Produktmarketing / E-Commerce</summary>
-
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-
-<details>
-<summary>6 weitere Beispiele anzeigen</summary>
-
-- [Toy airplane packaging](#source-case-docs-toy-package)
-- [Miniature brand product world](#source-case-launch-sable)
-- [Travel visual generation speed comparison](#source-case-launch-travel)
-- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Logos / Markendesign</summary>
-
-- [Cat-head logo brand reel](#source-case-ailingqu-cat-brand-reel)
-- [Bakery SVG logo](#source-case-docs-bakery-svg)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-
-<details>
-<summary>2 weitere Beispiele anzeigen</summary>
-
-- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
-- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Poster / Flyer / Grußkarten</summary>
-
-- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-
-<details>
-<summary>9 weitere Beispiele anzeigen</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
-- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
-- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Lehrgrafiken / Präsentationen</summary>
-
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
-- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
-
-<details>
-<summary>5 weitere Beispiele anzeigen</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Market-size presentation slide](#source-case-docs-pitch-slide)
-- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Bildergeschichten / Storyboards</summary>
-
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
-- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
-
-<details>
-<summary>10 weitere Beispiele anzeigen</summary>
-
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Owl sketch to animation](#source-case-launch-owl)
-- [Stained-glass whale](#source-case-launch-picsart)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Spielgrafiken / Animationsprototypen</summary>
-
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-
-<details>
-<summary>14 weitere Beispiele anzeigen</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>App- / Webdesign</summary>
-
-- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
-- [Web summary interaction animation](#source-case-social-web-summary-interaction-loop)
-- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
-
-<details>
-<summary>2 weitere Beispiele anzeigen</summary>
-
-- [Farmers market mobile interface](#source-case-docs-market-ui)
-- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>Fotobearbeitung / Kleidungs- und Szenenwechsel</summary>
-
-- [Living-room markup edit](#source-case-launch-fal)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
-
-<details>
-<summary>12 weitere Beispiele anzeigen</summary>
-
-- [Recolor a marked vase](#source-case-docs-vase-markup)
-- [Transfer a pixel-art style](#source-case-docs-pixel-style)
-- [Combine pets across images](#source-case-docs-dog-composite)
-- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
-- [Circle markup edit adding Santa hat and gift](#source-case-social-circle-markup-santa-gift-edit)
-
-</details>
-
-
-</details>
-
-### Stile
-
-<details open>
-<summary>Fotografie</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>Filmlook / Filmszenen</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>Anime / Manga</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-
-</details>
-
-<details open>
-<summary>Cartoons / Bilderbuchillustration</summary>
-
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
-- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Character waving and laughing](#source-case-social-character-wave-laugh)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>3D-Rendering / Knetoptik</summary>
-
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>Chibi / niedliche Figuren</summary>
-
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-
-</details>
-
-<details open>
-<summary>Pixelkunst</summary>
-
-- [Transfer a pixel-art style](#source-case-docs-pixel-style)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-
-</details>
-
-<details open>
-<summary>Tuschemalerei / chinesischer Stil</summary>
-
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-
-</details>
-
-<details open>
-<summary>Aquarell / Gouache</summary>
-
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>Retro / Vintage</summary>
-
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-<details open>
-<summary>Minimalismus / Linienzeichnung</summary>
-
-- [Bakery SVG logo](#source-case-docs-bakery-svg)
-- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
-- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
-- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
-- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-
-</details>
-
-<details open>
-<summary>Papierkunst / Collage</summary>
-
-- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
-- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-### Themen
-
-<details open>
-<summary>Menschen / Porträts</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
-- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
-
-</details>
-
-<details open>
-<summary>Tiere / Haustiere</summary>
-
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Combine pets across images](#source-case-docs-dog-composite)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Owl sketch to animation](#source-case-launch-owl)
-- [Stained-glass whale](#source-case-launch-picsart)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-- [Boxing tiger animation](#source-case-community-boxing-tiger)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
-- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>Produkte / Alltagsgegenstände</summary>
-
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Toy airplane packaging](#source-case-docs-toy-package)
-- [Recolor a marked vase](#source-case-docs-vase-markup)
-- [Miniature brand product world](#source-case-launch-sable)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-
-</details>
-
-<details open>
-<summary>Essen / Getränke</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Farmers market mobile interface](#source-case-docs-market-ui)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
-
-</details>
-
-<details open>
-<summary>Mode / Kleidung</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-
-</details>
-
-<details open>
-<summary>Architektur / Innenräume</summary>
-
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Living-room markup edit](#source-case-launch-fal)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>Natur / Pflanzen</summary>
-
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Rosebud animation](#source-case-community-rosebud-animation)
-- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>Stadtansichten / Wahrzeichen</summary>
-
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
-- [Travel visual generation speed comparison](#source-case-launch-travel)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>Fantasy / Spielfiguren</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-
-</details>
-
-<details open>
-<summary>Diagramme / Schaubilder / Karten</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
-- [Market-size presentation slide](#source-case-docs-pitch-slide)
-- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-<details open>
-<summary>Text / Typografie</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
-- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
-- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
-- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
-- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
-
-</details>
-
+[Alle (130)](https://raphael.app/de/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_all&utm_term=de-DE) · [GIF & Animation (79)](https://raphael.app/de/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=de-DE) · [Marken- & Produktvisualisierungen (7)](https://raphael.app/de/gpt-image-2-6-prompts/brand-products?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_brand-products&utm_term=de-DE) · [Figuren & Konsistenz (20)](https://raphael.app/de/gpt-image-2-6-prompts/characters-consistency?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_characters-consistency&utm_term=de-DE) · [Poster & Typografie (6)](https://raphael.app/de/gpt-image-2-6-prompts/posters-typography?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_posters-typography&utm_term=de-DE) · [Markierungen & gezielte Bearbeitungen (10)](https://raphael.app/de/gpt-image-2-6-prompts/markup-edits?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_markup-edits&utm_term=de-DE) · [Infografiken (8)](https://raphael.app/de/gpt-image-2-6-prompts/infographics?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_infographics&utm_term=de-DE) · [SVG & Designressourcen (3)](https://raphael.app/de/gpt-image-2-6-prompts/svg-design-assets?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_svg-design-assets&utm_term=de-DE) · [Innenräume & Architektur (2)](https://raphael.app/de/gpt-image-2-6-prompts/interiors-architecture?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_interiors-architecture&utm_term=de-DE)
 
 <a id="contents"></a>
 
@@ -806,7 +95,7 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 | --- | --- |
 | 📝 Prompts insgesamt | **141** |
 | ⭐ Ausgewählt | **12** |
-| 🔄 Zuletzt aktualisiert | **2026-11-12 UTC 10:15:00** |
+| 🔄 Zuletzt aktualisiert | **2026-11-13 UTC 03:35:54** |
 
 <a id="featured"></a>
 
@@ -862,6 +151,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-higgsfield/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-ailingqu-four-seasons-tree"></a>
@@ -888,6 +179,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-launch-picsart"></a>
@@ -905,6 +198,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-picsart/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=de-DE)**
 
 ---
 
@@ -932,6 +227,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-social-cyan-poetry-wet-portrait"></a>
@@ -955,6 +252,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **Autor**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/iamsofiaijaz/status/2118561513879507399) · [Quellendetails](cases/social-cyan-poetry-wet-portrait/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=de-DE)**
 
 ---
 
@@ -981,6 +280,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=de-DE)**
 
 ---
 
@@ -1017,6 +318,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [Quellendetails](cases/docs-pixel-style/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-ailingqu-doodle-monster"></a>
@@ -1042,6 +345,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=de-DE)**
 
 ---
 
@@ -1073,6 +378,8 @@ Place the UI mockup in an iPhone frame.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [Quellendetails](cases/docs-market-ui/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-ailingqu-pixel-campfire"></a>
@@ -1099,6 +406,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=de-DE)**
+
 ---
 
 <a id="featured-case-launch-town"></a>
@@ -1116,6 +425,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [Town](https://openai.com/index/introducing-images-2-6/)
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-town/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=de-DE)**
 
 ---
 
@@ -1138,6 +449,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-sailor-dance/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=de-DE)**
 
 ---
 
@@ -1179,6 +492,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [Quellendetails](cases/docs-bakery-raster/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-raster&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-product-cutout"></a>
@@ -1216,6 +531,8 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout) · [Quellendetails](cases/docs-product-cutout/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-product-cutout&utm_term=de-DE)**
 
 ---
 
@@ -1261,6 +578,8 @@ Include ONLY this packaging text (verbatim):
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [Quellendetails](cases/docs-toy-package/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-toy-package&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-sable"></a>
@@ -1289,6 +608,8 @@ The prompt requires two source reference images for the Sable brand and Aidan id
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-sable/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-sable&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-travel"></a>
@@ -1308,6 +629,8 @@ The prompt requires two source reference images for the Sable brand and Aidan id
 **Autor**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-travel/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-travel&utm_term=de-DE)**
 
 ---
 
@@ -1334,6 +657,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://news.ycombinator.com/item?id=50373686) · [Quellendetails](cases/community-hn-watchmaker/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hn-watchmaker&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-struggle-aurora-perfume"></a>
@@ -1357,6 +682,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 **Autor**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-aurora-perfume/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-aurora-perfume&utm_term=de-DE)**
 
 ---
 
@@ -1405,6 +732,8 @@ n=10
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DeepBlueX0/status/2118527529208455403) · [Quellendetails](cases/social-perfume-dancer-light-trails/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-perfume-dancer-light-trails&utm_term=de-DE)**
+
 ---
 
 <a id="category-posters-typography"></a>
@@ -1438,6 +767,8 @@ No extra text, no watermarks, no unrelated logos.
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text) · [Quellendetails](cases/docs-streetwear/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-streetwear&utm_term=de-DE)**
 
 ---
 
@@ -1477,6 +808,8 @@ No watermarks, no logos.
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image) · [Quellendetails](cases/docs-billboard/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-billboard&utm_term=de-DE)**
 
 ---
 
@@ -1523,6 +856,8 @@ Include ONLY this card text (verbatim):
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [Quellendetails](cases/docs-holiday-card/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-holiday-card&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-flare-slogan-comparison"></a>
@@ -1548,6 +883,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **Autor**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DesignArena/status/2118124381155303918) · [Quellendetails](cases/community-flare-slogan-comparison/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-slogan-comparison&utm_term=de-DE)**
 
 ---
 
@@ -1581,6 +918,8 @@ Transcribed from the instruction printed in the archived source comparison image
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-poster-edit/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-poster-edit&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-nyle-health-fair"></a>
@@ -1600,6 +939,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **Autor**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/content_studio/n/ndd9ab49a6dea) · [Quellendetails](cases/nyle-health-fair/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-health-fair&utm_term=de-DE)**
 
 ---
 
@@ -1621,6 +962,8 @@ Transcribed from the instruction printed in the archived source comparison image
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/content_studio/n/ndd9ab49a6dea) · [Quellendetails](cases/nyle-skincare-ad/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-skincare-ad&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-nyle-kanji-cover"></a>
@@ -1640,6 +983,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **Autor**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/content_studio/n/ndd9ab49a6dea) · [Quellendetails](cases/nyle-kanji-cover/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-kanji-cover&utm_term=de-DE)**
 
 ---
 
@@ -1703,6 +1048,8 @@ n=6，9:16竪版。
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DeepBlueX0/status/2118602386172465509) · [Quellendetails](cases/social-tifa-lockhart-peeling-poster/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-tifa-lockhart-peeling-poster&utm_term=de-DE)**
+
 ---
 
 <a id="category-infographics"></a>
@@ -1734,6 +1081,8 @@ I'd like to understand technically and visually the flow.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually) · [Quellendetails](cases/docs-coffee-diagram/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-coffee-diagram&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-cell-respiration"></a>
@@ -1764,6 +1113,8 @@ Avoid tiny text, extra decoration, or anything that makes the diagram hard to un
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [Quellendetails](cases/docs-cell-respiration/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-cell-respiration&utm_term=de-DE)**
 
 ---
 
@@ -1806,6 +1157,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [Quellendetails](cases/docs-pitch-slide/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pitch-slide&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-revenue-chart-loop"></a>
@@ -1836,6 +1189,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/aiwarts/status/2119435411667980473) · [Quellendetails](cases/social-revenue-chart-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-revenue-chart-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-web-summary-interaction-loop"></a>
@@ -1864,6 +1219,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [aiwarts](https://x.com/aiwarts)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/aiwarts/status/2119435411667980473) · [Quellendetails](cases/social-web-summary-interaction-loop/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-web-summary-interaction-loop&utm_term=de-DE)**
 
 ---
 
@@ -1894,6 +1251,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/aiwarts/status/2119435411667980473) · [Quellendetails](cases/social-camera-exploded-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-camera-exploded-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-ink-history-timeline-loop"></a>
@@ -1923,6 +1282,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/aiwarts/status/2119435411667980473) · [Quellendetails](cases/social-ink-history-timeline-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-ink-history-timeline-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-treasure-map-route-loop"></a>
@@ -1951,6 +1312,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [aiwarts](https://x.com/aiwarts)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/aiwarts/status/2119435411667980473) · [Quellendetails](cases/social-treasure-map-route-loop/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-treasure-map-route-loop&utm_term=de-DE)**
 
 ---
 
@@ -1993,6 +1356,8 @@ Photorealistic contact shadows and fabric texture.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room) · [Quellendetails](cases/docs-room-chairs/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-room-chairs&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-fal"></a>
@@ -2026,6 +1391,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-fal/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-fal&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-sunburst-dust-detail"></a>
@@ -2045,6 +1412,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 **Autor**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DesignArena/status/2118124393843106154) · [Quellendetails](cases/community-sunburst-dust-detail/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-sunburst-dust-detail&utm_term=de-DE)**
 
 ---
 
@@ -2078,6 +1447,8 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity) · [Quellendetails](cases/docs-complexity/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-complexity&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-sailor"></a>
@@ -2107,6 +1478,8 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting) · [Quellendetails](cases/docs-sailor/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sailor&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-historical-crowd"></a>
@@ -2132,6 +1505,8 @@ Photorealistic, period-accurate clothing, staging, and environment.
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context) · [Quellendetails](cases/docs-historical-crowd/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-historical-crowd&utm_term=de-DE)**
 
 ---
 
@@ -2161,6 +1536,8 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip) · [Quellendetails](cases/docs-pet-comic/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pet-comic&utm_term=de-DE)**
 
 ---
 
@@ -2199,6 +1576,8 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing) · [Quellendetails](cases/docs-outfit/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-outfit&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-person-scene"></a>
@@ -2225,6 +1604,8 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene) · [Quellendetails](cases/docs-person-scene/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-person-scene&utm_term=de-DE)**
 
 ---
 
@@ -2271,6 +1652,8 @@ Constraints:
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character) · [Quellendetails](cases/docs-character-start/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-start&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-character-story"></a>
@@ -2316,6 +1699,8 @@ Constraints:
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story) · [Quellendetails](cases/docs-character-story/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-story&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-picsart"></a>
@@ -2335,6 +1720,8 @@ Constraints:
 **Autor**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-picsart/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=de-DE)**
 
 ---
 
@@ -2386,6 +1773,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Quellendetails](cases/launch-higgsfield/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-marco-reference-photo-board"></a>
@@ -2406,6 +1795,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/ai_artworkgen/status/2118235673727500369) · [Quellendetails](cases/community-marco-reference-photo-board/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-reference-photo-board&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
@@ -2425,6 +1816,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 **Autor**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/ai_artworkgen/status/2118235678328893803) · [Quellendetails](cases/community-marco-sunburst-courtyard-comparison/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-sunburst-courtyard-comparison&utm_term=de-DE)**
 
 ---
 
@@ -2455,6 +1848,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/ai_artworkgen/status/2118235684217692275) · [Quellendetails](cases/community-marco-mushroom-fashion-portrait/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-mushroom-fashion-portrait&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
@@ -2475,6 +1870,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/content_studio/n/ndd9ab49a6dea) · [Quellendetails](cases/nyle-sunburst-style-gallery/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-sunburst-style-gallery&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
@@ -2494,6 +1891,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [ここね｜AI学習中](https://note.com/kokone_ailab/n/n58ea583f8d45)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/kokone_ailab/n/n58ea583f8d45) · [Quellendetails](cases/community-kokone-sunburst-calico/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kokone-sunburst-calico&utm_term=de-DE)**
 
 ---
 
@@ -2521,6 +1920,8 @@ a realistic photo of a woman holding a cup of tea inside her home
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/v3rt0x_/status/2118147596891901957) · [Quellendetails](cases/social-woman-holding-tea-mug/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-woman-holding-tea-mug&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-90s-film-snapshot-woman"></a>
@@ -2547,6 +1948,8 @@ A young woman with the same unchanged face and soft natural complexion, captured
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/AIwithSarah_/status/2118202866448077182) · [Quellendetails](cases/social-90s-film-snapshot-woman/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-90s-film-snapshot-woman&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-cyan-poetry-wet-portrait"></a>
@@ -2572,6 +1975,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **Autor**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/iamsofiaijaz/status/2118561513879507399) · [Quellendetails](cases/social-cyan-poetry-wet-portrait/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=de-DE)**
 
 ---
 
@@ -2630,6 +2035,8 @@ iOS 系統Emoji × 顏文字× 全新表情設計
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DeepBlueX0/status/2118276577322750086) · [Quellendetails](cases/social-sleepy-star-eyed-emoji-fusion/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sleepy-star-eyed-emoji-fusion&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
@@ -2678,6 +2085,8 @@ Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montse
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/sandmrk/status/2118269430014599535) · [Quellendetails](cases/social-moonlit-lake-hanfu-portrait/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-moonlit-lake-hanfu-portrait&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
@@ -2703,6 +2112,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 **Autor**: [fengnian_ai](https://x.com/fengnian_ai)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/fengnian_ai/status/2118386725676552194) · [Quellendetails](cases/social-seated-hanfu-woman-lotus-pond/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-seated-hanfu-woman-lotus-pond&utm_term=de-DE)**
 
 ---
 
@@ -2742,6 +2153,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/sonny_eacc/status/2118216234445791408) · [Quellendetails](cases/social-sunset-beach-look-back/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunset-beach-look-back&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-streetwear-cap-headphones-portrait"></a>
@@ -2775,6 +2188,8 @@ Original prompt wording is preserved.
 **Autor**: [johnAGI168](https://x.com/johnAGI168)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/johnAGI168/status/2118581030781382805) · [Quellendetails](cases/social-streetwear-cap-headphones-portrait/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-streetwear-cap-headphones-portrait&utm_term=de-DE)**
 
 ---
 
@@ -2810,6 +2225,8 @@ Original prompt wording is preserved. The source offers two placeholder choices;
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/kabumira862571/status/2118220107487051883) · [Quellendetails](cases/social-kimono-door-peephole-portrait/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-kimono-door-peephole-portrait&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-keor-elevator-mirror-portrait"></a>
@@ -2837,6 +2254,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [tadasgedgaudas](https://x.com/tadasgedgaudas)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/tadasgedgaudas/status/2118284291381875124) · [Quellendetails](cases/social-keor-elevator-mirror-portrait/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-keor-elevator-mirror-portrait&utm_term=de-DE)**
 
 ---
 
@@ -2874,6 +2293,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [buusk4](https://x.com/buusk4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/buusk4/status/2118543259257712714) · [Quellendetails](cases/social-japanese-office-short-prompts/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-japanese-office-short-prompts&utm_term=de-DE)**
 
 ---
 
@@ -2913,6 +2334,8 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [Quellendetails](cases/docs-vase-markup/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-vase-markup&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-spanish-edit"></a>
@@ -2937,6 +2360,8 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout) · [Quellendetails](cases/docs-spanish-edit/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-spanish-edit&utm_term=de-DE)**
 
 ---
 
@@ -2972,6 +2397,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [Quellendetails](cases/docs-pixel-style/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-dog-composite"></a>
@@ -3006,6 +2433,8 @@ Place the dog from the second image into the setting of image 1, right next to t
 **Autor**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#combine-references) · [Quellendetails](cases/docs-dog-composite/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-dog-composite&utm_term=de-DE)**
 
 ---
 
@@ -3044,6 +2473,8 @@ Do not add new elements or text.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image) · [Quellendetails](cases/docs-sketch-render/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sketch-render&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-remove-flower"></a>
@@ -3078,6 +2509,8 @@ Remove the flower from man's hand. Do not change anything else.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object) · [Quellendetails](cases/docs-remove-flower/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-remove-flower&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-snow-edit"></a>
@@ -3103,6 +2536,8 @@ Make it look like a winter evening with snowfall.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition) · [Quellendetails](cases/docs-snow-edit/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-snow-edit&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
@@ -3122,6 +2557,8 @@ Make it look like a winter evening with snowfall.
 **Autor**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/DesignArena/status/2118124387639693686) · [Quellendetails](cases/community-flare-day-dusk-edit/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-day-dusk-edit&utm_term=de-DE)**
 
 ---
 
@@ -3148,6 +2585,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **Autor**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/content_studio/n/ndd9ab49a6dea) · [Quellendetails](cases/nyle-webinar-date-edit/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-webinar-date-edit&utm_term=de-DE)**
 
 ---
 
@@ -3210,6 +2649,8 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Goodmanprotocol/status/2118562099987398753) · [Quellendetails](cases/social-portugal-folk-christmas-card/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-portugal-folk-christmas-card&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-circle-markup-santa-gift-edit"></a>
@@ -3237,6 +2678,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [IHayato](https://x.com/IHayato)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/IHayato/status/2118151619212890291) · [Quellendetails](cases/social-circle-markup-santa-gift-edit/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-circle-markup-santa-gift-edit&utm_term=de-DE)**
 
 ---
 
@@ -3270,6 +2713,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [Quellendetails](cases/docs-bakery-svg/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-svg&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-docs-market-ui"></a>
@@ -3299,6 +2744,8 @@ Place the UI mockup in an iPhone frame.
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [Quellendetails](cases/docs-market-ui/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-bear-svg-comparison"></a>
@@ -3319,6 +2766,8 @@ Place the UI mockup in an iPhone frame.
 **Autor**: [pixexid (@pixexid)](https://x.com/pixexid)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/pixexid/status/2118153375464505689) · [Quellendetails](cases/community-bear-svg-comparison/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-bear-svg-comparison&utm_term=de-DE)**
 
 ---
 
@@ -3343,6 +2792,8 @@ Place the UI mockup in an iPhone frame.
 **Autor**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-code-lightning-svg/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-code-lightning-svg&utm_term=de-DE)**
 
 ---
 
@@ -3372,6 +2823,8 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 **Originalquelle**: [Offizielle Dokumentation](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif) · [Quellendetails](cases/docs-lantern-gif/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-lantern-gif&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-openart-down"></a>
@@ -3398,6 +2851,8 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-openart-down/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-down&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-openart-up"></a>
@@ -3423,6 +2878,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **Autor**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-openart-up/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-up&utm_term=de-DE)**
 
 ---
 
@@ -3453,6 +2910,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-owl/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-owl&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-launch-town"></a>
@@ -3473,6 +2932,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Offizielle Demo zur Einführung](https://openai.com/index/introducing-images-2-6/) · [Quellendetails](cases/launch-town/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-malfoid"></a>
@@ -3489,6 +2950,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/) · [Quellendetails](cases/community-malfoid/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-malfoid&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-gifts"></a>
@@ -3504,6 +2967,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [u/Algoartist](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/) · [Quellendetails](cases/community-gifts/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-gifts&utm_term=de-DE)**
 
 ---
 
@@ -3525,6 +2990,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [Archiefff (@baiji57165)](https://x.com/baiji57165)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/baiji57165/status/2118176730079007145) · [Quellendetails](cases/community-boxing-tiger/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-boxing-tiger&utm_term=de-DE)**
 
 ---
 
@@ -3554,6 +3021,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Dheepanratnam/status/2118138765487100027) · [Quellendetails](cases/community-hummingbird-variants/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hummingbird-variants&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-rosebud-animation"></a>
@@ -3574,6 +3043,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [Michael Guo (@Michaelzsguo)](https://x.com/Michaelzsguo)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Michaelzsguo/status/2118134837357744435) · [Quellendetails](cases/community-rosebud-animation/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-rosebud-animation&utm_term=de-DE)**
 
 ---
 
@@ -3602,6 +3073,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-jelly-bear-wobble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-jelly-bear-wobble&utm_term=de-DE)**
 
 ---
 
@@ -3653,6 +3126,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-bunny-reaction-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bunny-reaction-set&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
@@ -3680,6 +3155,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cat-waving-hello/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-waving-hello&utm_term=de-DE)**
 
 ---
 
@@ -3709,6 +3186,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-shiba-head-tilt/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-shiba-head-tilt&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
@@ -3736,6 +3215,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cat-typing-laptop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-typing-laptop&utm_term=de-DE)**
 
 ---
 
@@ -3765,6 +3246,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-frog-heart-bubble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-frog-heart-bubble&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
@@ -3792,6 +3275,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-penguin-facepalm/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-penguin-facepalm&utm_term=de-DE)**
 
 ---
 
@@ -3821,6 +3306,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-basketball-shot-sticker/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-basketball-shot-sticker&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
@@ -3849,6 +3336,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cat-chef-fried-rice/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-chef-fried-rice&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
@@ -3876,6 +3365,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-black-cat-punch/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-black-cat-punch&utm_term=de-DE)**
 
 ---
 
@@ -3916,6 +3407,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-office-cat-workday-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-office-cat-workday-set&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-roaring-duck"></a>
@@ -3943,6 +3436,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-roaring-duck/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-roaring-duck&utm_term=de-DE)**
 
 ---
 
@@ -3972,6 +3467,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-flower-macro-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-flower-macro-flash&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
@@ -3999,6 +3496,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cat-brand-reel/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-brand-reel&utm_term=de-DE)**
 
 ---
 
@@ -4028,6 +3527,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-sneaker-colorway-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sneaker-colorway-flash&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
@@ -4055,6 +3556,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=de-DE)**
 
 ---
 
@@ -4084,6 +3587,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-magazine-panels-pop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-magazine-panels-pop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
@@ -4111,6 +3616,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=de-DE)**
 
 ---
 
@@ -4140,6 +3647,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-steaming-coffee/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-steaming-coffee&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-rain-on-window"></a>
@@ -4167,6 +3676,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-rain-on-window/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-rain-on-window&utm_term=de-DE)**
 
 ---
 
@@ -4196,6 +3707,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
@@ -4223,6 +3736,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-lighthouse-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lighthouse-night&utm_term=de-DE)**
 
 ---
 
@@ -4252,6 +3767,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cat-by-fireplace/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-by-fireplace&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
@@ -4279,6 +3796,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-lantern-monkey-snow/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lantern-monkey-snow&utm_term=de-DE)**
 
 ---
 
@@ -4308,6 +3827,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-sleepy-fox-rock/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sleepy-fox-rock&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
@@ -4335,6 +3856,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-lofi-study-loop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lofi-study-loop&utm_term=de-DE)**
 
 ---
 
@@ -4364,6 +3887,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-cafe-cinemagraph/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cafe-cinemagraph&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
@@ -4391,6 +3916,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-ink-wash-horse/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-ink-wash-horse&utm_term=de-DE)**
 
 ---
 
@@ -4420,6 +3947,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
@@ -4447,6 +3976,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=de-DE)**
 
 ---
 
@@ -4476,6 +4007,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-bouncing-dots-loader/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bouncing-dots-loader&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
@@ -4503,6 +4036,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-pixel-knight-run/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-knight-run&utm_term=de-DE)**
 
 ---
 
@@ -4532,6 +4067,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-like-heart-burst/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-like-heart-burst&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
@@ -4559,6 +4096,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-hourglass-flip/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-hourglass-flip&utm_term=de-DE)**
 
 ---
 
@@ -4588,6 +4127,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-arcade-vs-screen/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-arcade-vs-screen&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
@@ -4615,6 +4156,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **Autor**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-pixel-slime-boss/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-slime-boss&utm_term=de-DE)**
 
 ---
 
@@ -4644,6 +4187,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-love-burst-skill/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-love-burst-skill&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
@@ -4672,6 +4217,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Quellendetails](cases/ailingqu-junkyard-robot-walk/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-junkyard-robot-walk&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
@@ -4697,6 +4244,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/ozansihay/status/2118238946412953985) · [Quellendetails](cases/community-ozan-robin-wink-hat/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-ozan-robin-wink-hat&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
@@ -4717,6 +4266,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/mirochill/status/2118328887348191491) · [Quellendetails](cases/community-mirochill-anime-dialogue-prototype/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-anime-dialogue-prototype&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
@@ -4736,6 +4287,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **Autor**: [Mirochill (@mirochill)](https://x.com/mirochill)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/mirochill/status/2118267971025944955) · [Quellendetails](cases/community-mirochill-ram-altman-animation/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-ram-altman-animation&utm_term=de-DE)**
 
 ---
 
@@ -4761,6 +4314,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-sailor-dance/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-struggle-cat-programmer"></a>
@@ -4784,6 +4339,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **Autor**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-cat-programmer/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-cat-programmer&utm_term=de-DE)**
 
 ---
 
@@ -4817,6 +4374,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [Quellendetails](cases/community-struggle-desk-animation/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-desk-animation&utm_term=de-DE)**
 
 ---
 
@@ -4854,6 +4413,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/akikito/n/ne6232185c3c4) · [Quellendetails](cases/community-zunbeho-parody-ad-gifs/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-zunbeho-parody-ad-gifs&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
@@ -4873,6 +4434,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 **Autor**: [❐てまえ❐ (temae)](https://note.com/temae/n/n5b9b365d8c99)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://note.com/temae/n/n5b9b365d8c99) · [Quellendetails](cases/community-temae-pixel-love-swimming-sheet/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-temae-pixel-love-swimming-sheet&utm_term=de-DE)**
 
 ---
 
@@ -4925,6 +4488,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Mayz1169/status/2118245929505669260) · [Quellendetails](cases/community-kiki-tanjiro-pixel-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-tanjiro-pixel-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
@@ -4944,6 +4509,8 @@ Deliver an actual multi-frame GIF file I can download.
 **Autor**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Mayz1169/status/2118241781074862569) · [Quellendetails](cases/community-kiki-heartbeat-dance-comparison/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-heartbeat-dance-comparison&utm_term=de-DE)**
 
 ---
 
@@ -4973,6 +4540,8 @@ Deliver an actual multi-frame GIF file I can download.
 **Autor**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Mayz1169/status/2118355858208010412) · [Quellendetails](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-malfoid-mood-stickers&utm_term=de-DE)**
 
 ---
 
@@ -5010,6 +4579,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Gorden_Sun/status/2118166046175908016) · [Quellendetails](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-blue-hair-chibi-eating-rice-gif&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
@@ -5046,6 +4617,8 @@ Referenz- bzw. Eingabebild, keine generierte Ausgabe.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/shinshin86/status/2118225428976705908) · [Quellendetails](cases/social-chibi-cheongsam-girl-gif/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-chibi-cheongsam-girl-gif&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
@@ -5072,6 +4645,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **Autor**: [princess414141](https://x.com/princess414141)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/princess414141/status/2118144125354877152) · [Quellendetails](cases/social-dancing-frog-top-hat/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dancing-frog-top-hat&utm_term=de-DE)**
 
 ---
 
@@ -5100,6 +4675,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/rem_rev/status/2118252486360498485) · [Quellendetails](cases/social-heisei-flip-phone-decomail-gif/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-heisei-flip-phone-decomail-gif&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
@@ -5126,6 +4703,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **Autor**: [MrGafish](https://x.com/MrGafish)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/MrGafish/status/2118217749680025722) · [Quellendetails](cases/social-diligent-bee-daily-checkin-gif/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-diligent-bee-daily-checkin-gif&utm_term=de-DE)**
 
 ---
 
@@ -5156,6 +4735,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/koe_ai414/status/2118153765094351279) · [Quellendetails](cases/social-snowy-yard-wood-chopping/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-snowy-yard-wood-chopping&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-pixel-purple-lightning-bolts"></a>
@@ -5184,6 +4765,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/YaReYaRu30Life/status/2118167174053597233) · [Quellendetails](cases/social-pixel-purple-lightning-bolts/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-purple-lightning-bolts&utm_term=de-DE)**
 
 ---
 
@@ -5214,6 +4797,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/sousoccer6/status/2118210705585537226) · [Quellendetails](cases/social-robot-pouring-coffee/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-robot-pouring-coffee&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-red-character-music-video-gif"></a>
@@ -5242,6 +4827,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [Ayu_AI_0912](https://x.com/Ayu_AI_0912)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/Ayu_AI_0912/status/2118138025024839939) · [Quellendetails](cases/social-red-character-music-video-gif/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-red-character-music-video-gif&utm_term=de-DE)**
 
 ---
 
@@ -5272,6 +4859,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · [Quellendetails](cases/social-sunglasses-cat-dance/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunglasses-cat-dance&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-pelican-riding-bicycle"></a>
@@ -5300,6 +4889,8 @@ Original prompt wording is preserved.
 **Autor**: [SSHCodes](https://x.com/SSHCodes)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/SSHCodes/status/2118127375481504100) · [Quellendetails](cases/social-pelican-riding-bicycle/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pelican-riding-bicycle&utm_term=de-DE)**
 
 ---
 
@@ -5330,6 +4921,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/thinkszyg/status/2118166234495947044) · [Quellendetails](cases/social-paper-boat-water-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-paper-boat-water-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-osaka-castle-construction"></a>
@@ -5358,6 +4951,8 @@ Original prompt wording is preserved.
 **Autor**: [jammaru_lab](https://x.com/jammaru_lab)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/jammaru_lab/status/2118153279821787623) · [Quellendetails](cases/social-osaka-castle-construction/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-osaka-castle-construction&utm_term=de-DE)**
 
 ---
 
@@ -5388,6 +4983,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/okan_aitool/status/2118201578406772887) · [Quellendetails](cases/social-character-wave-laugh/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-character-wave-laugh&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-pixel-hero-glowing-sword"></a>
@@ -5417,6 +5014,8 @@ Original prompt wording is preserved.
 **Autor**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/YaReYaRu30Life/status/2118166505603153922) · [Quellendetails](cases/social-pixel-hero-glowing-sword/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-hero-glowing-sword&utm_term=de-DE)**
 
 ---
 
@@ -5482,6 +5081,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/rei_aitech/status/2118245102409908571) · [Quellendetails](cases/social-falling-apple-frame-comparison/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-falling-apple-frame-comparison&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-line-dog-heart-loop"></a>
@@ -5511,6 +5112,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/CalosLaw/status/2118199125707547102) · [Quellendetails](cases/social-line-dog-heart-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-line-dog-heart-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-standing-backflip-complexity"></a>
@@ -5539,6 +5142,8 @@ Original prompt wording is preserved. Only the task phrase is public; no full AP
 **Autor**: [gabrielchua](https://x.com/gabrielchua)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/gabrielchua/status/2118135343354720648) · [Quellendetails](cases/social-standing-backflip-complexity/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-standing-backflip-complexity&utm_term=de-DE)**
 
 ---
 
@@ -5580,6 +5185,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/MiraMusic_AI/status/2118513591490163168) · [Quellendetails](cases/social-anime-floating-orb-control/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-anime-floating-orb-control&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-golden-gate-gouache-loop"></a>
@@ -5608,6 +5215,8 @@ Original prompt wording is preserved.
 **Autor**: [devteamdrew](https://x.com/devteamdrew)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/devteamdrew/status/2118308538564989025) · [Quellendetails](cases/social-golden-gate-gouache-loop/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-golden-gate-gouache-loop&utm_term=de-DE)**
 
 ---
 
@@ -5638,6 +5247,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/devteamdrew/status/2118308538564989025) · [Quellendetails](cases/social-colosseum-gouache-loop/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-colosseum-gouache-loop&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-fuji-gouache-loop"></a>
@@ -5666,6 +5277,8 @@ Original prompt wording is preserved.
 **Autor**: [devteamdrew](https://x.com/devteamdrew)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/devteamdrew/status/2118308538564989025) · [Quellendetails](cases/social-fuji-gouache-loop/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-fuji-gouache-loop&utm_term=de-DE)**
 
 ---
 
@@ -5696,6 +5309,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/xikhar/status/2118407355859878352) · [Quellendetails](cases/social-dwarf-360-turntable/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dwarf-360-turntable&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-sword-360-turntable"></a>
@@ -5724,6 +5339,8 @@ Original prompt wording is preserved.
 **Autor**: [xikhar](https://x.com/xikhar)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/xikhar/status/2118407355859878352) · [Quellendetails](cases/social-sword-360-turntable/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sword-360-turntable&utm_term=de-DE)**
 
 ---
 
@@ -5754,6 +5371,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/xikhar/status/2118407355859878352) · [Quellendetails](cases/social-motorbike-360-turntable/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-motorbike-360-turntable&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-cat-spinning-gif"></a>
@@ -5783,6 +5402,8 @@ Original prompt wording is preserved.
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/xikhar/status/2118407355859878352) · [Quellendetails](cases/social-cat-spinning-gif/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cat-spinning-gif&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-gray-blender-hallway-draft"></a>
@@ -5811,6 +5432,8 @@ Original prompt wording is preserved. Only the GPT Image 2.6 gray animation draf
 **Autor**: [cocktailpeanut](https://x.com/cocktailpeanut)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/cocktailpeanut/status/2118408795026043260) · [Quellendetails](cases/social-gray-blender-hallway-draft/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-gray-blender-hallway-draft&utm_term=de-DE)**
 
 ---
 
@@ -5913,6 +5536,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/nima2qisi2/status/2118150226330734787) · [Quellendetails](cases/social-summer-garden-water-gun/README.md)
 
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-summer-garden-water-gun&utm_term=de-DE)**
+
 ---
 
 <a id="source-case-social-basketball-storyboard-to-gif"></a>
@@ -5950,6 +5575,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [crayon1267](https://x.com/crayon1267)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/crayon1267/status/2118186300339892472) · [Quellendetails](cases/social-basketball-storyboard-to-gif/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-basketball-storyboard-to-gif&utm_term=de-DE)**
 
 ---
 
@@ -5990,6 +5617,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **Autor**: [karanwithai](https://x.com/karanwithai)
 
 **Originalquelle**: [Vom Ersteller angegebenes Modell](https://x.com/karanwithai/status/2118156092865994837) · [Quellendetails](cases/social-orange-office-cat-expression-grid/README.md)
+
+**[👉 Jetzt ausprobieren →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-orange-office-cat-expression-grid&utm_term=de-DE)**
 
 ---
 

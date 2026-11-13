@@ -35,11 +35,11 @@
 
 <div align="center">
 
-![Raphael ホームページのプレビュー](assets/website/raphael-homepage-20261110.png)
+[![Raphael でビジュアルコレクションを見る ↗](assets/website/gpt-image-2-6-prompts-20261113.jpg)](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=gallery_preview&utm_term=ja-JP)
 
 </div>
 
-**[👉 Raphael で作成する →](https://raphael.app/?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=ja-JP)**
+**[👉 Raphael の GPT Image 2.6 プロンプトギャラリーを見る](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=ja-JP)**
 
 Webサイトで作成するメリットは？
 
@@ -62,718 +62,7 @@ Webサイトで作成するメリットは？
 
 ## 🏷️ カテゴリーから探す
 
-### 用途
-
-<details open>
-<summary>ポートレート / アバター</summary>
-
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-
-<details>
-<summary>残り 12 件の事例を表示</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>SNS投稿 / リアクションスタンプ</summary>
-
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-
-<details>
-<summary>残り 56 件の事例を表示</summary>
-
-- [Office character: falling stock GIF](#source-case-launch-openart-down)
-- [Office character: rising stock GIF](#source-case-launch-openart-up)
-- [Monty typing indicator animation](#source-case-launch-town)
-- [Images 2.6 brings GIF(T)S :D](#source-case-community-gifts)
-- [Boxing tiger animation](#source-case-community-boxing-tiger)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Rosebud animation](#source-case-community-rosebud-animation)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
-- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
-- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
-- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
-- [Ram Altman memory-stick parody](#source-case-community-mirochill-ram-altman-animation)
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Ten parody web-ad GIFs: a Japanese creator test](#source-case-community-zunbeho-parody-ad-gifs)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Heartbeat dance modes: source poster](#source-case-community-kiki-heartbeat-dance-comparison)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
-- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
-- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Character waving and laughing](#source-case-social-character-wave-laugh)
-- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
-- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
-- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>商品マーケティング / EC画像</summary>
-
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-
-<details>
-<summary>残り 6 件の事例を表示</summary>
-
-- [Toy airplane packaging](#source-case-docs-toy-package)
-- [Miniature brand product world](#source-case-launch-sable)
-- [Travel visual generation speed comparison](#source-case-launch-travel)
-- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>ロゴ / ブランドデザイン</summary>
-
-- [Cat-head logo brand reel](#source-case-ailingqu-cat-brand-reel)
-- [Bakery SVG logo](#source-case-docs-bakery-svg)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-
-<details>
-<summary>残り 2 件の事例を表示</summary>
-
-- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
-- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>ポスター / チラシ / グリーティングカード</summary>
-
-- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-
-<details>
-<summary>残り 9 件の事例を表示</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
-- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
-- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>教育図解 / プレゼンテーション</summary>
-
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
-- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
-
-<details>
-<summary>残り 5 件の事例を表示</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Market-size presentation slide](#source-case-docs-pitch-slide)
-- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>絵本・漫画 / ストーリーボード</summary>
-
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
-- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
-
-<details>
-<summary>残り 10 件の事例を表示</summary>
-
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Owl sketch to animation](#source-case-launch-owl)
-- [Stained-glass whale](#source-case-launch-picsart)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>ゲーム素材 / アニメーション試作</summary>
-
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-
-<details>
-<summary>残り 14 件の事例を表示</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>アプリ / Webデザイン</summary>
-
-- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
-- [Web summary interaction animation](#source-case-social-web-summary-interaction-loop)
-- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
-
-<details>
-<summary>残り 2 件の事例を表示</summary>
-
-- [Farmers market mobile interface](#source-case-docs-market-ui)
-- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
-
-</details>
-
-
-</details>
-
-<details open>
-<summary>写真編集 / 衣装・背景の変更</summary>
-
-- [Living-room markup edit](#source-case-launch-fal)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
-
-<details>
-<summary>残り 12 件の事例を表示</summary>
-
-- [Recolor a marked vase](#source-case-docs-vase-markup)
-- [Transfer a pixel-art style](#source-case-docs-pixel-style)
-- [Combine pets across images](#source-case-docs-dog-composite)
-- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
-- [Circle markup edit adding Santa hat and gift](#source-case-social-circle-markup-santa-gift-edit)
-
-</details>
-
-
-</details>
-
-### スタイル
-
-<details open>
-<summary>写実的な写真</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Turn a sketch into a realistic scene](#source-case-docs-sketch-render)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Desk photograph cleanup and animation](#source-case-community-struggle-desk-animation)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>映画風 / 映画のワンシーン</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-
-</details>
-
-<details open>
-<summary>アニメ / 漫画</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Red character in a music-video-style animation](#source-case-social-red-character-music-video-gif)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-
-</details>
-
-<details open>
-<summary>カートゥーン / 絵本イラスト</summary>
-
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Basketball shot celebration](#source-case-ailingqu-basketball-shot-sticker)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Lo-fi study loop](#source-case-ailingqu-lofi-study-loop)
-- [Doodle monster comes alive](#source-case-ailingqu-doodle-monster)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Character waving and laughing](#source-case-social-character-wave-laugh)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>3Dレンダリング / クレイ</summary>
-
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>ちびキャラ / かわいいキャラクター</summary>
-
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-
-</details>
-
-<details open>
-<summary>ピクセルアート</summary>
-
-- [Transfer a pixel-art style](#source-case-docs-pixel-style)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Pixel art campfire](#source-case-ailingqu-pixel-campfire)
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-
-</details>
-
-<details open>
-<summary>水墨画 / 中国風</summary>
-
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-
-</details>
-
-<details open>
-<summary>水彩 / ガッシュ</summary>
-
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>レトロ / 懐かしい雰囲気</summary>
-
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Arcade VS screen](#source-case-ailingqu-arcade-vs-screen)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-<details open>
-<summary>ミニマル / 線画</summary>
-
-- [Bakery SVG logo](#source-case-docs-bakery-svg)
-- [Transparent bakery raster logo](#source-case-docs-bakery-raster)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-- [Code Lightning vector logo](#source-case-community-struggle-code-lightning-svg)
-- [Bouncing dots loader](#source-case-ailingqu-bouncing-dots-loader)
-- [Like button heart burst](#source-case-ailingqu-like-heart-burst)
-- [Hourglass loading](#source-case-ailingqu-hourglass-flip)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-
-</details>
-
-<details open>
-<summary>ペーパークラフト / コラージュ</summary>
-
-- [Paper-cut championship scene: complexity comparison](#source-case-docs-complexity)
-- [Magazine collage panels pop in](#source-case-ailingqu-magazine-panels-pop)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-
-</details>
-
-### テーマ
-
-<details open>
-<summary>人物 / 肖像</summary>
-
-- [Realistic fishing-boat sailor portrait](#source-case-docs-sailor)
-- [1969 historical crowd scene](#source-case-docs-historical-crowd)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Remove a held flower](#source-case-docs-remove-flower)
-- [Place a person into a camping escape scene](#source-case-docs-person-scene)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Woman in light blue sweatshirt before polaroid wall](#source-case-social-90s-film-snapshot-woman)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Japanese office snapshots with short prompts](#source-case-social-japanese-office-short-prompts)
-- [Elderly man chopping wood in a snowy yard](#source-case-social-snowy-yard-wood-chopping)
-- [Standing backflip at three complexity levels](#source-case-social-standing-backflip-complexity)
-- [Summer garden water-gun animation](#source-case-social-summer-garden-water-gun)
-- [Basketball storyboard-to-GIF workflow](#source-case-social-basketball-storyboard-to-gif)
-
-</details>
-
-<details open>
-<summary>動物 / ペット</summary>
-
-- [Four-panel pet comic](#source-case-docs-pet-comic)
-- [Combine pets across images](#source-case-docs-dog-composite)
-- [Establish a storybook character](#source-case-docs-character-start)
-- [Continue the same character’s story](#source-case-docs-character-story)
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Owl sketch to animation](#source-case-launch-owl)
-- [Stained-glass whale](#source-case-launch-picsart)
-- [Bear mascot: SVG versus PNG previews](#source-case-community-bear-svg-comparison)
-- [Boxing tiger animation](#source-case-community-boxing-tiger)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Jelly bear wobble](#source-case-ailingqu-jelly-bear-wobble)
-- [White bunny reaction sticker set](#source-case-ailingqu-bunny-reaction-set)
-- [Cartoon cat waving hello](#source-case-ailingqu-cat-waving-hello)
-- [Confused shiba head tilt](#source-case-ailingqu-shiba-head-tilt)
-- [Cat typing furiously](#source-case-ailingqu-cat-typing-laptop)
-- [Frog blowing a heart](#source-case-ailingqu-frog-heart-bubble)
-- [Penguin facepalm](#source-case-ailingqu-penguin-facepalm)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Black cat punch](#source-case-ailingqu-black-cat-punch)
-- [Office cat workday reaction set](#source-case-ailingqu-office-cat-workday-set)
-- [Roaring duck](#source-case-ailingqu-roaring-duck)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Ink-wash galloping horse](#source-case-ailingqu-ink-wash-horse)
-- [Robin cat wink and falling name hat](#source-case-community-ozan-robin-wink-hat)
-- [Rabbit storybook day-to-dusk edit](#source-case-community-flare-day-dusk-edit)
-- [Clay orange cat typing](#source-case-community-struggle-cat-programmer)
-- [Sunburst calico cat by a window](#source-case-community-kokone-sunburst-calico)
-- [Dancing cartoon frog in a top hat](#source-case-social-dancing-frog-top-hat)
-- [Cartoon bee posts to X for daily check-in](#source-case-social-diligent-bee-daily-checkin-gif)
-- [Sunglasses cat dancing in a purple room](#source-case-social-sunglasses-cat-dance)
-- [Pelican riding a bicycle](#source-case-social-pelican-riding-bicycle)
-- [Line-art dog with a floating heart](#source-case-social-line-dog-heart-loop)
-- [Spinning cat GIF](#source-case-social-cat-spinning-gif)
-- [Orange office-cat expression grid](#source-case-social-orange-office-cat-expression-grid)
-
-</details>
-
-<details open>
-<summary>商品 / 日用品</summary>
-
-- [Transparent product cutout](#source-case-docs-product-cutout)
-- [Toy airplane packaging](#source-case-docs-toy-package)
-- [Recolor a marked vase](#source-case-docs-vase-markup)
-- [Miniature brand product world](#source-case-launch-sable)
-- [Watchmaker underwater macro test](#source-case-community-hn-watchmaker)
-- [AURORA orange perfume product image](#source-case-community-struggle-aurora-perfume)
-- [Everyday objects transformed by coronal light trails](#source-case-social-perfume-dancer-light-trails)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Legendary sword game asset rotating 360 degrees](#source-case-social-sword-360-turntable)
-- [Futuristic motorbike rotating 360 degrees](#source-case-social-motorbike-360-turntable)
-- [Falling apple GIF frame-count comparison](#source-case-social-falling-apple-frame-comparison)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-
-</details>
-
-<details open>
-<summary>食べ物 / 飲み物</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Farmers market mobile interface](#source-case-docs-market-ui)
-- [Cat chef tossing fried rice](#source-case-ailingqu-cat-chef-fried-rice)
-- [Steaming coffee loop](#source-case-ailingqu-steaming-coffee)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Chibi character eating rice with chopsticks](#source-case-social-blue-hair-chibi-eating-rice-gif)
-- [Woman holding floral tea mug indoors](#source-case-social-woman-holding-tea-mug)
-- [Robot pouring coffee](#source-case-social-robot-pouring-coffee)
-
-</details>
-
-<details open>
-<summary>ファッション / 衣服</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Change clothing while preserving identity](#source-case-docs-outfit)
-- [Sneaker colorway flash](#source-case-ailingqu-sneaker-colorway-flash)
-- [Mushroom-lit fashion portrait](#source-case-community-marco-mushroom-fashion-portrait)
-- [Sunlit streetwear portrait with cap and headphones](#source-case-social-streetwear-cap-headphones-portrait)
-- [Kimono portrait through a door peephole](#source-case-social-kimono-door-peephole-portrait)
-- [Keor outfit portrait in a mirrored elevator](#source-case-social-keor-elevator-mirror-portrait)
-- [Chibi cheongsam girl performs a cute jump sequence](#source-case-social-chibi-cheongsam-girl-gif)
-
-</details>
-
-<details open>
-<summary>建築 / インテリア</summary>
-
-- [Replace chairs in an interior](#source-case-docs-room-chairs)
-- [Living-room markup edit](#source-case-launch-fal)
-- [Dusty warehouse prompt-detail comparison](#source-case-community-sunburst-dust-detail)
-- [Reference-led courtyard photo board](#source-case-community-marco-reference-photo-board)
-- [Sunburst courtyard comparison](#source-case-community-marco-sunburst-courtyard-comparison)
-- [Reading by the window, day to night](#source-case-ailingqu-window-day-to-night)
-- [Cat sleeping by the fireplace](#source-case-ailingqu-cat-by-fireplace)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Gray Blender hallway camera draft](#source-case-social-gray-blender-hallway-draft)
-
-</details>
-
-<details open>
-<summary>自然 / 植物</summary>
-
-- [Lantern-carrying monkey loop](#source-case-docs-lantern-gif)
-- [Hummingbird and kingfisher animation variants](#source-case-community-hummingbird-variants)
-- [Rosebud animation](#source-case-community-rosebud-animation)
-- [Flower macro flash cut](#source-case-ailingqu-flower-macro-flash)
-- [One tree, four seasons](#source-case-ailingqu-four-seasons-tree)
-- [Rainy window and plant](#source-case-ailingqu-rain-on-window)
-- [Goldfish in a bowl](#source-case-ailingqu-goldfish-bowl)
-- [Lighthouse at night](#source-case-ailingqu-lighthouse-night)
-- [Lantern monkey in the snow](#source-case-ailingqu-lantern-monkey-snow)
-- [Sleepy fox on a mossy rock](#source-case-ailingqu-sleepy-fox-rock)
-- [Woman seated in moonlit lake water](#source-case-social-moonlit-lake-hanfu-portrait)
-- [Seated hanfu woman by lotus pond at sunset](#source-case-social-seated-hanfu-woman-lotus-pond)
-- [Woman turning back on sunset beach](#source-case-social-sunset-beach-look-back)
-- [Paper boat bobbing on water](#source-case-social-paper-boat-water-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>街並み / ランドマーク</summary>
-
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Change the billboard scene to a snowy night](#source-case-docs-snow-edit)
-- [Travel visual generation speed comparison](#source-case-launch-travel)
-- [Café cinemagraph](#source-case-ailingqu-cafe-cinemagraph)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Flip phone shows Heisei decomail animation in Tokyo street](#source-case-social-heisei-flip-phone-decomail-gif)
-- [Osaka Castle construction loop](#source-case-social-osaka-castle-construction)
-- [Golden Gate gouache travel-poster loop](#source-case-social-golden-gate-gouache-loop)
-- [Colosseum gouache travel-poster loop](#source-case-social-colosseum-gouache-loop)
-- [Mount Fuji gouache travel-poster loop](#source-case-social-fuji-gouache-loop)
-
-</details>
-
-<details open>
-<summary>ファンタジー / ゲームキャラクター</summary>
-
-- [Knight scene and clothing edit sequence](#source-case-launch-higgsfield)
-- [Summer character illustration animation](#source-case-community-malfoid)
-- [Pixel knight run cycle](#source-case-ailingqu-pixel-knight-run)
-- [8-bit slime boss battle](#source-case-ailingqu-pixel-slime-boss)
-- [Love-burst skill animation](#source-case-ailingqu-love-burst-skill)
-- [Junkyard robot walk cycle](#source-case-ailingqu-junkyard-robot-walk)
-- [Blue-haired maid dialogue prototype](#source-case-community-mirochill-anime-dialogue-prototype)
-- [Moonlit magical-girl dance](#source-case-community-struggle-sailor-dance)
-- [Tanjiro pixel-art water-slash loop](#source-case-community-kiki-tanjiro-pixel-loop)
-- [Six Miss Malfoid mood sticker loops](#source-case-community-kiki-malfoid-mood-stickers)
-- [Pixel♡Love: swimming-character animation contact sheet](#source-case-community-temae-pixel-love-swimming-sheet)
-- [Weathered millennium-era anime and game posters](#source-case-social-tifa-lockhart-peeling-poster)
-- [Pixel character scattering bolts with purple lightning](#source-case-social-pixel-purple-lightning-bolts)
-- [Pixel hero swinging a glowing sword](#source-case-social-pixel-hero-glowing-sword)
-- [Anime character controlling a floating orb](#source-case-social-anime-floating-orb-control)
-- [Dwarf game model rotating 360 degrees](#source-case-social-dwarf-360-turntable)
-
-</details>
-
-<details open>
-<summary>グラフ / 図解 / 地図</summary>
-
-- [Coffee-machine process diagram](#source-case-docs-coffee-diagram)
-- [Cellular respiration teaching visual](#source-case-docs-cell-respiration)
-- [Market-size presentation slide](#source-case-docs-pitch-slide)
-- [Translate an infographic into Spanish](#source-case-docs-spanish-edit)
-- [Sunburst six-style sample gallery](#source-case-nyle-sunburst-style-gallery)
-- [Quarterly revenue chart animation](#source-case-social-revenue-chart-loop)
-- [Camera exploded-view animation](#source-case-social-camera-exploded-loop)
-- [Ink-wash history timeline](#source-case-social-ink-history-timeline-loop)
-- [Treasure-map route animation](#source-case-social-treasure-map-route-loop)
-
-</details>
-
-<details open>
-<summary>文字 / タイポグラフィ</summary>
-
-- [Streetwear advertisement typography](#source-case-docs-streetwear)
-- [Roadside shampoo billboard](#source-case-docs-billboard)
-- [Nostalgic holiday card](#source-case-docs-holiday-card)
-- [Birthday cake without extra slogan cards](#source-case-community-flare-slogan-comparison)
-- [AI evolution poster revised to Image 2.6](#source-case-community-struggle-poster-edit)
-- [Spring Health Fair 2027 flyer comparison](#source-case-nyle-health-fair)
-- [Sensitive-skin lotion advertisement comparison](#source-case-nyle-skincare-ad)
-- [Dense Japanese business cover comparison](#source-case-nyle-kanji-cover)
-- [Webinar date replacement comparison](#source-case-nyle-webinar-date-edit)
-- [Glowing cyan poetry and equations on wet skin](#source-case-social-cyan-poetry-wet-portrait)
-- [Emoji and kaomoji fusion posters](#source-case-social-sleepy-star-eyed-emoji-fusion)
-- [Photo-to-folk-art Christmas greeting cards](#source-case-social-portugal-folk-christmas-card)
-
-</details>
-
+[すべて (130)](https://raphael.app/ja/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_all&utm_term=ja-JP) · [GIF・アニメーション (79)](https://raphael.app/ja/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=ja-JP) · [ブランド・製品ビジュアル (7)](https://raphael.app/ja/gpt-image-2-6-prompts/brand-products?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_brand-products&utm_term=ja-JP) · [キャラクターと一貫性 (20)](https://raphael.app/ja/gpt-image-2-6-prompts/characters-consistency?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_characters-consistency&utm_term=ja-JP) · [ポスター・タイポグラフィ (6)](https://raphael.app/ja/gpt-image-2-6-prompts/posters-typography?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_posters-typography&utm_term=ja-JP) · [マークアップ・部分編集 (10)](https://raphael.app/ja/gpt-image-2-6-prompts/markup-edits?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_markup-edits&utm_term=ja-JP) · [インフォグラフィック (8)](https://raphael.app/ja/gpt-image-2-6-prompts/infographics?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_infographics&utm_term=ja-JP) · [SVG・デザイン素材 (3)](https://raphael.app/ja/gpt-image-2-6-prompts/svg-design-assets?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_svg-design-assets&utm_term=ja-JP) · [インテリア・建築 (2)](https://raphael.app/ja/gpt-image-2-6-prompts/interiors-architecture?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_interiors-architecture&utm_term=ja-JP)
 
 <a id="contents"></a>
 
@@ -806,7 +95,7 @@ OpenAI は 2026 年 11 月 4 日に Images 2.6 を発表しました。このコ
 | --- | --- |
 | 📝 プロンプト総数 | **141** |
 | ⭐ 厳選 | **12** |
-| 🔄 最終更新 | **2026-11-12 UTC 10:15:00** |
+| 🔄 最終更新 | **2026-11-13 UTC 03:35:54** |
 
 <a id="featured"></a>
 
@@ -862,6 +151,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-higgsfield/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-ailingqu-four-seasons-tree"></a>
@@ -888,6 +179,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-launch-picsart"></a>
@@ -905,6 +198,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-picsart/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=ja-JP)**
 
 ---
 
@@ -932,6 +227,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-social-cyan-poetry-wet-portrait"></a>
@@ -955,6 +252,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **原典**: [作者申告のモデル](https://x.com/iamsofiaijaz/status/2118561513879507399) · [出典の詳細](cases/social-cyan-poetry-wet-portrait/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=ja-JP)**
 
 ---
 
@@ -981,6 +280,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=ja-JP)**
 
 ---
 
@@ -1017,6 +318,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [出典の詳細](cases/docs-pixel-style/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-ailingqu-doodle-monster"></a>
@@ -1042,6 +345,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=ja-JP)**
 
 ---
 
@@ -1073,6 +378,8 @@ Place the UI mockup in an iPhone frame.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [出典の詳細](cases/docs-market-ui/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-ailingqu-pixel-campfire"></a>
@@ -1099,6 +406,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=ja-JP)**
+
 ---
 
 <a id="featured-case-launch-town"></a>
@@ -1116,6 +425,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [Town](https://openai.com/index/introducing-images-2-6/)
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-town/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=ja-JP)**
 
 ---
 
@@ -1138,6 +449,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-sailor-dance/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=ja-JP)**
 
 ---
 
@@ -1179,6 +492,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [出典の詳細](cases/docs-bakery-raster/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-raster&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-product-cutout"></a>
@@ -1216,6 +531,8 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout) · [出典の詳細](cases/docs-product-cutout/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-product-cutout&utm_term=ja-JP)**
 
 ---
 
@@ -1261,6 +578,8 @@ Include ONLY this packaging text (verbatim):
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [出典の詳細](cases/docs-toy-package/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-toy-package&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-sable"></a>
@@ -1289,6 +608,8 @@ The prompt requires two source reference images for the Sable brand and Aidan id
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-sable/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-sable&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-travel"></a>
@@ -1308,6 +629,8 @@ The prompt requires two source reference images for the Sable brand and Aidan id
 **作者**: [OpenAI](https://openai.com/index/introducing-images-2-6/)
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-travel/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-travel&utm_term=ja-JP)**
 
 ---
 
@@ -1334,6 +657,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 
 **原典**: [作者申告のモデル](https://news.ycombinator.com/item?id=50373686) · [出典の詳細](cases/community-hn-watchmaker/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hn-watchmaker&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-struggle-aurora-perfume"></a>
@@ -1357,6 +682,8 @@ Reflect the watchmaker's face, slightly distorted, in the curved glass of the wa
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-aurora-perfume/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-aurora-perfume&utm_term=ja-JP)**
 
 ---
 
@@ -1405,6 +732,8 @@ n=10
 
 **原典**: [作者申告のモデル](https://x.com/DeepBlueX0/status/2118527529208455403) · [出典の詳細](cases/social-perfume-dancer-light-trails/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-perfume-dancer-light-trails&utm_term=ja-JP)**
+
 ---
 
 <a id="category-posters-typography"></a>
@@ -1438,6 +767,8 @@ No extra text, no watermarks, no unrelated logos.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text) · [出典の詳細](cases/docs-streetwear/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-streetwear&utm_term=ja-JP)**
 
 ---
 
@@ -1477,6 +808,8 @@ No watermarks, no logos.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image) · [出典の詳細](cases/docs-billboard/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-billboard&utm_term=ja-JP)**
 
 ---
 
@@ -1523,6 +856,8 @@ Include ONLY this card text (verbatim):
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [出典の詳細](cases/docs-holiday-card/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-holiday-card&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-flare-slogan-comparison"></a>
@@ -1548,6 +883,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原典**: [作者申告のモデル](https://x.com/DesignArena/status/2118124381155303918) · [出典の詳細](cases/community-flare-slogan-comparison/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-slogan-comparison&utm_term=ja-JP)**
 
 ---
 
@@ -1581,6 +918,8 @@ Transcribed from the instruction printed in the archived source comparison image
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-poster-edit/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-poster-edit&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-nyle-health-fair"></a>
@@ -1600,6 +939,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原典**: [作者申告のモデル](https://note.com/content_studio/n/ndd9ab49a6dea) · [出典の詳細](cases/nyle-health-fair/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-health-fair&utm_term=ja-JP)**
 
 ---
 
@@ -1621,6 +962,8 @@ Transcribed from the instruction printed in the archived source comparison image
 
 **原典**: [作者申告のモデル](https://note.com/content_studio/n/ndd9ab49a6dea) · [出典の詳細](cases/nyle-skincare-ad/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-skincare-ad&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-nyle-kanji-cover"></a>
@@ -1640,6 +983,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原典**: [作者申告のモデル](https://note.com/content_studio/n/ndd9ab49a6dea) · [出典の詳細](cases/nyle-kanji-cover/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-kanji-cover&utm_term=ja-JP)**
 
 ---
 
@@ -1703,6 +1048,8 @@ n=6，9:16竪版。
 
 **原典**: [作者申告のモデル](https://x.com/DeepBlueX0/status/2118602386172465509) · [出典の詳細](cases/social-tifa-lockhart-peeling-poster/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-tifa-lockhart-peeling-poster&utm_term=ja-JP)**
+
 ---
 
 <a id="category-infographics"></a>
@@ -1734,6 +1081,8 @@ I'd like to understand technically and visually the flow.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually) · [出典の詳細](cases/docs-coffee-diagram/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-coffee-diagram&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-cell-respiration"></a>
@@ -1764,6 +1113,8 @@ Avoid tiny text, extra decoration, or anything that makes the diagram hard to un
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [出典の詳細](cases/docs-cell-respiration/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-cell-respiration&utm_term=ja-JP)**
 
 ---
 
@@ -1806,6 +1157,8 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [出典の詳細](cases/docs-pitch-slide/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pitch-slide&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-revenue-chart-loop"></a>
@@ -1836,6 +1189,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/aiwarts/status/2119435411667980473) · [出典の詳細](cases/social-revenue-chart-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-revenue-chart-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-web-summary-interaction-loop"></a>
@@ -1864,6 +1219,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [aiwarts](https://x.com/aiwarts)
 
 **原典**: [作者申告のモデル](https://x.com/aiwarts/status/2119435411667980473) · [出典の詳細](cases/social-web-summary-interaction-loop/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-web-summary-interaction-loop&utm_term=ja-JP)**
 
 ---
 
@@ -1894,6 +1251,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/aiwarts/status/2119435411667980473) · [出典の詳細](cases/social-camera-exploded-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-camera-exploded-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-ink-history-timeline-loop"></a>
@@ -1923,6 +1282,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/aiwarts/status/2119435411667980473) · [出典の詳細](cases/social-ink-history-timeline-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-ink-history-timeline-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-treasure-map-route-loop"></a>
@@ -1951,6 +1312,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [aiwarts](https://x.com/aiwarts)
 
 **原典**: [作者申告のモデル](https://x.com/aiwarts/status/2119435411667980473) · [出典の詳細](cases/social-treasure-map-route-loop/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-treasure-map-route-loop&utm_term=ja-JP)**
 
 ---
 
@@ -1993,6 +1356,8 @@ Photorealistic contact shadows and fabric texture.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room) · [出典の詳細](cases/docs-room-chairs/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-room-chairs&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-fal"></a>
@@ -2026,6 +1391,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-fal/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-fal&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-sunburst-dust-detail"></a>
@@ -2045,6 +1412,8 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原典**: [作者申告のモデル](https://x.com/DesignArena/status/2118124393843106154) · [出典の詳細](cases/community-sunburst-dust-detail/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-sunburst-dust-detail&utm_term=ja-JP)**
 
 ---
 
@@ -2078,6 +1447,8 @@ A premium handcrafted layered paper-cut illustration of a football team celebrat
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity) · [出典の詳細](cases/docs-complexity/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-complexity&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-sailor"></a>
@@ -2107,6 +1478,8 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting) · [出典の詳細](cases/docs-sailor/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sailor&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-historical-crowd"></a>
@@ -2132,6 +1505,8 @@ Photorealistic, period-accurate clothing, staging, and environment.
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context) · [出典の詳細](cases/docs-historical-crowd/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-historical-crowd&utm_term=ja-JP)**
 
 ---
 
@@ -2161,6 +1536,8 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip) · [出典の詳細](cases/docs-pet-comic/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pet-comic&utm_term=ja-JP)**
 
 ---
 
@@ -2199,6 +1576,8 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing) · [出典の詳細](cases/docs-outfit/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-outfit&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-person-scene"></a>
@@ -2225,6 +1604,8 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene) · [出典の詳細](cases/docs-person-scene/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-person-scene&utm_term=ja-JP)**
 
 ---
 
@@ -2271,6 +1652,8 @@ Constraints:
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#establish-the-character) · [出典の詳細](cases/docs-character-start/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-start&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-character-story"></a>
@@ -2316,6 +1699,8 @@ Constraints:
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#continue-the-story) · [出典の詳細](cases/docs-character-story/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-character-story&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-picsart"></a>
@@ -2335,6 +1720,8 @@ Constraints:
 **作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-picsart/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=ja-JP)**
 
 ---
 
@@ -2386,6 +1773,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [出典の詳細](cases/launch-higgsfield/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-higgsfield&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-marco-reference-photo-board"></a>
@@ -2406,6 +1795,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **原典**: [作者申告のモデル](https://x.com/ai_artworkgen/status/2118235673727500369) · [出典の詳細](cases/community-marco-reference-photo-board/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-reference-photo-board&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-marco-sunburst-courtyard-comparison"></a>
@@ -2425,6 +1816,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 **作者**: [Marco (@ai_artworkgen)](https://x.com/ai_artworkgen)
 
 **原典**: [作者申告のモデル](https://x.com/ai_artworkgen/status/2118235678328893803) · [出典の詳細](cases/community-marco-sunburst-courtyard-comparison/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-sunburst-courtyard-comparison&utm_term=ja-JP)**
 
 ---
 
@@ -2455,6 +1848,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **原典**: [作者申告のモデル](https://x.com/ai_artworkgen/status/2118235684217692275) · [出典の詳細](cases/community-marco-mushroom-fashion-portrait/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-marco-mushroom-fashion-portrait&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-nyle-sunburst-style-gallery"></a>
@@ -2475,6 +1870,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 
 **原典**: [作者申告のモデル](https://note.com/content_studio/n/ndd9ab49a6dea) · [出典の詳細](cases/nyle-sunburst-style-gallery/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-sunburst-style-gallery&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-kokone-sunburst-calico"></a>
@@ -2494,6 +1891,8 @@ Use the edits in order, passing the previous output into the next edit. The offi
 **作者**: [ここね｜AI学習中](https://note.com/kokone_ailab/n/n58ea583f8d45)
 
 **原典**: [作者申告のモデル](https://note.com/kokone_ailab/n/n58ea583f8d45) · [出典の詳細](cases/community-kokone-sunburst-calico/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kokone-sunburst-calico&utm_term=ja-JP)**
 
 ---
 
@@ -2521,6 +1920,8 @@ a realistic photo of a woman holding a cup of tea inside her home
 
 **原典**: [作者申告のモデル](https://x.com/v3rt0x_/status/2118147596891901957) · [出典の詳細](cases/social-woman-holding-tea-mug/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-woman-holding-tea-mug&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-90s-film-snapshot-woman"></a>
@@ -2547,6 +1948,8 @@ A young woman with the same unchanged face and soft natural complexion, captured
 
 **原典**: [作者申告のモデル](https://x.com/AIwithSarah_/status/2118202866448077182) · [出典の詳細](cases/social-90s-film-snapshot-woman/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-90s-film-snapshot-woman&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-cyan-poetry-wet-portrait"></a>
@@ -2572,6 +1975,8 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 **作者**: [iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 **原典**: [作者申告のモデル](https://x.com/iamsofiaijaz/status/2118561513879507399) · [出典の詳細](cases/social-cyan-poetry-wet-portrait/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cyan-poetry-wet-portrait&utm_term=ja-JP)**
 
 ---
 
@@ -2630,6 +2035,8 @@ iOS 系統Emoji × 顏文字× 全新表情設計
 
 **原典**: [作者申告のモデル](https://x.com/DeepBlueX0/status/2118276577322750086) · [出典の詳細](cases/social-sleepy-star-eyed-emoji-fusion/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sleepy-star-eyed-emoji-fusion&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-moonlit-lake-hanfu-portrait"></a>
@@ -2678,6 +2085,8 @@ Add the exact watermark "AI art gallery | @sandmrk" at the bottom center. Montse
 
 **原典**: [作者申告のモデル](https://x.com/sandmrk/status/2118269430014599535) · [出典の詳細](cases/social-moonlit-lake-hanfu-portrait/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-moonlit-lake-hanfu-portrait&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-seated-hanfu-woman-lotus-pond"></a>
@@ -2703,6 +2112,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 **作者**: [fengnian_ai](https://x.com/fengnian_ai)
 
 **原典**: [作者申告のモデル](https://x.com/fengnian_ai/status/2118386725676552194) · [出典の詳細](cases/social-seated-hanfu-woman-lotus-pond/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-seated-hanfu-woman-lotus-pond&utm_term=ja-JP)**
 
 ---
 
@@ -2742,6 +2153,8 @@ An original cinematic semi-realistic fantasy portrait of a clearly adult East As
 
 **原典**: [作者申告のモデル](https://x.com/sonny_eacc/status/2118216234445791408) · [出典の詳細](cases/social-sunset-beach-look-back/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunset-beach-look-back&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-streetwear-cap-headphones-portrait"></a>
@@ -2775,6 +2188,8 @@ Original prompt wording is preserved.
 **作者**: [johnAGI168](https://x.com/johnAGI168)
 
 **原典**: [作者申告のモデル](https://x.com/johnAGI168/status/2118581030781382805) · [出典の詳細](cases/social-streetwear-cap-headphones-portrait/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-streetwear-cap-headphones-portrait&utm_term=ja-JP)**
 
 ---
 
@@ -2810,6 +2225,8 @@ Original prompt wording is preserved. The source offers two placeholder choices;
 
 **原典**: [作者申告のモデル](https://x.com/kabumira862571/status/2118220107487051883) · [出典の詳細](cases/social-kimono-door-peephole-portrait/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-kimono-door-peephole-portrait&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-keor-elevator-mirror-portrait"></a>
@@ -2837,6 +2254,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [tadasgedgaudas](https://x.com/tadasgedgaudas)
 
 **原典**: [作者申告のモデル](https://x.com/tadasgedgaudas/status/2118284291381875124) · [出典の詳細](cases/social-keor-elevator-mirror-portrait/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-keor-elevator-mirror-portrait&utm_term=ja-JP)**
 
 ---
 
@@ -2874,6 +2293,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [buusk4](https://x.com/buusk4)
 
 **原典**: [作者申告のモデル](https://x.com/buusk4/status/2118543259257712714) · [出典の詳細](cases/social-japanese-office-short-prompts/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-japanese-office-short-prompts&utm_term=ja-JP)**
 
 ---
 
@@ -2913,6 +2334,8 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [出典の詳細](cases/docs-vase-markup/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-vase-markup&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-spanish-edit"></a>
@@ -2937,6 +2360,8 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout) · [出典の詳細](cases/docs-spanish-edit/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-spanish-edit&utm_term=ja-JP)**
 
 ---
 
@@ -2972,6 +2397,8 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style) · [出典の詳細](cases/docs-pixel-style/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-pixel-style&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-dog-composite"></a>
@@ -3006,6 +2433,8 @@ Place the dog from the second image into the setting of image 1, right next to t
 **作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#combine-references) · [出典の詳細](cases/docs-dog-composite/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-dog-composite&utm_term=ja-JP)**
 
 ---
 
@@ -3044,6 +2473,8 @@ Do not add new elements or text.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image) · [出典の詳細](cases/docs-sketch-render/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-sketch-render&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-remove-flower"></a>
@@ -3078,6 +2509,8 @@ Remove the flower from man's hand. Do not change anything else.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object) · [出典の詳細](cases/docs-remove-flower/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-remove-flower&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-snow-edit"></a>
@@ -3103,6 +2536,8 @@ Make it look like a winter evening with snowfall.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition) · [出典の詳細](cases/docs-snow-edit/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-snow-edit&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-flare-day-dusk-edit"></a>
@@ -3122,6 +2557,8 @@ Make it look like a winter evening with snowfall.
 **作者**: [DesignArena (@DesignArena)](https://x.com/DesignArena)
 
 **原典**: [作者申告のモデル](https://x.com/DesignArena/status/2118124387639693686) · [出典の詳細](cases/community-flare-day-dusk-edit/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-flare-day-dusk-edit&utm_term=ja-JP)**
 
 ---
 
@@ -3148,6 +2585,8 @@ Transcribed from the instruction printed in the archived source comparison image
 **作者**: [石原 / Nyle Content Studio](https://note.com/content_studio/n/ndd9ab49a6dea)
 
 **原典**: [作者申告のモデル](https://note.com/content_studio/n/ndd9ab49a6dea) · [出典の詳細](cases/nyle-webinar-date-edit/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_nyle-webinar-date-edit&utm_term=ja-JP)**
 
 ---
 
@@ -3210,6 +2649,8 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 **原典**: [作者申告のモデル](https://x.com/Goodmanprotocol/status/2118562099987398753) · [出典の詳細](cases/social-portugal-folk-christmas-card/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-portugal-folk-christmas-card&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-circle-markup-santa-gift-edit"></a>
@@ -3237,6 +2678,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [IHayato](https://x.com/IHayato)
 
 **原典**: [作者申告のモデル](https://x.com/IHayato/status/2118151619212890291) · [出典の詳細](cases/social-circle-markup-santa-gift-edit/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-circle-markup-santa-gift-edit&utm_term=ja-JP)**
 
 ---
 
@@ -3270,6 +2713,8 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [出典の詳細](cases/docs-bakery-svg/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-svg&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-docs-market-ui"></a>
@@ -3299,6 +2744,8 @@ Place the UI mockup in an iPhone frame.
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview) · [出典の詳細](cases/docs-market-ui/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-market-ui&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-bear-svg-comparison"></a>
@@ -3319,6 +2766,8 @@ Place the UI mockup in an iPhone frame.
 **作者**: [pixexid (@pixexid)](https://x.com/pixexid)
 
 **原典**: [作者申告のモデル](https://x.com/pixexid/status/2118153375464505689) · [出典の詳細](cases/community-bear-svg-comparison/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-bear-svg-comparison&utm_term=ja-JP)**
 
 ---
 
@@ -3343,6 +2792,8 @@ Place the UI mockup in an iPhone frame.
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-code-lightning-svg/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-code-lightning-svg&utm_term=ja-JP)**
 
 ---
 
@@ -3372,6 +2823,8 @@ A little monkey in an olive-green hooded coat stands in a snowy pine forest at d
 
 **原典**: [公式ドキュメント](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif) · [出典の詳細](cases/docs-lantern-gif/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-lantern-gif&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-openart-down"></a>
@@ -3398,6 +2851,8 @@ Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympath
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-openart-down/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-down&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-openart-up"></a>
@@ -3423,6 +2878,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [OpenArt](https://openai.com/index/introducing-images-2-6/)
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-openart-up/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-openart-up&utm_term=ja-JP)**
 
 ---
 
@@ -3453,6 +2910,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-owl/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-owl&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-launch-town"></a>
@@ -3473,6 +2932,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原典**: [公式公開デモ](https://openai.com/index/introducing-images-2-6/) · [出典の詳細](cases/launch-town/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-malfoid"></a>
@@ -3489,6 +2950,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原典**: [作者申告のモデル](https://www.reddit.com/r/mAIfoid/comments/1xo9cd2/a_little_summer_malfoid_animation/) · [出典の詳細](cases/community-malfoid/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-malfoid&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-gifts"></a>
@@ -3504,6 +2967,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [u/Algoartist](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/)
 
 **原典**: [作者申告のモデル](https://www.reddit.com/r/ChatGPT/comments/1xo6c69/images_26_brings_gifts_d/) · [出典の詳細](cases/community-gifts/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-gifts&utm_term=ja-JP)**
 
 ---
 
@@ -3525,6 +2990,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [Archiefff (@baiji57165)](https://x.com/baiji57165)
 
 **原典**: [作者申告のモデル](https://x.com/baiji57165/status/2118176730079007145) · [出典の詳細](cases/community-boxing-tiger/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-boxing-tiger&utm_term=ja-JP)**
 
 ---
 
@@ -3554,6 +3021,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 **原典**: [作者申告のモデル](https://x.com/Dheepanratnam/status/2118138765487100027) · [出典の詳細](cases/community-hummingbird-variants/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-hummingbird-variants&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-rosebud-animation"></a>
@@ -3574,6 +3043,8 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 **作者**: [Michael Guo (@Michaelzsguo)](https://x.com/Michaelzsguo)
 
 **原典**: [作者申告のモデル](https://x.com/Michaelzsguo/status/2118134837357744435) · [出典の詳細](cases/community-rosebud-animation/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-rosebud-animation&utm_term=ja-JP)**
 
 ---
 
@@ -3602,6 +3073,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-jelly-bear-wobble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-jelly-bear-wobble&utm_term=ja-JP)**
 
 ---
 
@@ -3653,6 +3126,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-bunny-reaction-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bunny-reaction-set&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-cat-waving-hello"></a>
@@ -3680,6 +3155,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cat-waving-hello/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-waving-hello&utm_term=ja-JP)**
 
 ---
 
@@ -3709,6 +3186,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-shiba-head-tilt/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-shiba-head-tilt&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-cat-typing-laptop"></a>
@@ -3736,6 +3215,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cat-typing-laptop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-typing-laptop&utm_term=ja-JP)**
 
 ---
 
@@ -3765,6 +3246,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-frog-heart-bubble/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-frog-heart-bubble&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-penguin-facepalm"></a>
@@ -3792,6 +3275,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-penguin-facepalm/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-penguin-facepalm&utm_term=ja-JP)**
 
 ---
 
@@ -3821,6 +3306,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-basketball-shot-sticker/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-basketball-shot-sticker&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-cat-chef-fried-rice"></a>
@@ -3849,6 +3336,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cat-chef-fried-rice/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-chef-fried-rice&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-black-cat-punch"></a>
@@ -3876,6 +3365,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-black-cat-punch/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-black-cat-punch&utm_term=ja-JP)**
 
 ---
 
@@ -3916,6 +3407,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-office-cat-workday-set/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-office-cat-workday-set&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-roaring-duck"></a>
@@ -3943,6 +3436,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-roaring-duck/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-roaring-duck&utm_term=ja-JP)**
 
 ---
 
@@ -3972,6 +3467,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-flower-macro-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-flower-macro-flash&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-cat-brand-reel"></a>
@@ -3999,6 +3496,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cat-brand-reel/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-brand-reel&utm_term=ja-JP)**
 
 ---
 
@@ -4028,6 +3527,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-sneaker-colorway-flash/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sneaker-colorway-flash&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-four-seasons-tree"></a>
@@ -4055,6 +3556,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-four-seasons-tree/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=ja-JP)**
 
 ---
 
@@ -4084,6 +3587,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-magazine-panels-pop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-magazine-panels-pop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-window-day-to-night"></a>
@@ -4111,6 +3616,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-window-day-to-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=ja-JP)**
 
 ---
 
@@ -4140,6 +3647,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-steaming-coffee/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-steaming-coffee&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-rain-on-window"></a>
@@ -4167,6 +3676,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-rain-on-window/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-rain-on-window&utm_term=ja-JP)**
 
 ---
 
@@ -4196,6 +3707,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-goldfish-bowl/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-lighthouse-night"></a>
@@ -4223,6 +3736,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-lighthouse-night/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lighthouse-night&utm_term=ja-JP)**
 
 ---
 
@@ -4252,6 +3767,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cat-by-fireplace/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-by-fireplace&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-lantern-monkey-snow"></a>
@@ -4279,6 +3796,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-lantern-monkey-snow/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lantern-monkey-snow&utm_term=ja-JP)**
 
 ---
 
@@ -4308,6 +3827,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-sleepy-fox-rock/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sleepy-fox-rock&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-lofi-study-loop"></a>
@@ -4335,6 +3856,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-lofi-study-loop/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lofi-study-loop&utm_term=ja-JP)**
 
 ---
 
@@ -4364,6 +3887,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-cafe-cinemagraph/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cafe-cinemagraph&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-ink-wash-horse"></a>
@@ -4391,6 +3916,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-ink-wash-horse/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-ink-wash-horse&utm_term=ja-JP)**
 
 ---
 
@@ -4420,6 +3947,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-doodle-monster/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-campfire"></a>
@@ -4447,6 +3976,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-pixel-campfire/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=ja-JP)**
 
 ---
 
@@ -4476,6 +4007,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-bouncing-dots-loader/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bouncing-dots-loader&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-knight-run"></a>
@@ -4503,6 +4036,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-pixel-knight-run/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-knight-run&utm_term=ja-JP)**
 
 ---
 
@@ -4532,6 +4067,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-like-heart-burst/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-like-heart-burst&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-hourglass-flip"></a>
@@ -4559,6 +4096,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-hourglass-flip/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-hourglass-flip&utm_term=ja-JP)**
 
 ---
 
@@ -4588,6 +4127,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-arcade-vs-screen/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-arcade-vs-screen&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-pixel-slime-boss"></a>
@@ -4615,6 +4156,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 **作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-pixel-slime-boss/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-slime-boss&utm_term=ja-JP)**
 
 ---
 
@@ -4644,6 +4187,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-love-burst-skill/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-love-burst-skill&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-ailingqu-junkyard-robot-walk"></a>
@@ -4672,6 +4217,8 @@ Prompt body and shared loop instruction are combined using the source’s docume
 
 **原典**: [作者申告のモデル](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [出典の詳細](cases/ailingqu-junkyard-robot-walk/README.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-junkyard-robot-walk&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-ozan-robin-wink-hat"></a>
@@ -4697,6 +4244,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原典**: [作者申告のモデル](https://x.com/ozansihay/status/2118238946412953985) · [出典の詳細](cases/community-ozan-robin-wink-hat/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-ozan-robin-wink-hat&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-mirochill-anime-dialogue-prototype"></a>
@@ -4717,6 +4266,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原典**: [作者申告のモデル](https://x.com/mirochill/status/2118328887348191491) · [出典の詳細](cases/community-mirochill-anime-dialogue-prototype/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-anime-dialogue-prototype&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-mirochill-ram-altman-animation"></a>
@@ -4736,6 +4287,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [Mirochill (@mirochill)](https://x.com/mirochill)
 
 **原典**: [作者申告のモデル](https://x.com/mirochill/status/2118267971025944955) · [出典の詳細](cases/community-mirochill-ram-altman-animation/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-mirochill-ram-altman-animation&utm_term=ja-JP)**
 
 ---
 
@@ -4761,6 +4314,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-sailor-dance/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-sailor-dance&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-struggle-cat-programmer"></a>
@@ -4784,6 +4339,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-cat-programmer/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-cat-programmer&utm_term=ja-JP)**
 
 ---
 
@@ -4817,6 +4374,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [STRUGGLE_xlf](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4)
 
 **原典**: [作者申告のモデル](https://tianqi.csdn.net/6aebfbae40858c2d8818a1fd.html#devmenu4) · [出典の詳細](cases/community-struggle-desk-animation/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-desk-animation&utm_term=ja-JP)**
 
 ---
 
@@ -4854,6 +4413,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 
 **原典**: [作者申告のモデル](https://note.com/akikito/n/ne6232185c3c4) · [出典の詳細](cases/community-zunbeho-parody-ad-gifs/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-zunbeho-parody-ad-gifs&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-temae-pixel-love-swimming-sheet"></a>
@@ -4873,6 +4434,8 @@ Kedimiz Robin’in GIF'ini oluştur. Kameraya baksın göz tek gözünü kırps�
 **作者**: [❐てまえ❐ (temae)](https://note.com/temae/n/n5b9b365d8c99)
 
 **原典**: [作者申告のモデル](https://note.com/temae/n/n5b9b365d8c99) · [出典の詳細](cases/community-temae-pixel-love-swimming-sheet/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-temae-pixel-love-swimming-sheet&utm_term=ja-JP)**
 
 ---
 
@@ -4925,6 +4488,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原典**: [作者申告のモデル](https://x.com/Mayz1169/status/2118245929505669260) · [出典の詳細](cases/community-kiki-tanjiro-pixel-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-tanjiro-pixel-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-community-kiki-heartbeat-dance-comparison"></a>
@@ -4944,6 +4509,8 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原典**: [作者申告のモデル](https://x.com/Mayz1169/status/2118241781074862569) · [出典の詳細](cases/community-kiki-heartbeat-dance-comparison/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-heartbeat-dance-comparison&utm_term=ja-JP)**
 
 ---
 
@@ -4973,6 +4540,8 @@ Deliver an actual multi-frame GIF file I can download.
 **作者**: [Kiki / Mayz (@Mayz1169)](https://x.com/Mayz1169)
 
 **原典**: [作者申告のモデル](https://x.com/Mayz1169/status/2118355858208010412) · [出典の詳細](cases/community-kiki-malfoid-mood-stickers/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-kiki-malfoid-mood-stickers&utm_term=ja-JP)**
 
 ---
 
@@ -5010,6 +4579,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原典**: [作者申告のモデル](https://x.com/Gorden_Sun/status/2118166046175908016) · [出典の詳細](cases/social-blue-hair-chibi-eating-rice-gif/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-blue-hair-chibi-eating-rice-gif&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-chibi-cheongsam-girl-gif"></a>
@@ -5046,6 +4617,8 @@ Deliver an actual multi-frame GIF file I can download.
 
 **原典**: [作者申告のモデル](https://x.com/shinshin86/status/2118225428976705908) · [出典の詳細](cases/social-chibi-cheongsam-girl-gif/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-chibi-cheongsam-girl-gif&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-dancing-frog-top-hat"></a>
@@ -5072,6 +4645,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [princess414141](https://x.com/princess414141)
 
 **原典**: [作者申告のモデル](https://x.com/princess414141/status/2118144125354877152) · [出典の詳細](cases/social-dancing-frog-top-hat/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dancing-frog-top-hat&utm_term=ja-JP)**
 
 ---
 
@@ -5100,6 +4675,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 **原典**: [作者申告のモデル](https://x.com/rem_rev/status/2118252486360498485) · [出典の詳細](cases/social-heisei-flip-phone-decomail-gif/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-heisei-flip-phone-decomail-gif&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-diligent-bee-daily-checkin-gif"></a>
@@ -5126,6 +4703,8 @@ dancing frog with a top hat on, with ego be gone! written at the top
 **作者**: [MrGafish](https://x.com/MrGafish)
 
 **原典**: [作者申告のモデル](https://x.com/MrGafish/status/2118217749680025722) · [出典の詳細](cases/social-diligent-bee-daily-checkin-gif/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-diligent-bee-daily-checkin-gif&utm_term=ja-JP)**
 
 ---
 
@@ -5156,6 +4735,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/koe_ai414/status/2118153765094351279) · [出典の詳細](cases/social-snowy-yard-wood-chopping/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-snowy-yard-wood-chopping&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-pixel-purple-lightning-bolts"></a>
@@ -5184,6 +4765,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **原典**: [作者申告のモデル](https://x.com/YaReYaRu30Life/status/2118167174053597233) · [出典の詳細](cases/social-pixel-purple-lightning-bolts/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-purple-lightning-bolts&utm_term=ja-JP)**
 
 ---
 
@@ -5214,6 +4797,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/sousoccer6/status/2118210705585537226) · [出典の詳細](cases/social-robot-pouring-coffee/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-robot-pouring-coffee&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-red-character-music-video-gif"></a>
@@ -5242,6 +4827,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [Ayu_AI_0912](https://x.com/Ayu_AI_0912)
 
 **原典**: [作者申告のモデル](https://x.com/Ayu_AI_0912/status/2118138025024839939) · [出典の詳細](cases/social-red-character-music-video-gif/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-red-character-music-video-gif&utm_term=ja-JP)**
 
 ---
 
@@ -5272,6 +4859,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · [出典の詳細](cases/social-sunglasses-cat-dance/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sunglasses-cat-dance&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-pelican-riding-bicycle"></a>
@@ -5300,6 +4889,8 @@ Original prompt wording is preserved.
 **作者**: [SSHCodes](https://x.com/SSHCodes)
 
 **原典**: [作者申告のモデル](https://x.com/SSHCodes/status/2118127375481504100) · [出典の詳細](cases/social-pelican-riding-bicycle/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pelican-riding-bicycle&utm_term=ja-JP)**
 
 ---
 
@@ -5330,6 +4921,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/thinkszyg/status/2118166234495947044) · [出典の詳細](cases/social-paper-boat-water-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-paper-boat-water-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-osaka-castle-construction"></a>
@@ -5358,6 +4951,8 @@ Original prompt wording is preserved.
 **作者**: [jammaru_lab](https://x.com/jammaru_lab)
 
 **原典**: [作者申告のモデル](https://x.com/jammaru_lab/status/2118153279821787623) · [出典の詳細](cases/social-osaka-castle-construction/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-osaka-castle-construction&utm_term=ja-JP)**
 
 ---
 
@@ -5388,6 +4983,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/okan_aitool/status/2118201578406772887) · [出典の詳細](cases/social-character-wave-laugh/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-character-wave-laugh&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-pixel-hero-glowing-sword"></a>
@@ -5417,6 +5014,8 @@ Original prompt wording is preserved.
 **作者**: [YaReYaRu30Life](https://x.com/YaReYaRu30Life)
 
 **原典**: [作者申告のモデル](https://x.com/YaReYaRu30Life/status/2118166505603153922) · [出典の詳細](cases/social-pixel-hero-glowing-sword/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-pixel-hero-glowing-sword&utm_term=ja-JP)**
 
 ---
 
@@ -5482,6 +5081,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/rei_aitech/status/2118245102409908571) · [出典の詳細](cases/social-falling-apple-frame-comparison/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-falling-apple-frame-comparison&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-line-dog-heart-loop"></a>
@@ -5511,6 +5112,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/CalosLaw/status/2118199125707547102) · [出典の詳細](cases/social-line-dog-heart-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-line-dog-heart-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-standing-backflip-complexity"></a>
@@ -5539,6 +5142,8 @@ Original prompt wording is preserved. Only the task phrase is public; no full AP
 **作者**: [gabrielchua](https://x.com/gabrielchua)
 
 **原典**: [作者申告のモデル](https://x.com/gabrielchua/status/2118135343354720648) · [出典の詳細](cases/social-standing-backflip-complexity/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-standing-backflip-complexity&utm_term=ja-JP)**
 
 ---
 
@@ -5580,6 +5185,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/MiraMusic_AI/status/2118513591490163168) · [出典の詳細](cases/social-anime-floating-orb-control/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-anime-floating-orb-control&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-golden-gate-gouache-loop"></a>
@@ -5608,6 +5215,8 @@ Original prompt wording is preserved.
 **作者**: [devteamdrew](https://x.com/devteamdrew)
 
 **原典**: [作者申告のモデル](https://x.com/devteamdrew/status/2118308538564989025) · [出典の詳細](cases/social-golden-gate-gouache-loop/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-golden-gate-gouache-loop&utm_term=ja-JP)**
 
 ---
 
@@ -5638,6 +5247,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/devteamdrew/status/2118308538564989025) · [出典の詳細](cases/social-colosseum-gouache-loop/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-colosseum-gouache-loop&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-fuji-gouache-loop"></a>
@@ -5666,6 +5277,8 @@ Original prompt wording is preserved.
 **作者**: [devteamdrew](https://x.com/devteamdrew)
 
 **原典**: [作者申告のモデル](https://x.com/devteamdrew/status/2118308538564989025) · [出典の詳細](cases/social-fuji-gouache-loop/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-fuji-gouache-loop&utm_term=ja-JP)**
 
 ---
 
@@ -5696,6 +5309,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/xikhar/status/2118407355859878352) · [出典の詳細](cases/social-dwarf-360-turntable/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-dwarf-360-turntable&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-sword-360-turntable"></a>
@@ -5724,6 +5339,8 @@ Original prompt wording is preserved.
 **作者**: [xikhar](https://x.com/xikhar)
 
 **原典**: [作者申告のモデル](https://x.com/xikhar/status/2118407355859878352) · [出典の詳細](cases/social-sword-360-turntable/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-sword-360-turntable&utm_term=ja-JP)**
 
 ---
 
@@ -5754,6 +5371,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/xikhar/status/2118407355859878352) · [出典の詳細](cases/social-motorbike-360-turntable/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-motorbike-360-turntable&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-cat-spinning-gif"></a>
@@ -5783,6 +5402,8 @@ Original prompt wording is preserved.
 
 **原典**: [作者申告のモデル](https://x.com/xikhar/status/2118407355859878352) · [出典の詳細](cases/social-cat-spinning-gif/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-cat-spinning-gif&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-gray-blender-hallway-draft"></a>
@@ -5811,6 +5432,8 @@ Original prompt wording is preserved. Only the GPT Image 2.6 gray animation draf
 **作者**: [cocktailpeanut](https://x.com/cocktailpeanut)
 
 **原典**: [作者申告のモデル](https://x.com/cocktailpeanut/status/2118408795026043260) · [出典の詳細](cases/social-gray-blender-hallway-draft/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-gray-blender-hallway-draft&utm_term=ja-JP)**
 
 ---
 
@@ -5913,6 +5536,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 **原典**: [作者申告のモデル](https://x.com/nima2qisi2/status/2118150226330734787) · [出典の詳細](cases/social-summer-garden-water-gun/README.md)
 
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-summer-garden-water-gun&utm_term=ja-JP)**
+
 ---
 
 <a id="source-case-social-basketball-storyboard-to-gif"></a>
@@ -5950,6 +5575,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [crayon1267](https://x.com/crayon1267)
 
 **原典**: [作者申告のモデル](https://x.com/crayon1267/status/2118186300339892472) · [出典の詳細](cases/social-basketball-storyboard-to-gif/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-basketball-storyboard-to-gif&utm_term=ja-JP)**
 
 ---
 
@@ -5990,6 +5617,8 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **作者**: [karanwithai](https://x.com/karanwithai)
 
 **原典**: [作者申告のモデル](https://x.com/karanwithai/status/2118156092865994837) · [出典の詳細](cases/social-orange-office-cat-expression-grid/README.md)
+
+**[👉 今すぐ試す →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-orange-office-cat-expression-grid&utm_term=ja-JP)**
 
 ---
 

@@ -6,7 +6,7 @@ import html
 import json
 import re
 from pathlib import Path
-from i18n import LANGUAGES, translated_source
+from i18n import LANGUAGES, translated_source, ui
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -80,6 +80,13 @@ def md_url(url: str) -> str:
 
 def md_link(label: str, url: str) -> str:
     return f"[{md_text(label)}]({md_url(url)})"
+
+
+def render_gallery_cta(config: dict, language: str, case_id: str) -> str:
+    """案例底部统一打开提示词图库，并记录案例与语言归因。"""
+    title = '👉 ' + ui('Try now →', '立即尝试 →', language)
+    url = tracked_url(config['brand']['gallery_url'], f'case_gallery_{case_id}', language, config)
+    return '**' + md_link(title, url) + '**'
 
 
 def code_block(value: str) -> str:

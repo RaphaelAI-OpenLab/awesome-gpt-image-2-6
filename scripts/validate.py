@@ -480,8 +480,9 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
     errors.extend(schema_errors([case_template], case_schema, "source-case-template", case_schema))
     if errors:
         return errors, warnings
-    from browse import validate_browse
+    from browse import validate_browse, validate_web_gallery
     validate_browse(cases, errors)
+    validate_web_gallery(config, errors)
     validate_source_cases(config, cases, prompts, errors)
     published_case_ids = {item['id'] for item in cases if item['status'] == 'published'}
     unknown_featured = set(config['presentation']['featured_case_ids']) - published_case_ids
@@ -492,7 +493,7 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         if not is_supported_source(item):
             errors.append(f"{item['id']}: 本仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 来源")
     validate_prompts(config, prompts, errors, warnings, release=release)
-    for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/website/raphael-homepage-20261110.png", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
+    for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/website/gpt-image-2-6-prompts-20261113.jpg", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)
     if release:
         if not published(prompts):
